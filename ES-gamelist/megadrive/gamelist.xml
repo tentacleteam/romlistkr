@@ -1,5 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<!--
+* 제목 : 레트로게임 롬 목록 한글화 프로젝트
+* 지원프론트엔드 : RetroPie, Recalbox, Attract-Mode
+* 지원에뮬 : Arcade(MAME, AdvMAME, FBA), NES, SNES, Mega Drive, GBA, PCA, SMS, Sega 32X
+* 제작자 : 텐타클 팀
+* 만든날 : Apr 15, 2017
+* 카페 : http://cafe.naver.com/raspigamer
+* 레트로게임 롬 목록 한글화 자료는 오픈소스입니다. MIT 라이센스를 따르고 있으므로 라이센스와 출처(http://cafe.naver.com/raspigamer) 표시만 지켜주시면 자유롭게 사용하실 수 있습니다.
+-->
 	<game>
 		<path>./007 Shitou - The Duel (Japan).zip</path>
 		<name>007 사투 - 결투 (일본판)</name>
@@ -258,11 +267,11 @@
 		<releasedate>19910617T000000</releasedate>
 	</game>
 	<game>
-		<path>./Adventures of Batman &amp; Robin, The (Europe).zip</path>
+		<path>./Adventures of Batman & Robin, The (Europe).zip</path>
 		<name>배트맨과 로빈의 모험 (유럽판)</name>
-		<image>./snap/Adventures of Batman &amp; Robin, The (Europe).png</image>
-		<video>./snap/Adventures of Batman &amp; Robin, The (Europe).mp4</video>
-		<marquee>./marquee/Adventures of Batman &amp; Robin, The (Europe).png</marquee>
+		<image>./snap/Adventures of Batman & Robin, The (Europe).png</image>
+		<video>./snap/Adventures of Batman & Robin, The (Europe).mp4</video>
+		<marquee>./marquee/Adventures of Batman & Robin, The (Europe).png</marquee>
 		<developer>클럭웍스</developer>
 		<publisher>클럭웍스</publisher>
 		<genre>격투</genre>
@@ -270,11 +279,11 @@
 		<releasedate>19950000T000000</releasedate>
 	</game>
 	<game>
-		<path>./Adventures of Batman &amp; Robin, The (USA).zip</path>
+		<path>./Adventures of Batman & Robin, The (USA).zip</path>
 		<name>배트맨과 로빈의 모험</name>
-		<image>./snap/Adventures of Batman &amp; Robin, The (USA).png</image>
-		<video>./snap/Adventures of Batman &amp; Robin, The (USA).mp4</video>
-		<marquee>./marquee/Adventures of Batman &amp; Robin, The (USA).png</marquee>
+		<image>./snap/Adventures of Batman & Robin, The (USA).png</image>
+		<video>./snap/Adventures of Batman & Robin, The (USA).mp4</video>
+		<marquee>./marquee/Adventures of Batman & Robin, The (USA).png</marquee>
 		<developer>클럭웍스</developer>
 		<publisher>클럭웍스</publisher>
 		<genre>격투</genre>
@@ -1429,11 +1438,11 @@ I-Spac</publisher>
 		<releasedate>19940000T000000</releasedate>
 	</game>
 	<game>
-		<path>./Barney's Hide &amp; Seek Game (USA).zip</path>
+		<path>./Barney's Hide & Seek Game (USA).zip</path>
 		<name>바니의 숨바꼭질</name>
-		<image>./snap/Barney's Hide &amp; Seek Game (USA).png</image>
-		<video>./snap/Barney's Hide &amp; Seek Game (USA).mp4</video>
-		<marquee>./marquee/Barney's Hide &amp; Seek Game (USA).png</marquee>
+		<image>./snap/Barney's Hide & Seek Game (USA).png</image>
+		<video>./snap/Barney's Hide & Seek Game (USA).mp4</video>
+		<marquee>./marquee/Barney's Hide & Seek Game (USA).png</marquee>
 		<developer>리얼타임 어소시에이트</developer>
 		<publisher>리얼타임 어소시에이트</publisher>
 		<genre>플랫폼</genre>
@@ -4501,11 +4510,11 @@ I-Spac</publisher>
 		<releasedate>19940601T000000</releasedate>
 	</game>
 	<game>
-		<path>./Dungeons &amp; Dragons - Warriors of the Eternal Sun (USA, Europe).zip</path>
+		<path>./Dungeons & Dragons - Warriors of the Eternal Sun (USA, Europe).zip</path>
 		<name>던전 앤 드래곤즈 - 워리어즈 오브 이터널 선 (미국,유럽판)</name>
-		<image>./snap/Dungeons &amp; Dragons - Warriors of the Eternal Sun (USA, Europe).png</image>
-		<video>./snap/Dungeons &amp; Dragons - Warriors of the Eternal Sun (USA, Europe).mp4</video>
-		<marquee>./marquee/Dungeons &amp; Dragons - Warriors of the Eternal Sun (USA, Europe).png</marquee>
+		<image>./snap/Dungeons & Dragons - Warriors of the Eternal Sun (USA, Europe).png</image>
+		<video>./snap/Dungeons & Dragons - Warriors of the Eternal Sun (USA, Europe).mp4</video>
+		<marquee>./marquee/Dungeons & Dragons - Warriors of the Eternal Sun (USA, Europe).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>롤플레잉</genre>
@@ -6030,11 +6039,11 @@ I-Spac</publisher>
 		<releasedate>19940000T000000</releasedate>
 	</game>
 	<game>
-		<path>./Funny World &amp; Balloon Boy (USA) (Unl).zip</path>
+		<path>./Funny World & Balloon Boy (USA) (Unl).zip</path>
 		<name>퍼니월드 앤 벌룬보이 (해적판)</name>
-		<image>./snap/Funny World &amp; Balloon Boy (USA) (Unl).png</image>
-		<video>./snap/Funny World &amp; Balloon Boy (USA) (Unl).mp4</video>
-		<marquee>./marquee/Funny World &amp; Balloon Boy (USA) (Unl).png</marquee>
+		<image>./snap/Funny World & Balloon Boy (USA) (Unl).png</image>
+		<video>./snap/Funny World & Balloon Boy (USA) (Unl).mp4</video>
+		<marquee>./marquee/Funny World & Balloon Boy (USA) (Unl).png</marquee>
 		<developer>AV 아티산</developer>
 		<publisher>AV 아티산</publisher>
 		<genre>합본</genre>
@@ -6674,11 +6683,11 @@ I-Spac</publisher>
 		<releasedate>19941216T000000</releasedate>
 	</game>
 	<game>
-		<path>./Great Circus Mystery Starring Mickey &amp; Minnie, The (USA).zip</path>
+		<path>./Great Circus Mystery Starring Mickey & Minnie, The (USA).zip</path>
 		<name>미키 &amp; 미니의 그레이트 서커스 미스터리</name>
-		<image>./snap/Great Circus Mystery Starring Mickey &amp; Minnie, The (USA).png</image>
-		<video>./snap/Great Circus Mystery Starring Mickey &amp; Minnie, The (USA).mp4</video>
-		<marquee>./marquee/Great Circus Mystery Starring Mickey &amp; Minnie, The (USA).png</marquee>
+		<image>./snap/Great Circus Mystery Starring Mickey & Minnie, The (USA).png</image>
+		<video>./snap/Great Circus Mystery Starring Mickey & Minnie, The (USA).mp4</video>
+		<marquee>./marquee/Great Circus Mystery Starring Mickey & Minnie, The (USA).png</marquee>
 		<developer>캡콤</developer>
 		<publisher>캡콤</publisher>
 		<genre>액션</genre>
@@ -7487,11 +7496,11 @@ I-Spac</publisher>
 		<releasedate>19890000T000000</releasedate>
 	</game>
 	<game>
-		<path>./Itchy &amp; Scratchy Game, The (USA) (Proto).zip</path>
+		<path>./Itchy & Scratchy Game, The (USA) (Proto).zip</path>
 		<name>이치 앤 스크래치 게임 (시험판)</name>
-		<image>./snap/Itchy &amp; Scratchy Game, The (USA) (Proto).png</image>
-		<video>./snap/Itchy &amp; Scratchy Game, The (USA) (Proto).mp4</video>
-		<marquee>./marquee/Itchy &amp; Scratchy Game, The (USA) (Proto).png</marquee>
+		<image>./snap/Itchy & Scratchy Game, The (USA) (Proto).png</image>
+		<video>./snap/Itchy & Scratchy Game, The (USA) (Proto).mp4</video>
+		<marquee>./marquee/Itchy & Scratchy Game, The (USA) (Proto).png</marquee>
 		<developer>비츠 스튜디오</developer>
 		<publisher>비츠 스튜디오</publisher>
 		<genre>플랫폼</genre>
@@ -7840,11 +7849,11 @@ I-Spac</publisher>
 		<genre>보드게임</genre>
 	</game>
 	<game>
-		<path>./Joe &amp; Mac (USA).zip</path>
+		<path>./Joe & Mac (USA).zip</path>
 		<name>조 &amp; 맥</name>
-		<image>./snap/Joe &amp; Mac (USA).png</image>
-		<video>./snap/Joe &amp; Mac (USA).mp4</video>
-		<marquee>./marquee/Joe &amp; Mac (USA).png</marquee>
+		<image>./snap/Joe & Mac (USA).png</image>
+		<video>./snap/Joe & Mac (USA).mp4</video>
+		<marquee>./marquee/Joe & Mac (USA).png</marquee>
 		<developer>데이터 이스트</developer>
 		<publisher>데이터 이스트</publisher>
 		<genre>플랫폼</genre>
@@ -7984,11 +7993,11 @@ I-Spac</publisher>
 		<releasedate>19920000T000000</releasedate>
 	</game>
 	<game>
-		<path>./Joshua &amp; the Battle of Jericho (USA) (Unl).zip</path>
+		<path>./Joshua & the Battle of Jericho (USA) (Unl).zip</path>
 		<name>여호수아 &amp; 여리고 성벽 전투 (해적판)</name>
-		<image>./snap/Joshua &amp; the Battle of Jericho (USA) (Unl).png</image>
-		<video>./snap/Joshua &amp; the Battle of Jericho (USA) (Unl).mp4</video>
-		<marquee>./marquee/Joshua &amp; the Battle of Jericho (USA) (Unl).png</marquee>
+		<image>./snap/Joshua & the Battle of Jericho (USA) (Unl).png</image>
+		<video>./snap/Joshua & the Battle of Jericho (USA) (Unl).mp4</video>
+		<marquee>./marquee/Joshua & the Battle of Jericho (USA) (Unl).png</marquee>
 		<developer>위지덤 트리</developer>
 		<publisher>위지덤 트리</publisher>
 		<genre>퍼즐</genre>
@@ -9137,11 +9146,11 @@ I-Spac</publisher>
 		<releasedate>19920000T000000</releasedate>
 	</game>
 	<game>
-		<path>./Lufia &amp; the Fortress of Doom (USA) (Proto).zip</path>
+		<path>./Lufia & the Fortress of Doom (USA) (Proto).zip</path>
 		<name>루피아와 운명의 요새 (시험판)</name>
-		<image>./snap/Lufia &amp; the Fortress of Doom (USA) (Proto).png</image>
-		<video>./snap/Lufia &amp; the Fortress of Doom (USA) (Proto).mp4</video>
-		<marquee>./marquee/Lufia &amp; the Fortress of Doom (USA) (Proto).png</marquee>
+		<image>./snap/Lufia & the Fortress of Doom (USA) (Proto).png</image>
+		<video>./snap/Lufia & the Fortress of Doom (USA) (Proto).mp4</video>
+		<marquee>./marquee/Lufia & the Fortress of Doom (USA) (Proto).png</marquee>
 	</game>
 	<game>
 		<path>./M-1 Abrams Battle Tank (USA, Europe).zip</path>
@@ -9936,11 +9945,11 @@ I-Spac</publisher>
 		<releasedate>19900824T000000</releasedate>
 	</game>
 	<game>
-		<path>./Mick &amp; Mack as the Global Gladiators (USA) (Beta).zip</path>
+		<path>./Mick & Mack as the Global Gladiators (USA) (Beta).zip</path>
 		<name>믹 앤 맥 글로벌 글라디에이터 (베타)</name>
-		<image>./snap/Mick &amp; Mack as the Global Gladiators (USA) (Beta).png</image>
-		<video>./snap/Mick &amp; Mack as the Global Gladiators (USA) (Beta).mp4</video>
-		<marquee>./marquee/Mick &amp; Mack as the Global Gladiators (USA) (Beta).png</marquee>
+		<image>./snap/Mick & Mack as the Global Gladiators (USA) (Beta).png</image>
+		<video>./snap/Mick & Mack as the Global Gladiators (USA) (Beta).mp4</video>
+		<marquee>./marquee/Mick & Mack as the Global Gladiators (USA) (Beta).png</marquee>
 		<developer>버진 인터랙티브</developer>
 		<publisher>버진 인터랙티브</publisher>
 		<genre>액션</genre>
@@ -9948,11 +9957,11 @@ I-Spac</publisher>
 		<releasedate>19921101T000000</releasedate>
 	</game>
 	<game>
-		<path>./Mick &amp; Mack as the Global Gladiators (USA).zip</path>
+		<path>./Mick & Mack as the Global Gladiators (USA).zip</path>
 		<name>믹 앤 맥 글로벌 글라디에이터</name>
-		<image>./snap/Mick &amp; Mack as the Global Gladiators (USA).png</image>
-		<video>./snap/Mick &amp; Mack as the Global Gladiators (USA).mp4</video>
-		<marquee>./marquee/Mick &amp; Mack as the Global Gladiators (USA).png</marquee>
+		<image>./snap/Mick & Mack as the Global Gladiators (USA).png</image>
+		<video>./snap/Mick & Mack as the Global Gladiators (USA).mp4</video>
+		<marquee>./marquee/Mick & Mack as the Global Gladiators (USA).png</marquee>
 		<developer>버진 인터랙티브</developer>
 		<publisher>버진 인터랙티브</publisher>
 		<genre>액션</genre>
@@ -13007,22 +13016,22 @@ Realm</publisher>
 		<releasedate>19920000T000000</releasedate>
 	</game>
 	<game>
-		<path>./Puzzle &amp; Action - Ichidanto-R (Japan).zip</path>
+		<path>./Puzzle & Action - Ichidanto-R (Japan).zip</path>
 		<name>퍼즐 앤 액션 - 이치탄토R (일본판)</name>
-		<image>./snap/Puzzle &amp; Action - Ichidanto-R (Japan).png</image>
-		<video>./snap/Puzzle &amp; Action - Ichidanto-R (Japan).mp4</video>
-		<marquee>./marquee/Puzzle &amp; Action - Ichidanto-R (Japan).png</marquee>
+		<image>./snap/Puzzle & Action - Ichidanto-R (Japan).png</image>
+		<video>./snap/Puzzle & Action - Ichidanto-R (Japan).mp4</video>
+		<marquee>./marquee/Puzzle & Action - Ichidanto-R (Japan).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>퍼즐</genre>
 		<releasedate>19940401T000000</releasedate>
 	</game>
 	<game>
-		<path>./Puzzle &amp; Action - Tanto-R (Japan).zip</path>
+		<path>./Puzzle & Action - Tanto-R (Japan).zip</path>
 		<name>퍼즐 앤 액션 - 탄토R (일본판)</name>
-		<image>./snap/Puzzle &amp; Action - Tanto-R (Japan).png</image>
-		<video>./snap/Puzzle &amp; Action - Tanto-R (Japan).mp4</video>
-		<marquee>./marquee/Puzzle &amp; Action - Tanto-R (Japan).png</marquee>
+		<image>./snap/Puzzle & Action - Tanto-R (Japan).png</image>
+		<video>./snap/Puzzle & Action - Tanto-R (Japan).mp4</video>
+		<marquee>./marquee/Puzzle & Action - Tanto-R (Japan).png</marquee>
 		<developer>세가 엔터프라이즈</developer>
 		<publisher>세가 엔터프라이즈</publisher>
 		<genre>퍼즐</genre>
@@ -13365,11 +13374,11 @@ Realm</publisher>
 		<releasedate>19940000T000000</releasedate>
 	</game>
 	<game>
-		<path>./Ren &amp; Stimpy Show Presents, The - Stimpy's Invention (Europe).zip</path>
+		<path>./Ren & Stimpy Show Presents, The - Stimpy's Invention (Europe).zip</path>
 		<name>렌과 스팀피 - 스팀피의 인벤션 (유럽판)</name>
-		<image>./snap/Ren &amp; Stimpy Show Presents, The - Stimpy's Invention (Europe).png</image>
-		<video>./snap/Ren &amp; Stimpy Show Presents, The - Stimpy's Invention (Europe).mp4</video>
-		<marquee>./marquee/Ren &amp; Stimpy Show Presents, The - Stimpy's Invention (Europe).png</marquee>
+		<image>./snap/Ren & Stimpy Show Presents, The - Stimpy's Invention (Europe).png</image>
+		<video>./snap/Ren & Stimpy Show Presents, The - Stimpy's Invention (Europe).mp4</video>
+		<marquee>./marquee/Ren & Stimpy Show Presents, The - Stimpy's Invention (Europe).png</marquee>
 		<developer>블루스카이 소프트웨어</developer>
 		<publisher>블루스카이 소프트웨어</publisher>
 		<genre>플랫폼</genre>
@@ -13377,11 +13386,11 @@ Realm</publisher>
 		<releasedate>19930000T000000</releasedate>
 	</game>
 	<game>
-		<path>./Ren &amp; Stimpy Show Presents, The - Stimpy's Invention (USA) (Beta).zip</path>
+		<path>./Ren & Stimpy Show Presents, The - Stimpy's Invention (USA) (Beta).zip</path>
 		<name>렌과 스팀피 - 스팀피의 인벤션 (베타)</name>
-		<image>./snap/Ren &amp; Stimpy Show Presents, The - Stimpy's Invention (USA) (Beta).png</image>
-		<video>./snap/Ren &amp; Stimpy Show Presents, The - Stimpy's Invention (USA) (Beta).mp4</video>
-		<marquee>./marquee/Ren &amp; Stimpy Show Presents, The - Stimpy's Invention (USA) (Beta).png</marquee>
+		<image>./snap/Ren & Stimpy Show Presents, The - Stimpy's Invention (USA) (Beta).png</image>
+		<video>./snap/Ren & Stimpy Show Presents, The - Stimpy's Invention (USA) (Beta).mp4</video>
+		<marquee>./marquee/Ren & Stimpy Show Presents, The - Stimpy's Invention (USA) (Beta).png</marquee>
 		<developer>블루스카이 소프트웨어</developer>
 		<publisher>블루스카이 소프트웨어</publisher>
 		<genre>플랫폼</genre>
@@ -13389,11 +13398,11 @@ Realm</publisher>
 		<releasedate>19930000T000000</releasedate>
 	</game>
 	<game>
-		<path>./Ren &amp; Stimpy Show Presents, The - Stimpy's Invention (USA).zip</path>
+		<path>./Ren & Stimpy Show Presents, The - Stimpy's Invention (USA).zip</path>
 		<name>렌과 스팀피 - 스팀피의 인벤션</name>
-		<image>./snap/Ren &amp; Stimpy Show Presents, The - Stimpy's Invention (USA).png</image>
-		<video>./snap/Ren &amp; Stimpy Show Presents, The - Stimpy's Invention (USA).mp4</video>
-		<marquee>./marquee/Ren &amp; Stimpy Show Presents, The - Stimpy's Invention (USA).png</marquee>
+		<image>./snap/Ren & Stimpy Show Presents, The - Stimpy's Invention (USA).png</image>
+		<video>./snap/Ren & Stimpy Show Presents, The - Stimpy's Invention (USA).mp4</video>
+		<marquee>./marquee/Ren & Stimpy Show Presents, The - Stimpy's Invention (USA).png</marquee>
 		<developer>블루스카이 소프트웨어</developer>
 		<publisher>블루스카이 소프트웨어</publisher>
 		<genre>플랫폼</genre>
@@ -15004,11 +15013,11 @@ Realm</publisher>
 		<releasedate>19930000T000000</releasedate>
 	</game>
 	<game>
-		<path>./Snow Bros. - Nick &amp; Tom (Japan).zip</path>
+		<path>./Snow Bros. - Nick & Tom (Japan).zip</path>
 		<name>스노우 브라더스 - 닉 &amp; 톰 (일본판)</name>
-		<image>./snap/Snow Bros. - Nick &amp; Tom (Japan).png</image>
-		<video>./snap/Snow Bros. - Nick &amp; Tom (Japan).mp4</video>
-		<marquee>./marquee/Snow Bros. - Nick &amp; Tom (Japan).png</marquee>
+		<image>./snap/Snow Bros. - Nick & Tom (Japan).png</image>
+		<video>./snap/Snow Bros. - Nick & Tom (Japan).mp4</video>
+		<marquee>./marquee/Snow Bros. - Nick & Tom (Japan).png</marquee>
 		<developer>토아플랜</developer>
 		<publisher>토아플랜</publisher>
 		<genre>플랫폼</genre>
@@ -15107,11 +15116,11 @@ Realm</publisher>
 		<releasedate>19940617T000000</releasedate>
 	</game>
 	<game>
-		<path>./Sonic &amp; Knuckles (World).zip</path>
+		<path>./Sonic & Knuckles (World).zip</path>
 		<name>소닉 &amp; 너클즈 (세계판)</name>
-		<image>./snap/Sonic &amp; Knuckles (World).png</image>
-		<video>./snap/Sonic &amp; Knuckles (World).mp4</video>
-		<marquee>./marquee/Sonic &amp; Knuckles (World).png</marquee>
+		<image>./snap/Sonic & Knuckles (World).png</image>
+		<video>./snap/Sonic & Knuckles (World).mp4</video>
+		<marquee>./marquee/Sonic & Knuckles (World).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>플랫폼</genre>
@@ -15119,11 +15128,11 @@ Realm</publisher>
 		<releasedate>19941018T000000</releasedate>
 	</game>
 	<game>
-		<path>./Sonic &amp; Knuckles + Sonic The Hedgehog (Japan, Korea).zip</path>
+		<path>./Sonic & Knuckles + Sonic The Hedgehog (Japan, Korea).zip</path>
 		<name>소닉 &amp; 너클즈 + 소닉 더 헤지혹 (한국,일본판)</name>
-		<image>./snap/Sonic &amp; Knuckles + Sonic The Hedgehog (Japan, Korea).png</image>
-		<video>./snap/Sonic &amp; Knuckles + Sonic The Hedgehog (Japan, Korea).mp4</video>
-		<marquee>./marquee/Sonic &amp; Knuckles + Sonic The Hedgehog (Japan, Korea).png</marquee>
+		<image>./snap/Sonic & Knuckles + Sonic The Hedgehog (Japan, Korea).png</image>
+		<video>./snap/Sonic & Knuckles + Sonic The Hedgehog (Japan, Korea).mp4</video>
+		<marquee>./marquee/Sonic & Knuckles + Sonic The Hedgehog (Japan, Korea).png</marquee>
 		<developer>세가 엔터프라이즈</developer>
 		<publisher>세가 엔터프라이즈</publisher>
 		<genre>플랫폼</genre>
@@ -15131,11 +15140,11 @@ Realm</publisher>
 		<releasedate>19910000T000000</releasedate>
 	</game>
 	<game>
-		<path>./Sonic &amp; Knuckles + Sonic The Hedgehog (USA).zip</path>
+		<path>./Sonic & Knuckles + Sonic The Hedgehog (USA).zip</path>
 		<name>소닉 &amp; 너클즈 + 소닉 더 헤지혹</name>
-		<image>./snap/Sonic &amp; Knuckles + Sonic The Hedgehog (USA).png</image>
-		<video>./snap/Sonic &amp; Knuckles + Sonic The Hedgehog (USA).mp4</video>
-		<marquee>./marquee/Sonic &amp; Knuckles + Sonic The Hedgehog (USA).png</marquee>
+		<image>./snap/Sonic & Knuckles + Sonic The Hedgehog (USA).png</image>
+		<video>./snap/Sonic & Knuckles + Sonic The Hedgehog (USA).mp4</video>
+		<marquee>./marquee/Sonic & Knuckles + Sonic The Hedgehog (USA).png</marquee>
 		<developer>세가 엔터프라이즈</developer>
 		<publisher>세가 엔터프라이즈</publisher>
 		<genre>플랫폼</genre>
@@ -15143,11 +15152,11 @@ Realm</publisher>
 		<releasedate>19910000T000000</releasedate>
 	</game>
 	<game>
-		<path>./Sonic &amp; Knuckles + Sonic The Hedgehog 2 (World).zip</path>
+		<path>./Sonic & Knuckles + Sonic The Hedgehog 2 (World).zip</path>
 		<name>소닉 &amp; 너클즈 + 소닉 더 헤지혹2 (세계판)</name>
-		<image>./snap/Sonic &amp; Knuckles + Sonic The Hedgehog 2 (World).png</image>
-		<video>./snap/Sonic &amp; Knuckles + Sonic The Hedgehog 2 (World).mp4</video>
-		<marquee>./marquee/Sonic &amp; Knuckles + Sonic The Hedgehog 2 (World).png</marquee>
+		<image>./snap/Sonic & Knuckles + Sonic The Hedgehog 2 (World).png</image>
+		<video>./snap/Sonic & Knuckles + Sonic The Hedgehog 2 (World).mp4</video>
+		<marquee>./marquee/Sonic & Knuckles + Sonic The Hedgehog 2 (World).png</marquee>
 		<developer>소닉팀</developer>
 		<publisher>소닉팀</publisher>
 		<genre>플랫폼</genre>
@@ -15155,11 +15164,11 @@ Realm</publisher>
 		<releasedate>19940000T000000</releasedate>
 	</game>
 	<game>
-		<path>./Sonic &amp; Knuckles + Sonic The Hedgehog 3 (Europe).zip</path>
+		<path>./Sonic & Knuckles + Sonic The Hedgehog 3 (Europe).zip</path>
 		<name>소닉 &amp; 너클즈 + 소닉 더 헤지혹3 (유럽판)</name>
-		<image>./snap/Sonic &amp; Knuckles + Sonic The Hedgehog 3 (Europe).png</image>
-		<video>./snap/Sonic &amp; Knuckles + Sonic The Hedgehog 3 (Europe).mp4</video>
-		<marquee>./marquee/Sonic &amp; Knuckles + Sonic The Hedgehog 3 (Europe).png</marquee>
+		<image>./snap/Sonic & Knuckles + Sonic The Hedgehog 3 (Europe).png</image>
+		<video>./snap/Sonic & Knuckles + Sonic The Hedgehog 3 (Europe).mp4</video>
+		<marquee>./marquee/Sonic & Knuckles + Sonic The Hedgehog 3 (Europe).png</marquee>
 		<developer>소닉팀</developer>
 		<publisher>소닉팀</publisher>
 		<genre>플랫폼</genre>
@@ -15167,11 +15176,11 @@ Realm</publisher>
 		<releasedate>19940000T000000</releasedate>
 	</game>
 	<game>
-		<path>./Sonic &amp; Knuckles + Sonic The Hedgehog 3 (USA).zip</path>
+		<path>./Sonic & Knuckles + Sonic The Hedgehog 3 (USA).zip</path>
 		<name>소닉 &amp; 너클즈 + 소닉 더 헤지혹3</name>
-		<image>./snap/Sonic &amp; Knuckles + Sonic The Hedgehog 3 (USA).png</image>
-		<video>./snap/Sonic &amp; Knuckles + Sonic The Hedgehog 3 (USA).mp4</video>
-		<marquee>./marquee/Sonic &amp; Knuckles + Sonic The Hedgehog 3 (USA).png</marquee>
+		<image>./snap/Sonic & Knuckles + Sonic The Hedgehog 3 (USA).png</image>
+		<video>./snap/Sonic & Knuckles + Sonic The Hedgehog 3 (USA).mp4</video>
+		<marquee>./marquee/Sonic & Knuckles + Sonic The Hedgehog 3 (USA).png</marquee>
 		<developer>소닉팀</developer>
 		<publisher>소닉팀</publisher>
 		<genre>플랫폼</genre>
@@ -16995,11 +17004,11 @@ Realm</publisher>
 		<releasedate>19920000T000000</releasedate>
 	</game>
 	<game>
-		<path>./Sylvester &amp; Tweety in Cagey Capers (USA).zip</path>
+		<path>./Sylvester & Tweety in Cagey Capers (USA).zip</path>
 		<name>실베스터 &amp; 트위티 인 케이지 케이퍼스</name>
-		<image>./snap/Sylvester &amp; Tweety in Cagey Capers (USA).png</image>
-		<video>./snap/Sylvester &amp; Tweety in Cagey Capers (USA).mp4</video>
-		<marquee>./marquee/Sylvester &amp; Tweety in Cagey Capers (USA).png</marquee>
+		<image>./snap/Sylvester & Tweety in Cagey Capers (USA).png</image>
+		<video>./snap/Sylvester & Tweety in Cagey Capers (USA).mp4</video>
+		<marquee>./marquee/Sylvester & Tweety in Cagey Capers (USA).png</marquee>
 		<developer>타임 워너 인터렉티브</developer>
 		<publisher>타임 워너 인터렉티브</publisher>
 		<genre>액션</genre>
@@ -17597,11 +17606,11 @@ Imagexcel</publisher>
 		<releasedate>19950502T000000</releasedate>
 	</game>
 	<game>
-		<path>./Thomas the Tank Engine &amp; Friends (USA).zip</path>
+		<path>./Thomas the Tank Engine & Friends (USA).zip</path>
 		<name>토마스와 친구들</name>
-		<image>./snap/Thomas the Tank Engine &amp; Friends (USA).png</image>
-		<video>./snap/Thomas the Tank Engine &amp; Friends (USA).mp4</video>
-		<marquee>./marquee/Thomas the Tank Engine &amp; Friends (USA).png</marquee>
+		<image>./snap/Thomas the Tank Engine & Friends (USA).png</image>
+		<video>./snap/Thomas the Tank Engine & Friends (USA).mp4</video>
+		<marquee>./marquee/Thomas the Tank Engine & Friends (USA).png</marquee>
 		<developer>말리부 게임즈</developer>
 		<publisher>말리부 게임즈</publisher>
 		<genre>레이싱</genre>
@@ -17882,11 +17891,11 @@ Imagexcel</publisher>
 		<releasedate>19910902T000000</releasedate>
 	</game>
 	<game>
-		<path>./ToeJam &amp; Earl (World) (Rev A).zip</path>
+		<path>./ToeJam & Earl (World) (Rev A).zip</path>
 		<name>도잼 앤 얼 (세계판)(개정판 A)</name>
-		<image>./snap/ToeJam &amp; Earl (World) (Rev A).png</image>
-		<video>./snap/ToeJam &amp; Earl (World) (Rev A).mp4</video>
-		<marquee>./marquee/ToeJam &amp; Earl (World) (Rev A).png</marquee>
+		<image>./snap/ToeJam & Earl (World) (Rev A).png</image>
+		<video>./snap/ToeJam & Earl (World) (Rev A).mp4</video>
+		<marquee>./marquee/ToeJam & Earl (World) (Rev A).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>플랫폼</genre>
@@ -17894,11 +17903,11 @@ Imagexcel</publisher>
 		<releasedate>19920312T000000</releasedate>
 	</game>
 	<game>
-		<path>./ToeJam &amp; Earl (World).zip</path>
+		<path>./ToeJam & Earl (World).zip</path>
 		<name>도잼 앤 얼 (세계판)</name>
-		<image>./snap/ToeJam &amp; Earl (World).png</image>
-		<video>./snap/ToeJam &amp; Earl (World).mp4</video>
-		<marquee>./marquee/ToeJam &amp; Earl (World).png</marquee>
+		<image>./snap/ToeJam & Earl (World).png</image>
+		<video>./snap/ToeJam & Earl (World).mp4</video>
+		<marquee>./marquee/ToeJam & Earl (World).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>플랫폼</genre>
@@ -17906,55 +17915,55 @@ Imagexcel</publisher>
 		<releasedate>19920312T000000</releasedate>
 	</game>
 	<game>
-		<path>./ToeJam &amp; Earl in Panic auf Funkotron (Germany).zip</path>
+		<path>./ToeJam & Earl in Panic auf Funkotron (Germany).zip</path>
 		<name>토잼 앤 얼 II - 패닉 펑코트론 (독일판)</name>
-		<image>./snap/ToeJam &amp; Earl in Panic auf Funkotron (Germany).png</image>
-		<video>./snap/ToeJam &amp; Earl in Panic auf Funkotron (Germany).mp4</video>
-		<marquee>./marquee/ToeJam &amp; Earl in Panic auf Funkotron (Germany).png</marquee>
+		<image>./snap/ToeJam & Earl in Panic auf Funkotron (Germany).png</image>
+		<video>./snap/ToeJam & Earl in Panic auf Funkotron (Germany).mp4</video>
+		<marquee>./marquee/ToeJam & Earl in Panic auf Funkotron (Germany).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<players>2</players>
 		<releasedate>19930000T000000</releasedate>
 	</game>
 	<game>
-		<path>./ToeJam &amp; Earl in Panic on Funkotron (Asia).zip</path>
+		<path>./ToeJam & Earl in Panic on Funkotron (Asia).zip</path>
 		<name>토잼 앤 얼 II - 패닉 펑코트론 (아시아판)</name>
-		<image>./snap/ToeJam &amp; Earl in Panic on Funkotron (Asia).png</image>
-		<video>./snap/ToeJam &amp; Earl in Panic on Funkotron (Asia).mp4</video>
-		<marquee>./marquee/ToeJam &amp; Earl in Panic on Funkotron (Asia).png</marquee>
+		<image>./snap/ToeJam & Earl in Panic on Funkotron (Asia).png</image>
+		<video>./snap/ToeJam & Earl in Panic on Funkotron (Asia).mp4</video>
+		<marquee>./marquee/ToeJam & Earl in Panic on Funkotron (Asia).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<players>2</players>
 		<releasedate>19930000T000000</releasedate>
 	</game>
 	<game>
-		<path>./ToeJam &amp; Earl in Panic on Funkotron (Europe).zip</path>
+		<path>./ToeJam & Earl in Panic on Funkotron (Europe).zip</path>
 		<name>토잼 앤 얼 II - 패닉 펑코트론 (유럽판)</name>
-		<image>./snap/ToeJam &amp; Earl in Panic on Funkotron (Europe).png</image>
-		<video>./snap/ToeJam &amp; Earl in Panic on Funkotron (Europe).mp4</video>
-		<marquee>./marquee/ToeJam &amp; Earl in Panic on Funkotron (Europe).png</marquee>
+		<image>./snap/ToeJam & Earl in Panic on Funkotron (Europe).png</image>
+		<video>./snap/ToeJam & Earl in Panic on Funkotron (Europe).mp4</video>
+		<marquee>./marquee/ToeJam & Earl in Panic on Funkotron (Europe).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<players>2</players>
 		<releasedate>19930000T000000</releasedate>
 	</game>
 	<game>
-		<path>./ToeJam &amp; Earl in Panic on Funkotron (USA) (Beta).zip</path>
+		<path>./ToeJam & Earl in Panic on Funkotron (USA) (Beta).zip</path>
 		<name>토잼 앤 얼 II - 패닉 펑코트론 (베타)</name>
-		<image>./snap/ToeJam &amp; Earl in Panic on Funkotron (USA) (Beta).png</image>
-		<video>./snap/ToeJam &amp; Earl in Panic on Funkotron (USA) (Beta).mp4</video>
-		<marquee>./marquee/ToeJam &amp; Earl in Panic on Funkotron (USA) (Beta).png</marquee>
+		<image>./snap/ToeJam & Earl in Panic on Funkotron (USA) (Beta).png</image>
+		<video>./snap/ToeJam & Earl in Panic on Funkotron (USA) (Beta).mp4</video>
+		<marquee>./marquee/ToeJam & Earl in Panic on Funkotron (USA) (Beta).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<players>2</players>
 		<releasedate>19930000T000000</releasedate>
 	</game>
 	<game>
-		<path>./ToeJam &amp; Earl in Panic on Funkotron (USA).zip</path>
+		<path>./ToeJam & Earl in Panic on Funkotron (USA).zip</path>
 		<name>토잼 앤 얼 II - 패닉 펑코트론</name>
-		<image>./snap/ToeJam &amp; Earl in Panic on Funkotron (USA).png</image>
-		<video>./snap/ToeJam &amp; Earl in Panic on Funkotron (USA).mp4</video>
-		<marquee>./marquee/ToeJam &amp; Earl in Panic on Funkotron (USA).png</marquee>
+		<image>./snap/ToeJam & Earl in Panic on Funkotron (USA).png</image>
+		<video>./snap/ToeJam & Earl in Panic on Funkotron (USA).mp4</video>
+		<marquee>./marquee/ToeJam & Earl in Panic on Funkotron (USA).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<players>2</players>
@@ -20170,26 +20179,4 @@ Imagexcel</publisher>
 		<players>1</players>
 		<releasedate>19930429T000000</releasedate>
 	</game>
-	<game/>
-	<game/>
-	<game/>
-	<game/>
-	<game/>
-	<game/>
-	<game/>
-	<game/>
-	<game/>
-	<game/>
-	<game/>
-	<game/>
-	<game/>
-	<game/>
-	<game/>
-	<game/>
-	<game/>
-	<game/>
-	<game/>
-	<game/>
-	<game/>
-	<game/>
 </gameList>

@@ -1,93 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<game>
-		<path>./[BIOS] CX4 (World).zip</path>
-		<name>바이오스</name>
-		<image>./snap/[BIOS] CX4 (World).png</image>
-		<video>./snap/[BIOS] CX4 (World).mp4</video>
-		<marquee>./marquee/[BIOS] CX4 (World).png</marquee>
-		<releasedate>00000000T000000</releasedate>
-	</game>
-	<game>
-		<path>./[BIOS] DSP1 (World).zip</path>
-		<name>바이오스</name>
-		<image>./snap/[BIOS] DSP1 (World).png</image>
-		<video>./snap/[BIOS] DSP1 (World).mp4</video>
-		<marquee>./marquee/[BIOS] DSP1 (World).png</marquee>
-		<releasedate>00000000T000000</releasedate>
-	</game>
-	<game>
-		<path>./[BIOS] DSP1 B (World).zip</path>
-		<name>바이오스</name>
-		<image>./snap/[BIOS] DSP1 B (World).png</image>
-		<video>./snap/[BIOS] DSP1 B (World).mp4</video>
-		<marquee>./marquee/[BIOS] DSP1 B (World).png</marquee>
-		<releasedate>00000000T000000</releasedate>
-	</game>
-	<game>
-		<path>./[BIOS] DSP2 (World).zip</path>
-		<name>바이오스</name>
-		<image>./snap/[BIOS] DSP2 (World).png</image>
-		<video>./snap/[BIOS] DSP2 (World).mp4</video>
-		<marquee>./marquee/[BIOS] DSP2 (World).png</marquee>
-		<releasedate>00000000T000000</releasedate>
-	</game>
-	<game>
-		<path>./[BIOS] DSP3 (Japan).zip</path>
-		<name>바이오스</name>
-		<image>./snap/[BIOS] DSP3 (Japan).png</image>
-		<video>./snap/[BIOS] DSP3 (Japan).mp4</video>
-		<marquee>./marquee/[BIOS] DSP3 (Japan).png</marquee>
-		<releasedate>00000000T000000</releasedate>
-	</game>
-	<game>
-		<path>./[BIOS] DSP4 (World).zip</path>
-		<name>바이오스</name>
-		<image>./snap/[BIOS] DSP4 (World).png</image>
-		<video>./snap/[BIOS] DSP4 (World).mp4</video>
-		<marquee>./marquee/[BIOS] DSP4 (World).png</marquee>
-		<releasedate>00000000T000000</releasedate>
-	</game>
-	<game>
-		<path>./[BIOS] SGB-CPU (World).zip</path>
-		<name>바이오스</name>
-		<image>./snap/[BIOS] SGB-CPU (World).png</image>
-		<video>./snap/[BIOS] SGB-CPU (World).mp4</video>
-		<marquee>./marquee/[BIOS] SGB-CPU (World).png</marquee>
-		<releasedate>00000000T000000</releasedate>
-	</game>
-	<game>
-		<path>./[BIOS] SGB2-CPU (Japan).zip</path>
-		<name>바이오스</name>
-		<image>./snap/[BIOS] SGB2-CPU (Japan).png</image>
-		<video>./snap/[BIOS] SGB2-CPU (Japan).mp4</video>
-		<marquee>./marquee/[BIOS] SGB2-CPU (Japan).png</marquee>
-		<releasedate>00000000T000000</releasedate>
-	</game>
-	<game>
-		<path>./[BIOS] ST010 (Japan, USA).zip</path>
-		<name>바이오스</name>
-		<image>./snap/[BIOS] ST010 (Japan, USA).png</image>
-		<video>./snap/[BIOS] ST010 (Japan, USA).mp4</video>
-		<marquee>./marquee/[BIOS] ST010 (Japan, USA).png</marquee>
-		<releasedate>00000000T000000</releasedate>
-	</game>
-	<game>
-		<path>./[BIOS] ST011 (Japan).zip</path>
-		<name>바이오스</name>
-		<image>./snap/[BIOS] ST011 (Japan).png</image>
-		<video>./snap/[BIOS] ST011 (Japan).mp4</video>
-		<marquee>./marquee/[BIOS] ST011 (Japan).png</marquee>
-		<releasedate>00000000T000000</releasedate>
-	</game>
-	<game>
-		<path>./[BIOS] ST018 (Japan).zip</path>
-		<name>바이오스</name>
-		<image>./snap/[BIOS] ST018 (Japan).png</image>
-		<video>./snap/[BIOS] ST018 (Japan).mp4</video>
-		<marquee>./marquee/[BIOS] ST018 (Japan).png</marquee>
-		<releasedate>00000000T000000</releasedate>
-	</game>
+<!--
+* 제목 : 레트로게임 롬 목록 한글화 프로젝트
+* 지원프론트엔드 : RetroPie, Recalbox, Attract-Mode
+* 지원에뮬 : Arcade(MAME, AdvMAME, FBA), NES, SNES, Mega Drive, GBA, PCA, SMS, Sega 32X
+* 제작자 : 텐타클 팀
+* 만든날 : Apr 15, 2017
+* 카페 : http://cafe.naver.com/raspigamer
+* 레트로게임 롬 목록 한글화 자료는 오픈소스입니다. MIT 라이센스를 따르고 있으므로 라이센스와 출처(http://cafe.naver.com/raspigamer) 표시만 지켜주시면 자유롭게 사용하실 수 있습니다.
+-->
 	<game>
 		<path>./'96 Zenkoku Koukou Soccer Senshuken (Japan).zip</path>
 		<name>96 전국고교 사커 선수권 (일본판)</name>
