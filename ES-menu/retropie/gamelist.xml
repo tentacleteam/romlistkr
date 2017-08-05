@@ -1,0 +1,81 @@
+﻿<?xml version="1.0"?>
+<gameList>
+  <game>
+    <path>./audiosettings.rp</path>
+    <name>오디오</name>
+    <desc>오디오 설정을 변경합니다. 자동, 이어폰잭, HDMI 출력중 선택하세요. 믹서 컨트롤을 변경하고 기본 설정을 적용하세요.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/audiosettings.png</image>
+  </game>
+  <game>
+    <path>./bluetooth.rp</path>
+    <name>블루투스</name>
+    <desc>블루투스 장치를 등록하고 연결합니다. 장치를 등록 또는 삭제하고 연결된 장치를 표시합니다.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/bluetooth.png</image>
+  </game>
+  <game>
+    <path>./configedit.rp</path>
+    <name>설정 에디터</name>
+    <desc>레트로아크(RetroArch) 기본 옵션을 변경하고 레트로아크 및 기타 다른 설정을 수동으로 편집합니다.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/configedit.png</image>
+  </game>
+  <game>
+    <path>./esthemes.rp</path>
+    <name>ES 테마</name>
+    <desc>에뮬레이션스테이션(EmulationStation)용 테마를 설치, 삭제, 업데이트합니다. 대부분의 테마는 https://github.com/retropie/ RetroPie-Setup/wiki/themes 에서 확인할 수 있습니다.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/esthemes.png</image>
+  </game>
+  <game>
+    <path>./filemanager.rp</path>
+    <name>파일 관리자</name>
+    <desc>리눅스용 기본 ascii 파일 관리자로 파일의 탐색, 복사, 삭제 및 이동이 가능합니다.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/filemanager.png</image>
+  </game>
+  <game>
+    <path>./raspiconfig.rp</path>
+    <name>라즈파이-설정</name>
+    <desc>사용자 암호 변경, 부트 옵션, 오버클럭, 오버스캔설정, SSH, 국제화, 카메라 설정, 메모리 분할, 라즈트랙 추가 등등.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/raspiconfig.png</image>
+  </game>
+  <game>
+    <path>./retroarch.rp</path>
+    <name>레트로아크</name>
+    <desc>레트로아크(RetroArch) 옵션 변경을 위해 레트로아크 GUI를 실행합니다. 참고: 변경사항을 자동으로 저장하려면 "종료 시 설정 저장"옵션을 활성화 하세요.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/retroarch.png</image>
+  </game>
+  <game>
+    <path>./retronetplay.rp</path>
+    <name>레트로아크 넷플레이</name>
+    <desc>레트로아크(RetroArch) 넷플레이 옵션을 설정합니다. 호스트 또는 클라이언트, 포트, 호스트 IP, 닉네임 등을 설정하세요.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/retronetplay.png</image>
+  </game>
+  <game>
+    <path>./rpsetup.rp</path>
+    <name>레트로파이 설정</name>
+    <desc>바이너리 또는 소스를 통해 레트로파이를 설치하거나, 실험적인 패키지 설치, 드라이버 추가, 삼바공유 수정등 레트로파이 관련 설정을 할 수 있습니다.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/rpsetup.png</image>
+  </game>
+  <game>
+    <path>./runcommand.rp</path>
+    <name>실행 명령 구성</name>
+    <desc>runcommand 화면에 나오는 내용을 변경합니다. 메뉴를 활성 또는 비활성하거나 박스아트의 표시, CPU 설정 등을 변경할 수 있습니다.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/runcommand.png</image>
+  </game>
+  <game>
+    <path>./showip.rp</path>
+    <name>IP 표시</name>
+    <desc>현재 IP 주소를 표시해줍니다. 또한 "ip addr show"명령으로 나오는 정보를 표시합니다.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/showip.png</image>
+  </game>
+  <game>
+    <path>./splashscreen.rp</path>
+    <name>스플래시 화면</name>
+    <desc>라즈베리 파이 부팅시 나오는 이미지를 활성 또는 비활성합니다. 스플래시 이미지를 변경하거나 새로운 이미지로 다운로드 가능하며 기본값으로 되돌릴 수도 있습니다.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/splashscreen.png</image>
+  </game>
+  <game>
+    <path>./wifi.rp</path>
+    <name>WiFi</name>
+    <desc>무선 네트워크에 연결 또는 연결 해제하고 무선 설정을 구성합니다.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/wifi.png</image>
+  </game>
+</gameList>
