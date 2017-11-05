@@ -12,7 +12,7 @@
 ## 설치 방법
 <pre><code>sudo git clone https://github.com/tentacleteam/romlistkr.git
 cd romlistkr
-sudo chmod 755 ./install.sh
+chmod 755 ./install.sh
 sudo ./install.sh</code></pre>
 
 ## 사용 시 반드시 출처를 적어주세요.
