@@ -13,6 +13,10 @@ find /home/pi/RetroPie/roms -name gamelist.xml | while read line; do sudo chmod 
 find /home/pi/RetroPie/roms -name gamelist.xml | while read line; do sudo chgrp -v pi "$line"; done
 find /home/pi/RetroPie/roms -name gamelist.xml | while read line; do sudo chown -v pi "$line"; done
 
+find /home/pi/RetroPie/roms -name gamelist_en.xml | while read line; do sudo chmod 755 "$line"; done
+find /home/pi/RetroPie/roms -name gamelist_en.xml | while read line; do sudo chgrp -v pi "$line"; done
+find /home/pi/RetroPie/roms -name gamelist_en.xml | while read line; do sudo chown -v pi "$line"; done
+
 find /opt/retropie/configs/all/emulationstation/gamelists -name gamelist.xml | while read line; do sudo chmod 755 "$line"; done
 find /opt/retropie/configs/all/emulationstation/gamelists -name gamelist.xml | while read line; do sudo chgrp -v pi "$line"; done
 find /opt/retropie/configs/all/emulationstation/gamelists -name gamelist.xml | while read line; do sudo chown -v pi "$line"; done
