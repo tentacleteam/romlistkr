@@ -11,7 +11,7 @@
 -->
 	<game>
 		<path>./2020bb.zip</path>
-		<name>2020 슈퍼 베이스볼 (세트 1)</name>
+		<name>2020 슈퍼 베이스볼</name>
 		<image>./../arcade/snap/2020bb.png</image>
 		<video>./../arcade/snap/2020bb.mp4</video>
 		<marquee>./../arcade/marquee/2020bb.png</marquee>
@@ -53,7 +53,7 @@
 	</game>
 	<game>
 		<path>./3countb.zip</path>
-		<name>3 카운트 바웃 / 파이어 수플렉스 (NGM-043)(NGH-043)</name>
+		<name>3 카운트 바웃 / 파이어 수플렉스</name>
 		<image>./../arcade/snap/3countb.png</image>
 		<video>./../arcade/snap/3countb.mp4</video>
 		<marquee>./../arcade/marquee/3countb.png</marquee>
@@ -96,7 +96,7 @@
 	</game>
 	<game>
 		<path>./alpham2.zip</path>
-		<name>알파 미션 2 (NGM-007)(NGH-007)</name>
+		<name>알파 미션 2</name>
 		<image>./../arcade/snap/alpham2.png</image>
 		<video>./../arcade/snap/alpham2.mp4</video>
 		<marquee>./../arcade/marquee/alpham2.png</marquee>
@@ -124,7 +124,7 @@ SNK의 명작 슈팅 'A.S.O' 가 MVS 시스템기판으로 부활한 게임. 하
 	</game>
 	<game>
 		<path>./androdun.zip</path>
-		<name>안드로 듀노스 (NGM-049)(NGH-049)</name>
+		<name>안드로 듀노스</name>
 		<image>./../arcade/snap/androdun.png</image>
 		<video>./../arcade/snap/androdun.mp4</video>
 		<marquee>./../arcade/marquee/androdun.png</marquee>
@@ -141,7 +141,7 @@ SNK의 명작 슈팅 'A.S.O' 가 MVS 시스템기판으로 부활한 게임. 하
 	</game>
 	<game>
 		<path>./aodk.zip</path>
-		<name>통쾌 간간 행진곡 (ADM-008)(ADH-008)</name>
+		<name>통쾌 간간 행진곡</name>
 		<image>./../arcade/snap/aodk.png</image>
 		<video>./../arcade/snap/aodk.mp4</video>
 		<marquee>./../arcade/marquee/aodk.png</marquee>
@@ -161,7 +161,7 @@ SNK의 명작 슈팅 'A.S.O' 가 MVS 시스템기판으로 부활한 게임. 하
 	</game>
 	<game>
 		<path>./aof.zip</path>
-		<name>용호의 권 (NGM-044)(NGH-044)</name>
+		<name>용호의 권</name>
 		<image>./../arcade/snap/aof.png</image>
 		<video>./../arcade/snap/aof.mp4</video>
 		<marquee>./../arcade/marquee/aof.png</marquee>
@@ -177,7 +177,7 @@ SNK의 명작 슈팅 'A.S.O' 가 MVS 시스템기판으로 부활한 게임. 하
 	</game>
 	<game>
 		<path>./aof2.zip</path>
-		<name>용호의 권 2 (NGM-056)</name>
+		<name>용호의 권 2</name>
 		<image>./../arcade/snap/aof2.png</image>
 		<video>./../arcade/snap/aof2.mp4</video>
 		<marquee>./../arcade/marquee/aof2.png</marquee>
@@ -245,7 +245,7 @@ SNK의 명작 슈팅 'A.S.O' 가 MVS 시스템기판으로 부활한 게임. 하
 	</game>
 	<game>
 		<path>./b2b.zip</path>
-		<name>뱅뱅 버스터즈 (2010 NCI 발매) [시험판]</name>
+		<name>뱅뱅 버스터즈</name>
 		<image>./../arcade/snap/b2b.png</image>
 		<video>./../arcade/snap/b2b.mp4</video>
 		<marquee>./../arcade/marquee/b2b.png</marquee>
@@ -256,7 +256,7 @@ SNK의 명작 슈팅 'A.S.O' 가 MVS 시스템기판으로 부활한 게임. 하
 	</game>
 	<game>
 		<path>./bakatono.zip</path>
-		<name>바보 성주님 마작 마유기 (MOM-002)(MOH-002)</name>
+		<name>바보 성주님 마작 마유기</name>
 		<image>./../arcade/snap/bakatono.png</image>
 		<video>./../arcade/snap/bakatono.mp4</video>
 		<marquee>./../arcade/marquee/bakatono.png</marquee>
@@ -293,7 +293,7 @@ SNK의 명작 슈팅 'A.S.O' 가 MVS 시스템기판으로 부활한 게임. 하
 	</game>
 	<game>
 		<path>./beast.zip</path>
-		<name>쉐도우 오브 더 비스트 (데모)</name>
+		<name>쉐도우 오브 더 비스트</name>
 		<image>./../arcade/snap/beast.png</image>
 		<video>./../arcade/snap/beast.mp4</video>
 		<marquee>./../arcade/marquee/beast.png</marquee>
@@ -302,7 +302,7 @@ SNK의 명작 슈팅 'A.S.O' 가 MVS 시스템기판으로 부활한 게임. 하
 	</game>
 	<game>
 		<path>./bjourney.zip</path>
-		<name>블루즈 저니 / 라가이 (ALM-001)(ALH-001)</name>
+		<name>블루즈 저니 / 라가이</name>
 		<image>./../arcade/snap/bjourney.png</image>
 		<video>./../arcade/snap/bjourney.mp4</video>
 		<marquee>./../arcade/marquee/bjourney.png</marquee>
@@ -364,7 +364,7 @@ SNK의 명작 슈팅 'A.S.O' 가 MVS 시스템기판으로 부활한 게임. 하
 	</game>
 	<game>
 		<path>./bstars.zip</path>
-		<name>베이스볼 스타즈 프로페셔널 (NGM-002)</name>
+		<name>베이스볼 스타즈 프로페셔널</name>
 		<image>./../arcade/snap/bstars.png</image>
 		<video>./../arcade/snap/bstars.mp4</video>
 		<marquee>./../arcade/marquee/bstars.png</marquee>
@@ -410,7 +410,7 @@ SNK Neo-Geo MVS 기판으로 출시된 최초의 야구 게임이다.</desc>
 	</game>
 	<game>
 		<path>./burningf.zip</path>
-		<name>버닝 파이트 (NGM-018)(NGH-018)</name>
+		<name>버닝 파이트</name>
 		<image>./../arcade/snap/burningf.png</image>
 		<video>./../arcade/snap/burningf.mp4</video>
 		<marquee>./../arcade/marquee/burningf.png</marquee>
@@ -476,7 +476,7 @@ SNK Neo-Geo MVS 기판으로 출시된 최초의 야구 게임이다.</desc>
 	</game>
 	<game>
 		<path>./cndi.zip</path>
-		<name>칩 앤 데일 (데모)</name>
+		<name>칩 앤 데일</name>
 		<image>./../arcade/snap/cndi.png</image>
 		<video>./../arcade/snap/cndi.mp4</video>
 		<marquee>./../arcade/marquee/cndi.png</marquee>
@@ -494,7 +494,7 @@ SNK Neo-Geo MVS 기판으로 출시된 최초의 야구 게임이다.</desc>
 	</game>
 	<game>
 		<path>./cphd.zip</path>
-		<name>와호장룡 (데모)</name>
+		<name>와호장룡</name>
 		<image>./../arcade/snap/cphd.png</image>
 		<video>./../arcade/snap/cphd.mp4</video>
 		<marquee>./../arcade/marquee/cphd.png</marquee>
@@ -503,7 +503,7 @@ SNK Neo-Geo MVS 기판으로 출시된 최초의 야구 게임이다.</desc>
 	</game>
 	<game>
 		<path>./crswd2bl.zip</path>
-		<name>크로스드 소드 2 (해적판 카트리지 컨버젼)</name>
+		<name>크로스드 소드 2</name>
 		<image>./../arcade/snap/crswd2bl.png</image>
 		<video>./../arcade/snap/crswd2bl.mp4</video>
 		<marquee>./../arcade/marquee/crswd2bl.png</marquee>
@@ -513,7 +513,7 @@ SNK Neo-Geo MVS 기판으로 출시된 최초의 야구 게임이다.</desc>
 	</game>
 	<game>
 		<path>./crsword.zip</path>
-		<name>크로스드 소드 (ALM-002)(ALH-002)</name>
+		<name>크로스드 소드</name>
 		<image>./../arcade/snap/crsword.png</image>
 		<video>./../arcade/snap/crsword.mp4</video>
 		<marquee>./../arcade/marquee/crsword.png</marquee>
@@ -651,7 +651,7 @@ SNK 에서 라이센스를 얻은 한국의 "이오리스" 에서 제작한 게�
 	</game>
 	<game>
 		<path>./cyberlip.zip</path>
-		<name>사이버 립 (NGM-010)</name>
+		<name>사이버 립</name>
 		<image>./../arcade/snap/cyberlip.png</image>
 		<video>./../arcade/snap/cyberlip.mp4</video>
 		<marquee>./../arcade/marquee/cyberlip.png</marquee>
@@ -679,7 +679,7 @@ SNK 에서 라이센스를 얻은 한국의 "이오리스" 에서 제작한 게�
 	</game>
 	<game>
 		<path>./doubledr.zip</path>
-		<name>쌍절룡 / 더블 드래곤 (네오지오)</name>
+		<name>더블 드래곤 / 쌍절룡</name>
 		<image>./../arcade/snap/doubledr.png</image>
 		<video>./../arcade/snap/doubledr.mp4</video>
 		<marquee>./../arcade/marquee/doubledr.png</marquee>
@@ -699,7 +699,7 @@ SNK 에서 라이센스를 얻은 한국의 "이오리스" 에서 제작한 게�
 	</game>
 	<game>
 		<path>./dragonsh.zip</path>
-		<name>드래곤스 헤븐 (개발 보드)</name>
+		<name>드래곤스 헤븐</name>
 		<image>./../arcade/snap/dragonsh.png</image>
 		<video>./../arcade/snap/dragonsh.mp4</video>
 		<marquee>./../arcade/marquee/dragonsh.png</marquee>
@@ -709,7 +709,7 @@ SNK 에서 라이센스를 얻은 한국의 "이오리스" 에서 제작한 게�
 	</game>
 	<game>
 		<path>./ducki.zip</path>
-		<name>욕심쟁이 오리아저씨 (데모)</name>
+		<name>욕심쟁이 오리아저씨</name>
 		<image>./../arcade/snap/ducki.png</image>
 		<video>./../arcade/snap/ducki.mp4</video>
 		<marquee>./../arcade/marquee/ducki.png</marquee>
@@ -718,7 +718,7 @@ SNK 에서 라이센스를 얻은 한국의 "이오리스" 에서 제작한 게�
 	</game>
 	<game>
 		<path>./dwi.zip</path>
-		<name>다크윙 덕 (데모)</name>
+		<name>다크윙 덕</name>
 		<image>./../arcade/snap/dwi.png</image>
 		<video>./../arcade/snap/dwi.mp4</video>
 		<marquee>./../arcade/marquee/dwi.png</marquee>
@@ -736,7 +736,7 @@ SNK 에서 라이센스를 얻은 한국의 "이오리스" 에서 제작한 게�
 	</game>
 	<game>
 		<path>./eightman.zip</path>
-		<name>에이트맨 (NGM-025)(NGH-025)</name>
+		<name>에이트맨</name>
 		<image>./../arcade/snap/eightman.png</image>
 		<video>./../arcade/snap/eightman.mp4</video>
 		<marquee>./../arcade/marquee/eightman.png</marquee>
@@ -752,7 +752,7 @@ SNK 에서 라이센스를 얻은 한국의 "이오리스" 에서 제작한 게�
 	</game>
 	<game>
 		<path>./fatfursp.zip</path>
-		<name>아랑전설 스페셜 (세트 1)(NGM-058)(NGH-058)</name>
+		<name>아랑전설 스페셜</name>
 		<image>./../arcade/snap/fatfursp.png</image>
 		<video>./../arcade/snap/fatfursp.mp4</video>
 		<marquee>./../arcade/marquee/fatfursp.png</marquee>
@@ -788,7 +788,7 @@ SNK 에서 라이센스를 얻은 한국의 "이오리스" 에서 제작한 게�
 	</game>
 	<game>
 		<path>./fatfury1.zip</path>
-		<name>아랑전설 - 숙명의 싸움 (NGM-033)(NGH-033)</name>
+		<name>아랑전설 - 숙명의 싸움</name>
 		<image>./../arcade/snap/fatfury1.png</image>
 		<video>./../arcade/snap/fatfury1.mp4</video>
 		<marquee>./../arcade/marquee/fatfury1.png</marquee>
@@ -806,7 +806,7 @@ SNK 에서 라이센스를 얻은 한국의 "이오리스" 에서 제작한 게�
 	</game>
 	<game>
 		<path>./fatfury2.zip</path>
-		<name>아랑전설 2 - 새로운 싸움 (NGM-047)(NGH-047)</name>
+		<name>아랑전설 2 - 새로운 싸움</name>
 		<image>./../arcade/snap/fatfury2.png</image>
 		<video>./../arcade/snap/fatfury2.mp4</video>
 		<marquee>./../arcade/marquee/fatfury2.png</marquee>
@@ -844,7 +844,7 @@ SNK 에서 라이센스를 얻은 한국의 "이오리스" 에서 제작한 게�
 	</game>
 	<game>
 		<path>./fatfury3.zip</path>
-		<name>아랑전설 3 - 아득한 싸움 (NGM-069)(NGH-069)</name>
+		<name>아랑전설 3 - 아득한 싸움</name>
 		<image>./../arcade/snap/fatfury3.png</image>
 		<video>./../arcade/snap/fatfury3.mp4</video>
 		<marquee>./../arcade/marquee/fatfury3.png</marquee>
@@ -882,7 +882,7 @@ SNK 에서 라이센스를 얻은 한국의 "이오리스" 에서 제작한 게�
 	</game>
 	<game>
 		<path>./fbfrenzy.zip</path>
-		<name>풋볼 프렌지 (NGM-034)(NGH-034)</name>
+		<name>풋볼 프렌지</name>
 		<image>./../arcade/snap/fbfrenzy.png</image>
 		<video>./../arcade/snap/fbfrenzy.mp4</video>
 		<marquee>./../arcade/marquee/fbfrenzy.png</marquee>
@@ -896,7 +896,7 @@ SNK 에서 라이센스를 얻은 한국의 "이오리스" 에서 제작한 게�
 	</game>
 	<game>
 		<path>./fightfev.zip</path>
-		<name>왕중왕 / 파이트 피버 (세트 1)</name>
+		<name>왕중왕 / 파이트 피버</name>
 		<image>./../arcade/snap/fightfev.png</image>
 		<video>./../arcade/snap/fightfev.mp4</video>
 		<marquee>./../arcade/marquee/fightfev.png</marquee>
@@ -962,7 +962,7 @@ SNK 에서 라이센스를 얻은 한국의 "이오리스" 에서 제작한 게�
 	</game>
 	<game>
 		<path>./froman2b.zip</path>
-		<name>아이돌 마작 - 파이널 로맨스 2 (Neo CD 컨버젼)</name>
+		<name>아이돌 마작 - 파이널 로맨스 2</name>
 		<image>./../arcade/snap/froman2b.png</image>
 		<video>./../arcade/snap/froman2b.mp4</video>
 		<marquee>./../arcade/marquee/froman2b.png</marquee>
@@ -1019,7 +1019,7 @@ SNK 에서 라이센스를 얻은 한국의 "이오리스" 에서 제작한 게�
 	</game>
 	<game>
 		<path>./garou.zip</path>
-		<name>아랑 / 가로우 - 늑대의 증표 (NGM-2530)</name>
+		<name>아랑 / 가로우 - 늑대의 증표</name>
 		<image>./../arcade/snap/garou.png</image>
 		<video>./../arcade/snap/garou.mp4</video>
 		<marquee>./../arcade/marquee/garou.png</marquee>
@@ -1091,7 +1091,7 @@ SNK 에서 라이센스를 얻은 한국의 "이오리스" 에서 제작한 게�
 	</game>
 	<game>
 		<path>./ghostbi.zip</path>
-		<name>고스트 버스터즈 (데모)</name>
+		<name>고스트 버스터즈</name>
 		<image>./../arcade/snap/ghostbi.png</image>
 		<video>./../arcade/snap/ghostbi.mp4</video>
 		<marquee>./../arcade/marquee/ghostbi.png</marquee>
@@ -1100,7 +1100,7 @@ SNK 에서 라이센스를 얻은 한국의 "이오리스" 에서 제작한 게�
 	</game>
 	<game>
 		<path>./ghostlop.zip</path>
-		<name>고스트럽 (시험판)</name>
+		<name>고스트럽</name>
 		<image>./../arcade/snap/ghostlop.png</image>
 		<video>./../arcade/snap/ghostlop.mp4</video>
 		<marquee>./../arcade/marquee/ghostlop.png</marquee>
@@ -1143,7 +1143,7 @@ SNK 에서 라이센스를 얻은 한국의 "이오리스" 에서 제작한 게�
 	</game>
 	<game>
 		<path>./gpilots.zip</path>
-		<name>고스트 파일럿 (NGM-020)(NGH-020)</name>
+		<name>고스트 파일럿</name>
 		<image>./../arcade/snap/gpilots.png</image>
 		<video>./../arcade/snap/gpilots.mp4</video>
 		<marquee>./../arcade/marquee/gpilots.png</marquee>
@@ -1190,7 +1190,7 @@ SNK 에서 라이센스를 얻은 한국의 "이오리스" 에서 제작한 게�
 	</game>
 	<game>
 		<path>./ironclad.zip</path>
-		<name>초철 브리킹거 / 아이언 클래드 (시험판)</name>
+		<name>초철 브리킹거 / 아이언 클래드</name>
 		<image>./../arcade/snap/ironclad.png</image>
 		<video>./../arcade/snap/ironclad.mp4</video>
 		<marquee>./../arcade/marquee/ironclad.png</marquee>
@@ -1249,7 +1249,7 @@ SNK 에서 라이센스를 얻은 한국의 "이오리스" 에서 제작한 게�
 	</game>
 	<game>
 		<path>./jockeygp.zip</path>
-		<name>조키 그랑프리 (세트 1)</name>
+		<name>조키 그랑프리</name>
 		<image>./../arcade/snap/jockeygp.png</image>
 		<video>./../arcade/snap/jockeygp.mp4</video>
 		<marquee>./../arcade/marquee/jockeygp.png</marquee>
@@ -1271,7 +1271,7 @@ SNK 에서 라이센스를 얻은 한국의 "이오리스" 에서 제작한 게�
 	</game>
 	<game>
 		<path>./joyjoy.zip</path>
-		<name>퍼즐드 / 조이조이 키드 (NGM-021)(NGH-021)</name>
+		<name>퍼즐드 / 조이조이 키드</name>
 		<image>./../arcade/snap/joyjoy.png</image>
 		<video>./../arcade/snap/joyjoy.mp4</video>
 		<marquee>./../arcade/marquee/joyjoy.png</marquee>
@@ -1287,7 +1287,7 @@ SNK 에서 라이센스를 얻은 한국의 "이오리스" 에서 제작한 게�
 	</game>
 	<game>
 		<path>./kabukikl.zip</path>
-		<name>천외마경 진전 / 가부키 클래쉬</name>
+		<name>천외마경 진전 / 카부키 클래쉬</name>
 		<image>./../arcade/snap/kabukikl.png</image>
 		<video>./../arcade/snap/kabukikl.mp4</video>
 		<marquee>./../arcade/marquee/kabukikl.png</marquee>
@@ -1611,7 +1611,7 @@ CPU : 68000, Z80
 	</game>
 	<game>
 		<path>./kf2k3pcb.zip</path>
-		<name>킹 오브 파이터즈 2003 (일본판, 잼마 PCB)</name>
+		<name>킹 오브 파이터즈 2003</name>
 		<image>./../arcade/snap/kf2k3pcb.png</image>
 		<video>./../arcade/snap/kf2k3pcb.mp4</video>
 		<marquee>./../arcade/marquee/kf2k3pcb.png</marquee>
@@ -1741,7 +1741,7 @@ CPU : 68000, Z80
 	</game>
 	<game>
 		<path>./kof2000.zip</path>
-		<name>킹 오브 파이터즈 2000 (NGM-2570)(NGH-2570)</name>
+		<name>킹 오브 파이터즈 2000</name>
 		<image>./../arcade/snap/kof2000.png</image>
 		<video>./../arcade/snap/kof2000.mp4</video>
 		<marquee>./../arcade/marquee/kof2000.png</marquee>
@@ -1825,7 +1825,7 @@ SNK는 2001년 재정 악화로 인해 영업정지 및 파산에 이르게 된�
 	</game>
 	<game>
 		<path>./kof2001.zip</path>
-		<name>킹 오브 파이터즈 2001 (NGM-262?)</name>
+		<name>킹 오브 파이터즈 2001</name>
 		<image>./../arcade/snap/kof2001.png</image>
 		<video>./../arcade/snap/kof2001.mp4</video>
 		<marquee>./../arcade/marquee/kof2001.png</marquee>
@@ -1875,7 +1875,7 @@ SNK 에서 라이센스를 얻은 한국의 "이오리스" 에서 제작한 게�
 	</game>
 	<game>
 		<path>./kof2002.zip</path>
-		<name>킹 오브 파이터즈 2002 (NGM-2650)(NGH-2650)</name>
+		<name>킹 오브 파이터즈 2002</name>
 		<image>./../arcade/snap/kof2002.png</image>
 		<video>./../arcade/snap/kof2002.mp4</video>
 		<marquee>./../arcade/marquee/kof2002.png</marquee>
@@ -1925,7 +1925,7 @@ SNK 에서 라이센스를 얻은 한국의 "이오리스" 에서 제작한 게�
 	</game>
 	<game>
 		<path>./kof2003.zip</path>
-		<name>킹 오브 파이터즈 2003 (NGM-2710)</name>
+		<name>킹 오브 파이터즈 2003</name>
 		<image>./../arcade/snap/kof2003.png</image>
 		<video>./../arcade/snap/kof2003.mp4</video>
 		<marquee>./../arcade/marquee/kof2003.png</marquee>
@@ -1972,7 +1972,7 @@ SNK 에서 라이센스를 얻은 한국의 "이오리스" 에서 제작한 게�
 	</game>
 	<game>
 		<path>./kof94.zip</path>
-		<name>킹 오브 파이터즈 94 (NGM-055)(NGH-055)</name>
+		<name>킹 오브 파이터즈 94</name>
 		<image>./../arcade/snap/kof94.png</image>
 		<video>./../arcade/snap/kof94.mp4</video>
 		<marquee>./../arcade/marquee/kof94.png</marquee>
@@ -1998,7 +1998,7 @@ SNK 에서 라이센스를 얻은 한국의 "이오리스" 에서 제작한 게�
 	</game>
 	<game>
 		<path>./kof95.zip</path>
-		<name>킹 오브 파이터즈 95 (NGM-084)</name>
+		<name>킹 오브 파이터즈 95</name>
 		<image>./../arcade/snap/kof95.png</image>
 		<video>./../arcade/snap/kof95.mp4</video>
 		<marquee>./../arcade/marquee/kof95.png</marquee>
@@ -2049,7 +2049,7 @@ SNK 에서 라이센스를 얻은 한국의 "이오리스" 에서 제작한 게�
 	</game>
 	<game>
 		<path>./kof96.zip</path>
-		<name>킹 오브 파이터즈 96 (NGM-214)</name>
+		<name>킹 오브 파이터즈 96</name>
 		<image>./../arcade/snap/kof96.png</image>
 		<video>./../arcade/snap/kof96.mp4</video>
 		<marquee>./../arcade/marquee/kof96.png</marquee>
@@ -2182,7 +2182,7 @@ SNK의 3번째 징크스도 그럭저럭 돌파해냈다. 하지만 커맨드 �
 	</game>
 	<game>
 		<path>./kof97.zip</path>
-		<name>킹 오브 파이터즈 97 (NGM-2320)</name>
+		<name>킹 오브 파이터즈 97</name>
 		<image>./../arcade/snap/kof97.png</image>
 		<video>./../arcade/snap/kof97.mp4</video>
 		<marquee>./../arcade/marquee/kof97.png</marquee>
@@ -2350,7 +2350,7 @@ SNK의 3번째 징크스도 그럭저럭 돌파해냈다. 하지만 커맨드 �
 	</game>
 	<game>
 		<path>./kof98.zip</path>
-		<name>킹 오브 파이터즈 98 - 슬러그피스트 (NGM-2420)</name>
+		<name>킹 오브 파이터즈 98 - 슬러그피스트</name>
 		<image>./../arcade/snap/kof98.png</image>
 		<video>./../arcade/snap/kof98.mp4</video>
 		<marquee>./../arcade/marquee/kof98.png</marquee>
@@ -2502,7 +2502,7 @@ SNK의 3번째 징크스도 그럭저럭 돌파해냈다. 하지만 커맨드 �
 	</game>
 	<game>
 		<path>./kof99.zip</path>
-		<name>킹 오브 파이터즈 99 - 밀레니엄 배틀 (NGM-2510)</name>
+		<name>킹 오브 파이터즈 99 - 밀레니엄 배틀</name>
 		<image>./../arcade/snap/kof99.png</image>
 		<video>./../arcade/snap/kof99.mp4</video>
 		<marquee>./../arcade/marquee/kof99.png</marquee>
@@ -2658,7 +2658,7 @@ SNK社 의 역사에서 보기 드믄 빼어난 이식도를 보여주고 있다
 	</game>
 	<game>
 		<path>./kotm.zip</path>
-		<name>킹 오브 더 몬스터즈 (세트 1)</name>
+		<name>킹 오브 더 몬스터즈</name>
 		<image>./../arcade/snap/kotm.png</image>
 		<video>./../arcade/snap/kotm.mp4</video>
 		<marquee>./../arcade/marquee/kotm.png</marquee>
@@ -2675,7 +2675,7 @@ SNK社 의 역사에서 보기 드믄 빼어난 이식도를 보여주고 있다
 	</game>
 	<game>
 		<path>./kotm2.zip</path>
-		<name>킹 오브 더 몬스터즈 2 (NGM-039)(NGH-039)</name>
+		<name>킹 오브 더 몬스터즈 2</name>
 		<image>./../arcade/snap/kotm2.png</image>
 		<video>./../arcade/snap/kotm2.mp4</video>
 		<marquee>./../arcade/marquee/kotm2.png</marquee>
@@ -2746,7 +2746,7 @@ SNK社 의 역사에서 보기 드믄 빼어난 이식도를 보여주고 있다
 	</game>
 	<game>
 		<path>./lastblad.zip</path>
-		<name>월화의 검사 / 라스트 블레이드 (NGM-2340)</name>
+		<name>월화의 검사 / 라스트 블레이드</name>
 		<image>./../arcade/snap/lastblad.png</image>
 		<video>./../arcade/snap/lastblad.mp4</video>
 		<marquee>./../arcade/marquee/lastblad.png</marquee>
@@ -2800,7 +2800,7 @@ SNK社 의 역사에서 보기 드믄 빼어난 이식도를 보여주고 있다
 	</game>
 	<game>
 		<path>./lastbld2.zip</path>
-		<name>월화의 검사 2 / 라스트 블레이드 2 (NGM-2430)(NGH-2430)</name>
+		<name>월화의 검사 2 / 라스트 블레이드 2</name>
 		<image>./../arcade/snap/lastbld2.png</image>
 		<video>./../arcade/snap/lastbld2.mp4</video>
 		<marquee>./../arcade/marquee/lastbld2.png</marquee>
@@ -2818,7 +2818,7 @@ SNK社 의 역사에서 보기 드믄 빼어난 이식도를 보여주고 있다
 	</game>
 	<game>
 		<path>./lasthope.zip</path>
-		<name>라스트 호프 (해적판 AES MVS 컨버전, 동전 지원안함)</name>
+		<name>라스트 호프</name>
 		<image>./../arcade/snap/lasthope.png</image>
 		<video>./../arcade/snap/lasthope.mp4</video>
 		<marquee>./../arcade/marquee/lasthope.png</marquee>
@@ -2846,7 +2846,7 @@ SNK社 의 역사에서 보기 드믄 빼어난 이식도를 보여주고 있다
 	</game>
 	<game>
 		<path>./lbowling.zip</path>
-		<name>리그 볼링 (NGM-019)(NGH-019)</name>
+		<name>리그 볼링</name>
 		<image>./../arcade/snap/lbowling.png</image>
 		<video>./../arcade/snap/lbowling.mp4</video>
 		<marquee>./../arcade/marquee/lbowling.png</marquee>
@@ -2878,7 +2878,7 @@ SNK社 의 역사에서 보기 드믄 빼어난 이식도를 보여주고 있다
 	</game>
 	<game>
 		<path>./lhcdb.zip</path>
-		<name>라스트 호프 (Neo CD 컨버젼)</name>
+		<name>라스트 호프</name>
 		<image>./../arcade/snap/lhcdb.png</image>
 		<video>./../arcade/snap/lhcdb.mp4</video>
 		<marquee>./../arcade/marquee/lhcdb.png</marquee>
@@ -2956,7 +2956,7 @@ SNK社 의 역사에서 보기 드믄 빼어난 이식도를 보여주고 있다
 	</game>
 	<game>
 		<path>./maglord.zip</path>
-		<name>매지션 로드 (NGM-005)</name>
+		<name>매지션 로드</name>
 		<image>./../arcade/snap/maglord.png</image>
 		<video>./../arcade/snap/maglord.mp4</video>
 		<marquee>./../arcade/marquee/maglord.png</marquee>
@@ -2988,7 +2988,7 @@ SNK社 의 역사에서 보기 드믄 빼어난 이식도를 보여주고 있다
 	</game>
 	<game>
 		<path>./mahretsu.zip</path>
-		<name>마작 광열전 (NGM-004)(NGH-004)</name>
+		<name>마작 광열전</name>
 		<image>./../arcade/snap/mahretsu.png</image>
 		<video>./../arcade/snap/mahretsu.mp4</video>
 		<marquee>./../arcade/marquee/mahretsu.png</marquee>
@@ -3021,7 +3021,7 @@ SNK社 의 역사에서 보기 드믄 빼어난 이식도를 보여주고 있다
 	</game>
 	<game>
 		<path>./matrim.zip</path>
-		<name>신 호혈사 일족 투혼 / 매트리밀리 (NGM-2660)(NGH-2660)</name>
+		<name>신 호혈사 일족 투혼 / 매트리밀리</name>
 		<image>./../arcade/snap/matrim.png</image>
 		<video>./../arcade/snap/matrim.mp4</video>
 		<marquee>./../arcade/marquee/matrim.png</marquee>
@@ -3058,7 +3058,7 @@ CPU 대전 외에 연습모드나 대전모드도 존재한다. 캐릭터 디자
 	</game>
 	<game>
 		<path>./minasan.zip</path>
-		<name>여러분 덕택입니다 (MOM-001)(MOH-001)</name>
+		<name>여러분 덕택입니다</name>
 		<image>./../arcade/snap/minasan.png</image>
 		<video>./../arcade/snap/minasan.mp4</video>
 		<marquee>./../arcade/marquee/minasan.png</marquee>
@@ -3098,7 +3098,7 @@ SNK社의 도산 이후, 메탈슬러그의 인기에 편승하여 "메가 엔�
 	</game>
 	<game>
 		<path>./ms5pcb.zip</path>
-		<name>메탈 슬러그 5 (잼마 PCB)</name>
+		<name>메탈 슬러그 5</name>
 		<image>./../arcade/snap/ms5pcb.png</image>
 		<video>./../arcade/snap/ms5pcb.mp4</video>
 		<marquee>./../arcade/marquee/ms5pcb.png</marquee>
@@ -3143,7 +3143,7 @@ SNK가 SNK Playmore로 부활한 이후에는 SNKP 에서 제작하고 있다.</
 	</game>
 	<game>
 		<path>./mslug2.zip</path>
-		<name>메탈 슬러그 2 - 슈퍼 비히클 -001/II (NGM-2410)(NGH-2410)</name>
+		<name>메탈 슬러그 2 - 슈퍼 비히클 -001/II</name>
 		<image>./../arcade/snap/mslug2.png</image>
 		<video>./../arcade/snap/mslug2.mp4</video>
 		<marquee>./../arcade/marquee/mslug2.png</marquee>
@@ -3227,7 +3227,7 @@ SNK가 SNK Playmore로 부활한 이후에는 SNKP 에서 제작하고 있다.</
 	</game>
 	<game>
 		<path>./mslug3.zip</path>
-		<name>메탈 슬러그 3 (NGM-2560)</name>
+		<name>메탈 슬러그 3</name>
 		<image>./../arcade/snap/mslug3.png</image>
 		<video>./../arcade/snap/mslug3.mp4</video>
 		<marquee>./../arcade/marquee/mslug3.png</marquee>
@@ -3323,7 +3323,7 @@ SNK가 SNK Playmore로 부활한 이후에는 SNKP 에서 제작하고 있다.</
 	</game>
 	<game>
 		<path>./mslug4.zip</path>
-		<name>메탈 슬러그 4 (NGM-2630)</name>
+		<name>메탈 슬러그 4</name>
 		<image>./../arcade/snap/mslug4.png</image>
 		<video>./../arcade/snap/mslug4.mp4</video>
 		<marquee>./../arcade/marquee/mslug4.png</marquee>
@@ -3353,7 +3353,7 @@ SNK社의 도산 이후, 메탈슬러그의 인기에 편승하여 "메가 엔�
 	</game>
 	<game>
 		<path>./mslug5.zip</path>
-		<name>메탈 슬러그 5 (NGM-2680)</name>
+		<name>메탈 슬러그 5</name>
 		<image>./../arcade/snap/mslug5.png</image>
 		<video>./../arcade/snap/mslug5.mp4</video>
 		<marquee>./../arcade/marquee/mslug5.png</marquee>
@@ -3386,7 +3386,7 @@ SNK社의 도산 이후, 메탈슬러그의 인기에 편승하여 "메가 엔�
 	</game>
 	<game>
 		<path>./mslugx.zip</path>
-		<name>메탈 슬러그 X - 슈퍼 비히클-001 (NGM-2500)(NGH-2500)</name>
+		<name>메탈 슬러그 X - 슈퍼 비히클-001</name>
 		<image>./../arcade/snap/mslugx.png</image>
 		<video>./../arcade/snap/mslugx.mp4</video>
 		<marquee>./../arcade/marquee/mslugx.png</marquee>
@@ -3410,7 +3410,7 @@ SNK社의 도산 이후, 메탈슬러그의 인기에 편승하여 "메가 엔�
 	</game>
 	<game>
 		<path>./mutnat.zip</path>
-		<name>뮤테이션 네이션 (NGM-014)(NGH-014)</name>
+		<name>뮤테이션 네이션</name>
 		<image>./../arcade/snap/mutnat.png</image>
 		<video>./../arcade/snap/mutnat.mp4</video>
 		<marquee>./../arcade/marquee/mutnat.png</marquee>
@@ -3430,7 +3430,7 @@ SNK社의 도산 이후, 메탈슬러그의 인기에 편승하여 "메가 엔�
 	</game>
 	<game>
 		<path>./nam1975.zip</path>
-		<name>남-1975 (NGM-001)(NGH-001)</name>
+		<name>남-1975</name>
 		<image>./../arcade/snap/nam1975.png</image>
 		<video>./../arcade/snap/nam1975.mp4</video>
 		<marquee>./../arcade/marquee/nam1975.png</marquee>
@@ -3452,7 +3452,7 @@ SNK社의 도산 이후, 메탈슬러그의 인기에 편승하여 "메가 엔�
 	</game>
 	<game>
 		<path>./ncombat.zip</path>
-		<name>닌자 컴뱃 (NGM-009)</name>
+		<name>닌자 컴뱃</name>
 		<image>./../arcade/snap/ncombat.png</image>
 		<video>./../arcade/snap/ncombat.mp4</video>
 		<marquee>./../arcade/marquee/ncombat.png</marquee>
@@ -3553,7 +3553,7 @@ SNK社의 도산 이후, 메탈슬러그의 인기에 편승하여 "메가 엔�
 	</game>
 	<game>
 		<path>./neocdz.zip</path>
-		<name>바이오스</name>
+		<name>네오지오 CDZ 시스셈</name>
 		<image>./../arcade/snap/neocdz.png</image>
 		<video>./../arcade/snap/neocdz.mp4</video>
 		<marquee>./../arcade/marquee/neocdz.png</marquee>
@@ -3587,7 +3587,7 @@ SNK社의 도산 이후, 메탈슬러그의 인기에 편승하여 "메가 엔�
 	</game>
 	<game>
 		<path>./neodemo.zip</path>
-		<name>카오스 데모 (데모)</name>
+		<name>카오스 데모</name>
 		<image>./../arcade/snap/neodemo.png</image>
 		<video>./../arcade/snap/neodemo.mp4</video>
 		<marquee>./../arcade/marquee/neodemo.png</marquee>
@@ -3610,7 +3610,7 @@ SNK社의 도산 이후, 메탈슬러그의 인기에 편승하여 "메가 엔�
 	</game>
 	<game>
 		<path>./neogalag.zip</path>
-		<name>겔러그 데모 (세트 1)</name>
+		<name>겔러그 데모</name>
 		<image>./../arcade/snap/neogalag.png</image>
 		<video>./../arcade/snap/neogalag.mp4</video>
 		<marquee>./../arcade/marquee/neogalag.png</marquee>
@@ -3653,7 +3653,7 @@ SNK社의 도산 이후, 메탈슬러그의 인기에 편승하여 "메가 엔�
 	</game>
 	<game>
 		<path>./neonopon.zip</path>
-		<name>네오 노 파네퐁 (베타)</name>
+		<name>네오 노 파네퐁</name>
 		<image>./../arcade/snap/neonopon.png</image>
 		<video>./../arcade/snap/neonopon.mp4</video>
 		<marquee>./../arcade/marquee/neonopon.png</marquee>
@@ -3662,7 +3662,7 @@ SNK社의 도산 이후, 메탈슬러그의 인기에 편승하여 "메가 엔�
 	</game>
 	<game>
 		<path>./neopong.zip</path>
-		<name>네오 퐁 (버전 1.1)</name>
+		<name>네오 퐁</name>
 		<image>./../arcade/snap/neopong.png</image>
 		<video>./../arcade/snap/neopong.mp4</video>
 		<marquee>./../arcade/marquee/neopong.png</marquee>
@@ -3716,7 +3716,7 @@ SNK社의 도산 이후, 메탈슬러그의 인기에 편승하여 "메가 엔�
 	</game>
 	<game>
 		<path>./ngem2k.zip</path>
-		<name>NGEM2K (2006-01-18)</name>
+		<name>NGEM2K</name>
 		<image>./../arcade/snap/ngem2k.png</image>
 		<video>./../arcade/snap/ngem2k.mp4</video>
 		<marquee>./../arcade/marquee/ngem2k.png</marquee>
@@ -3815,7 +3815,7 @@ SNK社의 도산 이후, 메탈슬러그의 인기에 편승하여 "메가 엔�
 	</game>
 	<game>
 		<path>./pbobbl2n.zip</path>
-		<name>퍼즐 보블 2 / 버스트 어 무브 어게인 (네오지오)</name>
+		<name>퍼즐 보블 2 / 버스트 어 무브 어게인</name>
 		<image>./../arcade/snap/pbobbl2n.png</image>
 		<video>./../arcade/snap/pbobbl2n.mp4</video>
 		<marquee>./../arcade/marquee/pbobbl2n.png</marquee>
@@ -3833,7 +3833,7 @@ SNK社의 도산 이후, 메탈슬러그의 인기에 편승하여 "메가 엔�
 	</game>
 	<game>
 		<path>./pbobblen.zip</path>
-		<name>퍼즐 보블 / 버스트 어 무브 (네오지오)(NGM-083)</name>
+		<name>퍼즐 보블 / 버스트 어 무브</name>
 		<image>./../arcade/snap/pbobblen.png</image>
 		<video>./../arcade/snap/pbobblen.mp4</video>
 		<marquee>./../arcade/marquee/pbobblen.png</marquee>
@@ -3875,7 +3875,7 @@ SNK社의 도산 이후, 메탈슬러그의 인기에 편승하여 "메가 엔�
 	</game>
 	<game>
 		<path>./pgoal.zip</path>
-		<name>플레져 골 / 풋살 - 5 on 5 미니 축구 (NGM-219)</name>
+		<name>플레져 골 / 풋살 - 5 on 5 미니 축구</name>
 		<image>./../arcade/snap/pgoal.png</image>
 		<video>./../arcade/snap/pgoal.mp4</video>
 		<marquee>./../arcade/marquee/pgoal.png</marquee>
@@ -3933,7 +3933,7 @@ SNK社의 도산 이후, 메탈슬러그의 인기에 편승하여 "메가 엔�
 	</game>
 	<game>
 		<path>./pspikes2.zip</path>
-		<name>파워 스파이크 2 (NGM-068)</name>
+		<name>파워 스파이크 2</name>
 		<image>./../arcade/snap/pspikes2.png</image>
 		<video>./../arcade/snap/pspikes2.mp4</video>
 		<marquee>./../arcade/marquee/pspikes2.png</marquee>
@@ -3992,7 +3992,7 @@ SNK社의 도산 이후, 메탈슬러그의 인기에 편승하여 "메가 엔�
 	</game>
 	<game>
 		<path>./quizdai2.zip</path>
-		<name>퀴즈 미탐정 네오 &amp; 지오 - 퀴즈 대수사선 파트 2 (NGM-042)(NGH-042)</name>
+		<name>퀴즈 미탐정 네오 &amp; 지오 - 퀴즈 대수사선 파트 2</name>
 		<image>./../arcade/snap/quizdai2.png</image>
 		<video>./../arcade/snap/quizdai2.mp4</video>
 		<marquee>./../arcade/marquee/quizdai2.png</marquee>
@@ -4009,7 +4009,7 @@ SNK社의 도산 이후, 메탈슬러그의 인기에 편승하여 "메가 엔�
 	</game>
 	<game>
 		<path>./quizdais.zip</path>
-		<name>퀴즈 대수사선 - 라스트 카운트다운 (NGM-023)(NGH-023)</name>
+		<name>퀴즈 대수사선 - 라스트 카운트다운</name>
 		<image>./../arcade/snap/quizdais.png</image>
 		<video>./../arcade/snap/quizdais.mp4</video>
 		<marquee>./../arcade/marquee/quizdais.png</marquee>
@@ -4047,7 +4047,7 @@ SNK社의 도산 이후, 메탈슬러그의 인기에 편승하여 "메가 엔�
 	</game>
 	<game>
 		<path>./quizkof.zip</path>
-		<name>퀴즈 킹 오브 파이터즈 (SAM-080)(SAH-080)</name>
+		<name>퀴즈 킹 오브 파이터즈</name>
 		<image>./../arcade/snap/quizkof.png</image>
 		<video>./../arcade/snap/quizkof.mp4</video>
 		<marquee>./../arcade/marquee/quizkof.png</marquee>
@@ -4098,7 +4098,7 @@ SNK社의 도산 이후, 메탈슬러그의 인기에 편승하여 "메가 엔�
 	</game>
 	<game>
 		<path>./rbff1.zip</path>
-		<name>리얼 바웃 아랑전설 (NGM-095)(NGH-095)</name>
+		<name>리얼 바웃 아랑전설</name>
 		<image>./../arcade/snap/rbff1.png</image>
 		<video>./../arcade/snap/rbff1.mp4</video>
 		<marquee>./../arcade/marquee/rbff1.png</marquee>
@@ -4150,7 +4150,7 @@ SNK社의 도산 이후, 메탈슬러그의 인기에 편승하여 "메가 엔�
 	</game>
 	<game>
 		<path>./rbff2.zip</path>
-		<name>리얼 바웃 아랑전설 2 - 신인 (NGM-2400)</name>
+		<name>리얼 바웃 아랑전설 2 - 신인</name>
 		<image>./../arcade/snap/rbff2.png</image>
 		<video>./../arcade/snap/rbff2.mp4</video>
 		<marquee>./../arcade/marquee/rbff2.png</marquee>
@@ -4227,7 +4227,7 @@ SNK社의 도산 이후, 메탈슬러그의 인기에 편승하여 "메가 엔�
 	</game>
 	<game>
 		<path>./ridhero.zip</path>
-		<name>라이딩 히어로 (NGM-006)(NGH-006)</name>
+		<name>라이딩 히어로</name>
 		<image>./../arcade/snap/ridhero.png</image>
 		<video>./../arcade/snap/ridhero.mp4</video>
 		<marquee>./../arcade/marquee/ridhero.png</marquee>
@@ -4277,7 +4277,7 @@ SNK社의 도산 이후, 메탈슬러그의 인기에 편승하여 "메가 엔�
 	</game>
 	<game>
 		<path>./roboarmy.zip</path>
-		<name>로보 아미 (세트 1)</name>
+		<name>로보 아미</name>
 		<image>./../arcade/snap/roboarmy.png</image>
 		<video>./../arcade/snap/roboarmy.mp4</video>
 		<marquee>./../arcade/marquee/roboarmy.png</marquee>
@@ -4293,7 +4293,7 @@ SNK社의 도산 이후, 메탈슬러그의 인기에 편승하여 "메가 엔�
 	</game>
 	<game>
 		<path>./robocopi.zip</path>
-		<name>로보캅 (데모)</name>
+		<name>로보캅</name>
 		<image>./../arcade/snap/robocopi.png</image>
 		<video>./../arcade/snap/robocopi.mp4</video>
 		<marquee>./../arcade/marquee/robocopi.png</marquee>
@@ -4302,7 +4302,7 @@ SNK社의 도산 이후, 메탈슬러그의 인기에 편승하여 "메가 엔�
 	</game>
 	<game>
 		<path>./rotd.zip</path>
-		<name>레이지 오브 더 드래곤 (NGM-264?)</name>
+		<name>레이지 오브 더 드래곤</name>
 		<image>./../arcade/snap/rotd.png</image>
 		<video>./../arcade/snap/rotd.mp4</video>
 		<marquee>./../arcade/marquee/rotd.png</marquee>
@@ -4335,7 +4335,7 @@ SNK社의 도산 이후, 메탈슬러그의 인기에 편승하여 "메가 엔�
 	</game>
 	<game>
 		<path>./samsh5sp.zip</path>
-		<name>사무라이 쇼다운 5 특별판 / 사무라이 스피리츠 령 (NGM-2720)</name>
+		<name>사무라이 쇼다운 5 특별판 / 사무라이 스피리츠 령</name>
 		<image>./../arcade/snap/samsh5sp.png</image>
 		<video>./../arcade/snap/samsh5sp.mp4</video>
 		<marquee>./../arcade/marquee/samsh5sp.png</marquee>
@@ -4389,7 +4389,7 @@ SNK社의 도산 이후, 메탈슬러그의 인기에 편승하여 "메가 엔�
 	</game>
 	<game>
 		<path>./samsho.zip</path>
-		<name>사무라이 쇼다운 / 사무라이 스피리츠 (NGM-045)</name>
+		<name>사무라이 쇼다운 / 사무라이 스피리츠</name>
 		<image>./../arcade/snap/samsho.png</image>
 		<video>./../arcade/snap/samsho.mp4</video>
 		<marquee>./../arcade/marquee/samsho.png</marquee>
@@ -4421,7 +4421,7 @@ SNK社 에서 발매한 또 다른 느낌의 대전 액션 게임.
 	</game>
 	<game>
 		<path>./samsho2.zip</path>
-		<name>사무라이 쇼다운 2 / 진 사무라이 스피리츠 - 하오마루 지옥변 (NGM-063)(NGH-063)</name>
+		<name>사무라이 쇼다운 2 / 진 사무라이 스피리츠 - 하오마루 지옥변</name>
 		<image>./../arcade/snap/samsho2.png</image>
 		<video>./../arcade/snap/samsho2.mp4</video>
 		<marquee>./../arcade/marquee/samsho2.png</marquee>
@@ -4457,7 +4457,7 @@ SNK社 에서 발매한 또 다른 느낌의 대전 액션 게임.
 	</game>
 	<game>
 		<path>./samsho3.zip</path>
-		<name>사무라이 쇼다운 3 / 사무라이 스피리츠 - 잔쿠로 무쌍검 (NGM-087)</name>
+		<name>사무라이 쇼다운 3 / 사무라이 스피리츠 - 잔쿠로 무쌍검</name>
 		<image>./../arcade/snap/samsho3.png</image>
 		<video>./../arcade/snap/samsho3.mp4</video>
 		<marquee>./../arcade/marquee/samsho3.png</marquee>
@@ -4489,7 +4489,7 @@ SNK社 에서 발매한 또 다른 느낌의 대전 액션 게임.
 	</game>
 	<game>
 		<path>./samsho4.zip</path>
-		<name>사무라이 쇼다운 4 - 아마쿠사의 복수 / 사무라이 스피리츠 - 아마쿠사 강림 (NGM-222)(NGH-222)</name>
+		<name>사무라이 쇼다운 4 - 아마쿠사의 복수 / 사무라이 스피리츠 - 아마쿠사 강림</name>
 		<image>./../arcade/snap/samsho4.png</image>
 		<video>./../arcade/snap/samsho4.mp4</video>
 		<marquee>./../arcade/marquee/samsho4.png</marquee>
@@ -4519,7 +4519,7 @@ SNK社 에서 발매한 또 다른 느낌의 대전 액션 게임.
 	</game>
 	<game>
 		<path>./samsho5.zip</path>
-		<name>사무라이 쇼다운 5 / 사무라이 스피리츠 령 (NGM-2700)</name>
+		<name>사무라이 쇼다운 5 / 사무라이 스피리츠 령</name>
 		<image>./../arcade/snap/samsho5.png</image>
 		<video>./../arcade/snap/samsho5.mp4</video>
 		<marquee>./../arcade/marquee/samsho5.png</marquee>
@@ -4687,7 +4687,7 @@ SNK社 에서 발매한 또 다른 느낌의 대전 액션 게임.
 	</game>
 	<game>
 		<path>./sengoku.zip</path>
-		<name>전국전승 (NGM-017)(NGH-017)</name>
+		<name>전국전승</name>
 		<image>./../arcade/snap/sengoku.png</image>
 		<video>./../arcade/snap/sengoku.mp4</video>
 		<marquee>./../arcade/marquee/sengoku.png</marquee>
@@ -4780,7 +4780,7 @@ SNK社 에서 발매한 또 다른 느낌의 대전 액션 게임.
 	</game>
 	<game>
 		<path>./shocktro.zip</path>
-		<name>쇼크 트루퍼스 (세트 1)</name>
+		<name>쇼크 트루퍼스</name>
 		<image>./../arcade/snap/shocktro.png</image>
 		<video>./../arcade/snap/shocktro.mp4</video>
 		<marquee>./../arcade/marquee/shocktro.png</marquee>
@@ -4826,7 +4826,7 @@ SNK社 에서 발매한 또 다른 느낌의 대전 액션 게임.
 	</game>
 	<game>
 		<path>./socbrawl.zip</path>
-		<name>사커 브롤 (NGM-031)</name>
+		<name>사커 브롤</name>
 		<image>./../arcade/snap/socbrawl.png</image>
 		<video>./../arcade/snap/socbrawl.mp4</video>
 		<marquee>./../arcade/marquee/socbrawl.png</marquee>
@@ -4888,7 +4888,7 @@ SNK社 에서 발매한 또 다른 느낌의 대전 액션 게임.
 	</game>
 	<game>
 		<path>./spidermi.zip</path>
-		<name>스파이더 맨 (데모)</name>
+		<name>스파이더 맨</name>
 		<image>./../arcade/snap/spidermi.png</image>
 		<video>./../arcade/snap/spidermi.mp4</video>
 		<marquee>./../arcade/marquee/spidermi.png</marquee>
@@ -4928,7 +4928,7 @@ SNK社 에서 발매한 또 다른 느낌의 대전 액션 게임.
 	</game>
 	<game>
 		<path>./ssideki2.zip</path>
-		<name>슈퍼 사이드킥스 2 - 월드 챔피언쉽 / 득점왕 2 - 리얼 파이트 풋볼 (NGM-061)(NGH-061)</name>
+		<name>슈퍼 사이드킥스 2 - 월드 챔피언쉽 / 득점왕 2 - 리얼 파이트 풋볼</name>
 		<image>./../arcade/snap/ssideki2.png</image>
 		<video>./../arcade/snap/ssideki2.mp4</video>
 		<marquee>./../arcade/marquee/ssideki2.png</marquee>
@@ -5007,7 +5007,7 @@ PK 전이나 서든 데스도 마련되어 있다.</desc>
 	</game>
 	<game>
 		<path>./strhoop.zip</path>
-		<name>길거리 농구 / 스트리트 슬램 / 덩크 드림 94 (DEM-004)(DEH-004)</name>
+		<name>길거리 농구 / 스트리트 슬램 / 덩크 드림 94</name>
 		<image>./../arcade/snap/strhoop.png</image>
 		<video>./../arcade/snap/strhoop.mp4</video>
 		<marquee>./../arcade/marquee/strhoop.png</marquee>
@@ -5022,7 +5022,7 @@ PK 전이나 서든 데스도 마련되어 있다.</desc>
 	</game>
 	<game>
 		<path>./superspy.zip</path>
-		<name>슈퍼 스파이 (NGM-011)(NGH-011)</name>
+		<name>슈퍼 스파이</name>
 		<image>./../arcade/snap/superspy.png</image>
 		<video>./../arcade/snap/superspy.mp4</video>
 		<marquee>./../arcade/marquee/superspy.png</marquee>
@@ -5035,7 +5035,7 @@ PK 전이나 서든 데스도 마련되어 있다.</desc>
 	</game>
 	<game>
 		<path>./svc.zip</path>
-		<name>SNK vs 캡콤 카오스 (NGM-2690)(NGH-2690)</name>
+		<name>SNK vs 캡콤 카오스</name>
 		<image>./../arcade/snap/svc.png</image>
 		<video>./../arcade/snap/svc.mp4</video>
 		<marquee>./../arcade/marquee/svc.png</marquee>
@@ -5057,7 +5057,7 @@ PK 전이나 서든 데스도 마련되어 있다.</desc>
 	</game>
 	<game>
 		<path>./svcpcb.zip</path>
-		<name>SNK vs 캡콤 카오스 (잼마 PCB, 세트 1)</name>
+		<name>SNK vs 캡콤 카오스</name>
 		<image>./../arcade/snap/svcpcb.png</image>
 		<video>./../arcade/snap/svcpcb.mp4</video>
 		<marquee>./../arcade/marquee/svcpcb.png</marquee>
@@ -5112,7 +5112,7 @@ PK 전이나 서든 데스도 마련되어 있다.</desc>
 	</game>
 	<game>
 		<path>./syscheck.zip</path>
-		<name>네오 시스템 체크 (버전 1.0b)</name>
+		<name>네오 시스템 체크</name>
 		<image>./../arcade/snap/syscheck.png</image>
 		<video>./../arcade/snap/syscheck.mp4</video>
 		<marquee>./../arcade/marquee/syscheck.png</marquee>
@@ -5130,7 +5130,7 @@ PK 전이나 서든 데스도 마련되어 있다.</desc>
 	</game>
 	<game>
 		<path>./tmnti.zip</path>
-		<name>돌연변이 닌자 거북이 (데모)</name>
+		<name>돌연변이 닌자 거북이</name>
 		<image>./../arcade/snap/tmnti.png</image>
 		<video>./../arcade/snap/tmnti.mp4</video>
 		<marquee>./../arcade/marquee/tmnti.png</marquee>
@@ -5148,7 +5148,7 @@ PK 전이나 서든 데스도 마련되어 있다.</desc>
 	</game>
 	<game>
 		<path>./tophuntr.zip</path>
-		<name>탑 헌터 - 로디 &amp; 케시 (NGM-046)</name>
+		<name>탑 헌터 - 로디 &amp; 케시</name>
 		<image>./../arcade/snap/tophuntr.png</image>
 		<video>./../arcade/snap/tophuntr.mp4</video>
 		<marquee>./../arcade/marquee/tophuntr.png</marquee>
@@ -5191,7 +5191,7 @@ PK 전이나 서든 데스도 마련되어 있다.</desc>
 	</game>
 	<game>
 		<path>./tpgolf.zip</path>
-		<name>탑 플레이어의 골프 (NGM-003)(NGH-003)</name>
+		<name>탑 플레이어의 골프</name>
 		<image>./../arcade/snap/tpgolf.png</image>
 		<video>./../arcade/snap/tpgolf.mp4</video>
 		<marquee>./../arcade/marquee/tpgolf.png</marquee>
@@ -5206,7 +5206,7 @@ PK 전이나 서든 데스도 마련되어 있다.</desc>
 	</game>
 	<game>
 		<path>./trally.zip</path>
-		<name>트래쉬 랠리 (ALM-003)(ALH-003)</name>
+		<name>트래쉬 랠리</name>
 		<image>./../arcade/snap/trally.png</image>
 		<video>./../arcade/snap/trally.mp4</video>
 		<marquee>./../arcade/marquee/trally.png</marquee>
@@ -5280,7 +5280,7 @@ PK 전이나 서든 데스도 마련되어 있다.</desc>
 	</game>
 	<game>
 		<path>./vliner.zip</path>
-		<name>V라이너 (세트 1)</name>
+		<name>V라이너</name>
 		<image>./../arcade/snap/vliner.png</image>
 		<video>./../arcade/snap/vliner.mp4</video>
 		<marquee>./../arcade/marquee/vliner.png</marquee>
@@ -5315,7 +5315,7 @@ PK 전이나 서든 데스도 마련되어 있다.</desc>
 	</game>
 	<game>
 		<path>./wh1.zip</path>
-		<name>월드 히어로즈 (ALM-005)</name>
+		<name>월드 히어로즈</name>
 		<image>./../arcade/snap/wh1.png</image>
 		<video>./../arcade/snap/wh1.mp4</video>
 		<marquee>./../arcade/marquee/wh1.png</marquee>
@@ -5396,7 +5396,7 @@ CPU : 68000, Z80
 	</game>
 	<game>
 		<path>./wh2.zip</path>
-		<name>월드 히어로즈 2 (ALM-006)(ALH-006)</name>
+		<name>월드 히어로즈 2</name>
 		<image>./../arcade/snap/wh2.png</image>
 		<video>./../arcade/snap/wh2.mp4</video>
 		<marquee>./../arcade/marquee/wh2.png</marquee>
@@ -5428,7 +5428,7 @@ CPU : 68000, Z80
 	</game>
 	<game>
 		<path>./wh2j.zip</path>
-		<name>월드 히어로즈 2 제트 (ADM-007)(ADH-007)</name>
+		<name>월드 히어로즈 2 제트</name>
 		<image>./../arcade/snap/wh2j.png</image>
 		<video>./../arcade/snap/wh2j.mp4</video>
 		<marquee>./../arcade/marquee/wh2j.png</marquee>
@@ -5517,7 +5517,7 @@ NMK 가 개발한 횡스크롤 슈팅작품.</desc>
 	</game>
 	<game>
 		<path>./zintrckb.zip</path>
-		<name>진트릭 / 밀어내기 젠트릭스 (해킹판 / 해적판) (해적판)</name>
+		<name>진트릭 / 밀어내기 젠트릭스</name>
 		<image>./../arcade/snap/zintrckb.png</image>
 		<video>./../arcade/snap/zintrckb.mp4</video>
 		<marquee>./../arcade/marquee/zintrckb.png</marquee>
