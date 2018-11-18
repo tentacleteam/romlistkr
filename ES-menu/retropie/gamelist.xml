@@ -65,12 +65,28 @@
 		<lastplayed>20180708T100426</lastplayed>
 	</game>
 	<game>
-		<path>.audiosettings.rp</path>
+		<path>./audiosettings.rp</path>
 		<name>오디오</name>
 		<desc>오디오 설정을 변경합니다. 자동, 이어폰잭, HDMI 출력중 선택하세요. 믹서 컨트롤을 변경하고 기본 설정을 적용하세요.</desc>
 		<image>./icons/audiosettings.png</image>
 		<playcount>1</playcount>
 		<lastplayed>20181111T103540</lastplayed>
+	</game>
+	<game>
+		<path>./showip.rp</path>
+		<name>IP 표시</name>
+		<desc>현재 IP 주소를 표시해줍니다. 또한 "ip addr show"명령으로 나오는 정보를 표시합니다.</desc>
+		<image>./icons/showip.png</image>
+		<playcount>4</playcount>
+		<lastplayed>20181118T074846</lastplayed>
+	</game>
+	<game>
+		<path>./rpsetup.rp</path>
+		<name>레트로파이 설정</name>
+		<desc>바이너리 또는 소스를 통해 레트로파이를 설치하거나, 실험적인 패키지 설치, 드라이버 추가, 삼바공유 수정등 레트로파이 관련 설정을 할 수 있습니다.</desc>
+		<image>./icons/rpsetup.png</image>
+		<playcount>2</playcount>
+		<lastplayed>20181118T083504</lastplayed>
 	</game>
 	<game>
 		<path>./#라즈미니파이 설정/oledOn.sh</path>
@@ -113,14 +129,6 @@
 		<lastplayed>20181118T024535</lastplayed>
 	</game>
 	<game>
-		<path>./#라즈미니파이 설정/showip.rp</path>
-		<name>IP 표시</name>
-		<desc>현재 IP 주소를 표시해줍니다. 또한 "ip addr show"명령으로 나오는 정보를 표시합니다.</desc>
-		<image>./icons/showip.png</image>
-		<playcount>4</playcount>
-		<lastplayed>20181118T074846</lastplayed>
-	</game>
-	<game>
 		<path>./#라즈미니파이 설정/gpio2p.sh</path>
 		<name>[GPIO] 1p 2p 활성화</name>
 		<desc>GPIO 1p 2p를 활성화 합니다. 재부팅 후 적용됩니다.</desc>
@@ -136,12 +144,5 @@
 		<playcount>5</playcount>
 		<lastplayed>20181118T085742</lastplayed>
 	</game>
-	<game>
-		<path>./rpsetup.rp</path>
-		<name>레트로파이 설정</name>
-		<desc>바이너리 또는 소스를 통해 레트로파이를 설치하거나, 실험적인 패키지 설치, 드라이버 추가, 삼바공유 수정등 레트로파이 관련 설정을 할 수 있습니다.</desc>
-		<image>./icons/rpsetup.png</image>
-		<playcount>2</playcount>
-		<lastplayed>20181118T083504</lastplayed>
-	</game>
+
 </gameList>
