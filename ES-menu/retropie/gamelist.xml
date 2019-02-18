@@ -1,18 +1,6 @@
 ﻿<?xml version="1.0"?>
 <gameList>
 	<game>
-		<path>./bluetooth.rp</path>
-		<name>블루투스</name>
-		<desc>블루투스 장치를 등록하고 연결합니다. 장치를 등록 또는 삭제하고 연결된 장치를 표시합니다.</desc>
-		<image>/home/pi/RetroPie/retropiemenu/icons/bluetooth.png</image>
-	</game>
-	<game>
-		<path>./configedit.rp</path>
-		<name>설정 에디터</name>
-		<desc>레트로아크(RetroArch) 기본 옵션을 변경하고 레트로아크 및 기타 다른 설정을 수동으로 편집합니다.</desc>
-		<image>/home/pi/RetroPie/retropiemenu/icons/configedit.png</image>
-	</game>
-	<game>
 		<path>./esthemes.rp</path>
 		<name>ES 테마</name>
 		<desc>에뮬레이션스테이션(EmulationStation)용 테마를 설치, 삭제, 업데이트합니다. 대부분의 테마는 https://github.com/retropie/ RetroPie-Setup/wiki/themes 에서 확인할 수 있습니다.</desc>
@@ -53,96 +41,83 @@
 		<name>스플래시 화면</name>
 		<desc>라즈베리 파이 부팅시 나오는 이미지를 활성 또는 비활성합니다. 스플래시 이미지를 변경하거나 새로운 이미지로 다운로드 가능하며 기본값으로 되돌릴 수도 있습니다.</desc>
 		<image>./icons/splashscreen.png</image>
-		<playcount>1</playcount>
-		<lastplayed>20180630T065707</lastplayed>
 	</game>
 	<game>
 		<path>./wifi.rp</path>
 		<name>WiFi</name>
 		<desc>무선 네트워크에 연결 또는 연결 해제하고 무선 설정을 구성합니다.</desc>
 		<image>/home/pi/RetroPie/retropiemenu/icons/wifi.png</image>
-		<playcount>2</playcount>
-		<lastplayed>20180708T100426</lastplayed>
+	</game>
+	<game>
+		<path>./# 라즈미니파이 설정/dacOn.sh</path>
+		<name>[AUDIO] DAC audio 활성화</name>
+		<desc>DAC audio를 활성화 합니다. 재부팅 후 적용됩니다.</desc>
+		<image>./icons/dacOn.png</image>
+	</game>
+	<game>
+		<path>./# 라즈미니파이 설정/hdmiOn.sh</path>
+		<name>[AUDIO] HDMI audio 활성화</name>
+		<desc>HDMI audio를 활성화 합니다. 재부팅 후 적용됩니다.</desc>
+		<image>./icons/hdmiOn.png</image>
 	</game>
 	<game>
 		<path>./audiosettings.rp</path>
 		<name>오디오</name>
 		<desc>오디오 설정을 변경합니다. 자동, 이어폰잭, HDMI 출력중 선택하세요. 믹서 컨트롤을 변경하고 기본 설정을 적용하세요.</desc>
 		<image>./icons/audiosettings.png</image>
-		<playcount>1</playcount>
-		<lastplayed>20181111T103540</lastplayed>
+	</game>
+	<game>
+		<path>./# 라즈미니파이 설정/gpio2p.sh</path>
+		<name>[GPIO] 1p 2p 활성화</name>
+		<desc>GPIO 1p 2p를 활성화 합니다. 재부팅 후 적용됩니다.</desc>
+		<image>./icons/gpio2p.png</image>
 	</game>
 	<game>
 		<path>./showip.rp</path>
 		<name>IP 표시</name>
 		<desc>현재 IP 주소를 표시해줍니다. 또한 "ip addr show"명령으로 나오는 정보를 표시합니다.</desc>
 		<image>./icons/showip.png</image>
-		<playcount>4</playcount>
-		<lastplayed>20181118T074846</lastplayed>
+	</game>
+	<game>
+		<path>./# 라즈미니파이 설정/gpio1p.sh</path>
+		<name>[GPIO] 1p 활성화</name>
+		<desc>GPIO 1p를 활성화 합니다. 재부팅 후 적용됩니다.</desc>
+		<image>./icons/gpio1p.png</image>
+	</game>
+	<game>
+		<path>./# 라즈미니파이 설정/gpioOff.sh</path>
+		<name>[GPIO] 비활성화</name>
+		<desc>GPIO를 비활성화 합니다. 재부팅 후 적용됩니다.</desc>
+		<image>./icons/gpioOff.png</image>
+	</game>
+	<game>
+		<path>./# 라즈미니파이 설정/oledOff.sh</path>
+		<name>[OLED] 비활성화</name>
+		<desc>OLED를 비활성화 합니다. 재부팅 후 적용됩니다.</desc>
+		<image>./icons/oledOff.png</image>
+	</game>
+	<game>
+		<path>./# 라즈미니파이 설정/oledOn.sh</path>
+		<name>[OLED] 활성화</name>
+		<desc>OLED를 활성화 합니다. 재부팅 후 적용됩니다.</desc>
+		<image>./icons/oledOn.png</image>
+	</game>
+	<game>
+		<path>./configedit.rp</path>
+		<name>설정 에디터</name>
+		<desc>레트로아크(RetroArch) 기본 옵션을 변경하고 레트로아크 및 기타 다른 설정을 수동으로 편집합니다.</desc>
+		<image>./icons/configedit.png</image>
+	</game>
+	<game>
+		<path>./bluetooth.rp</path>
+		<name>블루투스</name>
+		<desc>블루투스 장치를 등록하고 연결합니다. 장치를 등록 또는 삭제하고 연결된 장치를 표시합니다.</desc>
+		<image>./icons/bluetooth.png</image>
 	</game>
 	<game>
 		<path>./rpsetup.rp</path>
 		<name>레트로파이 설정</name>
 		<desc>바이너리 또는 소스를 통해 레트로파이를 설치하거나, 실험적인 패키지 설치, 드라이버 추가, 삼바공유 수정등 레트로파이 관련 설정을 할 수 있습니다.</desc>
 		<image>./icons/rpsetup.png</image>
-		<playcount>2</playcount>
-		<lastplayed>20181118T083504</lastplayed>
 	</game>
-	<game>
-		<path>./#라즈미니파이 설정/oledOn.sh</path>
-		<name>[OLED] 활성화</name>
-		<desc>OLED를 활성화 합니다. 재부팅 후 적용됩니다.</desc>
-		<image>/home/pi/RetroPie/retropiemenu/icons/oledOn.png</image>
-		<playcount>1</playcount>
-		<lastplayed>20181111T103540</lastplayed>
-	</game>
-	<game>
-		<path>./#라즈미니파이 설정/oledOff.sh</path>
-		<name>[OLED] 비활성화</name>
-		<desc>OLED를 비활성화 합니다. 재부팅 후 적용됩니다.</desc>
-		<image>/home/pi/RetroPie/retropiemenu/icons/oledOff.png</image>
-		<playcount>1</playcount>
-		<lastplayed>20181111T103540</lastplayed>
-	</game>
-	<game>
-		<path>./#라즈미니파이 설정/gpio1p.sh</path>
-		<name>[GPIO] 1p 활성화</name>
-		<desc>GPIO 1p를 활성화 합니다. 재부팅 후 적용됩니다.</desc>
-		<image>/home/pi/RetroPie/retropiemenu/icons/gpio1p.png</image>
-		<playcount>3</playcount>
-		<lastplayed>20181112T132959</lastplayed>
-	</game>
-	<game>
-		<path>./#라즈미니파이 설정/dacOn.sh</path>
-		<name>[AUDIO] DAC audio 활성화</name>
-		<desc>DAC audio를 활성화 합니다. 재부팅 후 적용됩니다.</desc>
-		<image>./icons/dacOn.png</image>
-		<playcount>5</playcount>
-		<lastplayed>20181115T143016</lastplayed>
-	</game>
-	<game>
-		<path>./#라즈미니파이 설정/hdmiOn.sh</path>
-		<name>[AUDIO] HDMI audio 활성화</name>
-		<desc>HDMI audio를 활성화 합니다. 재부팅 후 적용됩니다.</desc>
-		<image>./icons/hdmiOn.png</image>
-		<playcount>6</playcount>
-		<lastplayed>20181118T024535</lastplayed>
-	</game>
-	<game>
-		<path>./#라즈미니파이 설정/gpio2p.sh</path>
-		<name>[GPIO] 1p 2p 활성화</name>
-		<desc>GPIO 1p 2p를 활성화 합니다. 재부팅 후 적용됩니다.</desc>
-		<image>./icons/gpio2p.png</image>
-		<playcount>5</playcount>
-		<lastplayed>20181118T082338</lastplayed>
-	</game>
-	<game>
-		<path>./#라즈미니파이 설정/gpioOff.sh</path>
-		<name>[GPIO] 비활성화</name>
-		<desc>GPIO를 비활성화 합니다. 재부팅 후 적용됩니다.</desc>
-		<image>./icons/gpioOff.png</image>
-		<playcount>5</playcount>
-		<lastplayed>20181118T085742</lastplayed>
-	</game>
-
 </gameList>
