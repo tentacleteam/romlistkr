@@ -1,11 +1,11 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <!--
 * 제목 : 레트로게임 롬 목록 한글화 프로젝트
 * 지원프론트엔드 : RetroPie, Recalbox, Attract-Mode
-* 지원에뮬 : Arcade(MAME, AdvMAME, FBA), NES, SNES, Mega Drive, GBA, PCA, SMS, Sega 32X
+* 지원에뮬 : Arcade(MAME, AdvMAME, FBA), NES, SNES, Mega Drive,GB, GBC, GBA, PCE, SMS, Sega 32X, NGP, NGPC
 * 제작자 : 텐타클 팀
-* 만든날 : Apr 15, 2017
+* 만든날 : Jul 15, 2019
 * 카페 : http://cafe.naver.com/raspigamer
 * 레트로게임 롬 목록 한글화 자료는 오픈소스입니다. MIT 라이센스를 따르고 있으므로 라이센스와 출처(http://cafe.naver.com/raspigamer) 표시만 지켜주시면 자유롭게 사용하실 수 있습니다.
 -->
@@ -6560,5 +6560,1286 @@
 		<image>./snap/Zoom 909 (Japan).png</image>
 		<video>./snap/Zoom 909 (Japan).mp4</video>
 		<marquee>./marquee/Zoom 909 (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./A Ressha de Ikou MSX (Japan).zip</path>
+		<name>A 열차로 가자 MSX</name>
+		<image>./snap/A Ressha de Ikou MSX (Japan).png</image>
+		<video>./snap/A Ressha de Ikou MSX (Japan).mp4</video>
+		<marquee>./marquee/A Ressha de Ikou MSX (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./AcroJet (Japan).zip</path>
+		<name>에어로젯</name>
+		<image>./snap/AcroJet (Japan).png</image>
+		<video>./snap/AcroJet (Japan).mp4</video>
+		<marquee>./marquee/AcroJet (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Aleste (Japan).zip</path>
+		<name>알레스트</name>
+		<image>./snap/Aleste (Japan).png</image>
+		<video>./snap/Aleste (Japan).mp4</video>
+		<marquee>./marquee/Aleste (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Alges no Yoku (Japan).zip</path>
+		<name>아르기스의 날개</name>
+		<image>./snap/Alges no Yoku (Japan).png</image>
+		<video>./snap/Alges no Yoku (Japan).mp4</video>
+		<marquee>./marquee/Alges no Yoku (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./American Soccer (Japan).zip</path>
+		<name>아메리칸 사커</name>
+		<image>./snap/American Soccer (Japan).png</image>
+		<video>./snap/American Soccer (Japan).mp4</video>
+		<marquee>./marquee/American Soccer (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan).zip</path>
+		<name>원조비사 - 푸른 늑대와 흰 암사슴</name>
+		<image>./snap/Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan).png</image>
+		<video>./snap/Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan).mp4</video>
+		<marquee>./marquee/Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Aoki Ookami to Shiroki Mejika - Genghis Khan (Japan).zip</path>
+		<name>징기스칸 - 푸른 늑대와 흰 암사슴</name>
+		<image>./snap/Aoki Ookami to Shiroki Mejika - Genghis Khan (Japan).png</image>
+		<video>./snap/Aoki Ookami to Shiroki Mejika - Genghis Khan (Japan).mp4</video>
+		<marquee>./marquee/Aoki Ookami to Shiroki Mejika - Genghis Khan (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Arctic - Active Rail Playing (Japan) (Alt 1).zip</path>
+		<name>아크틱 (대체1)</name>
+		<image>./snap/Arctic - Active Rail Playing (Japan) (Alt 1).png</image>
+		<video>./snap/Arctic - Active Rail Playing (Japan) (Alt 1).mp4</video>
+		<marquee>./marquee/Arctic - Active Rail Playing (Japan) (Alt 1).png</marquee>
+	</game>
+	<game>
+		<path>./Arctic - Active Rail Playing (Japan).zip</path>
+		<name>아크틱</name>
+		<image>./snap/Arctic - Active Rail Playing (Japan).png</image>
+		<video>./snap/Arctic - Active Rail Playing (Japan).mp4</video>
+		<marquee>./marquee/Arctic - Active Rail Playing (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Arkanoid II - Revenge of Doh (Japan).zip</path>
+		<name>알카노이드 - DOH의 복수</name>
+		<image>./snap/Arkanoid II - Revenge of Doh (Japan).png</image>
+		<video>./snap/Arkanoid II - Revenge of Doh (Japan).mp4</video>
+		<marquee>./marquee/Arkanoid II - Revenge of Doh (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./AshGuine - Densetsu no Seisenshi (Japan).zip</path>
+		<name>아쉬기네 - 전설의 성전사</name>
+		<image>./snap/AshGuine - Densetsu no Seisenshi (Japan).png</image>
+		<video>./snap/AshGuine - Densetsu no Seisenshi (Japan).mp4</video>
+		<marquee>./marquee/AshGuine - Densetsu no Seisenshi (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./AshGuine Story II - Kokuu no Gajou (Japan).zip</path>
+		<name>아쉬기네 2 - 허공의 아성</name>
+		<image>./snap/AshGuine Story II - Kokuu no Gajou (Japan).png</image>
+		<video>./snap/AshGuine Story II - Kokuu no Gajou (Japan).mp4</video>
+		<marquee>./marquee/AshGuine Story II - Kokuu no Gajou (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./AshGuine Story III - Fukushuu no Honoo (Japan).zip</path>
+		<name>아쉬기네 3 - 복수의 염</name>
+		<image>./snap/AshGuine Story III - Fukushuu no Honoo (Japan).png</image>
+		<video>./snap/AshGuine Story III - Fukushuu no Honoo (Japan).mp4</video>
+		<marquee>./marquee/AshGuine Story III - Fukushuu no Honoo (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Bubble Bobble (Japan) (Alt 1).zip</path>
+		<name>버블보블 (대체1)</name>
+		<image>./snap/Bubble Bobble (Japan) (Alt 1).png</image>
+		<video>./snap/Bubble Bobble (Japan) (Alt 1).mp4</video>
+		<marquee>./marquee/Bubble Bobble (Japan) (Alt 1).png</marquee>
+	</game>
+	<game>
+		<path>./Bubble Bobble (Japan).zip</path>
+		<name>버블보블</name>
+		<image>./snap/Bubble Bobble (Japan).png</image>
+		<video>./snap/Bubble Bobble (Japan).mp4</video>
+		<marquee>./marquee/Bubble Bobble (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Cheese 2 (Japan) (Program).zip</path>
+		<name>치즈 2 (프로그램)</name>
+		<image>./snap/Cheese 2 (Japan) (Program).png</image>
+		<video>./snap/Cheese 2 (Japan) (Program).mp4</video>
+		<marquee>./marquee/Cheese 2 (Japan) (Program).png</marquee>
+	</game>
+	<game>
+		<path>./Cockpit, The (Japan).zip</path>
+		<name>콕핏</name>
+		<image>./snap/Cockpit, The (Japan).png</image>
+		<video>./snap/Cockpit, The (Japan).mp4</video>
+		<marquee>./marquee/Cockpit, The (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Contra (Japan).zip</path>
+		<name>혼두라</name>
+		<image>./snap/Contra (Japan).png</image>
+		<video>./snap/Contra (Japan).mp4</video>
+		<marquee>./marquee/Contra (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Crimson (Japan).zip</path>
+		<name>크림슨</name>
+		<image>./snap/Crimson (Japan).png</image>
+		<video>./snap/Crimson (Japan).mp4</video>
+		<marquee>./marquee/Crimson (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Daikoukai Jidai (Japan).zip</path>
+		<name>대항해시대</name>
+		<image>./snap/Daikoukai Jidai (Japan).png</image>
+		<video>./snap/Daikoukai Jidai (Japan).mp4</video>
+		<marquee>./marquee/Daikoukai Jidai (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Daisenryaku MSX2 (Japan).zip</path>
+		<name>대전략 MSX2</name>
+		<image>./snap/Daisenryaku MSX2 (Japan).png</image>
+		<video>./snap/Daisenryaku MSX2 (Japan).mp4</video>
+		<marquee>./marquee/Daisenryaku MSX2 (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Darwin 4078 (Japan) (Alt 2).zip</path>
+		<name>다윈 4078 (대체 2)</name>
+		<image>./snap/Darwin 4078 (Japan) (Alt 2).png</image>
+		<video>./snap/Darwin 4078 (Japan) (Alt 2).mp4</video>
+		<marquee>./marquee/Darwin 4078 (Japan) (Alt 2).png</marquee>
+	</game>
+	<game>
+		<path>./Darwin 4078 (Japan).zip</path>
+		<name>다윈 4078</name>
+		<image>./snap/Darwin 4078 (Japan).png</image>
+		<video>./snap/Darwin 4078 (Japan).mp4</video>
+		<marquee>./marquee/Darwin 4078 (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Darwin 4078 (Japan) (Alt 1).zip</path>
+		<name>다윈 4078 (대체1)</name>
+		<image>./snap/Darwin 4078 (Japan) (Alt 1).png</image>
+		<video>./snap/Darwin 4078 (Japan) (Alt 1).mp4</video>
+		<marquee>./marquee/Darwin 4078 (Japan) (Alt 1).png</marquee>
+	</game>
+	<game>
+		<path>./Deep Forest (Japan) (Alt 1).zip</path>
+		<name>딥 포레스트 (대체1)</name>
+		<image>./snap/Deep Forest (Japan) (Alt 1).png</image>
+		<video>./snap/Deep Forest (Japan) (Alt 1).mp4</video>
+		<marquee>./marquee/Deep Forest (Japan) (Alt 1).png</marquee>
+	</game>
+	<game>
+		<path>./Deep Forest (Japan).zip</path>
+		<name>딥 포레스트</name>
+		<image>./snap/Deep Forest (Japan).png</image>
+		<video>./snap/Deep Forest (Japan).mp4</video>
+		<marquee>./marquee/Deep Forest (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Dires - Giger Loop (Japan).zip</path>
+		<name>다이레스 - 기거 루프</name>
+		<image>./snap/Dires - Giger Loop (Japan).png</image>
+		<video>./snap/Dires - Giger Loop (Japan).mp4</video>
+		<marquee>./marquee/Dires - Giger Loop (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Double Vision (Japan).zip</path>
+		<name>더블 비전</name>
+		<image>./snap/Double Vision (Japan).png</image>
+		<video>./snap/Double Vision (Japan).mp4</video>
+		<marquee>./marquee/Double Vision (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Dragon Buster (Japan).zip</path>
+		<name>드래곤 버스터</name>
+		<image>./snap/Dragon Buster (Japan).png</image>
+		<video>./snap/Dragon Buster (Japan).mp4</video>
+		<marquee>./marquee/Dragon Buster (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Dragon Slayer IV - Drasle Family (Japan) (Alt 1).zip</path>
+		<name>드래곤 슬레이어 4 - 드레슬레 패밀리 (대체1)</name>
+		<image>./snap/Dragon Slayer IV - Drasle Family (Japan) (Alt 1).png</image>
+		<video>./snap/Dragon Slayer IV - Drasle Family (Japan) (Alt 1).mp4</video>
+		<marquee>./marquee/Dragon Slayer IV - Drasle Family (Japan) (Alt 1).png</marquee>
+	</game>
+	<game>
+		<path>./Druid (Japan).zip</path>
+		<name>드루이드</name>
+		<image>./snap/Druid (Japan).png</image>
+		<video>./snap/Druid (Japan).mp4</video>
+		<marquee>./marquee/Druid (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Druid (Japan) (Alt 1).zip</path>
+		<name>드루이드 (대체1)</name>
+		<image>./snap/Druid (Japan) (Alt 1).png</image>
+		<video>./snap/Druid (Japan) (Alt 1).mp4</video>
+		<marquee>./marquee/Druid (Japan) (Alt 1).png</marquee>
+	</game>
+	<game>
+		<path>./Dynamite Bowl (Japan) (Alt 1).zip</path>
+		<name>다이너마이트 보울 (대체1)</name>
+		<image>./snap/Dynamite Bowl (Japan) (Alt 1).png</image>
+		<video>./snap/Dynamite Bowl (Japan) (Alt 1).mp4</video>
+		<marquee>./marquee/Dynamite Bowl (Japan) (Alt 1).png</marquee>
+	</game>
+	<game>
+		<path>./Eidolon, The (Europe).zip</path>
+		<name>아이드론 (유럽판)</name>
+		<image>./snap/Eidolon, The (Europe).png</image>
+		<video>./snap/Eidolon, The (Europe).mp4</video>
+		<marquee>./marquee/Eidolon, The (Europe).png</marquee>
+	</game>
+	<game>
+		<path>./Elthlead (Japan).zip</path>
+		<name>아이드론</name>
+		<image>./snap/Elthlead (Japan).png</image>
+		<video>./snap/Elthlead (Japan).mp4</video>
+		<marquee>./marquee/Elthlead (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Empereur, L' (Japan).zip</path>
+		<name>황제</name>
+		<image>./snap/Empereur, L' (Japan).png</image>
+		<video>./snap/Empereur, L' (Japan).mp4</video>
+		<marquee>./marquee/Empereur, L' (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Europe Sensen (Japan).zip</path>
+		<name>유럽전선</name>
+		<image>./snap/Europe Sensen (Japan).png</image>
+		<video>./snap/Europe Sensen (Japan).mp4</video>
+		<marquee>./marquee/Europe Sensen (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./F-15 Strike Eagle (Japan).zip</path>
+		<name>F-15 스트라이크 이글</name>
+		<image>./snap/F-15 Strike Eagle (Japan).png</image>
+		<video>./snap/F-15 Strike Eagle (Japan).mp4</video>
+		<marquee>./marquee/F-15 Strike Eagle (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Famicle Parodic (Japan).zip</path>
+		<name>패미클 파로딕</name>
+		<image>./snap/Famicle Parodic (Japan).png</image>
+		<video>./snap/Famicle Parodic (Japan).mp4</video>
+		<marquee>./marquee/Famicle Parodic (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Family Billiards (Japan).zip</path>
+		<name>패밀리 빌리아드</name>
+		<image>./snap/Family Billiards (Japan).png</image>
+		<video>./snap/Family Billiards (Japan).mp4</video>
+		<marquee>./marquee/Family Billiards (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Family Boxing - MSX Title Match (Japan).zip</path>
+		<name>패밀리 복싱 - MSX 타이틀 매치</name>
+		<image>./snap/Family Boxing - MSX Title Match (Japan).png</image>
+		<video>./snap/Family Boxing - MSX Title Match (Japan).mp4</video>
+		<marquee>./marquee/Family Boxing - MSX Title Match (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Fantasy Zone II - The Tears of Opa-Opa (Japan) (Alt 1).zip</path>
+		<name>판타지 존 2 - 오파오파의 눈물 (대체1)</name>
+		<image>./snap/Fantasy Zone II - The Tears of Opa-Opa (Japan) (Alt 1).png</image>
+		<video>./snap/Fantasy Zone II - The Tears of Opa-Opa (Japan) (Alt 1).mp4</video>
+		<marquee>./marquee/Fantasy Zone II - The Tears of Opa-Opa (Japan) (Alt 1).png</marquee>
+	</game>
+	<game>
+		<path>./Fantasy Zone II - The Tears of Opa-Opa (Japan).zip</path>
+		<name>판타지 존 2 - 오파오파의 눈물</name>
+		<image>./snap/Fantasy Zone II - The Tears of Opa-Opa (Japan).png</image>
+		<video>./snap/Fantasy Zone II - The Tears of Opa-Opa (Japan).mp4</video>
+		<marquee>./marquee/Fantasy Zone II - The Tears of Opa-Opa (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Final Mystery Murder Club - Satsujin Club (Japan).zip</path>
+		<name>살인클럽</name>
+		<image>./snap/Final Mystery Murder Club - Satsujin Club (Japan).png</image>
+		<video>./snap/Final Mystery Murder Club - Satsujin Club (Japan).mp4</video>
+		<marquee>./marquee/Final Mystery Murder Club - Satsujin Club (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Fire Ball (Japan).zip</path>
+		<name>파이어 볼</name>
+		<image>./snap/Fire Ball (Japan).png</image>
+		<video>./snap/Fire Ball (Japan).mp4</video>
+		<marquee>./marquee/Fire Ball (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Fleet Commander II - Koukon no Kaiiki (Japan).zip</path>
+		<name>플릿 커맨더 2 - 황혼의 해역</name>
+		<image>./snap/Fleet Commander II - Koukon no Kaiiki (Japan).png</image>
+		<video>./snap/Fleet Commander II - Koukon no Kaiiki (Japan).mp4</video>
+		<marquee>./marquee/Fleet Commander II - Koukon no Kaiiki (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Gakuen Monogatari - High School Story (Japan).zip</path>
+		<name>학원 이야기</name>
+		<image>./snap/Gakuen Monogatari - High School Story (Japan).png</image>
+		<video>./snap/Gakuen Monogatari - High School Story (Japan).mp4</video>
+		<marquee>./marquee/Gakuen Monogatari - High School Story (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Gambler Jiko Chuushinha 2 - Jishou! Kyougou Janshi Hen (Japan).zip</path>
+		<name>겜블러 자기 중심파 2 - 자칭!강호마작사편</name>
+		<image>./snap/Gambler Jiko Chuushinha 2 - Jishou! Kyougou Janshi Hen (Japan).png</image>
+		<video>./snap/Gambler Jiko Chuushinha 2 - Jishou! Kyougou Janshi Hen (Japan).mp4</video>
+		<marquee>./marquee/Gambler Jiko Chuushinha 2 - Jishou! Kyougou Janshi Hen (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Ganbare Goemon! - Karakuri Douchuu (Japan).zip</path>
+		<name>힘내라 고에몽 - 꼭두각시 여행길</name>
+		<image>./snap/Ganbare Goemon! - Karakuri Douchuu (Japan).png</image>
+		<video>./snap/Ganbare Goemon! - Karakuri Douchuu (Japan).mp4</video>
+		<marquee>./marquee/Ganbare Goemon! - Karakuri Douchuu (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Garakuta (Japan).zip</path>
+		<name>가라쿠다</name>
+		<image>./snap/Garakuta (Japan).png</image>
+		<video>./snap/Garakuta (Japan).mp4</video>
+		<marquee>./marquee/Garakuta (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Garyuu Ou (Japan).zip</path>
+		<name>아룡왕</name>
+		<image>./snap/Garyuu Ou (Japan).png</image>
+		<video>./snap/Garyuu Ou (Japan).mp4</video>
+		<marquee>./marquee/Garyuu Ou (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Garyuu Ou (Japan) (Alt 1).zip</path>
+		<name>아룡왕 (대체1)</name>
+		<image>./snap/Garyuu Ou (Japan) (Alt 1).png</image>
+		<video>./snap/Garyuu Ou (Japan) (Alt 1).mp4</video>
+		<marquee>./marquee/Garyuu Ou (Japan) (Alt 1).png</marquee>
+	</game>
+	<game>
+		<path>./Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 3).zip</path>
+		<name>프로야구 격돌 페넌트 레이스 (대체 3)</name>
+		<image>./snap/Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 3).png</image>
+		<video>./snap/Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 3).mp4</video>
+		<marquee>./marquee/Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 3).png</marquee>
+	</game>
+	<game>
+		<path>./Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 1).zip</path>
+		<name>프로야구 격돌 페넌트 레이스 (대체1)</name>
+		<image>./snap/Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 1).png</image>
+		<video>./snap/Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 1).mp4</video>
+		<marquee>./marquee/Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 1).png</marquee>
+	</game>
+	<game>
+		<path>./Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 2).zip</path>
+		<name>프로야구 격돌 페넌트 레이스 (대체 2)</name>
+		<image>./snap/Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 2).png</image>
+		<video>./snap/Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 2).mp4</video>
+		<marquee>./marquee/Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 2).png</marquee>
+	</game>
+	<game>
+		<path>./Gekitotsu Pennant Race - Pro Yakyuu, The (Japan).zip</path>
+		<name>프로야구 격돌 페넌트 레이스</name>
+		<image>./snap/Gekitotsu Pennant Race - Pro Yakyuu, The (Japan).png</image>
+		<video>./snap/Gekitotsu Pennant Race - Pro Yakyuu, The (Japan).mp4</video>
+		<marquee>./marquee/Gekitotsu Pennant Race - Pro Yakyuu, The (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Gekitotsu Pennant Race 2 (Japan) (English Menu).zip</path>
+		<name>격돌 페넌트 레이스 2</name>
+		<image>./snap/Gekitotsu Pennant Race 2 (Japan) (English Menu).png</image>
+		<video>./snap/Gekitotsu Pennant Race 2 (Japan) (English Menu).mp4</video>
+		<marquee>./marquee/Gekitotsu Pennant Race 2 (Japan) (English Menu).png</marquee>
+	</game>
+	<game>
+		<path>./Gekitotsu Pennant Race 2 (Japan).zip</path>
+		<name>격돌 페넌트 레이스 2</name>
+		<image>./snap/Gekitotsu Pennant Race 2 (Japan).png</image>
+		<video>./snap/Gekitotsu Pennant Race 2 (Japan).mp4</video>
+		<marquee>./marquee/Gekitotsu Pennant Race 2 (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Girly Block (Japan).zip</path>
+		<name>걸리 블럭</name>
+		<image>./snap/Girly Block (Japan).png</image>
+		<video>./snap/Girly Block (Japan).mp4</video>
+		<marquee>./marquee/Girly Block (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Hacker (Japan).zip</path>
+		<name>해커</name>
+		<image>./snap/Hacker (Japan).png</image>
+		<video>./snap/Hacker (Japan).mp4</video>
+		<marquee>./marquee/Hacker (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Hai no Majutsushi (Japan).zip</path>
+		<name>패의 마술사</name>
+		<image>./snap/Hai no Majutsushi (Japan).png</image>
+		<video>./snap/Hai no Majutsushi (Japan).mp4</video>
+		<marquee>./marquee/Hai no Majutsushi (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Hal Note (Japan) (Program).zip</path>
+		<name>할 노트 (프로그램)</name>
+		<image>./snap/Hal Note (Japan) (Program).png</image>
+		<video>./snap/Hal Note (Japan) (Program).mp4</video>
+		<marquee>./marquee/Hal Note (Japan) (Program).png</marquee>
+	</game>
+	<game>
+		<path>./Han Seimei Senki Andorogynus (Japan).zip</path>
+		<name>반생명 전기 안드로규너스</name>
+		<image>./snap/Han Seimei Senki Andorogynus (Japan).png</image>
+		<video>./snap/Han Seimei Senki Andorogynus (Japan).mp4</video>
+		<marquee>./marquee/Han Seimei Senki Andorogynus (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Han Seimei Senki Andorogynus (Japan) (Alt 1).zip</path>
+		<name>반생명 전기 안드로규너스 (대체1)</name>
+		<image>./snap/Han Seimei Senki Andorogynus (Japan) (Alt 1).png</image>
+		<video>./snap/Han Seimei Senki Andorogynus (Japan) (Alt 1).mp4</video>
+		<marquee>./marquee/Han Seimei Senki Andorogynus (Japan) (Alt 1).png</marquee>
+	</game>
+	<game>
+		<path>./Hard Ball (Japan).zip</path>
+		<name>하드볼</name>
+		<image>./snap/Hard Ball (Japan).png</image>
+		<video>./snap/Hard Ball (Japan).mp4</video>
+		<marquee>./marquee/Hard Ball (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Heroes of the Lance (Japan).zip</path>
+		<name>히어로즈 오브 더 랜스</name>
+		<image>./snap/Heroes of the Lance (Japan).png</image>
+		<video>./snap/Heroes of the Lance (Japan).mp4</video>
+		<marquee>./marquee/Heroes of the Lance (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Higemaru Makai Shima - Nanatsu no Shima Daibouken (Japan).zip</path>
+		<name>마계도 - 7개 섬의 대모험</name>
+		<image>./snap/Higemaru Makai Shima - Nanatsu no Shima Daibouken (Japan).png</image>
+		<video>./snap/Higemaru Makai Shima - Nanatsu no Shima Daibouken (Japan).mp4</video>
+		<marquee>./marquee/Higemaru Makai Shima - Nanatsu no Shima Daibouken (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./High School! Kimengumi (Japan).zip</path>
+		<name>하이 스쿨! 기면조</name>
+		<image>./snap/High School! Kimengumi (Japan).png</image>
+		<video>./snap/High School! Kimengumi (Japan).mp4</video>
+		<marquee>./marquee/High School! Kimengumi (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Hinotori - Houou Hen (Japan).zip</path>
+		<name>불새 - 봉황편</name>
+		<image>./snap/Hinotori - Houou Hen (Japan).png</image>
+		<video>./snap/Hinotori - Houou Hen (Japan).mp4</video>
+		<marquee>./marquee/Hinotori - Houou Hen (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Hinotori - Houou Hen (Japan) (Alt 1).zip</path>
+		<name>불새 - 봉황편 (대체1)</name>
+		<image>./snap/Hinotori - Houou Hen (Japan) (Alt 1).png</image>
+		<video>./snap/Hinotori - Houou Hen (Japan) (Alt 1).mp4</video>
+		<marquee>./marquee/Hinotori - Houou Hen (Japan) (Alt 1).png</marquee>
+	</game>
+	<game>
+		<path>./Hinotori - Houou Hen (Japan) (Alt 2).zip</path>
+		<name>불새 - 봉황편 (대체 2)</name>
+		<image>./snap/Hinotori - Houou Hen (Japan) (Alt 2).png</image>
+		<video>./snap/Hinotori - Houou Hen (Japan) (Alt 2).mp4</video>
+		<marquee>./marquee/Hinotori - Houou Hen (Japan) (Alt 2).png</marquee>
+	</game>
+	<game>
+		<path>./Hole in One Special (Japan).zip</path>
+		<name>홀 인 원 스페셜</name>
+		<image>./snap/Hole in One Special (Japan).png</image>
+		<video>./snap/Hole in One Special (Japan).mp4</video>
+		<marquee>./marquee/Hole in One Special (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Hole in One Special (Japan) (Alt 1).zip</path>
+		<name>홀 인 원 스페셜 (대체1)</name>
+		<image>./snap/Hole in One Special (Japan) (Alt 1).png</image>
+		<video>./snap/Hole in One Special (Japan) (Alt 1).mp4</video>
+		<marquee>./marquee/Hole in One Special (Japan) (Alt 1).png</marquee>
+	</game>
+	<game>
+		<path>./Ide Yousuke Meijin no Jissen Mahjong (Japan).zip</path>
+		<name>이데 요스케 명인의 실전마작</name>
+		<image>./snap/Ide Yousuke Meijin no Jissen Mahjong (Japan).png</image>
+		<video>./snap/Ide Yousuke Meijin no Jissen Mahjong (Japan).mp4</video>
+		<marquee>./marquee/Ide Yousuke Meijin no Jissen Mahjong (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Ikari (Japan).zip</path>
+		<name>이까리</name>
+		<image>./snap/Ikari (Japan).png</image>
+		<video>./snap/Ikari (Japan).mp4</video>
+		<marquee>./marquee/Ikari (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Ikari (Japan) (Alt 1).zip</path>
+		<name>이까리 (대체1)</name>
+		<image>./snap/Ikari (Japan) (Alt 1).png</image>
+		<video>./snap/Ikari (Japan) (Alt 1).mp4</video>
+		<marquee>./marquee/Ikari (Japan) (Alt 1).png</marquee>
+	</game>
+	<game>
+		<path>./Inemuriryuu Asada Tetsuya no A-kyuu Mahjong (Japan).zip</path>
+		<name>이네무리류 아사다 테스야의 A급 마작</name>
+		<image>./snap/Inemuriryuu Asada Tetsuya no A-kyuu Mahjong (Japan).png</image>
+		<video>./snap/Inemuriryuu Asada Tetsuya no A-kyuu Mahjong (Japan).mp4</video>
+		<marquee>./marquee/Inemuriryuu Asada Tetsuya no A-kyuu Mahjong (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Inindou - Datou Nobunaga (Japan).zip</path>
+		<name>이인도 - 타도 노부가나</name>
+		<image>./snap/Inindou - Datou Nobunaga (Japan).png</image>
+		<video>./snap/Inindou - Datou Nobunaga (Japan).mp4</video>
+		<marquee>./marquee/Inindou - Datou Nobunaga (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Ishin no Arashi (Japan).zip</path>
+		<name>유신의 폭풍우</name>
+		<image>./snap/Ishin no Arashi (Japan).png</image>
+		<video>./snap/Ishin no Arashi (Japan).mp4</video>
+		<marquee>./marquee/Ishin no Arashi (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Jansei (Japan).zip</path>
+		<name>작성</name>
+		<image>./snap/Jansei (Japan).png</image>
+		<video>./snap/Jansei (Japan).mp4</video>
+		<marquee>./marquee/Jansei (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Jansei (Japan) (Alt 1).zip</path>
+		<name>작성 (대체1)</name>
+		<image>./snap/Jansei (Japan) (Alt 1).png</image>
+		<video>./snap/Jansei (Japan) (Alt 1).mp4</video>
+		<marquee>./marquee/Jansei (Japan) (Alt 1).png</marquee>
+	</game>
+	<game>
+		<path>./Japanese MSX-Write II (Japan) (Program).zip</path>
+		<name>일본어 MSX 쓰기 2 (프로그램)</name>
+		<image>./snap/Japanese MSX-Write II (Japan) (Program).png</image>
+		<video>./snap/Japanese MSX-Write II (Japan) (Program).mp4</video>
+		<marquee>./marquee/Japanese MSX-Write II (Japan) (Program).png</marquee>
+	</game>
+	<game>
+		<path>./Kempelen Chess (Japan).zip</path>
+		<name>켐프린 체스</name>
+		<image>./snap/Kempelen Chess (Japan).png</image>
+		<video>./snap/Kempelen Chess (Japan).mp4</video>
+		<marquee>./marquee/Kempelen Chess (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Kikikai-kai (Japan).zip</path>
+		<name>기기괴괴</name>
+		<image>./snap/Kikikai-kai (Japan).png</image>
+		<video>./snap/Kikikai-kai (Japan).mp4</video>
+		<marquee>./marquee/Kikikai-kai (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./King Kong 2 - Yomigaeru Densetsu (Japan).zip</path>
+		<name>킹콩 2 - 되살아나는 전설</name>
+		<image>./snap/King Kong 2 - Yomigaeru Densetsu (Japan).png</image>
+		<video>./snap/King Kong 2 - Yomigaeru Densetsu (Japan).mp4</video>
+		<marquee>./marquee/King Kong 2 - Yomigaeru Densetsu (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Kisei (Japan).zip</path>
+		<name>기성</name>
+		<image>./snap/Kisei (Japan).png</image>
+		<video>./snap/Kisei (Japan).mp4</video>
+		<marquee>./marquee/Kisei (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Kitahei (Japan).zip</path>
+		<name>기태평</name>
+		<image>./snap/Kitahei (Japan).png</image>
+		<video>./snap/Kitahei (Japan).mp4</video>
+		<marquee>./marquee/Kitahei (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Koronis Rift (Europe).zip</path>
+		<name>코로니스 리프트 (유럽판)</name>
+		<image>./snap/Koronis Rift (Europe).png</image>
+		<video>./snap/Koronis Rift (Europe).mp4</video>
+		<marquee>./marquee/Koronis Rift (Europe).png</marquee>
+	</game>
+	<game>
+		<path>./Labyrinth (Japan).zip</path>
+		<name>라비린스</name>
+		<image>./snap/Labyrinth (Japan).png</image>
+		<video>./snap/Labyrinth (Japan).mp4</video>
+		<marquee>./marquee/Labyrinth (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Labyrinth (Japan) (Alt 1).zip</path>
+		<name>라비린스 (대체1)</name>
+		<image>./snap/Labyrinth (Japan) (Alt 1).png</image>
+		<video>./snap/Labyrinth (Japan) (Alt 1).mp4</video>
+		<marquee>./marquee/Labyrinth (Japan) (Alt 1).png</marquee>
+	</game>
+	<game>
+		<path>./Lupin Sansei - Babylon no Ougon Densetsu (Japan) (Alt 1).zip</path>
+		<name>루팡 3세 - 바빌론의 황금전설 (대체1)</name>
+		<image>./snap/Lupin Sansei - Babylon no Ougon Densetsu (Japan) (Alt 1).png</image>
+		<video>./snap/Lupin Sansei - Babylon no Ougon Densetsu (Japan) (Alt 1).mp4</video>
+		<marquee>./marquee/Lupin Sansei - Babylon no Ougon Densetsu (Japan) (Alt 1).png</marquee>
+	</game>
+	<game>
+		<path>./Lupin Sansei - Babylon no Ougon Densetsu (Japan).zip</path>
+		<name>루팡 3세 - 바빌론의 황금전설</name>
+		<image>./snap/Lupin Sansei - Babylon no Ougon Densetsu (Japan).png</image>
+		<video>./snap/Lupin Sansei - Babylon no Ougon Densetsu (Japan).mp4</video>
+		<marquee>./marquee/Lupin Sansei - Babylon no Ougon Densetsu (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Lupin Sansei - Cagliostro no Shiro (Japan).zip</path>
+		<name>루팡 3세 - 카리오스트로의 성</name>
+		<image>./snap/Lupin Sansei - Cagliostro no Shiro (Japan).png</image>
+		<video>./snap/Lupin Sansei - Cagliostro no Shiro (Japan).mp4</video>
+		<marquee>./marquee/Lupin Sansei - Cagliostro no Shiro (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Lupin Sansei - Cagliostro no Shiro (Japan) (Alt 1).zip</path>
+		<name>루팡 3세 - 카리오스트로의 성 (대체1)</name>
+		<image>./snap/Lupin Sansei - Cagliostro no Shiro (Japan) (Alt 1).png</image>
+		<video>./snap/Lupin Sansei - Cagliostro no Shiro (Japan) (Alt 1).mp4</video>
+		<marquee>./marquee/Lupin Sansei - Cagliostro no Shiro (Japan) (Alt 1).png</marquee>
+	</game>
+	<game>
+		<path>./Mad Rider (Japan) (Alt 1).zip</path>
+		<name>매드 라이더 (대체1)</name>
+		<image>./snap/Mad Rider (Japan) (Alt 1).png</image>
+		<video>./snap/Mad Rider (Japan) (Alt 1).mp4</video>
+		<marquee>./marquee/Mad Rider (Japan) (Alt 1).png</marquee>
+	</game>
+	<game>
+		<path>./Mad Rider (Japan).zip</path>
+		<name>매드 라이더</name>
+		<image>./snap/Mad Rider (Japan).png</image>
+		<video>./snap/Mad Rider (Japan).mp4</video>
+		<marquee>./marquee/Mad Rider (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Maison Ikkoku - Kanketsu Hen - Sayonara, Soshite... (Japan).zip</path>
+		<name>메종일각 - 도레미하우스 - 완결편 안녕 그리고…</name>
+		<image>./snap/Maison Ikkoku - Kanketsu Hen - Sayonara, Soshite... (Japan).png</image>
+		<video>./snap/Maison Ikkoku - Kanketsu Hen - Sayonara, Soshite... (Japan).mp4</video>
+		<marquee>./marquee/Maison Ikkoku - Kanketsu Hen - Sayonara, Soshite... (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Maison Ikkoku - Omoide no Photograph (Japan).zip</path>
+		<name>메종일각 - 도레미하우스 - 추억의 포토그래프</name>
+		<image>./snap/Maison Ikkoku - Omoide no Photograph (Japan).png</image>
+		<video>./snap/Maison Ikkoku - Omoide no Photograph (Japan).mp4</video>
+		<marquee>./marquee/Maison Ikkoku - Omoide no Photograph (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Malaya no Hibou (Japan).zip</path>
+		<name>마라야의 비보</name>
+		<image>./snap/Malaya no Hibou (Japan).png</image>
+		<video>./snap/Malaya no Hibou (Japan).mp4</video>
+		<marquee>./marquee/Malaya no Hibou (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Metal Gear (Japan).zip</path>
+		<name>메탈 기어</name>
+		<image>./snap/Metal Gear (Japan).png</image>
+		<video>./snap/Metal Gear (Japan).mp4</video>
+		<marquee>./marquee/Metal Gear (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Metal Gear (Europe).zip</path>
+		<name>메탈 기어 (유럽판)</name>
+		<image>./snap/Metal Gear (Europe).png</image>
+		<video>./snap/Metal Gear (Europe).mp4</video>
+		<marquee>./marquee/Metal Gear (Europe).png</marquee>
+	</game>
+	<game>
+		<path>./Metal Gear 2 - Solid Snake (Japan) (Demo).zip</path>
+		<name>메탈 기어 2 - 솔리드 스네이크 (데모)</name>
+		<image>./snap/Metal Gear 2 - Solid Snake (Japan) (Demo).png</image>
+		<video>./snap/Metal Gear 2 - Solid Snake (Japan) (Demo).mp4</video>
+		<marquee>./marquee/Metal Gear 2 - Solid Snake (Japan) (Demo).png</marquee>
+	</game>
+	<game>
+		<path>./Metal Gear 2 - Solid Snake (Japan).zip</path>
+		<name>메탈 기어 2 - 솔리드 스네이크</name>
+		<image>./snap/Metal Gear 2 - Solid Snake (Japan).png</image>
+		<video>./snap/Metal Gear 2 - Solid Snake (Japan).mp4</video>
+		<marquee>./marquee/Metal Gear 2 - Solid Snake (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Mirai (Japan).zip</path>
+		<name>미래</name>
+		<image>./snap/Mirai (Japan).png</image>
+		<video>./snap/Mirai (Japan).mp4</video>
+		<marquee>./marquee/Mirai (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Mississippi Satsujinjiken (Japan).zip</path>
+		<name>미시시피 살인 사건</name>
+		<image>./snap/Mississippi Satsujinjiken (Japan).png</image>
+		<video>./snap/Mississippi Satsujinjiken (Japan).mp4</video>
+		<marquee>./marquee/Mississippi Satsujinjiken (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Moero!! Nettou Yakyuu '88 (Japan).zip</path>
+		<name>불타라!! 열투야구</name>
+		<image>./snap/Moero!! Nettou Yakyuu '88 (Japan).png</image>
+		<video>./snap/Moero!! Nettou Yakyuu '88 (Japan).mp4</video>
+		<marquee>./marquee/Moero!! Nettou Yakyuu '88 (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Monmon Kaibutsu (Japan).zip</path>
+		<name>몬몬 괴물</name>
+		<image>./snap/Monmon Kaibutsu (Japan).png</image>
+		<video>./snap/Monmon Kaibutsu (Japan).mp4</video>
+		<marquee>./marquee/Monmon Kaibutsu (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Nekketsu Juudou (Japan) (Alt 1).zip</path>
+		<name>열혈 유도 (대체1)</name>
+		<image>./snap/Nekketsu Juudou (Japan) (Alt 1).png</image>
+		<video>./snap/Nekketsu Juudou (Japan) (Alt 1).mp4</video>
+		<marquee>./marquee/Nekketsu Juudou (Japan) (Alt 1).png</marquee>
+	</game>
+	<game>
+		<path>./Nekketsu Juudou (Japan).zip</path>
+		<name>열혈 유도</name>
+		<image>./snap/Nekketsu Juudou (Japan).png</image>
+		<video>./snap/Nekketsu Juudou (Japan).mp4</video>
+		<marquee>./marquee/Nekketsu Juudou (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Ninja-kun - Asura no Shou (Japan).zip</path>
+		<name>닌자군 - 아수라의 장</name>
+		<image>./snap/Ninja-kun - Asura no Shou (Japan).png</image>
+		<video>./snap/Ninja-kun - Asura no Shou (Japan).mp4</video>
+		<marquee>./marquee/Ninja-kun - Asura no Shou (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Nobunaga no Yabou - Bushou Fuuun Roku (Japan).zip</path>
+		<name>노부나가의 야망 - 무장 풍운록</name>
+		<image>./snap/Nobunaga no Yabou - Bushou Fuuun Roku (Japan).png</image>
+		<video>./snap/Nobunaga no Yabou - Bushou Fuuun Roku (Japan).mp4</video>
+		<marquee>./marquee/Nobunaga no Yabou - Bushou Fuuun Roku (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Nobunaga no Yabou - Sengoku Gunyuuden (Japan).zip</path>
+		<name>노부나가의 야망 - 전국 군웅전</name>
+		<image>./snap/Nobunaga no Yabou - Sengoku Gunyuuden (Japan).png</image>
+		<video>./snap/Nobunaga no Yabou - Sengoku Gunyuuden (Japan).mp4</video>
+		<marquee>./marquee/Nobunaga no Yabou - Sengoku Gunyuuden (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Ogre (Japan).zip</path>
+		<name>오거</name>
+		<image>./snap/Ogre (Japan).png</image>
+		<video>./snap/Ogre (Japan).mp4</video>
+		<marquee>./marquee/Ogre (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Ogre (Japan) (Alt 1).zip</path>
+		<name>오거 (대체1)</name>
+		<image>./snap/Ogre (Japan) (Alt 1).png</image>
+		<video>./snap/Ogre (Japan) (Alt 1).mp4</video>
+		<marquee>./marquee/Ogre (Japan) (Alt 1).png</marquee>
+	</game>
+	<game>
+		<path>./Ouke no Tani - El Giza no Fuuin (Japan).zip</path>
+		<name>왕가의 계곡 2 - 엘 기자의 봉인</name>
+		<image>./snap/Ouke no Tani - El Giza no Fuuin (Japan).png</image>
+		<video>./snap/Ouke no Tani - El Giza no Fuuin (Japan).mp4</video>
+		<marquee>./marquee/Ouke no Tani - El Giza no Fuuin (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Ouke no Tani - El Giza no Fuuin - Edit Contest Yuushuu Sakuhinshuu (Japan).zip</path>
+		<name>왕가의 계곡 2 - 엘 기자의 봉인 - 에디트 콘테스트 버전</name>
+		<image>./snap/Ouke no Tani - El Giza no Fuuin - Edit Contest Yuushuu Sakuhinshuu (Japan).png</image>
+		<video>./snap/Ouke no Tani - El Giza no Fuuin - Edit Contest Yuushuu Sakuhinshuu (Japan).mp4</video>
+		<marquee>./marquee/Ouke no Tani - El Giza no Fuuin - Edit Contest Yuushuu Sakuhinshuu (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Out Run (Japan).zip</path>
+		<name>아웃 런</name>
+		<image>./snap/Out Run (Japan).png</image>
+		<video>./snap/Out Run (Japan).mp4</video>
+		<marquee>./marquee/Out Run (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Pac-Mania (Japan).zip</path>
+		<name>팩매니아</name>
+		<image>./snap/Pac-Mania (Japan).png</image>
+		<video>./snap/Pac-Mania (Japan).mp4</video>
+		<marquee>./marquee/Pac-Mania (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Pachi Pro Densetsu (Japan).zip</path>
+		<name>파치 프로 전설</name>
+		<image>./snap/Pachi Pro Densetsu (Japan).png</image>
+		<video>./snap/Pachi Pro Densetsu (Japan).mp4</video>
+		<marquee>./marquee/Pachi Pro Densetsu (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Penguin-kun Wars 2 (Japan).zip</path>
+		<name>펭귄군 워즈 2</name>
+		<image>./snap/Penguin-kun Wars 2 (Japan).png</image>
+		<video>./snap/Penguin-kun Wars 2 (Japan).mp4</video>
+		<marquee>./marquee/Penguin-kun Wars 2 (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Penguin-kun Wars 2 (Japan) (Alt 1).zip</path>
+		<name>펭귄군 워즈 2 (대체1)</name>
+		<image>./snap/Penguin-kun Wars 2 (Japan) (Alt 1).png</image>
+		<video>./snap/Penguin-kun Wars 2 (Japan) (Alt 1).mp4</video>
+		<marquee>./marquee/Penguin-kun Wars 2 (Japan) (Alt 1).png</marquee>
+	</game>
+	<game>
+		<path>./Predator (Japan).zip</path>
+		<name>프레데터</name>
+		<image>./snap/Predator (Japan).png</image>
+		<video>./snap/Predator (Japan).mp4</video>
+		<marquee>./marquee/Predator (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Pro Yakyuu Family Stadium - Pennant Race (Japan).zip</path>
+		<name>프로 야구 - 패밀리 스타디움 - 페넌트 레이스</name>
+		<image>./snap/Pro Yakyuu Family Stadium - Pennant Race (Japan).png</image>
+		<video>./snap/Pro Yakyuu Family Stadium - Pennant Race (Japan).mp4</video>
+		<marquee>./marquee/Pro Yakyuu Family Stadium - Pennant Race (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Pro Yakyuu Fan - Telenet Stadium (Japan).zip</path>
+		<name>프로 야구 팬 - 텔넷 스타디움</name>
+		<image>./snap/Pro Yakyuu Fan - Telenet Stadium (Japan).png</image>
+		<video>./snap/Pro Yakyuu Fan - Telenet Stadium (Japan).mp4</video>
+		<marquee>./marquee/Pro Yakyuu Fan - Telenet Stadium (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Professional Mahjong Gokuu (Japan).zip</path>
+		<name>프로페셔널 마작 오공</name>
+		<image>./snap/Professional Mahjong Gokuu (Japan).png</image>
+		<video>./snap/Professional Mahjong Gokuu (Japan).mp4</video>
+		<marquee>./marquee/Professional Mahjong Gokuu (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Project A2 - Shijousaidai no Hyouteki (Japan).zip</path>
+		<name>프로젝트 A2 - 사상 최대의 표적</name>
+		<image>./snap/Project A2 - Shijousaidai no Hyouteki (Japan).png</image>
+		<video>./snap/Project A2 - Shijousaidai no Hyouteki (Japan).mp4</video>
+		<marquee>./marquee/Project A2 - Shijousaidai no Hyouteki (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Quarth (Korea).zip</path>
+		<name>쿼스 (한국판)</name>
+		<image>./snap/Quarth (Korea).png</image>
+		<video>./snap/Quarth (Korea).mp4</video>
+		<marquee>./marquee/Quarth (Korea).png</marquee>
+	</game>
+	<game>
+		<path>./Quarth (Japan) (Demo).zip</path>
+		<name>쿼스 (데모)</name>
+		<image>./snap/Quarth (Japan) (Demo).png</image>
+		<video>./snap/Quarth (Japan) (Demo).mp4</video>
+		<marquee>./marquee/Quarth (Japan) (Demo).png</marquee>
+	</game>
+	<game>
+		<path>./Quarth (Japan).zip</path>
+		<name>쿼스</name>
+		<image>./snap/Quarth (Japan).png</image>
+		<video>./snap/Quarth (Japan).mp4</video>
+		<marquee>./marquee/Quarth (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Quinpl (Japan).zip</path>
+		<name>퀸플</name>
+		<image>./snap/Quinpl (Japan).png</image>
+		<video>./snap/Quinpl (Japan).mp4</video>
+		<marquee>./marquee/Quinpl (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Rastan Saga (Japan).zip</path>
+		<name>라스턴 사가</name>
+		<image>./snap/Rastan Saga (Japan).png</image>
+		<video>./snap/Rastan Saga (Japan).mp4</video>
+		<marquee>./marquee/Rastan Saga (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Replicart (Japan).zip</path>
+		<name>레플리카트</name>
+		<image>./snap/Replicart (Japan).png</image>
+		<video>./snap/Replicart (Japan).mp4</video>
+		<marquee>./marquee/Replicart (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Return of Ishtar, The (Japan).zip</path>
+		<name>드루아가의 탑 - 이시탈의 귀환</name>
+		<image>./snap/Return of Ishtar, The (Japan).png</image>
+		<video>./snap/Return of Ishtar, The (Japan).mp4</video>
+		<marquee>./marquee/Return of Ishtar, The (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Return of Jelda (Japan).zip</path>
+		<name>리턴 오브 젤다</name>
+		<image>./snap/Return of Jelda (Japan).png</image>
+		<video>./snap/Return of Jelda (Japan).mp4</video>
+		<marquee>./marquee/Return of Jelda (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Rick to Mick no Daibouken (Japan).zip</path>
+		<name>릭과 믹의 대모험</name>
+		<image>./snap/Rick to Mick no Daibouken (Japan).png</image>
+		<video>./snap/Rick to Mick no Daibouken (Japan).mp4</video>
+		<marquee>./marquee/Rick to Mick no Daibouken (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Royal Blood (Japan).zip</path>
+		<name>로열 블러드</name>
+		<image>./snap/Royal Blood (Japan).png</image>
+		<video>./snap/Royal Blood (Japan).mp4</video>
+		<marquee>./marquee/Royal Blood (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Sangokushi II (Japan).zip</path>
+		<name>삼국지 2</name>
+		<image>./snap/Sangokushi II (Japan).png</image>
+		<video>./snap/Sangokushi II (Japan).mp4</video>
+		<marquee>./marquee/Sangokushi II (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Scramble Formation (Japan).zip</path>
+		<name>스트램블 포메이션</name>
+		<image>./snap/Scramble Formation (Japan).png</image>
+		<video>./snap/Scramble Formation (Japan).mp4</video>
+		<marquee>./marquee/Scramble Formation (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Seikima II Special - Akuma no Gyakushuu (Japan).zip</path>
+		<name>성걸마 2 스페셜 - 악마의 역습</name>
+		<image>./snap/Seikima II Special - Akuma no Gyakushuu (Japan).png</image>
+		<video>./snap/Seikima II Special - Akuma no Gyakushuu (Japan).mp4</video>
+		<marquee>./marquee/Seikima II Special - Akuma no Gyakushuu (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Seikima II Special - Akuma no Gyakushuu (Japan) (Alt 1).zip</path>
+		<name>성걸마 2 스페셜 - 악마의 역습 (대체1)</name>
+		<image>./snap/Seikima II Special - Akuma no Gyakushuu (Japan) (Alt 1).png</image>
+		<video>./snap/Seikima II Special - Akuma no Gyakushuu (Japan) (Alt 1).mp4</video>
+		<marquee>./marquee/Seikima II Special - Akuma no Gyakushuu (Japan) (Alt 1).png</marquee>
+	</game>
+	<game>
+		<path>./Shanghai (Japan).zip</path>
+		<name>상하이</name>
+		<image>./snap/Shanghai (Japan).png</image>
+		<video>./snap/Shanghai (Japan).mp4</video>
+		<marquee>./marquee/Shanghai (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Shiryou Sensen - War of the Dead (Japan).zip</path>
+		<name>사령전선 - 워 오브 더 데드</name>
+		<image>./snap/Shiryou Sensen - War of the Dead (Japan).png</image>
+		<video>./snap/Shiryou Sensen - War of the Dead (Japan).mp4</video>
+		<marquee>./marquee/Shiryou Sensen - War of the Dead (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Space Manbow (Japan).zip</path>
+		<name>스페이스 맨보우</name>
+		<image>./snap/Space Manbow (Japan).png</image>
+		<video>./snap/Space Manbow (Japan).mp4</video>
+		<marquee>./marquee/Space Manbow (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Star Virgin (Japan) (Alt 1).zip</path>
+		<name>스타 버진 (대체1)</name>
+		<image>./snap/Star Virgin (Japan) (Alt 1).png</image>
+		<video>./snap/Star Virgin (Japan) (Alt 1).mp4</video>
+		<marquee>./marquee/Star Virgin (Japan) (Alt 1).png</marquee>
+	</game>
+	<game>
+		<path>./Star Virgin (Japan).zip</path>
+		<name>스타 버진</name>
+		<image>./snap/Star Virgin (Japan).png</image>
+		<video>./snap/Star Virgin (Japan).mp4</video>
+		<marquee>./marquee/Star Virgin (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Strategic Mars (Japan).zip</path>
+		<name>스트라트직 마스</name>
+		<image>./snap/Strategic Mars (Japan).png</image>
+		<video>./snap/Strategic Mars (Japan).mp4</video>
+		<marquee>./marquee/Strategic Mars (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Suikoden - Tenmei no Chikai (Japan).zip</path>
+		<name>수호전 - 천명 의 맹세</name>
+		<image>./snap/Suikoden - Tenmei no Chikai (Japan).png</image>
+		<video>./snap/Suikoden - Tenmei no Chikai (Japan).mp4</video>
+		<marquee>./marquee/Suikoden - Tenmei no Chikai (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Super Daisenryaku (Japan).zip</path>
+		<name>슈퍼 대전략</name>
+		<image>./snap/Super Daisenryaku (Japan).png</image>
+		<video>./snap/Super Daisenryaku (Japan).mp4</video>
+		<marquee>./marquee/Super Daisenryaku (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Super Load Runner (Japan).zip</path>
+		<name>슈퍼 로드 러너</name>
+		<image>./snap/Super Load Runner (Japan).png</image>
+		<video>./snap/Super Load Runner (Japan).mp4</video>
+		<marquee>./marquee/Super Load Runner (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Super Rambo Special (Japan).zip</path>
+		<name>슈퍼 람보 스페셜</name>
+		<image>./snap/Super Rambo Special (Japan).png</image>
+		<video>./snap/Super Rambo Special (Japan).mp4</video>
+		<marquee>./marquee/Super Rambo Special (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Super Runner (Japan).zip</path>
+		<name>슈퍼 러너</name>
+		<image>./snap/Super Runner (Japan).png</image>
+		<video>./snap/Super Runner (Japan).mp4</video>
+		<marquee>./marquee/Super Runner (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Super Tritorn (Japan).zip</path>
+		<name>슈퍼 트리톤</name>
+		<image>./snap/Super Tritorn (Japan).png</image>
+		<video>./snap/Super Tritorn (Japan).mp4</video>
+		<marquee>./marquee/Super Tritorn (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Synthe Saurus (Japan) (Program).zip</path>
+		<name>신디 사우르스 (프로그램)</name>
+		<image>./snap/Synthe Saurus (Japan) (Program).png</image>
+		<video>./snap/Synthe Saurus (Japan) (Program).mp4</video>
+		<marquee>./marquee/Synthe Saurus (Japan) (Program).png</marquee>
+	</game>
+	<game>
+		<path>./Taiyou no Shinden - Asteka II (Japan).zip</path>
+		<name>태양의 신전 - 아즈테카2</name>
+		<image>./snap/Taiyou no Shinden - Asteka II (Japan).png</image>
+		<video>./snap/Taiyou no Shinden - Asteka II (Japan).mp4</video>
+		<marquee>./marquee/Taiyou no Shinden - Asteka II (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Tanikawa Hiroshi no Shougi Shinan 2 (Japan).zip</path>
+		<name>타니가와 히로시의 장기 비법 2</name>
+		<image>./snap/Tanikawa Hiroshi no Shougi Shinan 2 (Japan).png</image>
+		<video>./snap/Tanikawa Hiroshi no Shougi Shinan 2 (Japan).mp4</video>
+		<marquee>./marquee/Tanikawa Hiroshi no Shougi Shinan 2 (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Teitoku no Ketsudan (Japan).zip</path>
+		<name>제독의 결단</name>
+		<image>./snap/Teitoku no Ketsudan (Japan).png</image>
+		<video>./snap/Teitoku no Ketsudan (Japan).mp4</video>
+		<marquee>./marquee/Teitoku no Ketsudan (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Tengoku Yoitoko (Japan).zip</path>
+		<name>천국은 좋은 곳</name>
+		<image>./snap/Tengoku Yoitoko (Japan).png</image>
+		<video>./snap/Tengoku Yoitoko (Japan).mp4</video>
+		<marquee>./marquee/Tengoku Yoitoko (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Tetris (Japan).zip</path>
+		<name>테트리스</name>
+		<image>./snap/Tetris (Japan).png</image>
+		<video>./snap/Tetris (Japan).mp4</video>
+		<marquee>./marquee/Tetris (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Treasure of Usas, The (Japan, Europe) (Alt 1).zip</path>
+		<name>우샤스 (일본,유럽판)(대체1)</name>
+		<image>./snap/Treasure of Usas, The (Japan, Europe) (Alt 1).png</image>
+		<video>./snap/Treasure of Usas, The (Japan, Europe) (Alt 1).mp4</video>
+		<marquee>./marquee/Treasure of Usas, The (Japan, Europe) (Alt 1).png</marquee>
+	</game>
+	<game>
+		<path>./Treasure of Usas, The (Japan, Europe).zip</path>
+		<name>우샤스 (일본,유럽판)</name>
+		<image>./snap/Treasure of Usas, The (Japan, Europe).png</image>
+		<video>./snap/Treasure of Usas, The (Japan, Europe).mp4</video>
+		<marquee>./marquee/Treasure of Usas, The (Japan, Europe).png</marquee>
+	</game>
+	<game>
+		<path>./Tsurikichi Sanpei - Blue Marine Hen (Japan).zip</path>
+		<name>낚시광 산페이 - 블루 마린 편</name>
+		<image>./snap/Tsurikichi Sanpei - Blue Marine Hen (Japan).png</image>
+		<video>./snap/Tsurikichi Sanpei - Blue Marine Hen (Japan).mp4</video>
+		<marquee>./marquee/Tsurikichi Sanpei - Blue Marine Hen (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Tsurikichi Sanpei - Tsuri Sennin Hen (Japan).zip</path>
+		<name>낚시광 산페이 - 낚시 선인 편</name>
+		<image>./snap/Tsurikichi Sanpei - Tsuri Sennin Hen (Japan).png</image>
+		<video>./snap/Tsurikichi Sanpei - Tsuri Sennin Hen (Japan).mp4</video>
+		<marquee>./marquee/Tsurikichi Sanpei - Tsuri Sennin Hen (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Ultima Exodus (Japan).zip</path>
+		<name>울티마 엑소더스</name>
+		<image>./snap/Ultima Exodus (Japan).png</image>
+		<video>./snap/Ultima Exodus (Japan).mp4</video>
+		<marquee>./marquee/Ultima Exodus (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Urusei Yatsura - Koi no Survival Birthday (Japan).zip</path>
+		<name>시끄러운 녀석들 - 사랑의 서바이벌 버스데이</name>
+		<image>./snap/Urusei Yatsura - Koi no Survival Birthday (Japan).png</image>
+		<video>./snap/Urusei Yatsura - Koi no Survival Birthday (Japan).mp4</video>
+		<marquee>./marquee/Urusei Yatsura - Koi no Survival Birthday (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Vampire Killer (Japan, Europe) (Alt 3).zip</path>
+		<name>뱀파이어 킬러 (일본,유럽판)(대체 3)</name>
+		<image>./snap/Vampire Killer (Japan, Europe) (Alt 3).png</image>
+		<video>./snap/Vampire Killer (Japan, Europe) (Alt 3).mp4</video>
+		<marquee>./marquee/Vampire Killer (Japan, Europe) (Alt 3).png</marquee>
+	</game>
+	<game>
+		<path>./Vampire Killer (Japan, Europe) (Alt 1).zip</path>
+		<name>뱀파이어 킬러 (일본,유럽판)(대체1)</name>
+		<image>./snap/Vampire Killer (Japan, Europe) (Alt 1).png</image>
+		<video>./snap/Vampire Killer (Japan, Europe) (Alt 1).mp4</video>
+		<marquee>./marquee/Vampire Killer (Japan, Europe) (Alt 1).png</marquee>
+	</game>
+	<game>
+		<path>./Vampire Killer (Japan, Europe) (Alt 2).zip</path>
+		<name>뱀파이어 킬러 (일본,유럽판)(대체 2)</name>
+		<image>./snap/Vampire Killer (Japan, Europe) (Alt 2).png</image>
+		<video>./snap/Vampire Killer (Japan, Europe) (Alt 2).mp4</video>
+		<marquee>./marquee/Vampire Killer (Japan, Europe) (Alt 2).png</marquee>
+	</game>
+	<game>
+		<path>./Vampire Killer (Japan, Europe).zip</path>
+		<name>뱀파이어 킬러 (일본,유럽판)</name>
+		<image>./snap/Vampire Killer (Japan, Europe).png</image>
+		<video>./snap/Vampire Killer (Japan, Europe).mp4</video>
+		<marquee>./marquee/Vampire Killer (Japan, Europe).png</marquee>
+	</game>
+	<game>
+		<path>./Victorious Nine II - Koukou Yakyuu Hen (Japan).zip</path>
+		<name>빅토리어스 나인 2 - 고교야구 편</name>
+		<image>./snap/Victorious Nine II - Koukou Yakyuu Hen (Japan).png</image>
+		<video>./snap/Victorious Nine II - Koukou Yakyuu Hen (Japan).mp4</video>
+		<marquee>./marquee/Victorious Nine II - Koukou Yakyuu Hen (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Wizardry (Japan).zip</path>
+		<name>위저드리</name>
+		<image>./snap/Wizardry (Japan).png</image>
+		<video>./snap/Wizardry (Japan).mp4</video>
+		<marquee>./marquee/Wizardry (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Woody Poco (Japan) (Alt 1).zip</path>
+		<name>우디 포코 (대체1)</name>
+		<image>./snap/Woody Poco (Japan) (Alt 1).png</image>
+		<video>./snap/Woody Poco (Japan) (Alt 1).mp4</video>
+		<marquee>./marquee/Woody Poco (Japan) (Alt 1).png</marquee>
+	</game>
+	<game>
+		<path>./Woody Poco (Japan).zip</path>
+		<name>우디 포코</name>
+		<image>./snap/Woody Poco (Japan).png</image>
+		<video>./snap/Woody Poco (Japan).mp4</video>
+		<marquee>./marquee/Woody Poco (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Xevious - Fardraut Saga (Japan).zip</path>
+		<name>제비우스 - 파드라우트 전설</name>
+		<image>./snap/Xevious - Fardraut Saga (Japan).png</image>
+		<video>./snap/Xevious - Fardraut Saga (Japan).mp4</video>
+		<marquee>./marquee/Xevious - Fardraut Saga (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Xevious - Fardraut Saga (Japan) (Alt 1).zip</path>
+		<name>제비우스 - 파드라우트 전설 (대체1)</name>
+		<image>./snap/Xevious - Fardraut Saga (Japan) (Alt 1).png</image>
+		<video>./snap/Xevious - Fardraut Saga (Japan) (Alt 1).mp4</video>
+		<marquee>./marquee/Xevious - Fardraut Saga (Japan) (Alt 1).png</marquee>
+	</game>
+	<game>
+		<path>./Yaksa (Japan).zip</path>
+		<name>야크사</name>
+		<image>./snap/Yaksa (Japan).png</image>
+		<video>./snap/Yaksa (Japan).mp4</video>
+		<marquee>./marquee/Yaksa (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Yamamura Misa Suspense - Kyoto Ryuu no Tera Satsujinjiken (Japan).zip</path>
+		<name>야마무라 미사 서스펜스 - 교토 류노지 살인사건</name>
+		<image>./snap/Yamamura Misa Suspense - Kyoto Ryuu no Tera Satsujinjiken (Japan).png</image>
+		<video>./snap/Yamamura Misa Suspense - Kyoto Ryuu no Tera Satsujinjiken (Japan).mp4</video>
+		<marquee>./marquee/Yamamura Misa Suspense - Kyoto Ryuu no Tera Satsujinjiken (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Yuurei-kun (Japan).zip</path>
+		<name>유령군</name>
+		<image>./snap/Yuurei-kun (Japan).png</image>
+		<video>./snap/Yuurei-kun (Japan).mp4</video>
+		<marquee>./marquee/Yuurei-kun (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Zanac Ex (Japan).zip</path>
+		<name>자낙 EX</name>
+		<image>./snap/Zanac Ex (Japan).png</image>
+		<video>./snap/Zanac Ex (Japan).mp4</video>
+		<marquee>./marquee/Zanac Ex (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Zanac Ex (Japan) (Alt 1).zip</path>
+		<name>자낙 EX (대체1)</name>
+		<image>./snap/Zanac Ex (Japan) (Alt 1).png</image>
+		<video>./snap/Zanac Ex (Japan) (Alt 1).mp4</video>
+		<marquee>./marquee/Zanac Ex (Japan) (Alt 1).png</marquee>
+	</game>
+	<game>
+		<path>./Zoids - Chuuou Tairiku no Tatakai (Japan).zip</path>
+		<name>조이드 - 주앙대륙의 싸움</name>
+		<image>./snap/Zoids - Chuuou Tairiku no Tatakai (Japan).png</image>
+		<video>./snap/Zoids - Chuuou Tairiku no Tatakai (Japan).mp4</video>
+		<marquee>./marquee/Zoids - Chuuou Tairiku no Tatakai (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Zombie Hunter (Japan).zip</path>
+		<name>좀비 헌터</name>
+		<image>./snap/Zombie Hunter (Japan).png</image>
+		<video>./snap/Zombie Hunter (Japan).mp4</video>
+		<marquee>./marquee/Zombie Hunter (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Zukkoke Yajikita Onmitsu Douchuu (Japan).zip</path>
+		<name>덜떨어진 야지키타의 은밀한 여행</name>
+		<image>./snap/Zukkoke Yajikita Onmitsu Douchuu (Japan).png</image>
+		<video>./snap/Zukkoke Yajikita Onmitsu Douchuu (Japan).mp4</video>
+		<marquee>./marquee/Zukkoke Yajikita Onmitsu Douchuu (Japan).png</marquee>
+	</game>
+	<game>
+		<path>./Zukkoke Yajikita Onmitsu Douchuu (Japan) (Alt 1).zip</path>
+		<name>덜떨어진 야지키타의 은밀한 여행 (대체1)</name>
+		<image>./snap/Zukkoke Yajikita Onmitsu Douchuu (Japan) (Alt 1).png</image>
+		<video>./snap/Zukkoke Yajikita Onmitsu Douchuu (Japan) (Alt 1).mp4</video>
+		<marquee>./marquee/Zukkoke Yajikita Onmitsu Douchuu (Japan) (Alt 1).png</marquee>
 	</game>
 </gameList>
