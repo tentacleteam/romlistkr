@@ -3,9 +3,9 @@
 <!--
 * 제목 : 레트로게임 롬 목록 한글화 프로젝트
 * 지원프론트엔드 : RetroPie, Recalbox, Attract-Mode
-* 지원에뮬 : Arcade(MAME, AdvMAME, FBA), NES, SNES, Mega Drive,GB, GBC, GBA, PCE, SMS, Sega 32X, NGP, NGPC, WonderSwan, WonderSwanColorC
+* 지원에뮬 : Arcade(MAME, AdvMAME, FBNeo), NES, SNES, MD, GB, GBC, GBA, PCE, SMS, Sega 32X, NGP, NGPC, WS, WSC
 * 제작자 : 텐타클 팀
-* 만든날 : Jul 15, 2019
+* 최종수정 : Fab 07, 2020
 * 카페 : http://cafe.naver.com/raspigamer
 * 레트로게임 롬 목록 한글화 자료는 오픈소스입니다. MIT 라이센스를 따르고 있으므로 라이센스와 출처(http://cafe.naver.com/raspigamer) 표시만 지켜주시면 자유롭게 사용하실 수 있습니다.
 -->
@@ -46,11 +46,12 @@
 		<releasedate>19991222T000000</releasedate>
 	</game>
 	<game>
-		<path>./Beatmania for WonderSwan (Japan).zip</path>
+		<path>./beat mania for WonderSwan (Japan).zip</path>
 		<name>비트매니아 원더스완 (일본판)</name>
-		<image>./snap/Beatmania for WonderSwan (Japan).png</image>
-		<video>./snap/Beatmania for WonderSwan (Japan).mp4</video>
-		<marquee>./marquee/Beatmania for WonderSwan (Japan).png</marquee>
+		<image>./snap/beat mania for WonderSwan (Japan).png</image>
+		<video>./snap/beat mania for WonderSwan (Japan).mp4</video>
+		<marquee>./marquee/beat mania for WonderSwan (Japan).png</marquee>
+		<developer>ICCE 제팬</developer>
 		<publisher>코나미</publisher>
 		<genre>액션</genre>
 		<players>1-2</players>
@@ -86,6 +87,7 @@
 		<image>./snap/Chaos Gear - Michibikareshi Mono (Japan).png</image>
 		<video>./snap/Chaos Gear - Michibikareshi Mono (Japan).mp4</video>
 		<marquee>./marquee/Chaos Gear - Michibikareshi Mono (Japan).png</marquee>
+		<developer>레이업</developer>
 		<publisher>반다이</publisher>
 		<genre>전략</genre>
 		<players>1</players>
@@ -95,7 +97,7 @@
 		<path>./Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 1).zip</path>
 		<name>초코보의 신기한 던젼 원더스완 (일본판)(개정판 1)</name>
 		<image>./snap/Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 1).png</image>
-		<video>./snap/Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 1).mp4</video>
+		<video>./snap/Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 3).mp4</video>
 		<marquee>./marquee/Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 1).png</marquee>
 		<developer>스퀘어 에닉스</developer>
 		<publisher>반다이</publisher>
@@ -107,7 +109,7 @@
 		<path>./Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 2).zip</path>
 		<name>초코보의 신기한 던젼 원더스완 (일본판)(개정판 2)</name>
 		<image>./snap/Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 2).png</image>
-		<video>./snap/Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 2).mp4</video>
+		<video>./snap/Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 3).mp4</video>
 		<marquee>./marquee/Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 2).png</marquee>
 		<developer>스퀘어 에닉스</developer>
 		<publisher>반다이</publisher>
@@ -145,6 +147,10 @@
 		<image>./snap/Clock Tower for WonderSwan (Japan) (Rev 1).png</image>
 		<video>./snap/Clock Tower for WonderSwan (Japan) (Rev 1).mp4</video>
 		<marquee>./marquee/Clock Tower for WonderSwan (Japan) (Rev 1).png</marquee>
+		<developer/>
+		<publisher/>
+		<genre/>
+		<players/>
 		<releasedate>01010101T000000</releasedate>
 	</game>
 	<game>
@@ -158,6 +164,18 @@
 		<genre>액션</genre>
 		<players>1</players>
 		<releasedate>19990729T000000</releasedate>
+	</game>
+	<game>
+		<path>./D's Garage 21 Koubo Game - Tane o Maku Tori (Japan).zip</path>
+		<name>D의 게라지 21 공모 게임 - 씨를 뿌리는 새 (일본판)</name>
+		<image>./snap/D's Garage 21 Koubo Game - Tane o Maku Tori (Japan).png</image>
+		<video>./snap/D's Garage 21 Koubo Game - Tane o Maku Tori (Japan).mp4</video>
+		<marquee>./marquee/D's Garage 21 Koubo Game - Tane o Maku Tori (Japan).png</marquee>
+		<developer>루딕</developer>
+		<publisher>반다이</publisher>
+		<genre>기타</genre>
+		<players>1-2</players>
+		<releasedate>19990502T000000</releasedate>
 	</game>
 	<game>
 		<path>./Densha de Go! (Japan) (Rev 1).zip</path>
@@ -184,11 +202,12 @@
 		<releasedate>19991007T000000</releasedate>
 	</game>
 	<game>
-		<path>./Digimon - Ver. WonderSwan (Asia) (En).zip</path>
-		<name>디지몬 (아시아판)(영어)</name>
-		<image>./snap/Digimon - Ver. WonderSwan (Asia) (En).png</image>
-		<video>./snap/Digimon - Ver. WonderSwan (Asia) (En).mp4</video>
-		<marquee>./marquee/Digimon - Ver. WonderSwan (Asia) (En).png</marquee>
+		<path>./Digimon - Ver. WonderSwan (Asia).zip</path>
+		<name>디지몬 (아시아판)</name>
+		<image>./snap/Digimon - Ver. WonderSwan (Asia).png</image>
+		<video>./snap/Digital Monster - Ver. WonderSwan (Japan) (Rev 1).mp4</video>
+		<marquee>./marquee/Digimon - Ver. WonderSwan (Asia).png</marquee>
+		<developer/>
 		<publisher>반다이</publisher>
 		<genre>롤플레잉</genre>
 		<players>1-2</players>
@@ -210,7 +229,7 @@
 		<path>./Digimon Adventure - Anode Tamer (Japan).zip</path>
 		<name>디지몬 어드벤쳐 - 양극 태머 (일본판)</name>
 		<image>./snap/Digimon Adventure - Anode Tamer (Japan).png</image>
-		<video>./snap/Digimon Adventure - Anode Tamer (Japan).mp4</video>
+		<video>./snap/Digimon Adventure - Anode Tamer (Japan) (Rev 1).mp4</video>
 		<marquee>./marquee/Digimon Adventure - Anode Tamer (Japan).png</marquee>
 		<developer>심즈</developer>
 		<publisher>반다이</publisher>
@@ -244,10 +263,14 @@
 	</game>
 	<game>
 		<path>./Digital Monster - Ver. WonderSwan (Japan) (Rev 1).zip</path>
-		<name>디지털 몬스터 (일본판)(개정판 1)</name>
+		<name>디지털 몬스터 원더스완 (일본판)(개정판 1)</name>
 		<image>./snap/Digital Monster - Ver. WonderSwan (Japan) (Rev 1).png</image>
 		<video>./snap/Digital Monster - Ver. WonderSwan (Japan) (Rev 1).mp4</video>
 		<marquee>./marquee/Digital Monster - Ver. WonderSwan (Japan) (Rev 1).png</marquee>
+		<developer/>
+		<publisher/>
+		<genre/>
+		<players/>
 		<releasedate>01010101T000000</releasedate>
 	</game>
 	<game>
@@ -275,22 +298,13 @@
 		<releasedate>20000106T000000</releasedate>
 	</game>
 	<game>
-		<path>./D's Garage 21 Koubo Game - Tane o Maku Tori (Japan).zip</path>
-		<name>D의 게라지 21 공모 게임 - 씨를 뿌리는 새 (일본판)</name>
-		<image>./snap/D's Garage 21 Koubo Game - Tane o Maku Tori (Japan).png</image>
-		<video>./snap/D's Garage 21 Koubo Game - Tane o Maku Tori (Japan).mp4</video>
-		<marquee>./marquee/D's Garage 21 Koubo Game - Tane o Maku Tori (Japan).png</marquee>
-		<publisher>반다이</publisher>
-		<genre>기타</genre>
-		<players>1-2</players>
-		<releasedate>19990502T000000</releasedate>
-	</game>
-	<game>
 		<path>./Engacho! for WonderSwan (Japan).zip</path>
 		<name>인가초 원더스완 (일본판)</name>
 		<image>./snap/Engacho! for WonderSwan (Japan).png</image>
 		<video>./snap/Engacho! for WonderSwan (Japan).mp4</video>
 		<marquee>./marquee/Engacho! for WonderSwan (Japan).png</marquee>
+		<developer>니혼 어플리케이션</developer>
+		<publisher>니혼 어플리케이션</publisher>
 		<genre>전략</genre>
 		<players>1-2</players>
 		<releasedate>19991028T000000</releasedate>
@@ -325,6 +339,10 @@
 		<image>./snap/Fire Pro Wrestling for WonderSwan (Japan) (Rev 5).png</image>
 		<video>./snap/Fire Pro Wrestling for WonderSwan (Japan) (Rev 5).mp4</video>
 		<marquee>./marquee/Fire Pro Wrestling for WonderSwan (Japan) (Rev 5).png</marquee>
+		<developer/>
+		<publisher/>
+		<genre/>
+		<players/>
 		<releasedate>01010101T000000</releasedate>
 	</game>
 	<game>
@@ -345,6 +363,7 @@
 		<image>./snap/From TV Animation One Piece - Mezase Kaizoku Ou! (Japan).png</image>
 		<video>./snap/From TV Animation One Piece - Mezase Kaizoku Ou! (Japan).mp4</video>
 		<marquee>./marquee/From TV Animation One Piece - Mezase Kaizoku Ou! (Japan).png</marquee>
+		<developer/>
 		<publisher>반다이</publisher>
 		<genre>어드벤처</genre>
 		<players>1</players>
@@ -368,6 +387,7 @@
 		<image>./snap/Glocal Hexcite (Japan).png</image>
 		<video>./snap/Glocal Hexcite (Japan).mp4</video>
 		<marquee>./marquee/Glocal Hexcite (Japan).png</marquee>
+		<developer>Gu</developer>
 		<publisher>석세스</publisher>
 		<genre>퍼즐게임</genre>
 		<players>2</players>
@@ -391,6 +411,8 @@
 		<image>./snap/Goraku Ou Tango! (Japan) (Rev 2).png</image>
 		<video>./snap/Goraku Ou Tango! (Japan) (Rev 2).mp4</video>
 		<marquee>./marquee/Goraku Ou Tango! (Japan) (Rev 2).png</marquee>
+		<developer>메비우스</developer>
+		<publisher>메비우스</publisher>
 		<genre>퍼즐게임</genre>
 		<players>1</players>
 		<releasedate>19990401T000000</releasedate>
@@ -401,6 +423,7 @@
 		<image>./snap/GunPey (Japan).png</image>
 		<video>./snap/GunPey (Japan).mp4</video>
 		<marquee>./marquee/GunPey (Japan).png</marquee>
+		<developer>코토 랩</developer>
 		<publisher>반다이</publisher>
 		<genre>퍼즐게임</genre>
 		<players>1-2</players>
@@ -422,10 +445,10 @@
 		<path>./Harobots (Japan).zip</path>
 		<name>하로보츠 (일본판)</name>
 		<image>./snap/Harobots (Japan).png</image>
-		<video>./snap/Harobots (Japan).mp4</video>
+		<video>./snap/Harobots (Japan) (Rev 1).mp4</video>
 		<marquee>./marquee/Harobots (Japan).png</marquee>
-		<developer>선라이즈 인터랙티브</developer>
-		<publisher>선라이즈 인터랙티브</publisher>
+		<developer>선라이즈</developer>
+		<publisher>선라이즈</publisher>
 		<genre>롤플레잉</genre>
 		<players>1</players>
 		<releasedate>19991007T000000</releasedate>
@@ -436,20 +459,11 @@
 		<image>./snap/Hunter X Hunter - Ishi o Tsugu Mono (Japan) (Rev 2).png</image>
 		<video>./snap/Hunter X Hunter - Ishi o Tsugu Mono (Japan) (Rev 2).mp4</video>
 		<marquee>./marquee/Hunter X Hunter - Ishi o Tsugu Mono (Japan) (Rev 2).png</marquee>
+		<developer/>
 		<publisher>반다이</publisher>
 		<genre>롤플레잉</genre>
 		<players>1</players>
 		<releasedate>20000601T000000</releasedate>
-	</game>
-	<game>
-		<path>./Itou Junji Uzumaki - Noroi Simulation (Japan).zip</path>
-		<name>이토 준치의 소용돌이 - 저주 시뮬레이션 (일본판)</name>
-		<image>./snap/Itou Junji Uzumaki - Noroi Simulation (Japan).png</image>
-		<video>./snap/Itou Junji Uzumaki - Noroi Simulation (Japan).mp4</video>
-		<marquee>./marquee/Itou Junji Uzumaki - Noroi Simulation (Japan).png</marquee>
-		<genre>어드벤처</genre>
-		<players>1</players>
-		<releasedate>20000304T000000</releasedate>
 	</game>
 	<game>
 		<path>./Kakutou Ryouri Densetsu Bistro Recipe - Wonder Battle Hen (Japan).zip</path>
@@ -457,6 +471,7 @@
 		<image>./snap/Kakutou Ryouri Densetsu Bistro Recipe - Wonder Battle Hen (Japan).png</image>
 		<video>./snap/Kakutou Ryouri Densetsu Bistro Recipe - Wonder Battle Hen (Japan).mp4</video>
 		<marquee>./marquee/Kakutou Ryouri Densetsu Bistro Recipe - Wonder Battle Hen (Japan).png</marquee>
+		<developer/>
 		<publisher>반프레스토</publisher>
 		<genre>전략</genre>
 		<players>1-2</players>
@@ -480,6 +495,8 @@
 		<image>./snap/Keiba Yosou Shien Soft - Yosou Shinkaron (Japan).png</image>
 		<video>./snap/Keiba Yosou Shien Soft - Yosou Shinkaron (Japan).mp4</video>
 		<marquee>./marquee/Keiba Yosou Shien Soft - Yosou Shinkaron (Japan).png</marquee>
+		<developer/>
+		<publisher>미디어 엔터테인먼트</publisher>
 		<genre>스포츠</genre>
 		<players>1-2</players>
 		<releasedate>19990914T000000</releasedate>
@@ -490,8 +507,10 @@
 		<image>./snap/Kiss Yori... - Seaside Serenade (Japan) (Rev 2).png</image>
 		<video>./snap/Kiss Yori... - Seaside Serenade (Japan) (Rev 2).mp4</video>
 		<marquee>./marquee/Kiss Yori... - Seaside Serenade (Japan) (Rev 2).png</marquee>
+		<developer/>
 		<publisher>키드</publisher>
 		<genre>어드벤처</genre>
+		<players/>
 		<releasedate>19991202T000000</releasedate>
 	</game>
 	<game>
@@ -500,6 +519,7 @@
 		<image>./snap/Kosodate Quiz Dokodemo - My Angel (Japan).png</image>
 		<video>./snap/Kosodate Quiz Dokodemo - My Angel (Japan).mp4</video>
 		<marquee>./marquee/Kosodate Quiz Dokodemo - My Angel (Japan).png</marquee>
+		<developer/>
 		<publisher>남코</publisher>
 		<genre>퀴즈</genre>
 		<players>1-4</players>
@@ -559,6 +579,8 @@
 		<image>./snap/Macross - True Love Song (Japan).png</image>
 		<video>./snap/Macross - True Love Song (Japan).mp4</video>
 		<marquee>./marquee/Macross - True Love Song (Japan).png</marquee>
+		<developer/>
+		<publisher>레이업/업스타</publisher>
 		<genre>퍼즐게임</genre>
 		<players>1</players>
 		<releasedate>20000323T000000</releasedate>
@@ -579,8 +601,9 @@
 		<path>./Mahjong Touryuumon (Japan) (Rev 1).zip</path>
 		<name>마작 등용문 (일본판)(개정판 1)</name>
 		<image>./snap/Mahjong Touryuumon (Japan) (Rev 1).png</image>
-		<video>./snap/Mahjong Touryuumon (Japan) (Rev 1).mp4</video>
+		<video>./snap/Mahjong Touryuumon (Japan) (Rev 3).mp4</video>
 		<marquee>./marquee/Mahjong Touryuumon (Japan) (Rev 1).png</marquee>
+		<developer/>
 		<publisher>새미</publisher>
 		<genre>격투</genre>
 		<players>1-2</players>
@@ -592,6 +615,7 @@
 		<image>./snap/Mahjong Touryuumon (Japan) (Rev 3).png</image>
 		<video>./snap/Mahjong Touryuumon (Japan) (Rev 3).mp4</video>
 		<marquee>./marquee/Mahjong Touryuumon (Japan) (Rev 3).png</marquee>
+		<developer/>
 		<publisher>새미</publisher>
 		<genre>격투</genre>
 		<players>1-2</players>
@@ -630,6 +654,7 @@
 		<developer>나츠메</developer>
 		<publisher>이미지니어</publisher>
 		<genre>롤플레잉</genre>
+		<players/>
 		<releasedate>19990504T000000</releasedate>
 	</game>
 	<game>
@@ -662,6 +687,8 @@
 		<image>./snap/Metakomi Theraphy - Nee Kiite! (Japan).png</image>
 		<video>./snap/Metakomi Theraphy - Nee Kiite! (Japan).mp4</video>
 		<marquee>./marquee/Metakomi Theraphy - Nee Kiite! (Japan).png</marquee>
+		<developer/>
+		<publisher>미디어 엔트프라이즈</publisher>
 		<genre>전략</genre>
 		<players>1-2</players>
 		<releasedate>20000323T000000</releasedate>
@@ -691,11 +718,13 @@
 		<releasedate>19990926T000000</releasedate>
 	</game>
 	<game>
-		<path>./MobileWonderGate (Japan).zip</path>
-		<name>모바일원더게이트 (일본판)</name>
-		<image>./snap/MobileWonderGate (Japan).png</image>
-		<video>./snap/MobileWonderGate (Japan).mp4</video>
-		<marquee>./marquee/MobileWonderGate (Japan).png</marquee>
+		<path>./MobileWonderGate (Japan) (Rev 1).zip</path>
+		<name>모바일원더게이트 (일본판)(개정판 1)</name>
+		<image>./snap/MobileWonderGate (Japan) (Rev 1).png</image>
+		<video>./snap/MobileWonderGate (Japan) (Rev 1).mp4</video>
+		<marquee>./marquee/MobileWonderGate (Japan) (Rev 1).png</marquee>
+		<developer/>
+		<publisher/>
 		<genre>기타</genre>
 		<players>1</players>
 		<releasedate>01010101T000000</releasedate>
@@ -718,6 +747,8 @@
 		<image>./snap/Morita Shougi for WonderSwan (Japan).png</image>
 		<video>./snap/Morita Shougi for WonderSwan (Japan).mp4</video>
 		<marquee>./marquee/Morita Shougi for WonderSwan (Japan).png</marquee>
+		<developer>유키 엔터프라이즈</developer>
+		<publisher>유키 엔터프라이즈</publisher>
 		<genre>기타</genre>
 		<players>1-2</players>
 		<releasedate>19991222T000000</releasedate>
@@ -728,6 +759,8 @@
 		<image>./snap/Nazo Ou Pocket (Japan).png</image>
 		<video>./snap/Nazo Ou Pocket (Japan).mp4</video>
 		<marquee>./marquee/Nazo Ou Pocket (Japan).png</marquee>
+		<developer/>
+		<publisher>반다이 비주얼</publisher>
 		<genre>롤플레잉</genre>
 		<players>1</players>
 		<releasedate>19991118T000000</releasedate>
@@ -762,6 +795,8 @@
 		<image>./snap/Nihon Pro Mahjong Renmei Kounin - Tetsuman (Japan) (Rev 2).png</image>
 		<video>./snap/Nihon Pro Mahjong Renmei Kounin - Tetsuman (Japan) (Rev 2).mp4</video>
 		<marquee>./marquee/Nihon Pro Mahjong Renmei Kounin - Tetsuman (Japan) (Rev 2).png</marquee>
+		<developer/>
+		<publisher>낙삿</publisher>
 		<genre>기타</genre>
 		<players>1-2</players>
 		<releasedate>19990715T000000</releasedate>
@@ -772,8 +807,10 @@
 		<image>./snap/Nobunaga no Yabou for WonderSwan (Japan).png</image>
 		<video>./snap/Nobunaga no Yabou for WonderSwan (Japan).mp4</video>
 		<marquee>./marquee/Nobunaga no Yabou for WonderSwan (Japan).png</marquee>
+		<developer/>
 		<publisher>코에이</publisher>
 		<genre>전략</genre>
+		<players/>
 		<releasedate>19990311T000000</releasedate>
 	</game>
 	<game>
@@ -782,6 +819,7 @@
 		<image>./snap/Ou-chan no Oekaki Logic (Japan).png</image>
 		<video>./snap/Ou-chan no Oekaki Logic (Japan).mp4</video>
 		<marquee>./marquee/Ou-chan no Oekaki Logic (Japan).png</marquee>
+		<developer>산타클로스</developer>
 		<publisher>선소프트</publisher>
 		<genre>퍼즐게임</genre>
 		<players>1</players>
@@ -830,6 +868,7 @@
 		<video>./snap/Puzzle Bobble (Japan).mp4</video>
 		<marquee>./marquee/Puzzle Bobble (Japan).png</marquee>
 		<developer>타이토</developer>
+		<publisher>선 소프트</publisher>
 		<genre>퍼즐게임</genre>
 		<players>1-2</players>
 		<releasedate>19990701T000000</releasedate>
@@ -840,6 +879,7 @@
 		<image>./snap/Rainbow Islands - Putty's Party (Japan).png</image>
 		<video>./snap/Rainbow Islands - Putty's Party (Japan).mp4</video>
 		<marquee>./marquee/Rainbow Islands - Putty's Party (Japan).png</marquee>
+		<developer>메가하우스</developer>
 		<publisher>타카라</publisher>
 		<genre>액션</genre>
 		<players>1</players>
@@ -861,8 +901,9 @@
 		<path>./Robot Works (Asia) (En,Ja) (Rev 1).zip</path>
 		<name>로봇 워크 (아시아판)(영어,일본어)(개정판 1)</name>
 		<image>./snap/Robot Works (Asia) (En,Ja) (Rev 1).png</image>
-		<video>./snap/Robot Works (Asia) (En,Ja) (Rev 1).mp4</video>
+		<video>./snap/Robot Works (Japan).mp4</video>
 		<marquee>./marquee/Robot Works (Asia) (En,Ja) (Rev 1).png</marquee>
+		<developer/>
 		<publisher>반다이</publisher>
 		<genre>교육</genre>
 		<players>8+</players>
@@ -874,6 +915,7 @@
 		<image>./snap/Robot Works (Japan).png</image>
 		<video>./snap/Robot Works (Japan).mp4</video>
 		<marquee>./marquee/Robot Works (Japan).png</marquee>
+		<developer/>
 		<publisher>반다이</publisher>
 		<genre>교육</genre>
 		<players>8+</players>
@@ -885,6 +927,7 @@
 		<image>./snap/Rockman &amp; Forte - Mirai Kara no Chousensha (Japan).png</image>
 		<video>./snap/Rockman &amp; Forte - Mirai Kara no Chousensha (Japan).mp4</video>
 		<marquee>./marquee/Rockman &amp; Forte - Mirai Kara no Chousensha (Japan).png</marquee>
+		<developer>레이업</developer>
 		<publisher>반다이</publisher>
 		<genre>전략</genre>
 		<players>1</players>
@@ -932,6 +975,7 @@
 		<image>./snap/SD Gundam G Generation - Gather Beat (Japan).png</image>
 		<video>./snap/SD Gundam G Generation - Gather Beat (Japan).mp4</video>
 		<marquee>./marquee/SD Gundam G Generation - Gather Beat (Japan).png</marquee>
+		<developer>뱅가드 웍스</developer>
 		<publisher>반다이</publisher>
 		<genre>전략</genre>
 		<players>1</players>
@@ -941,7 +985,7 @@
 		<path>./SD Gundam Gashapon Senki - Episode 1 (Japan).zip</path>
 		<name>SD 건담 가샤폰 전기 - 에피소드 1 (일본판)</name>
 		<image>./snap/SD Gundam Gashapon Senki - Episode 1 (Japan).png</image>
-		<video>./snap/SD Gundam Gashapon Senki - Episode 1 (Japan).mp4</video>
+		<video>./snap/SD Gundam Gashapon Senki - Episode 1 (Japan) (8 MBit).mp4</video>
 		<marquee>./marquee/SD Gundam Gashapon Senki - Episode 1 (Japan).png</marquee>
 		<developer>그래픽 리서치</developer>
 		<publisher>반다이</publisher>
@@ -951,7 +995,7 @@
 	</game>
 	<game>
 		<path>./Senkaiden - TV Animation Senkaiden Houshin Engi Yori (Japan).zip</path>
-		<name>신계전 - TV 애니메이션 신계전 봉신연희 (일본판)</name>
+		<name>선계전 - TV 애니메이션 신계전 봉신연희 (일본판)</name>
 		<image>./snap/Senkaiden - TV Animation Senkaiden Houshin Engi Yori (Japan).png</image>
 		<video>./snap/Senkaiden - TV Animation Senkaiden Houshin Engi Yori (Japan).mp4</video>
 		<marquee>./marquee/Senkaiden - TV Animation Senkaiden Houshin Engi Yori (Japan).png</marquee>
@@ -967,6 +1011,7 @@
 		<image>./snap/Sennou Millennium (Japan).png</image>
 		<video>./snap/Sennou Millennium (Japan).mp4</video>
 		<marquee>./marquee/Sennou Millennium (Japan).png</marquee>
+		<developer>코유샤</developer>
 		<publisher>반다이</publisher>
 		<genre>퍼즐게임</genre>
 		<players>1</players>
@@ -1051,6 +1096,7 @@
 		<video>./snap/Sotsugyou for WonderSwan (Japan) (Rev 1).mp4</video>
 		<marquee>./marquee/Sotsugyou for WonderSwan (Japan) (Rev 1).png</marquee>
 		<developer>이미지웍스</developer>
+		<publisher>반다이 비주얼</publisher>
 		<genre>시뮬레이션</genre>
 		<players>1</players>
 		<releasedate>19991216T000000</releasedate>
@@ -1083,7 +1129,7 @@
 		<path>./Super Robot Taisen Compact (Japan).zip</path>
 		<name>슈퍼 로봇 대전 콤팩트 (일본판)</name>
 		<image>./snap/Super Robot Taisen Compact (Japan).png</image>
-		<video>./snap/Super Robot Taisen Compact (Japan).mp4</video>
+		<video>./snap/Super Robot Taisen Compact (Japan) (Rev 2).mp4</video>
 		<marquee>./marquee/Super Robot Taisen Compact (Japan).png</marquee>
 		<developer>토세</developer>
 		<publisher>반프레스토</publisher>
@@ -1145,6 +1191,8 @@
 		<image>./snap/Tanjou Debut for WonderSwan (Japan) (Rev 1).png</image>
 		<video>./snap/Tanjou Debut for WonderSwan (Japan) (Rev 1).mp4</video>
 		<marquee>./marquee/Tanjou Debut for WonderSwan (Japan) (Rev 1).png</marquee>
+		<developer/>
+		<publisher>반다이 비주얼</publisher>
 		<genre>퍼즐게임</genre>
 		<players>1</players>
 		<releasedate>20000224T000000</releasedate>
@@ -1179,6 +1227,7 @@
 		<image>./snap/Terrors (Japan).png</image>
 		<video>./snap/Terrors (Japan).mp4</video>
 		<marquee>./marquee/Terrors (Japan).png</marquee>
+		<developer>메가스</developer>
 		<publisher>반다이</publisher>
 		<genre>어드벤처</genre>
 		<players>1</players>
@@ -1190,6 +1239,8 @@
 		<image>./snap/Tetsujin 28 Gou (Japan).png</image>
 		<video>./snap/Tetsujin 28 Gou (Japan).mp4</video>
 		<marquee>./marquee/Tetsujin 28 Gou (Japan).png</marquee>
+		<developer>히카리 프로</developer>
+		<publisher>메가하우스</publisher>
 		<genre>어드벤처</genre>
 		<players>1</players>
 		<releasedate>19991222T000000</releasedate>
@@ -1200,6 +1251,10 @@
 		<image>./snap/Time Bokan Series - Bokan Densetsu - Buta mo Odaterya Doronboo (Japan).png</image>
 		<video>./snap/Time Bokan Series - Bokan Densetsu - Buta mo Odaterya Doronboo (Japan).mp4</video>
 		<marquee>./marquee/Time Bokan Series - Bokan Densetsu - Buta mo Odaterya Doronboo (Japan).png</marquee>
+		<developer/>
+		<publisher/>
+		<genre/>
+		<players/>
 		<releasedate>01010101T000000</releasedate>
 	</game>
 	<game>
@@ -1208,6 +1263,8 @@
 		<image>./snap/Tokyo Majin Gakuen - Fuju Houroku (Japan).png</image>
 		<video>./snap/Tokyo Majin Gakuen - Fuju Houroku (Japan).mp4</video>
 		<marquee>./marquee/Tokyo Majin Gakuen - Fuju Houroku (Japan).png</marquee>
+		<developer>샤우트 디자인웍스</developer>
+		<publisher>애스믹 에이스</publisher>
 		<genre>롤플레잉</genre>
 		<players>1-2</players>
 		<releasedate>20001012T000000</releasedate>
@@ -1242,6 +1299,7 @@
 		<image>./snap/Turntablist - DJ Battle (Japan).png</image>
 		<video>./snap/Turntablist - DJ Battle (Japan).mp4</video>
 		<marquee>./marquee/Turntablist - DJ Battle (Japan).png</marquee>
+		<developer>베스택스</developer>
 		<publisher>반다이</publisher>
 		<genre>스포츠</genre>
 		<players>1-2</players>
@@ -1265,9 +1323,23 @@
 		<image>./snap/Uzumaki - Denshi Kaiki Hen (Japan) (Rev 4).png</image>
 		<video>./snap/Uzumaki - Denshi Kaiki Hen (Japan) (Rev 4).mp4</video>
 		<marquee>./marquee/Uzumaki - Denshi Kaiki Hen (Japan) (Rev 4).png</marquee>
+		<developer>오메가 미코트</developer>
+		<publisher>오메가 미코트</publisher>
 		<genre>어드벤처</genre>
 		<players>1</players>
 		<releasedate>20000203T000000</releasedate>
+	</game>
+	<game>
+		<path>./Uzumaki - Noroi Simulation (Japan).zip</path>
+		<name>소용돌이 - 저주 시뮬레이션 (일본판)</name>
+		<image>./snap/Uzumaki - Noroi Simulation (Japan).png</image>
+		<video>./snap/Uzumaki - Noroi Simulation (Japan).mp4</video>
+		<marquee>./marquee/Uzumaki - Noroi Simulation (Japan).png</marquee>
+		<developer>오메가 미코트</developer>
+		<publisher>오메가 미코트</publisher>
+		<genre>어드벤처</genre>
+		<players>1</players>
+		<releasedate/>
 	</game>
 	<game>
 		<path>./Vaitz Blade (Japan) (Rev 1).zip</path>
@@ -1287,22 +1359,11 @@
 		<image>./snap/Wasabi Produce - Street Dancer (Japan).png</image>
 		<video>./snap/Wasabi Produce - Street Dancer (Japan).mp4</video>
 		<marquee>./marquee/Wasabi Produce - Street Dancer (Japan).png</marquee>
+		<developer>어뮤즈</developer>
 		<publisher>반다이</publisher>
 		<genre>액션</genre>
 		<players>1-2</players>
 		<releasedate>20000427T000000</releasedate>
-	</game>
-	<game>
-		<path>./Wonder Stadium (Japan).zip</path>
-		<name>원더 스타디움 (일본판)</name>
-		<image>./snap/Wonder Stadium (Japan).png</image>
-		<video>./snap/Wonder Stadium (Japan).mp4</video>
-		<marquee>./marquee/Wonder Stadium (Japan).png</marquee>
-		<developer>남코</developer>
-		<publisher>반다이</publisher>
-		<genre>스포츠</genre>
-		<players>1-2</players>
-		<releasedate>19990311T000000</releasedate>
 	</game>
 	<game>
 		<path>./Wonder Stadium '99 (Japan).zip</path>
@@ -1317,12 +1378,39 @@
 		<releasedate>19990930T000000</releasedate>
 	</game>
 	<game>
+		<path>./Wonder Stadium (Japan).zip</path>
+		<name>원더 스타디움 (일본판)</name>
+		<image>./snap/Wonder Stadium (Japan).png</image>
+		<video>./snap/Wonder Stadium (Japan).mp4</video>
+		<marquee>./marquee/Wonder Stadium (Japan).png</marquee>
+		<developer>남코</developer>
+		<publisher>반다이</publisher>
+		<genre>스포츠</genre>
+		<players>1-2</players>
+		<releasedate>19990311T000000</releasedate>
+	</game>
+	<game>
 		<path>./WonderSwan Handy Sonar (Japan) (Rev 1).zip</path>
 		<name>원더스완 핸디 소나 (일본판)(개정판 1)</name>
 		<image>./snap/WonderSwan Handy Sonar (Japan) (Rev 1).png</image>
-		<video>./snap/WonderSwan Handy Sonar (Japan) (Rev 1).mp4</video>
+		<video>./snap/WonderSwan Handy Sonar (Japan) (Rev 2).mp4</video>
 		<marquee>./marquee/WonderSwan Handy Sonar (Japan) (Rev 1).png</marquee>
+		<developer/>
+		<publisher/>
 		<genre>낚시</genre>
+		<players/>
 		<releasedate>01010101T000000</releasedate>
+	</game>
+	<game>
+		<path>./[BIOS] WonderSwan Boot ROM (Japan) (En).zip</path>
+		<name>[바이오스] 원더스완 부트 롬 (일본판)(영어)</name>
+		<image>./snap/[BIOS] WonderSwan Boot ROM (Japan) (En).png</image>
+		<video>./snap/[BIOS] WonderSwan Boot ROM (Japan) (En).mp4</video>
+		<marquee>./marquee/[BIOS] WonderSwan Boot ROM (Japan) (En).png</marquee>
+		<developer/>
+		<publisher/>
+		<genre/>
+		<players/>
+		<releasedate/>
 	</game>
 </gameList>
