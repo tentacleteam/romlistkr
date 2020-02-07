@@ -3,94 +3,94 @@
 <!--
 * 제목 : 레트로게임 롬 목록 한글화 프로젝트
 * 지원프론트엔드 : RetroPie, Recalbox, Attract-Mode
-* 지원에뮬 : Arcade(MAME, AdvMAME, FBA), NES, SNES, Mega Drive,GB, GBC, GBA, PCE, SMS, Sega 32X, NGP, NGPC
+* 지원에뮬 : Arcade(MAME, AdvMAME, FBNeo), NES, SNES, MD, GB, GBC, GBA, PCE, SMS, Sega 32X, NGP, NGPC, WS, WSC
 * 제작자 : 텐타클 팀
-* 만든날 : Jul 15, 2019
+* 최종수정 : Fab 07, 2020
 * 카페 : http://cafe.naver.com/raspigamer
 * 레트로게임 롬 목록 한글화 자료는 오픈소스입니다. MIT 라이센스를 따르고 있으므로 라이센스와 출처(http://cafe.naver.com/raspigamer) 표시만 지켜주시면 자유롭게 사용하실 수 있습니다.
 -->
 	<game>
-		<path>./Baseball Stars (Japan, Europe) (En,Ja).zip</path>
-		<name>베이스볼 스타즈 (일본,유럽판)</name>
-		<image>./snap/Baseball Stars (Japan, Europe) (En,Ja).png</image>
-		<video>./snap/Baseball Stars (Japan, Europe) (En,Ja).mp4</video>
-		<marquee>./marquee/Baseball Stars (Japan, Europe) (En,Ja).png</marquee>
+		<path>./Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja).zip</path>
+		<name>베이스볼 스타즈 - 포켓 스포츠 시리즈 (일본,유럽판)(영어,일본어)</name>
+		<image>./snap/Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja).png</image>
+		<video>./snap/Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja).mp4</video>
+		<marquee>./marquee/Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja).png</marquee>
 		<developer>사우루스</developer>
 		<publisher>SNK</publisher>
+		<genre/>
 		<players>1-2</players>
 		<releasedate>19980128T000000</releasedate>
 	</game>
 	<game>
 		<path>./King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja).zip</path>
-		<name>킹 오브 파이터즈 R-1 - 포켓 파이팅 시리즈 (일본,유럽판)</name>
+		<name>킹 오브 파이터즈 R-1 - 포켓 파이팅 시리즈 (일본,유럽판)(영어,일본어)</name>
 		<image>./snap/King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja).png</image>
 		<video>./snap/King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja).mp4</video>
 		<marquee>./marquee/King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja).png</marquee>
 		<developer>SNK</developer>
 		<publisher>SNK</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19980101T000000</releasedate>
 	</game>
 	<game>
-		<path>./King of Fighters R-1 &amp; Melon-chan no Seichou Nikki - Pocket Fighting Series (Japan) (Demo).zip</path>
+		<path>./King of Fighters R-1 - Pocket Kakutou Series &amp; Melon-chan no Seichou Nikki (Japan) (Demo).zip</path>
 		<name>킹 오브 파이터즈 R-1 &amp; 메론짱의 성장일기 (일본판)(데모)</name>
-		<image>./snap/King of Fighters R-1 &amp; Melon-chan no Seichou Nikki - Pocket Fighting Series (Japan) (Demo).png</image>
-		<video>./snap/King of Fighters R-1 &amp; Melon-chan no Seichou Nikki - Pocket Fighting Series (Japan) (Demo).mp4</video>
-		<marquee>./marquee/King of Fighters R-1 &amp; Melon-chan no Seichou Nikki - Pocket Fighting Series (Japan) (Demo).png</marquee>
+		<image>./snap/King of Fighters R-1 - Pocket Kakutou Series &amp; Melon-chan no Seichou Nikki (Japan) (Demo).png</image>
+		<video>./snap/King of Fighters R-1 - Pocket Kakutou Series &amp; Melon-chan no Seichou Nikki (Japan) (Demo).mp4</video>
+		<marquee>./marquee/King of Fighters R-1 - Pocket Kakutou Series &amp; Melon-chan no Seichou Nikki (Japan) (Demo).png</marquee>
 		<developer>SNK</developer>
 		<publisher>SNK</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19980101T000000</releasedate>
 	</game>
 	<game>
-		<path>./Shogi no Tatsujin (Japan).zip</path>
-		<name>장기의 달인 (일본판)</name>
-		<image>./snap/Shogi no Tatsujin (Japan).png</image>
-		<video>./snap/Shogi no Tatsujin (Japan).mp4</video>
-		<marquee>./marquee/Shogi no Tatsujin (Japan).png</marquee>
-		<developer/>
-		<publisher>SNK</publisher>
-		<releasedate>19980101T000000</releasedate>
-	</game>
-	<game>
-		<path>./Melon-chan no Seichouki (Japan).zip</path>
-		<name>메롱짱의 성장일기 (일본판)</name>
-		<image>./snap/Melon-chan no Seichouki (Japan).png</image>
-		<video>./snap/Melon-chan no Seichouki (Japan).mp4</video>
-		<marquee>./marquee/Melon-chan no Seichouki (Japan).png</marquee>
+		<path>./Melon-chan no Seichou Nikki (Japan).zip</path>
+		<name>메론짱의 성장일기 (일본판)</name>
+		<image>./snap/Melon-chan no Seichou Nikki (Japan).png</image>
+		<video>./snap/Melon-chan no Seichou Nikki (Japan).mp4</video>
+		<marquee>./marquee/Melon-chan no Seichou Nikki (Japan).png</marquee>
 		<developer>ADK</developer>
 		<publisher>ADK</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19980101T000000</releasedate>
 	</game>
 	<game>
-		<path>./Neo Cherry Master - Real Casino Series (Japan, Europe) (En,Ja).zip</path>
-		<name>네오 체리 마스터 - 리얼 카지노 시리즈 (일본,유럽판)</name>
-		<image>./snap/Neo Cherry Master - Real Casino Series (Japan, Europe) (En,Ja).png</image>
-		<video>./snap/Neo Cherry Master - Real Casino Series (Japan, Europe) (En,Ja).mp4</video>
-		<marquee>./marquee/Neo Cherry Master - Real Casino Series (Japan, Europe) (En,Ja).png</marquee>
+		<path>./Neo Cherry Master - Real Casino Series (Japan) (En,Ja).zip</path>
+		<name>네오 체리 마스터 - 리얼 카지노 시리즈 (일본판)(영어,일본어)</name>
+		<image>./snap/Neo Cherry Master - Real Casino Series (Japan) (En,Ja).png</image>
+		<video>./snap/Neo Cherry Master - Real Casino Series (Japan) (En,Ja).mp4</video>
+		<marquee>./marquee/Neo Cherry Master - Real Casino Series (Japan) (En,Ja).png</marquee>
 		<developer/>
-		<publisher>나이나</publisher>
+		<publisher>Dyna</publisher>
+		<genre/>
+		<players/>
 		<releasedate>19980101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Neo Geo Cup '98 (Japan, Europe) (En,Ja).zip</path>
-		<name>네오지오 컵 98 (일본,유럽판)</name>
+		<name>네오지오 컵 98 (일본,유럽판)(영어,일본어)</name>
 		<image>./snap/Neo Geo Cup '98 (Japan, Europe) (En,Ja).png</image>
 		<video>./snap/Neo Geo Cup '98 (Japan, Europe) (En,Ja).mp4</video>
 		<marquee>./marquee/Neo Geo Cup '98 (Japan, Europe) (En,Ja).png</marquee>
 		<developer/>
 		<publisher>SNK</publisher>
+		<genre/>
+		<players/>
 		<releasedate>19980101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja).zip</path>
-		<name>포켓 테니스 - 포켓 스포츠 시리즈 (일본,유럽판)</name>
+		<name>포켓 테니스 - 포켓 스포츠 시리즈 (일본,유럽판)(영어,일본어)</name>
 		<image>./snap/Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja).png</image>
 		<video>./snap/Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja).mp4</video>
 		<marquee>./marquee/Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja).png</marquee>
 		<developer/>
 		<publisher>유메코보</publisher>
+		<genre/>
+		<players/>
 		<releasedate>19980101T000000</releasedate>
 	</game>
 	<game>
@@ -101,17 +101,32 @@
 		<marquee>./marquee/Renketsu Puzzle Tsunagete Pon! (Japan).png</marquee>
 		<developer>유메코보</developer>
 		<publisher>SNK</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19980101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja).zip</path>
-		<name>사무라이 쇼다운! - 포켓 파이팅 시리즈 (일본,유럽판)</name>
+		<name>사무라이 쇼다운! - 포켓 파이팅 시리즈 (일본,유럽판)(영어,일본어)</name>
 		<image>./snap/Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja).png</image>
 		<video>./snap/Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja).mp4</video>
 		<marquee>./marquee/Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja).png</marquee>
 		<developer>SNK</developer>
 		<publisher>SNK</publisher>
+		<genre/>
+		<players/>
+		<releasedate>19980101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Shougi no Tatsujin (Japan).zip</path>
+		<name>장기의 달인 (일본판)</name>
+		<image>./snap/Shougi no Tatsujin (Japan).png</image>
+		<video>./snap/Shougi no Tatsujin (Japan).mp4</video>
+		<marquee>./marquee/Shougi no Tatsujin (Japan).png</marquee>
+		<developer/>
+		<publisher>SNK</publisher>
+		<genre/>
+		<players/>
 		<releasedate>19980101T000000</releasedate>
 	</game>
 	<game>
@@ -120,7 +135,10 @@
 		<image>./snap/[BIOS] SNK Neo Geo Pocket (Japan, Europe).png</image>
 		<video>./snap/[BIOS] SNK Neo Geo Pocket (Japan, Europe).mp4</video>
 		<marquee>./marquee/[BIOS] SNK Neo Geo Pocket (Japan, Europe).png</marquee>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
+		<developer/>
+		<publisher/>
+		<genre/>
+		<players/>
+		<releasedate/>
 	</game>
 </gameList>

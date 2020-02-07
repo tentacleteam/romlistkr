@@ -1,0 +1,738 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<!--
+* 제목 : 레트로게임 롬 목록 한글화 프로젝트
+* 지원프론트엔드 : RetroPie, Recalbox, Attract-Mode
+* 지원에뮬 : Arcade(MAME, AdvMAME, FBA), NES, SNES, Mega Drive,GB, GBC, GBA, PCE, SMS, Sega 32X, NGP, NGPC
+* 제작자 : 텐타클 팀
+* 만든날 : Jul 15, 2019
+* 카페 : http://cafe.naver.com/raspigamer
+* 레트로게임 롬 목록 한글화 자료는 오픈소스입니다. MIT 라이센스를 따르고 있으므로 라이센스와 출처(http://cafe.naver.com/raspigamer) 표시만 지켜주시면 자유롭게 사용하실 수 있습니다.
+-->
+	<game>
+		<path>./[BIOS] 32X M68000 (USA).zip</path>
+		<name>[바이오스] 32X M68000</name>
+		<image>./snap/[BIOS] 32X M68000 (USA).png</image>
+		<video>./snap/[BIOS] 32X M68000 (USA).mp4</video>
+		<marquee>./marquee/[BIOS] 32X M68000 (USA).png</marquee>
+	</game>
+	<game>
+		<path>./[BIOS] 32X SH-2 Master (USA).zip</path>
+		<name>[바이오스] 32X SH-2 마스터</name>
+		<image>./snap/[BIOS] 32X SH-2 Master (USA).png</image>
+		<video>./snap/[BIOS] 32X SH-2 Master (USA).mp4</video>
+		<marquee>./marquee/[BIOS] 32X SH-2 Master (USA).png</marquee>
+	</game>
+	<game>
+		<path>./[BIOS] 32X SH-2 Slave (USA).zip</path>
+		<name>[바이오스] 32X SH-2 슬레이브</name>
+		<image>./snap/[BIOS] 32X SH-2 Slave (USA).png</image>
+		<video>./snap/[BIOS] 32X SH-2 Slave (USA).mp4</video>
+		<marquee>./marquee/[BIOS] 32X SH-2 Slave (USA).png</marquee>
+	</game>
+	<game>
+		<path>./32X Sample Program - PWM Sound Demo (USA) (SDK Build).zip</path>
+		<name>32X 샘플 프로그램 - PWM 사운드 데모</name>
+		<image>./snap/32X Sample Program - PWM Sound Demo (USA) (SDK Build).png</image>
+		<video>./snap/32X Sample Program - PWM Sound Demo (USA) (SDK Build).mp4</video>
+		<marquee>./marquee/32X Sample Program - PWM Sound Demo (USA) (SDK Build).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>데모</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./After Burner Complete (Europe).zip</path>
+		<name>애프터 버너 컴플리트(유럽)</name>
+		<image>./snap/After Burner Complete (Europe).png</image>
+		<video>./snap/After Burner Complete (Europe).mp4</video>
+		<marquee>./marquee/After Burner Complete (Europe).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>슈팅</genre>
+		<players>1</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./After Burner Complete ~ After Burner (Japan, USA).zip</path>
+		<name>애프터 버너 컴플리트</name>
+		<image>./snap/After Burner Complete ~ After Burner (Japan, USA).png</image>
+		<video>./snap/After Burner Complete ~ After Burner (Japan, USA).mp4</video>
+		<marquee>./marquee/After Burner Complete ~ After Burner (Japan, USA).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>슈팅</genre>
+		<players>1</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Amazing Spider-Man, The - Web of Fire (USA).zip</path>
+		<name>스파이더맨 - 웹 오브 파이어</name>
+		<image>./snap/Amazing Spider-Man, The - Web of Fire (USA).png</image>
+		<video>./snap/Amazing Spider-Man, The - Web of Fire (USA).mp4</video>
+		<marquee>./marquee/Amazing Spider-Man, The - Web of Fire (USA).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>액션</genre>
+		<players>1</players>
+		<releasedate>19960000T000000</releasedate>
+	</game>
+	<game>
+		<path>./BC Racers (USA).zip</path>
+		<name>BC 레이서</name>
+		<image>./snap/BC Racers (USA).png</image>
+		<video>./snap/BC Racers (USA).mp4</video>
+		<marquee>./marquee/BC Racers (USA).png</marquee>
+		<developer>코어 디자인</developer>
+		<publisher>코어 디자인</publisher>
+		<genre>레이싱</genre>
+		<players>2</players>
+		<releasedate>19950601T000000</releasedate>
+	</game>
+	<game>
+		<path>./Blackthorne (USA).zip</path>
+		<name>블랙쏜</name>
+		<image>./snap/Blackthorne (USA).png</image>
+		<video>./snap/Blackthorne (USA).mp4</video>
+		<marquee>./marquee/Blackthorne (USA).png</marquee>
+		<developer>블리자드 엔터테인먼트</developer>
+		<publisher>인터플레이</publisher>
+		<genre>플랫폼</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Brutal Unleashed - Above the Claw (USA).zip</path>
+		<name>부루탈 언리쉬드 - 어보브 더 클로</name>
+		<image>./snap/Brutal Unleashed - Above the Claw (USA).png</image>
+		<video>./snap/Brutal Unleashed - Above the Claw (USA).mp4</video>
+		<marquee>./marquee/Brutal Unleashed - Above the Claw (USA).png</marquee>
+		<developer>겜텍</developer>
+		<publisher>얼터너티브</publisher>
+		<genre>격투</genre>
+		<players>2</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Chaotix ~ Knuckles' Chaotix (Japan, USA).zip</path>
+		<name>카오틱스 - 너클스 카오틱스</name>
+		<image>./snap/Chaotix ~ Knuckles' Chaotix (Japan, USA).png</image>
+		<video>./snap/Chaotix ~ Knuckles' Chaotix (Japan, USA).mp4</video>
+		<marquee>./marquee/Chaotix ~ Knuckles' Chaotix (Japan, USA).png</marquee>
+		<developer>소닉팀</developer>
+		<publisher>세가</publisher>
+		<genre>플랫폼</genre>
+		<players>2</players>
+		<releasedate>19950420T000000</releasedate>
+	</game>
+	<game>
+		<path>./Cosmic Carnage (Europe).zip</path>
+		<name>코즈믹 카니지</name>
+		<image>./snap/Cosmic Carnage (Europe).png</image>
+		<video>./snap/Cosmic Carnage (Europe).mp4</video>
+		<marquee>./marquee/Cosmic Carnage (Europe).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>격투</genre>
+		<players>2</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Cyber Brawl ~ Cosmic Carnage (Japan, USA).zip</path>
+		<name>사이버 브라울 - 코스믹 카니지</name>
+		<image>./snap/Cyber Brawl ~ Cosmic Carnage (Japan, USA).png</image>
+		<video>./snap/Cyber Brawl ~ Cosmic Carnage (Japan, USA).mp4</video>
+		<marquee>./marquee/Cyber Brawl ~ Cosmic Carnage (Japan, USA).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>격투</genre>
+		<players>2</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Darxide (Europe) (En,Fr,De,Es).zip</path>
+		<name>다사이드</name>
+		<image>./snap/Darxide (Europe) (En,Fr,De,Es).png</image>
+		<video>./snap/Darxide (Europe) (En,Fr,De,Es).mp4</video>
+		<marquee>./marquee/Darxide (Europe) (En,Fr,De,Es).png</marquee>
+		<developer>프론티어 디벨롭먼트</developer>
+		<publisher>세가</publisher>
+		<genre>라이트건</genre>
+		<players>1</players>
+		<releasedate>19960000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Doom (Europe).zip</path>
+		<name>둠(유럽)</name>
+		<image>./snap/Doom (Europe).png</image>
+		<video>./snap/Doom (Europe).mp4</video>
+		<marquee>./marquee/Doom (Europe).png</marquee>
+		<developer>세가</developer>
+		<publisher>id 소프트웨어</publisher>
+		<genre>액션</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Doom (Japan, USA).zip</path>
+		<name>둠</name>
+		<image>./snap/Doom (Japan, USA).png</image>
+		<video>./snap/Doom (Japan, USA).mp4</video>
+		<marquee>./marquee/Doom (Japan, USA).png</marquee>
+		<developer>세가</developer>
+		<publisher>id 소프트웨어</publisher>
+		<genre>액션</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./ECCO the Dolphin CinePak Demo (Japan, USA) (Developer Cart).zip</path>
+		<name>에코 더 돌핀 시네팩 데모</name>
+		<image>./snap/ECCO the Dolphin CinePak Demo (Japan, USA) (Developer Cart).png</image>
+		<video>./snap/ECCO the Dolphin CinePak Demo (Japan, USA) (Developer Cart).mp4</video>
+		<marquee>./marquee/ECCO the Dolphin CinePak Demo (Japan, USA) (Developer Cart).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>데모</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./FIFA Soccer '96 (Europe) (En,Fr,De,Es,It,Sv).zip</path>
+		<name>피파 96</name>
+		<image>./snap/FIFA Soccer '96 (Europe) (En,Fr,De,Es,It,Sv).png</image>
+		<video>./snap/FIFA Soccer '96 (Europe) (En,Fr,De,Es,It,Sv).mp4</video>
+		<marquee>./marquee/FIFA Soccer '96 (Europe) (En,Fr,De,Es,It,Sv).png</marquee>
+		<developer>프로브</developer>
+		<publisher>일렉트로닉 아츠</publisher>
+		<genre>스포츠</genre>
+		<players>4</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Golf Magazine 36 Great Holes Starring Fred Couples (Japan, USA).zip</path>
+		<name>프레드 커플스의 36 그레이트 홀즈 (일본 북미판)</name>
+		<image>./snap/Golf Magazine 36 Great Holes Starring Fred Couples (Japan, USA).png</image>
+		<video>./snap/Golf Magazine 36 Great Holes Starring Fred Couples (Japan, USA).mp4</video>
+		<marquee>./marquee/Golf Magazine 36 Great Holes Starring Fred Couples (Japan, USA).png</marquee>
+		<developer>플래시포인트 프로덕션</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠</genre>
+		<players>8</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Golf Magazine 36 Great Holes Starring Fred Couples (Europe).zip</path>
+		<name>프레드 커플스의 36 그레이트 홀즈 (유럽판)</name>
+		<image>./snap/Golf Magazine 36 Great Holes Starring Fred Couples (Europe).png</image>
+		<video>./snap/Golf Magazine 36 Great Holes Starring Fred Couples (Europe).mp4</video>
+		<marquee>./marquee/Golf Magazine 36 Great Holes Starring Fred Couples (Europe).png</marquee>
+		<developer>플래시포인트 프로덕션</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠</genre>
+		<players>8</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Knuckles' Chaotix (Europe).zip</path>
+		<name>너클즈 카오틱스(유럽)</name>
+		<image>./snap/Knuckles' Chaotix (Europe).png</image>
+		<video>./snap/Knuckles' Chaotix (Europe).mp4</video>
+		<marquee>./marquee/Knuckles' Chaotix (Europe).png</marquee>
+		<developer>소닉팀</developer>
+		<publisher>세가</publisher>
+		<genre>플랫폼</genre>
+		<players>2</players>
+		<releasedate>19950420T000000</releasedate>
+	</game>
+	<game>
+		<path>./Kolibri (USA, Europe).zip</path>
+		<name>코리브리</name>
+		<image>./snap/Kolibri (USA, Europe).png</image>
+		<video>./snap/Kolibri (USA, Europe).mp4</video>
+		<marquee>./marquee/Kolibri (USA, Europe).png</marquee>
+		<developer>노보트레이드</developer>
+		<publisher>세가</publisher>
+		<genre>슈팅</genre>
+		<players>2</players>
+		<releasedate>19951001T000000</releasedate>
+	</game>
+	<game>
+		<path>./Mars Check Program Version 1.0 (Japan, USA) (SDK Build) (Set 1).zip</path>
+		<name>마즈 체크 프로그램 v1.0</name>
+		<image>./snap/Mars Check Program Version 1.0 (Japan, USA) (SDK Build) (Set 1).png</image>
+		<video>./snap/Mars Check Program Version 1.0 (Japan, USA) (SDK Build) (Set 1).mp4</video>
+		<marquee>./marquee/Mars Check Program Version 1.0 (Japan, USA) (SDK Build) (Set 1).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>데모</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Mars Check Program Version 1.0 (Japan, USA) (SDK Build) (Set 2).zip</path>
+		<name>마즈 체크 프로그램 v1.0(세트2)</name>
+		<image>./snap/Mars Check Program Version 1.0 (Japan, USA) (SDK Build) (Set 2).png</image>
+		<video>./snap/Mars Check Program Version 1.0 (Japan, USA) (SDK Build) (Set 2).mp4</video>
+		<marquee>./marquee/Mars Check Program Version 1.0 (Japan, USA) (SDK Build) (Set 2).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>데모</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Mars Sample Program - Gnu Sierra (Japan, USA) (SDK Build).zip</path>
+		<name>마즈 샘플 프로그램 - 그누 시에라</name>
+		<image>./snap/Mars Sample Program - Gnu Sierra (Japan, USA) (SDK Build).png</image>
+		<video>./snap/Mars Sample Program - Gnu Sierra (Japan, USA) (SDK Build).mp4</video>
+		<marquee>./marquee/Mars Sample Program - Gnu Sierra (Japan, USA) (SDK Build).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>데모</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Mars Sample Program - Pharaoh (Japan, USA) (SDK Build).zip</path>
+		<name>마즈 샘플 프로그램 - 파라오</name>
+		<image>./snap/Mars Sample Program - Pharaoh (Japan, USA) (SDK Build).png</image>
+		<video>./snap/Mars Sample Program - Pharaoh (Japan, USA) (SDK Build).mp4</video>
+		<marquee>./marquee/Mars Sample Program - Pharaoh (Japan, USA) (SDK Build).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>데모</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Mars Sample Program - Runlength Mode Test (Japan, USA) (SDK Build).zip</path>
+		<name>마즈 샘플 프로그램 - 런렝스 모드 테스트</name>
+		<image>./snap/Mars Sample Program - Runlength Mode Test (Japan, USA) (SDK Build).png</image>
+		<video>./snap/Mars Sample Program - Runlength Mode Test (Japan, USA) (SDK Build).mp4</video>
+		<marquee>./marquee/Mars Sample Program - Runlength Mode Test (Japan, USA) (SDK Build).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>데모</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Mars Sample Program - Texture Test (Japan, USA) (SDK Build).zip</path>
+		<name>마즈 샘플 프로그램 - 텍스쳐 테스트</name>
+		<image>./snap/Mars Sample Program - Texture Test (Japan, USA) (SDK Build).png</image>
+		<video>./snap/Mars Sample Program - Texture Test (Japan, USA) (SDK Build).mp4</video>
+		<marquee>./marquee/Mars Sample Program - Texture Test (Japan, USA) (SDK Build).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>데모</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Metal Head (Japan, USA) (En,Ja).zip</path>
+		<name>메탈 헤드</name>
+		<image>./snap/Metal Head (Japan, USA) (En,Ja).png</image>
+		<video>./snap/Metal Head (Japan, USA) (En,Ja).mp4</video>
+		<marquee>./marquee/Metal Head (Japan, USA) (En,Ja).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>시뮬레이션</genre>
+		<players>1</players>
+		<releasedate>19950201T000000</releasedate>
+	</game>
+	<game>
+		<path>./Metal Head (Europe) (En,Ja).zip</path>
+		<name>메탈 헤드(유럽)</name>
+		<image>./snap/Metal Head (Europe) (En,Ja).png</image>
+		<video>./snap/Metal Head (Europe) (En,Ja).mp4</video>
+		<marquee>./marquee/Metal Head (Europe) (En,Ja).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>시뮬레이션</genre>
+		<players>1</players>
+		<releasedate>19950201T000000</releasedate>
+	</game>
+	<game>
+		<path>./Mortal Kombat II (Europe).zip</path>
+		<name>모탈 컴뱃 II(유럽)</name>
+		<image>./snap/Mortal Kombat II (Europe).png</image>
+		<video>./snap/Mortal Kombat II (Europe).mp4</video>
+		<marquee>./marquee/Mortal Kombat II (Europe).png</marquee>
+		<developer>프로브</developer>
+		<publisher>어클레임 엔터테인먼트</publisher>
+		<genre>격투</genre>
+		<players>2</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Mortal Kombat II (Japan, USA).zip</path>
+		<name>모탈 컴뱃 II</name>
+		<image>./snap/Mortal Kombat II (Japan, USA).png</image>
+		<video>./snap/Mortal Kombat II (Japan, USA).mp4</video>
+		<marquee>./marquee/Mortal Kombat II (Japan, USA).png</marquee>
+		<developer>프로브</developer>
+		<publisher>어클레임 엔터테인먼트</publisher>
+		<genre>격투</genre>
+		<players>2</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Motocross Championship (USA).zip</path>
+		<name>모토크로스 챔피언십</name>
+		<image>./snap/Motocross Championship (USA).png</image>
+		<video>./snap/Motocross Championship (USA).mp4</video>
+		<marquee>./marquee/Motocross Championship (USA).png</marquee>
+		<developer>아트텍 스튜디오</developer>
+		<publisher>세가</publisher>
+		<genre>레이싱</genre>
+		<players>2</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Motocross Championship (Europe).zip</path>
+		<name>모토크로스 챔피언십(유럽)</name>
+		<image>./snap/Motocross Championship (Europe).png</image>
+		<video>./snap/Motocross Championship (Europe).mp4</video>
+		<marquee>./marquee/Motocross Championship (Europe).png</marquee>
+		<developer>아트텍 스튜디오</developer>
+		<publisher>세가</publisher>
+		<genre>레이싱</genre>
+		<players>2</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./NBA Jam - Tournament Edition (World).zip</path>
+		<name>NBA 잼 - 토너먼트 에디션</name>
+		<image>./snap/NBA Jam - Tournament Edition (World).png</image>
+		<video>./snap/NBA Jam - Tournament Edition (World).mp4</video>
+		<marquee>./marquee/NBA Jam - Tournament Edition (World).png</marquee>
+		<developer>이구아나 엔터테인먼트</developer>
+		<publisher>어클레임 엔터테인먼트</publisher>
+		<genre>스포츠</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./NFL Quarterback Club (World).zip</path>
+		<name>NFL 쿼터백 클럽</name>
+		<image>./snap/NFL Quarterback Club (World).png</image>
+		<video>./snap/NFL Quarterback Club (World).mp4</video>
+		<marquee>./marquee/NFL Quarterback Club (World).png</marquee>
+		<developer>이구아나 엔터테인먼트</developer>
+		<publisher>어클레임 엔터테인먼트</publisher>
+		<genre>스포츠</genre>
+		<players>4</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Parasquad ~ Zaxxon's Motherbase 2000 (Japan, USA).zip</path>
+		<name>파라스쿼드 - 잭슨 마더베이스 2000</name>
+		<image>./snap/Parasquad ~ Zaxxon's Motherbase 2000 (Japan, USA).png</image>
+		<video>./snap/Parasquad ~ Zaxxon's Motherbase 2000 (Japan, USA).mp4</video>
+		<marquee>./marquee/Parasquad ~ Zaxxon's Motherbase 2000 (Japan, USA).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>슈팅</genre>
+		<players>2</players>
+		<releasedate>19950601T000000</releasedate>
+	</game>
+	<game>
+		<path>./Pitfall - The Mayan Adventure (USA).zip</path>
+		<name>핏폴 - 마야 어드벤쳐</name>
+		<image>./snap/Pitfall - The Mayan Adventure (USA).png</image>
+		<video>./snap/Pitfall - The Mayan Adventure (USA).mp4</video>
+		<marquee>./marquee/Pitfall - The Mayan Adventure (USA).png</marquee>
+		<developer>액티비젼</developer>
+		<publisher>액티비젼</publisher>
+		<genre>플랫폼</genre>
+		<players>1</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Primal Rage (USA, Europe).zip</path>
+		<name>프라이멀 레이지</name>
+		<image>./snap/Primal Rage (USA, Europe).png</image>
+		<video>./snap/Primal Rage (USA, Europe).mp4</video>
+		<marquee>./marquee/Primal Rage (USA, Europe).png</marquee>
+		<developer>타임워너 인터렉티브</developer>
+		<publisher>프로브</publisher>
+		<genre>격투</genre>
+		<players>2</players>
+		<releasedate>19951114T000000</releasedate>
+	</game>
+	<game>
+		<path>./RBI Baseball '95 (USA).zip</path>
+		<name>RBI 베이스볼 '95</name>
+		<image>./snap/RBI Baseball '95 (USA).png</image>
+		<video>./snap/RBI Baseball '95 (USA).mp4</video>
+		<marquee>./marquee/RBI Baseball '95 (USA).png</marquee>
+		<developer>타임워너 인터렉티브</developer>
+		<publisher>타임워너 인터렉티브</publisher>
+		<genre>스포츠</genre>
+		<players>2</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Sangokushi IV (Japan).zip</path>
+		<name>삼국지 IV</name>
+		<image>./snap/Sangokushi IV (Japan).png</image>
+		<video>./snap/Sangokushi IV (Japan).mp4</video>
+		<marquee>./marquee/Sangokushi IV (Japan).png</marquee>
+		<developer>세가</developer>
+		<publisher>코에이</publisher>
+		<genre>시뮬레이션</genre>
+		<players>1</players>
+		<releasedate>19950707T000000</releasedate>
+	</game>
+	<game>
+		<path>./Shadow Squadron ~ Stellar Assault (USA, Europe).zip</path>
+		<name>샤도우 스쿼드론 - 스텔라 어설트</name>
+		<image>./snap/Shadow Squadron ~ Stellar Assault (USA, Europe).png</image>
+		<video>./snap/Shadow Squadron ~ Stellar Assault (USA, Europe).mp4</video>
+		<marquee>./marquee/Shadow Squadron ~ Stellar Assault (USA, Europe).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>슈팅</genre>
+		<players>2</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Soulstar X (USA) (Proto).zip</path>
+		<name>소울스타 X</name>
+		<image>./snap/Soulstar X (USA) (Proto).png</image>
+		<video>./snap/Soulstar X (USA) (Proto).mp4</video>
+		<marquee>./marquee/Soulstar X (USA) (Proto).png</marquee>
+		<developer>코어 디자인 Limited</developer>
+		<publisher>에이도스</publisher>
+		<genre>슈팅</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Space Harrier (Europe).zip</path>
+		<name>스페이스 헤리어(유럽)</name>
+		<image>./snap/Space Harrier (Europe).png</image>
+		<video>./snap/Space Harrier (Europe).mp4</video>
+		<marquee>./marquee/Space Harrier (Europe).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>슈팅</genre>
+		<players>1</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Space Harrier (Japan, USA).zip</path>
+		<name>스페이스 헤리어</name>
+		<image>./snap/Space Harrier (Japan, USA).png</image>
+		<video>./snap/Space Harrier (Japan, USA).mp4</video>
+		<marquee>./marquee/Space Harrier (Japan, USA).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>슈팅</genre>
+		<players>1</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Star Trek - Starfleet Academy - Starship Bridge Simulator (USA).zip</path>
+		<name>스타트렉 - 스타플릿 아카데미</name>
+		<image>./snap/Star Trek - Starfleet Academy - Starship Bridge Simulator (USA).png</image>
+		<video>./snap/Star Trek - Starfleet Academy - Starship Bridge Simulator (USA).mp4</video>
+		<marquee>./marquee/Star Trek - Starfleet Academy - Starship Bridge Simulator (USA).png</marquee>
+		<developer>하이볼티지</developer>
+		<publisher>인터플레이</publisher>
+		<genre>라이트건</genre>
+		<players>2</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Star Wars Arcade (USA).zip</path>
+		<name>스타워즈 아케이드</name>
+		<image>./snap/Star Wars Arcade (USA).png</image>
+		<video>./snap/Star Wars Arcade (USA).mp4</video>
+		<marquee>./marquee/Star Wars Arcade (USA).png</marquee>
+		<developer>루카스아츠</developer>
+		<publisher>루카스아츠</publisher>
+		<genre>액션</genre>
+		<players>2</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Star Wars Arcade (Europe).zip</path>
+		<name>스타워즈 아케이드(유럽)</name>
+		<image>./snap/Star Wars Arcade (Europe).png</image>
+		<video>./snap/Star Wars Arcade (Europe).mp4</video>
+		<marquee>./marquee/Star Wars Arcade (Europe).png</marquee>
+		<developer>루카스아츠</developer>
+		<publisher>루카스아츠</publisher>
+		<genre>액션</genre>
+		<players>2</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Star Wars Arcade (Japan).zip</path>
+		<name>스타워즈 아케이드(일본)</name>
+		<image>./snap/Star Wars Arcade (Japan).png</image>
+		<video>./snap/Star Wars Arcade (Japan).mp4</video>
+		<marquee>./marquee/Star Wars Arcade (Japan).png</marquee>
+		<developer>루카스아츠</developer>
+		<publisher>루카스아츠</publisher>
+		<genre>액션</genre>
+		<players>2</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Stellar Assault (Japan).zip</path>
+		<name>스텔라 어설트</name>
+		<image>./snap/Stellar Assault (Japan).png</image>
+		<video>./snap/Stellar Assault (Japan).mp4</video>
+		<marquee>./marquee/Stellar Assault (Japan).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>슈팅</genre>
+		<players>2</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./T-Mek (USA, Europe).zip</path>
+		<name>T멕</name>
+		<image>./snap/T-Mek (USA, Europe).png</image>
+		<video>./snap/T-Mek (USA, Europe).mp4</video>
+		<marquee>./marquee/T-Mek (USA, Europe).png</marquee>
+		<developer>타임워너 인터렉티브</developer>
+		<publisher>비츠 소프트</publisher>
+		<genre>액션</genre>
+		<players>2</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Tempo (Japan, USA).zip</path>
+		<name>템포</name>
+		<image>./snap/Tempo (Japan, USA).png</image>
+		<video>./snap/Tempo (Japan, USA).mp4</video>
+		<marquee>./marquee/Tempo (Japan, USA).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>플랫폼</genre>
+		<players>1</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Toughman Contest (USA, Europe).zip</path>
+		<name>터프맨 콘테스트</name>
+		<image>./snap/Toughman Contest (USA, Europe).png</image>
+		<video>./snap/Toughman Contest (USA, Europe).mp4</video>
+		<marquee>./marquee/Toughman Contest (USA, Europe).png</marquee>
+		<developer>비쥬얼 컨셉</developer>
+		<publisher>비쥬얼 컨셉</publisher>
+		<genre>격투</genre>
+		<players>8</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Virtua Fighter (Japan, USA).zip</path>
+		<name>버추어 파이터</name>
+		<image>./snap/Virtua Fighter (Japan, USA).png</image>
+		<video>./snap/Virtua Fighter (Japan, USA).mp4</video>
+		<marquee>./marquee/Virtua Fighter (Japan, USA).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>격투</genre>
+		<players>2</players>
+		<releasedate>19951020T000000</releasedate>
+	</game>
+	<game>
+		<path>./Virtua Fighter (Europe).zip</path>
+		<name>버추어 파이터(유럽)</name>
+		<image>./snap/Virtua Fighter (Europe).png</image>
+		<video>./snap/Virtua Fighter (Europe).mp4</video>
+		<marquee>./marquee/Virtua Fighter (Europe).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>격투</genre>
+		<players>2</players>
+		<releasedate>19951020T000000</releasedate>
+	</game>
+	<game>
+		<path>./Virtua Hamster (USA) (Proto).zip</path>
+		<name>버추어 햄스터</name>
+		<image>./snap/Virtua Hamster (USA) (Proto).png</image>
+		<video>./snap/Virtua Hamster (USA) (Proto).mp4</video>
+		<marquee>./marquee/Virtua Hamster (USA) (Proto).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>레이싱</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Virtua Racing Deluxe (Japan).zip</path>
+		<name>버추어 레이싱 디럭스(일본)</name>
+		<image>./snap/Virtua Racing Deluxe (Japan).png</image>
+		<video>./snap/Virtua Racing Deluxe (Japan).mp4</video>
+		<marquee>./marquee/Virtua Racing Deluxe (Japan).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>레이싱</genre>
+		<players>2</players>
+		<releasedate>19941121T000000</releasedate>
+	</game>
+	<game>
+		<path>./Virtua Racing Deluxe (USA).zip</path>
+		<name>버추어 레이싱 디럭스</name>
+		<image>./snap/Virtua Racing Deluxe (USA).png</image>
+		<video>./snap/Virtua Racing Deluxe (USA).mp4</video>
+		<marquee>./marquee/Virtua Racing Deluxe (USA).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>레이싱</genre>
+		<players>2</players>
+		<releasedate>19941121T000000</releasedate>
+	</game>
+	<game>
+		<path>./Virtua Racing Deluxe (Europe).zip</path>
+		<name>버추어 레이싱 디럭스(유럽)</name>
+		<image>./snap/Virtua Racing Deluxe (Europe).png</image>
+		<video>./snap/Virtua Racing Deluxe (Europe).mp4</video>
+		<marquee>./marquee/Virtua Racing Deluxe (Europe).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>레이싱</genre>
+		<players>2</players>
+		<releasedate>19941121T000000</releasedate>
+	</game>
+	<game>
+		<path>./World Series Baseball Starring Deion Sanders (USA).zip</path>
+		<name>월드 시리즈 베이스볼</name>
+		<image>./snap/World Series Baseball Starring Deion Sanders (USA).png</image>
+		<video>./snap/World Series Baseball Starring Deion Sanders (USA).mp4</video>
+		<marquee>./marquee/World Series Baseball Starring Deion Sanders (USA).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠</genre>
+		<players>2</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./WWF Raw (World).zip</path>
+		<name>WWF Raw</name>
+		<image>./snap/WWF Raw (World).png</image>
+		<video>./snap/WWF Raw (World).mp4</video>
+		<marquee>./marquee/WWF Raw (World).png</marquee>
+		<developer>스컬프쳐드</developer>
+		<publisher>어클레임 엔터테인먼트</publisher>
+		<genre>격투</genre>
+		<players>4</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./WWF WrestleMania - The Arcade Game (USA).zip</path>
+		<name>WWF 레슬매니아 - 아케이드게임</name>
+		<image>./snap/WWF WrestleMania - The Arcade Game (USA).png</image>
+		<video>./snap/WWF WrestleMania - The Arcade Game (USA).mp4</video>
+		<marquee>./marquee/WWF WrestleMania - The Arcade Game (USA).png</marquee>
+		<developer>스컬프쳐드</developer>
+		<publisher>어클레임 엔터테인먼트</publisher>
+		<genre>격투</genre>
+		<players>2</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./X-Men (USA) (Proto).zip</path>
+		<name>X-맨</name>
+		<image>./snap/X-Men (USA) (Proto).png</image>
+		<video>./snap/X-Men (USA) (Proto).mp4</video>
+		<marquee>./marquee/X-Men (USA) (Proto).png</marquee>
+		<developer>웨스턴 테크놀리지</developer>
+		<publisher>세가</publisher>
+		<genre>액션</genre>
+		<players>0</players>
+	</game>
+</gameList>
