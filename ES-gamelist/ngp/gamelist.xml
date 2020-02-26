@@ -13,7 +13,7 @@
 		<path>./Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja).zip</path>
 		<name>베이스볼 스타즈 - 포켓 스포츠 시리즈 (일본,유럽판)(영어,일본어)</name>
 		<image>./snap/Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja).png</image>
-		<video>./snap/Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja).mp4</video>
+		<video>./video/Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja).mp4</video>
 		<marquee>./marquee/Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja).png</marquee>
 		<developer>사우루스</developer>
 		<publisher>SNK</publisher>
@@ -25,7 +25,7 @@
 		<path>./King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja).zip</path>
 		<name>킹 오브 파이터즈 R-1 - 포켓 파이팅 시리즈 (일본,유럽판)(영어,일본어)</name>
 		<image>./snap/King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja).png</image>
-		<video>./snap/King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja).mp4</video>
+		<video>./video/King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja).mp4</video>
 		<marquee>./marquee/King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja).png</marquee>
 		<developer>SNK</developer>
 		<publisher>SNK</publisher>
@@ -37,7 +37,7 @@
 		<path>./King of Fighters R-1 - Pocket Kakutou Series &amp; Melon-chan no Seichou Nikki (Japan) (Demo).zip</path>
 		<name>킹 오브 파이터즈 R-1 &amp; 메론짱의 성장일기 (일본판)(데모)</name>
 		<image>./snap/King of Fighters R-1 - Pocket Kakutou Series &amp; Melon-chan no Seichou Nikki (Japan) (Demo).png</image>
-		<video>./snap/King of Fighters R-1 - Pocket Kakutou Series &amp; Melon-chan no Seichou Nikki (Japan) (Demo).mp4</video>
+		<video>./video/King of Fighters R-1 - Pocket Kakutou Series &amp; Melon-chan no Seichou Nikki (Japan) (Demo).mp4</video>
 		<marquee>./marquee/King of Fighters R-1 - Pocket Kakutou Series &amp; Melon-chan no Seichou Nikki (Japan) (Demo).png</marquee>
 		<developer>SNK</developer>
 		<publisher>SNK</publisher>
@@ -49,7 +49,7 @@
 		<path>./Melon-chan no Seichou Nikki (Japan).zip</path>
 		<name>메론짱의 성장일기 (일본판)</name>
 		<image>./snap/Melon-chan no Seichou Nikki (Japan).png</image>
-		<video>./snap/Melon-chan no Seichou Nikki (Japan).mp4</video>
+		<video>./video/Melon-chan no Seichou Nikki (Japan).mp4</video>
 		<marquee>./marquee/Melon-chan no Seichou Nikki (Japan).png</marquee>
 		<developer>ADK</developer>
 		<publisher>ADK</publisher>
@@ -61,7 +61,7 @@
 		<path>./Neo Cherry Master - Real Casino Series (Japan) (En,Ja).zip</path>
 		<name>네오 체리 마스터 - 리얼 카지노 시리즈 (일본판)(영어,일본어)</name>
 		<image>./snap/Neo Cherry Master - Real Casino Series (Japan) (En,Ja).png</image>
-		<video>./snap/Neo Cherry Master - Real Casino Series (Japan) (En,Ja).mp4</video>
+		<video>./video/Neo Cherry Master - Real Casino Series (Japan) (En,Ja).mp4</video>
 		<marquee>./marquee/Neo Cherry Master - Real Casino Series (Japan) (En,Ja).png</marquee>
 		<developer/>
 		<publisher>Dyna</publisher>
@@ -73,7 +73,7 @@
 		<path>./Neo Geo Cup '98 (Japan, Europe) (En,Ja).zip</path>
 		<name>네오지오 컵 98 (일본,유럽판)(영어,일본어)</name>
 		<image>./snap/Neo Geo Cup '98 (Japan, Europe) (En,Ja).png</image>
-		<video>./snap/Neo Geo Cup '98 (Japan, Europe) (En,Ja).mp4</video>
+		<video>./video/Neo Geo Cup '98 (Japan, Europe) (En,Ja).mp4</video>
 		<marquee>./marquee/Neo Geo Cup '98 (Japan, Europe) (En,Ja).png</marquee>
 		<developer/>
 		<publisher>SNK</publisher>
@@ -85,7 +85,7 @@
 		<path>./Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja).zip</path>
 		<name>포켓 테니스 - 포켓 스포츠 시리즈 (일본,유럽판)(영어,일본어)</name>
 		<image>./snap/Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja).png</image>
-		<video>./snap/Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja).mp4</video>
+		<video>./video/Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja).mp4</video>
 		<marquee>./marquee/Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja).png</marquee>
 		<developer/>
 		<publisher>유메코보</publisher>
@@ -97,7 +97,7 @@
 		<path>./Renketsu Puzzle Tsunagete Pon! (Japan).zip</path>
 		<name>연결 퍼즐 연결해서 퐁! (일본판)</name>
 		<image>./snap/Renketsu Puzzle Tsunagete Pon! (Japan).png</image>
-		<video>./snap/Renketsu Puzzle Tsunagete Pon! (Japan).mp4</video>
+		<video>./video/Renketsu Puzzle Tsunagete Pon! (Japan).mp4</video>
 		<marquee>./marquee/Renketsu Puzzle Tsunagete Pon! (Japan).png</marquee>
 		<developer>유메코보</developer>
 		<publisher>SNK</publisher>
@@ -109,7 +109,7 @@
 		<path>./Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja).zip</path>
 		<name>사무라이 쇼다운! - 포켓 파이팅 시리즈 (일본,유럽판)(영어,일본어)</name>
 		<image>./snap/Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja).png</image>
-		<video>./snap/Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja).mp4</video>
+		<video>./video/Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja).mp4</video>
 		<marquee>./marquee/Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja).png</marquee>
 		<developer>SNK</developer>
 		<publisher>SNK</publisher>
@@ -121,7 +121,7 @@
 		<path>./Shougi no Tatsujin (Japan).zip</path>
 		<name>장기의 달인 (일본판)</name>
 		<image>./snap/Shougi no Tatsujin (Japan).png</image>
-		<video>./snap/Shougi no Tatsujin (Japan).mp4</video>
+		<video>./video/Shougi no Tatsujin (Japan).mp4</video>
 		<marquee>./marquee/Shougi no Tatsujin (Japan).png</marquee>
 		<developer/>
 		<publisher>SNK</publisher>
@@ -133,7 +133,7 @@
 		<path>./[BIOS] SNK Neo Geo Pocket (Japan, Europe).zip</path>
 		<name>[바이오스] SNK 네오지오 포켓 (일본,유럽판)</name>
 		<image>./snap/[BIOS] SNK Neo Geo Pocket (Japan, Europe).png</image>
-		<video>./snap/[BIOS] SNK Neo Geo Pocket (Japan, Europe).mp4</video>
+		<video>./video/[BIOS] SNK Neo Geo Pocket (Japan, Europe).mp4</video>
 		<marquee>./marquee/[BIOS] SNK Neo Geo Pocket (Japan, Europe).png</marquee>
 		<developer/>
 		<publisher/>

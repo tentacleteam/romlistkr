@@ -13,7 +13,7 @@
 		<path>./Anchorz Field (Japan).zip</path>
 		<name>앵커즈 필드 (일본판)</name>
 		<image>./snap/Anchorz Field (Japan).png</image>
-		<video>./snap/Anchorz Field (Japan).mp4</video>
+		<video>./video/Anchorz Field (Japan).mp4</video>
 		<marquee>./marquee/Anchorz Field (Japan).png</marquee>
 		<developer>새미 스튜디오</developer>
 		<publisher>새미 스튜디오</publisher>
@@ -25,7 +25,7 @@
 		<path>./Armored Unit (Japan).zip</path>
 		<name>아머드 유닛 (일본판)</name>
 		<image>./snap/Armored Unit (Japan).png</image>
-		<video>./snap/Armored Unit (Japan).mp4</video>
+		<video>./video/Armored Unit (Japan).mp4</video>
 		<marquee>./marquee/Armored Unit (Japan).png</marquee>
 		<developer>새미 스튜디오</developer>
 		<publisher>새미 스튜디오</publisher>
@@ -37,7 +37,7 @@
 		<path>./Bakusou Dekotora Densetsu for WonderSwan (Japan).zip</path>
 		<name>폭주 데코트라 전설 원더스완 (일본판)</name>
 		<image>./snap/Bakusou Dekotora Densetsu for WonderSwan (Japan).png</image>
-		<video>./snap/Bakusou Dekotora Densetsu for WonderSwan (Japan).mp4</video>
+		<video>./video/Bakusou Dekotora Densetsu for WonderSwan (Japan).mp4</video>
 		<marquee>./marquee/Bakusou Dekotora Densetsu for WonderSwan (Japan).png</marquee>
 		<developer>키드</developer>
 		<publisher>휴먼</publisher>
@@ -49,7 +49,7 @@
 		<path>./beat mania for WonderSwan (Japan).zip</path>
 		<name>비트매니아 원더스완 (일본판)</name>
 		<image>./snap/beat mania for WonderSwan (Japan).png</image>
-		<video>./snap/beat mania for WonderSwan (Japan).mp4</video>
+		<video>./video/beat mania for WonderSwan (Japan).mp4</video>
 		<marquee>./marquee/beat mania for WonderSwan (Japan).png</marquee>
 		<developer>ICCE 제팬</developer>
 		<publisher>코나미</publisher>
@@ -61,7 +61,7 @@
 		<path>./Buffers Evolution (Japan).zip</path>
 		<name>버퍼즈 에볼루션 (일본판)</name>
 		<image>./snap/Buffers Evolution (Japan).png</image>
-		<video>./snap/Buffers Evolution (Japan).mp4</video>
+		<video>./video/Buffers Evolution (Japan).mp4</video>
 		<marquee>./marquee/Buffers Evolution (Japan).png</marquee>
 		<developer>반다이</developer>
 		<publisher>반다이</publisher>
@@ -73,7 +73,7 @@
 		<path>./Cardcaptor Sakura - Sakura to Fushigi na Clow Card (Japan).zip</path>
 		<name>카드캡터 사쿠라 - 사쿠라와 이상한 크로카드 (일본판)</name>
 		<image>./snap/Cardcaptor Sakura - Sakura to Fushigi na Clow Card (Japan).png</image>
-		<video>./snap/Cardcaptor Sakura - Sakura to Fushigi na Clow Card (Japan).mp4</video>
+		<video>./video/Cardcaptor Sakura - Sakura to Fushigi na Clow Card (Japan).mp4</video>
 		<marquee>./marquee/Cardcaptor Sakura - Sakura to Fushigi na Clow Card (Japan).png</marquee>
 		<developer>심즈</developer>
 		<publisher>반다이</publisher>
@@ -85,7 +85,7 @@
 		<path>./Chaos Gear - Michibikareshi Mono (Japan).zip</path>
 		<name>카오스 기어 - 인도받는 자 (일본판)</name>
 		<image>./snap/Chaos Gear - Michibikareshi Mono (Japan).png</image>
-		<video>./snap/Chaos Gear - Michibikareshi Mono (Japan).mp4</video>
+		<video>./video/Chaos Gear - Michibikareshi Mono (Japan).mp4</video>
 		<marquee>./marquee/Chaos Gear - Michibikareshi Mono (Japan).png</marquee>
 		<developer>레이업</developer>
 		<publisher>반다이</publisher>
@@ -97,7 +97,7 @@
 		<path>./Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 1).zip</path>
 		<name>초코보의 신기한 던젼 원더스완 (일본판)(개정판 1)</name>
 		<image>./snap/Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 1).png</image>
-		<video>./snap/Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 3).mp4</video>
+		<video>./video/Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 3).mp4</video>
 		<marquee>./marquee/Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 1).png</marquee>
 		<developer>스퀘어 에닉스</developer>
 		<publisher>반다이</publisher>
@@ -109,7 +109,7 @@
 		<path>./Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 2).zip</path>
 		<name>초코보의 신기한 던젼 원더스완 (일본판)(개정판 2)</name>
 		<image>./snap/Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 2).png</image>
-		<video>./snap/Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 3).mp4</video>
+		<video>./video/Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 3).mp4</video>
 		<marquee>./marquee/Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 2).png</marquee>
 		<developer>스퀘어 에닉스</developer>
 		<publisher>반다이</publisher>
@@ -121,7 +121,7 @@
 		<path>./Chou Aniki - Otoko no Tamafuda (Japan) (Rev 4).zip</path>
 		<name>초형귀 - 남자의혼찰 (일본판)(개정판 4)</name>
 		<image>./snap/Chou Aniki - Otoko no Tamafuda (Japan) (Rev 4).png</image>
-		<video>./snap/Chou Aniki - Otoko no Tamafuda (Japan) (Rev 4).mp4</video>
+		<video>./video/Chou Aniki - Otoko no Tamafuda (Japan) (Rev 4).mp4</video>
 		<marquee>./marquee/Chou Aniki - Otoko no Tamafuda (Japan) (Rev 4).png</marquee>
 		<developer>NCS</developer>
 		<publisher>반다이</publisher>
@@ -133,7 +133,7 @@
 		<path>./Chou Denki Card Battle - Youfu Makai (Japan) (Rev 3).zip</path>
 		<name>초전기 카드배틀 - 요부 마계 (일본판)(개정판 3)</name>
 		<image>./snap/Chou Denki Card Battle - Youfu Makai (Japan) (Rev 3).png</image>
-		<video>./snap/Chou Denki Card Battle - Youfu Makai (Japan) (Rev 3).mp4</video>
+		<video>./video/Chou Denki Card Battle - Youfu Makai (Japan) (Rev 3).mp4</video>
 		<marquee>./marquee/Chou Denki Card Battle - Youfu Makai (Japan) (Rev 3).png</marquee>
 		<developer>코분샤</developer>
 		<publisher>코분샤</publisher>
@@ -145,7 +145,7 @@
 		<path>./Clock Tower for WonderSwan (Japan) (Rev 1).zip</path>
 		<name>클락 타워 원더스완 (일본판)(개정판 1)</name>
 		<image>./snap/Clock Tower for WonderSwan (Japan) (Rev 1).png</image>
-		<video>./snap/Clock Tower for WonderSwan (Japan) (Rev 1).mp4</video>
+		<video>./video/Clock Tower for WonderSwan (Japan) (Rev 1).mp4</video>
 		<marquee>./marquee/Clock Tower for WonderSwan (Japan) (Rev 1).png</marquee>
 		<developer/>
 		<publisher/>
@@ -157,7 +157,7 @@
 		<path>./Crazy Climber (Japan).zip</path>
 		<name>크레이지 클라이머 (일본판)</name>
 		<image>./snap/Crazy Climber (Japan).png</image>
-		<video>./snap/Crazy Climber (Japan).mp4</video>
+		<video>./video/Crazy Climber (Japan).mp4</video>
 		<marquee>./marquee/Crazy Climber (Japan).png</marquee>
 		<developer>일본 물산</developer>
 		<publisher>일본 물산</publisher>
@@ -169,7 +169,7 @@
 		<path>./D's Garage 21 Koubo Game - Tane o Maku Tori (Japan).zip</path>
 		<name>D의 게라지 21 공모 게임 - 씨를 뿌리는 새 (일본판)</name>
 		<image>./snap/D's Garage 21 Koubo Game - Tane o Maku Tori (Japan).png</image>
-		<video>./snap/D's Garage 21 Koubo Game - Tane o Maku Tori (Japan).mp4</video>
+		<video>./video/D's Garage 21 Koubo Game - Tane o Maku Tori (Japan).mp4</video>
 		<marquee>./marquee/D's Garage 21 Koubo Game - Tane o Maku Tori (Japan).png</marquee>
 		<developer>루딕</developer>
 		<publisher>반다이</publisher>
@@ -181,7 +181,7 @@
 		<path>./Densha de Go! (Japan) (Rev 1).zip</path>
 		<name>전차로 고! (일본판)(개정판 1)</name>
 		<image>./snap/Densha de Go! (Japan) (Rev 1).png</image>
-		<video>./snap/Densha de Go! (Japan) (Rev 1).mp4</video>
+		<video>./video/Densha de Go! (Japan) (Rev 1).mp4</video>
 		<marquee>./marquee/Densha de Go! (Japan) (Rev 1).png</marquee>
 		<developer>타이토 GM R&amp;D</developer>
 		<publisher>타이토</publisher>
@@ -193,7 +193,7 @@
 		<path>./Densha de Go! 2 (Japan).zip</path>
 		<name>전차로 고! 2 (일본판)</name>
 		<image>./snap/Densha de Go! 2 (Japan).png</image>
-		<video>./snap/Densha de Go! 2 (Japan).mp4</video>
+		<video>./video/Densha de Go! 2 (Japan).mp4</video>
 		<marquee>./marquee/Densha de Go! 2 (Japan).png</marquee>
 		<developer>타이토 GM R&amp;D</developer>
 		<publisher>사이버프론트</publisher>
@@ -205,7 +205,7 @@
 		<path>./Digimon - Ver. WonderSwan (Asia).zip</path>
 		<name>디지몬 (아시아판)</name>
 		<image>./snap/Digimon - Ver. WonderSwan (Asia).png</image>
-		<video>./snap/Digital Monster - Ver. WonderSwan (Japan) (Rev 1).mp4</video>
+		<video>./video/Digital Monster - Ver. WonderSwan (Japan) (Rev 1).mp4</video>
 		<marquee>./marquee/Digimon - Ver. WonderSwan (Asia).png</marquee>
 		<developer/>
 		<publisher>반다이</publisher>
@@ -217,7 +217,7 @@
 		<path>./Digimon Adventure - Anode Tamer (Japan) (Rev 1).zip</path>
 		<name>디지몬 어드벤쳐 - 양극 태머 (일본판)(개정판 1)</name>
 		<image>./snap/Digimon Adventure - Anode Tamer (Japan) (Rev 1).png</image>
-		<video>./snap/Digimon Adventure - Anode Tamer (Japan) (Rev 1).mp4</video>
+		<video>./video/Digimon Adventure - Anode Tamer (Japan) (Rev 1).mp4</video>
 		<marquee>./marquee/Digimon Adventure - Anode Tamer (Japan) (Rev 1).png</marquee>
 		<developer>심즈</developer>
 		<publisher>반다이</publisher>
@@ -229,7 +229,7 @@
 		<path>./Digimon Adventure - Anode Tamer (Japan).zip</path>
 		<name>디지몬 어드벤쳐 - 양극 태머 (일본판)</name>
 		<image>./snap/Digimon Adventure - Anode Tamer (Japan).png</image>
-		<video>./snap/Digimon Adventure - Anode Tamer (Japan) (Rev 1).mp4</video>
+		<video>./video/Digimon Adventure - Anode Tamer (Japan) (Rev 1).mp4</video>
 		<marquee>./marquee/Digimon Adventure - Anode Tamer (Japan).png</marquee>
 		<developer>심즈</developer>
 		<publisher>반다이</publisher>
@@ -241,7 +241,7 @@
 		<path>./Digimon Adventure - Cathode Tamer (Japan).zip</path>
 		<name>디지몬 어드벤쳐 - 음극 태머 (일본판)</name>
 		<image>./snap/Digimon Adventure - Cathode Tamer (Japan).png</image>
-		<video>./snap/Digimon Adventure - Cathode Tamer (Japan).mp4</video>
+		<video>./video/Digimon Adventure - Cathode Tamer (Japan).mp4</video>
 		<marquee>./marquee/Digimon Adventure - Cathode Tamer (Japan).png</marquee>
 		<developer>심즈</developer>
 		<publisher>반다이</publisher>
@@ -253,7 +253,7 @@
 		<path>./Digimon Adventure 02 - Tag Tamers (Japan) (Rev 1).zip</path>
 		<name>디지몬 어드벤쳐 2 - 태그 태머 (일본판)(개정판 1)</name>
 		<image>./snap/Digimon Adventure 02 - Tag Tamers (Japan) (Rev 1).png</image>
-		<video>./snap/Digimon Adventure 02 - Tag Tamers (Japan) (Rev 1).mp4</video>
+		<video>./video/Digimon Adventure 02 - Tag Tamers (Japan) (Rev 1).mp4</video>
 		<marquee>./marquee/Digimon Adventure 02 - Tag Tamers (Japan) (Rev 1).png</marquee>
 		<developer>심즈</developer>
 		<publisher>반다이</publisher>
@@ -265,7 +265,7 @@
 		<path>./Digital Monster - Ver. WonderSwan (Japan) (Rev 1).zip</path>
 		<name>디지털 몬스터 원더스완 (일본판)(개정판 1)</name>
 		<image>./snap/Digital Monster - Ver. WonderSwan (Japan) (Rev 1).png</image>
-		<video>./snap/Digital Monster - Ver. WonderSwan (Japan) (Rev 1).mp4</video>
+		<video>./video/Digital Monster - Ver. WonderSwan (Japan) (Rev 1).mp4</video>
 		<marquee>./marquee/Digital Monster - Ver. WonderSwan (Japan) (Rev 1).png</marquee>
 		<developer/>
 		<publisher/>
@@ -277,7 +277,7 @@
 		<path>./Digital Partner (Japan).zip</path>
 		<name>디지털 파트너 (일본판)</name>
 		<image>./snap/Digital Partner (Japan).png</image>
-		<video>./snap/Digital Partner (Japan).mp4</video>
+		<video>./video/Digital Partner (Japan).mp4</video>
 		<marquee>./marquee/Digital Partner (Japan).png</marquee>
 		<developer>톰 크리에이트</developer>
 		<publisher>반다이</publisher>
@@ -289,7 +289,7 @@
 		<path>./Dokodemo Hamster (Japan).zip</path>
 		<name>어디서나 햄스터 (일본판)</name>
 		<image>./snap/Dokodemo Hamster (Japan).png</image>
-		<video>./snap/Dokodemo Hamster (Japan).mp4</video>
+		<video>./video/Dokodemo Hamster (Japan).mp4</video>
 		<marquee>./marquee/Dokodemo Hamster (Japan).png</marquee>
 		<developer>반다이</developer>
 		<publisher>반다이</publisher>
@@ -301,7 +301,7 @@
 		<path>./Engacho! for WonderSwan (Japan).zip</path>
 		<name>인가초 원더스완 (일본판)</name>
 		<image>./snap/Engacho! for WonderSwan (Japan).png</image>
-		<video>./snap/Engacho! for WonderSwan (Japan).mp4</video>
+		<video>./video/Engacho! for WonderSwan (Japan).mp4</video>
 		<marquee>./marquee/Engacho! for WonderSwan (Japan).png</marquee>
 		<developer>니혼 어플리케이션</developer>
 		<publisher>니혼 어플리케이션</publisher>
@@ -313,7 +313,7 @@
 		<path>./Fever - Sankyo Koushiki Pachinko Simulation for WonderSwan (Japan).zip</path>
 		<name>피버 - 산쿄 공식 파칭코 시뮬레이션 (일본판)</name>
 		<image>./snap/Fever - Sankyo Koushiki Pachinko Simulation for WonderSwan (Japan).png</image>
-		<video>./snap/Fever - Sankyo Koushiki Pachinko Simulation for WonderSwan (Japan).mp4</video>
+		<video>./video/Fever - Sankyo Koushiki Pachinko Simulation for WonderSwan (Japan).mp4</video>
 		<marquee>./marquee/Fever - Sankyo Koushiki Pachinko Simulation for WonderSwan (Japan).png</marquee>
 		<developer>인터벡</developer>
 		<publisher>인터벡</publisher>
@@ -325,7 +325,7 @@
 		<path>./Final Lap 2000 (Japan).zip</path>
 		<name>파이널 랩 2000 (일본판)</name>
 		<image>./snap/Final Lap 2000 (Japan).png</image>
-		<video>./snap/Final Lap 2000 (Japan).mp4</video>
+		<video>./video/Final Lap 2000 (Japan).mp4</video>
 		<marquee>./marquee/Final Lap 2000 (Japan).png</marquee>
 		<developer>남코</developer>
 		<publisher>반다이</publisher>
@@ -337,7 +337,7 @@
 		<path>./Fire Pro Wrestling for WonderSwan (Japan) (Rev 5).zip</path>
 		<name>파이어 프로 레슬링 원더스완 (일본판)(개정판 5)</name>
 		<image>./snap/Fire Pro Wrestling for WonderSwan (Japan) (Rev 5).png</image>
-		<video>./snap/Fire Pro Wrestling for WonderSwan (Japan) (Rev 5).mp4</video>
+		<video>./video/Fire Pro Wrestling for WonderSwan (Japan) (Rev 5).mp4</video>
 		<marquee>./marquee/Fire Pro Wrestling for WonderSwan (Japan) (Rev 5).png</marquee>
 		<developer/>
 		<publisher/>
@@ -349,7 +349,7 @@
 		<path>./Fishing Freaks - Bass Rise for WonderSwan (Japan).zip</path>
 		<name>피싱 프릭스 - 배스라이즈 (일본판)</name>
 		<image>./snap/Fishing Freaks - Bass Rise for WonderSwan (Japan).png</image>
-		<video>./snap/Fishing Freaks - Bass Rise for WonderSwan (Japan).mp4</video>
+		<video>./video/Fishing Freaks - Bass Rise for WonderSwan (Japan).mp4</video>
 		<marquee>./marquee/Fishing Freaks - Bass Rise for WonderSwan (Japan).png</marquee>
 		<developer>인터벡</developer>
 		<publisher>인터벡</publisher>
@@ -361,7 +361,7 @@
 		<path>./From TV Animation One Piece - Mezase Kaizoku Ou! (Japan).zip</path>
 		<name>TV 애니메이션 원피스 - 노려라 해적왕 (일본판)</name>
 		<image>./snap/From TV Animation One Piece - Mezase Kaizoku Ou! (Japan).png</image>
-		<video>./snap/From TV Animation One Piece - Mezase Kaizoku Ou! (Japan).mp4</video>
+		<video>./video/From TV Animation One Piece - Mezase Kaizoku Ou! (Japan).mp4</video>
 		<marquee>./marquee/From TV Animation One Piece - Mezase Kaizoku Ou! (Japan).png</marquee>
 		<developer/>
 		<publisher>반다이</publisher>
@@ -373,7 +373,7 @@
 		<path>./Ganso Jajamaru-kun (Japan).zip</path>
 		<name>원조 자자마루군 (일본판)</name>
 		<image>./snap/Ganso Jajamaru-kun (Japan).png</image>
-		<video>./snap/Ganso Jajamaru-kun (Japan).mp4</video>
+		<video>./video/Ganso Jajamaru-kun (Japan).mp4</video>
 		<marquee>./marquee/Ganso Jajamaru-kun (Japan).png</marquee>
 		<developer>잘레코</developer>
 		<publisher>잘레코</publisher>
@@ -385,7 +385,7 @@
 		<path>./Glocal Hexcite (Japan).zip</path>
 		<name>글로컬 헥사이트 (일본판)</name>
 		<image>./snap/Glocal Hexcite (Japan).png</image>
-		<video>./snap/Glocal Hexcite (Japan).mp4</video>
+		<video>./video/Glocal Hexcite (Japan).mp4</video>
 		<marquee>./marquee/Glocal Hexcite (Japan).png</marquee>
 		<developer>Gu</developer>
 		<publisher>석세스</publisher>
@@ -397,7 +397,7 @@
 		<path>./Gomoku Narabe &amp; Reversi - Touryuumon (Japan).zip</path>
 		<name>오목 &amp; 리버시 등용문 (일본판)</name>
 		<image>./snap/Gomoku Narabe &amp; Reversi - Touryuumon (Japan).png</image>
-		<video>./snap/Gomoku Narabe &amp; Reversi - Touryuumon (Japan).mp4</video>
+		<video>./video/Gomoku Narabe &amp; Reversi - Touryuumon (Japan).mp4</video>
 		<marquee>./marquee/Gomoku Narabe &amp; Reversi - Touryuumon (Japan).png</marquee>
 		<developer>새미</developer>
 		<publisher>새미</publisher>
@@ -409,7 +409,7 @@
 		<path>./Goraku Ou Tango! (Japan) (Rev 2).zip</path>
 		<name>오락왕 탱고! (일본판)(개정판 2)</name>
 		<image>./snap/Goraku Ou Tango! (Japan) (Rev 2).png</image>
-		<video>./snap/Goraku Ou Tango! (Japan) (Rev 2).mp4</video>
+		<video>./video/Goraku Ou Tango! (Japan) (Rev 2).mp4</video>
 		<marquee>./marquee/Goraku Ou Tango! (Japan) (Rev 2).png</marquee>
 		<developer>메비우스</developer>
 		<publisher>메비우스</publisher>
@@ -421,7 +421,7 @@
 		<path>./GunPey (Japan).zip</path>
 		<name>건피 (일본판)</name>
 		<image>./snap/GunPey (Japan).png</image>
-		<video>./snap/GunPey (Japan).mp4</video>
+		<video>./video/GunPey (Japan).mp4</video>
 		<marquee>./marquee/GunPey (Japan).png</marquee>
 		<developer>코토 랩</developer>
 		<publisher>반다이</publisher>
@@ -433,7 +433,7 @@
 		<path>./Hanafuda Shiyouyo (Japan).zip</path>
 		<name>화투 할게 (일본판)</name>
 		<image>./snap/Hanafuda Shiyouyo (Japan).png</image>
-		<video>./snap/Hanafuda Shiyouyo (Japan).mp4</video>
+		<video>./video/Hanafuda Shiyouyo (Japan).mp4</video>
 		<marquee>./marquee/Hanafuda Shiyouyo (Japan).png</marquee>
 		<developer>석세스</developer>
 		<publisher>석세스</publisher>
@@ -445,7 +445,7 @@
 		<path>./Harobots (Japan).zip</path>
 		<name>하로보츠 (일본판)</name>
 		<image>./snap/Harobots (Japan).png</image>
-		<video>./snap/Harobots (Japan) (Rev 1).mp4</video>
+		<video>./video/Harobots (Japan) (Rev 1).mp4</video>
 		<marquee>./marquee/Harobots (Japan).png</marquee>
 		<developer>선라이즈</developer>
 		<publisher>선라이즈</publisher>
@@ -457,7 +457,7 @@
 		<path>./Hunter X Hunter - Ishi o Tsugu Mono (Japan) (Rev 2).zip</path>
 		<name>헌터 X 헌터 - 의지를 잇는 자 (일본판)(개정판 2)</name>
 		<image>./snap/Hunter X Hunter - Ishi o Tsugu Mono (Japan) (Rev 2).png</image>
-		<video>./snap/Hunter X Hunter - Ishi o Tsugu Mono (Japan) (Rev 2).mp4</video>
+		<video>./video/Hunter X Hunter - Ishi o Tsugu Mono (Japan) (Rev 2).mp4</video>
 		<marquee>./marquee/Hunter X Hunter - Ishi o Tsugu Mono (Japan) (Rev 2).png</marquee>
 		<developer/>
 		<publisher>반다이</publisher>
@@ -469,7 +469,7 @@
 		<path>./Kakutou Ryouri Densetsu Bistro Recipe - Wonder Battle Hen (Japan).zip</path>
 		<name>격투 요리 전설 비스트로 레시피 - 원더 배틀편 (일본판)</name>
 		<image>./snap/Kakutou Ryouri Densetsu Bistro Recipe - Wonder Battle Hen (Japan).png</image>
-		<video>./snap/Kakutou Ryouri Densetsu Bistro Recipe - Wonder Battle Hen (Japan).mp4</video>
+		<video>./video/Kakutou Ryouri Densetsu Bistro Recipe - Wonder Battle Hen (Japan).mp4</video>
 		<marquee>./marquee/Kakutou Ryouri Densetsu Bistro Recipe - Wonder Battle Hen (Japan).png</marquee>
 		<developer/>
 		<publisher>반프레스토</publisher>
@@ -481,7 +481,7 @@
 		<path>./Kaze no Klonoa - Moonlight Museum (Japan).zip</path>
 		<name>바람의 크로노아 - 문라이트 뮤지엄 (일본판)</name>
 		<image>./snap/Kaze no Klonoa - Moonlight Museum (Japan).png</image>
-		<video>./snap/Kaze no Klonoa - Moonlight Museum (Japan).mp4</video>
+		<video>./video/Kaze no Klonoa - Moonlight Museum (Japan).mp4</video>
 		<marquee>./marquee/Kaze no Klonoa - Moonlight Museum (Japan).png</marquee>
 		<developer>남코</developer>
 		<publisher>반다이</publisher>
@@ -493,7 +493,7 @@
 		<path>./Keiba Yosou Shien Soft - Yosou Shinkaron (Japan).zip</path>
 		<name>경마 예상 지원 소프트 - 예상진화론 (일본판)</name>
 		<image>./snap/Keiba Yosou Shien Soft - Yosou Shinkaron (Japan).png</image>
-		<video>./snap/Keiba Yosou Shien Soft - Yosou Shinkaron (Japan).mp4</video>
+		<video>./video/Keiba Yosou Shien Soft - Yosou Shinkaron (Japan).mp4</video>
 		<marquee>./marquee/Keiba Yosou Shien Soft - Yosou Shinkaron (Japan).png</marquee>
 		<developer/>
 		<publisher>미디어 엔터테인먼트</publisher>
@@ -505,7 +505,7 @@
 		<path>./Kiss Yori... - Seaside Serenade (Japan) (Rev 2).zip</path>
 		<name>키스부터…- 시사이드 세레나데 (일본판)(개정판 2)</name>
 		<image>./snap/Kiss Yori... - Seaside Serenade (Japan) (Rev 2).png</image>
-		<video>./snap/Kiss Yori... - Seaside Serenade (Japan) (Rev 2).mp4</video>
+		<video>./video/Kiss Yori... - Seaside Serenade (Japan) (Rev 2).mp4</video>
 		<marquee>./marquee/Kiss Yori... - Seaside Serenade (Japan) (Rev 2).png</marquee>
 		<developer/>
 		<publisher>키드</publisher>
@@ -517,7 +517,7 @@
 		<path>./Kosodate Quiz Dokodemo - My Angel (Japan).zip</path>
 		<name>육아 퀴즈 어디서나 - 마이 엔젤 (일본판)</name>
 		<image>./snap/Kosodate Quiz Dokodemo - My Angel (Japan).png</image>
-		<video>./snap/Kosodate Quiz Dokodemo - My Angel (Japan).mp4</video>
+		<video>./video/Kosodate Quiz Dokodemo - My Angel (Japan).mp4</video>
 		<marquee>./marquee/Kosodate Quiz Dokodemo - My Angel (Japan).png</marquee>
 		<developer/>
 		<publisher>남코</publisher>
@@ -529,7 +529,7 @@
 		<path>./Kyousouba Ikusei Simulation - Keiba (Japan) (Rev 1).zip</path>
 		<name>경주마 육성 시뮬레이션 - 케이바 (일본판)(개정판 1)</name>
 		<image>./snap/Kyousouba Ikusei Simulation - Keiba (Japan) (Rev 1).png</image>
-		<video>./snap/Kyousouba Ikusei Simulation - Keiba (Japan) (Rev 1).mp4</video>
+		<video>./video/Kyousouba Ikusei Simulation - Keiba (Japan) (Rev 1).mp4</video>
 		<marquee>./marquee/Kyousouba Ikusei Simulation - Keiba (Japan) (Rev 1).png</marquee>
 		<developer>인터벡</developer>
 		<publisher>인터벡</publisher>
@@ -541,7 +541,7 @@
 		<path>./Langrisser Millennium WS - The Last Century (Japan) (Rev 1).zip</path>
 		<name>랑그릿사 밀레니엄 WS - 라스트 센츄리 (일본판)(개정판 1)</name>
 		<image>./snap/Langrisser Millennium WS - The Last Century (Japan) (Rev 1).png</image>
-		<video>./snap/Langrisser Millennium WS - The Last Century (Japan) (Rev 1).mp4</video>
+		<video>./video/Langrisser Millennium WS - The Last Century (Japan) (Rev 1).mp4</video>
 		<marquee>./marquee/Langrisser Millennium WS - The Last Century (Japan) (Rev 1).png</marquee>
 		<developer>마사야</developer>
 		<publisher>NCS</publisher>
@@ -553,7 +553,7 @@
 		<path>./Last Stand (Japan).zip</path>
 		<name>라스트 스탠드 (일본판)</name>
 		<image>./snap/Last Stand (Japan).png</image>
-		<video>./snap/Last Stand (Japan).mp4</video>
+		<video>./video/Last Stand (Japan).mp4</video>
 		<marquee>./marquee/Last Stand (Japan).png</marquee>
 		<developer>소프트 머신</developer>
 		<publisher>반다이</publisher>
@@ -565,7 +565,7 @@
 		<path>./Lode Runner for WonderSwan (Japan).zip</path>
 		<name>로드 러너 원더스완 (일본판)</name>
 		<image>./snap/Lode Runner for WonderSwan (Japan).png</image>
-		<video>./snap/Lode Runner for WonderSwan (Japan).mp4</video>
+		<video>./video/Lode Runner for WonderSwan (Japan).mp4</video>
 		<marquee>./marquee/Lode Runner for WonderSwan (Japan).png</marquee>
 		<developer>브로드번드 소프트웨어</developer>
 		<publisher>반프레스토</publisher>
@@ -577,7 +577,7 @@
 		<path>./Macross - True Love Song (Japan).zip</path>
 		<name>마크로스 - 트루 러브 송 (일본판)</name>
 		<image>./snap/Macross - True Love Song (Japan).png</image>
-		<video>./snap/Macross - True Love Song (Japan).mp4</video>
+		<video>./video/Macross - True Love Song (Japan).mp4</video>
 		<marquee>./marquee/Macross - True Love Song (Japan).png</marquee>
 		<developer/>
 		<publisher>레이업/업스타</publisher>
@@ -589,7 +589,7 @@
 		<path>./Magical Drop for WonderSwan (Japan).zip</path>
 		<name>매지컬 드롭 원더스완 (일본판)</name>
 		<image>./snap/Magical Drop for WonderSwan (Japan).png</image>
-		<video>./snap/Magical Drop for WonderSwan (Japan).mp4</video>
+		<video>./video/Magical Drop for WonderSwan (Japan).mp4</video>
 		<marquee>./marquee/Magical Drop for WonderSwan (Japan).png</marquee>
 		<developer>데이터 이스트</developer>
 		<publisher>데이터 이스트</publisher>
@@ -601,7 +601,7 @@
 		<path>./Mahjong Touryuumon (Japan) (Rev 1).zip</path>
 		<name>마작 등용문 (일본판)(개정판 1)</name>
 		<image>./snap/Mahjong Touryuumon (Japan) (Rev 1).png</image>
-		<video>./snap/Mahjong Touryuumon (Japan) (Rev 3).mp4</video>
+		<video>./video/Mahjong Touryuumon (Japan) (Rev 3).mp4</video>
 		<marquee>./marquee/Mahjong Touryuumon (Japan) (Rev 1).png</marquee>
 		<developer/>
 		<publisher>새미</publisher>
@@ -613,7 +613,7 @@
 		<path>./Mahjong Touryuumon (Japan) (Rev 3).zip</path>
 		<name>마작 등용문 (일본판)(개정판 3)</name>
 		<image>./snap/Mahjong Touryuumon (Japan) (Rev 3).png</image>
-		<video>./snap/Mahjong Touryuumon (Japan) (Rev 3).mp4</video>
+		<video>./video/Mahjong Touryuumon (Japan) (Rev 3).mp4</video>
 		<marquee>./marquee/Mahjong Touryuumon (Japan) (Rev 3).png</marquee>
 		<developer/>
 		<publisher>새미</publisher>
@@ -625,7 +625,7 @@
 		<path>./Makaimura for WonderSwan (Japan).zip</path>
 		<name>마계촌 원더스완 (일본판)</name>
 		<image>./snap/Makaimura for WonderSwan (Japan).png</image>
-		<video>./snap/Makaimura for WonderSwan (Japan).mp4</video>
+		<video>./video/Makaimura for WonderSwan (Japan).mp4</video>
 		<marquee>./marquee/Makaimura for WonderSwan (Japan).png</marquee>
 		<developer>캡콤</developer>
 		<publisher>반다이</publisher>
@@ -637,7 +637,7 @@
 		<path>./Medarot Perfect Edition - Kabuto Version (Japan).zip</path>
 		<name>메다롯트 퍼펙트 에디션 - 카부토 버전 (일본판)</name>
 		<image>./snap/Medarot Perfect Edition - Kabuto Version (Japan).png</image>
-		<video>./snap/Medarot Perfect Edition - Kabuto Version (Japan).mp4</video>
+		<video>./video/Medarot Perfect Edition - Kabuto Version (Japan).mp4</video>
 		<marquee>./marquee/Medarot Perfect Edition - Kabuto Version (Japan).png</marquee>
 		<developer>나츠메</developer>
 		<publisher>이미지니어</publisher>
@@ -649,7 +649,7 @@
 		<path>./Medarot Perfect Edition - Kuwagata Version (Japan).zip</path>
 		<name>메다롯트 퍼펙트 에디션 - 쿠와가타 버전 (일본판)</name>
 		<image>./snap/Medarot Perfect Edition - Kuwagata Version (Japan).png</image>
-		<video>./snap/Medarot Perfect Edition - Kuwagata Version (Japan).mp4</video>
+		<video>./video/Medarot Perfect Edition - Kuwagata Version (Japan).mp4</video>
 		<marquee>./marquee/Medarot Perfect Edition - Kuwagata Version (Japan).png</marquee>
 		<developer>나츠메</developer>
 		<publisher>이미지니어</publisher>
@@ -661,7 +661,7 @@
 		<path>./Meitantei Conan - Majutsushi no Chousenjou! (Japan).zip</path>
 		<name>명탐정 코난 - 마술사의 도전장 (일본판)</name>
 		<image>./snap/Meitantei Conan - Majutsushi no Chousenjou! (Japan).png</image>
-		<video>./snap/Meitantei Conan - Majutsushi no Chousenjou! (Japan).mp4</video>
+		<video>./video/Meitantei Conan - Majutsushi no Chousenjou! (Japan).mp4</video>
 		<marquee>./marquee/Meitantei Conan - Majutsushi no Chousenjou! (Japan).png</marquee>
 		<developer>톰캣 시스템</developer>
 		<publisher>반다이</publisher>
@@ -673,7 +673,7 @@
 		<path>./Meitantei Conan - Nishi no Meitantei Saidai no Kiki! (Japan).zip</path>
 		<name>명탐정 코난 - 서쪽 명탐정 최대의 위기 (일본판)</name>
 		<image>./snap/Meitantei Conan - Nishi no Meitantei Saidai no Kiki! (Japan).png</image>
-		<video>./snap/Meitantei Conan - Nishi no Meitantei Saidai no Kiki! (Japan).mp4</video>
+		<video>./video/Meitantei Conan - Nishi no Meitantei Saidai no Kiki! (Japan).mp4</video>
 		<marquee>./marquee/Meitantei Conan - Nishi no Meitantei Saidai no Kiki! (Japan).png</marquee>
 		<developer>톰캣 시스템</developer>
 		<publisher>반다이</publisher>
@@ -685,7 +685,7 @@
 		<path>./Metakomi Theraphy - Nee Kiite! (Japan).zip</path>
 		<name>메타코미 테러피 - 자 들어봐! (일본판)</name>
 		<image>./snap/Metakomi Theraphy - Nee Kiite! (Japan).png</image>
-		<video>./snap/Metakomi Theraphy - Nee Kiite! (Japan).mp4</video>
+		<video>./video/Metakomi Theraphy - Nee Kiite! (Japan).mp4</video>
 		<marquee>./marquee/Metakomi Theraphy - Nee Kiite! (Japan).png</marquee>
 		<developer/>
 		<publisher>미디어 엔트프라이즈</publisher>
@@ -697,7 +697,7 @@
 		<path>./Mingle Magnet (Japan) (En,Ja) (Rev 1).zip</path>
 		<name>밍글 마그넷 (일본판)(영어,일본어)(개정판 1)</name>
 		<image>./snap/Mingle Magnet (Japan) (En,Ja) (Rev 1).png</image>
-		<video>./snap/Mingle Magnet (Japan) (En,Ja) (Rev 1).mp4</video>
+		<video>./video/Mingle Magnet (Japan) (En,Ja) (Rev 1).mp4</video>
 		<marquee>./marquee/Mingle Magnet (Japan) (En,Ja) (Rev 1).png</marquee>
 		<developer>할 연구소</developer>
 		<publisher>할 연구소</publisher>
@@ -709,7 +709,7 @@
 		<path>./Mobile Suit Gundam MSVS (Japan).zip</path>
 		<name>기동전사 건담 MSVS (일본판)</name>
 		<image>./snap/Mobile Suit Gundam MSVS (Japan).png</image>
-		<video>./snap/Mobile Suit Gundam MSVS (Japan).mp4</video>
+		<video>./video/Mobile Suit Gundam MSVS (Japan).mp4</video>
 		<marquee>./marquee/Mobile Suit Gundam MSVS (Japan).png</marquee>
 		<developer>심즈</developer>
 		<publisher>반다이</publisher>
@@ -721,7 +721,7 @@
 		<path>./MobileWonderGate (Japan) (Rev 1).zip</path>
 		<name>모바일원더게이트 (일본판)(개정판 1)</name>
 		<image>./snap/MobileWonderGate (Japan) (Rev 1).png</image>
-		<video>./snap/MobileWonderGate (Japan) (Rev 1).mp4</video>
+		<video>./video/MobileWonderGate (Japan) (Rev 1).mp4</video>
 		<marquee>./marquee/MobileWonderGate (Japan) (Rev 1).png</marquee>
 		<developer/>
 		<publisher/>
@@ -733,7 +733,7 @@
 		<path>./Moero!! Pro Yakyuu Rookies (Japan).zip</path>
 		<name>불타라!! 프로 야구 루키 (일본판)</name>
 		<image>./snap/Moero!! Pro Yakyuu Rookies (Japan).png</image>
-		<video>./snap/Moero!! Pro Yakyuu Rookies (Japan).mp4</video>
+		<video>./video/Moero!! Pro Yakyuu Rookies (Japan).mp4</video>
 		<marquee>./marquee/Moero!! Pro Yakyuu Rookies (Japan).png</marquee>
 		<developer>토세</developer>
 		<publisher>잘레코</publisher>
@@ -745,7 +745,7 @@
 		<path>./Morita Shougi for WonderSwan (Japan).zip</path>
 		<name>모리타 장기 원더스완 (일본판)</name>
 		<image>./snap/Morita Shougi for WonderSwan (Japan).png</image>
-		<video>./snap/Morita Shougi for WonderSwan (Japan).mp4</video>
+		<video>./video/Morita Shougi for WonderSwan (Japan).mp4</video>
 		<marquee>./marquee/Morita Shougi for WonderSwan (Japan).png</marquee>
 		<developer>유키 엔터프라이즈</developer>
 		<publisher>유키 엔터프라이즈</publisher>
@@ -757,7 +757,7 @@
 		<path>./Nazo Ou Pocket (Japan).zip</path>
 		<name>수수께끼 왕 포켓 (일본판)</name>
 		<image>./snap/Nazo Ou Pocket (Japan).png</image>
-		<video>./snap/Nazo Ou Pocket (Japan).mp4</video>
+		<video>./video/Nazo Ou Pocket (Japan).mp4</video>
 		<marquee>./marquee/Nazo Ou Pocket (Japan).png</marquee>
 		<developer/>
 		<publisher>반다이 비주얼</publisher>
@@ -769,7 +769,7 @@
 		<path>./Neon Genesis Evangelion - Shito Ikusei (Japan).zip</path>
 		<name>신세기 에반게리온 - 사도육성 (일본판)</name>
 		<image>./snap/Neon Genesis Evangelion - Shito Ikusei (Japan).png</image>
-		<video>./snap/Neon Genesis Evangelion - Shito Ikusei (Japan).mp4</video>
+		<video>./video/Neon Genesis Evangelion - Shito Ikusei (Japan).mp4</video>
 		<marquee>./marquee/Neon Genesis Evangelion - Shito Ikusei (Japan).png</marquee>
 		<developer>소프트 머신</developer>
 		<publisher>반다이</publisher>
@@ -781,7 +781,7 @@
 		<path>./Nice On (Japan) (Rev 1).zip</path>
 		<name>나이스 온 (일본판)(개정판 1)</name>
 		<image>./snap/Nice On (Japan) (Rev 1).png</image>
-		<video>./snap/Nice On (Japan) (Rev 1).mp4</video>
+		<video>./video/Nice On (Japan) (Rev 1).mp4</video>
 		<marquee>./marquee/Nice On (Japan) (Rev 1).png</marquee>
 		<developer>아이시스템 토쿄</developer>
 		<publisher>새미</publisher>
@@ -793,7 +793,7 @@
 		<path>./Nihon Pro Mahjong Renmei Kounin - Tetsuman (Japan) (Rev 2).zip</path>
 		<name>일본 프로 마작 연맹 공인 - 철만 (일본판)(개정판 2)</name>
 		<image>./snap/Nihon Pro Mahjong Renmei Kounin - Tetsuman (Japan) (Rev 2).png</image>
-		<video>./snap/Nihon Pro Mahjong Renmei Kounin - Tetsuman (Japan) (Rev 2).mp4</video>
+		<video>./video/Nihon Pro Mahjong Renmei Kounin - Tetsuman (Japan) (Rev 2).mp4</video>
 		<marquee>./marquee/Nihon Pro Mahjong Renmei Kounin - Tetsuman (Japan) (Rev 2).png</marquee>
 		<developer/>
 		<publisher>낙삿</publisher>
@@ -805,7 +805,7 @@
 		<path>./Nobunaga no Yabou for WonderSwan (Japan).zip</path>
 		<name>노부나가의 야망 원더스완 (일본판)</name>
 		<image>./snap/Nobunaga no Yabou for WonderSwan (Japan).png</image>
-		<video>./snap/Nobunaga no Yabou for WonderSwan (Japan).mp4</video>
+		<video>./video/Nobunaga no Yabou for WonderSwan (Japan).mp4</video>
 		<marquee>./marquee/Nobunaga no Yabou for WonderSwan (Japan).png</marquee>
 		<developer/>
 		<publisher>코에이</publisher>
@@ -817,7 +817,7 @@
 		<path>./Ou-chan no Oekaki Logic (Japan).zip</path>
 		<name>오짱의 오에카키 로직 (일본판)</name>
 		<image>./snap/Ou-chan no Oekaki Logic (Japan).png</image>
-		<video>./snap/Ou-chan no Oekaki Logic (Japan).mp4</video>
+		<video>./video/Ou-chan no Oekaki Logic (Japan).mp4</video>
 		<marquee>./marquee/Ou-chan no Oekaki Logic (Japan).png</marquee>
 		<developer>산타클로스</developer>
 		<publisher>선소프트</publisher>
@@ -829,7 +829,7 @@
 		<path>./Pocket Fighter (Japan).zip</path>
 		<name>포켓 파이터 (일본판)</name>
 		<image>./snap/Pocket Fighter (Japan).png</image>
-		<video>./snap/Pocket Fighter (Japan).mp4</video>
+		<video>./video/Pocket Fighter (Japan).mp4</video>
 		<marquee>./marquee/Pocket Fighter (Japan).png</marquee>
 		<developer>캡콤</developer>
 		<publisher>반다이</publisher>
@@ -841,7 +841,7 @@
 		<path>./Pro Mahjong Kiwame for WonderSwan (Japan) (Rev 1).zip</path>
 		<name>프로 마작 극 (일본판)(개정판 1)</name>
 		<image>./snap/Pro Mahjong Kiwame for WonderSwan (Japan) (Rev 1).png</image>
-		<video>./snap/Pro Mahjong Kiwame for WonderSwan (Japan) (Rev 1).mp4</video>
+		<video>./video/Pro Mahjong Kiwame for WonderSwan (Japan) (Rev 1).mp4</video>
 		<marquee>./marquee/Pro Mahjong Kiwame for WonderSwan (Japan) (Rev 1).png</marquee>
 		<developer>아테나</developer>
 		<publisher>아테나</publisher>
@@ -853,7 +853,7 @@
 		<path>./Puyo Puyo Tsuu (Japan).zip</path>
 		<name>뿌요 뿌요 통 (일본판)</name>
 		<image>./snap/Puyo Puyo Tsuu (Japan).png</image>
-		<video>./snap/Puyo Puyo Tsuu (Japan).mp4</video>
+		<video>./video/Puyo Puyo Tsuu (Japan).mp4</video>
 		<marquee>./marquee/Puyo Puyo Tsuu (Japan).png</marquee>
 		<developer>컴파일</developer>
 		<publisher>세가</publisher>
@@ -865,7 +865,7 @@
 		<path>./Puzzle Bobble (Japan).zip</path>
 		<name>퍼즐 보블 / 버스트 어 무브 (일본판)</name>
 		<image>./snap/Puzzle Bobble (Japan).png</image>
-		<video>./snap/Puzzle Bobble (Japan).mp4</video>
+		<video>./video/Puzzle Bobble (Japan).mp4</video>
 		<marquee>./marquee/Puzzle Bobble (Japan).png</marquee>
 		<developer>타이토</developer>
 		<publisher>선 소프트</publisher>
@@ -877,7 +877,7 @@
 		<path>./Rainbow Islands - Putty's Party (Japan).zip</path>
 		<name>레인보우 아일랜드 - 퍼티 파티 (일본판)</name>
 		<image>./snap/Rainbow Islands - Putty's Party (Japan).png</image>
-		<video>./snap/Rainbow Islands - Putty's Party (Japan).mp4</video>
+		<video>./video/Rainbow Islands - Putty's Party (Japan).mp4</video>
 		<marquee>./marquee/Rainbow Islands - Putty's Party (Japan).png</marquee>
 		<developer>메가하우스</developer>
 		<publisher>타카라</publisher>
@@ -889,7 +889,7 @@
 		<path>./Ring Infinity (Japan).zip</path>
 		<name>링 인피니티 (일본판)</name>
 		<image>./snap/Ring Infinity (Japan).png</image>
-		<video>./snap/Ring Infinity (Japan).mp4</video>
+		<video>./video/Ring Infinity (Japan).mp4</video>
 		<marquee>./marquee/Ring Infinity (Japan).png</marquee>
 		<developer>카도카와 쇼덴</developer>
 		<publisher>반다이</publisher>
@@ -901,7 +901,7 @@
 		<path>./Robot Works (Asia) (En,Ja) (Rev 1).zip</path>
 		<name>로봇 워크 (아시아판)(영어,일본어)(개정판 1)</name>
 		<image>./snap/Robot Works (Asia) (En,Ja) (Rev 1).png</image>
-		<video>./snap/Robot Works (Japan).mp4</video>
+		<video>./video/Robot Works (Japan).mp4</video>
 		<marquee>./marquee/Robot Works (Asia) (En,Ja) (Rev 1).png</marquee>
 		<developer/>
 		<publisher>반다이</publisher>
@@ -913,7 +913,7 @@
 		<path>./Robot Works (Japan).zip</path>
 		<name>로봇 워크 (일본판)</name>
 		<image>./snap/Robot Works (Japan).png</image>
-		<video>./snap/Robot Works (Japan).mp4</video>
+		<video>./video/Robot Works (Japan).mp4</video>
 		<marquee>./marquee/Robot Works (Japan).png</marquee>
 		<developer/>
 		<publisher>반다이</publisher>
@@ -925,7 +925,7 @@
 		<path>./Rockman &amp; Forte - Mirai Kara no Chousensha (Japan).zip</path>
 		<name>록맨 &amp; 포르테 - 미래로부터의 도전자 (일본판)</name>
 		<image>./snap/Rockman &amp; Forte - Mirai Kara no Chousensha (Japan).png</image>
-		<video>./snap/Rockman &amp; Forte - Mirai Kara no Chousensha (Japan).mp4</video>
+		<video>./video/Rockman &amp; Forte - Mirai Kara no Chousensha (Japan).mp4</video>
 		<marquee>./marquee/Rockman &amp; Forte - Mirai Kara no Chousensha (Japan).png</marquee>
 		<developer>레이업</developer>
 		<publisher>반다이</publisher>
@@ -937,7 +937,7 @@
 		<path>./Sangokushi for WonderSwan (Japan).zip</path>
 		<name>삼국지 원더스완 (일본판)</name>
 		<image>./snap/Sangokushi for WonderSwan (Japan).png</image>
-		<video>./snap/Sangokushi for WonderSwan (Japan).mp4</video>
+		<video>./video/Sangokushi for WonderSwan (Japan).mp4</video>
 		<marquee>./marquee/Sangokushi for WonderSwan (Japan).png</marquee>
 		<developer>코에이</developer>
 		<publisher>코에이</publisher>
@@ -949,7 +949,7 @@
 		<path>./Sangokushi II for WonderSwan (Japan).zip</path>
 		<name>삼국지 2 원더스완 (일본판)</name>
 		<image>./snap/Sangokushi II for WonderSwan (Japan).png</image>
-		<video>./snap/Sangokushi II for WonderSwan (Japan).mp4</video>
+		<video>./video/Sangokushi II for WonderSwan (Japan).mp4</video>
 		<marquee>./marquee/Sangokushi II for WonderSwan (Japan).png</marquee>
 		<developer>코에이</developer>
 		<publisher>코에이</publisher>
@@ -961,7 +961,7 @@
 		<path>./SD Gundam - Emotional Jam (Japan) (Rev 3).zip</path>
 		<name>SD 건담 - 이모셔널 잼 (일본판)(개정판 3)</name>
 		<image>./snap/SD Gundam - Emotional Jam (Japan) (Rev 3).png</image>
-		<video>./snap/SD Gundam - Emotional Jam (Japan) (Rev 3).mp4</video>
+		<video>./video/SD Gundam - Emotional Jam (Japan) (Rev 3).mp4</video>
 		<marquee>./marquee/SD Gundam - Emotional Jam (Japan) (Rev 3).png</marquee>
 		<developer>톰 크리에이트</developer>
 		<publisher>반다이</publisher>
@@ -973,7 +973,7 @@
 		<path>./SD Gundam G Generation - Gather Beat (Japan).zip</path>
 		<name>SD 건담 G 제너레이션 - 게더 비트 (일본판)</name>
 		<image>./snap/SD Gundam G Generation - Gather Beat (Japan).png</image>
-		<video>./snap/SD Gundam G Generation - Gather Beat (Japan).mp4</video>
+		<video>./video/SD Gundam G Generation - Gather Beat (Japan).mp4</video>
 		<marquee>./marquee/SD Gundam G Generation - Gather Beat (Japan).png</marquee>
 		<developer>뱅가드 웍스</developer>
 		<publisher>반다이</publisher>
@@ -985,7 +985,7 @@
 		<path>./SD Gundam Gashapon Senki - Episode 1 (Japan).zip</path>
 		<name>SD 건담 가샤폰 전기 - 에피소드 1 (일본판)</name>
 		<image>./snap/SD Gundam Gashapon Senki - Episode 1 (Japan).png</image>
-		<video>./snap/SD Gundam Gashapon Senki - Episode 1 (Japan) (8 MBit).mp4</video>
+		<video>./video/SD Gundam Gashapon Senki - Episode 1 (Japan) (8 MBit).mp4</video>
 		<marquee>./marquee/SD Gundam Gashapon Senki - Episode 1 (Japan).png</marquee>
 		<developer>그래픽 리서치</developer>
 		<publisher>반다이</publisher>
@@ -997,7 +997,7 @@
 		<path>./Senkaiden - TV Animation Senkaiden Houshin Engi Yori (Japan).zip</path>
 		<name>선계전 - TV 애니메이션 신계전 봉신연희 (일본판)</name>
 		<image>./snap/Senkaiden - TV Animation Senkaiden Houshin Engi Yori (Japan).png</image>
-		<video>./snap/Senkaiden - TV Animation Senkaiden Houshin Engi Yori (Japan).mp4</video>
+		<video>./video/Senkaiden - TV Animation Senkaiden Houshin Engi Yori (Japan).mp4</video>
 		<marquee>./marquee/Senkaiden - TV Animation Senkaiden Houshin Engi Yori (Japan).png</marquee>
 		<developer>그래픽 리서치</developer>
 		<publisher>반다이</publisher>
@@ -1009,7 +1009,7 @@
 		<path>./Sennou Millennium (Japan).zip</path>
 		<name>천년 밀레니엄 (일본판)</name>
 		<image>./snap/Sennou Millennium (Japan).png</image>
-		<video>./snap/Sennou Millennium (Japan).mp4</video>
+		<video>./video/Sennou Millennium (Japan).mp4</video>
 		<marquee>./marquee/Sennou Millennium (Japan).png</marquee>
 		<developer>코유샤</developer>
 		<publisher>반다이</publisher>
@@ -1021,7 +1021,7 @@
 		<path>./Shanghai Pocket (Japan).zip</path>
 		<name>상하이 포켓 (일본판)</name>
 		<image>./snap/Shanghai Pocket (Japan).png</image>
-		<video>./snap/Shanghai Pocket (Japan).mp4</video>
+		<video>./video/Shanghai Pocket (Japan).mp4</video>
 		<marquee>./marquee/Shanghai Pocket (Japan).png</marquee>
 		<developer>선소프트</developer>
 		<publisher>선소프트</publisher>
@@ -1033,7 +1033,7 @@
 		<path>./Shin Nihon Pro Wrestling - Toukon Retsuden (Japan) (Rev 1).zip</path>
 		<name>신 일본 프로레슬링 - 투혼 열전 (일본판)(개정판 1)</name>
 		<image>./snap/Shin Nihon Pro Wrestling - Toukon Retsuden (Japan) (Rev 1).png</image>
-		<video>./snap/Shin Nihon Pro Wrestling - Toukon Retsuden (Japan) (Rev 1).mp4</video>
+		<video>./video/Shin Nihon Pro Wrestling - Toukon Retsuden (Japan) (Rev 1).mp4</video>
 		<marquee>./marquee/Shin Nihon Pro Wrestling - Toukon Retsuden (Japan) (Rev 1).png</marquee>
 		<developer>토미</developer>
 		<publisher>토미</publisher>
@@ -1045,7 +1045,7 @@
 		<path>./Shougi Touryuumon (Japan).zip</path>
 		<name>장기 등용문 (일본판)</name>
 		<image>./snap/Shougi Touryuumon (Japan).png</image>
-		<video>./snap/Shougi Touryuumon (Japan).mp4</video>
+		<video>./video/Shougi Touryuumon (Japan).mp4</video>
 		<marquee>./marquee/Shougi Touryuumon (Japan).png</marquee>
 		<developer>새미</developer>
 		<publisher>새미</publisher>
@@ -1057,7 +1057,7 @@
 		<path>./Side Pocket for WonderSwan (Japan).zip</path>
 		<name>사이드 포켓 (일본판)</name>
 		<image>./snap/Side Pocket for WonderSwan (Japan).png</image>
-		<video>./snap/Side Pocket for WonderSwan (Japan).mp4</video>
+		<video>./video/Side Pocket for WonderSwan (Japan).mp4</video>
 		<marquee>./marquee/Side Pocket for WonderSwan (Japan).png</marquee>
 		<developer>데이터 이스트</developer>
 		<publisher>데이터 이스트</publisher>
@@ -1069,7 +1069,7 @@
 		<path>./Slither Link (Japan).zip</path>
 		<name>슬리더 링크 (일본판)</name>
 		<image>./snap/Slither Link (Japan).png</image>
-		<video>./snap/Slither Link (Japan).mp4</video>
+		<video>./video/Slither Link (Japan).mp4</video>
 		<marquee>./marquee/Slither Link (Japan).png</marquee>
 		<developer>톰캣 시스템</developer>
 		<publisher>반다이</publisher>
@@ -1081,7 +1081,7 @@
 		<path>./Soccer Yarou! - Challenge the World (Japan).zip</path>
 		<name>사커 하자! - 챌린지 더 월드 (일본판)</name>
 		<image>./snap/Soccer Yarou! - Challenge the World (Japan).png</image>
-		<video>./snap/Soccer Yarou! - Challenge the World (Japan).mp4</video>
+		<video>./video/Soccer Yarou! - Challenge the World (Japan).mp4</video>
 		<marquee>./marquee/Soccer Yarou! - Challenge the World (Japan).png</marquee>
 		<developer>코코넛 재팬</developer>
 		<publisher>코코넛 재팬</publisher>
@@ -1093,7 +1093,7 @@
 		<path>./Sotsugyou for WonderSwan (Japan) (Rev 1).zip</path>
 		<name>졸업 (일본판)(개정판 1)</name>
 		<image>./snap/Sotsugyou for WonderSwan (Japan) (Rev 1).png</image>
-		<video>./snap/Sotsugyou for WonderSwan (Japan) (Rev 1).mp4</video>
+		<video>./video/Sotsugyou for WonderSwan (Japan) (Rev 1).mp4</video>
 		<marquee>./marquee/Sotsugyou for WonderSwan (Japan) (Rev 1).png</marquee>
 		<developer>이미지웍스</developer>
 		<publisher>반다이 비주얼</publisher>
@@ -1105,7 +1105,7 @@
 		<path>./Space Invaders (Japan).zip</path>
 		<name>스페이스 인베이더 (일본판)</name>
 		<image>./snap/Space Invaders (Japan).png</image>
-		<video>./snap/Space Invaders (Japan).mp4</video>
+		<video>./video/Space Invaders (Japan).mp4</video>
 		<marquee>./marquee/Space Invaders (Japan).png</marquee>
 		<developer>타이토</developer>
 		<publisher>선소프트</publisher>
@@ -1117,7 +1117,7 @@
 		<path>./Super Robot Taisen Compact (Japan) (Rev 2).zip</path>
 		<name>슈퍼 로봇 대전 콤팩트 (일본판)(개정판 2)</name>
 		<image>./snap/Super Robot Taisen Compact (Japan) (Rev 2).png</image>
-		<video>./snap/Super Robot Taisen Compact (Japan) (Rev 2).mp4</video>
+		<video>./video/Super Robot Taisen Compact (Japan) (Rev 2).mp4</video>
 		<marquee>./marquee/Super Robot Taisen Compact (Japan) (Rev 2).png</marquee>
 		<developer>토세</developer>
 		<publisher>반프레스토</publisher>
@@ -1129,7 +1129,7 @@
 		<path>./Super Robot Taisen Compact (Japan).zip</path>
 		<name>슈퍼 로봇 대전 콤팩트 (일본판)</name>
 		<image>./snap/Super Robot Taisen Compact (Japan).png</image>
-		<video>./snap/Super Robot Taisen Compact (Japan) (Rev 2).mp4</video>
+		<video>./video/Super Robot Taisen Compact (Japan) (Rev 2).mp4</video>
 		<marquee>./marquee/Super Robot Taisen Compact (Japan).png</marquee>
 		<developer>토세</developer>
 		<publisher>반프레스토</publisher>
@@ -1141,7 +1141,7 @@
 		<path>./Super Robot Taisen Compact 2 - Dai-1-bu - Chijou Gekidou Hen (Japan).zip</path>
 		<name>슈퍼 로봇 대전 콤팩트 2 - 제1부 - 지상 격동편 (일본판)</name>
 		<image>./snap/Super Robot Taisen Compact 2 - Dai-1-bu - Chijou Gekidou Hen (Japan).png</image>
-		<video>./snap/Super Robot Taisen Compact 2 - Dai-1-bu - Chijou Gekidou Hen (Japan).mp4</video>
+		<video>./video/Super Robot Taisen Compact 2 - Dai-1-bu - Chijou Gekidou Hen (Japan).mp4</video>
 		<marquee>./marquee/Super Robot Taisen Compact 2 - Dai-1-bu - Chijou Gekidou Hen (Japan).png</marquee>
 		<developer>토세</developer>
 		<publisher>반프레스토</publisher>
@@ -1153,7 +1153,7 @@
 		<path>./Super Robot Taisen Compact 2 - Dai-2-bu - Uchuu Gekishin Hen (Japan) (Rev 4).zip</path>
 		<name>슈퍼 로봇 대전 콤팩트 2 - 제2부 - 우주 격진편 (일본판)(개정판 4)</name>
 		<image>./snap/Super Robot Taisen Compact 2 - Dai-2-bu - Uchuu Gekishin Hen (Japan) (Rev 4).png</image>
-		<video>./snap/Super Robot Taisen Compact 2 - Dai-2-bu - Uchuu Gekishin Hen (Japan) (Rev 4).mp4</video>
+		<video>./video/Super Robot Taisen Compact 2 - Dai-2-bu - Uchuu Gekishin Hen (Japan) (Rev 4).mp4</video>
 		<marquee>./marquee/Super Robot Taisen Compact 2 - Dai-2-bu - Uchuu Gekishin Hen (Japan) (Rev 4).png</marquee>
 		<developer>토세</developer>
 		<publisher>반프레스토</publisher>
@@ -1165,7 +1165,7 @@
 		<path>./Super Robot Taisen Compact 2 - Dai-3-bu - Ginga Kessen Hen (Japan) (Rev 2).zip</path>
 		<name>슈퍼 로봇 대전 콤팩트 2 - 제3부 - 은하 결전편 (일본판)(개정판 2)</name>
 		<image>./snap/Super Robot Taisen Compact 2 - Dai-3-bu - Ginga Kessen Hen (Japan) (Rev 2).png</image>
-		<video>./snap/Super Robot Taisen Compact 2 - Dai-3-bu - Ginga Kessen Hen (Japan) (Rev 2).mp4</video>
+		<video>./video/Super Robot Taisen Compact 2 - Dai-3-bu - Ginga Kessen Hen (Japan) (Rev 2).mp4</video>
 		<marquee>./marquee/Super Robot Taisen Compact 2 - Dai-3-bu - Ginga Kessen Hen (Japan) (Rev 2).png</marquee>
 		<developer>토세</developer>
 		<publisher>반프레스토</publisher>
@@ -1177,7 +1177,7 @@
 		<path>./Taikyoku Igo - Heisei Kiin (Japan).zip</path>
 		<name>대국 바둑 - 헤이세이 킨 (일본판)</name>
 		<image>./snap/Taikyoku Igo - Heisei Kiin (Japan).png</image>
-		<video>./snap/Taikyoku Igo - Heisei Kiin (Japan).mp4</video>
+		<video>./video/Taikyoku Igo - Heisei Kiin (Japan).mp4</video>
 		<marquee>./marquee/Taikyoku Igo - Heisei Kiin (Japan).png</marquee>
 		<developer>석세스</developer>
 		<publisher>석세스</publisher>
@@ -1189,7 +1189,7 @@
 		<path>./Tanjou Debut for WonderSwan (Japan) (Rev 1).zip</path>
 		<name>탄생 데뷰 (일본판)(개정판 1)</name>
 		<image>./snap/Tanjou Debut for WonderSwan (Japan) (Rev 1).png</image>
-		<video>./snap/Tanjou Debut for WonderSwan (Japan) (Rev 1).mp4</video>
+		<video>./video/Tanjou Debut for WonderSwan (Japan) (Rev 1).mp4</video>
 		<marquee>./marquee/Tanjou Debut for WonderSwan (Japan) (Rev 1).png</marquee>
 		<developer/>
 		<publisher>반다이 비주얼</publisher>
@@ -1201,7 +1201,7 @@
 		<path>./Tare Panda no GunPey (Japan).zip</path>
 		<name>타레팬더의 군페이 (일본판)</name>
 		<image>./snap/Tare Panda no GunPey (Japan).png</image>
-		<video>./snap/Tare Panda no GunPey (Japan).mp4</video>
+		<video>./video/Tare Panda no GunPey (Japan).mp4</video>
 		<marquee>./marquee/Tare Panda no GunPey (Japan).png</marquee>
 		<developer>반다이</developer>
 		<publisher>반다이</publisher>
@@ -1213,7 +1213,7 @@
 		<path>./Tekken Card Challenge (Japan).zip</path>
 		<name>철권 카드 챌린지 (일본판)</name>
 		<image>./snap/Tekken Card Challenge (Japan).png</image>
-		<video>./snap/Tekken Card Challenge (Japan).mp4</video>
+		<video>./video/Tekken Card Challenge (Japan).mp4</video>
 		<marquee>./marquee/Tekken Card Challenge (Japan).png</marquee>
 		<developer>남코</developer>
 		<publisher>반다이</publisher>
@@ -1225,7 +1225,7 @@
 		<path>./Terrors (Japan).zip</path>
 		<name>테러 (일본판)</name>
 		<image>./snap/Terrors (Japan).png</image>
-		<video>./snap/Terrors (Japan).mp4</video>
+		<video>./video/Terrors (Japan).mp4</video>
 		<marquee>./marquee/Terrors (Japan).png</marquee>
 		<developer>메가스</developer>
 		<publisher>반다이</publisher>
@@ -1237,7 +1237,7 @@
 		<path>./Tetsujin 28 Gou (Japan).zip</path>
 		<name>철인 28호 (일본판)</name>
 		<image>./snap/Tetsujin 28 Gou (Japan).png</image>
-		<video>./snap/Tetsujin 28 Gou (Japan).mp4</video>
+		<video>./video/Tetsujin 28 Gou (Japan).mp4</video>
 		<marquee>./marquee/Tetsujin 28 Gou (Japan).png</marquee>
 		<developer>히카리 프로</developer>
 		<publisher>메가하우스</publisher>
@@ -1249,7 +1249,7 @@
 		<path>./Time Bokan Series - Bokan Densetsu - Buta mo Odaterya Doronboo (Japan).zip</path>
 		<name>타임 보칸 시리즈 - 보칸전설 (일본판)</name>
 		<image>./snap/Time Bokan Series - Bokan Densetsu - Buta mo Odaterya Doronboo (Japan).png</image>
-		<video>./snap/Time Bokan Series - Bokan Densetsu - Buta mo Odaterya Doronboo (Japan).mp4</video>
+		<video>./video/Time Bokan Series - Bokan Densetsu - Buta mo Odaterya Doronboo (Japan).mp4</video>
 		<marquee>./marquee/Time Bokan Series - Bokan Densetsu - Buta mo Odaterya Doronboo (Japan).png</marquee>
 		<developer/>
 		<publisher/>
@@ -1261,7 +1261,7 @@
 		<path>./Tokyo Majin Gakuen - Fuju Houroku (Japan).zip</path>
 		<name>도쿄 마인 학원 - 부주봉록 (일본판)</name>
 		<image>./snap/Tokyo Majin Gakuen - Fuju Houroku (Japan).png</image>
-		<video>./snap/Tokyo Majin Gakuen - Fuju Houroku (Japan).mp4</video>
+		<video>./video/Tokyo Majin Gakuen - Fuju Houroku (Japan).mp4</video>
 		<marquee>./marquee/Tokyo Majin Gakuen - Fuju Houroku (Japan).png</marquee>
 		<developer>샤우트 디자인웍스</developer>
 		<publisher>애스믹 에이스</publisher>
@@ -1273,7 +1273,7 @@
 		<path>./Trump Collection - Bottom-Up Teki Trump Seikatsu (Japan) (Rev 1).zip</path>
 		<name>트럼프 컬랙션 - 보텀업 적 트럼프 생활 (일본판)(개정판 1)</name>
 		<image>./snap/Trump Collection - Bottom-Up Teki Trump Seikatsu (Japan) (Rev 1).png</image>
-		<video>./snap/Trump Collection - Bottom-Up Teki Trump Seikatsu (Japan) (Rev 1).mp4</video>
+		<video>./video/Trump Collection - Bottom-Up Teki Trump Seikatsu (Japan) (Rev 1).mp4</video>
 		<marquee>./marquee/Trump Collection - Bottom-Up Teki Trump Seikatsu (Japan) (Rev 1).png</marquee>
 		<developer>보텀 업</developer>
 		<publisher>보텀 업</publisher>
@@ -1285,7 +1285,7 @@
 		<path>./Trump Collection 2 - Bottom-Up Teki Sekaiisshuu no Tabi (Japan) (Rev 1).zip</path>
 		<name>트럼프 컬랙션 2 - 보텀업 적 세계일주 여행 (일본판)(개정판 1)</name>
 		<image>./snap/Trump Collection 2 - Bottom-Up Teki Sekaiisshuu no Tabi (Japan) (Rev 1).png</image>
-		<video>./snap/Trump Collection 2 - Bottom-Up Teki Sekaiisshuu no Tabi (Japan) (Rev 1).mp4</video>
+		<video>./video/Trump Collection 2 - Bottom-Up Teki Sekaiisshuu no Tabi (Japan) (Rev 1).mp4</video>
 		<marquee>./marquee/Trump Collection 2 - Bottom-Up Teki Sekaiisshuu no Tabi (Japan) (Rev 1).png</marquee>
 		<developer>보텀 업</developer>
 		<publisher>보텀 업</publisher>
@@ -1297,7 +1297,7 @@
 		<path>./Turntablist - DJ Battle (Japan).zip</path>
 		<name>턴테이블리스트 - DJ 배틀 (일본판)</name>
 		<image>./snap/Turntablist - DJ Battle (Japan).png</image>
-		<video>./snap/Turntablist - DJ Battle (Japan).mp4</video>
+		<video>./video/Turntablist - DJ Battle (Japan).mp4</video>
 		<marquee>./marquee/Turntablist - DJ Battle (Japan).png</marquee>
 		<developer>베스택스</developer>
 		<publisher>반다이</publisher>
@@ -1309,7 +1309,7 @@
 		<path>./Umizuri ni Ikou! (Japan).zip</path>
 		<name>바다낚시 가자! (일본판)</name>
 		<image>./snap/Umizuri ni Ikou! (Japan).png</image>
-		<video>./snap/Umizuri ni Ikou! (Japan).mp4</video>
+		<video>./video/Umizuri ni Ikou! (Japan).mp4</video>
 		<marquee>./marquee/Umizuri ni Ikou! (Japan).png</marquee>
 		<developer>코코넛 재팬</developer>
 		<publisher>코코넛 재팬</publisher>
@@ -1321,7 +1321,7 @@
 		<path>./Uzumaki - Denshi Kaiki Hen (Japan) (Rev 4).zip</path>
 		<name>소용돌이 - 전시괴기편 (일본판)(개정판 4)</name>
 		<image>./snap/Uzumaki - Denshi Kaiki Hen (Japan) (Rev 4).png</image>
-		<video>./snap/Uzumaki - Denshi Kaiki Hen (Japan) (Rev 4).mp4</video>
+		<video>./video/Uzumaki - Denshi Kaiki Hen (Japan) (Rev 4).mp4</video>
 		<marquee>./marquee/Uzumaki - Denshi Kaiki Hen (Japan) (Rev 4).png</marquee>
 		<developer>오메가 미코트</developer>
 		<publisher>오메가 미코트</publisher>
@@ -1333,7 +1333,7 @@
 		<path>./Uzumaki - Noroi Simulation (Japan).zip</path>
 		<name>소용돌이 - 저주 시뮬레이션 (일본판)</name>
 		<image>./snap/Uzumaki - Noroi Simulation (Japan).png</image>
-		<video>./snap/Uzumaki - Noroi Simulation (Japan).mp4</video>
+		<video>./video/Uzumaki - Noroi Simulation (Japan).mp4</video>
 		<marquee>./marquee/Uzumaki - Noroi Simulation (Japan).png</marquee>
 		<developer>오메가 미코트</developer>
 		<publisher>오메가 미코트</publisher>
@@ -1345,7 +1345,7 @@
 		<path>./Vaitz Blade (Japan) (Rev 1).zip</path>
 		<name>바이츠 블레이드 (일본판)(개정판 1)</name>
 		<image>./snap/Vaitz Blade (Japan) (Rev 1).png</image>
-		<video>./snap/Vaitz Blade (Japan) (Rev 1).mp4</video>
+		<video>./video/Vaitz Blade (Japan) (Rev 1).mp4</video>
 		<marquee>./marquee/Vaitz Blade (Japan) (Rev 1).png</marquee>
 		<developer>톰 크리에이트</developer>
 		<publisher>반다이</publisher>
@@ -1357,7 +1357,7 @@
 		<path>./Wasabi Produce - Street Dancer (Japan).zip</path>
 		<name>와사비 프로듀스 - 스트리트 댄서 (일본판)</name>
 		<image>./snap/Wasabi Produce - Street Dancer (Japan).png</image>
-		<video>./snap/Wasabi Produce - Street Dancer (Japan).mp4</video>
+		<video>./video/Wasabi Produce - Street Dancer (Japan).mp4</video>
 		<marquee>./marquee/Wasabi Produce - Street Dancer (Japan).png</marquee>
 		<developer>어뮤즈</developer>
 		<publisher>반다이</publisher>
@@ -1369,7 +1369,7 @@
 		<path>./Wonder Stadium '99 (Japan).zip</path>
 		<name>원더 스타디움 99 (일본판)</name>
 		<image>./snap/Wonder Stadium '99 (Japan).png</image>
-		<video>./snap/Wonder Stadium '99 (Japan).mp4</video>
+		<video>./video/Wonder Stadium '99 (Japan).mp4</video>
 		<marquee>./marquee/Wonder Stadium '99 (Japan).png</marquee>
 		<developer>남코</developer>
 		<publisher>반다이</publisher>
@@ -1381,7 +1381,7 @@
 		<path>./Wonder Stadium (Japan).zip</path>
 		<name>원더 스타디움 (일본판)</name>
 		<image>./snap/Wonder Stadium (Japan).png</image>
-		<video>./snap/Wonder Stadium (Japan).mp4</video>
+		<video>./video/Wonder Stadium (Japan).mp4</video>
 		<marquee>./marquee/Wonder Stadium (Japan).png</marquee>
 		<developer>남코</developer>
 		<publisher>반다이</publisher>
@@ -1393,7 +1393,7 @@
 		<path>./WonderSwan Handy Sonar (Japan) (Rev 1).zip</path>
 		<name>원더스완 핸디 소나 (일본판)(개정판 1)</name>
 		<image>./snap/WonderSwan Handy Sonar (Japan) (Rev 1).png</image>
-		<video>./snap/WonderSwan Handy Sonar (Japan) (Rev 2).mp4</video>
+		<video>./video/WonderSwan Handy Sonar (Japan) (Rev 2).mp4</video>
 		<marquee>./marquee/WonderSwan Handy Sonar (Japan) (Rev 1).png</marquee>
 		<developer/>
 		<publisher/>
@@ -1405,7 +1405,7 @@
 		<path>./[BIOS] WonderSwan Boot ROM (Japan) (En).zip</path>
 		<name>[바이오스] 원더스완 부트 롬 (일본판)(영어)</name>
 		<image>./snap/[BIOS] WonderSwan Boot ROM (Japan) (En).png</image>
-		<video>./snap/[BIOS] WonderSwan Boot ROM (Japan) (En).mp4</video>
+		<video>./video/[BIOS] WonderSwan Boot ROM (Japan) (En).mp4</video>
 		<marquee>./marquee/[BIOS] WonderSwan Boot ROM (Japan) (En).png</marquee>
 		<developer/>
 		<publisher/>
