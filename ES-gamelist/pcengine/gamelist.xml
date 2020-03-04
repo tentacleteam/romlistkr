@@ -13,7 +13,7 @@
 		<path>./1943 Kai (Japan).zip</path>
 		<name>1943 카이 (일본판)</name>
 		<image>./snap/1943 Kai (Japan).png</image>
-		<video>./snap/1943 Kai (Japan).mp4</video>
+		<video>./video/1943 Kai (Japan).mp4</video>
 		<marquee>./marquee/1943 Kai (Japan).png</marquee>
 		<developer>캡콤</developer>
 		<publisher>낙삿 소프트</publisher>
@@ -24,7 +24,7 @@
 		<path>./21 Emon - Mezase Hotel Ou!! (Japan).zip</path>
 		<name>21에몬 - 노려라 호텔왕! (일본판)</name>
 		<image>./snap/21 Emon - Mezase Hotel Ou!! (Japan).png</image>
-		<video>./snap/21 Emon - Mezase Hotel Ou!! (Japan).mp4</video>
+		<video>./video/21 Emon - Mezase Hotel Ou!! (Japan).mp4</video>
 		<marquee>./marquee/21 Emon - Mezase Hotel Ou!! (Japan).png</marquee>
 		<developer>NEC</developer>
 		<publisher>NEC</publisher>
@@ -35,7 +35,7 @@
 		<path>./Adventure Island (Japan).zip</path>
 		<name>고교 명인의 모험도 (일본판)</name>
 		<image>./snap/Adventure Island (Japan).png</image>
-		<video>./snap/Adventure Island (Japan).mp4</video>
+		<video>./video/Adventure Island (Japan).mp4</video>
 		<marquee>./marquee/Adventure Island (Japan).png</marquee>
 		<developer>웨스톤</developer>
 		<publisher>NEC</publisher>
@@ -46,7 +46,7 @@
 		<path>./Aero Blasters (Japan).zip</path>
 		<name>에어로 블래스터즈- 트러블 스페셜티 레이드 유니트 (일본판)</name>
 		<image>./snap/Aero Blasters (Japan).png</image>
-		<video>./snap/Aero Blasters (Japan).mp4</video>
+		<video>./video/Aero Blasters (Japan).mp4</video>
 		<marquee>./marquee/Aero Blasters (Japan).png</marquee>
 		<developer/>
 		<publisher/>
@@ -57,7 +57,7 @@
 		<path>./Aero Blasters (USA).zip</path>
 		<name>에어로 블래스터즈- 트러블 스페셜티 레이드 유니트</name>
 		<image>./snap/Aero Blasters (USA).png</image>
-		<video>./snap/Aero Blasters (USA).mp4</video>
+		<video>./video/Aero Blasters (USA).mp4</video>
 		<marquee>./marquee/Aero Blasters (USA).png</marquee>
 		<developer/>
 		<publisher/>
@@ -68,7 +68,7 @@
 		<path>./After Burner II (Japan).zip</path>
 		<name>애프터 버너 2 (일본판)</name>
 		<image>./snap/After Burner II (Japan).png</image>
-		<video>./snap/After Burner II (Japan).mp4</video>
+		<video>./video/After Burner II (Japan).mp4</video>
 		<marquee>./marquee/After Burner II (Japan).png</marquee>
 		<developer>세가</developer>
 		<publisher>NEC</publisher>
@@ -79,7 +79,7 @@
 		<path>./Air Zonk (USA).zip</path>
 		<name>에어 종크</name>
 		<image>./snap/Air Zonk (USA).png</image>
-		<video>./snap/Air Zonk (USA).mp4</video>
+		<video>./video/Air Zonk (USA).mp4</video>
 		<marquee>./marquee/Air Zonk (USA).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
@@ -90,7 +90,7 @@
 		<path>./Alien Crush (Japan).zip</path>
 		<name>에일리언 크래쉬 (일본판)</name>
 		<image>./snap/Alien Crush (Japan).png</image>
-		<video>./snap/Alien Crush (Japan).mp4</video>
+		<video>./video/Alien Crush (Japan).mp4</video>
 		<marquee>./marquee/Alien Crush (Japan).png</marquee>
 		<developer>컴파일</developer>
 		<publisher>NEC</publisher>
@@ -101,7 +101,7 @@
 		<path>./Alien Crush (USA).zip</path>
 		<name>에일리언 크래쉬</name>
 		<image>./snap/Alien Crush (USA).png</image>
-		<video>./snap/Alien Crush (USA).mp4</video>
+		<video>./video/Alien Crush (USA).mp4</video>
 		<marquee>./marquee/Alien Crush (USA).png</marquee>
 		<developer>컴파일</developer>
 		<publisher>NEC</publisher>
@@ -112,7 +112,7 @@
 		<path>./All Star Power League (Japan).zip</path>
 		<name>올스타 파워리그 (일본판)</name>
 		<image>./snap/All Star Power League (Japan).png</image>
-		<video>./snap/All Star Power League (Japan).mp4</video>
+		<video>./video/All Star Power League (Japan).mp4</video>
 		<marquee>./marquee/All Star Power League (Japan).png</marquee>
 		<developer/>
 		<publisher/>
@@ -123,7 +123,7 @@
 		<path>./Andre Panza Kick Boxing (USA).zip</path>
 		<name>안드레 팬자 킥 복싱</name>
 		<image>./snap/Andre Panza Kick Boxing (USA).png</image>
-		<video>./snap/Andre Panza Kick Boxing (USA).mp4</video>
+		<video>./video/Andre Panza Kick Boxing (USA).mp4</video>
 		<marquee>./marquee/Andre Panza Kick Boxing (USA).png</marquee>
 		<developer>퓨처라</developer>
 		<publisher/>
@@ -134,7 +134,7 @@
 		<path>./Ankoku Densetsu (Japan).zip</path>
 		<name>암흑 전설 (일본판)</name>
 		<image>./snap/Ankoku Densetsu (Japan).png</image>
-		<video>./snap/Ankoku Densetsu (Japan).mp4</video>
+		<video>./video/Ankoku Densetsu (Japan).mp4</video>
 		<marquee>./marquee/Ankoku Densetsu (Japan).png</marquee>
 		<developer>아틀러스</developer>
 		<publisher>NEC</publisher>
@@ -145,7 +145,7 @@
 		<path>./Aoi Blink (Japan).zip</path>
 		<name>푸른 망아지 브링크 (일본판)</name>
 		<image>./snap/Aoi Blink (Japan).png</image>
-		<video>./snap/Aoi Blink (Japan).mp4</video>
+		<video>./video/Aoi Blink (Japan).mp4</video>
 		<marquee>./marquee/Aoi Blink (Japan).png</marquee>
 		<developer>웨스트 원</developer>
 		<publisher>허드슨</publisher>
@@ -156,7 +156,7 @@
 		<path>./Appare! Gateball (Japan).zip</path>
 		<name>장하다! 게이트 볼 (일본판)</name>
 		<image>./snap/Appare! Gateball (Japan).png</image>
-		<video>./snap/Appare! Gateball (Japan).mp4</video>
+		<video>./video/Appare! Gateball (Japan).mp4</video>
 		<marquee>./marquee/Appare! Gateball (Japan).png</marquee>
 		<developer>웨스트 원</developer>
 		<publisher>허드슨</publisher>
@@ -167,7 +167,7 @@
 		<path>./Armed F (Japan).zip</path>
 		<name>포메이션 암드 F (일본판)</name>
 		<image>./snap/Armed F (Japan).png</image>
-		<video>./snap/Armed F (Japan).mp4</video>
+		<video>./video/Armed F (Japan).mp4</video>
 		<marquee>./marquee/Armed F (Japan).png</marquee>
 		<developer>만청당</developer>
 		<publisher>팩인 비디오</publisher>
@@ -178,7 +178,7 @@
 		<path>./Artist Tool (Japan).zip</path>
 		<name>아티스트 툴 (일본판)</name>
 		<image>./snap/Artist Tool (Japan).png</image>
-		<video>./snap/Artist Tool (Japan).mp4</video>
+		<video>./video/Artist Tool (Japan).mp4</video>
 		<marquee>./marquee/Artist Tool (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>NEC</publisher>
@@ -189,7 +189,7 @@
 		<path>./Atomic Robo-Kid Special (Japan).zip</path>
 		<name>아토믹 로보 - 키드 스페셜 (일본판)</name>
 		<image>./snap/Atomic Robo-Kid Special (Japan).png</image>
-		<video>./snap/Atomic Robo-Kid Special (Japan).mp4</video>
+		<video>./video/Atomic Robo-Kid Special (Japan).mp4</video>
 		<marquee>./marquee/Atomic Robo-Kid Special (Japan).png</marquee>
 		<developer>UPL</developer>
 		<publisher>UPL</publisher>
@@ -200,7 +200,7 @@
 		<path>./AV Poker - World Gambler (Japan) (Unl).zip</path>
 		<name>AV 포커 월드 갬블러 (일본판)(해적판)</name>
 		<image>./snap/AV Poker - World Gambler (Japan) (Unl).png</image>
-		<video>./snap/AV Poker - World Gambler (Japan) (Unl).mp4</video>
+		<video>./video/AV Poker - World Gambler (Japan) (Unl).mp4</video>
 		<marquee>./marquee/AV Poker - World Gambler (Japan) (Unl).png</marquee>
 		<developer/>
 		<publisher/>
@@ -211,7 +211,7 @@
 		<path>./Ballistix (Japan).zip</path>
 		<name>볼리스틱스 (일본판)</name>
 		<image>./snap/Ballistix (Japan).png</image>
-		<video>./snap/Ballistix (Japan).mp4</video>
+		<video>./video/Ballistix (Japan).mp4</video>
 		<marquee>./marquee/Ballistix (Japan).png</marquee>
 		<developer>리플렉션 인터액티브</developer>
 		<publisher>터보 테크놀리지</publisher>
@@ -222,7 +222,7 @@
 		<path>./Ballistix (USA).zip</path>
 		<name>볼리스틱스</name>
 		<image>./snap/Ballistix (USA).png</image>
-		<video>./snap/Ballistix (USA).mp4</video>
+		<video>./video/Ballistix (USA).mp4</video>
 		<marquee>./marquee/Ballistix (USA).png</marquee>
 		<developer>리플렉션 인터액티브</developer>
 		<publisher>터보 테크놀리지</publisher>
@@ -233,7 +233,7 @@
 		<path>./Bari Bari Densetsu (Japan).zip</path>
 		<name>바리바리 전설 (일본판)</name>
 		<image>./snap/Bari Bari Densetsu (Japan).png</image>
-		<video>./snap/Bari Bari Densetsu (Japan).mp4</video>
+		<video>./video/Bari Bari Densetsu (Japan).mp4</video>
 		<marquee>./marquee/Bari Bari Densetsu (Japan).png</marquee>
 		<developer>타이토</developer>
 		<publisher>타이토</publisher>
@@ -244,7 +244,7 @@
 		<path>./Barunba (Japan).zip</path>
 		<name>바룬바 (일본판)</name>
 		<image>./snap/Barunba (Japan).png</image>
-		<video>./snap/Barunba (Japan).mp4</video>
+		<video>./video/Barunba (Japan).mp4</video>
 		<marquee>./marquee/Barunba (Japan).png</marquee>
 		<developer>잡</developer>
 		<publisher>남코</publisher>
@@ -255,7 +255,7 @@
 		<path>./Batman (Japan).zip</path>
 		<name>배트맨 (일본판)</name>
 		<image>./snap/Batman (Japan).png</image>
-		<video>./snap/Batman (Japan).mp4</video>
+		<video>./video/Batman (Japan).mp4</video>
 		<marquee>./marquee/Batman (Japan).png</marquee>
 		<developer>선소프트</developer>
 		<publisher>선소프트</publisher>
@@ -266,7 +266,7 @@
 		<path>./Battle Lode Runner (Japan).zip</path>
 		<name>배틀 로드 런너 (일본판)</name>
 		<image>./snap/Battle Lode Runner (Japan).png</image>
-		<video>./snap/Battle Lode Runner (Japan).mp4</video>
+		<video>./video/Battle Lode Runner (Japan).mp4</video>
 		<marquee>./marquee/Battle Lode Runner (Japan).png</marquee>
 		<developer>브로드번드 소프트웨어</developer>
 		<publisher>브로드번드 소프트웨어</publisher>
@@ -277,7 +277,7 @@
 		<path>./Battle Royale (USA).zip</path>
 		<name>배틀 로얄</name>
 		<image>./snap/Battle Royale (USA).png</image>
-		<video>./snap/Battle Royale (USA).mp4</video>
+		<video>./video/Battle Royale (USA).mp4</video>
 		<marquee>./marquee/Battle Royale (USA).png</marquee>
 		<developer>인크레더블 테크놀리지</developer>
 		<publisher>터보 테크놀리지</publisher>
@@ -288,7 +288,7 @@
 		<path>./Be Ball (Japan).zip</path>
 		<name>비 볼 (일본판)</name>
 		<image>./snap/Be Ball (Japan).png</image>
-		<video>./snap/Be Ball (Japan).mp4</video>
+		<video>./video/Be Ball (Japan).mp4</video>
 		<marquee>./marquee/Be Ball (Japan).png</marquee>
 		<developer>나우 프로덕션</developer>
 		<publisher>NEC</publisher>
@@ -299,7 +299,7 @@
 		<path>./Benkei Gaiden (Japan).zip</path>
 		<name>벤케이 외전 - 모래의 장 (일본판)</name>
 		<image>./snap/Benkei Gaiden (Japan).png</image>
-		<video>./snap/Benkei Gaiden (Japan).mp4</video>
+		<video>./video/Benkei Gaiden (Japan).mp4</video>
 		<marquee>./marquee/Benkei Gaiden (Japan).png</marquee>
 		<developer>선소프트</developer>
 		<publisher>선소프트</publisher>
@@ -310,7 +310,7 @@
 		<path>./Bikkuriman World (Japan).zip</path>
 		<name>비쿠리맨 월드 (일본판)</name>
 		<image>./snap/Bikkuriman World (Japan).png</image>
-		<video>./snap/Bikkuriman World (Japan).mp4</video>
+		<video>./video/Bikkuriman World (Japan).mp4</video>
 		<marquee>./marquee/Bikkuriman World (Japan).png</marquee>
 		<developer>웨스톤</developer>
 		<publisher>허드슨</publisher>
@@ -321,7 +321,7 @@
 		<path>./Blazing Lazers (USA).zip</path>
 		<name>블레이징 레이져스</name>
 		<image>./snap/Blazing Lazers (USA).png</image>
-		<video>./snap/Blazing Lazers (USA).mp4</video>
+		<video>./video/Blazing Lazers (USA).mp4</video>
 		<marquee>./marquee/Blazing Lazers (USA).png</marquee>
 		<developer>컴파일</developer>
 		<publisher>NEC</publisher>
@@ -332,7 +332,7 @@
 		<path>./Blodia (Japan).zip</path>
 		<name>블로디아 (일본판)</name>
 		<image>./snap/Blodia (Japan).png</image>
-		<video>./snap/Blodia (Japan).mp4</video>
+		<video>./video/Blodia (Japan).mp4</video>
 		<marquee>./marquee/Blodia (Japan).png</marquee>
 		<developer/>
 		<publisher/>
@@ -343,7 +343,7 @@
 		<path>./Bloody Wolf (USA).zip</path>
 		<name>블러디 울프</name>
 		<image>./snap/Bloody Wolf (USA).png</image>
-		<video>./snap/Bloody Wolf (USA).mp4</video>
+		<video>./video/Bloody Wolf (USA).mp4</video>
 		<marquee>./marquee/Bloody Wolf (USA).png</marquee>
 		<developer>데이터 이스트</developer>
 		<publisher>데이터 이스트</publisher>
@@ -354,7 +354,7 @@
 		<path>./Bodycon Quest II (Japan) (Unl).zip</path>
 		<name>보디 컨퀘스트 2 (일본판)(해적판)</name>
 		<image>./snap/Bodycon Quest II (Japan) (Unl).png</image>
-		<video>./snap/Bodycon Quest II (Japan) (Unl).mp4</video>
+		<video>./video/Bodycon Quest II (Japan) (Unl).mp4</video>
 		<marquee>./marquee/Bodycon Quest II (Japan) (Unl).png</marquee>
 		<developer/>
 		<publisher/>
@@ -365,7 +365,7 @@
 		<path>./Bomberman '93 (Japan).zip</path>
 		<name>봄버맨 93 (일본판)</name>
 		<image>./snap/Bomberman '93 (Japan).png</image>
-		<video>./snap/Bomberman '93 (Japan).mp4</video>
+		<video>./video/Bomberman '93 (Japan).mp4</video>
 		<marquee>./marquee/Bomberman '93 (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
@@ -376,7 +376,7 @@
 		<path>./Bomberman '93 (USA).zip</path>
 		<name>봄버맨 93</name>
 		<image>./snap/Bomberman '93 (USA).png</image>
-		<video>./snap/Bomberman '93 (USA).mp4</video>
+		<video>./video/Bomberman '93 (USA).mp4</video>
 		<marquee>./marquee/Bomberman '93 (USA).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
@@ -387,7 +387,7 @@
 		<path>./Bomberman '93 (USA, Europe) (Virtual Console).zip</path>
 		<name>봄버맨 93 (미국,유럽판)(버추얼 콘솔)</name>
 		<image>./snap/Bomberman '93 (USA, Europe) (Virtual Console).png</image>
-		<video>./snap/Bomberman '93 (USA, Europe) (Virtual Console).mp4</video>
+		<video>./video/Bomberman '93 (USA, Europe) (Virtual Console).mp4</video>
 		<marquee>./marquee/Bomberman '93 (USA, Europe) (Virtual Console).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
@@ -398,7 +398,7 @@
 		<path>./Bomberman '93 - Special Version (Japan).zip</path>
 		<name>봄버맨 93 - 스페셜 버전 (일본판)</name>
 		<image>./snap/Bomberman '93 - Special Version (Japan).png</image>
-		<video>./snap/Bomberman '93 - Special Version (Japan).mp4</video>
+		<video>./video/Bomberman '93 - Special Version (Japan).mp4</video>
 		<marquee>./marquee/Bomberman '93 - Special Version (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
@@ -409,7 +409,7 @@
 		<path>./Bomberman '94 (Japan).zip</path>
 		<name>봄버맨 94 (일본판)</name>
 		<image>./snap/Bomberman '94 (Japan).png</image>
-		<video>./snap/Bomberman '94 (Japan).mp4</video>
+		<video>./video/Bomberman '94 (Japan).mp4</video>
 		<marquee>./marquee/Bomberman '94 (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
@@ -420,7 +420,7 @@
 		<path>./Bomberman (Japan).zip</path>
 		<name>봄버맨 (일본판)</name>
 		<image>./snap/Bomberman (Japan).png</image>
-		<video>./snap/Bomberman (Japan).mp4</video>
+		<video>./video/Bomberman (Japan).mp4</video>
 		<marquee>./marquee/Bomberman (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>터보 테크놀리지</publisher>
@@ -431,7 +431,7 @@
 		<path>./Bomberman (USA).zip</path>
 		<name>봄버맨</name>
 		<image>./snap/Bomberman (USA).png</image>
-		<video>./snap/Bomberman (USA).mp4</video>
+		<video>./video/Bomberman (USA).mp4</video>
 		<marquee>./marquee/Bomberman (USA).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>터보 테크놀리지</publisher>
@@ -442,7 +442,7 @@
 		<path>./Bomberman - Users Battle (Japan).zip</path>
 		<name>봄버맨 유저 배틀 (일본판)</name>
 		<image>./snap/Bomberman - Users Battle (Japan).png</image>
-		<video>./snap/Bomberman - Users Battle (Japan).mp4</video>
+		<video>./video/Bomberman - Users Battle (Japan).mp4</video>
 		<marquee>./marquee/Bomberman - Users Battle (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
@@ -453,7 +453,7 @@
 		<path>./Bonk 3 - Bonk's Big Adventure (USA).zip</path>
 		<name>봉크 3 -봉크의 대모험</name>
 		<image>./snap/Bonk 3 - Bonk's Big Adventure (USA).png</image>
-		<video>./snap/Bonk 3 - Bonk's Big Adventure (USA).mp4</video>
+		<video>./video/Bonk 3 - Bonk's Big Adventure (USA).mp4</video>
 		<marquee>./marquee/Bonk 3 - Bonk's Big Adventure (USA).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>터보 테크놀리지</publisher>
@@ -464,7 +464,7 @@
 		<path>./Bonk's Adventure (USA).zip</path>
 		<name>봉크의 모험</name>
 		<image>./snap/Bonk's Adventure (USA).png</image>
-		<video>./snap/Bonk's Adventure (USA).mp4</video>
+		<video>./video/Bonk's Adventure (USA).mp4</video>
 		<marquee>./marquee/Bonk's Adventure (USA).png</marquee>
 		<developer>아틀러스</developer>
 		<publisher>허드슨</publisher>
@@ -475,7 +475,7 @@
 		<path>./Bonk's Revenge (USA).zip</path>
 		<name>봉크의 복수</name>
 		<image>./snap/Bonk's Revenge (USA).png</image>
-		<video>./snap/Bonk's Revenge (USA).mp4</video>
+		<video>./video/Bonk's Revenge (USA).mp4</video>
 		<marquee>./marquee/Bonk's Revenge (USA).png</marquee>
 		<developer>레드 컴퍼니</developer>
 		<publisher>NEC</publisher>
@@ -486,7 +486,7 @@
 		<path>./Bonk's Revenge (USA, Europe) (Virtual Console).zip</path>
 		<name>봉크의 복수 (미국,유럽판)(버추얼 콘솔)</name>
 		<image>./snap/Bonk's Revenge (USA, Europe) (Virtual Console).png</image>
-		<video>./snap/Bonk's Revenge (USA, Europe) (Virtual Console).mp4</video>
+		<video>./video/Bonk's Revenge (USA, Europe) (Virtual Console).mp4</video>
 		<marquee>./marquee/Bonk's Revenge (USA, Europe) (Virtual Console).png</marquee>
 		<developer>레드 컴퍼니</developer>
 		<publisher>NEC</publisher>
@@ -497,7 +497,7 @@
 		<path>./Bouken Danshaku Don - The Lost Sunheart (Japan).zip</path>
 		<name>모험 남작 돈 - 태양가슴편 (일본판)</name>
 		<image>./snap/Bouken Danshaku Don - The Lost Sunheart (Japan).png</image>
-		<video>./snap/Bouken Danshaku Don - The Lost Sunheart (Japan).mp4</video>
+		<video>./video/Bouken Danshaku Don - The Lost Sunheart (Japan).mp4</video>
 		<marquee>./marquee/Bouken Danshaku Don - The Lost Sunheart (Japan).png</marquee>
 		<developer>만청당</developer>
 		<publisher>아이맥스</publisher>
@@ -508,7 +508,7 @@
 		<path>./Boxyboy (USA).zip</path>
 		<name>박시 보이</name>
 		<image>./snap/Boxyboy (USA).png</image>
-		<video>./snap/Boxyboy (USA).mp4</video>
+		<video>./video/Boxyboy (USA).mp4</video>
 		<marquee>./marquee/Boxyboy (USA).png</marquee>
 		<developer>NEC</developer>
 		<publisher>미디어링</publisher>
@@ -519,7 +519,7 @@
 		<path>./Bravoman (USA).zip</path>
 		<name>초절륜인 브라보맨</name>
 		<image>./snap/Bravoman (USA).png</image>
-		<video>./snap/Bravoman (USA).mp4</video>
+		<video>./video/Bravoman (USA).mp4</video>
 		<marquee>./marquee/Bravoman (USA).png</marquee>
 		<developer>나우 프로덕션</developer>
 		<publisher>터보 테크놀리지</publisher>
@@ -530,7 +530,7 @@
 		<path>./Break In (Japan).zip</path>
 		<name>브레이크 인 (일본판)</name>
 		<image>./snap/Break In (Japan).png</image>
-		<video>./snap/Break In (Japan).mp4</video>
+		<video>./video/Break In (Japan).mp4</video>
 		<marquee>./marquee/Break In (Japan).png</marquee>
 		<developer>낙삿 소프트</developer>
 		<publisher>낙삿 소프트</publisher>
@@ -541,7 +541,7 @@
 		<path>./Bubblegum Crash! - Knight Sabers 2034 (Japan).zip</path>
 		<name>버블검 크래시-나이트 세이버즈 2034 (일본판)</name>
 		<image>./snap/Bubblegum Crash! - Knight Sabers 2034 (Japan).png</image>
-		<video>./snap/Bubblegum Crash! - Knight Sabers 2034 (Japan).mp4</video>
+		<video>./video/Bubblegum Crash! - Knight Sabers 2034 (Japan).mp4</video>
 		<marquee>./marquee/Bubblegum Crash! - Knight Sabers 2034 (Japan).png</marquee>
 		<developer>스피엘</developer>
 		<publisher>낙삿 소프트</publisher>
@@ -552,7 +552,7 @@
 		<path>./Bull Fight - Ring no Hasha (Japan).zip</path>
 		<name>불 파이트 - 링의 패자 (일본판)</name>
 		<image>./snap/Bull Fight - Ring no Hasha (Japan).png</image>
-		<video>./snap/Bull Fight - Ring no Hasha (Japan).mp4</video>
+		<video>./video/Bull Fight - Ring no Hasha (Japan).mp4</video>
 		<marquee>./marquee/Bull Fight - Ring no Hasha (Japan).png</marquee>
 		<developer>크림</developer>
 		<publisher>크림</publisher>
@@ -563,7 +563,7 @@
 		<path>./Burning Angels (Japan).zip</path>
 		<name>버닝 엔젤스 (일본판)</name>
 		<image>./snap/Burning Angels (Japan).png</image>
-		<video>./snap/Burning Angels (Japan).mp4</video>
+		<video>./video/Burning Angels (Japan).mp4</video>
 		<marquee>./marquee/Burning Angels (Japan).png</marquee>
 		<developer>잡</developer>
 		<publisher>낙삿 소프트</publisher>
@@ -574,7 +574,7 @@
 		<path>./Busou Keiji - Cyber Cross (Japan).zip</path>
 		<name>무장형사 사이버 크로스 (일본판)</name>
 		<image>./snap/Busou Keiji - Cyber Cross (Japan).png</image>
-		<video>./snap/Busou Keiji - Cyber Cross (Japan).mp4</video>
+		<video>./video/Busou Keiji - Cyber Cross (Japan).mp4</video>
 		<marquee>./marquee/Busou Keiji - Cyber Cross (Japan).png</marquee>
 		<developer>페이스</developer>
 		<publisher>페이스</publisher>
@@ -585,7 +585,7 @@
 		<path>./Cadash (Japan).zip</path>
 		<name>카다쉬 (일본판)</name>
 		<image>./snap/Cadash (Japan).png</image>
-		<video>./snap/Cadash (Japan).mp4</video>
+		<video>./video/Cadash (Japan).mp4</video>
 		<marquee>./marquee/Cadash (Japan).png</marquee>
 		<developer>타이토</developer>
 		<publisher>워킹 디자인</publisher>
@@ -596,7 +596,7 @@
 		<path>./Cadash (USA).zip</path>
 		<name>카다쉬</name>
 		<image>./snap/Cadash (USA).png</image>
-		<video>./snap/Cadash (USA).mp4</video>
+		<video>./video/Cadash (USA).mp4</video>
 		<marquee>./marquee/Cadash (USA).png</marquee>
 		<developer>타이토</developer>
 		<publisher>워킹 디자인</publisher>
@@ -607,7 +607,7 @@
 		<path>./Champion Wrestler (Japan).zip</path>
 		<name>챔피언 레슬러 (일본판)</name>
 		<image>./snap/Champion Wrestler (Japan).png</image>
-		<video>./snap/Champion Wrestler (Japan).mp4</video>
+		<video>./video/Champion Wrestler (Japan).mp4</video>
 		<marquee>./marquee/Champion Wrestler (Japan).png</marquee>
 		<developer>타이토</developer>
 		<publisher>타이토</publisher>
@@ -618,7 +618,7 @@
 		<path>./Champions Forever Boxing (USA).zip</path>
 		<name>챔피언 포에버 복싱</name>
 		<image>./snap/Champions Forever Boxing (USA).png</image>
-		<video>./snap/Champions Forever Boxing (USA).mp4</video>
+		<video>./video/Champions Forever Boxing (USA).mp4</video>
 		<marquee>./marquee/Champions Forever Boxing (USA).png</marquee>
 		<developer>디스팅티브 소프트웨어</developer>
 		<publisher>NEC</publisher>
@@ -629,7 +629,7 @@
 		<path>./Chase H.Q. (USA).zip</path>
 		<name>체이스 H.Q.</name>
 		<image>./snap/Chase H.Q. (USA).png</image>
-		<video>./snap/Chase H.Q. (USA).mp4</video>
+		<video>./video/Chase H.Q. (USA).mp4</video>
 		<marquee>./marquee/Chase H.Q. (USA).png</marquee>
 		<developer/>
 		<publisher/>
@@ -640,7 +640,7 @@
 		<path>./Chew-Man-Fu (USA).zip</path>
 		<name>츄맨푸</name>
 		<image>./snap/Chew-Man-Fu (USA).png</image>
-		<video>./snap/Chew-Man-Fu (USA).mp4</video>
+		<video>./video/Chew-Man-Fu (USA).mp4</video>
 		<marquee>./marquee/Chew-Man-Fu (USA).png</marquee>
 		<developer>나우 프로덕션</developer>
 		<publisher>NEC</publisher>
@@ -651,7 +651,7 @@
 		<path>./Chibi Maruko-chan - Quiz de Piihyara (Japan).zip</path>
 		<name>치비 마루코짱 - 퀴즈 데 피햐라 (일본판)</name>
 		<image>./snap/Chibi Maruko-chan - Quiz de Piihyara (Japan).png</image>
-		<video>./snap/Chibi Maruko-chan - Quiz de Piihyara (Japan).mp4</video>
+		<video>./video/Chibi Maruko-chan - Quiz de Piihyara (Japan).mp4</video>
 		<marquee>./marquee/Chibi Maruko-chan - Quiz de Piihyara (Japan).png</marquee>
 		<developer>남코</developer>
 		<publisher>남코</publisher>
@@ -662,7 +662,7 @@
 		<path>./Chikudenya Toubei - Kubikiri Yakata Yori (Japan).zip</path>
 		<name>축전옥 토우베이 (일본판)</name>
 		<image>./snap/Chikudenya Toubei - Kubikiri Yakata Yori (Japan).png</image>
-		<video>./snap/Chikudenya Toubei - Kubikiri Yakata Yori (Japan).mp4</video>
+		<video>./video/Chikudenya Toubei - Kubikiri Yakata Yori (Japan).mp4</video>
 		<marquee>./marquee/Chikudenya Toubei - Kubikiri Yakata Yori (Japan).png</marquee>
 		<developer>낙삿 소프트</developer>
 		<publisher>낙삿 소프트</publisher>
@@ -673,7 +673,7 @@
 		<path>./China Warrior (USA).zip</path>
 		<name>쿵푸 - 차이나 워리어</name>
 		<image>./snap/China Warrior (USA).png</image>
-		<video>./snap/China Warrior (USA).mp4</video>
+		<video>./video/China Warrior (USA).mp4</video>
 		<marquee>./marquee/China Warrior (USA).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>NEC</publisher>
@@ -684,7 +684,7 @@
 		<path>./Chouzetsurinjin Bravoman (Japan).zip</path>
 		<name>초절륜인 브라보맨 (일본판)</name>
 		<image>./snap/Chouzetsurinjin Bravoman (Japan).png</image>
-		<video>./snap/Chouzetsurinjin Bravoman (Japan).mp4</video>
+		<video>./video/Chouzetsurinjin Bravoman (Japan).mp4</video>
 		<marquee>./marquee/Chouzetsurinjin Bravoman (Japan).png</marquee>
 		<developer>나우 프로덕션</developer>
 		<publisher>터보 테크놀리지</publisher>
@@ -695,7 +695,7 @@
 		<path>./Circus Lido (Japan).zip</path>
 		<name>서커스 리도 (일본판)</name>
 		<image>./snap/Circus Lido (Japan).png</image>
-		<video>./snap/Circus Lido (Japan).mp4</video>
+		<video>./video/Circus Lido (Japan).mp4</video>
 		<marquee>./marquee/Circus Lido (Japan).png</marquee>
 		<developer>유니포스트</developer>
 		<publisher>유니포스트</publisher>
@@ -706,7 +706,7 @@
 		<path>./City Hunter (Japan).zip</path>
 		<name>시티헌터 (일본판)</name>
 		<image>./snap/City Hunter (Japan).png</image>
-		<video>./snap/City Hunter (Japan).mp4</video>
+		<video>./video/City Hunter (Japan).mp4</video>
 		<marquee>./marquee/City Hunter (Japan).png</marquee>
 		<developer>선소프트</developer>
 		<publisher>선소프트</publisher>
@@ -717,7 +717,7 @@
 		<path>./Columns (Japan).zip</path>
 		<name>컬럼즈 (일본판)</name>
 		<image>./snap/Columns (Japan).png</image>
-		<video>./snap/Columns (Japan).mp4</video>
+		<video>./video/Columns (Japan).mp4</video>
 		<marquee>./marquee/Columns (Japan).png</marquee>
 		<developer>레이져 소프트</developer>
 		<publisher>레이져 소프트</publisher>
@@ -728,7 +728,7 @@
 		<path>./Coryoon - Child of Dragon (Japan).zip</path>
 		<name>코륜 - 차일드 오브 드래곤 (일본판)</name>
 		<image>./snap/Coryoon - Child of Dragon (Japan).png</image>
-		<video>./snap/Coryoon - Child of Dragon (Japan).mp4</video>
+		<video>./video/Coryoon - Child of Dragon (Japan).mp4</video>
 		<marquee>./marquee/Coryoon - Child of Dragon (Japan).png</marquee>
 		<developer>낙삿 소프트</developer>
 		<publisher>낙삿 소프트</publisher>
@@ -739,7 +739,7 @@
 		<path>./Cratermaze (USA).zip</path>
 		<name>미궁대작전</name>
 		<image>./snap/Cratermaze (USA).png</image>
-		<video>./snap/Cratermaze (USA).mp4</video>
+		<video>./video/Cratermaze (USA).mp4</video>
 		<marquee>./marquee/Cratermaze (USA).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>NEC</publisher>
@@ -750,7 +750,7 @@
 		<path>./Cross Wiber - Cyber Combat Police (Japan).zip</path>
 		<name>크로스 위버 - 컴뱃 폴리스 (일본판)</name>
 		<image>./snap/Cross Wiber - Cyber Combat Police (Japan).png</image>
-		<video>./snap/Cross Wiber - Cyber Combat Police (Japan).mp4</video>
+		<video>./video/Cross Wiber - Cyber Combat Police (Japan).mp4</video>
 		<marquee>./marquee/Cross Wiber - Cyber Combat Police (Japan).png</marquee>
 		<developer>참근도</developer>
 		<publisher>페이스</publisher>
@@ -761,7 +761,7 @@
 		<path>./Cyber Core (Japan).zip</path>
 		<name>사이버 코어 (일본판)</name>
 		<image>./snap/Cyber Core (Japan).png</image>
-		<video>./snap/Cyber Core (Japan).mp4</video>
+		<video>./video/Cyber Core (Japan).mp4</video>
 		<marquee>./marquee/Cyber Core (Japan).png</marquee>
 		<developer>알파 시스템</developer>
 		<publisher>NEC</publisher>
@@ -772,7 +772,7 @@
 		<path>./Cyber Core (USA).zip</path>
 		<name>사이버 코어</name>
 		<image>./snap/Cyber Core (USA).png</image>
-		<video>./snap/Cyber Core (USA).mp4</video>
+		<video>./video/Cyber Core (USA).mp4</video>
 		<marquee>./marquee/Cyber Core (USA).png</marquee>
 		<developer>알파 시스템</developer>
 		<publisher>NEC</publisher>
@@ -783,7 +783,7 @@
 		<path>./Cyber Dodge (Japan).zip</path>
 		<name>사이버 돗지볼 (일본판)</name>
 		<image>./snap/Cyber Dodge (Japan).png</image>
-		<video>./snap/Cyber Dodge (Japan).mp4</video>
+		<video>./video/Cyber Dodge (Japan).mp4</video>
 		<marquee>./marquee/Cyber Dodge (Japan).png</marquee>
 		<developer>토킨하우스</developer>
 		<publisher>토킨하우스</publisher>
@@ -794,7 +794,7 @@
 		<path>./Cyber Knight (Japan).zip</path>
 		<name>사이버 나이트 (일본판)</name>
 		<image>./snap/Cyber Knight (Japan).png</image>
-		<video>./snap/Cyber Knight (Japan).mp4</video>
+		<video>./video/Cyber Knight (Japan).mp4</video>
 		<marquee>./marquee/Cyber Knight (Japan).png</marquee>
 		<developer>컴파일</developer>
 		<publisher>토킨하우스</publisher>
@@ -805,7 +805,7 @@
 		<path>./Daichi-kun Crisis - Do Natural (Japan).zip</path>
 		<name>대지의 대위기 - 자연으로 (일본판)</name>
 		<image>./snap/Daichi-kun Crisis - Do Natural (Japan).png</image>
-		<video>./snap/Daichi-kun Crisis - Do Natural (Japan).mp4</video>
+		<video>./video/Daichi-kun Crisis - Do Natural (Japan).mp4</video>
 		<marquee>./marquee/Daichi-kun Crisis - Do Natural (Japan).png</marquee>
 		<developer>살리오</developer>
 		<publisher>살리오</publisher>
@@ -816,7 +816,7 @@
 		<path>./Daisenpuu (Japan).zip</path>
 		<name>대선풍 (일본판)</name>
 		<image>./snap/Daisenpuu (Japan).png</image>
-		<video>./snap/Daisenpuu (Japan).mp4</video>
+		<video>./video/Daisenpuu (Japan).mp4</video>
 		<marquee>./marquee/Daisenpuu (Japan).png</marquee>
 		<developer>토아플랜</developer>
 		<publisher>NEC</publisher>
@@ -827,7 +827,7 @@
 		<path>./Darius Alpha (Japan) (SG Enhanced).zip</path>
 		<name>다리우스 알파 (일본판)</name>
 		<image>./snap/Darius Alpha (Japan) (SG Enhanced).png</image>
-		<video>./snap/Darius Alpha (Japan) (SG Enhanced).mp4</video>
+		<video>./video/Darius Alpha (Japan) (SG Enhanced).mp4</video>
 		<marquee>./marquee/Darius Alpha (Japan) (SG Enhanced).png</marquee>
 		<developer>비츠 랩</developer>
 		<publisher>NEC 인터채널</publisher>
@@ -838,7 +838,7 @@
 		<path>./Darius Plus (Japan) (SG Enhanced).zip</path>
 		<name>다리우스 플러스 (일본판)</name>
 		<image>./snap/Darius Plus (Japan) (SG Enhanced).png</image>
-		<video>./snap/Darius Plus (Japan) (SG Enhanced).mp4</video>
+		<video>./video/Darius Plus (Japan) (SG Enhanced).mp4</video>
 		<marquee>./marquee/Darius Plus (Japan) (SG Enhanced).png</marquee>
 		<developer>비츠 랩</developer>
 		<publisher>NEC 인터채널</publisher>
@@ -849,7 +849,7 @@
 		<path>./Darkwing Duck (USA).zip</path>
 		<name>다크윙 덕</name>
 		<image>./snap/Darkwing Duck (USA).png</image>
-		<video>./snap/Darkwing Duck (USA).mp4</video>
+		<video>./video/Darkwing Duck (USA).mp4</video>
 		<marquee>./marquee/Darkwing Duck (USA).png</marquee>
 		<developer>터보 테크놀리지</developer>
 		<publisher>래디언스 소프트웨어</publisher>
@@ -860,7 +860,7 @@
 		<path>./Davis Cup Tennis (USA).zip</path>
 		<name>데이비스컵 테니스</name>
 		<image>./snap/Davis Cup Tennis (USA).png</image>
-		<video>./snap/Davis Cup Tennis (USA).mp4</video>
+		<video>./video/Davis Cup Tennis (USA).mp4</video>
 		<marquee>./marquee/Davis Cup Tennis (USA).png</marquee>
 		<developer>로리시엘</developer>
 		<publisher>마이크로 월드</publisher>
@@ -871,7 +871,7 @@
 		<path>./Dead Moon (USA).zip</path>
 		<name>데드문 - 달세계의 악몽</name>
 		<image>./snap/Dead Moon (USA).png</image>
-		<video>./snap/Dead Moon (USA).mp4</video>
+		<video>./video/Dead Moon (USA).mp4</video>
 		<marquee>./marquee/Dead Moon (USA).png</marquee>
 		<developer>스튜디오 덕스</developer>
 		<publisher>나츠메</publisher>
@@ -882,7 +882,7 @@
 		<path>./Dead Moon - Getsu Sekai no Akumu (Japan).zip</path>
 		<name>데드문 - 달세계의 악몽 (일본판)</name>
 		<image>./snap/Dead Moon - Getsu Sekai no Akumu (Japan).png</image>
-		<video>./snap/Dead Moon - Getsu Sekai no Akumu (Japan).mp4</video>
+		<video>./video/Dead Moon - Getsu Sekai no Akumu (Japan).mp4</video>
 		<marquee>./marquee/Dead Moon - Getsu Sekai no Akumu (Japan).png</marquee>
 		<developer>스튜디오 덕스</developer>
 		<publisher>나츠메</publisher>
@@ -893,7 +893,7 @@
 		<path>./Deep Blue (USA).zip</path>
 		<name>딥 블루 - 해저신화</name>
 		<image>./snap/Deep Blue (USA).png</image>
-		<video>./snap/Deep Blue (USA).mp4</video>
+		<video>./video/Deep Blue (USA).mp4</video>
 		<marquee>./marquee/Deep Blue (USA).png</marquee>
 		<developer>팩인 비디오</developer>
 		<publisher>NEC</publisher>
@@ -904,7 +904,7 @@
 		<path>./Deep Blue - Kaitei Shinwa (Japan).zip</path>
 		<name>딥 블루 - 해저신화 (일본판)</name>
 		<image>./snap/Deep Blue - Kaitei Shinwa (Japan).png</image>
-		<video>./snap/Deep Blue - Kaitei Shinwa (Japan).mp4</video>
+		<video>./video/Deep Blue - Kaitei Shinwa (Japan).mp4</video>
 		<marquee>./marquee/Deep Blue - Kaitei Shinwa (Japan).png</marquee>
 		<developer>팩인 비디오</developer>
 		<publisher>NEC</publisher>
@@ -915,7 +915,7 @@
 		<path>./Detana!! TwinBee (Japan).zip</path>
 		<name>나왔다!! 트윈비 (일본판)</name>
 		<image>./snap/Detana!! TwinBee (Japan).png</image>
-		<video>./snap/Detana!! TwinBee (Japan).mp4</video>
+		<video>./video/Detana!! TwinBee (Japan).mp4</video>
 		<marquee>./marquee/Detana!! TwinBee (Japan).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -926,7 +926,7 @@
 		<path>./Devil Crash - Naxat Pinball (Japan).zip</path>
 		<name>데빌 크래쉬 (일본판)</name>
 		<image>./snap/Devil Crash - Naxat Pinball (Japan).png</image>
-		<video>./snap/Devil Crash - Naxat Pinball (Japan).mp4</video>
+		<video>./video/Devil Crash - Naxat Pinball (Japan).mp4</video>
 		<marquee>./marquee/Devil Crash - Naxat Pinball (Japan).png</marquee>
 		<developer>컴파일</developer>
 		<publisher>NEC</publisher>
@@ -937,7 +937,7 @@
 		<path>./Devil's Crush (USA).zip</path>
 		<name>데빌 크러시</name>
 		<image>./snap/Devil's Crush (USA).png</image>
-		<video>./snap/Devil's Crush (USA).mp4</video>
+		<video>./video/Devil's Crush (USA).mp4</video>
 		<marquee>./marquee/Devil's Crush (USA).png</marquee>
 		<developer>컴파일</developer>
 		<publisher>NEC</publisher>
@@ -948,7 +948,7 @@
 		<path>./Die Hard (Japan).zip</path>
 		<name>다이하드 (일본판)</name>
 		<image>./snap/Die Hard (Japan).png</image>
-		<video>./snap/Die Hard (Japan).mp4</video>
+		<video>./video/Die Hard (Japan).mp4</video>
 		<marquee>./marquee/Die Hard (Japan).png</marquee>
 		<developer>팩인 비디오</developer>
 		<publisher>NEC 인터채널</publisher>
@@ -959,7 +959,7 @@
 		<path>./Digital Champ (Japan).zip</path>
 		<name>디지털 챔프 배틀 복싱 (일본판)</name>
 		<image>./snap/Digital Champ (Japan).png</image>
-		<video>./snap/Digital Champ (Japan).mp4</video>
+		<video>./video/Digital Champ (Japan).mp4</video>
 		<marquee>./marquee/Digital Champ (Japan).png</marquee>
 		<developer>낙삿 소프트</developer>
 		<publisher>낙삿 소프트</publisher>
@@ -970,7 +970,7 @@
 		<path>./Don Doko Don! (Japan).zip</path>
 		<name>돈 도코 돈 (일본판)</name>
 		<image>./snap/Don Doko Don! (Japan).png</image>
-		<video>./snap/Don Doko Don! (Japan).mp4</video>
+		<video>./video/Don Doko Don! (Japan).mp4</video>
 		<marquee>./marquee/Don Doko Don! (Japan).png</marquee>
 		<developer>타이토</developer>
 		<publisher>타이토</publisher>
@@ -981,7 +981,7 @@
 		<path>./Doraemon - Meikyuu Daisakusen (Japan).zip</path>
 		<name>도라에몽 - 미궁대작전 (일본판)</name>
 		<image>./snap/Doraemon - Meikyuu Daisakusen (Japan).png</image>
-		<video>./snap/Doraemon - Meikyuu Daisakusen (Japan).mp4</video>
+		<video>./video/Doraemon - Meikyuu Daisakusen (Japan).mp4</video>
 		<marquee>./marquee/Doraemon - Meikyuu Daisakusen (Japan).png</marquee>
 		<developer>일본 물산</developer>
 		<publisher>NEC</publisher>
@@ -992,7 +992,7 @@
 		<path>./Doraemon - Nobita no Dorabian Night (Japan).zip</path>
 		<name>도라에몽 - 노비타의 도라비안 나이트 (일본판)</name>
 		<image>./snap/Doraemon - Nobita no Dorabian Night (Japan).png</image>
-		<video>./snap/Doraemon - Nobita no Dorabian Night (Japan).mp4</video>
+		<video>./video/Doraemon - Nobita no Dorabian Night (Japan).mp4</video>
 		<marquee>./marquee/Doraemon - Nobita no Dorabian Night (Japan).png</marquee>
 		<developer>나우 프로덕션</developer>
 		<publisher>허드슨</publisher>
@@ -1003,7 +1003,7 @@
 		<path>./Double Dungeons (Japan).zip</path>
 		<name>더블 던젼스 (일본판)</name>
 		<image>./snap/Double Dungeons (Japan).png</image>
-		<video>./snap/Double Dungeons (Japan).mp4</video>
+		<video>./video/Double Dungeons (Japan).mp4</video>
 		<marquee>./marquee/Double Dungeons (Japan).png</marquee>
 		<developer>NCS</developer>
 		<publisher>마사야</publisher>
@@ -1014,7 +1014,7 @@
 		<path>./Double Dungeons (USA).zip</path>
 		<name>더블 던젼스</name>
 		<image>./snap/Double Dungeons (USA).png</image>
-		<video>./snap/Double Dungeons (USA).mp4</video>
+		<video>./video/Double Dungeons (USA).mp4</video>
 		<marquee>./marquee/Double Dungeons (USA).png</marquee>
 		<developer>NCS</developer>
 		<publisher>마사야</publisher>
@@ -1025,7 +1025,7 @@
 		<path>./Download (Japan).zip</path>
 		<name>다운로드 (일본판)</name>
 		<image>./snap/Download (Japan).png</image>
-		<video>./snap/Download (Japan).mp4</video>
+		<video>./video/Download (Japan).mp4</video>
 		<marquee>./marquee/Download (Japan).png</marquee>
 		<developer>알파 시스템</developer>
 		<publisher>NEC 인터채널</publisher>
@@ -1036,7 +1036,7 @@
 		<path>./Dragon Egg! (Japan).zip</path>
 		<name>드래곤 에그 (일본판)</name>
 		<image>./snap/Dragon Egg! (Japan).png</image>
-		<video>./snap/Dragon Egg! (Japan).mp4</video>
+		<video>./video/Dragon Egg! (Japan).mp4</video>
 		<marquee>./marquee/Dragon Egg! (Japan).png</marquee>
 		<developer>마사야</developer>
 		<publisher>NCS</publisher>
@@ -1047,7 +1047,7 @@
 		<path>./Dragon Saber - After Story of Dragon Spirit (Japan).zip</path>
 		<name>드래곤 세이버 (일본판)</name>
 		<image>./snap/Dragon Saber - After Story of Dragon Spirit (Japan).png</image>
-		<video>./snap/Dragon Saber - After Story of Dragon Spirit (Japan).mp4</video>
+		<video>./video/Dragon Saber - After Story of Dragon Spirit (Japan).mp4</video>
 		<marquee>./marquee/Dragon Saber - After Story of Dragon Spirit (Japan).png</marquee>
 		<developer>남코</developer>
 		<publisher>남코</publisher>
@@ -1058,7 +1058,7 @@
 		<path>./Dragon Spirit (Japan).zip</path>
 		<name>드래곤 스피릿 (일본판)</name>
 		<image>./snap/Dragon Spirit (Japan).png</image>
-		<video>./snap/Dragon Spirit (Japan).mp4</video>
+		<video>./video/Dragon Spirit (Japan).mp4</video>
 		<marquee>./marquee/Dragon Spirit (Japan).png</marquee>
 		<developer>남코</developer>
 		<publisher>NEC</publisher>
@@ -1069,7 +1069,7 @@
 		<path>./Dragon Spirit (USA).zip</path>
 		<name>드래곤 스피릿</name>
 		<image>./snap/Dragon Spirit (USA).png</image>
-		<video>./snap/Dragon Spirit (USA).mp4</video>
+		<video>./video/Dragon Spirit (USA).mp4</video>
 		<marquee>./marquee/Dragon Spirit (USA).png</marquee>
 		<developer>남코</developer>
 		<publisher>NEC</publisher>
@@ -1080,7 +1080,7 @@
 		<path>./Dragon's Curse (USA).zip</path>
 		<name>모험도</name>
 		<image>./snap/Dragon's Curse (USA).png</image>
-		<video>./snap/Dragon's Curse (USA).mp4</video>
+		<video>./video/Dragon's Curse (USA).mp4</video>
 		<marquee>./marquee/Dragon's Curse (USA).png</marquee>
 		<developer>웨스톤</developer>
 		<publisher>NEC</publisher>
@@ -1091,7 +1091,7 @@
 		<path>./Drop Off (USA).zip</path>
 		<name>드롭 오프</name>
 		<image>./snap/Drop Off (USA).png</image>
-		<video>./snap/Drop Off (USA).mp4</video>
+		<video>./video/Drop Off (USA).mp4</video>
 		<marquee>./marquee/Drop Off (USA).png</marquee>
 		<developer>데이터 이스트</developer>
 		<publisher>NEC</publisher>
@@ -1102,7 +1102,7 @@
 		<path>./Drop Rock Hora Hora (Japan).zip</path>
 		<name>드롭 락 호라호라 (일본판)</name>
 		<image>./snap/Drop Rock Hora Hora (Japan).png</image>
-		<video>./snap/Drop Rock Hora Hora (Japan).mp4</video>
+		<video>./video/Drop Rock Hora Hora (Japan).mp4</video>
 		<marquee>./marquee/Drop Rock Hora Hora (Japan).png</marquee>
 		<developer>데이터 이스트</developer>
 		<publisher>NEC</publisher>
@@ -1113,7 +1113,7 @@
 		<path>./Dungeon Explorer (Japan).zip</path>
 		<name>던전 익스플로러 (일본판)</name>
 		<image>./snap/Dungeon Explorer (Japan).png</image>
-		<video>./snap/Dungeon Explorer (Japan).mp4</video>
+		<video>./video/Dungeon Explorer (Japan).mp4</video>
 		<marquee>./marquee/Dungeon Explorer (Japan).png</marquee>
 		<developer>아틀러스</developer>
 		<publisher>NEC</publisher>
@@ -1124,7 +1124,7 @@
 		<path>./Dungeon Explorer (USA).zip</path>
 		<name>던전 익스플로러</name>
 		<image>./snap/Dungeon Explorer (USA).png</image>
-		<video>./snap/Dungeon Explorer (USA).mp4</video>
+		<video>./video/Dungeon Explorer (USA).mp4</video>
 		<marquee>./marquee/Dungeon Explorer (USA).png</marquee>
 		<developer>아틀러스</developer>
 		<publisher>NEC</publisher>
@@ -1135,7 +1135,7 @@
 		<path>./Dungeons &amp; Dragons - Order of the Griffon (USA).zip</path>
 		<name>던전 앤 드래곤 - 오더 오브 그리폰</name>
 		<image>./snap/Dungeons &amp; Dragons - Order of the Griffon (USA).png</image>
-		<video>./snap/Dungeons &amp; Dragons - Order of the Griffon (USA).mp4</video>
+		<video>./video/Dungeons &amp; Dragons - Order of the Griffon (USA).mp4</video>
 		<marquee>./marquee/Dungeons &amp; Dragons - Order of the Griffon (USA).png</marquee>
 		<developer/>
 		<publisher/>
@@ -1146,7 +1146,7 @@
 		<path>./Energy (Japan).zip</path>
 		<name>에너지 맨 (일본판)</name>
 		<image>./snap/Energy (Japan).png</image>
-		<video>./snap/Energy (Japan).mp4</video>
+		<video>./video/Energy (Japan).mp4</video>
 		<marquee>./marquee/Energy (Japan).png</marquee>
 		<developer>퀘이자 소프트</developer>
 		<publisher>NCS</publisher>
@@ -1157,7 +1157,7 @@
 		<path>./Eternal City - Toshi Tensou Keikaku (Japan).zip</path>
 		<name>도시전송계획 이터널시티 (일본판)</name>
 		<image>./snap/Eternal City - Toshi Tensou Keikaku (Japan).png</image>
-		<video>./snap/Eternal City - Toshi Tensou Keikaku (Japan).mp4</video>
+		<video>./video/Eternal City - Toshi Tensou Keikaku (Japan).mp4</video>
 		<marquee>./marquee/Eternal City - Toshi Tensou Keikaku (Japan).png</marquee>
 		<developer>낙삿 소프트</developer>
 		<publisher>낙삿 소프트</publisher>
@@ -1168,7 +1168,7 @@
 		<path>./F-1 Dream (Japan).zip</path>
 		<name>F-1 드림 (일본판)</name>
 		<image>./snap/F-1 Dream (Japan).png</image>
-		<video>./snap/F-1 Dream (Japan).mp4</video>
+		<video>./video/F-1 Dream (Japan).mp4</video>
 		<marquee>./marquee/F-1 Dream (Japan).png</marquee>
 		<developer>NEC 인터채널</developer>
 		<publisher>NEC 인터채널</publisher>
@@ -1179,7 +1179,7 @@
 		<path>./F-1 Pilot - You're King of Kings (Japan).zip</path>
 		<name>F-1 파일럿 (일본판)</name>
 		<image>./snap/F-1 Pilot - You're King of Kings (Japan).png</image>
-		<video>./snap/F-1 Pilot - You're King of Kings (Japan).mp4</video>
+		<video>./video/F-1 Pilot - You're King of Kings (Japan).mp4</video>
 		<marquee>./marquee/F-1 Pilot - You're King of Kings (Japan).png</marquee>
 		<developer>팩인 비디오</developer>
 		<publisher>팩인 비디오</publisher>
@@ -1190,7 +1190,7 @@
 		<path>./F1 Circus '91 - World Championship (Japan).zip</path>
 		<name>F1 서커스 91 - 월드 챔피언십 (일본판)</name>
 		<image>./snap/F1 Circus '91 - World Championship (Japan).png</image>
-		<video>./snap/F1 Circus '91 - World Championship (Japan).mp4</video>
+		<video>./video/F1 Circus '91 - World Championship (Japan).mp4</video>
 		<marquee>./marquee/F1 Circus '91 - World Championship (Japan).png</marquee>
 		<developer>일본 물산</developer>
 		<publisher>일본물산</publisher>
@@ -1201,7 +1201,7 @@
 		<path>./F1 Circus '92 - The Speed of Sound (Japan).zip</path>
 		<name>F1 서커스 92 - 소리의 속도 (일본판)</name>
 		<image>./snap/F1 Circus '92 - The Speed of Sound (Japan).png</image>
-		<video>./snap/F1 Circus '92 - The Speed of Sound (Japan).mp4</video>
+		<video>./video/F1 Circus '92 - The Speed of Sound (Japan).mp4</video>
 		<marquee>./marquee/F1 Circus '92 - The Speed of Sound (Japan).png</marquee>
 		<developer>일본 물산</developer>
 		<publisher>일본물산</publisher>
@@ -1212,7 +1212,7 @@
 		<path>./F1 Circus (Japan).zip</path>
 		<name>F1 서커스 (일본판)</name>
 		<image>./snap/F1 Circus (Japan).png</image>
-		<video>./snap/F1 Circus (Japan).mp4</video>
+		<video>./video/F1 Circus (Japan).mp4</video>
 		<marquee>./marquee/F1 Circus (Japan).png</marquee>
 		<developer>일본 물산</developer>
 		<publisher>일본물산</publisher>
@@ -1223,7 +1223,7 @@
 		<path>./F1 Triple Battle (Japan).zip</path>
 		<name>F1 트리플 배틀 (일본판)</name>
 		<image>./snap/F1 Triple Battle (Japan).png</image>
-		<video>./snap/F1 Triple Battle (Japan).mp4</video>
+		<video>./video/F1 Triple Battle (Japan).mp4</video>
 		<marquee>./marquee/F1 Triple Battle (Japan).png</marquee>
 		<developer>휴먼</developer>
 		<publisher>휴먼</publisher>
@@ -1234,7 +1234,7 @@
 		<path>./Falcon (USA).zip</path>
 		<name>팔콘</name>
 		<image>./snap/Falcon (USA).png</image>
-		<video>./snap/Falcon (USA).mp4</video>
+		<video>./video/Falcon (USA).mp4</video>
 		<marquee>./marquee/Falcon (USA).png</marquee>
 		<developer>스펙트럼 홀로바이츠</developer>
 		<publisher>스펙트럼 홀로바이츠</publisher>
@@ -1245,7 +1245,7 @@
 		<path>./Fantasy Zone (Japan).zip</path>
 		<name>판타지 존 (일본판)</name>
 		<image>./snap/Fantasy Zone (Japan).png</image>
-		<video>./snap/Fantasy Zone (Japan).mp4</video>
+		<video>./video/Fantasy Zone (Japan).mp4</video>
 		<marquee>./marquee/Fantasy Zone (Japan).png</marquee>
 		<developer>비츠 랩</developer>
 		<publisher>NEC 인터채널</publisher>
@@ -1256,7 +1256,7 @@
 		<path>./Fantasy Zone (USA).zip</path>
 		<name>판타지 존</name>
 		<image>./snap/Fantasy Zone (USA).png</image>
-		<video>./snap/Fantasy Zone (USA).mp4</video>
+		<video>./video/Fantasy Zone (USA).mp4</video>
 		<marquee>./marquee/Fantasy Zone (USA).png</marquee>
 		<developer>비츠 랩</developer>
 		<publisher>NEC 인터채널</publisher>
@@ -1267,7 +1267,7 @@
 		<path>./Fighting Run (Japan).zip</path>
 		<name>파이팅 런 (일본판)</name>
 		<image>./snap/Fighting Run (Japan).png</image>
-		<video>./snap/Fighting Run (Japan).mp4</video>
+		<video>./video/Fighting Run (Japan).mp4</video>
 		<marquee>./marquee/Fighting Run (Japan).png</marquee>
 		<developer>일본 물산</developer>
 		<publisher>일본 물산</publisher>
@@ -1278,7 +1278,7 @@
 		<path>./Final Blaster (Japan).zip</path>
 		<name>파이널 블래스터 (일본판)</name>
 		<image>./snap/Final Blaster (Japan).png</image>
-		<video>./snap/Final Blaster (Japan).mp4</video>
+		<video>./video/Final Blaster (Japan).mp4</video>
 		<marquee>./marquee/Final Blaster (Japan).png</marquee>
 		<developer>아이시스템 토쿄</developer>
 		<publisher>남코</publisher>
@@ -1289,7 +1289,7 @@
 		<path>./Final Lap Twin (Japan).zip</path>
 		<name>파이널 랩 트윈 (일본판)</name>
 		<image>./snap/Final Lap Twin (Japan).png</image>
-		<video>./snap/Final Lap Twin (Japan).mp4</video>
+		<video>./video/Final Lap Twin (Japan).mp4</video>
 		<marquee>./marquee/Final Lap Twin (Japan).png</marquee>
 		<developer>NEC 인터채널</developer>
 		<publisher>남코</publisher>
@@ -1300,7 +1300,7 @@
 		<path>./Final Lap Twin (USA).zip</path>
 		<name>파이널 랩 트윈</name>
 		<image>./snap/Final Lap Twin (USA).png</image>
-		<video>./snap/Final Lap Twin (USA).mp4</video>
+		<video>./video/Final Lap Twin (USA).mp4</video>
 		<marquee>./marquee/Final Lap Twin (USA).png</marquee>
 		<developer>NEC 인터채널</developer>
 		<publisher>남코</publisher>
@@ -1311,7 +1311,7 @@
 		<path>./Final Match Tennis (Japan).zip</path>
 		<name>파이널 매치 테니스 (일본판)</name>
 		<image>./snap/Final Match Tennis (Japan).png</image>
-		<video>./snap/Final Match Tennis (Japan).mp4</video>
+		<video>./video/Final Match Tennis (Japan).mp4</video>
 		<marquee>./marquee/Final Match Tennis (Japan).png</marquee>
 		<developer>휴먼</developer>
 		<publisher>휴먼</publisher>
@@ -1322,7 +1322,7 @@
 		<path>./Final Soldier (Japan) (En).zip</path>
 		<name>파이널 솔져 (일본판)(영어)</name>
 		<image>./snap/Final Soldier (Japan) (En).png</image>
-		<video>./snap/Final Soldier (Japan) (En).mp4</video>
+		<video>./video/Final Soldier (Japan) (En).mp4</video>
 		<marquee>./marquee/Final Soldier (Japan) (En).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
@@ -1333,7 +1333,7 @@
 		<path>./Final Soldier - Special Version (Japan) (En).zip</path>
 		<name>파이널 솔져 - 스페셜 버전 (일본판)(영어)</name>
 		<image>./snap/Final Soldier - Special Version (Japan) (En).png</image>
-		<video>./snap/Final Soldier - Special Version (Japan) (En).mp4</video>
+		<video>./video/Final Soldier - Special Version (Japan) (En).mp4</video>
 		<marquee>./marquee/Final Soldier - Special Version (Japan) (En).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
@@ -1344,7 +1344,7 @@
 		<path>./Fire Pro Wrestling - Combination Tag (Japan).zip</path>
 		<name>파이어 프로 레슬링 1 - 콤비네이션 태그 (일본판)</name>
 		<image>./snap/Fire Pro Wrestling - Combination Tag (Japan).png</image>
-		<video>./snap/Fire Pro Wrestling - Combination Tag (Japan).mp4</video>
+		<video>./video/Fire Pro Wrestling - Combination Tag (Japan).mp4</video>
 		<marquee>./marquee/Fire Pro Wrestling - Combination Tag (Japan).png</marquee>
 		<developer>휴먼</developer>
 		<publisher>휴먼</publisher>
@@ -1355,7 +1355,7 @@
 		<path>./Fire Pro Wrestling 2 - 2nd Bout (Japan).zip</path>
 		<name>파이어 프로 레슬링 2 - 세컨트 바우트 (일본판)</name>
 		<image>./snap/Fire Pro Wrestling 2 - 2nd Bout (Japan).png</image>
-		<video>./snap/Fire Pro Wrestling 2 - 2nd Bout (Japan).mp4</video>
+		<video>./video/Fire Pro Wrestling 2 - 2nd Bout (Japan).mp4</video>
 		<marquee>./marquee/Fire Pro Wrestling 2 - 2nd Bout (Japan).png</marquee>
 		<developer/>
 		<publisher/>
@@ -1366,7 +1366,7 @@
 		<path>./Fire Pro Wrestling 3 - Legend Bout (Japan).zip</path>
 		<name>파이어 프로 레슬링 3 - 레전드 바우트 (일본판)</name>
 		<image>./snap/Fire Pro Wrestling 3 - Legend Bout (Japan).png</image>
-		<video>./snap/Fire Pro Wrestling 3 - Legend Bout (Japan).mp4</video>
+		<video>./video/Fire Pro Wrestling 3 - Legend Bout (Japan).mp4</video>
 		<marquee>./marquee/Fire Pro Wrestling 3 - Legend Bout (Japan).png</marquee>
 		<developer/>
 		<publisher/>
@@ -1377,7 +1377,7 @@
 		<path>./Formation Soccer - Human Cup '90 (Japan).zip</path>
 		<name>포메이션 사커 - 휴먼컵 (일본판)</name>
 		<image>./snap/Formation Soccer - Human Cup '90 (Japan).png</image>
-		<video>./snap/Formation Soccer - Human Cup '90 (Japan).mp4</video>
+		<video>./video/Formation Soccer - Human Cup '90 (Japan).mp4</video>
 		<marquee>./marquee/Formation Soccer - Human Cup '90 (Japan).png</marquee>
 		<developer>휴먼</developer>
 		<publisher>휴먼</publisher>
@@ -1388,7 +1388,7 @@
 		<path>./Formation Soccer - On J League (Japan).zip</path>
 		<name>포메이션 사커 - J 리그 (일본판)</name>
 		<image>./snap/Formation Soccer - On J League (Japan).png</image>
-		<video>./snap/Formation Soccer - On J League (Japan).mp4</video>
+		<video>./video/Formation Soccer - On J League (Japan).mp4</video>
 		<marquee>./marquee/Formation Soccer - On J League (Japan).png</marquee>
 		<developer>휴먼</developer>
 		<publisher>휴먼</publisher>
@@ -1399,7 +1399,7 @@
 		<path>./Fushigi no Yume no Alice (Japan).zip</path>
 		<name>불가사의한 꿈의 엘리스 (일본판)</name>
 		<image>./snap/Fushigi no Yume no Alice (Japan).png</image>
-		<video>./snap/Fushigi no Yume no Alice (Japan).mp4</video>
+		<video>./video/Fushigi no Yume no Alice (Japan).mp4</video>
 		<marquee>./marquee/Fushigi no Yume no Alice (Japan).png</marquee>
 		<developer>페이스</developer>
 		<publisher>페이스</publisher>
@@ -1410,7 +1410,7 @@
 		<path>./Gai Flame (Japan).zip</path>
 		<name>가이 프레임 (일본판)</name>
 		<image>./snap/Gai Flame (Japan).png</image>
-		<video>./snap/Gai Flame (Japan).mp4</video>
+		<video>./video/Gai Flame (Japan).mp4</video>
 		<marquee>./marquee/Gai Flame (Japan).png</marquee>
 		<developer>마사야</developer>
 		<publisher/>
@@ -1421,7 +1421,7 @@
 		<path>./Gaia no Monshou (Japan).zip</path>
 		<name>가이아의 문장 (일본판)</name>
 		<image>./snap/Gaia no Monshou (Japan).png</image>
-		<video>./snap/Gaia no Monshou (Japan).mp4</video>
+		<video>./video/Gaia no Monshou (Japan).mp4</video>
 		<marquee>./marquee/Gaia no Monshou (Japan).png</marquee>
 		<developer>NCS</developer>
 		<publisher>NCS</publisher>
@@ -1432,7 +1432,7 @@
 		<path>./Galaga '88 (Japan).zip</path>
 		<name>갤러그 88 (일본판)</name>
 		<image>./snap/Galaga '88 (Japan).png</image>
-		<video>./snap/Galaga '88 (Japan).mp4</video>
+		<video>./video/Galaga '88 (Japan).mp4</video>
 		<marquee>./marquee/Galaga '88 (Japan).png</marquee>
 		<developer>남코</developer>
 		<publisher>NEC</publisher>
@@ -1443,7 +1443,7 @@
 		<path>./Galaga '90 (USA).zip</path>
 		<name>갤러그 90</name>
 		<image>./snap/Galaga '90 (USA).png</image>
-		<video>./snap/Galaga '90 (USA).mp4</video>
+		<video>./video/Galaga '90 (USA).mp4</video>
 		<marquee>./marquee/Galaga '90 (USA).png</marquee>
 		<developer>남코</developer>
 		<publisher>NEC</publisher>
@@ -1454,7 +1454,7 @@
 		<path>./Ganbare! Golf Boys (Japan).zip</path>
 		<name>힘내라! 골프 보이즈 (일본판)</name>
 		<image>./snap/Ganbare! Golf Boys (Japan).png</image>
-		<video>./snap/Ganbare! Golf Boys (Japan).mp4</video>
+		<video>./video/Ganbare! Golf Boys (Japan).mp4</video>
 		<marquee>./marquee/Ganbare! Golf Boys (Japan).png</marquee>
 		<developer>NCS</developer>
 		<publisher>NCS</publisher>
@@ -1465,7 +1465,7 @@
 		<path>./Gekisha Boy (Japan).zip</path>
 		<name>격사보이 (일본판)</name>
 		<image>./snap/Gekisha Boy (Japan).png</image>
-		<video>./snap/Gekisha Boy (Japan).mp4</video>
+		<video>./video/Gekisha Boy (Japan).mp4</video>
 		<marquee>./marquee/Gekisha Boy (Japan).png</marquee>
 		<developer>톰캣 시스템</developer>
 		<publisher>아이렘</publisher>
@@ -1476,7 +1476,7 @@
 		<path>./Genji Tsuushin Agedama (Japan).zip</path>
 		<name>겐지통신 아게다마 (일본판)</name>
 		<image>./snap/Genji Tsuushin Agedama (Japan).png</image>
-		<video>./snap/Genji Tsuushin Agedama (Japan).mp4</video>
+		<video>./video/Genji Tsuushin Agedama (Japan).mp4</video>
 		<marquee>./marquee/Genji Tsuushin Agedama (Japan).png</marquee>
 		<developer>NEC</developer>
 		<publisher>NEC</publisher>
@@ -1487,7 +1487,7 @@
 		<path>./Genpei Toumaden (Japan).zip</path>
 		<name>원평 토마전 (일본판)</name>
 		<image>./snap/Genpei Toumaden (Japan).png</image>
-		<video>./snap/Genpei Toumaden (Japan).mp4</video>
+		<video>./video/Genpei Toumaden (Japan).mp4</video>
 		<marquee>./marquee/Genpei Toumaden (Japan).png</marquee>
 		<developer>남코</developer>
 		<publisher>남코</publisher>
@@ -1498,7 +1498,7 @@
 		<path>./Genpei Toumaden - Kan no Ni (Japan).zip</path>
 		<name>원평토마전 2 (일본판)</name>
 		<image>./snap/Genpei Toumaden - Kan no Ni (Japan).png</image>
-		<video>./snap/Genpei Toumaden - Kan no Ni (Japan).mp4</video>
+		<video>./video/Genpei Toumaden - Kan no Ni (Japan).mp4</video>
 		<marquee>./marquee/Genpei Toumaden - Kan no Ni (Japan).png</marquee>
 		<developer>남코</developer>
 		<publisher>남코</publisher>
@@ -1509,7 +1509,7 @@
 		<path>./Ghost Manor (USA).zip</path>
 		<name>고스트 매너</name>
 		<image>./snap/Ghost Manor (USA).png</image>
-		<video>./snap/Ghost Manor (USA).mp4</video>
+		<video>./video/Ghost Manor (USA).mp4</video>
 		<marquee>./marquee/Ghost Manor (USA).png</marquee>
 		<developer>아이콤</developer>
 		<publisher>터보 테크놀리지</publisher>
@@ -1520,7 +1520,7 @@
 		<path>./Gokuraku! Chuuka Taisen (Japan).zip</path>
 		<name>극락! 중화대선 (일본판)</name>
 		<image>./snap/Gokuraku! Chuuka Taisen (Japan).png</image>
-		<video>./snap/Gokuraku! Chuuka Taisen (Japan).mp4</video>
+		<video>./video/Gokuraku! Chuuka Taisen (Japan).mp4</video>
 		<marquee>./marquee/Gokuraku! Chuuka Taisen (Japan).png</marquee>
 		<developer>대영 제작소</developer>
 		<publisher>타이토</publisher>
@@ -1531,7 +1531,7 @@
 		<path>./Gomola Speed (Japan).zip</path>
 		<name>고모라 스피드 (일본판)</name>
 		<image>./snap/Gomola Speed (Japan).png</image>
-		<video>./snap/Gomola Speed (Japan).mp4</video>
+		<video>./video/Gomola Speed (Japan).mp4</video>
 		<marquee>./marquee/Gomola Speed (Japan).png</marquee>
 		<developer>UPL</developer>
 		<publisher>UPL</publisher>
@@ -1542,7 +1542,7 @@
 		<path>./Gradius (Japan).zip</path>
 		<name>그라디우스 (일본판)</name>
 		<image>./snap/Gradius (Japan).png</image>
-		<video>./snap/Gradius (Japan).mp4</video>
+		<video>./video/Gradius (Japan).mp4</video>
 		<marquee>./marquee/Gradius (Japan).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -1553,7 +1553,7 @@
 		<path>./Gunboat (USA).zip</path>
 		<name>건보트</name>
 		<image>./snap/Gunboat (USA).png</image>
-		<video>./snap/Gunboat (USA).mp4</video>
+		<video>./video/Gunboat (USA).mp4</video>
 		<marquee>./marquee/Gunboat (USA).png</marquee>
 		<developer>어콜레이드</developer>
 		<publisher>어콜레이드</publisher>
@@ -1564,7 +1564,7 @@
 		<path>./Gunhed (Japan).zip</path>
 		<name>건헤드 - 블레이징 레이져스 (일본판)</name>
 		<image>./snap/Gunhed (Japan).png</image>
-		<video>./snap/Gunhed (Japan).mp4</video>
+		<video>./video/Gunhed (Japan).mp4</video>
 		<marquee>./marquee/Gunhed (Japan).png</marquee>
 		<developer>컴파일</developer>
 		<publisher>NEC</publisher>
@@ -1575,7 +1575,7 @@
 		<path>./Gunhed - Special Version (Japan).zip</path>
 		<name>건헤드 - 스페셜 버전 (일본판)</name>
 		<image>./snap/Gunhed - Special Version (Japan).png</image>
-		<video>./snap/Gunhed - Special Version (Japan).mp4</video>
+		<video>./video/Gunhed - Special Version (Japan).mp4</video>
 		<marquee>./marquee/Gunhed - Special Version (Japan).png</marquee>
 		<developer>컴파일</developer>
 		<publisher>NEC</publisher>
@@ -1586,7 +1586,7 @@
 		<path>./Hana Taaka Daka! (Japan).zip</path>
 		<name>의기양양 (일본판)</name>
 		<image>./snap/Hana Taaka Daka! (Japan).png</image>
-		<video>./snap/Hana Taaka Daka! (Japan).mp4</video>
+		<video>./video/Hana Taaka Daka! (Japan).mp4</video>
 		<marquee>./marquee/Hana Taaka Daka! (Japan).png</marquee>
 		<developer>타이토</developer>
 		<publisher>타이토</publisher>
@@ -1597,7 +1597,7 @@
 		<path>./Hanii in the Sky (Japan).zip</path>
 		<name>하나이 인더 스카이 (일본판)</name>
 		<image>./snap/Hanii in the Sky (Japan).png</image>
-		<video>./snap/Hanii in the Sky (Japan).mp4</video>
+		<video>./video/Hanii in the Sky (Japan).mp4</video>
 		<marquee>./marquee/Hanii in the Sky (Japan).png</marquee>
 		<developer>페이스</developer>
 		<publisher>페이스</publisher>
@@ -1608,7 +1608,7 @@
 		<path>./Hanii on the Road (Japan).zip</path>
 		<name>하나이 온더 로드 (일본판)</name>
 		<image>./snap/Hanii on the Road (Japan).png</image>
-		<video>./snap/Hanii on the Road (Japan).mp4</video>
+		<video>./video/Hanii on the Road (Japan).mp4</video>
 		<marquee>./marquee/Hanii on the Road (Japan).png</marquee>
 		<developer>페이스</developer>
 		<publisher>페이스</publisher>
@@ -1619,7 +1619,7 @@
 		<path>./Hatris (Japan).zip</path>
 		<name>햇트리스 (일본판)</name>
 		<image>./snap/Hatris (Japan).png</image>
-		<video>./snap/Hatris (Japan).mp4</video>
+		<video>./video/Hatris (Japan).mp4</video>
 		<marquee>./marquee/Hatris (Japan).png</marquee>
 		<developer>마이크로캐빈</developer>
 		<publisher>마이크로캐빈</publisher>
@@ -1630,7 +1630,7 @@
 		<path>./Heavy Unit (Japan).zip</path>
 		<name>헤비 유닛 (일본판)</name>
 		<image>./snap/Heavy Unit (Japan).png</image>
-		<video>./snap/Heavy Unit (Japan).mp4</video>
+		<video>./video/Heavy Unit (Japan).mp4</video>
 		<marquee>./marquee/Heavy Unit (Japan).png</marquee>
 		<developer>인터스테이트</developer>
 		<publisher>타이토</publisher>
@@ -1641,7 +1641,7 @@
 		<path>./Hisou Kihei X-Serd (Japan).zip</path>
 		<name>비장기병 가이자드 (일본판)</name>
 		<image>./snap/Hisou Kihei X-Serd (Japan).png</image>
-		<video>./snap/Hisou Kihei X-Serd (Japan).mp4</video>
+		<video>./video/Hisou Kihei X-Serd (Japan).mp4</video>
 		<marquee>./marquee/Hisou Kihei X-Serd (Japan).png</marquee>
 		<developer>NCS</developer>
 		<publisher>NCS</publisher>
@@ -1652,7 +1652,7 @@
 		<path>./Hit the Ice - VHL - The Official Video Hockey League (USA).zip</path>
 		<name>히트 더 아이스 - 공식 비디오 하키 리그</name>
 		<image>./snap/Hit the Ice - VHL - The Official Video Hockey League (USA).png</image>
-		<video>./snap/Hit the Ice - VHL - The Official Video Hockey League (USA).mp4</video>
+		<video>./video/Hit the Ice - VHL - The Official Video Hockey League (USA).mp4</video>
 		<marquee>./marquee/Hit the Ice - VHL - The Official Video Hockey League (USA).png</marquee>
 		<developer>타이토</developer>
 		<publisher>타이토</publisher>
@@ -1663,7 +1663,7 @@
 		<path>./Hit the Ice - VHL - The Video Hockey League (Japan).zip</path>
 		<name>히트 더 아이스 - 비디오 하키 리그 (일본판)</name>
 		<image>./snap/Hit the Ice - VHL - The Video Hockey League (Japan).png</image>
-		<video>./snap/Hit the Ice - VHL - The Video Hockey League (Japan).mp4</video>
+		<video>./video/Hit the Ice - VHL - The Video Hockey League (Japan).mp4</video>
 		<marquee>./marquee/Hit the Ice - VHL - The Video Hockey League (Japan).png</marquee>
 		<developer>타이토</developer>
 		<publisher>타이토</publisher>
@@ -1674,7 +1674,7 @@
 		<path>./Honoo no Toukyuuji - Dodge Danpei (Japan).zip</path>
 		<name>피구왕 통키 (일본판)</name>
 		<image>./snap/Honoo no Toukyuuji - Dodge Danpei (Japan).png</image>
-		<video>./snap/Honoo no Toukyuuji - Dodge Danpei (Japan).mp4</video>
+		<video>./video/Honoo no Toukyuuji - Dodge Danpei (Japan).mp4</video>
 		<marquee>./marquee/Honoo no Toukyuuji - Dodge Danpei (Japan).png</marquee>
 		<developer>에임 소프트웨어</developer>
 		<publisher>허드슨</publisher>
@@ -1685,7 +1685,7 @@
 		<path>./Idol Hanafuda Fan Club (Japan) (Unl).zip</path>
 		<name>아이돌 화투 팬클럽 (일본판)(해적판)</name>
 		<image>./snap/Idol Hanafuda Fan Club (Japan) (Unl).png</image>
-		<video>./snap/Idol Hanafuda Fan Club (Japan) (Unl).mp4</video>
+		<video>./video/Idol Hanafuda Fan Club (Japan) (Unl).mp4</video>
 		<marquee>./marquee/Idol Hanafuda Fan Club (Japan) (Unl).png</marquee>
 		<developer/>
 		<publisher/>
@@ -1696,7 +1696,7 @@
 		<path>./Image Fight (Japan).zip</path>
 		<name>이미지 파이트 (일본판)</name>
 		<image>./snap/Image Fight (Japan).png</image>
-		<video>./snap/Image Fight (Japan).mp4</video>
+		<video>./video/Image Fight (Japan).mp4</video>
 		<marquee>./marquee/Image Fight (Japan).png</marquee>
 		<developer>아이렘</developer>
 		<publisher>아이렘</publisher>
@@ -1707,7 +1707,7 @@
 		<path>./Impossamole (USA).zip</path>
 		<name>임포싸 몰</name>
 		<image>./snap/Impossamole (USA).png</image>
-		<video>./snap/Impossamole (USA).mp4</video>
+		<video>./video/Impossamole (USA).mp4</video>
 		<marquee>./marquee/Impossamole (USA).png</marquee>
 		<developer>NEC 인터채널</developer>
 		<publisher>코어디자인</publisher>
@@ -1718,7 +1718,7 @@
 		<path>./J.J. &amp; Jeff (USA).zip</path>
 		<name>카토짱과 켄짱</name>
 		<image>./snap/J.J. &amp; Jeff (USA).png</image>
-		<video>./snap/J.J. &amp; Jeff (USA).mp4</video>
+		<video>./video/J.J. &amp; Jeff (USA).mp4</video>
 		<marquee>./marquee/J.J. &amp; Jeff (USA).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>NEC 인터채널</publisher>
@@ -1729,7 +1729,7 @@
 		<path>./J.League Greatest Eleven (Japan).zip</path>
 		<name>J리그 그레이티스트 일레븐 (일본판)</name>
 		<image>./snap/J.League Greatest Eleven (Japan).png</image>
-		<video>./snap/J.League Greatest Eleven (Japan).mp4</video>
+		<video>./video/J.League Greatest Eleven (Japan).mp4</video>
 		<marquee>./marquee/J.League Greatest Eleven (Japan).png</marquee>
 		<developer>크림</developer>
 		<publisher>일본물산</publisher>
@@ -1740,7 +1740,7 @@
 		<path>./Jack Nicklaus - Championship Golf (Japan).zip</path>
 		<name>잭 니클라우스 - 챔피언십 골프 (일본판)</name>
 		<image>./snap/Jack Nicklaus - Championship Golf (Japan).png</image>
-		<video>./snap/Jack Nicklaus - Championship Golf (Japan).mp4</video>
+		<video>./video/Jack Nicklaus - Championship Golf (Japan).mp4</video>
 		<marquee>./marquee/Jack Nicklaus - Championship Golf (Japan).png</marquee>
 		<developer/>
 		<publisher/>
@@ -1751,7 +1751,7 @@
 		<path>./Jack Nicklaus' Turbo Golf (USA).zip</path>
 		<name>잭 니클라우스 - 터보 골프</name>
 		<image>./snap/Jack Nicklaus' Turbo Golf (USA).png</image>
-		<video>./snap/Jack Nicklaus' Turbo Golf (USA).mp4</video>
+		<video>./video/Jack Nicklaus' Turbo Golf (USA).mp4</video>
 		<marquee>./marquee/Jack Nicklaus' Turbo Golf (USA).png</marquee>
 		<developer/>
 		<publisher/>
@@ -1762,7 +1762,7 @@
 		<path>./Jackie Chan (Japan).zip</path>
 		<name>성룡의 액션 쿵후 (일본판)</name>
 		<image>./snap/Jackie Chan (Japan).png</image>
-		<video>./snap/Jackie Chan (Japan).mp4</video>
+		<video>./video/Jackie Chan (Japan).mp4</video>
 		<marquee>./marquee/Jackie Chan (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
@@ -1773,7 +1773,7 @@
 		<path>./Jackie Chan's Action Kung Fu (USA).zip</path>
 		<name>성룡의 액션 쿵후</name>
 		<image>./snap/Jackie Chan's Action Kung Fu (USA).png</image>
-		<video>./snap/Jackie Chan's Action Kung Fu (USA).mp4</video>
+		<video>./video/Jackie Chan's Action Kung Fu (USA).mp4</video>
 		<marquee>./marquee/Jackie Chan's Action Kung Fu (USA).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
@@ -1784,7 +1784,7 @@
 		<path>./Jaseiken Necromancer (Japan) (Virtual Console).zip</path>
 		<name>사사성검 네크로맨서 (일본판)(버추얼 콘솔)</name>
 		<image>./snap/Jaseiken Necromancer (Japan) (Virtual Console).png</image>
-		<video>./snap/Jaseiken Necromancer (Japan) (Virtual Console).mp4</video>
+		<video>./video/Jaseiken Necromancer (Japan) (Virtual Console).mp4</video>
 		<marquee>./marquee/Jaseiken Necromancer (Japan) (Virtual Console).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
@@ -1795,7 +1795,7 @@
 		<path>./Jaseiken Necromancer (Japan).zip</path>
 		<name>사사성검 네크로맨서 (일본판)</name>
 		<image>./snap/Jaseiken Necromancer (Japan).png</image>
-		<video>./snap/Jaseiken Necromancer (Japan).mp4</video>
+		<video>./video/Jaseiken Necromancer (Japan).mp4</video>
 		<marquee>./marquee/Jaseiken Necromancer (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
@@ -1806,7 +1806,7 @@
 		<path>./Jigoku Meguri (Japan).zip</path>
 		<name>지옥순례 (일본판)</name>
 		<image>./snap/Jigoku Meguri (Japan).png</image>
-		<video>./snap/Jigoku Meguri (Japan).mp4</video>
+		<video>./video/Jigoku Meguri (Japan).mp4</video>
 		<marquee>./marquee/Jigoku Meguri (Japan).png</marquee>
 		<developer>타이토</developer>
 		<publisher>타이토</publisher>
@@ -1817,7 +1817,7 @@
 		<path>./Jinmu Denshou (Japan).zip</path>
 		<name>신무전승 야차 (일본판)</name>
 		<image>./snap/Jinmu Denshou (Japan).png</image>
-		<video>./snap/Jinmu Denshou (Japan).mp4</video>
+		<video>./video/Jinmu Denshou (Japan).mp4</video>
 		<marquee>./marquee/Jinmu Denshou (Japan).png</marquee>
 		<developer>빅 클럽</developer>
 		<publisher>울프 팀</publisher>
@@ -1828,7 +1828,7 @@
 		<path>./Juuouki (Japan).zip</path>
 		<name>수왕기 (일본판)</name>
 		<image>./snap/Juuouki (Japan).png</image>
-		<video>./snap/Juuouki (Japan).mp4</video>
+		<video>./video/Juuouki (Japan).mp4</video>
 		<marquee>./marquee/Juuouki (Japan).png</marquee>
 		<developer>세가</developer>
 		<publisher>NEC</publisher>
@@ -1839,7 +1839,7 @@
 		<path>./Kaizou Choujin Shubibinman (Japan).zip</path>
 		<name>개조성인 슈비빅맨 (일본판)</name>
 		<image>./snap/Kaizou Choujin Shubibinman (Japan).png</image>
-		<video>./snap/Kaizou Choujin Shubibinman (Japan).mp4</video>
+		<video>./video/Kaizou Choujin Shubibinman (Japan).mp4</video>
 		<marquee>./marquee/Kaizou Choujin Shubibinman (Japan).png</marquee>
 		<developer/>
 		<publisher>마사야</publisher>
@@ -1850,7 +1850,7 @@
 		<path>./Kaizou Choujin Shubibinman 2 - Aratanaru Teki (Japan).zip</path>
 		<name>개조성인 슈비빅맨 2 - 새로운적 (일본판)</name>
 		<image>./snap/Kaizou Choujin Shubibinman 2 - Aratanaru Teki (Japan).png</image>
-		<video>./snap/Kaizou Choujin Shubibinman 2 - Aratanaru Teki (Japan).mp4</video>
+		<video>./video/Kaizou Choujin Shubibinman 2 - Aratanaru Teki (Japan).mp4</video>
 		<marquee>./marquee/Kaizou Choujin Shubibinman 2 - Aratanaru Teki (Japan).png</marquee>
 		<developer>윈드</developer>
 		<publisher>NCS</publisher>
@@ -1861,7 +1861,7 @@
 		<path>./Kato-chan Ken-chan (Japan).zip</path>
 		<name>카토짱 켄짱 (일본판)</name>
 		<image>./snap/Kato-chan Ken-chan (Japan).png</image>
-		<video>./snap/Kato-chan Ken-chan (Japan).mp4</video>
+		<video>./video/Kato-chan Ken-chan (Japan).mp4</video>
 		<marquee>./marquee/Kato-chan Ken-chan (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>NEC 인터채널</publisher>
@@ -1872,7 +1872,7 @@
 		<path>./Kattobi! Takuhai-kun (Japan).zip</path>
 		<name>캇트비! 택배-군 (일본판)</name>
 		<image>./snap/Kattobi! Takuhai-kun (Japan).png</image>
-		<video>./snap/Kattobi! Takuhai-kun (Japan).mp4</video>
+		<video>./video/Kattobi! Takuhai-kun (Japan).mp4</video>
 		<marquee>./marquee/Kattobi! Takuhai-kun (Japan).png</marquee>
 		<developer>어드벤스 커뮤니케이션 컴퍼니</developer>
 		<publisher>토킨하우스</publisher>
@@ -1883,7 +1883,7 @@
 		<path>./Keith Courage in Alpha Zones (USA).zip</path>
 		<name>마신 영웅전 와타루</name>
 		<image>./snap/Keith Courage in Alpha Zones (USA).png</image>
-		<video>./snap/Keith Courage in Alpha Zones (USA).mp4</video>
+		<video>./video/Keith Courage in Alpha Zones (USA).mp4</video>
 		<marquee>./marquee/Keith Courage in Alpha Zones (USA).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>NEC</publisher>
@@ -1894,7 +1894,7 @@
 		<path>./KickBall (Japan).zip</path>
 		<name>킥볼 (일본판)</name>
 		<image>./snap/KickBall (Japan).png</image>
-		<video>./snap/KickBall (Japan).mp4</video>
+		<video>./video/KickBall (Japan).mp4</video>
 		<marquee>./marquee/KickBall (Japan).png</marquee>
 		<developer>듀얼</developer>
 		<publisher>NCS</publisher>
@@ -1905,7 +1905,7 @@
 		<path>./Kiki Kaikai (Japan).zip</path>
 		<name>기기괴계 (일본판)</name>
 		<image>./snap/Kiki Kaikai (Japan).png</image>
-		<video>./snap/Kiki Kaikai (Japan).mp4</video>
+		<video>./video/Kiki Kaikai (Japan).mp4</video>
 		<marquee>./marquee/Kiki Kaikai (Japan).png</marquee>
 		<developer>타이토</developer>
 		<publisher>타이토</publisher>
@@ -1916,7 +1916,7 @@
 		<path>./King of Casino (Japan).zip</path>
 		<name>킹 오브 카지노 (일본판)</name>
 		<image>./snap/King of Casino (Japan).png</image>
-		<video>./snap/King of Casino (Japan).mp4</video>
+		<video>./video/King of Casino (Japan).mp4</video>
 		<marquee>./marquee/King of Casino (Japan).png</marquee>
 		<developer>NEC</developer>
 		<publisher>NEC</publisher>
@@ -1927,7 +1927,7 @@
 		<path>./King of Casino (USA).zip</path>
 		<name>킹 오브 카지노</name>
 		<image>./snap/King of Casino (USA).png</image>
-		<video>./snap/King of Casino (USA).mp4</video>
+		<video>./video/King of Casino (USA).mp4</video>
 		<marquee>./marquee/King of Casino (USA).png</marquee>
 		<developer>NEC</developer>
 		<publisher>NEC</publisher>
@@ -1938,7 +1938,7 @@
 		<path>./Klax (Japan).zip</path>
 		<name>클락스 (일본판)</name>
 		<image>./snap/Klax (Japan).png</image>
-		<video>./snap/Klax (Japan).mp4</video>
+		<video>./video/Klax (Japan).mp4</video>
 		<marquee>./marquee/Klax (Japan).png</marquee>
 		<developer>아타리</developer>
 		<publisher>덴젠</publisher>
@@ -1949,7 +1949,7 @@
 		<path>./Klax (USA).zip</path>
 		<name>클락스</name>
 		<image>./snap/Klax (USA).png</image>
-		<video>./snap/Klax (USA).mp4</video>
+		<video>./video/Klax (USA).mp4</video>
 		<marquee>./marquee/Klax (USA).png</marquee>
 		<developer>아타리</developer>
 		<publisher>덴젠</publisher>
@@ -1960,7 +1960,7 @@
 		<path>./Knight Rider Special (Japan).zip</path>
 		<name>나이트 라이더 스페셜 (일본판)</name>
 		<image>./snap/Knight Rider Special (Japan).png</image>
-		<video>./snap/Knight Rider Special (Japan).mp4</video>
+		<video>./video/Knight Rider Special (Japan).mp4</video>
 		<marquee>./marquee/Knight Rider Special (Japan).png</marquee>
 		<developer>팩인 비디오</developer>
 		<publisher>팩인 비디오</publisher>
@@ -1971,7 +1971,7 @@
 		<path>./Kore ga Pro Yakyuu '89 (Japan).zip</path>
 		<name>이것이 프로야구 89 (일본판)</name>
 		<image>./snap/Kore ga Pro Yakyuu '89 (Japan).png</image>
-		<video>./snap/Kore ga Pro Yakyuu '89 (Japan).mp4</video>
+		<video>./video/Kore ga Pro Yakyuu '89 (Japan).mp4</video>
 		<marquee>./marquee/Kore ga Pro Yakyuu '89 (Japan).png</marquee>
 		<developer>토세</developer>
 		<publisher>인텍</publisher>
@@ -1982,7 +1982,7 @@
 		<path>./Kore ga Pro Yakyuu '90 (Japan).zip</path>
 		<name>이것이 프로야구 90 (일본판)</name>
 		<image>./snap/Kore ga Pro Yakyuu '90 (Japan).png</image>
-		<video>./snap/Kore ga Pro Yakyuu '90 (Japan).mp4</video>
+		<video>./video/Kore ga Pro Yakyuu '90 (Japan).mp4</video>
 		<marquee>./marquee/Kore ga Pro Yakyuu '90 (Japan).png</marquee>
 		<developer>토세</developer>
 		<publisher>인텍</publisher>
@@ -1993,7 +1993,7 @@
 		<path>./Kung Fu, The (Japan) (Virtual Console).zip</path>
 		<name>쿵후 (일본판)(버추얼 콘솔)</name>
 		<image>./snap/Kung Fu, The (Japan) (Virtual Console).png</image>
-		<video>./snap/Kung Fu, The (Japan) (Virtual Console).mp4</video>
+		<video>./video/Kung Fu, The (Japan) (Virtual Console).mp4</video>
 		<marquee>./marquee/Kung Fu, The (Japan) (Virtual Console).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>NEC</publisher>
@@ -2004,7 +2004,7 @@
 		<path>./Kung Fu, The (Japan).zip</path>
 		<name>쿵후 (일본판)</name>
 		<image>./snap/Kung Fu, The (Japan).png</image>
-		<video>./snap/Kung Fu, The (Japan).mp4</video>
+		<video>./video/Kung Fu, The (Japan).mp4</video>
 		<marquee>./marquee/Kung Fu, The (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>NEC</publisher>
@@ -2015,7 +2015,7 @@
 		<path>./Kyuukyoku Mahjong - Idol Graphics (Japan) (Unl).zip</path>
 		<name>궁극 마작 - 아이돌 그래픽스 (일본판)(해적판)</name>
 		<image>./snap/Kyuukyoku Mahjong - Idol Graphics (Japan) (Unl).png</image>
-		<video>./snap/Kyuukyoku Mahjong - Idol Graphics (Japan) (Unl).mp4</video>
+		<video>./video/Kyuukyoku Mahjong - Idol Graphics (Japan) (Unl).mp4</video>
 		<marquee>./marquee/Kyuukyoku Mahjong - Idol Graphics (Japan) (Unl).png</marquee>
 		<developer>게임익스프레스</developer>
 		<publisher>게임익스프레스</publisher>
@@ -2026,7 +2026,7 @@
 		<path>./Kyuukyoku Mahjong II (Japan) (Unl).zip</path>
 		<name>궁극 마작 2 (일본판)(해적판)</name>
 		<image>./snap/Kyuukyoku Mahjong II (Japan) (Unl).png</image>
-		<video>./snap/Kyuukyoku Mahjong II (Japan) (Unl).mp4</video>
+		<video>./video/Kyuukyoku Mahjong II (Japan) (Unl).mp4</video>
 		<marquee>./marquee/Kyuukyoku Mahjong II (Japan) (Unl).png</marquee>
 		<developer>게임익스프레스</developer>
 		<publisher>게임익스프레스</publisher>
@@ -2037,7 +2037,7 @@
 		<path>./Kyuukyoku Tiger (Japan).zip</path>
 		<name>구극 타이거 (일본판)</name>
 		<image>./snap/Kyuukyoku Tiger (Japan).png</image>
-		<video>./snap/Kyuukyoku Tiger (Japan).mp4</video>
+		<video>./video/Kyuukyoku Tiger (Japan).mp4</video>
 		<marquee>./marquee/Kyuukyoku Tiger (Japan).png</marquee>
 		<developer>토아플랜</developer>
 		<publisher>타이토</publisher>
@@ -2048,7 +2048,7 @@
 		<path>./Lady Sword - Ryakudatsu Sareta 10-nin no Otome (Japan) (Unl).zip</path>
 		<name>레이디 소드 (일본판)(해적판)</name>
 		<image>./snap/Lady Sword - Ryakudatsu Sareta 10-nin no Otome (Japan) (Unl).png</image>
-		<video>./snap/Lady Sword - Ryakudatsu Sareta 10-nin no Otome (Japan) (Unl).mp4</video>
+		<video>./video/Lady Sword - Ryakudatsu Sareta 10-nin no Otome (Japan) (Unl).mp4</video>
 		<marquee>./marquee/Lady Sword - Ryakudatsu Sareta 10-nin no Otome (Japan) (Unl).png</marquee>
 		<developer>해커 인터네셔널</developer>
 		<publisher>게임익스프레스</publisher>
@@ -2059,7 +2059,7 @@
 		<path>./Legend of Hero Tonma (Japan).zip</path>
 		<name>영웅 톤마의 전설 (일본판)</name>
 		<image>./snap/Legend of Hero Tonma (Japan).png</image>
-		<video>./snap/Legend of Hero Tonma (Japan).mp4</video>
+		<video>./video/Legend of Hero Tonma (Japan).mp4</video>
 		<marquee>./marquee/Legend of Hero Tonma (Japan).png</marquee>
 		<developer>아이렘</developer>
 		<publisher>아이렘</publisher>
@@ -2070,7 +2070,7 @@
 		<path>./Legend of Hero Tonma (USA).zip</path>
 		<name>영웅 톤마의 전설</name>
 		<image>./snap/Legend of Hero Tonma (USA).png</image>
-		<video>./snap/Legend of Hero Tonma (USA).mp4</video>
+		<video>./video/Legend of Hero Tonma (USA).mp4</video>
 		<marquee>./marquee/Legend of Hero Tonma (USA).png</marquee>
 		<developer>아이렘</developer>
 		<publisher>아이렘</publisher>
@@ -2081,7 +2081,7 @@
 		<path>./Legendary Axe II (USA).zip</path>
 		<name>암흑전설</name>
 		<image>./snap/Legendary Axe II (USA).png</image>
-		<video>./snap/Legendary Axe II (USA).mp4</video>
+		<video>./video/Legendary Axe II (USA).mp4</video>
 		<marquee>./marquee/Legendary Axe II (USA).png</marquee>
 		<developer>아틀러스</developer>
 		<publisher>NEC</publisher>
@@ -2092,7 +2092,7 @@
 		<path>./Legendary Axe, The (USA).zip</path>
 		<name>마경전설</name>
 		<image>./snap/Legendary Axe, The (USA).png</image>
-		<video>./snap/Legendary Axe, The (USA).mp4</video>
+		<video>./video/Legendary Axe, The (USA).mp4</video>
 		<marquee>./marquee/Legendary Axe, The (USA).png</marquee>
 		<developer>마블러스 인터랙티브</developer>
 		<publisher>NEC</publisher>
@@ -2103,7 +2103,7 @@
 		<path>./Lode Runner - Lost Labyrinth (Japan).zip</path>
 		<name>로드 런너 - 잃어버린 미궁 (일본판)</name>
 		<image>./snap/Lode Runner - Lost Labyrinth (Japan).png</image>
-		<video>./snap/Lode Runner - Lost Labyrinth (Japan).mp4</video>
+		<video>./video/Lode Runner - Lost Labyrinth (Japan).mp4</video>
 		<marquee>./marquee/Lode Runner - Lost Labyrinth (Japan).png</marquee>
 		<developer>브로드번드</developer>
 		<publisher>팩인 비디오</publisher>
@@ -2114,7 +2114,7 @@
 		<path>./Maerchen Maze (Japan).zip</path>
 		<name>메르헨 메이즈 - 동화미로 (일본판)</name>
 		<image>./snap/Maerchen Maze (Japan).png</image>
-		<video>./snap/Maerchen Maze (Japan).mp4</video>
+		<video>./video/Maerchen Maze (Japan).mp4</video>
 		<marquee>./marquee/Maerchen Maze (Japan).png</marquee>
 		<developer/>
 		<publisher/>
@@ -2125,7 +2125,7 @@
 		<path>./Magical Chase (Japan).zip</path>
 		<name>매지컬 체이스 (일본판)</name>
 		<image>./snap/Magical Chase (Japan).png</image>
-		<video>./snap/Magical Chase (Japan).mp4</video>
+		<video>./video/Magical Chase (Japan).mp4</video>
 		<marquee>./marquee/Magical Chase (Japan).png</marquee>
 		<developer>퀘스트</developer>
 		<publisher>NEC</publisher>
@@ -2136,7 +2136,7 @@
 		<path>./Magical Chase (USA).zip</path>
 		<name>매지컬 체이스</name>
 		<image>./snap/Magical Chase (USA).png</image>
-		<video>./snap/Magical Chase (USA).mp4</video>
+		<video>./video/Magical Chase (USA).mp4</video>
 		<marquee>./marquee/Magical Chase (USA).png</marquee>
 		<developer>퀘스트</developer>
 		<publisher>NEC</publisher>
@@ -2147,7 +2147,7 @@
 		<path>./Mahjong Gakuen - Touma Soushirou Toujou (Japan).zip</path>
 		<name>마작학원 - 아즈마종시로 등장 (일본판)</name>
 		<image>./snap/Mahjong Gakuen - Touma Soushirou Toujou (Japan).png</image>
-		<video>./snap/Mahjong Gakuen - Touma Soushirou Toujou (Japan).mp4</video>
+		<video>./video/Mahjong Gakuen - Touma Soushirou Toujou (Japan).mp4</video>
 		<marquee>./marquee/Mahjong Gakuen - Touma Soushirou Toujou (Japan).png</marquee>
 		<developer>참근도</developer>
 		<publisher>페이스</publisher>
@@ -2158,7 +2158,7 @@
 		<path>./Mahjong Gakuen Mild - Touma Soushirou Toujou (Japan).zip</path>
 		<name>마작학원 MILD - 아즈마종시로 등장 (일본판)</name>
 		<image>./snap/Mahjong Gakuen Mild - Touma Soushirou Toujou (Japan).png</image>
-		<video>./snap/Mahjong Gakuen Mild - Touma Soushirou Toujou (Japan).mp4</video>
+		<video>./video/Mahjong Gakuen Mild - Touma Soushirou Toujou (Japan).mp4</video>
 		<marquee>./marquee/Mahjong Gakuen Mild - Touma Soushirou Toujou (Japan).png</marquee>
 		<developer>참근도</developer>
 		<publisher>페이스</publisher>
@@ -2169,7 +2169,7 @@
 		<path>./Mahjong Gokuu Special (Japan).zip</path>
 		<name>마작학원 스페셜 (일본판)</name>
 		<image>./snap/Mahjong Gokuu Special (Japan).png</image>
-		<video>./snap/Mahjong Gokuu Special (Japan).mp4</video>
+		<video>./video/Mahjong Gokuu Special (Japan).mp4</video>
 		<marquee>./marquee/Mahjong Gokuu Special (Japan).png</marquee>
 		<developer>선소프트</developer>
 		<publisher>선소프트</publisher>
@@ -2180,7 +2180,7 @@
 		<path>./Mahjong Haouden - Kaiser's Quest (Japan).zip</path>
 		<name>마작패왕전 - 카이져의 퀘스트 (일본판)</name>
 		<image>./snap/Mahjong Haouden - Kaiser's Quest (Japan).png</image>
-		<video>./snap/Mahjong Haouden - Kaiser's Quest (Japan).mp4</video>
+		<video>./video/Mahjong Haouden - Kaiser's Quest (Japan).mp4</video>
 		<marquee>./marquee/Mahjong Haouden - Kaiser's Quest (Japan).png</marquee>
 		<developer>UPL</developer>
 		<publisher>UPL</publisher>
@@ -2191,7 +2191,7 @@
 		<path>./Mahjong Shikaku Retsuden - Mahjong Wars (Japan).zip</path>
 		<name>마작 자객 열전 - 마작 워즈 (일본판)</name>
 		<image>./snap/Mahjong Shikaku Retsuden - Mahjong Wars (Japan).png</image>
-		<video>./snap/Mahjong Shikaku Retsuden - Mahjong Wars (Japan).mp4</video>
+		<video>./video/Mahjong Shikaku Retsuden - Mahjong Wars (Japan).mp4</video>
 		<marquee>./marquee/Mahjong Shikaku Retsuden - Mahjong Wars (Japan).png</marquee>
 		<developer>일본물산</developer>
 		<publisher>일본물산</publisher>
@@ -2202,7 +2202,7 @@
 		<path>./Maison Ikkoku (Japan).zip</path>
 		<name>메종일각 - 도레미하우스 (일본판)</name>
 		<image>./snap/Maison Ikkoku (Japan).png</image>
-		<video>./snap/Maison Ikkoku (Japan).mp4</video>
+		<video>./video/Maison Ikkoku (Japan).mp4</video>
 		<marquee>./marquee/Maison Ikkoku (Japan).png</marquee>
 		<developer>마이크로캐빈</developer>
 		<publisher>마이크로캐빈</publisher>
@@ -2213,7 +2213,7 @@
 		<path>./Makai Hakkenden Shada (Japan).zip</path>
 		<name>마계 팔견전 샤다 (일본판)</name>
 		<image>./snap/Makai Hakkenden Shada (Japan).png</image>
-		<video>./snap/Makai Hakkenden Shada (Japan).mp4</video>
+		<video>./video/Makai Hakkenden Shada (Japan).mp4</video>
 		<marquee>./marquee/Makai Hakkenden Shada (Japan).png</marquee>
 		<developer/>
 		<publisher/>
@@ -2224,7 +2224,7 @@
 		<path>./Makai Prince Dorabocchan (Japan).zip</path>
 		<name>마계 프린드 도라보짱 (일본판)</name>
 		<image>./snap/Makai Prince Dorabocchan (Japan).png</image>
-		<video>./snap/Makai Prince Dorabocchan (Japan).mp4</video>
+		<video>./video/Makai Prince Dorabocchan (Japan).mp4</video>
 		<marquee>./marquee/Makai Prince Dorabocchan (Japan).png</marquee>
 		<developer>레드 컴퍼니</developer>
 		<publisher>낙삿 소프트</publisher>
@@ -2235,7 +2235,7 @@
 		<path>./Makyou Densetsu (Japan).zip</path>
 		<name>마경전설 (일본판)</name>
 		<image>./snap/Makyou Densetsu (Japan).png</image>
-		<video>./snap/Makyou Densetsu (Japan).mp4</video>
+		<video>./video/Makyou Densetsu (Japan).mp4</video>
 		<marquee>./marquee/Makyou Densetsu (Japan).png</marquee>
 		<developer>마블러스 인터랙티브</developer>
 		<publisher>NEC</publisher>
@@ -2246,7 +2246,7 @@
 		<path>./Maniac Pro Wres - Asu e no Tatakai (Japan).zip</path>
 		<name>매니악 프로레슬링 (일본판)</name>
 		<image>./snap/Maniac Pro Wres - Asu e no Tatakai (Japan).png</image>
-		<video>./snap/Maniac Pro Wres - Asu e no Tatakai (Japan).mp4</video>
+		<video>./video/Maniac Pro Wres - Asu e no Tatakai (Japan).mp4</video>
 		<marquee>./marquee/Maniac Pro Wres - Asu e no Tatakai (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
@@ -2257,7 +2257,7 @@
 		<path>./Mashin Eiyuuden Wataru (Japan).zip</path>
 		<name>마신 영웅전 와타루 (일본판)</name>
 		<image>./snap/Mashin Eiyuuden Wataru (Japan).png</image>
-		<video>./snap/Mashin Eiyuuden Wataru (Japan).mp4</video>
+		<video>./video/Mashin Eiyuuden Wataru (Japan).mp4</video>
 		<marquee>./marquee/Mashin Eiyuuden Wataru (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>NEC</publisher>
@@ -2268,7 +2268,7 @@
 		<path>./Mesopotamia (Japan).zip</path>
 		<name>메소포타미아 (일본판)</name>
 		<image>./snap/Mesopotamia (Japan).png</image>
-		<video>./snap/Mesopotamia (Japan).mp4</video>
+		<video>./video/Mesopotamia (Japan).mp4</video>
 		<marquee>./marquee/Mesopotamia (Japan).png</marquee>
 		<developer>아틀러스</developer>
 		<publisher>아틀러스</publisher>
@@ -2279,7 +2279,7 @@
 		<path>./Metal Stoker (Japan).zip</path>
 		<name>메탈 스토커 (일본판)</name>
 		<image>./snap/Metal Stoker (Japan).png</image>
-		<video>./snap/Metal Stoker (Japan).mp4</video>
+		<video>./video/Metal Stoker (Japan).mp4</video>
 		<marquee>./marquee/Metal Stoker (Japan).png</marquee>
 		<developer>참근도</developer>
 		<publisher>페이스</publisher>
@@ -2290,7 +2290,7 @@
 		<path>./Military Madness (USA).zip</path>
 		<name>밀리터리 매드니스</name>
 		<image>./snap/Military Madness (USA).png</image>
-		<video>./snap/Military Madness (USA).mp4</video>
+		<video>./video/Military Madness (USA).mp4</video>
 		<marquee>./marquee/Military Madness (USA).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>NEC</publisher>
@@ -2301,7 +2301,7 @@
 		<path>./Mizubaku Daibouken (Japan).zip</path>
 		<name>미즈바쿠 대모험 (일본판)</name>
 		<image>./snap/Mizubaku Daibouken (Japan).png</image>
-		<video>./snap/Mizubaku Daibouken (Japan).mp4</video>
+		<video>./video/Mizubaku Daibouken (Japan).mp4</video>
 		<marquee>./marquee/Mizubaku Daibouken (Japan).png</marquee>
 		<developer>타이토</developer>
 		<publisher>타이토</publisher>
@@ -2312,7 +2312,7 @@
 		<path>./Momotarou Densetsu Gaiden - Dai-1-shuu (Japan).zip</path>
 		<name>도태랑 전설 외전 제1집 (일본판)</name>
 		<image>./snap/Momotarou Densetsu Gaiden - Dai-1-shuu (Japan).png</image>
-		<video>./snap/Momotarou Densetsu Gaiden - Dai-1-shuu (Japan).mp4</video>
+		<video>./video/Momotarou Densetsu Gaiden - Dai-1-shuu (Japan).mp4</video>
 		<marquee>./marquee/Momotarou Densetsu Gaiden - Dai-1-shuu (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
@@ -2323,7 +2323,7 @@
 		<path>./Momotarou Densetsu II (Japan).zip</path>
 		<name>도태랑 전설 2 (일본판)</name>
 		<image>./snap/Momotarou Densetsu II (Japan).png</image>
-		<video>./snap/Momotarou Densetsu II (Japan).mp4</video>
+		<video>./video/Momotarou Densetsu II (Japan).mp4</video>
 		<marquee>./marquee/Momotarou Densetsu II (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
@@ -2334,7 +2334,7 @@
 		<path>./Momotarou Densetsu Turbo (Japan).zip</path>
 		<name>도태랑 전설 터보 (일본판)</name>
 		<image>./snap/Momotarou Densetsu Turbo (Japan).png</image>
-		<video>./snap/Momotarou Densetsu Turbo (Japan).mp4</video>
+		<video>./video/Momotarou Densetsu Turbo (Japan).mp4</video>
 		<marquee>./marquee/Momotarou Densetsu Turbo (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
@@ -2345,7 +2345,7 @@
 		<path>./Momotarou Katsugeki (Japan).zip</path>
 		<name>도태랑 활극 (일본판)</name>
 		<image>./snap/Momotarou Katsugeki (Japan).png</image>
-		<video>./snap/Momotarou Katsugeki (Japan).mp4</video>
+		<video>./video/Momotarou Katsugeki (Japan).mp4</video>
 		<marquee>./marquee/Momotarou Katsugeki (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
@@ -2356,7 +2356,7 @@
 		<path>./Monster Pro Wres (Japan).zip</path>
 		<name>몬스터 프로레슬링 (일본판)</name>
 		<image>./snap/Monster Pro Wres (Japan).png</image>
-		<video>./snap/Monster Pro Wres (Japan).mp4</video>
+		<video>./video/Monster Pro Wres (Japan).mp4</video>
 		<marquee>./marquee/Monster Pro Wres (Japan).png</marquee>
 		<developer>리나</developer>
 		<publisher>ASK</publisher>
@@ -2367,7 +2367,7 @@
 		<path>./Morita Shougi PC (Japan).zip</path>
 		<name>모리타 장기 PC (일본판)</name>
 		<image>./snap/Morita Shougi PC (Japan).png</image>
-		<video>./snap/Morita Shougi PC (Japan).mp4</video>
+		<video>./video/Morita Shougi PC (Japan).mp4</video>
 		<marquee>./marquee/Morita Shougi PC (Japan).png</marquee>
 		<developer>랜덤 하우스</developer>
 		<publisher>NEC 인터채널</publisher>
@@ -2378,7 +2378,7 @@
 		<path>./Moto Roader (Japan).zip</path>
 		<name>모토 로더 (일본판)</name>
 		<image>./snap/Moto Roader (Japan).png</image>
-		<video>./snap/Moto Roader (Japan).mp4</video>
+		<video>./video/Moto Roader (Japan).mp4</video>
 		<marquee>./marquee/Moto Roader (Japan).png</marquee>
 		<developer>NCS</developer>
 		<publisher>NEC</publisher>
@@ -2389,7 +2389,7 @@
 		<path>./Moto Roader (USA).zip</path>
 		<name>모토 로더</name>
 		<image>./snap/Moto Roader (USA).png</image>
-		<video>./snap/Moto Roader (USA).mp4</video>
+		<video>./video/Moto Roader (USA).mp4</video>
 		<marquee>./marquee/Moto Roader (USA).png</marquee>
 		<developer>NCS</developer>
 		<publisher>NEC</publisher>
@@ -2400,7 +2400,7 @@
 		<path>./Moto Roader II (Japan).zip</path>
 		<name>모토 로더 2 (일본판)</name>
 		<image>./snap/Moto Roader II (Japan).png</image>
-		<video>./snap/Moto Roader II (Japan).mp4</video>
+		<video>./video/Moto Roader II (Japan).mp4</video>
 		<marquee>./marquee/Moto Roader II (Japan).png</marquee>
 		<developer>NCS</developer>
 		<publisher>NCS</publisher>
@@ -2411,7 +2411,7 @@
 		<path>./Mr. Heli no Daibouken (Japan).zip</path>
 		<name>미스터 헬리의 대모험 (일본판)</name>
 		<image>./snap/Mr. Heli no Daibouken (Japan).png</image>
-		<video>./snap/Mr. Heli no Daibouken (Japan).mp4</video>
+		<video>./video/Mr. Heli no Daibouken (Japan).mp4</video>
 		<marquee>./marquee/Mr. Heli no Daibouken (Japan).png</marquee>
 		<developer>아이렘</developer>
 		<publisher>아이렘</publisher>
@@ -2422,7 +2422,7 @@
 		<path>./Narazumono Sentou Butai - Bloody Wolf (Japan).zip</path>
 		<name>깡패 전투부대 블러디 울프 (일본판)</name>
 		<image>./snap/Narazumono Sentou Butai - Bloody Wolf (Japan).png</image>
-		<video>./snap/Narazumono Sentou Butai - Bloody Wolf (Japan).mp4</video>
+		<video>./video/Narazumono Sentou Butai - Bloody Wolf (Japan).mp4</video>
 		<marquee>./marquee/Narazumono Sentou Butai - Bloody Wolf (Japan).png</marquee>
 		<developer>데이터 이스트</developer>
 		<publisher>데이터 이스트</publisher>
@@ -2433,7 +2433,7 @@
 		<path>./Naxat Open (Japan).zip</path>
 		<name>나그자트 오픈 (일본판)</name>
 		<image>./snap/Naxat Open (Japan).png</image>
-		<video>./snap/Naxat Open (Japan).mp4</video>
+		<video>./video/Naxat Open (Japan).mp4</video>
 		<marquee>./marquee/Naxat Open (Japan).png</marquee>
 		<developer>낙삿 소프트</developer>
 		<publisher>낙삿 소프트</publisher>
@@ -2444,7 +2444,7 @@
 		<path>./Naxat Stadium (Japan).zip</path>
 		<name>나그자트 스타디움 (일본판)</name>
 		<image>./snap/Naxat Stadium (Japan).png</image>
-		<video>./snap/Naxat Stadium (Japan).mp4</video>
+		<video>./video/Naxat Stadium (Japan).mp4</video>
 		<marquee>./marquee/Naxat Stadium (Japan).png</marquee>
 		<developer>스팅</developer>
 		<publisher>낙삿 소프트</publisher>
@@ -2455,7 +2455,7 @@
 		<path>./Nazo no Mascarade (Japan).zip</path>
 		<name>수수께끼의 가면 (일본판)</name>
 		<image>./snap/Nazo no Mascarade (Japan).png</image>
-		<video>./snap/Nazo no Mascarade (Japan).mp4</video>
+		<video>./video/Nazo no Mascarade (Japan).mp4</video>
 		<marquee>./marquee/Nazo no Mascarade (Japan).png</marquee>
 		<developer>리버힐 소프트</developer>
 		<publisher>NCS</publisher>
@@ -2466,7 +2466,7 @@
 		<path>./Necros no Yousai (Japan).zip</path>
 		<name>네크로스의 요새 (일본판)</name>
 		<image>./snap/Necros no Yousai (Japan).png</image>
-		<video>./snap/Necros no Yousai (Japan).mp4</video>
+		<video>./video/Necros no Yousai (Japan).mp4</video>
 		<marquee>./marquee/Necros no Yousai (Japan).png</marquee>
 		<developer>어드벤쳐 플래닝 서비스</developer>
 		<publisher>ASK</publisher>
@@ -2477,7 +2477,7 @@
 		<path>./Nectaris (Japan).zip</path>
 		<name>넥타리스 (일본판)</name>
 		<image>./snap/Nectaris (Japan).png</image>
-		<video>./snap/Nectaris (Japan).mp4</video>
+		<video>./video/Nectaris (Japan).mp4</video>
 		<marquee>./marquee/Nectaris (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>NEC</publisher>
@@ -2488,7 +2488,7 @@
 		<path>./Nekketsu Koukou Dodgeball-bu - PC Bangai Hen (Japan).zip</path>
 		<name>열혈고교 피구부 - PC 번외편 (일본판)</name>
 		<image>./snap/Nekketsu Koukou Dodgeball-bu - PC Bangai Hen (Japan).png</image>
-		<video>./snap/Nekketsu Koukou Dodgeball-bu - PC Bangai Hen (Japan).mp4</video>
+		<video>./video/Nekketsu Koukou Dodgeball-bu - PC Bangai Hen (Japan).mp4</video>
 		<marquee>./marquee/Nekketsu Koukou Dodgeball-bu - PC Bangai Hen (Japan).png</marquee>
 		<developer>키드</developer>
 		<publisher>낙삿 소프트</publisher>
@@ -2499,7 +2499,7 @@
 		<path>./Nekketsu Koukou Dodgeball-bu - PC Soccer Hen (Japan).zip</path>
 		<name>열혈고교 피구부 - PC 축구편 (일본판)</name>
 		<image>./snap/Nekketsu Koukou Dodgeball-bu - PC Soccer Hen (Japan).png</image>
-		<video>./snap/Nekketsu Koukou Dodgeball-bu - PC Soccer Hen (Japan).mp4</video>
+		<video>./video/Nekketsu Koukou Dodgeball-bu - PC Soccer Hen (Japan).mp4</video>
 		<marquee>./marquee/Nekketsu Koukou Dodgeball-bu - PC Soccer Hen (Japan).png</marquee>
 		<developer>키드</developer>
 		<publisher>낙삿 소프트</publisher>
@@ -2510,7 +2510,7 @@
 		<path>./Neutopia (Japan).zip</path>
 		<name>뉴토피아 (일본판)</name>
 		<image>./snap/Neutopia (Japan).png</image>
-		<video>./snap/Neutopia (Japan).mp4</video>
+		<video>./video/Neutopia (Japan).mp4</video>
 		<marquee>./marquee/Neutopia (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>NEC</publisher>
@@ -2521,7 +2521,7 @@
 		<path>./Neutopia (USA).zip</path>
 		<name>뉴토피아</name>
 		<image>./snap/Neutopia (USA).png</image>
-		<video>./snap/Neutopia (USA).mp4</video>
+		<video>./video/Neutopia (USA).mp4</video>
 		<marquee>./marquee/Neutopia (USA).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>NEC</publisher>
@@ -2532,7 +2532,7 @@
 		<path>./Neutopia II (Japan).zip</path>
 		<name>뉴토피아 2 (일본판)</name>
 		<image>./snap/Neutopia II (Japan).png</image>
-		<video>./snap/Neutopia II (Japan).mp4</video>
+		<video>./video/Neutopia II (Japan).mp4</video>
 		<marquee>./marquee/Neutopia II (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
@@ -2543,7 +2543,7 @@
 		<path>./Neutopia II (USA).zip</path>
 		<name>뉴토피아 2</name>
 		<image>./snap/Neutopia II (USA).png</image>
-		<video>./snap/Neutopia II (USA).mp4</video>
+		<video>./video/Neutopia II (USA).mp4</video>
 		<marquee>./marquee/Neutopia II (USA).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
@@ -2554,7 +2554,7 @@
 		<path>./New Adventure Island (USA).zip</path>
 		<name>모험도</name>
 		<image>./snap/New Adventure Island (USA).png</image>
-		<video>./snap/New Adventure Island (USA).mp4</video>
+		<video>./video/New Adventure Island (USA).mp4</video>
 		<marquee>./marquee/New Adventure Island (USA).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
@@ -2565,7 +2565,7 @@
 		<path>./NewZealand Story, The (Japan).zip</path>
 		<name>뉴질랜드 스토리 (일본판)</name>
 		<image>./snap/NewZealand Story, The (Japan).png</image>
-		<video>./snap/NewZealand Story, The (Japan).mp4</video>
+		<video>./video/NewZealand Story, The (Japan).mp4</video>
 		<marquee>./marquee/NewZealand Story, The (Japan).png</marquee>
 		<developer>타이토</developer>
 		<publisher>타이토</publisher>
@@ -2576,7 +2576,7 @@
 		<path>./NHK Taiga Drama - Taiheiki (Japan).zip</path>
 		<name>NHK 대하드라마 태평기 (일본판)</name>
 		<image>./snap/NHK Taiga Drama - Taiheiki (Japan).png</image>
-		<video>./snap/NHK Taiga Drama - Taiheiki (Japan).mp4</video>
+		<video>./video/NHK Taiga Drama - Taiheiki (Japan).mp4</video>
 		<marquee>./marquee/NHK Taiga Drama - Taiheiki (Japan).png</marquee>
 		<developer>NHK</developer>
 		<publisher>NHK</publisher>
@@ -2587,7 +2587,7 @@
 		<path>./Night Creatures (USA).zip</path>
 		<name>나이트 크리쳐스</name>
 		<image>./snap/Night Creatures (USA).png</image>
-		<video>./snap/Night Creatures (USA).mp4</video>
+		<video>./video/Night Creatures (USA).mp4</video>
 		<marquee>./marquee/Night Creatures (USA).png</marquee>
 		<developer>만리 &amp; 어소시에이트</developer>
 		<publisher>NEC 인터채널</publisher>
@@ -2598,7 +2598,7 @@
 		<path>./Niko Niko Pun (Japan).zip</path>
 		<name>싱글 벙글 시간 (일본판)</name>
 		<image>./snap/Niko Niko Pun (Japan).png</image>
-		<video>./snap/Niko Niko Pun (Japan).mp4</video>
+		<video>./video/Niko Niko Pun (Japan).mp4</video>
 		<marquee>./marquee/Niko Niko Pun (Japan).png</marquee>
 		<developer>이스코</developer>
 		<publisher>NHK</publisher>
@@ -2609,7 +2609,7 @@
 		<path>./Ninja Ryuukenden (Japan) (En,Ja,Zh).zip</path>
 		<name>닌자용검전 (일본판)</name>
 		<image>./snap/Ninja Ryuukenden (Japan) (En,Ja,Zh).png</image>
-		<video>./snap/Ninja Ryuukenden (Japan) (En,Ja,Zh).mp4</video>
+		<video>./video/Ninja Ryuukenden (Japan) (En,Ja,Zh).mp4</video>
 		<marquee>./marquee/Ninja Ryuukenden (Japan) (En,Ja,Zh).png</marquee>
 		<developer>테크모</developer>
 		<publisher>허드슨</publisher>
@@ -2620,7 +2620,7 @@
 		<path>./Ninja Spirit (USA).zip</path>
 		<name>닌자 스피리츠 / 최후의 인도</name>
 		<image>./snap/Ninja Spirit (USA).png</image>
-		<video>./snap/Ninja Spirit (USA).mp4</video>
+		<video>./video/Ninja Spirit (USA).mp4</video>
 		<marquee>./marquee/Ninja Spirit (USA).png</marquee>
 		<developer>아이렘</developer>
 		<publisher>아이렘</publisher>
@@ -2631,7 +2631,7 @@
 		<path>./Ninja Warriors, The (Japan).zip</path>
 		<name>닌자 워리어즈 (일본판)</name>
 		<image>./snap/Ninja Warriors, The (Japan).png</image>
-		<video>./snap/Ninja Warriors, The (Japan).mp4</video>
+		<video>./video/Ninja Warriors, The (Japan).mp4</video>
 		<marquee>./marquee/Ninja Warriors, The (Japan).png</marquee>
 		<developer>타이토</developer>
 		<publisher>타이토</publisher>
@@ -2642,7 +2642,7 @@
 		<path>./Obocchama-kun (Japan).zip</path>
 		<name>오보차마 군 (일본판)</name>
 		<image>./snap/Obocchama-kun (Japan).png</image>
-		<video>./snap/Obocchama-kun (Japan).mp4</video>
+		<video>./video/Obocchama-kun (Japan).mp4</video>
 		<marquee>./marquee/Obocchama-kun (Japan).png</marquee>
 		<developer>팩인 비디오</developer>
 		<publisher>남코</publisher>
@@ -2653,7 +2653,7 @@
 		<path>./Off the Wall (USA) (Proto).zip</path>
 		<name>오프 더 월 (시험판)</name>
 		<image>./snap/Off the Wall (USA) (Proto).png</image>
-		<video>./snap/Off the Wall (USA) (Proto).mp4</video>
+		<video>./video/Off the Wall (USA) (Proto).mp4</video>
 		<marquee>./marquee/Off the Wall (USA) (Proto).png</marquee>
 		<developer/>
 		<publisher/>
@@ -2664,7 +2664,7 @@
 		<path>./Operation Wolf (Japan).zip</path>
 		<name>오퍼레이션 울프 (일본판)</name>
 		<image>./snap/Operation Wolf (Japan).png</image>
-		<video>./snap/Operation Wolf (Japan).mp4</video>
+		<video>./video/Operation Wolf (Japan).mp4</video>
 		<marquee>./marquee/Operation Wolf (Japan).png</marquee>
 		<developer>타이토</developer>
 		<publisher>NEC</publisher>
@@ -2675,7 +2675,7 @@
 		<path>./Ordyne (Japan).zip</path>
 		<name>오딘 (일본판)</name>
 		<image>./snap/Ordyne (Japan).png</image>
-		<video>./snap/Ordyne (Japan).mp4</video>
+		<video>./video/Ordyne (Japan).mp4</video>
 		<marquee>./marquee/Ordyne (Japan).png</marquee>
 		<developer>남코</developer>
 		<publisher>NEC</publisher>
@@ -2686,7 +2686,7 @@
 		<path>./Ordyne (USA).zip</path>
 		<name>오딘</name>
 		<image>./snap/Ordyne (USA).png</image>
-		<video>./snap/Ordyne (USA).mp4</video>
+		<video>./video/Ordyne (USA).mp4</video>
 		<marquee>./marquee/Ordyne (USA).png</marquee>
 		<developer>남코</developer>
 		<publisher>NEC</publisher>
@@ -2697,7 +2697,7 @@
 		<path>./Out Live (Japan).zip</path>
 		<name>아웃 라이브 (일본판)</name>
 		<image>./snap/Out Live (Japan).png</image>
-		<video>./snap/Out Live (Japan).mp4</video>
+		<video>./video/Out Live (Japan).mp4</video>
 		<marquee>./marquee/Out Live (Japan).png</marquee>
 		<developer>선소프트</developer>
 		<publisher>선소프트</publisher>
@@ -2708,7 +2708,7 @@
 		<path>./Out Run (Japan).zip</path>
 		<name>아웃 런 (일본판)</name>
 		<image>./snap/Out Run (Japan).png</image>
-		<video>./snap/Out Run (Japan).mp4</video>
+		<video>./video/Out Run (Japan).mp4</video>
 		<marquee>./marquee/Out Run (Japan).png</marquee>
 		<developer>NEC</developer>
 		<publisher>세가</publisher>
@@ -2719,7 +2719,7 @@
 		<path>./Override (Japan).zip</path>
 		<name>오버라이드 (일본판)</name>
 		<image>./snap/Override (Japan).png</image>
-		<video>./snap/Override (Japan).mp4</video>
+		<video>./video/Override (Japan).mp4</video>
 		<marquee>./marquee/Override (Japan).png</marquee>
 		<developer>스팅</developer>
 		<publisher>데이터 이스트</publisher>
@@ -2730,7 +2730,7 @@
 		<path>./P-47 - The Freedom Fighter (Japan).zip</path>
 		<name>P-47 - 프리덤 파이터 (일본판)</name>
 		<image>./snap/P-47 - The Freedom Fighter (Japan).png</image>
-		<video>./snap/P-47 - The Freedom Fighter (Japan).mp4</video>
+		<video>./video/P-47 - The Freedom Fighter (Japan).mp4</video>
 		<marquee>./marquee/P-47 - The Freedom Fighter (Japan).png</marquee>
 		<developer>NMK</developer>
 		<publisher>에이콤</publisher>
@@ -2741,7 +2741,7 @@
 		<path>./Pac-Land (Japan).zip</path>
 		<name>팩 랜드 (일본판)</name>
 		<image>./snap/Pac-Land (Japan).png</image>
-		<video>./snap/Pac-Land (Japan).mp4</video>
+		<video>./video/Pac-Land (Japan).mp4</video>
 		<marquee>./marquee/Pac-Land (Japan).png</marquee>
 		<developer>남코</developer>
 		<publisher>NEC</publisher>
@@ -2752,7 +2752,7 @@
 		<path>./Pac-Land (USA).zip</path>
 		<name>팩 랜드</name>
 		<image>./snap/Pac-Land (USA).png</image>
-		<video>./snap/Pac-Land (USA).mp4</video>
+		<video>./video/Pac-Land (USA).mp4</video>
 		<marquee>./marquee/Pac-Land (USA).png</marquee>
 		<developer>남코</developer>
 		<publisher>NEC</publisher>
@@ -2763,7 +2763,7 @@
 		<path>./Pachio-kun - Juuban Shoubu (Japan).zip</path>
 		<name>파치오군 - 10번 승부 (일본판)</name>
 		<image>./snap/Pachio-kun - Juuban Shoubu (Japan).png</image>
-		<video>./snap/Pachio-kun - Juuban Shoubu (Japan).mp4</video>
+		<video>./video/Pachio-kun - Juuban Shoubu (Japan).mp4</video>
 		<marquee>./marquee/Pachio-kun - Juuban Shoubu (Japan).png</marquee>
 		<developer>코코넛 재팬</developer>
 		<publisher>코코넛 재팬</publisher>
@@ -2774,7 +2774,7 @@
 		<path>./Paranoia (Japan).zip</path>
 		<name>파라노이아 (일본판)</name>
 		<image>./snap/Paranoia (Japan).png</image>
-		<video>./snap/Paranoia (Japan).mp4</video>
+		<video>./video/Paranoia (Japan).mp4</video>
 		<marquee>./marquee/Paranoia (Japan).png</marquee>
 		<developer>낙삿 소프트</developer>
 		<publisher>NEC 인터채널</publisher>
@@ -2785,7 +2785,7 @@
 		<path>./Parasol Stars - The Story of Bubble Bobble III (Japan).zip</path>
 		<name>파라솔 스타 - 버블 보블 3 이야기 (일본판)</name>
 		<image>./snap/Parasol Stars - The Story of Bubble Bobble III (Japan).png</image>
-		<video>./snap/Parasol Stars - The Story of Bubble Bobble III (Japan).mp4</video>
+		<video>./video/Parasol Stars - The Story of Bubble Bobble III (Japan).mp4</video>
 		<marquee>./marquee/Parasol Stars - The Story of Bubble Bobble III (Japan).png</marquee>
 		<developer>타이토</developer>
 		<publisher>워킹 디자인</publisher>
@@ -2796,7 +2796,7 @@
 		<path>./Parasol Stars - The Story of Bubble Bobble III (USA).zip</path>
 		<name>파라솔 스타 - 버블 보블 3 이야기</name>
 		<image>./snap/Parasol Stars - The Story of Bubble Bobble III (USA).png</image>
-		<video>./snap/Parasol Stars - The Story of Bubble Bobble III (USA).mp4</video>
+		<video>./video/Parasol Stars - The Story of Bubble Bobble III (USA).mp4</video>
 		<marquee>./marquee/Parasol Stars - The Story of Bubble Bobble III (USA).png</marquee>
 		<developer>타이토</developer>
 		<publisher>워킹 디자인</publisher>
@@ -2807,7 +2807,7 @@
 		<path>./Parodius Da! - Shinwa kara Owarai e (Japan).zip</path>
 		<name>파로디우스다 - 신화에서 웃음으로 (일본판)</name>
 		<image>./snap/Parodius Da! - Shinwa kara Owarai e (Japan).png</image>
-		<video>./snap/Parodius Da! - Shinwa kara Owarai e (Japan).mp4</video>
+		<video>./video/Parodius Da! - Shinwa kara Owarai e (Japan).mp4</video>
 		<marquee>./marquee/Parodius Da! - Shinwa kara Owarai e (Japan).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -2818,7 +2818,7 @@
 		<path>./PC Denjin - Punkic Cyborgs (Japan).zip</path>
 		<name>PC전인 - 펑킥 사이보그스 (일본판)</name>
 		<image>./snap/PC Denjin - Punkic Cyborgs (Japan).png</image>
-		<video>./snap/PC Denjin - Punkic Cyborgs (Japan).mp4</video>
+		<video>./video/PC Denjin - Punkic Cyborgs (Japan).mp4</video>
 		<marquee>./marquee/PC Denjin - Punkic Cyborgs (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
@@ -2829,7 +2829,7 @@
 		<path>./PC Genjin - Pithecanthropus Computerurus (Japan).zip</path>
 		<name>PC원인 (일본판)</name>
 		<image>./snap/PC Genjin - Pithecanthropus Computerurus (Japan).png</image>
-		<video>./snap/PC Genjin - Pithecanthropus Computerurus (Japan).mp4</video>
+		<video>./video/PC Genjin - Pithecanthropus Computerurus (Japan).mp4</video>
 		<marquee>./marquee/PC Genjin - Pithecanthropus Computerurus (Japan).png</marquee>
 		<developer>아틀러스</developer>
 		<publisher>허드슨</publisher>
@@ -2840,7 +2840,7 @@
 		<path>./PC Genjin 2 - Pithecanthropus Computerurus (Japan) (Virtual Console).zip</path>
 		<name>PC원인 2 - 봉크의 복수 (일본판)(버추얼 콘솔)</name>
 		<image>./snap/PC Genjin 2 - Pithecanthropus Computerurus (Japan) (Virtual Console).png</image>
-		<video>./snap/PC Genjin 2 - Pithecanthropus Computerurus (Japan) (Virtual Console).mp4</video>
+		<video>./video/PC Genjin 2 - Pithecanthropus Computerurus (Japan) (Virtual Console).mp4</video>
 		<marquee>./marquee/PC Genjin 2 - Pithecanthropus Computerurus (Japan) (Virtual Console).png</marquee>
 		<developer>레드 컴퍼니</developer>
 		<publisher>NEC</publisher>
@@ -2851,7 +2851,7 @@
 		<path>./PC Genjin 2 - Pithecanthropus Computerurus (Japan).zip</path>
 		<name>PC원인 2 - 봉크의 복수 (일본판)</name>
 		<image>./snap/PC Genjin 2 - Pithecanthropus Computerurus (Japan).png</image>
-		<video>./snap/PC Genjin 2 - Pithecanthropus Computerurus (Japan).mp4</video>
+		<video>./video/PC Genjin 2 - Pithecanthropus Computerurus (Japan).mp4</video>
 		<marquee>./marquee/PC Genjin 2 - Pithecanthropus Computerurus (Japan).png</marquee>
 		<developer>레드 컴퍼니</developer>
 		<publisher>NEC</publisher>
@@ -2862,7 +2862,7 @@
 		<path>./PC Genjin 3 - Pithecanthropus Computerurus (Japan) (Sample).zip</path>
 		<name>PC원인 3 - 봉크의 대모험 (일본판)(샘플)</name>
 		<image>./snap/PC Genjin 3 - Pithecanthropus Computerurus (Japan) (Sample).png</image>
-		<video>./snap/PC Genjin 3 - Pithecanthropus Computerurus (Japan) (Sample).mp4</video>
+		<video>./video/PC Genjin 3 - Pithecanthropus Computerurus (Japan) (Sample).mp4</video>
 		<marquee>./marquee/PC Genjin 3 - Pithecanthropus Computerurus (Japan) (Sample).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>터보 테크놀리지</publisher>
@@ -2873,7 +2873,7 @@
 		<path>./PC Genjin 3 - Pithecanthropus Computerurus (Japan).zip</path>
 		<name>PC원인 3 - 봉크의 대모험 (일본판)</name>
 		<image>./snap/PC Genjin 3 - Pithecanthropus Computerurus (Japan).png</image>
-		<video>./snap/PC Genjin 3 - Pithecanthropus Computerurus (Japan).mp4</video>
+		<video>./video/PC Genjin 3 - Pithecanthropus Computerurus (Japan).mp4</video>
 		<marquee>./marquee/PC Genjin 3 - Pithecanthropus Computerurus (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>터보 테크놀리지</publisher>
@@ -2884,7 +2884,7 @@
 		<path>./PC Pachi-Slot - Idol Gambler (Japan) (Unl).zip</path>
 		<name>PC 파치슬롯 - 아이돌 갬블러 (일본판)(해적판)</name>
 		<image>./snap/PC Pachi-Slot - Idol Gambler (Japan) (Unl).png</image>
-		<video>./snap/PC Pachi-Slot - Idol Gambler (Japan) (Unl).mp4</video>
+		<video>./video/PC Pachi-Slot - Idol Gambler (Japan) (Unl).mp4</video>
 		<marquee>./marquee/PC Pachi-Slot - Idol Gambler (Japan) (Unl).png</marquee>
 		<developer>게임익스프레스</developer>
 		<publisher>게임익스프레스</publisher>
@@ -2895,7 +2895,7 @@
 		<path>./Populous (Japan).zip</path>
 		<name>파퓰러스 (일본판)</name>
 		<image>./snap/Populous (Japan).png</image>
-		<video>./snap/Populous (Japan).mp4</video>
+		<video>./video/Populous (Japan).mp4</video>
 		<marquee>./marquee/Populous (Japan).png</marquee>
 		<developer>블프로그</developer>
 		<publisher>허드슨</publisher>
@@ -2906,7 +2906,7 @@
 		<path>./Power Drift (Japan).zip</path>
 		<name>파워 드리프트 (일본판)</name>
 		<image>./snap/Power Drift (Japan).png</image>
-		<video>./snap/Power Drift (Japan).mp4</video>
+		<video>./video/Power Drift (Japan).mp4</video>
 		<marquee>./marquee/Power Drift (Japan).png</marquee>
 		<developer>애스믹 에이스 엔터테인먼트</developer>
 		<publisher>세가</publisher>
@@ -2917,7 +2917,7 @@
 		<path>./Power Eleven (Japan).zip</path>
 		<name>파워 일레븐 (일본판)</name>
 		<image>./snap/Power Eleven (Japan).png</image>
-		<video>./snap/Power Eleven (Japan).mp4</video>
+		<video>./video/Power Eleven (Japan).mp4</video>
 		<marquee>./marquee/Power Eleven (Japan).png</marquee>
 		<developer>웨스트 원</developer>
 		<publisher>허드슨</publisher>
@@ -2928,7 +2928,7 @@
 		<path>./Power Gate (Japan).zip</path>
 		<name>파워 게이트 (일본판)</name>
 		<image>./snap/Power Gate (Japan).png</image>
-		<video>./snap/Power Gate (Japan).mp4</video>
+		<video>./video/Power Gate (Japan).mp4</video>
 		<marquee>./marquee/Power Gate (Japan).png</marquee>
 		<developer>메이크</developer>
 		<publisher>팩인 비디오</publisher>
@@ -2939,7 +2939,7 @@
 		<path>./Power Golf (Japan).zip</path>
 		<name>파워 골프 (일본판)</name>
 		<image>./snap/Power Golf (Japan).png</image>
-		<video>./snap/Power Golf (Japan).mp4</video>
+		<video>./video/Power Golf (Japan).mp4</video>
 		<marquee>./marquee/Power Golf (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
@@ -2950,7 +2950,7 @@
 		<path>./Power Golf (USA).zip</path>
 		<name>파워 골프</name>
 		<image>./snap/Power Golf (USA).png</image>
-		<video>./snap/Power Golf (USA).mp4</video>
+		<video>./video/Power Golf (USA).mp4</video>
 		<marquee>./marquee/Power Golf (USA).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
@@ -2961,7 +2961,7 @@
 		<path>./Power League '93 (Japan).zip</path>
 		<name>파워 리그 93 (일본판)</name>
 		<image>./snap/Power League '93 (Japan).png</image>
-		<video>./snap/Power League '93 (Japan).mp4</video>
+		<video>./video/Power League '93 (Japan).mp4</video>
 		<marquee>./marquee/Power League '93 (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
@@ -2972,7 +2972,7 @@
 		<path>./Power League (Japan).zip</path>
 		<name>파워 리그 (일본판)</name>
 		<image>./snap/Power League (Japan).png</image>
-		<video>./snap/Power League (Japan).mp4</video>
+		<video>./video/Power League (Japan).mp4</video>
 		<marquee>./marquee/Power League (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>NEC 인터채널</publisher>
@@ -2983,7 +2983,7 @@
 		<path>./Power League 4 (Japan).zip</path>
 		<name>파워리그 4 (일본판)</name>
 		<image>./snap/Power League 4 (Japan).png</image>
-		<video>./snap/Power League 4 (Japan).mp4</video>
+		<video>./video/Power League 4 (Japan).mp4</video>
 		<marquee>./marquee/Power League 4 (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
@@ -2994,7 +2994,7 @@
 		<path>./Power League 5 (Japan).zip</path>
 		<name>파워리그 5 (일본판)</name>
 		<image>./snap/Power League 5 (Japan).png</image>
-		<video>./snap/Power League 5 (Japan).mp4</video>
+		<video>./video/Power League 5 (Japan).mp4</video>
 		<marquee>./marquee/Power League 5 (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
@@ -3005,7 +3005,7 @@
 		<path>./Power League II (Japan).zip</path>
 		<name>파워 리그 2 (일본판)</name>
 		<image>./snap/Power League II (Japan).png</image>
-		<video>./snap/Power League II (Japan).mp4</video>
+		<video>./video/Power League II (Japan).mp4</video>
 		<marquee>./marquee/Power League II (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
@@ -3016,7 +3016,7 @@
 		<path>./Power League III (Japan).zip</path>
 		<name>파워 리그 3 (일본판)</name>
 		<image>./snap/Power League III (Japan).png</image>
-		<video>./snap/Power League III (Japan).mp4</video>
+		<video>./video/Power League III (Japan).mp4</video>
 		<marquee>./marquee/Power League III (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
@@ -3027,7 +3027,7 @@
 		<path>./Power Sports (Japan).zip</path>
 		<name>파워 스포츠 (일본판)</name>
 		<image>./snap/Power Sports (Japan).png</image>
-		<video>./snap/Power Sports (Japan).mp4</video>
+		<video>./video/Power Sports (Japan).mp4</video>
 		<marquee>./marquee/Power Sports (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
@@ -3038,7 +3038,7 @@
 		<path>./Power Tennis (Japan).zip</path>
 		<name>파워 테니스 (일본판)</name>
 		<image>./snap/Power Tennis (Japan).png</image>
-		<video>./snap/Power Tennis (Japan).mp4</video>
+		<video>./video/Power Tennis (Japan).mp4</video>
 		<marquee>./marquee/Power Tennis (Japan).png</marquee>
 		<developer>나우 프로덕션</developer>
 		<publisher>허드슨</publisher>
@@ -3049,7 +3049,7 @@
 		<path>./Pro Tennis - World Court (Japan).zip</path>
 		<name>프로 테니스 - 월드 코트 (일본판)</name>
 		<image>./snap/Pro Tennis - World Court (Japan).png</image>
-		<video>./snap/Pro Tennis - World Court (Japan).mp4</video>
+		<video>./video/Pro Tennis - World Court (Japan).mp4</video>
 		<marquee>./marquee/Pro Tennis - World Court (Japan).png</marquee>
 		<developer>남코</developer>
 		<publisher>NEC</publisher>
@@ -3060,7 +3060,7 @@
 		<path>./Pro Yakyuu World Stadium '91 (Japan).zip</path>
 		<name>프로 야구 월드 스타디움 91 (일본판)</name>
 		<image>./snap/Pro Yakyuu World Stadium '91 (Japan).png</image>
-		<video>./snap/Pro Yakyuu World Stadium '91 (Japan).mp4</video>
+		<video>./video/Pro Yakyuu World Stadium '91 (Japan).mp4</video>
 		<marquee>./marquee/Pro Yakyuu World Stadium '91 (Japan).png</marquee>
 		<developer>남코</developer>
 		<publisher>남코</publisher>
@@ -3071,7 +3071,7 @@
 		<path>./Pro Yakyuu World Stadium (Japan).zip</path>
 		<name>프로 야구 월드 스타디움 (일본판)</name>
 		<image>./snap/Pro Yakyuu World Stadium (Japan).png</image>
-		<video>./snap/Pro Yakyuu World Stadium (Japan).mp4</video>
+		<video>./video/Pro Yakyuu World Stadium (Japan).mp4</video>
 		<marquee>./marquee/Pro Yakyuu World Stadium (Japan).png</marquee>
 		<developer>남코</developer>
 		<publisher>남코</publisher>
@@ -3082,7 +3082,7 @@
 		<path>./Psycho Chaser (Japan).zip</path>
 		<name>사이코 체이서 (일본판)</name>
 		<image>./snap/Psycho Chaser (Japan).png</image>
-		<video>./snap/Psycho Chaser (Japan).mp4</video>
+		<video>./video/Psycho Chaser (Japan).mp4</video>
 		<marquee>./marquee/Psycho Chaser (Japan).png</marquee>
 		<developer>스팅</developer>
 		<publisher>낙삿 소프트</publisher>
@@ -3093,7 +3093,7 @@
 		<path>./Psychosis (USA).zip</path>
 		<name>사이코시스</name>
 		<image>./snap/Psychosis (USA).png</image>
-		<video>./snap/Psychosis (USA).mp4</video>
+		<video>./video/Psychosis (USA).mp4</video>
 		<marquee>./marquee/Psychosis (USA).png</marquee>
 		<developer>낙삿 소프트</developer>
 		<publisher>NEC 인터채널</publisher>
@@ -3104,7 +3104,7 @@
 		<path>./Puzzle Boy (Japan).zip</path>
 		<name>퍼즐 보이 (일본판)</name>
 		<image>./snap/Puzzle Boy (Japan).png</image>
-		<video>./snap/Puzzle Boy (Japan).mp4</video>
+		<video>./video/Puzzle Boy (Japan).mp4</video>
 		<marquee>./marquee/Puzzle Boy (Japan).png</marquee>
 		<developer>아틀러스</developer>
 		<publisher>니폰 텔넷</publisher>
@@ -3115,7 +3115,7 @@
 		<path>./Puzznic (Japan).zip</path>
 		<name>퍼즈닉 (일본판)</name>
 		<image>./snap/Puzznic (Japan).png</image>
-		<video>./snap/Puzznic (Japan).mp4</video>
+		<video>./video/Puzznic (Japan).mp4</video>
 		<marquee>./marquee/Puzznic (Japan).png</marquee>
 		<developer>타이토</developer>
 		<publisher>타이토</publisher>
@@ -3126,7 +3126,7 @@
 		<path>./Quiz Toukou Shashin (Japan) (Unl).zip</path>
 		<name>퀴즈 투고사진 (일본판)(해적판)</name>
 		<image>./snap/Quiz Toukou Shashin (Japan) (Unl).png</image>
-		<video>./snap/Quiz Toukou Shashin (Japan) (Unl).mp4</video>
+		<video>./video/Quiz Toukou Shashin (Japan) (Unl).mp4</video>
 		<marquee>./marquee/Quiz Toukou Shashin (Japan) (Unl).png</marquee>
 		<developer>게임익스프레스</developer>
 		<publisher>게임익스프레스</publisher>
@@ -3137,7 +3137,7 @@
 		<path>./R-Type (USA).zip</path>
 		<name>R - 타입</name>
 		<image>./snap/R-Type (USA).png</image>
-		<video>./snap/R-Type (USA).mp4</video>
+		<video>./video/R-Type (USA).mp4</video>
 		<marquee>./marquee/R-Type (USA).png</marquee>
 		<developer>아이렘</developer>
 		<publisher>NEC</publisher>
@@ -3148,7 +3148,7 @@
 		<path>./R-Type I (Japan).zip</path>
 		<name>R - 타입 (일본판)</name>
 		<image>./snap/R-Type I (Japan).png</image>
-		<video>./snap/R-Type I (Japan).mp4</video>
+		<video>./video/R-Type I (Japan).mp4</video>
 		<marquee>./marquee/R-Type I (Japan).png</marquee>
 		<developer>아이렘</developer>
 		<publisher>NEC</publisher>
@@ -3159,7 +3159,7 @@
 		<path>./R-Type II (Japan).zip</path>
 		<name>R - 타입 2 (일본판)</name>
 		<image>./snap/R-Type II (Japan).png</image>
-		<video>./snap/R-Type II (Japan).mp4</video>
+		<video>./video/R-Type II (Japan).mp4</video>
 		<marquee>./marquee/R-Type II (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
@@ -3170,7 +3170,7 @@
 		<path>./Rabio Lepus Special (Japan).zip</path>
 		<name>라비오 레프스 스페셜 (일본판)</name>
 		<image>./snap/Rabio Lepus Special (Japan).png</image>
-		<video>./snap/Rabio Lepus Special (Japan).mp4</video>
+		<video>./video/Rabio Lepus Special (Japan).mp4</video>
 		<marquee>./marquee/Rabio Lepus Special (Japan).png</marquee>
 		<developer>비디오 시스템</developer>
 		<publisher>비디오 시스템</publisher>
@@ -3181,7 +3181,7 @@
 		<path>./Racing Damashii (Japan).zip</path>
 		<name>레이싱 혼 (일본판)</name>
 		<image>./snap/Racing Damashii (Japan).png</image>
-		<video>./snap/Racing Damashii (Japan).mp4</video>
+		<video>./video/Racing Damashii (Japan).mp4</video>
 		<marquee>./marquee/Racing Damashii (Japan).png</marquee>
 		<developer>아이렘</developer>
 		<publisher>아이렘</publisher>
@@ -3192,7 +3192,7 @@
 		<path>./Raiden (Japan).zip</path>
 		<name>라이덴 (일본판)</name>
 		<image>./snap/Raiden (Japan).png</image>
-		<video>./snap/Raiden (Japan).mp4</video>
+		<video>./video/Raiden (Japan).mp4</video>
 		<marquee>./marquee/Raiden (Japan).png</marquee>
 		<developer>세이부 개발</developer>
 		<publisher>NEC</publisher>
@@ -3203,7 +3203,7 @@
 		<path>./Raiden (USA).zip</path>
 		<name>라이덴</name>
 		<image>./snap/Raiden (USA).png</image>
-		<video>./snap/Raiden (USA).mp4</video>
+		<video>./video/Raiden (USA).mp4</video>
 		<marquee>./marquee/Raiden (USA).png</marquee>
 		<developer>세이부 개발</developer>
 		<publisher>NEC</publisher>
@@ -3214,7 +3214,7 @@
 		<path>./Rastan Saga II (Japan).zip</path>
 		<name>라스탄 사가 2 (일본판)</name>
 		<image>./snap/Rastan Saga II (Japan).png</image>
-		<video>./snap/Rastan Saga II (Japan).mp4</video>
+		<video>./video/Rastan Saga II (Japan).mp4</video>
 		<marquee>./marquee/Rastan Saga II (Japan).png</marquee>
 		<developer>타이토</developer>
 		<publisher>타이토</publisher>
@@ -3225,7 +3225,7 @@
 		<path>./Rock-On (Japan).zip</path>
 		<name>락-온 (일본판)</name>
 		<image>./snap/Rock-On (Japan).png</image>
-		<video>./snap/Rock-On (Japan).mp4</video>
+		<video>./video/Rock-On (Japan).mp4</video>
 		<marquee>./marquee/Rock-On (Japan).png</marquee>
 		<developer>만청당</developer>
 		<publisher>빅 클럽</publisher>
@@ -3236,7 +3236,7 @@
 		<path>./Ryuukyuu (Japan).zip</path>
 		<name>류큐 (일본판)</name>
 		<image>./snap/Ryuukyuu (Japan).png</image>
-		<video>./snap/Ryuukyuu (Japan).mp4</video>
+		<video>./video/Ryuukyuu (Japan).mp4</video>
 		<marquee>./marquee/Ryuukyuu (Japan).png</marquee>
 		<developer>참근도</developer>
 		<publisher>페이스</publisher>
@@ -3247,7 +3247,7 @@
 		<path>./S.C.I. - Special Criminal Investigation (Japan).zip</path>
 		<name>S.C.I. 스페셜 크리미럴 인베스티게이션 (일본판)</name>
 		<image>./snap/S.C.I. - Special Criminal Investigation (Japan).png</image>
-		<video>./snap/S.C.I. - Special Criminal Investigation (Japan).mp4</video>
+		<video>./video/S.C.I. - Special Criminal Investigation (Japan).mp4</video>
 		<marquee>./marquee/S.C.I. - Special Criminal Investigation (Japan).png</marquee>
 		<developer>타이토</developer>
 		<publisher/>
@@ -3258,7 +3258,7 @@
 		<path>./Sadakichi Seven - Hideyoshi no Ougon (Japan).zip</path>
 		<name>사다키치 세븐 - 히데요시의 황금 (일본판)</name>
 		<image>./snap/Sadakichi Seven - Hideyoshi no Ougon (Japan).png</image>
-		<video>./snap/Sadakichi Seven - Hideyoshi no Ougon (Japan).mp4</video>
+		<video>./video/Sadakichi Seven - Hideyoshi no Ougon (Japan).mp4</video>
 		<marquee>./marquee/Sadakichi Seven - Hideyoshi no Ougon (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
@@ -3269,7 +3269,7 @@
 		<path>./Saigo no Nindou - Ninja Spirit (Japan).zip</path>
 		<name>닌자 스피리츠 - 최후의 인도 (일본판)</name>
 		<image>./snap/Saigo no Nindou - Ninja Spirit (Japan).png</image>
-		<video>./snap/Saigo no Nindou - Ninja Spirit (Japan).mp4</video>
+		<video>./video/Saigo no Nindou - Ninja Spirit (Japan).mp4</video>
 		<marquee>./marquee/Saigo no Nindou - Ninja Spirit (Japan).png</marquee>
 		<developer>아이렘</developer>
 		<publisher>아이렘</publisher>
@@ -3280,7 +3280,7 @@
 		<path>./Salamander (Japan).zip</path>
 		<name>사라만다 (일본판)</name>
 		<image>./snap/Salamander (Japan).png</image>
-		<video>./snap/Salamander (Japan).mp4</video>
+		<video>./video/Salamander (Japan).mp4</video>
 		<marquee>./marquee/Salamander (Japan).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -3291,7 +3291,7 @@
 		<path>./Samurai-Ghost (USA).zip</path>
 		<name>사무라이 고스트</name>
 		<image>./snap/Samurai-Ghost (USA).png</image>
-		<video>./snap/Samurai-Ghost (USA).mp4</video>
+		<video>./video/Samurai-Ghost (USA).mp4</video>
 		<marquee>./marquee/Samurai-Ghost (USA).png</marquee>
 		<developer>남코</developer>
 		<publisher>남코</publisher>
@@ -3302,7 +3302,7 @@
 		<path>./Sekigahara (Japan).zip</path>
 		<name>세키가와라 (일본판)</name>
 		<image>./snap/Sekigahara (Japan).png</image>
-		<video>./snap/Sekigahara (Japan).mp4</video>
+		<video>./video/Sekigahara (Japan).mp4</video>
 		<marquee>./marquee/Sekigahara (Japan).png</marquee>
 		<developer>토킨하우스</developer>
 		<publisher>토킨하우스</publisher>
@@ -3313,7 +3313,7 @@
 		<path>./Sengoku Mahjong (Japan).zip</path>
 		<name>전국 마작 (일본판)</name>
 		<image>./snap/Sengoku Mahjong (Japan).png</image>
-		<video>./snap/Sengoku Mahjong (Japan).mp4</video>
+		<video>./video/Sengoku Mahjong (Japan).mp4</video>
 		<marquee>./marquee/Sengoku Mahjong (Japan).png</marquee>
 		<developer/>
 		<publisher/>
@@ -3324,7 +3324,7 @@
 		<path>./Shanghai (Japan).zip</path>
 		<name>상하이 (일본판)</name>
 		<image>./snap/Shanghai (Japan).png</image>
-		<video>./snap/Shanghai (Japan).mp4</video>
+		<video>./video/Shanghai (Japan).mp4</video>
 		<marquee>./marquee/Shanghai (Japan).png</marquee>
 		<developer/>
 		<publisher/>
@@ -3335,7 +3335,7 @@
 		<path>./Shinobi (Japan).zip</path>
 		<name>시노비 (일본판)</name>
 		<image>./snap/Shinobi (Japan).png</image>
-		<video>./snap/Shinobi (Japan).mp4</video>
+		<video>./video/Shinobi (Japan).mp4</video>
 		<marquee>./marquee/Shinobi (Japan).png</marquee>
 		<developer>애스믹 에이스 엔터테인먼트</developer>
 		<publisher>세가</publisher>
@@ -3346,7 +3346,7 @@
 		<path>./Shiryou Sensen - War of the Dead (Japan).zip</path>
 		<name>사령전선 - 워 오브 더 데드 (일본판)</name>
 		<image>./snap/Shiryou Sensen - War of the Dead (Japan).png</image>
-		<video>./snap/Shiryou Sensen - War of the Dead (Japan).mp4</video>
+		<video>./video/Shiryou Sensen - War of the Dead (Japan).mp4</video>
 		<marquee>./marquee/Shiryou Sensen - War of the Dead (Japan).png</marquee>
 		<developer/>
 		<publisher>핌 팩토리</publisher>
@@ -3357,7 +3357,7 @@
 		<path>./Shockman (USA).zip</path>
 		<name>쇼크맨</name>
 		<image>./snap/Shockman (USA).png</image>
-		<video>./snap/Shockman (USA).mp4</video>
+		<video>./video/Shockman (USA).mp4</video>
 		<marquee>./marquee/Shockman (USA).png</marquee>
 		<developer>윈드</developer>
 		<publisher>NCS</publisher>
@@ -3368,7 +3368,7 @@
 		<path>./Shougi Shodan Icchokusen (Japan).zip</path>
 		<name>장기 초단 일직선 (일본판)</name>
 		<image>./snap/Shougi Shodan Icchokusen (Japan).png</image>
-		<video>./snap/Shougi Shodan Icchokusen (Japan).mp4</video>
+		<video>./video/Shougi Shodan Icchokusen (Japan).mp4</video>
 		<marquee>./marquee/Shougi Shodan Icchokusen (Japan).png</marquee>
 		<developer>옴데이터</developer>
 		<publisher>옴데이터</publisher>
@@ -3379,7 +3379,7 @@
 		<path>./Shougi Shoshinsha Muyou (Japan).zip</path>
 		<name>장기 초심자 무용 (일본판)</name>
 		<image>./snap/Shougi Shoshinsha Muyou (Japan).png</image>
-		<video>./snap/Shougi Shoshinsha Muyou (Japan).mp4</video>
+		<video>./video/Shougi Shoshinsha Muyou (Japan).mp4</video>
 		<marquee>./marquee/Shougi Shoshinsha Muyou (Japan).png</marquee>
 		<developer>옴데이터</developer>
 		<publisher>옴데이터</publisher>
@@ -3390,7 +3390,7 @@
 		<path>./SideArms (USA).zip</path>
 		<name>사이드암즈</name>
 		<image>./snap/SideArms (USA).png</image>
-		<video>./snap/SideArms (USA).mp4</video>
+		<video>./video/SideArms (USA).mp4</video>
 		<marquee>./marquee/SideArms (USA).png</marquee>
 		<developer>캡콤</developer>
 		<publisher>래디언스 소프트웨어</publisher>
@@ -3401,7 +3401,7 @@
 		<path>./SideArms - Hyper Dyne (Japan).zip</path>
 		<name>사이드암즈 - 하이퍼 다인 (일본판)</name>
 		<image>./snap/SideArms - Hyper Dyne (Japan).png</image>
-		<video>./snap/SideArms - Hyper Dyne (Japan).mp4</video>
+		<video>./video/SideArms - Hyper Dyne (Japan).mp4</video>
 		<marquee>./marquee/SideArms - Hyper Dyne (Japan).png</marquee>
 		<developer>캡콤</developer>
 		<publisher>래디언스 소프트웨어</publisher>
@@ -3412,7 +3412,7 @@
 		<path>./Silent Debuggers (Japan).zip</path>
 		<name>사일런트 디버거즈 (일본판)</name>
 		<image>./snap/Silent Debuggers (Japan).png</image>
-		<video>./snap/Silent Debuggers (Japan).mp4</video>
+		<video>./video/Silent Debuggers (Japan).mp4</video>
 		<marquee>./marquee/Silent Debuggers (Japan).png</marquee>
 		<developer>데이터 이스트</developer>
 		<publisher>NEC 인터채널</publisher>
@@ -3423,7 +3423,7 @@
 		<path>./Silent Debuggers (USA).zip</path>
 		<name>사일런트 디버거즈</name>
 		<image>./snap/Silent Debuggers (USA).png</image>
-		<video>./snap/Silent Debuggers (USA).mp4</video>
+		<video>./video/Silent Debuggers (USA).mp4</video>
 		<marquee>./marquee/Silent Debuggers (USA).png</marquee>
 		<developer>데이터 이스트</developer>
 		<publisher>NEC 인터채널</publisher>
@@ -3434,7 +3434,7 @@
 		<path>./Sindibad - Chitei no Daimakyuu (Japan).zip</path>
 		<name>신밧드 - 지저의 대마궁 (일본판)</name>
 		<image>./snap/Sindibad - Chitei no Daimakyuu (Japan).png</image>
-		<video>./snap/Sindibad - Chitei no Daimakyuu (Japan).mp4</video>
+		<video>./video/Sindibad - Chitei no Daimakyuu (Japan).mp4</video>
 		<marquee>./marquee/Sindibad - Chitei no Daimakyuu (Japan).png</marquee>
 		<developer/>
 		<publisher>인포메이션 글로벌 서비스</publisher>
@@ -3445,7 +3445,7 @@
 		<path>./Sinistron (USA).zip</path>
 		<name>시니스트론</name>
 		<image>./snap/Sinistron (USA).png</image>
-		<video>./snap/Sinistron (USA).mp4</video>
+		<video>./video/Sinistron (USA).mp4</video>
 		<marquee>./marquee/Sinistron (USA).png</marquee>
 		<developer>인포메이션 글로벌 서비스</developer>
 		<publisher>NEC</publisher>
@@ -3456,7 +3456,7 @@
 		<path>./Skweek (Japan).zip</path>
 		<name>스크위크 (일본판)</name>
 		<image>./snap/Skweek (Japan).png</image>
-		<video>./snap/Skweek (Japan).mp4</video>
+		<video>./video/Skweek (Japan).mp4</video>
 		<marquee>./marquee/Skweek (Japan).png</marquee>
 		<developer>로리시엘</developer>
 		<publisher>빅터 뮤직 인더스트리</publisher>
@@ -3467,7 +3467,7 @@
 		<path>./Soldier Blade (Japan).zip</path>
 		<name>솔져 블레이드 (일본판)</name>
 		<image>./snap/Soldier Blade (Japan).png</image>
-		<video>./snap/Soldier Blade (Japan).mp4</video>
+		<video>./video/Soldier Blade (Japan).mp4</video>
 		<marquee>./marquee/Soldier Blade (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
@@ -3478,7 +3478,7 @@
 		<path>./Soldier Blade (USA).zip</path>
 		<name>솔져 블레이드</name>
 		<image>./snap/Soldier Blade (USA).png</image>
-		<video>./snap/Soldier Blade (USA).mp4</video>
+		<video>./video/Soldier Blade (USA).mp4</video>
 		<marquee>./marquee/Soldier Blade (USA).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
@@ -3489,7 +3489,7 @@
 		<path>./Soldier Blade - Special Version (Japan).zip</path>
 		<name>솔쳐 블레이드 - 스페셜 버젼 (일본판)</name>
 		<image>./snap/Soldier Blade - Special Version (Japan).png</image>
-		<video>./snap/Soldier Blade - Special Version (Japan).mp4</video>
+		<video>./video/Soldier Blade - Special Version (Japan).mp4</video>
 		<marquee>./marquee/Soldier Blade - Special Version (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
@@ -3500,7 +3500,7 @@
 		<path>./Somer Assault (USA).zip</path>
 		<name>소머 어썰트</name>
 		<image>./snap/Somer Assault (USA).png</image>
-		<video>./snap/Somer Assault (USA).mp4</video>
+		<video>./video/Somer Assault (USA).mp4</video>
 		<marquee>./marquee/Somer Assault (USA).png</marquee>
 		<developer>아틀러스</developer>
 		<publisher>아틀러스</publisher>
@@ -3511,7 +3511,7 @@
 		<path>./Son Son II (Japan).zip</path>
 		<name>손 손 2 (일본판)</name>
 		<image>./snap/Son Son II (Japan).png</image>
-		<video>./snap/Son Son II (Japan).mp4</video>
+		<video>./video/Son Son II (Japan).mp4</video>
 		<marquee>./marquee/Son Son II (Japan).png</marquee>
 		<developer>NEC</developer>
 		<publisher>캡콤</publisher>
@@ -3522,7 +3522,7 @@
 		<path>./Sonic Spike - World Championship Beach Volleyball (USA).zip</path>
 		<name>소닉 스파이크</name>
 		<image>./snap/Sonic Spike - World Championship Beach Volleyball (USA).png</image>
-		<video>./snap/Sonic Spike - World Championship Beach Volleyball (USA).mp4</video>
+		<video>./video/Sonic Spike - World Championship Beach Volleyball (USA).mp4</video>
 		<marquee>./marquee/Sonic Spike - World Championship Beach Volleyball (USA).png</marquee>
 		<developer>인포메이션 글로벌 서비스</developer>
 		<publisher>인포메이션 글로벌 서비스</publisher>
@@ -3533,7 +3533,7 @@
 		<path>./Soukoban World (Japan).zip</path>
 		<name>창고번 월드 (일본판)</name>
 		<image>./snap/Soukoban World (Japan).png</image>
-		<video>./snap/Soukoban World (Japan).mp4</video>
+		<video>./video/Soukoban World (Japan).mp4</video>
 		<marquee>./marquee/Soukoban World (Japan).png</marquee>
 		<developer>NEC</developer>
 		<publisher>미디어링</publisher>
@@ -3544,7 +3544,7 @@
 		<path>./Space Harrier (Japan).zip</path>
 		<name>스페이스 해리어 (일본판)</name>
 		<image>./snap/Space Harrier (Japan).png</image>
-		<video>./snap/Space Harrier (Japan).mp4</video>
+		<video>./video/Space Harrier (Japan).mp4</video>
 		<marquee>./marquee/Space Harrier (Japan).png</marquee>
 		<developer>AM2연</developer>
 		<publisher>NEC</publisher>
@@ -3555,7 +3555,7 @@
 		<path>./Space Harrier (USA).zip</path>
 		<name>스페이스 해리어</name>
 		<image>./snap/Space Harrier (USA).png</image>
-		<video>./snap/Space Harrier (USA).mp4</video>
+		<video>./video/Space Harrier (USA).mp4</video>
 		<marquee>./marquee/Space Harrier (USA).png</marquee>
 		<developer>AM2연</developer>
 		<publisher>NEC</publisher>
@@ -3566,7 +3566,7 @@
 		<path>./Space Invaders - Fukkatsu no Hi (Japan).zip</path>
 		<name>스페이스 인베이더 - 부활의 날 (일본판)</name>
 		<image>./snap/Space Invaders - Fukkatsu no Hi (Japan).png</image>
-		<video>./snap/Space Invaders - Fukkatsu no Hi (Japan).mp4</video>
+		<video>./video/Space Invaders - Fukkatsu no Hi (Japan).mp4</video>
 		<marquee>./marquee/Space Invaders - Fukkatsu no Hi (Japan).png</marquee>
 		<developer>타이토</developer>
 		<publisher>타이토</publisher>
@@ -3577,7 +3577,7 @@
 		<path>./Spin Pair (Japan).zip</path>
 		<name>스핀 페어 (일본판)</name>
 		<image>./snap/Spin Pair (Japan).png</image>
-		<video>./snap/Spin Pair (Japan).mp4</video>
+		<video>./video/Spin Pair (Japan).mp4</video>
 		<marquee>./marquee/Spin Pair (Japan).png</marquee>
 		<developer>미디어 링즈</developer>
 		<publisher>미디어 링즈</publisher>
@@ -3588,7 +3588,7 @@
 		<path>./Spiral Wave (Japan).zip</path>
 		<name>스파이럴 웨이브 (일본판)</name>
 		<image>./snap/Spiral Wave (Japan).png</image>
-		<video>./snap/Spiral Wave (Japan).mp4</video>
+		<video>./video/Spiral Wave (Japan).mp4</video>
 		<marquee>./marquee/Spiral Wave (Japan).png</marquee>
 		<developer>미디어 링즈</developer>
 		<publisher>미디어 링즈</publisher>
@@ -3599,7 +3599,7 @@
 		<path>./Splatterhouse (Japan) (En).zip</path>
 		<name>스플레터 하우스 (일본판)(영어)</name>
 		<image>./snap/Splatterhouse (Japan) (En).png</image>
-		<video>./snap/Splatterhouse (Japan) (En).mp4</video>
+		<video>./video/Splatterhouse (Japan) (En).mp4</video>
 		<marquee>./marquee/Splatterhouse (Japan) (En).png</marquee>
 		<developer>남코</developer>
 		<publisher>NEC</publisher>
@@ -3610,7 +3610,7 @@
 		<path>./Splatterhouse (USA).zip</path>
 		<name>스플레터 하우스</name>
 		<image>./snap/Splatterhouse (USA).png</image>
-		<video>./snap/Splatterhouse (USA).mp4</video>
+		<video>./video/Splatterhouse (USA).mp4</video>
 		<marquee>./marquee/Splatterhouse (USA).png</marquee>
 		<developer>남코</developer>
 		<publisher>NEC</publisher>
@@ -3621,7 +3621,7 @@
 		<path>./Stratego (Japan).zip</path>
 		<name>스트라테고 (일본판)</name>
 		<image>./snap/Stratego (Japan).png</image>
-		<video>./snap/Stratego (Japan).mp4</video>
+		<video>./video/Stratego (Japan).mp4</video>
 		<marquee>./marquee/Stratego (Japan).png</marquee>
 		<developer>어콜레이드</developer>
 		<publisher>빅터 인터랙티브</publisher>
@@ -3632,7 +3632,7 @@
 		<path>./Street Fighter II' - Champion Edition (Japan).zip</path>
 		<name>스트리트 파이터 2 - 챔피언 에디션 (일본판)</name>
 		<image>./snap/Street Fighter II' - Champion Edition (Japan).png</image>
-		<video>./snap/Street Fighter II' - Champion Edition (Japan).mp4</video>
+		<video>./video/Street Fighter II' - Champion Edition (Japan).mp4</video>
 		<marquee>./marquee/Street Fighter II' - Champion Edition (Japan).png</marquee>
 		<developer>캡콤</developer>
 		<publisher>NEC 인터채널</publisher>
@@ -3643,7 +3643,7 @@
 		<path>./Strip Fighter II (Japan) (Unl).zip</path>
 		<name>스트립 파이터 2 (일본판)(해적판)</name>
 		<image>./snap/Strip Fighter II (Japan) (Unl).png</image>
-		<video>./snap/Strip Fighter II (Japan) (Unl).mp4</video>
+		<video>./video/Strip Fighter II (Japan) (Unl).mp4</video>
 		<marquee>./marquee/Strip Fighter II (Japan) (Unl).png</marquee>
 		<developer>게임익스프레스</developer>
 		<publisher>게임익스프레스</publisher>
@@ -3654,7 +3654,7 @@
 		<path>./Super Metal Crusher (Japan).zip</path>
 		<name>슈퍼 메탈 크러셔 (일본판)</name>
 		<image>./snap/Super Metal Crusher (Japan).png</image>
-		<video>./snap/Super Metal Crusher (Japan).mp4</video>
+		<video>./video/Super Metal Crusher (Japan).mp4</video>
 		<marquee>./marquee/Super Metal Crusher (Japan).png</marquee>
 		<developer>메이크</developer>
 		<publisher>팩인 비디오</publisher>
@@ -3665,7 +3665,7 @@
 		<path>./Super Momotarou Dentetsu (Japan).zip</path>
 		<name>슈퍼 도태랑 전철 (일본판)</name>
 		<image>./snap/Super Momotarou Dentetsu (Japan).png</image>
-		<video>./snap/Super Momotarou Dentetsu (Japan).mp4</video>
+		<video>./video/Super Momotarou Dentetsu (Japan).mp4</video>
 		<marquee>./marquee/Super Momotarou Dentetsu (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
@@ -3676,7 +3676,7 @@
 		<path>./Super Momotarou Dentetsu II (Japan).zip</path>
 		<name>슈퍼 도태랑 전철2 (일본판)</name>
 		<image>./snap/Super Momotarou Dentetsu II (Japan).png</image>
-		<video>./snap/Super Momotarou Dentetsu II (Japan).mp4</video>
+		<video>./video/Super Momotarou Dentetsu II (Japan).mp4</video>
 		<marquee>./marquee/Super Momotarou Dentetsu II (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
@@ -3687,7 +3687,7 @@
 		<path>./Super Star Soldier (Japan).zip</path>
 		<name>슈퍼 스타 솔져 (일본판)</name>
 		<image>./snap/Super Star Soldier (Japan).png</image>
-		<video>./snap/Super Star Soldier (Japan).mp4</video>
+		<video>./video/Super Star Soldier (Japan).mp4</video>
 		<marquee>./marquee/Super Star Soldier (Japan).png</marquee>
 		<developer>인터스테이트</developer>
 		<publisher>허드슨</publisher>
@@ -3698,7 +3698,7 @@
 		<path>./Super Star Soldier (USA).zip</path>
 		<name>슈퍼 스타 솔져</name>
 		<image>./snap/Super Star Soldier (USA).png</image>
-		<video>./snap/Super Star Soldier (USA).mp4</video>
+		<video>./video/Super Star Soldier (USA).mp4</video>
 		<marquee>./marquee/Super Star Soldier (USA).png</marquee>
 		<developer>인터스테이트</developer>
 		<publisher>허드슨</publisher>
@@ -3709,7 +3709,7 @@
 		<path>./Super Volley Ball (Japan).zip</path>
 		<name>슈퍼 발리볼 (일본판)</name>
 		<image>./snap/Super Volley Ball (Japan).png</image>
-		<video>./snap/Super Volley Ball (Japan).mp4</video>
+		<video>./video/Super Volley Ball (Japan).mp4</video>
 		<marquee>./marquee/Super Volley Ball (Japan).png</marquee>
 		<developer>비디오 시스템</developer>
 		<publisher>NEC</publisher>
@@ -3720,7 +3720,7 @@
 		<path>./Super Volleyball (USA).zip</path>
 		<name>슈퍼 발리볼</name>
 		<image>./snap/Super Volleyball (USA).png</image>
-		<video>./snap/Super Volleyball (USA).mp4</video>
+		<video>./video/Super Volleyball (USA).mp4</video>
 		<marquee>./marquee/Super Volleyball (USA).png</marquee>
 		<developer>비디오 시스템</developer>
 		<publisher>NEC</publisher>
@@ -3731,7 +3731,7 @@
 		<path>./Susanoou Densetsu (Japan).zip</path>
 		<name>스사노오 전설 (일본판)</name>
 		<image>./snap/Susanoou Densetsu (Japan).png</image>
-		<video>./snap/Susanoou Densetsu (Japan).mp4</video>
+		<video>./video/Susanoou Densetsu (Japan).mp4</video>
 		<marquee>./marquee/Susanoou Densetsu (Japan).png</marquee>
 		<developer>알파 시스템</developer>
 		<publisher>허드슨</publisher>
@@ -3742,7 +3742,7 @@
 		<path>./Taito Chase H.Q. (Japan).zip</path>
 		<name>타이토 체이스 H.Q. (일본판)</name>
 		<image>./snap/Taito Chase H.Q. (Japan).png</image>
-		<video>./snap/Taito Chase H.Q. (Japan).mp4</video>
+		<video>./video/Taito Chase H.Q. (Japan).mp4</video>
 		<marquee>./marquee/Taito Chase H.Q. (Japan).png</marquee>
 		<developer>타이토</developer>
 		<publisher>타이토</publisher>
@@ -3753,7 +3753,7 @@
 		<path>./Takahashi Meijin no Shin Bouken-jima (Japan).zip</path>
 		<name>타카하시 명인의 신 모험도 (일본판)</name>
 		<image>./snap/Takahashi Meijin no Shin Bouken-jima (Japan).png</image>
-		<video>./snap/Takahashi Meijin no Shin Bouken-jima (Japan).mp4</video>
+		<video>./video/Takahashi Meijin no Shin Bouken-jima (Japan).mp4</video>
 		<marquee>./marquee/Takahashi Meijin no Shin Bouken-jima (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
@@ -3764,7 +3764,7 @@
 		<path>./Takeda Shingen (Japan).zip</path>
 		<name>다케다 신겐 (일본판)</name>
 		<image>./snap/Takeda Shingen (Japan).png</image>
-		<video>./snap/Takeda Shingen (Japan).mp4</video>
+		<video>./video/Takeda Shingen (Japan).mp4</video>
 		<marquee>./marquee/Takeda Shingen (Japan).png</marquee>
 		<developer>에이콤</developer>
 		<publisher>에이콤</publisher>
@@ -3775,7 +3775,7 @@
 		<path>./Takin' It to the Hoop (USA).zip</path>
 		<name>테이킨 잇 투더 후프</name>
 		<image>./snap/Takin' It to the Hoop (USA).png</image>
-		<video>./snap/Takin' It to the Hoop (USA).mp4</video>
+		<video>./video/Takin' It to the Hoop (USA).mp4</video>
 		<marquee>./marquee/Takin' It to the Hoop (USA).png</marquee>
 		<developer>에이콤</developer>
 		<publisher>NEC</publisher>
@@ -3786,7 +3786,7 @@
 		<path>./TaleSpin (USA).zip</path>
 		<name>테일 스핀</name>
 		<image>./snap/TaleSpin (USA).png</image>
-		<video>./snap/TaleSpin (USA).mp4</video>
+		<video>./video/TaleSpin (USA).mp4</video>
 		<marquee>./marquee/TaleSpin (USA).png</marquee>
 		<developer>인터랙티브 디자인</developer>
 		<publisher>NEC</publisher>
@@ -3797,7 +3797,7 @@
 		<path>./Tatsujin (Japan) (Beta).zip</path>
 		<name>타수진 (일본판)(베타)</name>
 		<image>./snap/Tatsujin (Japan) (Beta).png</image>
-		<video>./snap/Tatsujin (Japan) (Beta).mp4</video>
+		<video>./video/Tatsujin (Japan) (Beta).mp4</video>
 		<marquee>./marquee/Tatsujin (Japan) (Beta).png</marquee>
 		<developer>스팅</developer>
 		<publisher>타이토</publisher>
@@ -3808,7 +3808,7 @@
 		<path>./Tatsujin (Japan).zip</path>
 		<name>타수진 (일본판)</name>
 		<image>./snap/Tatsujin (Japan).png</image>
-		<video>./snap/Tatsujin (Japan).mp4</video>
+		<video>./video/Tatsujin (Japan).mp4</video>
 		<marquee>./marquee/Tatsujin (Japan).png</marquee>
 		<developer>스팅</developer>
 		<publisher>타이토</publisher>
@@ -3819,7 +3819,7 @@
 		<path>./Tatsunoko Fighter (Japan).zip</path>
 		<name>용의 아들파이터 (일본판)</name>
 		<image>./snap/Tatsunoko Fighter (Japan).png</image>
-		<video>./snap/Tatsunoko Fighter (Japan).mp4</video>
+		<video>./video/Tatsunoko Fighter (Japan).mp4</video>
 		<marquee>./marquee/Tatsunoko Fighter (Japan).png</marquee>
 		<developer>어드벤스 커뮤니케이션 컴퍼니</developer>
 		<publisher>토킨하우스</publisher>
@@ -3830,7 +3830,7 @@
 		<path>./Ten no Koe Bank (Japan).zip</path>
 		<name>텐노케 뱅크 카드 (일본판)</name>
 		<image>./snap/Ten no Koe Bank (Japan).png</image>
-		<video>./snap/Ten no Koe Bank (Japan).mp4</video>
+		<video>./video/Ten no Koe Bank (Japan).mp4</video>
 		<marquee>./marquee/Ten no Koe Bank (Japan).png</marquee>
 		<developer/>
 		<publisher/>
@@ -3841,7 +3841,7 @@
 		<path>./Tenseiryuu - Saint Dragon (Japan).zip</path>
 		<name>천성용 - 세인트 드래곤 (일본판)</name>
 		<image>./snap/Tenseiryuu - Saint Dragon (Japan).png</image>
-		<video>./snap/Tenseiryuu - Saint Dragon (Japan).mp4</video>
+		<video>./video/Tenseiryuu - Saint Dragon (Japan).mp4</video>
 		<marquee>./marquee/Tenseiryuu - Saint Dragon (Japan).png</marquee>
 		<developer>NMK</developer>
 		<publisher>아이콤</publisher>
@@ -3852,7 +3852,7 @@
 		<path>./Terra Cresta II - Mandoler no Gyakushuu (Japan).zip</path>
 		<name>독수리 오형제 2 / 테라 크레스타 2 - 만드라의 역습 (일본판)</name>
 		<image>./snap/Terra Cresta II - Mandoler no Gyakushuu (Japan).png</image>
-		<video>./snap/Terra Cresta II - Mandoler no Gyakushuu (Japan).mp4</video>
+		<video>./video/Terra Cresta II - Mandoler no Gyakushuu (Japan).mp4</video>
 		<marquee>./marquee/Terra Cresta II - Mandoler no Gyakushuu (Japan).png</marquee>
 		<developer>일본물산</developer>
 		<publisher>일본물산</publisher>
@@ -3863,7 +3863,7 @@
 		<path>./Thunder Blade (Japan).zip</path>
 		<name>썬더 블레이드 (일본판)</name>
 		<image>./snap/Thunder Blade (Japan).png</image>
-		<video>./snap/Thunder Blade (Japan).mp4</video>
+		<video>./video/Thunder Blade (Japan).mp4</video>
 		<marquee>./marquee/Thunder Blade (Japan).png</marquee>
 		<developer>NEC</developer>
 		<publisher>세가</publisher>
@@ -3874,7 +3874,7 @@
 		<path>./Tiger Road (USA).zip</path>
 		<name>타이거 로드</name>
 		<image>./snap/Tiger Road (USA).png</image>
-		<video>./snap/Tiger Road (USA).mp4</video>
+		<video>./video/Tiger Road (USA).mp4</video>
 		<marquee>./marquee/Tiger Road (USA).png</marquee>
 		<developer>고</developer>
 		<publisher>캡콤</publisher>
@@ -3885,7 +3885,7 @@
 		<path>./Time Cruise (USA).zip</path>
 		<name>타임 크루즈</name>
 		<image>./snap/Time Cruise (USA).png</image>
-		<video>./snap/Time Cruise (USA).mp4</video>
+		<video>./video/Time Cruise (USA).mp4</video>
 		<marquee>./marquee/Time Cruise (USA).png</marquee>
 		<developer>페이스</developer>
 		<publisher>NEC</publisher>
@@ -3896,7 +3896,7 @@
 		<path>./Time Cruise II (Japan).zip</path>
 		<name>타임 크루즈 2 (일본판)</name>
 		<image>./snap/Time Cruise II (Japan).png</image>
-		<video>./snap/Time Cruise II (Japan).mp4</video>
+		<video>./video/Time Cruise II (Japan).mp4</video>
 		<marquee>./marquee/Time Cruise II (Japan).png</marquee>
 		<developer>페이스</developer>
 		<publisher>NEC</publisher>
@@ -3907,7 +3907,7 @@
 		<path>./Timeball (USA).zip</path>
 		<name>타임볼</name>
 		<image>./snap/Timeball (USA).png</image>
-		<video>./snap/Timeball (USA).mp4</video>
+		<video>./video/Timeball (USA).mp4</video>
 		<marquee>./marquee/Timeball (USA).png</marquee>
 		<developer/>
 		<publisher/>
@@ -3918,7 +3918,7 @@
 		<path>./Titan (Japan).zip</path>
 		<name>타이탄 (일본판)</name>
 		<image>./snap/Titan (Japan).png</image>
-		<video>./snap/Titan (Japan).mp4</video>
+		<video>./video/Titan (Japan).mp4</video>
 		<marquee>./marquee/Titan (Japan).png</marquee>
 		<developer>낙삿 소프트</developer>
 		<publisher>티투스</publisher>
@@ -3929,7 +3929,7 @@
 		<path>./Toilet Kids (Japan).zip</path>
 		<name>화장실 소년 (일본판)</name>
 		<image>./snap/Toilet Kids (Japan).png</image>
-		<video>./snap/Toilet Kids (Japan).mp4</video>
+		<video>./video/Toilet Kids (Japan).mp4</video>
 		<marquee>./marquee/Toilet Kids (Japan).png</marquee>
 		<developer>비츠 랩</developer>
 		<publisher>미디어 링즈</publisher>
@@ -3940,7 +3940,7 @@
 		<path>./Tora e no Michi (Japan).zip</path>
 		<name>호랑이의 길 / 타이거 로드 (일본판)</name>
 		<image>./snap/Tora e no Michi (Japan).png</image>
-		<video>./snap/Tora e no Michi (Japan).mp4</video>
+		<video>./video/Tora e no Michi (Japan).mp4</video>
 		<marquee>./marquee/Tora e no Michi (Japan).png</marquee>
 		<developer>고</developer>
 		<publisher>캡콤</publisher>
@@ -3951,7 +3951,7 @@
 		<path>./Tower of Druaga, The (Japan).zip</path>
 		<name>드루아가의 탑 (일본판)</name>
 		<image>./snap/Tower of Druaga, The (Japan).png</image>
-		<video>./snap/Tower of Druaga, The (Japan).mp4</video>
+		<video>./video/Tower of Druaga, The (Japan).mp4</video>
 		<marquee>./marquee/Tower of Druaga, The (Japan).png</marquee>
 		<developer/>
 		<publisher/>
@@ -3962,7 +3962,7 @@
 		<path>./Toy Shop Boys (Japan).zip</path>
 		<name>토이샵 보이즈 (일본판)</name>
 		<image>./snap/Toy Shop Boys (Japan).png</image>
-		<video>./snap/Toy Shop Boys (Japan).mp4</video>
+		<video>./video/Toy Shop Boys (Japan).mp4</video>
 		<marquee>./marquee/Toy Shop Boys (Japan).png</marquee>
 		<developer>빅터 뮤직 인더스트리</developer>
 		<publisher>빅터 뮤직 인더스트리</publisher>
@@ -3973,7 +3973,7 @@
 		<path>./Tricky (Japan).zip</path>
 		<name>트릭키 (일본판)</name>
 		<image>./snap/Tricky (Japan).png</image>
-		<video>./snap/Tricky (Japan).mp4</video>
+		<video>./video/Tricky (Japan).mp4</video>
 		<marquee>./marquee/Tricky (Japan).png</marquee>
 		<developer>IGS</developer>
 		<publisher>IGS</publisher>
@@ -3984,7 +3984,7 @@
 		<path>./Tricky Kick (USA).zip</path>
 		<name>트릭키 킥</name>
 		<image>./snap/Tricky Kick (USA).png</image>
-		<video>./snap/Tricky Kick (USA).mp4</video>
+		<video>./video/Tricky Kick (USA).mp4</video>
 		<marquee>./marquee/Tricky Kick (USA).png</marquee>
 		<developer>IGS</developer>
 		<publisher>IGS</publisher>
@@ -3995,7 +3995,7 @@
 		<path>./Tsuppari Oozumou - Heisei Ban (Japan).zip</path>
 		<name>츠파리 대스모 - 헤이세이 판 (일본판)</name>
 		<image>./snap/Tsuppari Oozumou - Heisei Ban (Japan).png</image>
-		<video>./snap/Tsuppari Oozumou - Heisei Ban (Japan).mp4</video>
+		<video>./video/Tsuppari Oozumou - Heisei Ban (Japan).mp4</video>
 		<marquee>./marquee/Tsuppari Oozumou - Heisei Ban (Japan).png</marquee>
 		<developer>낙삿 소프트</developer>
 		<publisher>낙삿 소프트</publisher>
@@ -4006,7 +4006,7 @@
 		<path>./Tsuru Teruhito no Jissen Kabushiki Bai Bai Game (Japan).zip</path>
 		<name>츠루 테루인의 실전 주식 배 바이 게임 (일본판)</name>
 		<image>./snap/Tsuru Teruhito no Jissen Kabushiki Bai Bai Game (Japan).png</image>
-		<video>./snap/Tsuru Teruhito no Jissen Kabushiki Bai Bai Game (Japan).mp4</video>
+		<video>./video/Tsuru Teruhito no Jissen Kabushiki Bai Bai Game (Japan).mp4</video>
 		<marquee>./marquee/Tsuru Teruhito no Jissen Kabushiki Bai Bai Game (Japan).png</marquee>
 		<developer>토세</developer>
 		<publisher>인텍</publisher>
@@ -4017,7 +4017,7 @@
 		<path>./Turrican (USA).zip</path>
 		<name>투리칸</name>
 		<image>./snap/Turrican (USA).png</image>
-		<video>./snap/Turrican (USA).mp4</video>
+		<video>./video/Turrican (USA).mp4</video>
 		<marquee>./marquee/Turrican (USA).png</marquee>
 		<developer>레인보우 아츠</developer>
 		<publisher>어콜레이드</publisher>
@@ -4028,7 +4028,7 @@
 		<path>./TV Sports Basketball (Japan).zip</path>
 		<name>TV 스포츠 농구 (일본판)</name>
 		<image>./snap/TV Sports Basketball (Japan).png</image>
-		<video>./snap/TV Sports Basketball (Japan).mp4</video>
+		<video>./video/TV Sports Basketball (Japan).mp4</video>
 		<marquee>./marquee/TV Sports Basketball (Japan).png</marquee>
 		<developer>시네웨이브</developer>
 		<publisher>NEC</publisher>
@@ -4039,7 +4039,7 @@
 		<path>./TV Sports Basketball (USA).zip</path>
 		<name>TV 스포츠 농구</name>
 		<image>./snap/TV Sports Basketball (USA).png</image>
-		<video>./snap/TV Sports Basketball (USA).mp4</video>
+		<video>./video/TV Sports Basketball (USA).mp4</video>
 		<marquee>./marquee/TV Sports Basketball (USA).png</marquee>
 		<developer>시네웨이브</developer>
 		<publisher>NEC</publisher>
@@ -4050,7 +4050,7 @@
 		<path>./TV Sports Football (Japan).zip</path>
 		<name>TV 스포츠 축구 (일본판)</name>
 		<image>./snap/TV Sports Football (Japan).png</image>
-		<video>./snap/TV Sports Football (Japan).mp4</video>
+		<video>./video/TV Sports Football (Japan).mp4</video>
 		<marquee>./marquee/TV Sports Football (Japan).png</marquee>
 		<developer>시네웨이브</developer>
 		<publisher>NEC</publisher>
@@ -4061,7 +4061,7 @@
 		<path>./TV Sports Football (USA).zip</path>
 		<name>TV 스포츠 축구</name>
 		<image>./snap/TV Sports Football (USA).png</image>
-		<video>./snap/TV Sports Football (USA).mp4</video>
+		<video>./video/TV Sports Football (USA).mp4</video>
 		<marquee>./marquee/TV Sports Football (USA).png</marquee>
 		<developer>시네웨이브</developer>
 		<publisher>NEC</publisher>
@@ -4072,7 +4072,7 @@
 		<path>./TV Sports Hockey (Japan).zip</path>
 		<name>TV 스포츠 하키 (일본판)</name>
 		<image>./snap/TV Sports Hockey (Japan).png</image>
-		<video>./snap/TV Sports Hockey (Japan).mp4</video>
+		<video>./video/TV Sports Hockey (Japan).mp4</video>
 		<marquee>./marquee/TV Sports Hockey (Japan).png</marquee>
 		<developer>시네웨이브</developer>
 		<publisher>NEC</publisher>
@@ -4083,7 +4083,7 @@
 		<path>./TV Sports Hockey (USA).zip</path>
 		<name>TV 스포츠 하키</name>
 		<image>./snap/TV Sports Hockey (USA).png</image>
-		<video>./snap/TV Sports Hockey (USA).mp4</video>
+		<video>./video/TV Sports Hockey (USA).mp4</video>
 		<marquee>./marquee/TV Sports Hockey (USA).png</marquee>
 		<developer>시네웨이브</developer>
 		<publisher>NEC</publisher>
@@ -4094,7 +4094,7 @@
 		<path>./USA Pro Basketball (Japan).zip</path>
 		<name>USA 프로 바스켓볼 (일본판)</name>
 		<image>./snap/USA Pro Basketball (Japan).png</image>
-		<video>./snap/USA Pro Basketball (Japan).mp4</video>
+		<video>./video/USA Pro Basketball (Japan).mp4</video>
 		<marquee>./marquee/USA Pro Basketball (Japan).png</marquee>
 		<developer>에이콤</developer>
 		<publisher>NEC</publisher>
@@ -4105,7 +4105,7 @@
 		<path>./Valkyrie no Densetsu (Japan).zip</path>
 		<name>왈큐레의 전설 (일본판)</name>
 		<image>./snap/Valkyrie no Densetsu (Japan).png</image>
-		<video>./snap/Valkyrie no Densetsu (Japan).mp4</video>
+		<video>./video/Valkyrie no Densetsu (Japan).mp4</video>
 		<marquee>./marquee/Valkyrie no Densetsu (Japan).png</marquee>
 		<developer>남코</developer>
 		<publisher>남코</publisher>
@@ -4116,7 +4116,7 @@
 		<path>./Veigues - Tactical Gladiator (Japan).zip</path>
 		<name>베이그스 - 택티컬 글래디에이터 (일본판)</name>
 		<image>./snap/Veigues - Tactical Gladiator (Japan).png</image>
-		<video>./snap/Veigues - Tactical Gladiator (Japan).mp4</video>
+		<video>./video/Veigues - Tactical Gladiator (Japan).mp4</video>
 		<marquee>./marquee/Veigues - Tactical Gladiator (Japan).png</marquee>
 		<developer>게임 아츠</developer>
 		<publisher>NEC</publisher>
@@ -4127,7 +4127,7 @@
 		<path>./Veigues - Tactical Gladiator (USA).zip</path>
 		<name>베이그스 - 택티컬 글래디에이터</name>
 		<image>./snap/Veigues - Tactical Gladiator (USA).png</image>
-		<video>./snap/Veigues - Tactical Gladiator (USA).mp4</video>
+		<video>./video/Veigues - Tactical Gladiator (USA).mp4</video>
 		<marquee>./marquee/Veigues - Tactical Gladiator (USA).png</marquee>
 		<developer>게임 아츠</developer>
 		<publisher>NEC</publisher>
@@ -4138,7 +4138,7 @@
 		<path>./Victory Run (USA).zip</path>
 		<name>빅토리 런</name>
 		<image>./snap/Victory Run (USA).png</image>
-		<video>./snap/Victory Run (USA).mp4</video>
+		<video>./video/Victory Run (USA).mp4</video>
 		<marquee>./marquee/Victory Run (USA).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
@@ -4149,7 +4149,7 @@
 		<path>./Victory Run - Eikou no 13,000km (Japan).zip</path>
 		<name>빅토리 런 (일본판)</name>
 		<image>./snap/Victory Run - Eikou no 13,000km (Japan).png</image>
-		<video>./snap/Victory Run - Eikou no 13,000km (Japan).mp4</video>
+		<video>./video/Victory Run - Eikou no 13,000km (Japan).mp4</video>
 		<marquee>./marquee/Victory Run - Eikou no 13,000km (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
@@ -4160,7 +4160,7 @@
 		<path>./Vigilante (Japan).zip</path>
 		<name>자경단 (일본판)</name>
 		<image>./snap/Vigilante (Japan).png</image>
-		<video>./snap/Vigilante (Japan).mp4</video>
+		<video>./video/Vigilante (Japan).mp4</video>
 		<marquee>./marquee/Vigilante (Japan).png</marquee>
 		<developer>NEC</developer>
 		<publisher>아이렘</publisher>
@@ -4171,7 +4171,7 @@
 		<path>./Vigilante (USA).zip</path>
 		<name>자경단</name>
 		<image>./snap/Vigilante (USA).png</image>
-		<video>./snap/Vigilante (USA).mp4</video>
+		<video>./video/Vigilante (USA).mp4</video>
 		<marquee>./marquee/Vigilante (USA).png</marquee>
 		<developer>NEC</developer>
 		<publisher>아이렘</publisher>
@@ -4182,7 +4182,7 @@
 		<path>./Violent Soldier (Japan).zip</path>
 		<name>바이오런트 솔져 (일본판)</name>
 		<image>./snap/Violent Soldier (Japan).png</image>
-		<video>./snap/Violent Soldier (Japan).mp4</video>
+		<video>./video/Violent Soldier (Japan).mp4</video>
 		<marquee>./marquee/Violent Soldier (Japan).png</marquee>
 		<developer>인포메이션 글로벌 서비스</developer>
 		<publisher>NEC</publisher>
@@ -4193,7 +4193,7 @@
 		<path>./Volfied (Japan).zip</path>
 		<name>볼피드 - 땅따먹기 (일본판)</name>
 		<image>./snap/Volfied (Japan).png</image>
-		<video>./snap/Volfied (Japan).mp4</video>
+		<video>./video/Volfied (Japan).mp4</video>
 		<marquee>./marquee/Volfied (Japan).png</marquee>
 		<developer>타이토</developer>
 		<publisher>엠파이어 인터랙티브</publisher>
@@ -4204,7 +4204,7 @@
 		<path>./W-Ring - The Double Rings (Japan).zip</path>
 		<name>W - 링 - 더블링스 (일본판)</name>
 		<image>./snap/W-Ring - The Double Rings (Japan).png</image>
-		<video>./snap/W-Ring - The Double Rings (Japan).mp4</video>
+		<video>./video/W-Ring - The Double Rings (Japan).mp4</video>
 		<marquee>./marquee/W-Ring - The Double Rings (Japan).png</marquee>
 		<developer>낙삿 소프트</developer>
 		<publisher>낙삿 소프트</publisher>
@@ -4215,7 +4215,7 @@
 		<path>./Wai Wai Mahjong - Yukai na Janyuu-tachi (Japan).zip</path>
 		<name>와이 와이 마작 (일본판)</name>
 		<image>./snap/Wai Wai Mahjong - Yukai na Janyuu-tachi (Japan).png</image>
-		<video>./snap/Wai Wai Mahjong - Yukai na Janyuu-tachi (Japan).mp4</video>
+		<video>./video/Wai Wai Mahjong - Yukai na Janyuu-tachi (Japan).mp4</video>
 		<marquee>./marquee/Wai Wai Mahjong - Yukai na Janyuu-tachi (Japan).png</marquee>
 		<developer>비디오 시스템</developer>
 		<publisher>비디오 시스템</publisher>
@@ -4226,7 +4226,7 @@
 		<path>./Wallaby!! - Usagi no Kuni no Kangaroo Race (Japan).zip</path>
 		<name>왈라비!! 토끼 나라의 캥거루 레이스 (일본판)</name>
 		<image>./snap/Wallaby!! - Usagi no Kuni no Kangaroo Race (Japan).png</image>
-		<video>./snap/Wallaby!! - Usagi no Kuni no Kangaroo Race (Japan).mp4</video>
+		<video>./video/Wallaby!! - Usagi no Kuni no Kangaroo Race (Japan).mp4</video>
 		<marquee>./marquee/Wallaby!! - Usagi no Kuni no Kangaroo Race (Japan).png</marquee>
 		<developer>텐키</developer>
 		<publisher>NCS</publisher>
@@ -4237,7 +4237,7 @@
 		<path>./Winning Shot (Japan).zip</path>
 		<name>위닝 샷 (일본판)</name>
 		<image>./snap/Winning Shot (Japan).png</image>
-		<video>./snap/Winning Shot (Japan).mp4</video>
+		<video>./video/Winning Shot (Japan).mp4</video>
 		<marquee>./marquee/Winning Shot (Japan).png</marquee>
 		<developer>데이터 이스트</developer>
 		<publisher>데이터 이스트</publisher>
@@ -4248,7 +4248,7 @@
 		<path>./Wonder Momo (Japan).zip</path>
 		<name>원더 모모 (일본판)</name>
 		<image>./snap/Wonder Momo (Japan).png</image>
-		<video>./snap/Wonder Momo (Japan).mp4</video>
+		<video>./video/Wonder Momo (Japan).mp4</video>
 		<marquee>./marquee/Wonder Momo (Japan).png</marquee>
 		<developer>남코</developer>
 		<publisher>남코</publisher>
@@ -4259,7 +4259,7 @@
 		<path>./World Beach Volley (Japan).zip</path>
 		<name>월드 비치 발리볼 (일본판)</name>
 		<image>./snap/World Beach Volley (Japan).png</image>
-		<video>./snap/World Beach Volley (Japan).mp4</video>
+		<video>./video/World Beach Volley (Japan).mp4</video>
 		<marquee>./marquee/World Beach Volley (Japan).png</marquee>
 		<developer>인포메이션 글로벌 서비스</developer>
 		<publisher>인포메이션 글로벌 서비스</publisher>
@@ -4270,7 +4270,7 @@
 		<path>./World Circuit (Japan).zip</path>
 		<name>월드 서킷 (일본판)</name>
 		<image>./snap/World Circuit (Japan).png</image>
-		<video>./snap/World Circuit (Japan).mp4</video>
+		<video>./video/World Circuit (Japan).mp4</video>
 		<marquee>./marquee/World Circuit (Japan).png</marquee>
 		<developer>게임스튜디오</developer>
 		<publisher>남코</publisher>
@@ -4281,7 +4281,7 @@
 		<path>./World Class Baseball (USA).zip</path>
 		<name>월드 클래스 베이스볼</name>
 		<image>./snap/World Class Baseball (USA).png</image>
-		<video>./snap/World Class Baseball (USA).mp4</video>
+		<video>./video/World Class Baseball (USA).mp4</video>
 		<marquee>./marquee/World Class Baseball (USA).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>NEC 인터채널</publisher>
@@ -4292,7 +4292,7 @@
 		<path>./World Class Baseball (USA, Europe) (Virtual Console).zip</path>
 		<name>월드 클래스 베이스볼 (미국,유럽판)(버추얼 콘솔)</name>
 		<image>./snap/World Class Baseball (USA, Europe) (Virtual Console).png</image>
-		<video>./snap/World Class Baseball (USA, Europe) (Virtual Console).mp4</video>
+		<video>./video/World Class Baseball (USA, Europe) (Virtual Console).mp4</video>
 		<marquee>./marquee/World Class Baseball (USA, Europe) (Virtual Console).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>NEC 인터채널</publisher>
@@ -4303,7 +4303,7 @@
 		<path>./World Court Tennis (USA).zip</path>
 		<name>월드 코트 테니스</name>
 		<image>./snap/World Court Tennis (USA).png</image>
-		<video>./snap/World Court Tennis (USA).mp4</video>
+		<video>./video/World Court Tennis (USA).mp4</video>
 		<marquee>./marquee/World Court Tennis (USA).png</marquee>
 		<developer>남코</developer>
 		<publisher>NEC</publisher>
@@ -4314,7 +4314,7 @@
 		<path>./World Jockey (Japan).zip</path>
 		<name>월드 자키 (일본판)</name>
 		<image>./snap/World Jockey (Japan).png</image>
-		<video>./snap/World Jockey (Japan).mp4</video>
+		<video>./video/World Jockey (Japan).mp4</video>
 		<marquee>./marquee/World Jockey (Japan).png</marquee>
 		<developer>남코</developer>
 		<publisher>남코</publisher>
@@ -4325,7 +4325,7 @@
 		<path>./World Sports Competition (USA).zip</path>
 		<name>월드 스포츠 컴페티션</name>
 		<image>./snap/World Sports Competition (USA).png</image>
-		<video>./snap/World Sports Competition (USA).mp4</video>
+		<video>./video/World Sports Competition (USA).mp4</video>
 		<marquee>./marquee/World Sports Competition (USA).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
@@ -4336,7 +4336,7 @@
 		<path>./Xevious - Fardraut Saga (Japan).zip</path>
 		<name>제비우스 - 파드라우트 전설 (일본판)</name>
 		<image>./snap/Xevious - Fardraut Saga (Japan).png</image>
-		<video>./snap/Xevious - Fardraut Saga (Japan).mp4</video>
+		<video>./video/Xevious - Fardraut Saga (Japan).mp4</video>
 		<marquee>./marquee/Xevious - Fardraut Saga (Japan).png</marquee>
 		<developer>컴파일</developer>
 		<publisher>남코</publisher>
@@ -4347,7 +4347,7 @@
 		<path>./Yo, Bro (USA).zip</path>
 		<name>요 브로</name>
 		<image>./snap/Yo, Bro (USA).png</image>
-		<video>./snap/Yo, Bro (USA).mp4</video>
+		<video>./video/Yo, Bro (USA).mp4</video>
 		<marquee>./marquee/Yo, Bro (USA).png</marquee>
 		<developer>아이콤</developer>
 		<publisher>NEC</publisher>
@@ -4358,7 +4358,7 @@
 		<path>./You-You Jinsei (Japan).zip</path>
 		<name>유유인생 (일본판)</name>
 		<image>./snap/You-You Jinsei (Japan).png</image>
-		<video>./snap/You-You Jinsei (Japan).mp4</video>
+		<video>./video/You-You Jinsei (Japan).mp4</video>
 		<marquee>./marquee/You-You Jinsei (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
@@ -4369,7 +4369,7 @@
 		<path>./Youkai Douchuuki (Japan) (Virtual Console).zip</path>
 		<name>요괴 도중기 (일본판)(버추얼 콘솔)</name>
 		<image>./snap/Youkai Douchuuki (Japan) (Virtual Console).png</image>
-		<video>./snap/Youkai Douchuuki (Japan) (Virtual Console).mp4</video>
+		<video>./video/Youkai Douchuuki (Japan) (Virtual Console).mp4</video>
 		<marquee>./marquee/Youkai Douchuuki (Japan) (Virtual Console).png</marquee>
 		<developer>남코</developer>
 		<publisher>남코</publisher>
@@ -4380,7 +4380,7 @@
 		<path>./Youkai Douchuuki (Japan).zip</path>
 		<name>요괴 도중기 (일본판)</name>
 		<image>./snap/Youkai Douchuuki (Japan).png</image>
-		<video>./snap/Youkai Douchuuki (Japan).mp4</video>
+		<video>./video/Youkai Douchuuki (Japan).mp4</video>
 		<marquee>./marquee/Youkai Douchuuki (Japan).png</marquee>
 		<developer>남코</developer>
 		<publisher>남코</publisher>
@@ -4391,7 +4391,7 @@
 		<path>./Zero4 Champ (Japan) (v1.5).zip</path>
 		<name>제로4 챔프 (일본판)(v1.5)</name>
 		<image>./snap/Zero4 Champ (Japan) (v1.5).png</image>
-		<video>./snap/Zero4 Champ (Japan) (v1.5).mp4</video>
+		<video>./video/Zero4 Champ (Japan) (v1.5).mp4</video>
 		<marquee>./marquee/Zero4 Champ (Japan) (v1.5).png</marquee>
 		<developer>미디어링</developer>
 		<publisher>미디어링</publisher>
@@ -4402,7 +4402,7 @@
 		<path>./Zero4 Champ (Japan).zip</path>
 		<name>제로4 챔프 (일본판)</name>
 		<image>./snap/Zero4 Champ (Japan).png</image>
-		<video>./snap/Zero4 Champ (Japan).mp4</video>
+		<video>./video/Zero4 Champ (Japan).mp4</video>
 		<marquee>./marquee/Zero4 Champ (Japan).png</marquee>
 		<developer>미디어링</developer>
 		<publisher>미디어링</publisher>
@@ -4413,7 +4413,7 @@
 		<path>./Zipang (Japan).zip</path>
 		<name>지팡 (일본판)</name>
 		<image>./snap/Zipang (Japan).png</image>
-		<video>./snap/Zipang (Japan).mp4</video>
+		<video>./video/Zipang (Japan).mp4</video>
 		<marquee>./marquee/Zipang (Japan).png</marquee>
 		<developer>아크 시스템 웍스</developer>
 		<publisher>팩인 비디오</publisher>
@@ -4424,7 +4424,7 @@
 		<path>./[BIOS] CD-ROM System (Japan) (v1.0).zip</path>
 		<name>[바이오스] CD-ROM 시스템 (일본판)(v1.0)</name>
 		<image>./snap/[BIOS] CD-ROM System (Japan) (v1.0).png</image>
-		<video>./snap/[BIOS] CD-ROM System (Japan) (v1.0).mp4</video>
+		<video>./video/[BIOS] CD-ROM System (Japan) (v1.0).mp4</video>
 		<marquee>./marquee/[BIOS] CD-ROM System (Japan) (v1.0).png</marquee>
 		<developer/>
 		<publisher/>
@@ -4435,7 +4435,7 @@
 		<path>./[BIOS] CD-ROM System (Japan) (v2.0).zip</path>
 		<name>[바이오스] CD-ROM 시스템 (일본판)(v2.0)</name>
 		<image>./snap/[BIOS] CD-ROM System (Japan) (v2.0).png</image>
-		<video>./snap/[BIOS] CD-ROM System (Japan) (v2.0).mp4</video>
+		<video>./video/[BIOS] CD-ROM System (Japan) (v2.0).mp4</video>
 		<marquee>./marquee/[BIOS] CD-ROM System (Japan) (v2.0).png</marquee>
 		<developer/>
 		<publisher/>
@@ -4446,7 +4446,7 @@
 		<path>./[BIOS] CD-ROM System (Japan) (v2.1).zip</path>
 		<name>[바이오스] CD-ROM 시스템 (일본판)(v2.1)</name>
 		<image>./snap/[BIOS] CD-ROM System (Japan) (v2.1).png</image>
-		<video>./snap/[BIOS] CD-ROM System (Japan) (v2.1).mp4</video>
+		<video>./video/[BIOS] CD-ROM System (Japan) (v2.1).mp4</video>
 		<marquee>./marquee/[BIOS] CD-ROM System (Japan) (v2.1).png</marquee>
 		<developer/>
 		<publisher/>
@@ -4457,7 +4457,7 @@
 		<path>./[BIOS] Games Express CD Card (Japan) (Blue Version).zip</path>
 		<name>[바이오스] 게임익스프레스 CD 카드 (일본판)(블루 버전)</name>
 		<image>./snap/[BIOS] Games Express CD Card (Japan) (Blue Version).png</image>
-		<video>./snap/[BIOS] Games Express CD Card (Japan) (Blue Version).mp4</video>
+		<video>./video/[BIOS] Games Express CD Card (Japan) (Blue Version).mp4</video>
 		<marquee>./marquee/[BIOS] Games Express CD Card (Japan) (Blue Version).png</marquee>
 		<developer/>
 		<publisher/>
@@ -4468,7 +4468,7 @@
 		<path>./[BIOS] Games Express CD Card (Japan) (Green Version).zip</path>
 		<name>[바이오스] 게임익스프레스 CD 카드 (일본판)</name>
 		<image>./snap/[BIOS] Games Express CD Card (Japan) (Green Version).png</image>
-		<video>./snap/[BIOS] Games Express CD Card (Japan) (Green Version).mp4</video>
+		<video>./video/[BIOS] Games Express CD Card (Japan) (Green Version).mp4</video>
 		<marquee>./marquee/[BIOS] Games Express CD Card (Japan) (Green Version).png</marquee>
 		<developer/>
 		<publisher/>
@@ -4479,7 +4479,7 @@
 		<path>./[BIOS] Super CD-ROM System (Japan) (v3.0).zip</path>
 		<name>[바이오스] 슈퍼 CD-ROM 시스템 (일본판)(v3.0)</name>
 		<image>./snap/[BIOS] Super CD-ROM System (Japan) (v3.0).png</image>
-		<video>./snap/[BIOS] Super CD-ROM System (Japan) (v3.0).mp4</video>
+		<video>./video/[BIOS] Super CD-ROM System (Japan) (v3.0).mp4</video>
 		<marquee>./marquee/[BIOS] Super CD-ROM System (Japan) (v3.0).png</marquee>
 		<developer/>
 		<publisher/>
@@ -4490,7 +4490,7 @@
 		<path>./[BIOS] TurboGrafx CD Super System Card (USA) (v3.0).zip</path>
 		<name>[바이오스] 터보그라픽스 CD 슈퍼 시스템 카드 (v3.0)</name>
 		<image>./snap/[BIOS] TurboGrafx CD Super System Card (USA) (v3.0).png</image>
-		<video>./snap/[BIOS] TurboGrafx CD Super System Card (USA) (v3.0).mp4</video>
+		<video>./video/[BIOS] TurboGrafx CD Super System Card (USA) (v3.0).mp4</video>
 		<marquee>./marquee/[BIOS] TurboGrafx CD Super System Card (USA) (v3.0).png</marquee>
 		<developer/>
 		<publisher/>
@@ -4501,7 +4501,7 @@
 		<path>./[BIOS] TurboGrafx CD System Card (USA) (v2.0).zip</path>
 		<name>[바이오스] 터보그라픽스 CD 시스템 카드 (v2.0)</name>
 		<image>./snap/[BIOS] TurboGrafx CD System Card (USA) (v2.0).png</image>
-		<video>./snap/[BIOS] TurboGrafx CD System Card (USA) (v2.0).mp4</video>
+		<video>./video/[BIOS] TurboGrafx CD System Card (USA) (v2.0).mp4</video>
 		<marquee>./marquee/[BIOS] TurboGrafx CD System Card (USA) (v2.0).png</marquee>
 		<developer/>
 		<publisher/>
@@ -4512,7 +4512,7 @@
 		<path>./1941 - Counter Attack (Japan).zip</path>
 		<name>1941 - 카운터 어택 (일본판)</name>
 		<image>./snap/1941 - Counter Attack (Japan).png</image>
-		<video>./snap/1941 - Counter Attack (Japan).mp4</video>
+		<video>./video/1941 - Counter Attack (Japan).mp4</video>
 		<marquee>./marquee/1941 - Counter Attack (Japan).png</marquee>
 		<developer>캡콤</developer>
 		<publisher>캡콤</publisher>
@@ -4523,7 +4523,7 @@
 		<path>./Battle Ace (Japan).zip</path>
 		<name>배틀 에이스 (일본판)</name>
 		<image>./snap/Battle Ace (Japan).png</image>
-		<video>./snap/Battle Ace (Japan).mp4</video>
+		<video>./video/Battle Ace (Japan).mp4</video>
 		<marquee>./marquee/Battle Ace (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
@@ -4534,7 +4534,7 @@
 		<path>./Madou King Granzort (Japan).zip</path>
 		<name>마동왕 슈퍼 그랑죠 (일본판)</name>
 		<image>./snap/Madou King Granzort (Japan).png</image>
-		<video>./snap/Madou King Granzort (Japan).mp4</video>
+		<video>./video/Madou King Granzort (Japan).mp4</video>
 		<marquee>./marquee/Madou King Granzort (Japan).png</marquee>
 		<developer>선라이즈</developer>
 		<publisher>허드슨</publisher>
@@ -4545,7 +4545,7 @@
 		<path>./Aldynes - The Misson Code for Rage Crisis (Japan).zip</path>
 		<name>알디인즈 - 미션 코드 포 레이지 크라이시스 (일본판)</name>
 		<image>./snap/Aldynes - The Misson Code for Rage Crisis (Japan).png</image>
-		<video>./snap/Aldynes - The Misson Code for Rage Crisis (Japan).mp4</video>
+		<video>./video/Aldynes - The Misson Code for Rage Crisis (Japan).mp4</video>
 		<marquee>./marquee/Aldynes - The Misson Code for Rage Crisis (Japan).png</marquee>
 		<developer>프로듀스</developer>
 		<publisher>허드슨</publisher>
@@ -4556,7 +4556,7 @@
 		<path>./Daimakaimura (Japan).zip</path>
 		<name>대마계촌 (일본판)</name>
 		<image>./snap/Daimakaimura (Japan).png</image>
-		<video>./snap/Daimakaimura (Japan).mp4</video>
+		<video>./video/Daimakaimura (Japan).mp4</video>
 		<marquee>./marquee/Daimakaimura (Japan).png</marquee>
 		<developer>캡콤</developer>
 		<publisher>NEC</publisher>
