@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <!--
 * 제목 : 레트로게임 롬 목록 한글화 프로젝트
@@ -155,7 +155,7 @@
 	</game>
 	<game>
 		<path>./Ace of Aces (Europe, Brazil).zip</path>
-		<name>에이스 오브 에이스 (유럽판)</name>
+		<name>에이스 오브 에이스</name>
 		<image>./snap/Ace of Aces (Europe, Brazil).png</image>
 		<video>./video/Ace of Aces (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Ace of Aces (Europe, Brazil).png</marquee>
@@ -167,7 +167,7 @@
 	</game>
 	<game>
 		<path>./Action Fighter (Japan, Europe) (Beta).zip</path>
-		<name>액션 파이터 (유럽판)(베타)</name>
+		<name>액션 파이터 (일본,유럽판)(베타)</name>
 		<image>./snap/Action Fighter (Japan, Europe) (Beta).png</image>
 		<video>./video/Action Fighter (Japan, Europe) (Beta).mp4</video>
 		<marquee>./marquee/Action Fighter (Japan, Europe) (Beta).png</marquee>
@@ -179,7 +179,7 @@
 	</game>
 	<game>
 		<path>./Action Fighter (Japan, Europe).zip</path>
-		<name>액션 파이터 (일본,유럽판)(개정판 1)</name>
+		<name>액션 파이터 (일본,유럽판)</name>
 		<image>./snap/Action Fighter (Japan, Europe).png</image>
 		<video>./video/Action Fighter (Japan, Europe).mp4</video>
 		<marquee>./marquee/Action Fighter (Japan, Europe).png</marquee>
@@ -203,7 +203,7 @@
 	</game>
 	<game>
 		<path>./Action Fighter (USA, Europe, Brazil) (Rev 1).zip</path>
-		<name>액션 파이터 (미국,유럽판)(개정판 2)</name>
+		<name>액션 파이터 (개정판 1)</name>
 		<image>./snap/Action Fighter (USA, Europe, Brazil) (Rev 1).png</image>
 		<video>./video/Action Fighter (USA, Europe, Brazil) (Rev 1).mp4</video>
 		<marquee>./marquee/Action Fighter (USA, Europe, Brazil) (Rev 1).png</marquee>
@@ -215,7 +215,7 @@
 	</game>
 	<game>
 		<path>./Addams Family, The (Europe).zip</path>
-		<name>에리얼 어썰트 (유럽판)</name>
+		<name>아담스 패밀리 (유럽판)</name>
 		<image>./snap/Addams Family, The (Europe).png</image>
 		<video>./video/Addams Family, The (Europe).mp4</video>
 		<marquee>./marquee/Addams Family, The (Europe).png</marquee>
@@ -239,7 +239,7 @@
 	</game>
 	<game>
 		<path>./Aerial Assault (USA).zip</path>
-		<name>애프터 버너 (세계판)</name>
+		<name>에리얼 어썰트</name>
 		<image>./snap/Aerial Assault (USA).png</image>
 		<video>./video/Aerial Assault (USA).mp4</video>
 		<marquee>./marquee/Aerial Assault (USA).png</marquee>
@@ -251,7 +251,7 @@
 	</game>
 	<game>
 		<path>./After Burner (World).zip</path>
-		<name>아기공룡 둘리 (한국판)(해적판)</name>
+		<name>애프터 버너 (세계판)</name>
 		<image>./snap/After Burner (World).png</image>
 		<video>./video/After Burner (World).mp4</video>
 		<marquee>./marquee/After Burner (World).png</marquee>
@@ -275,7 +275,7 @@
 	</game>
 	<game>
 		<path>./Air Rescue (Europe, Brazil).zip</path>
-		<name>에어 레스큐 (유럽판)</name>
+		<name>에어 레스큐</name>
 		<image>./snap/Air Rescue (Europe, Brazil).png</image>
 		<video>./video/Air Rescue (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Air Rescue (Europe, Brazil).png</marquee>
@@ -287,7 +287,7 @@
 	</game>
 	<game>
 		<path>./Aladdin (Europe, Brazil).zip</path>
-		<name>붉은 광탄 질리온 (일본,유럽판)</name>
+		<name>알라딘</name>
 		<image>./snap/Aladdin (Europe, Brazil).png</image>
 		<video>./video/Aladdin (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Aladdin (Europe, Brazil).png</marquee>
@@ -299,7 +299,7 @@
 	</game>
 	<game>
 		<path>./Aleste (Japan).zip</path>
-		<name>알라딘 (유럽판)</name>
+		<name>알레스트 (일본판)</name>
 		<image>./snap/Aleste (Japan).png</image>
 		<video>./video/Aleste (Japan).mp4</video>
 		<marquee>./marquee/Aleste (Japan).png</marquee>
@@ -311,7 +311,7 @@
 	</game>
 	<game>
 		<path>./Alex Kidd - High-Tech World (USA, Europe, Brazil) (Beta).zip</path>
-		<name>알레스트 (일본판)</name>
+		<name>알렉스 키드 - 하이테크 월드 (베타)</name>
 		<image>./snap/Alex Kidd - High-Tech World (USA, Europe, Brazil) (Beta).png</image>
 		<video>./video/Alex Kidd - High-Tech World (USA, Europe, Brazil) (Beta).mp4</video>
 		<marquee>./marquee/Alex Kidd - High-Tech World (USA, Europe, Brazil) (Beta).png</marquee>
@@ -323,7 +323,7 @@
 	</game>
 	<game>
 		<path>./Alex Kidd - High-Tech World (USA, Europe, Brazil).zip</path>
-		<name>알렉스 키드 BMX 트라이얼 (일본판)</name>
+		<name>알렉스 키드 - 하이테크 월드</name>
 		<image>./snap/Alex Kidd - High-Tech World (USA, Europe, Brazil).png</image>
 		<video>./video/Alex Kidd - High-Tech World (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Alex Kidd - High-Tech World (USA, Europe, Brazil).png</marquee>
@@ -347,7 +347,7 @@
 	</game>
 	<game>
 		<path>./Alex Kidd BMX Trial (Japan).zip</path>
-		<name>알렉스 키드 인 시노비 월드 (미국,유럽판)</name>
+		<name>알렉스 키드 BMX 트라이얼 (일본판)</name>
 		<image>./snap/Alex Kidd BMX Trial (Japan).png</image>
 		<video>./video/Alex Kidd BMX Trial (Japan).mp4</video>
 		<marquee>./marquee/Alex Kidd BMX Trial (Japan).png</marquee>
@@ -359,7 +359,7 @@
 	</game>
 	<game>
 		<path>./Alex Kidd in Miracle World (Taiwan) (Unl).zip</path>
-		<name>알렉스 키드 인 미라클 월드 (미국,유럽판)(개정판 1)</name>
+		<name>알렉스 키드 인 미라클 월드 (대만판)(해적판)</name>
 		<image>./snap/Alex Kidd in Miracle World (Taiwan) (Unl).png</image>
 		<video>./video/Alex Kidd in Miracle World (Taiwan) (Unl).mp4</video>
 		<marquee>./marquee/Alex Kidd in Miracle World (Taiwan) (Unl).png</marquee>
@@ -383,7 +383,7 @@
 	</game>
 	<game>
 		<path>./Alex Kidd in Miracle World (USA, Europe, Brazil) (Rev 1).zip</path>
-		<name>알렉스 키드의 미라클 월드 (일본판)</name>
+		<name>알렉스 키드 인 미라클 월드 (개정판 1)</name>
 		<image>./snap/Alex Kidd in Miracle World (USA, Europe, Brazil) (Rev 1).png</image>
 		<video>./video/Alex Kidd in Miracle World (USA, Europe, Brazil) (Rev 1).mp4</video>
 		<marquee>./marquee/Alex Kidd in Miracle World (USA, Europe, Brazil) (Rev 1).png</marquee>
@@ -395,7 +395,7 @@
 	</game>
 	<game>
 		<path>./Alex Kidd in Shinobi World (USA, Europe, Brazil).zip</path>
-		<name>알프</name>
+		<name>알렉스 키드 인 시노비 월드</name>
 		<image>./snap/Alex Kidd in Shinobi World (USA, Europe, Brazil).png</image>
 		<video>./video/Alex Kidd in Shinobi World (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Alex Kidd in Shinobi World (USA, Europe, Brazil).png</marquee>
@@ -407,7 +407,7 @@
 	</game>
 	<game>
 		<path>./Alex Kidd no Miracle World (Japan).zip</path>
-		<name>알리바바와 40인의 도둑 (한국판)(해적판)</name>
+		<name>알렉스 키드의 미라클 월드 (일본판)</name>
 		<image>./snap/Alex Kidd no Miracle World (Japan).png</image>
 		<video>./video/Alex Kidd no Miracle World (Japan).mp4</video>
 		<marquee>./marquee/Alex Kidd no Miracle World (Japan).png</marquee>
@@ -419,7 +419,7 @@
 	</game>
 	<game>
 		<path>./Alf (USA).zip</path>
-		<name>에일리언 3 (유럽판)</name>
+		<name>알프</name>
 		<image>./snap/Alf (USA).png</image>
 		<video>./video/Alf (USA).mp4</video>
 		<marquee>./marquee/Alf (USA).png</marquee>
@@ -431,7 +431,7 @@
 	</game>
 	<game>
 		<path>./Alibaba and 40 Thieves (Korea) (Unl).zip</path>
-		<name>에일리언 스톰 (유럽판)</name>
+		<name>알리바바와 40인의 도둑 (한국판)(해적판)</name>
 		<image>./snap/Alibaba and 40 Thieves (Korea) (Unl).png</image>
 		<video>./video/Alibaba and 40 Thieves (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Alibaba and 40 Thieves (Korea) (Unl).png</marquee>
@@ -443,7 +443,7 @@
 	</game>
 	<game>
 		<path>./Alien 3 (Europe, Brazil).zip</path>
-		<name>에일리언 신드롬 (일본판)</name>
+		<name>에일리언 3</name>
 		<image>./snap/Alien 3 (Europe, Brazil).png</image>
 		<video>./video/Alien 3 (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Alien 3 (Europe, Brazil).png</marquee>
@@ -455,7 +455,7 @@
 	</game>
 	<game>
 		<path>./Alien Storm (Europe, Brazil).zip</path>
-		<name>에일리언 신드롬 (불명)(베타)</name>
+		<name>에일리언 스톰</name>
 		<image>./snap/Alien Storm (Europe, Brazil).png</image>
 		<video>./video/Alien Storm (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Alien Storm (Europe, Brazil).png</marquee>
@@ -467,7 +467,7 @@
 	</game>
 	<game>
 		<path>./Alien Syndrome (Japan).zip</path>
-		<name>에일리언 신드롬 (미국,유럽판)</name>
+		<name>에일리언 신드롬 (일본판)</name>
 		<image>./snap/Alien Syndrome (Japan).png</image>
 		<video>./video/Alien Syndrome (Japan).mp4</video>
 		<marquee>./marquee/Alien Syndrome (Japan).png</marquee>
@@ -479,7 +479,7 @@
 	</game>
 	<game>
 		<path>./Alien Syndrome (USA, Europe, Brazil) (Beta).zip</path>
-		<name>수왕기 (미국,유럽판)</name>
+		<name>에일리언 신드롬 (베타)</name>
 		<image>./snap/Alien Syndrome (USA, Europe, Brazil) (Beta).png</image>
 		<video>./video/Alien Syndrome (USA, Europe, Brazil) (Beta).mp4</video>
 		<marquee>./marquee/Alien Syndrome (USA, Europe, Brazil) (Beta).png</marquee>
@@ -491,7 +491,7 @@
 	</game>
 	<game>
 		<path>./Alien Syndrome (USA, Europe, Brazil).zip</path>
-		<name>아메리칸 베이스볼 (유럽판)</name>
+		<name>에일리언 신드롬</name>
 		<image>./snap/Alien Syndrome (USA, Europe, Brazil).png</image>
 		<video>./video/Alien Syndrome (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Alien Syndrome (USA, Europe, Brazil).png</marquee>
@@ -503,7 +503,7 @@
 	</game>
 	<game>
 		<path>./Altered Beast (USA, Europe, Brazil).zip</path>
-		<name>아메리칸 프로 풋볼 (유럽판)</name>
+		<name>수왕기</name>
 		<image>./snap/Altered Beast (USA, Europe, Brazil).png</image>
 		<video>./video/Altered Beast (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Altered Beast (USA, Europe, Brazil).png</marquee>
@@ -515,7 +515,7 @@
 	</game>
 	<game>
 		<path>./American Baseball (Europe, Brazil).zip</path>
-		<name>안드레 애거시 테니스 (유럽판)</name>
+		<name>아메리칸 베이스볼</name>
 		<image>./snap/American Baseball (Europe, Brazil).png</image>
 		<video>./video/American Baseball (Europe, Brazil).mp4</video>
 		<marquee>./marquee/American Baseball (Europe, Brazil).png</marquee>
@@ -527,7 +527,7 @@
 	</game>
 	<game>
 		<path>./American Pro Football (Europe).zip</path>
-		<name>알렉스 키드 - 하이테크 월드 (미국,유럽판)</name>
+		<name>아메리칸 프로 풋볼 (유럽판)</name>
 		<image>./snap/American Pro Football (Europe).png</image>
 		<video>./video/American Pro Football (Europe).mp4</video>
 		<marquee>./marquee/American Pro Football (Europe).png</marquee>
@@ -539,7 +539,7 @@
 	</game>
 	<game>
 		<path>./Andre Agassi Tennis (Europe, Brazil).zip</path>
-		<name>안미츠 공주 (일본판)</name>
+		<name>안드레 애거시 테니스</name>
 		<image>./snap/Andre Agassi Tennis (Europe, Brazil).png</image>
 		<video>./video/Andre Agassi Tennis (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Andre Agassi Tennis (Europe, Brazil).png</marquee>
@@ -551,7 +551,7 @@
 	</game>
 	<game>
 		<path>./Anmitsu Hime (Japan).zip</path>
-		<name>아케이드 스매쉬 히트 (유럽판)</name>
+		<name>안미츠 공주 (일본판)</name>
 		<image>./snap/Anmitsu Hime (Japan).png</image>
 		<video>./video/Anmitsu Hime (Japan).mp4</video>
 		<marquee>./marquee/Anmitsu Hime (Japan).png</marquee>
@@ -563,7 +563,7 @@
 	</game>
 	<game>
 		<path>./Arcade Smash Hits (Europe).zip</path>
-		<name>아르고스의 십자검 (일본판)</name>
+		<name>아케이드 스매쉬 히트 (유럽판)</name>
 		<image>./snap/Arcade Smash Hits (Europe).png</image>
 		<video>./video/Arcade Smash Hits (Europe).mp4</video>
 		<marquee>./marquee/Arcade Smash Hits (Europe).png</marquee>
@@ -575,7 +575,7 @@
 	</game>
 	<game>
 		<path>./Argos no Juujiken (Japan).zip</path>
-		<name>인어공주 (브라질판)</name>
+		<name>아르고스의 십자검 (일본판)</name>
 		<image>./snap/Argos no Juujiken (Japan).png</image>
 		<video>./video/Argos no Juujiken (Japan).mp4</video>
 		<marquee>./marquee/Argos no Juujiken (Japan).png</marquee>
@@ -587,7 +587,7 @@
 	</game>
 	<game>
 		<path>./Ariel the Little Mermaid (Brazil).zip</path>
-		<name>아수라 (일본판)</name>
+		<name>아리엘 - 인어 공주 (브라질판)</name>
 		<image>./snap/Ariel the Little Mermaid (Brazil).png</image>
 		<video>./video/Ariel the Little Mermaid (Brazil).mp4</video>
 		<marquee>./marquee/Ariel the Little Mermaid (Brazil).png</marquee>
@@ -599,7 +599,7 @@
 	</game>
 	<game>
 		<path>./Ashura (Japan).zip</path>
-		<name>어썰트 시티 (유럽판)(라이트 페이져)</name>
+		<name>아수라 (일본판)</name>
 		<image>./snap/Ashura (Japan).png</image>
 		<video>./video/Ashura (Japan).mp4</video>
 		<marquee>./marquee/Ashura (Japan).png</marquee>
@@ -623,7 +623,7 @@
 	</game>
 	<game>
 		<path>./Assault City (USA, Europe, Brazil) (Light Phaser).zip</path>
-		<name>아스테릭스와 위대한 구출 (유럽판)</name>
+		<name>어썰트 시티 (라이트 페이져)</name>
 		<image>./snap/Assault City (USA, Europe, Brazil) (Light Phaser).png</image>
 		<video>./video/Assault City (USA, Europe, Brazil) (Light Phaser).mp4</video>
 		<marquee>./marquee/Assault City (USA, Europe, Brazil) (Light Phaser).png</marquee>
@@ -635,7 +635,7 @@
 	</game>
 	<game>
 		<path>./Asterix (Europe, Brazil) (En,Fr) (Rev 1).zip</path>
-		<name>아스테릭스 그리고 비밀 임무 (유럽판)</name>
+		<name>아스테릭스 (개정판 1)</name>
 		<image>./snap/Asterix (Europe, Brazil) (En,Fr) (Rev 1).png</image>
 		<video>./video/Asterix (Europe, Brazil) (En,Fr) (Rev 1).mp4</video>
 		<marquee>./marquee/Asterix (Europe, Brazil) (En,Fr) (Rev 1).png</marquee>
@@ -647,7 +647,7 @@
 	</game>
 	<game>
 		<path>./Asterix (Europe, Brazil) (En,Fr).zip</path>
-		<name>아스테릭스 (유럽판)(개정판 1)</name>
+		<name>아스테릭스</name>
 		<image>./snap/Asterix (Europe, Brazil) (En,Fr).png</image>
 		<video>./video/Asterix (Europe, Brazil) (En,Fr).mp4</video>
 		<marquee>./marquee/Asterix (Europe, Brazil) (En,Fr).png</marquee>
@@ -659,7 +659,7 @@
 	</game>
 	<game>
 		<path>./Asterix and the Great Rescue (Europe, Brazil) (En,Fr,De,Es,It).zip</path>
-		<name>아스테릭스 (유럽판)</name>
+		<name>아스테릭스와 위대한 구출</name>
 		<image>./snap/Asterix and the Great Rescue (Europe, Brazil) (En,Fr,De,Es,It).png</image>
 		<video>./video/Asterix and the Great Rescue (Europe, Brazil) (En,Fr,De,Es,It).mp4</video>
 		<marquee>./marquee/Asterix and the Great Rescue (Europe, Brazil) (En,Fr,De,Es,It).png</marquee>
@@ -671,7 +671,7 @@
 	</game>
 	<game>
 		<path>./Asterix and the Secret Mission (Europe, Brazil) (En,Fr,De).zip</path>
-		<name>아스트로 플래쉬 (일본판)</name>
+		<name>아스테릭스 그리고 비밀 임무</name>
 		<image>./snap/Asterix and the Secret Mission (Europe, Brazil) (En,Fr,De).png</image>
 		<video>./video/Asterix and the Secret Mission (Europe, Brazil) (En,Fr,De).mp4</video>
 		<marquee>./marquee/Asterix and the Secret Mission (Europe, Brazil) (En,Fr,De).png</marquee>
@@ -683,7 +683,7 @@
 	</game>
 	<game>
 		<path>./Astro Flash (Japan).zip</path>
-		<name>아스트로 워리어 &amp; 핏폿 (유럽판)</name>
+		<name>아스트로 플래쉬 (일본판)</name>
 		<image>./snap/Astro Flash (Japan).png</image>
 		<video>./video/Astro Flash (Japan).mp4</video>
 		<marquee>./marquee/Astro Flash (Japan).png</marquee>
@@ -695,7 +695,7 @@
 	</game>
 	<game>
 		<path>./Astro Warrior &amp; Pit Pot (Europe).zip</path>
-		<name>아스트로 워리어 (일본,미국판)</name>
+		<name>아스트로 워리어 &amp; 핏폿 (유럽판)</name>
 		<image>./snap/Astro Warrior &amp; Pit Pot (Europe).png</image>
 		<video>./video/Astro Warrior &amp; Pit Pot (Europe).mp4</video>
 		<marquee>./marquee/Astro Warrior &amp; Pit Pot (Europe).png</marquee>
@@ -707,7 +707,7 @@
 	</game>
 	<game>
 		<path>./Astro Warrior (Japan, USA, Brazil).zip</path>
-		<name>아일톤 세나의 슈퍼 모나코 GP II (유럽판)</name>
+		<name>아스트로 워리어</name>
 		<image>./snap/Astro Warrior (Japan, USA, Brazil).png</image>
 		<video>./video/Astro Warrior (Japan, USA, Brazil).mp4</video>
 		<marquee>./marquee/Astro Warrior (Japan, USA, Brazil).png</marquee>
@@ -719,7 +719,7 @@
 	</game>
 	<game>
 		<path>./Aventuras da TV Colosso, As (Brazil).zip</path>
-		<name>아즈텍 어드벤쳐 - 천국으로 가는 황금의 길 (세계판)</name>
+		<name>클로소TV 어드벤쳐 (브라질판)</name>
 		<image>./snap/Aventuras da TV Colosso, As (Brazil).png</image>
 		<video>./video/Aventuras da TV Colosso, As (Brazil).mp4</video>
 		<marquee>./marquee/Aventuras da TV Colosso, As (Brazil).png</marquee>
@@ -731,7 +731,7 @@
 	</game>
 	<game>
 		<path>./Ayrton Senna's Super Monaco GP II (Europe, Brazil).zip</path>
-		<name>백투더 퓨쳐 파트 II (유럽판)</name>
+		<name>아일톤 세나의 슈퍼 모나코 GP II</name>
 		<image>./snap/Ayrton Senna's Super Monaco GP II (Europe, Brazil).png</image>
 		<video>./video/Ayrton Senna's Super Monaco GP II (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Ayrton Senna's Super Monaco GP II (Europe, Brazil).png</marquee>
@@ -743,7 +743,7 @@
 	</game>
 	<game>
 		<path>./Aztec Adventure (World).zip</path>
-		<name>백투더 퓨쳐 파트 III (유럽판)</name>
+		<name>아즈텍 어드벤처 (세계판)</name>
 		<image>./snap/Aztec Adventure (World).png</image>
 		<video>./video/Aztec Adventure (World).mp4</video>
 		<marquee>./marquee/Aztec Adventure (World).png</marquee>
@@ -755,7 +755,7 @@
 	</game>
 	<game>
 		<path>./Back to the Future Part II (Europe, Brazil).zip</path>
-		<name>바쿠 바쿠 에니멀 (브라질판)</name>
+		<name>백 투 더 퓨쳐 파트 2</name>
 		<image>./snap/Back to the Future Part II (Europe, Brazil).png</image>
 		<video>./video/Back to the Future Part II (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Back to the Future Part II (Europe, Brazil).png</marquee>
@@ -767,7 +767,7 @@
 	</game>
 	<game>
 		<path>./Back to the Future Part III (Europe).zip</path>
-		<name>은행강도 / 뱅크패닉 (유럽판)</name>
+		<name>백 투 더 퓨쳐 파트 3 (유럽판)</name>
 		<image>./snap/Back to the Future Part III (Europe).png</image>
 		<video>./video/Back to the Future Part III (Europe).mp4</video>
 		<marquee>./marquee/Back to the Future Part III (Europe).png</marquee>
@@ -779,7 +779,7 @@
 	</game>
 	<game>
 		<path>./Baku Baku (Brazil).zip</path>
-		<name>바스켓 볼 나이트메어 (유럽판)</name>
+		<name>바쿠 바쿠 (브라질판)</name>
 		<image>./snap/Baku Baku (Brazil).png</image>
 		<video>./video/Baku Baku (Brazil).mp4</video>
 		<marquee>./marquee/Baku Baku (Brazil).png</marquee>
@@ -791,7 +791,7 @@
 	</game>
 	<game>
 		<path>./Bank Panic (Europe, Brazil).zip</path>
-		<name>배트맨 리턴즈 (유럽판)</name>
+		<name>은행강도 / 뱅크패닉</name>
 		<image>./snap/Bank Panic (Europe, Brazil).png</image>
 		<video>./video/Bank Panic (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Bank Panic (Europe, Brazil).png</marquee>
@@ -803,7 +803,7 @@
 	</game>
 	<game>
 		<path>./Basketball Nightmare (Europe, Brazil).zip</path>
-		<name>베틀 아웃 런 (유럽판)</name>
+		<name>베스킷볼 나이트메어</name>
 		<image>./snap/Basketball Nightmare (Europe, Brazil).png</image>
 		<video>./video/Basketball Nightmare (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Basketball Nightmare (Europe, Brazil).png</marquee>
@@ -815,7 +815,7 @@
 	</game>
 	<game>
 		<path>./Batman Returns (Europe, Brazil).zip</path>
-		<name>베틀메니악스 (브라질판)</name>
+		<name>배트맨 리턴즈</name>
 		<image>./snap/Batman Returns (Europe, Brazil).png</image>
 		<video>./video/Batman Returns (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Batman Returns (Europe, Brazil).png</marquee>
@@ -827,7 +827,7 @@
 	</game>
 	<game>
 		<path>./Battle Out Run (Europe, Brazil).zip</path>
-		<name>블랙 벨트 (미국,유럽판)</name>
+		<name>베틀 아웃 런</name>
 		<image>./snap/Battle Out Run (Europe, Brazil).png</image>
 		<video>./video/Battle Out Run (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Battle Out Run (Europe, Brazil).png</marquee>
@@ -839,7 +839,7 @@
 	</game>
 	<game>
 		<path>./Battlemaniacs (Brazil).zip</path>
-		<name>북두의 권 (대만판)</name>
+		<name>베틀메니악스 (브라질판)</name>
 		<image>./snap/Battlemaniacs (Brazil).png</image>
 		<video>./video/Battlemaniacs (Brazil).mp4</video>
 		<marquee>./marquee/Battlemaniacs (Brazil).png</marquee>
@@ -851,7 +851,7 @@
 	</game>
 	<game>
 		<path>./Black Belt (USA, Europe, Brazil).zip</path>
-		<name>블레이드 이글 (세계판)</name>
+		<name>블랙 벨트</name>
 		<image>./snap/Black Belt (USA, Europe, Brazil).png</image>
 		<video>./video/Black Belt (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Black Belt (USA, Europe, Brazil).png</marquee>
@@ -875,7 +875,7 @@
 	</game>
 	<game>
 		<path>./Blade Eagle ~ Blade Eagle 3-D (World).zip</path>
-		<name>블럭홀 (한국판)(해적판)</name>
+		<name>블레이드 이글 (세계판)</name>
 		<image>./snap/Blade Eagle ~ Blade Eagle 3-D (World).png</image>
 		<video>./video/Blade Eagle ~ Blade Eagle 3-D (World).mp4</video>
 		<marquee>./marquee/Blade Eagle ~ Blade Eagle 3-D (World).png</marquee>
@@ -911,7 +911,7 @@
 	</game>
 	<game>
 		<path>./Bonanza Bros. (Europe, Brazil).zip</path>
-		<name>보난자 형제 / 홀쭉이와 뚱뚱이 (유럽판)</name>
+		<name>보난자 형제 / 홀쭉이와 뚱뚱이</name>
 		<image>./snap/Bonanza Bros. (Europe, Brazil).png</image>
 		<video>./video/Bonanza Bros. (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Bonanza Bros. (Europe, Brazil).png</marquee>
@@ -935,7 +935,7 @@
 	</game>
 	<game>
 		<path>./Bram Stoker's Dracula (Europe, Brazil).zip</path>
-		<name>브램 스토커의 드라큘라 (유럽판)</name>
+		<name>브램 스토커의 드라큘라</name>
 		<image>./snap/Bram Stoker's Dracula (Europe, Brazil).png</image>
 		<video>./video/Bram Stoker's Dracula (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Bram Stoker's Dracula (Europe, Brazil).png</marquee>
@@ -947,7 +947,7 @@
 	</game>
 	<game>
 		<path>./Bubble Bobble ~ Dragon Maze (Europe, Brazil).zip</path>
-		<name>버블보블 (유럽판)</name>
+		<name>버블보블 - 드래곤 메이즈</name>
 		<image>./snap/Bubble Bobble ~ Dragon Maze (Europe, Brazil).png</image>
 		<video>./video/Bubble Bobble ~ Dragon Maze (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Bubble Bobble ~ Dragon Maze (Europe, Brazil).png</marquee>
@@ -959,7 +959,7 @@
 	</game>
 	<game>
 		<path>./Buggy Run (Europe, Brazil).zip</path>
-		<name>버기 런 (유럽판)</name>
+		<name>버기 런</name>
 		<image>./snap/Buggy Run (Europe, Brazil).png</image>
 		<video>./video/Buggy Run (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Buggy Run (Europe, Brazil).png</marquee>
@@ -971,7 +971,7 @@
 	</game>
 	<game>
 		<path>./California Games (USA, Europe, Brazil).zip</path>
-		<name>시소 (한국판)(해적판)</name>
+		<name>캘리포니아 게임즈</name>
 		<image>./snap/California Games (USA, Europe, Brazil).png</image>
 		<video>./video/California Games (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/California Games (USA, Europe, Brazil).png</marquee>
@@ -983,7 +983,7 @@
 	</game>
 	<game>
 		<path>./California Games II (Europe).zip</path>
-		<name>켈리포니아 게임즈2 (브라질,한국판)</name>
+		<name>켈리포니아 게임즈2 (유럽판)</name>
 		<image>./snap/California Games II (Europe).png</image>
 		<video>./video/California Games II (Europe).mp4</video>
 		<marquee>./marquee/California Games II (Europe).png</marquee>
@@ -995,7 +995,7 @@
 	</game>
 	<game>
 		<path>./Captain Silver (Japan, Europe, Brazil).zip</path>
-		<name>켈리포니아 게임즈2 (유럽판)</name>
+		<name>캡틴 실버</name>
 		<image>./snap/Captain Silver (Japan, Europe, Brazil).png</image>
 		<video>./video/Captain Silver (Japan, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Captain Silver (Japan, Europe, Brazil).png</marquee>
@@ -1007,7 +1007,7 @@
 	</game>
 	<game>
 		<path>./Captain Silver (USA) (Beta).zip</path>
-		<name>캘리포니아 게임즈 (미국,유럽판)</name>
+		<name>캡틴 실버 (베타)</name>
 		<image>./snap/Captain Silver (USA) (Beta).png</image>
 		<video>./video/Captain Silver (USA) (Beta).mp4</video>
 		<marquee>./marquee/Captain Silver (USA) (Beta).png</marquee>
@@ -1019,7 +1019,7 @@
 	</game>
 	<game>
 		<path>./Captain Silver (USA).zip</path>
-		<name>캡틴 실버 (일본,유럽판)</name>
+		<name>캡틴 실버</name>
 		<image>./snap/Captain Silver (USA).png</image>
 		<video>./video/Captain Silver (USA).mp4</video>
 		<marquee>./marquee/Captain Silver (USA).png</marquee>
@@ -1031,7 +1031,7 @@
 	</game>
 	<game>
 		<path>./Casino Games (USA, Europe).zip</path>
-		<name>캡틴 실버 (베타)</name>
+		<name>카지노 게임즈 (미국,유럽판)</name>
 		<image>./snap/Casino Games (USA, Europe).png</image>
 		<video>./video/Casino Games (USA, Europe).mp4</video>
 		<marquee>./marquee/Casino Games (USA, Europe).png</marquee>
@@ -1043,7 +1043,7 @@
 	</game>
 	<game>
 		<path>./Castelo Ra-Tim-Bum (Brazil).zip</path>
-		<name>캡틴 실버</name>
+		<name>카스텔로 라 틴 범 (브라질판)</name>
 		<image>./snap/Castelo Ra-Tim-Bum (Brazil).png</image>
 		<video>./video/Castelo Ra-Tim-Bum (Brazil).mp4</video>
 		<marquee>./marquee/Castelo Ra-Tim-Bum (Brazil).png</marquee>
@@ -1055,7 +1055,7 @@
 	</game>
 	<game>
 		<path>./Castle of Illusion Starring Mickey Mouse (Europe, Brazil).zip</path>
-		<name>카지노 게임즈 (미국,유럽판)</name>
+		<name>미키마우스의 환상의 성</name>
 		<image>./snap/Castle of Illusion Starring Mickey Mouse (Europe, Brazil).png</image>
 		<video>./video/Castle of Illusion Starring Mickey Mouse (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Castle of Illusion Starring Mickey Mouse (Europe, Brazil).png</marquee>
@@ -1067,7 +1067,7 @@
 	</game>
 	<game>
 		<path>./Castle of Illusion Starring Mickey Mouse (USA) (Demo).zip</path>
-		<name>카스텔로 라 틴 범 (브라질판)</name>
+		<name>미키마우스의 환상의 성 (데모)</name>
 		<image>./snap/Castle of Illusion Starring Mickey Mouse (USA) (Demo).png</image>
 		<video>./video/Castle of Illusion Starring Mickey Mouse (USA) (Demo).mp4</video>
 		<marquee>./marquee/Castle of Illusion Starring Mickey Mouse (USA) (Demo).png</marquee>
@@ -1079,7 +1079,7 @@
 	</game>
 	<game>
 		<path>./Castle of Illusion Starring Mickey Mouse (USA, Brazil).zip</path>
-		<name>미키마우스의 환상의 성 (유럽판)</name>
+		<name>미키마우스의 환상의 성</name>
 		<image>./snap/Castle of Illusion Starring Mickey Mouse (USA, Brazil).png</image>
 		<video>./video/Castle of Illusion Starring Mickey Mouse (USA, Brazil).mp4</video>
 		<marquee>./marquee/Castle of Illusion Starring Mickey Mouse (USA, Brazil).png</marquee>
@@ -1091,7 +1091,7 @@
 	</game>
 	<game>
 		<path>./Champions of Europe (Europe).zip</path>
-		<name>미키마우스의 환상의 성 (불명)(샘플)</name>
+		<name>챔피온스 오브 유럽 (유럽판)</name>
 		<image>./snap/Champions of Europe (Europe).png</image>
 		<video>./video/Champions of Europe (Europe).mp4</video>
 		<marquee>./marquee/Champions of Europe (Europe).png</marquee>
@@ -1103,7 +1103,7 @@
 	</game>
 	<game>
 		<path>./Championship Hockey (Europe).zip</path>
-		<name>미키마우스의 환상의 성</name>
+		<name>챔피언십 하키 (유럽판)</name>
 		<image>./snap/Championship Hockey (Europe).png</image>
 		<video>./video/Championship Hockey (Europe).mp4</video>
 		<marquee>./marquee/Championship Hockey (Europe).png</marquee>
@@ -1115,7 +1115,7 @@
 	</game>
 	<game>
 		<path>./Chapolim x Dracula - Um Duelo Assustador (Brazil).zip</path>
-		<name>챔피온스 오브 유럽 (유럽판)</name>
+		<name>고스트 하우스 (브라질판)</name>
 		<image>./snap/Chapolim x Dracula - Um Duelo Assustador (Brazil).png</image>
 		<video>./video/Chapolim x Dracula - Um Duelo Assustador (Brazil).mp4</video>
 		<marquee>./marquee/Chapolim x Dracula - Um Duelo Assustador (Brazil).png</marquee>
@@ -1127,7 +1127,7 @@
 	</game>
 	<game>
 		<path>./Cheese Cat-astrophe Starring Speedy Gonzales (Europe, Brazil) (En,Fr,De,Es).zip</path>
-		<name>챔피온쉽 하키 (유럽판)</name>
+		<name>치즈캣 아스트로피 - 스피디 곤잘레스</name>
 		<image>./snap/Cheese Cat-astrophe Starring Speedy Gonzales (Europe, Brazil) (En,Fr,De,Es).png</image>
 		<video>./video/Cheese Cat-astrophe Starring Speedy Gonzales (Europe, Brazil) (En,Fr,De,Es).mp4</video>
 		<marquee>./marquee/Cheese Cat-astrophe Starring Speedy Gonzales (Europe, Brazil) (En,Fr,De,Es).png</marquee>
@@ -1139,7 +1139,7 @@
 	</game>
 	<game>
 		<path>./Choplifter (Japan) (Proto).zip</path>
-		<name>고스트 하우스 (브라질판)</name>
+		<name>촙리프터 (일본판)(시험판)</name>
 		<image>./snap/Choplifter (Japan) (Proto).png</image>
 		<video>./video/Choplifter (Japan) (Proto).mp4</video>
 		<marquee>./marquee/Choplifter (Japan) (Proto).png</marquee>
@@ -1151,7 +1151,7 @@
 	</game>
 	<game>
 		<path>./Choplifter (USA, Europe, Brazil) (Beta).zip</path>
-		<name>스페셜 크리미널 인베스티게이션 (유럽판)(베타)</name>
+		<name>촙리프터 (베타)</name>
 		<image>./snap/Choplifter (USA, Europe, Brazil) (Beta).png</image>
 		<video>./video/Choplifter (USA, Europe, Brazil) (Beta).mp4</video>
 		<marquee>./marquee/Choplifter (USA, Europe, Brazil) (Beta).png</marquee>
@@ -1163,7 +1163,7 @@
 	</game>
 	<game>
 		<path>./Choplifter (USA, Europe, Brazil).zip</path>
-		<name>치즈캣 아스트로피 - 스피디 곤잘레스 (유럽판)</name>
+		<name>촙리프터</name>
 		<image>./snap/Choplifter (USA, Europe, Brazil).png</image>
 		<video>./video/Choplifter (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Choplifter (USA, Europe, Brazil).png</marquee>
@@ -1175,7 +1175,7 @@
 	</game>
 	<game>
 		<path>./Chouon Senshi Borgman (Japan) (Beta).zip</path>
-		<name>촙리프터 (일본판)(시험판)</name>
+		<name>초음전사 보그맨 (일본판)(베타)</name>
 		<image>./snap/Chouon Senshi Borgman (Japan) (Beta).png</image>
 		<video>./video/Chouon Senshi Borgman (Japan) (Beta).mp4</video>
 		<marquee>./marquee/Chouon Senshi Borgman (Japan) (Beta).png</marquee>
@@ -1187,7 +1187,7 @@
 	</game>
 	<game>
 		<path>./Chouon Senshi Borgman (Japan).zip</path>
-		<name>촙리프터 (베타)</name>
+		<name>초음전사 보그맨 (일본판)</name>
 		<image>./snap/Chouon Senshi Borgman (Japan).png</image>
 		<video>./video/Chouon Senshi Borgman (Japan).mp4</video>
 		<marquee>./marquee/Chouon Senshi Borgman (Japan).png</marquee>
@@ -1199,7 +1199,7 @@
 	</game>
 	<game>
 		<path>./Chuck Rock (Europe, Brazil).zip</path>
-		<name>촙리프터 (미국,유럽판)</name>
+		<name>척 록</name>
 		<image>./snap/Chuck Rock (Europe, Brazil).png</image>
 		<video>./video/Chuck Rock (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Chuck Rock (Europe, Brazil).png</marquee>
@@ -1211,7 +1211,7 @@
 	</game>
 	<game>
 		<path>./Chuck Rock II - Son of Chuck (Brazil).zip</path>
-		<name>초음전사 보그맨 (일본판)(베타)</name>
+		<name>척 록 II - 척의 아들 (브라질판)</name>
 		<image>./snap/Chuck Rock II - Son of Chuck (Brazil).png</image>
 		<video>./video/Chuck Rock II - Son of Chuck (Brazil).mp4</video>
 		<marquee>./marquee/Chuck Rock II - Son of Chuck (Brazil).png</marquee>
@@ -1223,7 +1223,7 @@
 	</game>
 	<game>
 		<path>./Chuck Rock II - Son of Chuck (Europe).zip</path>
-		<name>척 록 II - 척의 아들 (브라질판)</name>
+		<name>척 록 II - 척의 아들 (유럽판)</name>
 		<image>./snap/Chuck Rock II - Son of Chuck (Europe).png</image>
 		<video>./video/Chuck Rock II - Son of Chuck (Europe).mp4</video>
 		<marquee>./marquee/Chuck Rock II - Son of Chuck (Europe).png</marquee>
@@ -1235,7 +1235,7 @@
 	</game>
 	<game>
 		<path>./Circuit, The (Japan).zip</path>
-		<name>척 록 II - 척의 아들 (유럽판)</name>
+		<name>서킷 (일본판)</name>
 		<image>./snap/Circuit, The (Japan).png</image>
 		<video>./video/Circuit, The (Japan).mp4</video>
 		<marquee>./marquee/Circuit, The (Japan).png</marquee>
@@ -1247,7 +1247,7 @@
 	</game>
 	<game>
 		<path>./Cloud Master (USA, Europe, Brazil).zip</path>
-		<name>척 록 (유럽판)</name>
+		<name>중화대선</name>
 		<image>./snap/Cloud Master (USA, Europe, Brazil).png</image>
 		<video>./video/Cloud Master (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Cloud Master (USA, Europe, Brazil).png</marquee>
@@ -1259,7 +1259,7 @@
 	</game>
 	<game>
 		<path>./Color &amp; Switch Test (Japan) (En) (Proto).zip</path>
-		<name>중화대선 (미국,유럽판)</name>
+		<name>컬러 스위치 테스트 (일본판)(영어)(시험판)</name>
 		<image>./snap/Color &amp; Switch Test (Japan) (En) (Proto).png</image>
 		<video>./video/Color &amp; Switch Test (Japan) (En) (Proto).mp4</video>
 		<marquee>./marquee/Color &amp; Switch Test (Japan) (En) (Proto).png</marquee>
@@ -1271,7 +1271,7 @@
 	</game>
 	<game>
 		<path>./Columns (USA, Europe, Brazil) (Beta).zip</path>
-		<name>컬러 스위치 테스트 (불명)</name>
+		<name>컬럼스 (베타)</name>
 		<image>./snap/Columns (USA, Europe, Brazil) (Beta).png</image>
 		<video>./video/Columns (USA, Europe, Brazil) (Beta).mp4</video>
 		<marquee>./marquee/Columns (USA, Europe, Brazil) (Beta).png</marquee>
@@ -1283,7 +1283,7 @@
 	</game>
 	<game>
 		<path>./Columns ~ Shapes and Columns (USA, Europe, Brazil).zip</path>
-		<name>컬럼즈 (미국,유럽판)(베타)</name>
+		<name>컬럼스</name>
 		<image>./snap/Columns ~ Shapes and Columns (USA, Europe, Brazil).png</image>
 		<video>./video/Columns ~ Shapes and Columns (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Columns ~ Shapes and Columns (USA, Europe, Brazil).png</marquee>
@@ -1295,7 +1295,7 @@
 	</game>
 	<game>
 		<path>./Comical Machine Gun Joe (Japan).zip</path>
-		<name>컬럼즈 (미국,유럽판)</name>
+		<name>모키걸 머신 건 죠 (일본판)</name>
 		<image>./snap/Comical Machine Gun Joe (Japan).png</image>
 		<video>./video/Comical Machine Gun Joe (Japan).mp4</video>
 		<marquee>./marquee/Comical Machine Gun Joe (Japan).png</marquee>
@@ -1307,7 +1307,7 @@
 	</game>
 	<game>
 		<path>./Comical Machine Gun Joe (Korea) (Unl).zip</path>
-		<name>코믹 베이커리 (한국판)</name>
+		<name>모키걸 머신 건 죠 (한국판)(해적판)</name>
 		<image>./snap/Comical Machine Gun Joe (Korea) (Unl).png</image>
 		<video>./video/Comical Machine Gun Joe (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Comical Machine Gun Joe (Korea) (Unl).png</marquee>
@@ -1319,7 +1319,7 @@
 	</game>
 	<game>
 		<path>./Comical Machine Gun Joe (Taiwan) (Unl).zip</path>
-		<name>모키걸 머신 건 죠 (한국판)(해적판)</name>
+		<name>모키걸 머신 건 죠 (대만판)(해적판)</name>
 		<image>./snap/Comical Machine Gun Joe (Taiwan) (Unl).png</image>
 		<video>./video/Comical Machine Gun Joe (Taiwan) (Unl).mp4</video>
 		<marquee>./marquee/Comical Machine Gun Joe (Taiwan) (Unl).png</marquee>
@@ -1331,7 +1331,7 @@
 	</game>
 	<game>
 		<path>./Cool Spot (Europe).zip</path>
-		<name>모키걸 머신 건 죠 (대만판)</name>
+		<name>쿨 스팟 (유럽판)</name>
 		<image>./snap/Cool Spot (Europe).png</image>
 		<video>./video/Cool Spot (Europe).mp4</video>
 		<marquee>./marquee/Cool Spot (Europe).png</marquee>
@@ -1343,7 +1343,7 @@
 	</game>
 	<game>
 		<path>./Cosmic Spacehead (Europe) (En,Fr,De,Es).zip</path>
-		<name>쿨 스팟 (유럽판)</name>
+		<name>코즈믹 스페이스헤드 (유럽판)</name>
 		<image>./snap/Cosmic Spacehead (Europe) (En,Fr,De,Es).png</image>
 		<video>./video/Cosmic Spacehead (Europe) (En,Fr,De,Es).mp4</video>
 		<marquee>./marquee/Cosmic Spacehead (Europe) (En,Fr,De,Es).png</marquee>
@@ -1355,7 +1355,7 @@
 	</game>
 	<game>
 		<path>./Cyber Shinobi, The (Europe, Brazil) (Beta).zip</path>
-		<name>코즈믹 스페이스헤드 (유럽판)</name>
+		<name>사이보그 시노비 (베타)</name>
 		<image>./snap/Cyber Shinobi, The (Europe, Brazil) (Beta).png</image>
 		<video>./video/Cyber Shinobi, The (Europe, Brazil) (Beta).mp4</video>
 		<marquee>./marquee/Cyber Shinobi, The (Europe, Brazil) (Beta).png</marquee>
@@ -1367,7 +1367,7 @@
 	</game>
 	<game>
 		<path>./Cyber Shinobi, The (Europe, Brazil).zip</path>
-		<name>초음전사 보그맨 (일본판)</name>
+		<name>사이보그 시노비</name>
 		<image>./snap/Cyber Shinobi, The (Europe, Brazil).png</image>
 		<video>./video/Cyber Shinobi, The (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Cyber Shinobi, The (Europe, Brazil).png</marquee>
@@ -1379,7 +1379,7 @@
 	</game>
 	<game>
 		<path>./Cyborg Hunter (USA, Europe, Brazil).zip</path>
-		<name>사이보그 헌터 (미국,유럽판)</name>
+		<name>사이보그 헌터</name>
 		<image>./snap/Cyborg Hunter (USA, Europe, Brazil).png</image>
 		<video>./video/Cyborg Hunter (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Cyborg Hunter (USA, Europe, Brazil).png</marquee>
@@ -1403,7 +1403,7 @@
 	</game>
 	<game>
 		<path>./C_So! (Korea) (Unl).zip</path>
-		<name>대피 덕 할리우드 가다 (유럽판)</name>
+		<name>시소 (한국판)(해적판)</name>
 		<image>./snap/C_So! (Korea) (Unl).png</image>
 		<video>./video/C_So! (Korea) (Unl).mp4</video>
 		<marquee>./marquee/C_So! (Korea) (Unl).png</marquee>
@@ -1415,7 +1415,7 @@
 	</game>
 	<game>
 		<path>./Daffy Duck in Hollywood (Europe, Brazil) (En,Fr,De,Es,It).zip</path>
-		<name>달려라 피구왕 (한국판)(해적판)</name>
+		<name>대피 덕 할리우드 가다</name>
 		<image>./snap/Daffy Duck in Hollywood (Europe, Brazil) (En,Fr,De,Es,It).png</image>
 		<video>./video/Daffy Duck in Hollywood (Europe, Brazil) (En,Fr,De,Es,It).mp4</video>
 		<marquee>./marquee/Daffy Duck in Hollywood (Europe, Brazil) (En,Fr,De,Es,It).png</marquee>
@@ -1427,7 +1427,7 @@
 	</game>
 	<game>
 		<path>./Dallyeora Pigu-Wang (Korea) (Unl).zip</path>
-		<name>정글의 용사 다난 (유럽판)</name>
+		<name>달려라 피구왕 (한국판)(해적판)</name>
 		<image>./snap/Dallyeora Pigu-Wang (Korea) (Unl).png</image>
 		<video>./video/Dallyeora Pigu-Wang (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Dallyeora Pigu-Wang (Korea) (Unl).png</marquee>
@@ -1439,7 +1439,7 @@
 	</game>
 	<game>
 		<path>./Danan - The Jungle Fighter (Europe, Brazil).zip</path>
-		<name>데드 앵글 (미국,유럽판)</name>
+		<name>정글의 용사 다난</name>
 		<image>./snap/Danan - The Jungle Fighter (Europe, Brazil).png</image>
 		<video>./video/Danan - The Jungle Fighter (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Danan - The Jungle Fighter (Europe, Brazil).png</marquee>
@@ -1451,7 +1451,7 @@
 	</game>
 	<game>
 		<path>./Dead Angle (USA, Europe, Brazil).zip</path>
-		<name>도날드 덕 (유럽판)</name>
+		<name>데드 앵글</name>
 		<image>./snap/Dead Angle (USA, Europe, Brazil).png</image>
 		<video>./video/Dead Angle (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Dead Angle (USA, Europe, Brazil).png</marquee>
@@ -1463,7 +1463,7 @@
 	</game>
 	<game>
 		<path>./Deep Duck Trouble Starring Donald Duck (Europe, Brazil).zip</path>
-		<name>데져트 스피드트랩 (유럽판)</name>
+		<name>도날드 덕</name>
 		<image>./snap/Deep Duck Trouble Starring Donald Duck (Europe, Brazil).png</image>
 		<video>./video/Deep Duck Trouble Starring Donald Duck (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Deep Duck Trouble Starring Donald Duck (Europe, Brazil).png</marquee>
@@ -1475,7 +1475,7 @@
 	</game>
 	<game>
 		<path>./Desert Speedtrap Starring Road Runner and Wile E. Coyote (Europe, Brazil) (En,Fr,De,Es,It).zip</path>
-		<name>데져트 스트라이크 (유럽판)</name>
+		<name>데져트 스피드트랩</name>
 		<image>./snap/Desert Speedtrap Starring Road Runner and Wile E. Coyote (Europe, Brazil) (En,Fr,De,Es,It).png</image>
 		<video>./video/Desert Speedtrap Starring Road Runner and Wile E. Coyote (Europe, Brazil) (En,Fr,De,Es,It).mp4</video>
 		<marquee>./marquee/Desert Speedtrap Starring Road Runner and Wile E. Coyote (Europe, Brazil) (En,Fr,De,Es,It).png</marquee>
@@ -1487,7 +1487,7 @@
 	</game>
 	<game>
 		<path>./Desert Strike (Europe) (En,Fr,De,Es).zip</path>
-		<name>딕 트레이시 (미국,유럽판)</name>
+		<name>데져트 스트라이크 (유럽판)</name>
 		<image>./snap/Desert Strike (Europe) (En,Fr,De,Es).png</image>
 		<video>./video/Desert Strike (Europe) (En,Fr,De,Es).mp4</video>
 		<marquee>./marquee/Desert Strike (Europe) (En,Fr,De,Es).png</marquee>
@@ -1499,7 +1499,7 @@
 	</game>
 	<game>
 		<path>./Dick Tracy (USA, Europe, Brazil).zip</path>
-		<name>디노배셔 (유럽판)(시험판)</name>
+		<name>딕 트레이시</name>
 		<image>./snap/Dick Tracy (USA, Europe, Brazil).png</image>
 		<video>./video/Dick Tracy (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Dick Tracy (USA, Europe, Brazil).png</marquee>
@@ -1511,7 +1511,7 @@
 	</game>
 	<game>
 		<path>./Dinobasher Starring Bignose the Caveman (Europe) (Proto).zip</path>
-		<name>두근 두근 팽귄 랜드 우주대모험 (일본판)</name>
+		<name>디노배셔 (유럽판)(시험판)</name>
 		<image>./snap/Dinobasher Starring Bignose the Caveman (Europe) (Proto).png</image>
 		<video>./video/Dinobasher Starring Bignose the Caveman (Europe) (Proto).mp4</video>
 		<marquee>./marquee/Dinobasher Starring Bignose the Caveman (Europe) (Proto).png</marquee>
@@ -1523,7 +1523,7 @@
 	</game>
 	<game>
 		<path>./Dinosaur Dooley, The (Korea) (Unl).zip</path>
-		<name>두근 두근 팽귄 랜드 우주대모험 (일본판)(베타)</name>
+		<name>아기공룡 둘리 (한국판)(해적판)</name>
 		<image>./snap/Dinosaur Dooley, The (Korea) (Unl).png</image>
 		<video>./video/Dinosaur Dooley, The (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Dinosaur Dooley, The (Korea) (Unl).png</marquee>
@@ -1535,7 +1535,7 @@
 	</game>
 	<game>
 		<path>./Doki Doki Penguin Land - Uchuu Daibouken (Japan).zip</path>
-		<name>더블 드래곤 / 쌍절룡 (세계판)</name>
+		<name>두근 두근 팽귄 랜드 우주대모험 (일본판)</name>
 		<image>./snap/Doki Doki Penguin Land - Uchuu Daibouken (Japan).png</image>
 		<video>./video/Doki Doki Penguin Land - Uchuu Daibouken (Japan).mp4</video>
 		<marquee>./marquee/Doki Doki Penguin Land - Uchuu Daibouken (Japan).png</marquee>
@@ -1547,7 +1547,7 @@
 	</game>
 	<game>
 		<path>./Doki Doki Penguin Land - Uchuu-Daibouken (Japan) (Beta).zip</path>
-		<name>더블 호크 (유럽판)(베타)</name>
+		<name>두근 두근 팽귄 랜드 우주대모험 (일본판)(베타)</name>
 		<image>./snap/Doki Doki Penguin Land - Uchuu-Daibouken (Japan) (Beta).png</image>
 		<video>./video/Doki Doki Penguin Land - Uchuu-Daibouken (Japan) (Beta).mp4</video>
 		<marquee>./marquee/Doki Doki Penguin Land - Uchuu-Daibouken (Japan) (Beta).png</marquee>
@@ -1559,7 +1559,7 @@
 	</game>
 	<game>
 		<path>./Double Dragon (World).zip</path>
-		<name>더블 호크 (유럽판)</name>
+		<name>더블 드래곤 / 쌍절룡 (세계판)</name>
 		<image>./snap/Double Dragon (World).png</image>
 		<video>./video/Double Dragon (World).mp4</video>
 		<marquee>./marquee/Double Dragon (World).png</marquee>
@@ -1571,7 +1571,7 @@
 	</game>
 	<game>
 		<path>./Double Hawk (Europe) (Beta).zip</path>
-		<name>더블 타켓 (일본판)</name>
+		<name>더블 호크 (유럽판)(베타)</name>
 		<image>./snap/Double Hawk (Europe) (Beta).png</image>
 		<video>./video/Double Hawk (Europe) (Beta).mp4</video>
 		<marquee>./marquee/Double Hawk (Europe) (Beta).png</marquee>
@@ -1583,7 +1583,7 @@
 	</game>
 	<game>
 		<path>./Double Hawk (Europe).zip</path>
-		<name>닥터 헬로 (한국판)(해적판)</name>
+		<name>더블 호크 (유럽판)</name>
 		<image>./snap/Double Hawk (Europe).png</image>
 		<video>./video/Double Hawk (Europe).mp4</video>
 		<marquee>./marquee/Double Hawk (Europe).png</marquee>
@@ -1595,7 +1595,7 @@
 	</game>
 	<game>
 		<path>./Double Target - Cynthia no Nemuri (Japan).zip</path>
-		<name>닥터 로보트닉의 나쁜 콩 기계 (유럽판)</name>
+		<name>더블 타켓 (일본판)</name>
 		<image>./snap/Double Target - Cynthia no Nemuri (Japan).png</image>
 		<video>./video/Double Target - Cynthia no Nemuri (Japan).mp4</video>
 		<marquee>./marquee/Double Target - Cynthia no Nemuri (Japan).png</marquee>
@@ -1607,7 +1607,7 @@
 	</game>
 	<game>
 		<path>./Dr. HELLO (Korea) (Unl).zip</path>
-		<name>드래곤 - 브루스 리 스토리 (유럽판)</name>
+		<name>닥터 헬로 (한국판)(해적판)</name>
 		<image>./snap/Dr. HELLO (Korea) (Unl).png</image>
 		<video>./video/Dr. HELLO (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Dr. HELLO (Korea) (Unl).png</marquee>
@@ -1619,7 +1619,7 @@
 	</game>
 	<game>
 		<path>./Dr. Robotnik's Mean Bean Machine (Europe, Brazil).zip</path>
-		<name>드래곤 크리스탈 (유럽판)</name>
+		<name>닥터 로보트닉의 나쁜 콩 기계</name>
 		<image>./snap/Dr. Robotnik's Mean Bean Machine (Europe, Brazil).png</image>
 		<video>./video/Dr. Robotnik's Mean Bean Machine (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Dr. Robotnik's Mean Bean Machine (Europe, Brazil).png</marquee>
@@ -1631,7 +1631,7 @@
 	</game>
 	<game>
 		<path>./Dragon - The Bruce Lee Story (Europe).zip</path>
-		<name>다이나마이트 듀크 (유럽판)</name>
+		<name>드래곤 - 브루스 리 스토리 (유럽판)</name>
 		<image>./snap/Dragon - The Bruce Lee Story (Europe).png</image>
 		<video>./video/Dragon - The Bruce Lee Story (Europe).mp4</video>
 		<marquee>./marquee/Dragon - The Bruce Lee Story (Europe).png</marquee>
@@ -1643,7 +1643,7 @@
 	</game>
 	<game>
 		<path>./Dragon Crystal (Europe, Brazil).zip</path>
-		<name>다이너마이트 덕스 (유럽판)</name>
+		<name>드래곤 크리스탈</name>
 		<image>./snap/Dragon Crystal (Europe, Brazil).png</image>
 		<video>./video/Dragon Crystal (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Dragon Crystal (Europe, Brazil).png</marquee>
@@ -1655,7 +1655,7 @@
 	</game>
 	<game>
 		<path>./Dynamite Duke (Europe, Brazil).zip</path>
-		<name>다이너마이트 헤디 (브라질판)</name>
+		<name>다이나마이트 듀크</name>
 		<image>./snap/Dynamite Duke (Europe, Brazil).png</image>
 		<video>./video/Dynamite Duke (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Dynamite Duke (Europe, Brazil).png</marquee>
@@ -1667,7 +1667,7 @@
 	</game>
 	<game>
 		<path>./Dynamite Dux (Europe, Brazil).zip</path>
-		<name>엑사 이노바 (한국판)</name>
+		<name>다이너마이트 덕스</name>
 		<image>./snap/Dynamite Dux (Europe, Brazil).png</image>
 		<video>./video/Dynamite Dux (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Dynamite Dux (Europe, Brazil).png</marquee>
@@ -1679,7 +1679,7 @@
 	</game>
 	<game>
 		<path>./Dynamite Headdy (Brazil).zip</path>
-		<name>이글스 5 (한국판)</name>
+		<name>다이너마이트 헤디 (브라질판)</name>
 		<image>./snap/Dynamite Headdy (Brazil).png</image>
 		<video>./video/Dynamite Headdy (Brazil).mp4</video>
 		<marquee>./marquee/Dynamite Headdy (Brazil).png</marquee>
@@ -1691,7 +1691,7 @@
 	</game>
 	<game>
 		<path>./E-SWAT (USA, Europe, Brazil) (Beta 1).zip</path>
-		<name>어스웜 짐 (브라질판)</name>
+		<name>E-스와트 (배타 1)</name>
 		<image>./snap/E-SWAT (USA, Europe, Brazil) (Beta 1).png</image>
 		<video>./video/E-SWAT (USA, Europe, Brazil) (Beta 1).mp4</video>
 		<marquee>./marquee/E-SWAT (USA, Europe, Brazil) (Beta 1).png</marquee>
@@ -1703,7 +1703,7 @@
 	</game>
 	<game>
 		<path>./E-SWAT (USA, Europe, Brazil) (Beta 2).zip</path>
-		<name>에코 - 시간의 물결 (브라질판)</name>
+		<name>E-스와트 (베타 2)</name>
 		<image>./snap/E-SWAT (USA, Europe, Brazil) (Beta 2).png</image>
 		<video>./video/E-SWAT (USA, Europe, Brazil) (Beta 2).mp4</video>
 		<marquee>./marquee/E-SWAT (USA, Europe, Brazil) (Beta 2).png</marquee>
@@ -1715,7 +1715,7 @@
 	</game>
 	<game>
 		<path>./E-SWAT (USA, Europe, Brazil) (Beta 3).zip</path>
-		<name>에고 더 돌핀 (유럽판)</name>
+		<name>E-스와트 (베타 3)</name>
 		<image>./snap/E-SWAT (USA, Europe, Brazil) (Beta 3).png</image>
 		<video>./video/E-SWAT (USA, Europe, Brazil) (Beta 3).mp4</video>
 		<marquee>./marquee/E-SWAT (USA, Europe, Brazil) (Beta 3).png</marquee>
@@ -1727,7 +1727,7 @@
 	</game>
 	<game>
 		<path>./E-SWAT (USA, Europe, Brazil) (Rev 1).zip</path>
-		<name>엔듀로 레이서 (일본판)</name>
+		<name>E-스와트 (개정판 1)</name>
 		<image>./snap/E-SWAT (USA, Europe, Brazil) (Rev 1).png</image>
 		<video>./video/E-SWAT (USA, Europe, Brazil) (Rev 1).mp4</video>
 		<marquee>./marquee/E-SWAT (USA, Europe, Brazil) (Rev 1).png</marquee>
@@ -1739,7 +1739,7 @@
 	</game>
 	<game>
 		<path>./E-SWAT (USA, Europe, Brazil).zip</path>
-		<name>엔듀로 레이서 (미국,유럽판)</name>
+		<name>E-스와트</name>
 		<image>./snap/E-SWAT (USA, Europe, Brazil).png</image>
 		<video>./video/E-SWAT (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/E-SWAT (USA, Europe, Brazil).png</marquee>
@@ -1751,7 +1751,7 @@
 	</game>
 	<game>
 		<path>./E.I. - Exa Innova (Korea).zip</path>
-		<name>E-스와트 (미국,유럽판)(배타 1)</name>
+		<name>엑사 이노바 (한국판)</name>
 		<image>./snap/E.I. - Exa Innova (Korea).png</image>
 		<video>./video/E.I. - Exa Innova (Korea).mp4</video>
 		<marquee>./marquee/E.I. - Exa Innova (Korea).png</marquee>
@@ -1763,7 +1763,7 @@
 	</game>
 	<game>
 		<path>./Eagles 5 (Korea).zip</path>
-		<name>E-스와트 (미국,유럽판)(베타 2)</name>
+		<name>이글스 5 (한국판)</name>
 		<image>./snap/Eagles 5 (Korea).png</image>
 		<video>./video/Eagles 5 (Korea).mp4</video>
 		<marquee>./marquee/Eagles 5 (Korea).png</marquee>
@@ -1775,7 +1775,7 @@
 	</game>
 	<game>
 		<path>./Earthworm Jim (Brazil).zip</path>
-		<name>E-스와트 (미국,유럽판)(베타 3)</name>
+		<name>어스웜 짐 (브라질판)</name>
 		<image>./snap/Earthworm Jim (Brazil).png</image>
 		<video>./video/Earthworm Jim (Brazil).mp4</video>
 		<marquee>./marquee/Earthworm Jim (Brazil).png</marquee>
@@ -1787,7 +1787,7 @@
 	</game>
 	<game>
 		<path>./Ecco - The Tides of Time (Brazil).zip</path>
-		<name>E-스와트 (미국,유럽판)(난이도하)</name>
+		<name>에코 - 시간의 물결 (브라질판)</name>
 		<image>./snap/Ecco - The Tides of Time (Brazil).png</image>
 		<video>./video/Ecco - The Tides of Time (Brazil).mp4</video>
 		<marquee>./marquee/Ecco - The Tides of Time (Brazil).png</marquee>
@@ -1799,7 +1799,7 @@
 	</game>
 	<game>
 		<path>./Ecco the Dolphin (Europe, Brazil).zip</path>
-		<name>E-스와트 (미국,유럽판)(난이도상)</name>
+		<name>에고 더 돌핀</name>
 		<image>./snap/Ecco the Dolphin (Europe, Brazil).png</image>
 		<video>./video/Ecco the Dolphin (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Ecco the Dolphin (Europe, Brazil).png</marquee>
@@ -1811,7 +1811,7 @@
 	</game>
 	<game>
 		<path>./Enduro Racer (Japan).zip</path>
-		<name>F1 스피릿 (한국판)(해적판)(해적판)</name>
+		<name>엔듀로 레이서 (일본판)</name>
 		<image>./snap/Enduro Racer (Japan).png</image>
 		<video>./video/Enduro Racer (Japan).mp4</video>
 		<marquee>./marquee/Enduro Racer (Japan).png</marquee>
@@ -1823,7 +1823,7 @@
 	</game>
 	<game>
 		<path>./Enduro Racer ~ Super Cross (USA, Europe, Brazil).zip</path>
-		<name>포뮬러원 (유럽판)</name>
+		<name>엔듀로 레이서</name>
 		<image>./snap/Enduro Racer ~ Super Cross (USA, Europe, Brazil).png</image>
 		<video>./video/Enduro Racer ~ Super Cross (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Enduro Racer ~ Super Cross (USA, Europe, Brazil).png</marquee>
@@ -1835,7 +1835,7 @@
 	</game>
 	<game>
 		<path>./Excellent Dizzy Collection, The (Europe) (En,Fr,De,Es,It) (Proto).zip</path>
-		<name>F-16 파이터 (미국,유럽판)</name>
+		<name>엑설런트 디지 콜렉션 (유럽판)(시험판)</name>
 		<image>./snap/Excellent Dizzy Collection, The (Europe) (En,Fr,De,Es,It) (Proto).png</image>
 		<video>./video/Excellent Dizzy Collection, The (Europe) (En,Fr,De,Es,It) (Proto).mp4</video>
 		<marquee>./marquee/Excellent Dizzy Collection, The (Europe) (En,Fr,De,Es,It) (Proto).png</marquee>
@@ -1847,7 +1847,7 @@
 	</game>
 	<game>
 		<path>./F-1 Spirit - The Way to Formula-1 (Korea) (Unl).zip</path>
-		<name>F-16 파이터 팔콘 (대만판)</name>
+		<name>F1 스피릿 (한국판)(해적판)</name>
 		<image>./snap/F-1 Spirit - The Way to Formula-1 (Korea) (Unl).png</image>
 		<video>./video/F-1 Spirit - The Way to Formula-1 (Korea) (Unl).mp4</video>
 		<marquee>./marquee/F-1 Spirit - The Way to Formula-1 (Korea) (Unl).png</marquee>
@@ -1859,7 +1859,7 @@
 	</game>
 	<game>
 		<path>./F-16 Fighter ~ F-16 Fighting Falcon (USA, Europe, Brazil).zip</path>
-		<name>F-16 파이터 팔콘</name>
+		<name>F-16 파이터</name>
 		<image>./snap/F-16 Fighter ~ F-16 Fighting Falcon (USA, Europe, Brazil).png</image>
 		<video>./video/F-16 Fighter ~ F-16 Fighting Falcon (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/F-16 Fighter ~ F-16 Fighting Falcon (USA, Europe, Brazil).png</marquee>
@@ -1883,7 +1883,7 @@
 	</game>
 	<game>
 		<path>./F-16 Fighting Falcon (Taiwan).zip</path>
-		<name>FA 테트리스 (한국판)(해적판)</name>
+		<name>F-16 파이터 팔콘 (대만판)</name>
 		<image>./snap/F-16 Fighting Falcon (Taiwan).png</image>
 		<video>./video/F-16 Fighting Falcon (Taiwan).mp4</video>
 		<marquee>./marquee/F-16 Fighting Falcon (Taiwan).png</marquee>
@@ -1895,7 +1895,7 @@
 	</game>
 	<game>
 		<path>./F-16 Fighting Falcon (USA).zip</path>
-		<name>슈퍼 테트리스 (한국판)(해적판)</name>
+		<name>F-16 파이터 팔콘</name>
 		<image>./snap/F-16 Fighting Falcon (USA).png</image>
 		<video>./video/F-16 Fighting Falcon (USA).mp4</video>
 		<marquee>./marquee/F-16 Fighting Falcon (USA).png</marquee>
@@ -1907,7 +1907,7 @@
 	</game>
 	<game>
 		<path>./F1 (Europe, Brazil).zip</path>
-		<name>패밀리 게임즈 (일본판)</name>
+		<name>포뮬러원</name>
 		<image>./snap/F1 (Europe, Brazil).png</image>
 		<video>./video/F1 (Europe, Brazil).mp4</video>
 		<marquee>./marquee/F1 (Europe, Brazil).png</marquee>
@@ -1919,7 +1919,7 @@
 	</game>
 	<game>
 		<path>./FA Tetris (Korea) (Unl).zip</path>
-		<name>환상적인 디지 (유럽판)</name>
+		<name>FA 테트리스 (한국판)(해적판)</name>
 		<image>./snap/FA Tetris (Korea) (Unl).png</image>
 		<video>./video/FA Tetris (Korea) (Unl).mp4</video>
 		<marquee>./marquee/FA Tetris (Korea) (Unl).png</marquee>
@@ -1931,7 +1931,7 @@
 	</game>
 	<game>
 		<path>./Family Games (Japan).zip</path>
-		<name>판타지 존 - 미로 (미국,유럽판)</name>
+		<name>패밀리 게임즈 (일본판)</name>
 		<image>./snap/Family Games (Japan).png</image>
 		<video>./video/Family Games (Japan).mp4</video>
 		<marquee>./marquee/Family Games (Japan).png</marquee>
@@ -1943,7 +1943,7 @@
 	</game>
 	<game>
 		<path>./Fantastic Dizzy (Europe) (En,Fr,De,Es,It).zip</path>
-		<name>판타지 존 2 - 오파오파의 눈물 (일본판)</name>
+		<name>환상적인 디지 (유럽판)</name>
 		<image>./snap/Fantastic Dizzy (Europe) (En,Fr,De,Es,It).png</image>
 		<video>./video/Fantastic Dizzy (Europe) (En,Fr,De,Es,It).mp4</video>
 		<marquee>./marquee/Fantastic Dizzy (Europe) (En,Fr,De,Es,It).png</marquee>
@@ -1955,7 +1955,7 @@
 	</game>
 	<game>
 		<path>./Fantasy Zone (Japan).zip</path>
-		<name>판타지 존 2 - 오파오파의 눈물 (미국,유럽판)</name>
+		<name>판타지 존 (일본판)</name>
 		<image>./snap/Fantasy Zone (Japan).png</image>
 		<video>./video/Fantasy Zone (Japan).mp4</video>
 		<marquee>./marquee/Fantasy Zone (Japan).png</marquee>
@@ -1967,7 +1967,7 @@
 	</game>
 	<game>
 		<path>./Fantasy Zone (Taiwan).zip</path>
-		<name>판타지 존 (일본판)</name>
+		<name>판타지 존 (대만판)</name>
 		<image>./snap/Fantasy Zone (Taiwan).png</image>
 		<video>./video/Fantasy Zone (Taiwan).mp4</video>
 		<marquee>./marquee/Fantasy Zone (Taiwan).png</marquee>
@@ -1979,7 +1979,7 @@
 	</game>
 	<game>
 		<path>./Fantasy Zone (World) (Beta).zip</path>
-		<name>판타지 존 (대만판)</name>
+		<name>판타지 존 (세계판)(베타)</name>
 		<image>./snap/Fantasy Zone (World) (Beta).png</image>
 		<video>./video/Fantasy Zone (World) (Beta).mp4</video>
 		<marquee>./marquee/Fantasy Zone (World) (Beta).png</marquee>
@@ -1991,7 +1991,7 @@
 	</game>
 	<game>
 		<path>./Fantasy Zone (World).zip</path>
-		<name>판타지 존 (세계판)(개정판 1)(베타)</name>
+		<name>판타지 존 (세계판)</name>
 		<image>./snap/Fantasy Zone (World).png</image>
 		<video>./video/Fantasy Zone (World).mp4</video>
 		<marquee>./marquee/Fantasy Zone (World).png</marquee>
@@ -2003,7 +2003,7 @@
 	</game>
 	<game>
 		<path>./Fantasy Zone - The Maze (USA, Europe, Brazil).zip</path>
-		<name>판타지 존 (세계판)(개정판 2)</name>
+		<name>판타지 존 - 미로</name>
 		<image>./snap/Fantasy Zone - The Maze (USA, Europe, Brazil).png</image>
 		<video>./video/Fantasy Zone - The Maze (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Fantasy Zone - The Maze (USA, Europe, Brazil).png</marquee>
@@ -2015,7 +2015,7 @@
 	</game>
 	<game>
 		<path>./Fantasy Zone II (USA, Europe, Brazil).zip</path>
-		<name>딱따구리 (브라질판)</name>
+		<name>판타지 존 2</name>
 		<image>./snap/Fantasy Zone II (USA, Europe, Brazil).png</image>
 		<video>./video/Fantasy Zone II (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Fantasy Zone II (USA, Europe, Brazil).png</marquee>
@@ -2027,7 +2027,7 @@
 	</game>
 	<game>
 		<path>./Fantasy Zone II - Opa-Opa no Namida (Japan).zip</path>
-		<name>피파 인터네셔널 축구 (브라질판)</name>
+		<name>판타지 존 2 - 오파오파의 눈물 (일본판)</name>
 		<image>./snap/Fantasy Zone II - Opa-Opa no Namida (Japan).png</image>
 		<video>./video/Fantasy Zone II - Opa-Opa no Namida (Japan).mp4</video>
 		<marquee>./marquee/Fantasy Zone II - Opa-Opa no Namida (Japan).png</marquee>
@@ -2039,7 +2039,7 @@
 	</game>
 	<game>
 		<path>./Ferias Frustradas do Pica Pau (Brazil).zip</path>
-		<name>파이널 버블 보블 (일본판)</name>
+		<name>딱따구리 (브라질판)</name>
 		<image>./snap/Ferias Frustradas do Pica Pau (Brazil).png</image>
 		<video>./video/Ferias Frustradas do Pica Pau (Brazil).mp4</video>
 		<marquee>./marquee/Ferias Frustradas do Pica Pau (Brazil).png</marquee>
@@ -2051,7 +2051,7 @@
 	</game>
 	<game>
 		<path>./FIFA International Soccer (Brazil) (En,Es,Pt).zip</path>
-		<name>파이어 &amp; 포겟 2 (유럽판)</name>
+		<name>피파 인터네셔널 축구 (브라질판)</name>
 		<image>./snap/FIFA International Soccer (Brazil) (En,Es,Pt).png</image>
 		<video>./video/FIFA International Soccer (Brazil) (En,Es,Pt).mp4</video>
 		<marquee>./marquee/FIFA International Soccer (Brazil) (En,Es,Pt).png</marquee>
@@ -2063,7 +2063,7 @@
 	</game>
 	<game>
 		<path>./Final Bubble Bobble (Japan).zip</path>
-		<name>화이어 &amp; 아이스 (브라질판)</name>
+		<name>파이널 버블 보블 (일본판)</name>
 		<image>./snap/Final Bubble Bobble (Japan).png</image>
 		<video>./video/Final Bubble Bobble (Japan).mp4</video>
 		<marquee>./marquee/Final Bubble Bobble (Japan).png</marquee>
@@ -2075,7 +2075,7 @@
 	</game>
 	<game>
 		<path>./Fire &amp; Forget II (Europe).zip</path>
-		<name>플래시포인트 (한국판)(해적판)</name>
+		<name>파이어 &amp; 포겟 2 (유럽판)</name>
 		<image>./snap/Fire &amp; Forget II (Europe).png</image>
 		<video>./video/Fire &amp; Forget II (Europe).mp4</video>
 		<marquee>./marquee/Fire &amp; Forget II (Europe).png</marquee>
@@ -2087,7 +2087,7 @@
 	</game>
 	<game>
 		<path>./Fire &amp; Ice (Brazil).zip</path>
-		<name>포가튼 월드 / 잊혀진 세계 (유럽판)</name>
+		<name>화이어 &amp; 아이스 (브라질판)</name>
 		<image>./snap/Fire &amp; Ice (Brazil).png</image>
 		<video>./video/Fire &amp; Ice (Brazil).mp4</video>
 		<marquee>./marquee/Fire &amp; Ice (Brazil).png</marquee>
@@ -2099,7 +2099,7 @@
 	</game>
 	<game>
 		<path>./Flash, The (Europe, Brazil).zip</path>
-		<name>이상한 성의 핏폿 (일본판)</name>
+		<name>플래쉬</name>
 		<image>./snap/Flash, The (Europe, Brazil).png</image>
 		<video>./video/Flash, The (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Flash, The (Europe, Brazil).png</marquee>
@@ -2111,7 +2111,7 @@
 	</game>
 	<game>
 		<path>./Flashpoint (Korea) (Unl).zip</path>
-		<name>개구장이 까치 (한국판)(해적판)</name>
+		<name>플래시포인트 (한국판)(해적판)</name>
 		<image>./snap/Flashpoint (Korea) (Unl).png</image>
 		<video>./video/Flashpoint (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Flashpoint (Korea) (Unl).png</marquee>
@@ -2123,7 +2123,7 @@
 	</game>
 	<game>
 		<path>./Flintstones, The (Europe, Brazil).zip</path>
-		<name>게인 그라운드 (유럽판)(베타)</name>
+		<name>고인돌 가족 플린스톤</name>
 		<image>./snap/Flintstones, The (Europe, Brazil).png</image>
 		<video>./video/Flintstones, The (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Flintstones, The (Europe, Brazil).png</marquee>
@@ -2135,7 +2135,7 @@
 	</game>
 	<game>
 		<path>./Forgotten Worlds (Europe, Brazil).zip</path>
-		<name>게인 그라운드 (유럽판)</name>
+		<name>포가튼 월드 / 잊혀진 세계</name>
 		<image>./snap/Forgotten Worlds (Europe, Brazil).png</image>
 		<video>./video/Forgotten Worlds (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Forgotten Worlds (Europe, Brazil).png</marquee>
@@ -2147,7 +2147,7 @@
 	</game>
 	<game>
 		<path>./Fushigi no Oshiro Pit Pot (Japan).zip</path>
-		<name>겔락틱 프로텍터 (일본판)</name>
+		<name>이상한 성의 핏폿 (일본판)</name>
 		<image>./snap/Fushigi no Oshiro Pit Pot (Japan).png</image>
 		<video>./video/Fushigi no Oshiro Pit Pot (Japan).mp4</video>
 		<marquee>./marquee/Fushigi no Oshiro Pit Pot (Japan).png</marquee>
@@ -2159,7 +2159,7 @@
 	</game>
 	<game>
 		<path>./G-LOC Air Battle (Europe, Brazil).zip</path>
-		<name>갤럭시안 (한국판)(해적판)</name>
+		<name>G-LOC 에어 배틀</name>
 		<image>./snap/G-LOC Air Battle (Europe, Brazil).png</image>
 		<video>./video/G-LOC Air Battle (Europe, Brazil).mp4</video>
 		<marquee>./marquee/G-LOC Air Battle (Europe, Brazil).png</marquee>
@@ -2171,7 +2171,7 @@
 	</game>
 	<game>
 		<path>./Gaegujangi Ggachi (Korea) (Unl).zip</path>
-		<name>겔럭시 포스 (유럽판)</name>
+		<name>개구장이 까치 (한국판)(해적판)</name>
 		<image>./snap/Gaegujangi Ggachi (Korea) (Unl).png</image>
 		<video>./video/Gaegujangi Ggachi (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Gaegujangi Ggachi (Korea) (Unl).png</marquee>
@@ -2183,7 +2183,7 @@
 	</game>
 	<game>
 		<path>./Gain Ground (Europe, Brazil) (Beta).zip</path>
-		<name>겔럭시 포스</name>
+		<name>게인 그라운드 (베타)</name>
 		<image>./snap/Gain Ground (Europe, Brazil) (Beta).png</image>
 		<video>./video/Gain Ground (Europe, Brazil) (Beta).mp4</video>
 		<marquee>./marquee/Gain Ground (Europe, Brazil) (Beta).png</marquee>
@@ -2195,7 +2195,7 @@
 	</game>
 	<game>
 		<path>./Gain Ground (Europe, Brazil).zip</path>
-		<name>캘리포니아게임즈 (브라질판)</name>
+		<name>게인 그라운드</name>
 		<image>./snap/Gain Ground (Europe, Brazil).png</image>
 		<video>./video/Gain Ground (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Gain Ground (Europe, Brazil).png</marquee>
@@ -2207,7 +2207,7 @@
 	</game>
 	<game>
 		<path>./Galactic Protector (Japan).zip</path>
-		<name>강철 로보캅 (한국판)(해적판)</name>
+		<name>겔락틱 프로텍터 (일본판)</name>
 		<image>./snap/Galactic Protector (Japan).png</image>
 		<video>./video/Galactic Protector (Japan).mp4</video>
 		<marquee>./marquee/Galactic Protector (Japan).png</marquee>
@@ -2219,7 +2219,7 @@
 	</game>
 	<game>
 		<path>./Galaxian (Korea) (Unl).zip</path>
-		<name>갱스터 타운 (미국,유럽판)</name>
+		<name>갤럭시안 (한국판)(해적판)</name>
 		<image>./snap/Galaxian (Korea) (Unl).png</image>
 		<video>./video/Galaxian (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Galaxian (Korea) (Unl).png</marquee>
@@ -2231,7 +2231,7 @@
 	</game>
 	<game>
 		<path>./Galaxy Force (Europe, Brazil).zip</path>
-		<name>건틀렛 (유럽판)</name>
+		<name>겔럭시 포스</name>
 		<image>./snap/Galaxy Force (Europe, Brazil).png</image>
 		<video>./video/Galaxy Force (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Galaxy Force (Europe, Brazil).png</marquee>
@@ -2243,7 +2243,7 @@
 	</game>
 	<game>
 		<path>./Galaxy Force (USA).zip</path>
-		<name>조지 포먼의 KO 복싱 (유럽판)</name>
+		<name>겔럭시 포스</name>
 		<image>./snap/Galaxy Force (USA).png</image>
 		<video>./video/Galaxy Force (USA).mp4</video>
 		<marquee>./marquee/Galaxy Force (USA).png</marquee>
@@ -2255,7 +2255,7 @@
 	</game>
 	<game>
 		<path>./Game Box Serie Esportes Radicais (Brazil).zip</path>
-		<name>테디보이 블루스 (브라질판)</name>
+		<name>캘리포니아게임즈 (브라질판)</name>
 		<image>./snap/Game Box Serie Esportes Radicais (Brazil).png</image>
 		<video>./video/Game Box Serie Esportes Radicais (Brazil).mp4</video>
 		<marquee>./marquee/Game Box Serie Esportes Radicais (Brazil).png</marquee>
@@ -2267,7 +2267,7 @@
 	</game>
 	<game>
 		<path>./Gangcheol RoboCop (Korea) (Unl).zip</path>
-		<name>고스트 하우스 (일본판)</name>
+		<name>강철 로보캅 (한국판)(해적판)</name>
 		<image>./snap/Gangcheol RoboCop (Korea) (Unl).png</image>
 		<video>./video/Gangcheol RoboCop (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Gangcheol RoboCop (Korea) (Unl).png</marquee>
@@ -2279,7 +2279,7 @@
 	</game>
 	<game>
 		<path>./Gangster Town (USA, Europe, Brazil).zip</path>
-		<name>고스트 하우스 (한국판)(해적판)</name>
+		<name>갱스터 타운</name>
 		<image>./snap/Gangster Town (USA, Europe, Brazil).png</image>
 		<video>./video/Gangster Town (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Gangster Town (USA, Europe, Brazil).png</marquee>
@@ -2291,7 +2291,7 @@
 	</game>
 	<game>
 		<path>./Gauntlet (Europe, Brazil).zip</path>
-		<name>고스트 하우스 (미국,유럽판)(베타)</name>
+		<name>건틀렛</name>
 		<image>./snap/Gauntlet (Europe, Brazil).png</image>
 		<video>./video/Gauntlet (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Gauntlet (Europe, Brazil).png</marquee>
@@ -2303,7 +2303,7 @@
 	</game>
 	<game>
 		<path>./George Foreman's KO Boxing (Europe, Brazil).zip</path>
-		<name>고스트 하우스 (미국,유럽판)</name>
+		<name>조지 포먼의 KO 복싱</name>
 		<image>./snap/George Foreman's KO Boxing (Europe, Brazil).png</image>
 		<video>./video/George Foreman's KO Boxing (Europe, Brazil).mp4</video>
 		<marquee>./marquee/George Foreman's KO Boxing (Europe, Brazil).png</marquee>
@@ -2315,7 +2315,7 @@
 	</game>
 	<game>
 		<path>./Geraldinho (Brazil).zip</path>
-		<name>고스트 버스터즈 (미국,유럽판)</name>
+		<name>테디보이 블루스 (브라질판)</name>
 		<image>./snap/Geraldinho (Brazil).png</image>
 		<video>./video/Geraldinho (Brazil).mp4</video>
 		<marquee>./marquee/Geraldinho (Brazil).png</marquee>
@@ -2327,7 +2327,7 @@
 	</game>
 	<game>
 		<path>./Ghost House (Japan).zip</path>
-		<name>대마계촌 / 구울 앤 고스트 (불명)(샘플)</name>
+		<name>고스트 하우스 (일본판)</name>
 		<image>./snap/Ghost House (Japan).png</image>
 		<video>./video/Ghost House (Japan).mp4</video>
 		<marquee>./marquee/Ghost House (Japan).png</marquee>
@@ -2339,7 +2339,7 @@
 	</game>
 	<game>
 		<path>./Ghost House (Korea) (Unl).zip</path>
-		<name>대마계촌 / 구울 앤 고스트 (미국,유럽판)</name>
+		<name>고스트 하우스 (한국판)(해적판)</name>
 		<image>./snap/Ghost House (Korea) (Unl).png</image>
 		<video>./video/Ghost House (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Ghost House (Korea) (Unl).png</marquee>
@@ -2351,7 +2351,7 @@
 	</game>
 	<game>
 		<path>./Ghost House (USA, Europe, Brazil) (Beta).zip</path>
-		<name>글로벌 디펜스 (미국,유럽판)(베타)</name>
+		<name>고스트 하우스 (베타)</name>
 		<image>./snap/Ghost House (USA, Europe, Brazil) (Beta).png</image>
 		<video>./video/Ghost House (USA, Europe, Brazil) (Beta).mp4</video>
 		<marquee>./marquee/Ghost House (USA, Europe, Brazil) (Beta).png</marquee>
@@ -2363,7 +2363,7 @@
 	</game>
 	<game>
 		<path>./Ghost House (USA, Europe, Brazil).zip</path>
-		<name>글로벌 디펜스 (미국,유럽판)</name>
+		<name>고스트 하우스</name>
 		<image>./snap/Ghost House (USA, Europe, Brazil).png</image>
 		<video>./video/Ghost House (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Ghost House (USA, Europe, Brazil).png</marquee>
@@ -2375,7 +2375,7 @@
 	</game>
 	<game>
 		<path>./Ghostbusters (USA, Europe, Brazil).zip</path>
-		<name>SDI (일본판)</name>
+		<name>고스트 버스터즈</name>
 		<image>./snap/Ghostbusters (USA, Europe, Brazil).png</image>
 		<video>./video/Ghostbusters (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Ghostbusters (USA, Europe, Brazil).png</marquee>
@@ -2387,7 +2387,7 @@
 	</game>
 	<game>
 		<path>./Ghouls'n Ghosts (USA) (Demo).zip</path>
-		<name>믹 앤 맥 글로벌 글라디에이터 (유럽판)</name>
+		<name>대마계촌 / 구울 앤 고스트 (데모)</name>
 		<image>./snap/Ghouls'n Ghosts (USA) (Demo).png</image>
 		<video>./video/Ghouls'n Ghosts (USA) (Demo).mp4</video>
 		<marquee>./marquee/Ghouls'n Ghosts (USA) (Demo).png</marquee>
@@ -2399,7 +2399,7 @@
 	</game>
 	<game>
 		<path>./Ghouls'n Ghosts (USA, Europe).zip</path>
-		<name>G-LOC 에어 배틀 (유럽판)</name>
+		<name>대마계촌 / 구울 앤 고스트 (미국,유럽판)</name>
 		<image>./snap/Ghouls'n Ghosts (USA, Europe).png</image>
 		<video>./video/Ghouls'n Ghosts (USA, Europe).mp4</video>
 		<marquee>./marquee/Ghouls'n Ghosts (USA, Europe).png</marquee>
@@ -2411,7 +2411,7 @@
 	</game>
 	<game>
 		<path>./Global Defense (USA, Europe, Brazil) (Beta).zip</path>
-		<name>극악 동맹 덤프 마츠모토 (일본판)</name>
+		<name>글로벌 디펜스 (베타)</name>
 		<image>./snap/Global Defense (USA, Europe, Brazil) (Beta).png</image>
 		<video>./video/Global Defense (USA, Europe, Brazil) (Beta).mp4</video>
 		<marquee>./marquee/Global Defense (USA, Europe, Brazil) (Beta).png</marquee>
@@ -2423,7 +2423,7 @@
 	</game>
 	<game>
 		<path>./Global Defense (USA, Europe, Brazil).zip</path>
-		<name>황금 도끼 워리어 (미국,유럽판)</name>
+		<name>글로벌 디펜스</name>
 		<image>./snap/Global Defense (USA, Europe, Brazil).png</image>
 		<video>./video/Global Defense (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Global Defense (USA, Europe, Brazil).png</marquee>
@@ -2435,7 +2435,7 @@
 	</game>
 	<game>
 		<path>./Global Gladiators (Europe, Brazil).zip</path>
-		<name>황금 도끼 / 골든 엑스 (미국,유럽판)</name>
+		<name>글로벌 글라디에이터</name>
 		<image>./snap/Global Gladiators (Europe, Brazil).png</image>
 		<video>./video/Global Gladiators (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Global Gladiators (Europe, Brazil).png</marquee>
@@ -2447,7 +2447,7 @@
 	</game>
 	<game>
 		<path>./Gokuaku Doumei Dump Matsumoto (Japan).zip</path>
-		<name>골프마니아 (유럽판)(베타)</name>
+		<name>극악 동맹 덤프 마츠모토 (일본판)</name>
 		<image>./snap/Gokuaku Doumei Dump Matsumoto (Japan).png</image>
 		<video>./video/Gokuaku Doumei Dump Matsumoto (Japan).mp4</video>
 		<marquee>./marquee/Gokuaku Doumei Dump Matsumoto (Japan).png</marquee>
@@ -2459,7 +2459,7 @@
 	</game>
 	<game>
 		<path>./Golden Axe (USA, Europe, Brazil).zip</path>
-		<name>골프마니아 (유럽판)</name>
+		<name>황금 도끼 / 골든 엑스</name>
 		<image>./snap/Golden Axe (USA, Europe, Brazil).png</image>
 		<video>./video/Golden Axe (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Golden Axe (USA, Europe, Brazil).png</marquee>
@@ -2471,7 +2471,7 @@
 	</game>
 	<game>
 		<path>./Golden Axe Warrior (USA, Europe, Brazil).zip</path>
-		<name>슈퍼 골프 (유럽판)(베타)</name>
+		<name>황금 도끼 워리어</name>
 		<image>./snap/Golden Axe Warrior (USA, Europe, Brazil).png</image>
 		<video>./video/Golden Axe Warrior (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Golden Axe Warrior (USA, Europe, Brazil).png</marquee>
@@ -2483,7 +2483,7 @@
 	</game>
 	<game>
 		<path>./Golfamania (Europe) (Beta).zip</path>
-		<name>골베리우스 (미국,유럽판)</name>
+		<name>골프마니아 (유럽판)(베타)</name>
 		<image>./snap/Golfamania (Europe) (Beta).png</image>
 		<video>./video/Golfamania (Europe) (Beta).mp4</video>
 		<marquee>./marquee/Golfamania (Europe) (Beta).png</marquee>
@@ -2495,7 +2495,7 @@
 	</game>
 	<game>
 		<path>./Golfamania (Europe, Brazil).zip</path>
-		<name>GP 라이더 (유럽판)</name>
+		<name>골프마니아</name>
 		<image>./snap/Golfamania (Europe, Brazil).png</image>
 		<video>./video/Golfamania (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Golfamania (Europe, Brazil).png</marquee>
@@ -2507,7 +2507,7 @@
 	</game>
 	<game>
 		<path>./Golvellius - Valley of Doom (USA, Europe, Brazil).zip</path>
-		<name>그레이트 베이스볼 (일본판)</name>
+		<name>골베리우스 - 벨리오브 둠</name>
 		<image>./snap/Golvellius - Valley of Doom (USA, Europe, Brazil).png</image>
 		<video>./video/Golvellius - Valley of Doom (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Golvellius - Valley of Doom (USA, Europe, Brazil).png</marquee>
@@ -2519,7 +2519,7 @@
 	</game>
 	<game>
 		<path>./GP Rider (Europe, Brazil).zip</path>
-		<name>그레이트 베이스볼 (미국,유럽판)</name>
+		<name>GP 라이더</name>
 		<image>./snap/GP Rider (Europe, Brazil).png</image>
 		<video>./video/GP Rider (Europe, Brazil).mp4</video>
 		<marquee>./marquee/GP Rider (Europe, Brazil).png</marquee>
@@ -2531,7 +2531,7 @@
 	</game>
 	<game>
 		<path>./Great Baseball (Japan).zip</path>
-		<name>그레이트 바스켓볼 (세계판)</name>
+		<name>그레이트 베이스볼 (일본판)</name>
 		<image>./snap/Great Baseball (Japan).png</image>
 		<video>./video/Great Baseball (Japan).mp4</video>
 		<marquee>./marquee/Great Baseball (Japan).png</marquee>
@@ -2543,7 +2543,7 @@
 	</game>
 	<game>
 		<path>./Great Baseball (USA, Europe).zip</path>
-		<name>그레이트 풋볼 (세계판)</name>
+		<name>그레이트 베이스볼 (미국,유럽판)</name>
 		<image>./snap/Great Baseball (USA, Europe).png</image>
 		<video>./video/Great Baseball (USA, Europe).mp4</video>
 		<marquee>./marquee/Great Baseball (USA, Europe).png</marquee>
@@ -2555,7 +2555,7 @@
 	</game>
 	<game>
 		<path>./Great Basketball (World).zip</path>
-		<name>그레이트 골프 (한국판)</name>
+		<name>그레이트 바스켓볼 (세계판)</name>
 		<image>./snap/Great Basketball (World).png</image>
 		<video>./video/Great Basketball (World).mp4</video>
 		<marquee>./marquee/Great Basketball (World).png</marquee>
@@ -2567,7 +2567,7 @@
 	</game>
 	<game>
 		<path>./Great Football (World).zip</path>
-		<name>그레이트 골프 (세계판)</name>
+		<name>그레이트 풋볼 (세계판)</name>
 		<image>./snap/Great Football (World).png</image>
 		<video>./video/Great Football (World).mp4</video>
 		<marquee>./marquee/Great Football (World).png</marquee>
@@ -2579,7 +2579,7 @@
 	</game>
 	<game>
 		<path>./Great Golf (Japan).zip</path>
-		<name>그레이트 아이스 하키 (일본,미국판)</name>
+		<name>그레이트 골프 (일본판)</name>
 		<image>./snap/Great Golf (Japan).png</image>
 		<video>./video/Great Golf (Japan).mp4</video>
 		<marquee>./marquee/Great Golf (Japan).png</marquee>
@@ -2591,7 +2591,7 @@
 	</game>
 	<game>
 		<path>./Great Golf (Korea).zip</path>
-		<name>그레이트 사커 (유럽판)</name>
+		<name>그레이트 골프 (한국판)</name>
 		<image>./snap/Great Golf (Korea).png</image>
 		<video>./video/Great Golf (Korea).mp4</video>
 		<marquee>./marquee/Great Golf (Korea).png</marquee>
@@ -2603,7 +2603,7 @@
 	</game>
 	<game>
 		<path>./Great Golf (World) (Beta).zip</path>
-		<name>그레이트 사커 (일본판)</name>
+		<name>그레이트 골프 (세계판)(베타)</name>
 		<image>./snap/Great Golf (World) (Beta).png</image>
 		<video>./video/Great Golf (World) (Beta).mp4</video>
 		<marquee>./marquee/Great Golf (World) (Beta).png</marquee>
@@ -2615,7 +2615,7 @@
 	</game>
 	<game>
 		<path>./Great Golf ~ Masters Golf (World).zip</path>
-		<name>그레이트 사커 (대만판)</name>
+		<name>그레이트 골프 (세계판)</name>
 		<image>./snap/Great Golf ~ Masters Golf (World).png</image>
 		<video>./video/Great Golf ~ Masters Golf (World).mp4</video>
 		<marquee>./marquee/Great Golf ~ Masters Golf (World).png</marquee>
@@ -2627,7 +2627,7 @@
 	</game>
 	<game>
 		<path>./Great Ice Hockey (Japan, USA).zip</path>
-		<name>월드 사커 (세계판)</name>
+		<name>그레이트 아이스 하키 (일본,미국판)</name>
 		<image>./snap/Great Ice Hockey (Japan, USA).png</image>
 		<video>./video/Great Ice Hockey (Japan, USA).mp4</video>
 		<marquee>./marquee/Great Ice Hockey (Japan, USA).png</marquee>
@@ -2639,7 +2639,7 @@
 	</game>
 	<game>
 		<path>./Great Soccer (Europe).zip</path>
-		<name>그레이트 테니스 (일본판)</name>
+		<name>그레이트 사커 (유럽판)</name>
 		<image>./snap/Great Soccer (Europe).png</image>
 		<video>./video/Great Soccer (Europe).mp4</video>
 		<marquee>./marquee/Great Soccer (Europe).png</marquee>
@@ -2651,7 +2651,7 @@
 	</game>
 	<game>
 		<path>./Great Soccer (Japan).zip</path>
-		<name>그레이트 발리볼 (일본판)</name>
+		<name>그레이트 사커 (일본판)</name>
 		<image>./snap/Great Soccer (Japan).png</image>
 		<video>./video/Great Soccer (Japan).mp4</video>
 		<marquee>./marquee/Great Soccer (Japan).png</marquee>
@@ -2663,7 +2663,7 @@
 	</game>
 	<game>
 		<path>./Great Soccer (Taiwan) (Unl).zip</path>
-		<name>그레이트 발리볼 (미국,유럽판)</name>
+		<name>그레이트 사커 (대만판)(해적판)</name>
 		<image>./snap/Great Soccer (Taiwan) (Unl).png</image>
 		<video>./video/Great Soccer (Taiwan) (Unl).mp4</video>
 		<marquee>./marquee/Great Soccer (Taiwan) (Unl).png</marquee>
@@ -2675,7 +2675,7 @@
 	</game>
 	<game>
 		<path>./Great Tennis (Japan).zip</path>
-		<name>건 스모크 (한국판)(해적판)</name>
+		<name>그레이트 테니스 (일본판)</name>
 		<image>./snap/Great Tennis (Japan).png</image>
 		<video>./video/Great Tennis (Japan).mp4</video>
 		<marquee>./marquee/Great Tennis (Japan).png</marquee>
@@ -2687,7 +2687,7 @@
 	</game>
 	<game>
 		<path>./Great Volleyball (Japan).zip</path>
-		<name>패사의 봉인 (일본판)</name>
+		<name>그레이트 발리볼 (일본판)</name>
 		<image>./snap/Great Volleyball (Japan).png</image>
 		<video>./video/Great Volleyball (Japan).mp4</video>
 		<marquee>./marquee/Great Volleyball (Japan).png</marquee>
@@ -2699,7 +2699,7 @@
 	</game>
 	<game>
 		<path>./Great Volleyball (USA, Europe, Brazil).zip</path>
-		<name>행온 아스트로 워리어</name>
+		<name>그레이트 발리볼</name>
 		<image>./snap/Great Volleyball (USA, Europe, Brazil).png</image>
 		<video>./video/Great Volleyball (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Great Volleyball (USA, Europe, Brazil).png</marquee>
@@ -2711,7 +2711,7 @@
 	</game>
 	<game>
 		<path>./Gun.Smoke (Korea) (Unl).zip</path>
-		<name>행온 사파리 헌트 (베타)</name>
+		<name>건 스모크 (한국판)(해적판)</name>
 		<image>./snap/Gun.Smoke (Korea) (Unl).png</image>
 		<video>./video/Gun.Smoke (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Gun.Smoke (Korea) (Unl).png</marquee>
@@ -2723,7 +2723,7 @@
 	</game>
 	<game>
 		<path>./Haja no Fuuin (Japan).zip</path>
-		<name>행온 사파리 헌트</name>
+		<name>패사의 봉인 (일본판)</name>
 		<image>./snap/Haja no Fuuin (Japan).png</image>
 		<video>./video/Haja no Fuuin (Japan).mp4</video>
 		<marquee>./marquee/Haja no Fuuin (Japan).png</marquee>
@@ -2735,7 +2735,7 @@
 	</game>
 	<game>
 		<path>./Hang On (Europe) (Beta).zip</path>
-		<name>행온 (유럽판)</name>
+		<name>행온 (유럽판)(베타)</name>
 		<image>./snap/Hang On (Europe) (Beta).png</image>
 		<video>./video/Hang On (Europe) (Beta).mp4</video>
 		<marquee>./marquee/Hang On (Europe) (Beta).png</marquee>
@@ -2747,7 +2747,7 @@
 	</game>
 	<game>
 		<path>./Hang On (Europe).zip</path>
-		<name>행온 (일본판)</name>
+		<name>행온 (유럽판)</name>
 		<image>./snap/Hang On (Europe).png</image>
 		<video>./video/Hang On (Europe).mp4</video>
 		<marquee>./marquee/Hang On (Europe).png</marquee>
@@ -2759,7 +2759,7 @@
 	</game>
 	<game>
 		<path>./Hang On (Japan).zip</path>
-		<name>헤비웨이트 챔프 (유럽판)</name>
+		<name>행온 (일본판)</name>
 		<image>./snap/Hang On (Japan).png</image>
 		<video>./video/Hang On (Japan).mp4</video>
 		<marquee>./marquee/Hang On (Japan).png</marquee>
@@ -2771,7 +2771,7 @@
 	</game>
 	<game>
 		<path>./Hang-On &amp; Astro Warrior (USA).zip</path>
-		<name>히어로즈 오브 더 랜스 (유럽판)</name>
+		<name>행온 아스트로 워리어</name>
 		<image>./snap/Hang-On &amp; Astro Warrior (USA).png</image>
 		<video>./video/Hang-On &amp; Astro Warrior (USA).mp4</video>
 		<marquee>./marquee/Hang-On &amp; Astro Warrior (USA).png</marquee>
@@ -2783,7 +2783,7 @@
 	</game>
 	<game>
 		<path>./Hang-On &amp; Safari Hunt (USA) (Beta).zip</path>
-		<name>하이 스쿨! 기면조 (일본판)</name>
+		<name>행온 사파리 헌트 (베타)</name>
 		<image>./snap/Hang-On &amp; Safari Hunt (USA) (Beta).png</image>
 		<video>./video/Hang-On &amp; Safari Hunt (USA) (Beta).mp4</video>
 		<marquee>./marquee/Hang-On &amp; Safari Hunt (USA) (Beta).png</marquee>
@@ -2795,7 +2795,7 @@
 	</game>
 	<game>
 		<path>./Hang-On &amp; Safari Hunt (USA).zip</path>
-		<name>북두의 권 (일본판)</name>
+		<name>행온 사파리 헌트</name>
 		<image>./snap/Hang-On &amp; Safari Hunt (USA).png</image>
 		<video>./video/Hang-On &amp; Safari Hunt (USA).mp4</video>
 		<marquee>./marquee/Hang-On &amp; Safari Hunt (USA).png</marquee>
@@ -2807,7 +2807,7 @@
 	</game>
 	<game>
 		<path>./Heavyweight Champ (Europe).zip</path>
-		<name>나홀로 집에 (유럽판)</name>
+		<name>헤비웨이트 챔프 (유럽판)</name>
 		<image>./snap/Heavyweight Champ (Europe).png</image>
 		<video>./video/Heavyweight Champ (Europe).mp4</video>
 		<marquee>./marquee/Heavyweight Champ (Europe).png</marquee>
@@ -2819,7 +2819,7 @@
 	</game>
 	<game>
 		<path>./Heroes of the Lance (Europe, Brazil).zip</path>
-		<name>홍길동 (한국판)</name>
+		<name>히어로즈 오브 더 랜스</name>
 		<image>./snap/Heroes of the Lance (Europe, Brazil).png</image>
 		<video>./video/Heroes of the Lance (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Heroes of the Lance (Europe, Brazil).png</marquee>
@@ -2831,7 +2831,7 @@
 	</game>
 	<game>
 		<path>./High School! Kimengumi (Japan).zip</path>
-		<name>후크 (유럽판)(시험판)</name>
+		<name>하이 스쿨! 기면조 (일본판)</name>
 		<image>./snap/High School! Kimengumi (Japan).png</image>
 		<video>./video/High School! Kimengumi (Japan).mp4</video>
 		<marquee>./marquee/High School! Kimengumi (Japan).png</marquee>
@@ -2843,7 +2843,7 @@
 	</game>
 	<game>
 		<path>./Hokuto no Ken (Japan).zip</path>
-		<name>별을 찾아서 (일본판)</name>
+		<name>북두의 권 (일본판)</name>
 		<image>./snap/Hokuto no Ken (Japan).png</image>
 		<video>./video/Hokuto no Ken (Japan).mp4</video>
 		<marquee>./marquee/Hokuto no Ken (Japan).png</marquee>
@@ -2855,7 +2855,7 @@
 	</game>
 	<game>
 		<path>./Hokuto no Ken (Taiwan) (Unl).zip</path>
-		<name>화랑의 검 (한국판)</name>
+		<name>북두의 권 (대만판)(해적판)</name>
 		<image>./snap/Hokuto no Ken (Taiwan) (Unl).png</image>
 		<video>./video/Hokuto no Ken (Taiwan) (Unl).mp4</video>
 		<marquee>./marquee/Hokuto no Ken (Taiwan) (Unl).png</marquee>
@@ -2867,7 +2867,7 @@
 	</game>
 	<game>
 		<path>./Home Alone (Europe).zip</path>
-		<name>화랑의 검 (일본판)</name>
+		<name>나홀로 집에 (유럽판)</name>
 		<image>./snap/Home Alone (Europe).png</image>
 		<video>./video/Home Alone (Europe).mp4</video>
 		<marquee>./marquee/Home Alone (Europe).png</marquee>
@@ -2879,7 +2879,7 @@
 	</game>
 	<game>
 		<path>./Hong Kil Dong (Korea).zip</path>
-		<name>임파서블 미션 (유럽판)(베타)</name>
+		<name>홍길동 (한국판)</name>
 		<image>./snap/Hong Kil Dong (Korea).png</image>
 		<video>./video/Hong Kil Dong (Korea).mp4</video>
 		<marquee>./marquee/Hong Kil Dong (Korea).png</marquee>
@@ -2891,7 +2891,7 @@
 	</game>
 	<game>
 		<path>./Hook (Europe) (Proto).zip</path>
-		<name>임파서블 미션 (유럽판)</name>
+		<name>후크 (유럽판)(시험판)</name>
 		<image>./snap/Hook (Europe) (Proto).png</image>
 		<video>./video/Hook (Europe) (Proto).mp4</video>
 		<marquee>./marquee/Hook (Europe) (Proto).png</marquee>
@@ -2903,7 +2903,7 @@
 	</game>
 	<game>
 		<path>./Hoshi wo Sagashite... (Japan).zip</path>
-		<name>인디아나 존스와 최후의 성전 (유럽판)</name>
+		<name>별을 찾아서 (일본판)</name>
 		<image>./snap/Hoshi wo Sagashite... (Japan).png</image>
 		<video>./video/Hoshi wo Sagashite... (Japan).mp4</video>
 		<marquee>./marquee/Hoshi wo Sagashite... (Japan).png</marquee>
@@ -2915,7 +2915,7 @@
 	</game>
 	<game>
 		<path>./Hwarang-ui Geom (Korea).zip</path>
-		<name>인디아나 존스와 최후의 성전 (유럽판)(베타)</name>
+		<name>화랑의 검 (한국판)</name>
 		<image>./snap/Hwarang-ui Geom (Korea).png</image>
 		<video>./video/Hwarang-ui Geom (Korea).mp4</video>
 		<marquee>./marquee/Hwarang-ui Geom (Korea).png</marquee>
@@ -2927,7 +2927,7 @@
 	</game>
 	<game>
 		<path>./Impossible Mission (Europe, Brazil) (Beta).zip</path>
-		<name>제임스 본드 007 - 결투 (브라질판)</name>
+		<name>임파서블 미션 (베타)</name>
 		<image>./snap/Impossible Mission (Europe, Brazil) (Beta).png</image>
 		<video>./video/Impossible Mission (Europe, Brazil) (Beta).mp4</video>
 		<marquee>./marquee/Impossible Mission (Europe, Brazil) (Beta).png</marquee>
@@ -2939,7 +2939,7 @@
 	</game>
 	<game>
 		<path>./Impossible Mission (Europe, Brazil).zip</path>
-		<name>제임스 본드 007 - 결투 (유럽판)</name>
+		<name>임파서블 미션</name>
 		<image>./snap/Impossible Mission (Europe, Brazil).png</image>
 		<video>./video/Impossible Mission (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Impossible Mission (Europe, Brazil).png</marquee>
@@ -2951,7 +2951,7 @@
 	</game>
 	<game>
 		<path>./Incredible Crash Dummies, The (Europe, Brazil).zip</path>
-		<name>제임스 버스터 더글라스 넉아웃 복싱 (베타)</name>
+		<name>인크레더블 크래지 더미</name>
 		<image>./snap/Incredible Crash Dummies, The (Europe, Brazil).png</image>
 		<video>./video/Incredible Crash Dummies, The (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Incredible Crash Dummies, The (Europe, Brazil).png</marquee>
@@ -2963,7 +2963,7 @@
 	</game>
 	<game>
 		<path>./Incredible Hulk, The (Europe, Brazil).zip</path>
-		<name>제임스 버스터 더글라스 넉아웃 복싱</name>
+		<name>인크레더블 헐크</name>
 		<image>./snap/Incredible Hulk, The (Europe, Brazil).png</image>
 		<video>./video/Incredible Hulk, The (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Incredible Hulk, The (Europe, Brazil).png</marquee>
@@ -2975,7 +2975,7 @@
 	</game>
 	<game>
 		<path>./Indiana Jones and the Last Crusade (Europe, Brazil).zip</path>
-		<name>제임스 폰드 2 - 코드명 로보코드 (유럽판)</name>
+		<name>인디아나 존스와 최후의 성전</name>
 		<image>./snap/Indiana Jones and the Last Crusade (Europe, Brazil).png</image>
 		<video>./video/Indiana Jones and the Last Crusade (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Indiana Jones and the Last Crusade (Europe, Brazil).png</marquee>
@@ -2987,7 +2987,7 @@
 	</game>
 	<game>
 		<path>./Indiana Jones and the Last Crusade (USA) (Beta).zip</path>
-		<name>장풍 3 (한국판)(해적판)</name>
+		<name>인디아나 존스와 최후의 성전 (베타)</name>
 		<image>./snap/Indiana Jones and the Last Crusade (USA) (Beta).png</image>
 		<video>./video/Indiana Jones and the Last Crusade (USA) (Beta).mp4</video>
 		<marquee>./marquee/Indiana Jones and the Last Crusade (USA) (Beta).png</marquee>
@@ -2999,7 +2999,7 @@
 	</game>
 	<game>
 		<path>./James 'Buster' Douglas Knockout Boxing (USA) (Beta).zip</path>
-		<name>장풍 2 (한국판)(해적판)</name>
+		<name>제임스 버스터 더글라스 넉아웃 복싱 (베타)</name>
 		<image>./snap/James 'Buster' Douglas Knockout Boxing (USA) (Beta).png</image>
 		<video>./video/James 'Buster' Douglas Knockout Boxing (USA) (Beta).mp4</video>
 		<marquee>./marquee/James 'Buster' Douglas Knockout Boxing (USA) (Beta).png</marquee>
@@ -3011,7 +3011,7 @@
 	</game>
 	<game>
 		<path>./James 'Buster' Douglas Knockout Boxing (USA).zip</path>
-		<name>장군의 아들 (한국판)</name>
+		<name>제임스 버스터 더글라스 넉아웃 복싱</name>
 		<image>./snap/James 'Buster' Douglas Knockout Boxing (USA).png</image>
 		<video>./video/James 'Buster' Douglas Knockout Boxing (USA).mp4</video>
 		<marquee>./marquee/James 'Buster' Douglas Knockout Boxing (USA).png</marquee>
@@ -3023,7 +3023,7 @@
 	</game>
 	<game>
 		<path>./James Bond 007 - The Duel (Brazil).zip</path>
-		<name>조 몬태나 풋볼 (미국,유럽판)</name>
+		<name>제임스 본드 007 - 결투 (브라질판)</name>
 		<image>./snap/James Bond 007 - The Duel (Brazil).png</image>
 		<video>./video/James Bond 007 - The Duel (Brazil).mp4</video>
 		<marquee>./marquee/James Bond 007 - The Duel (Brazil).png</marquee>
@@ -3035,7 +3035,7 @@
 	</game>
 	<game>
 		<path>./James Bond 007 - The Duel (Europe).zip</path>
-		<name>쥬라기 공원 (유럽판)</name>
+		<name>제임스 본드 007 - 결투 (유럽판)</name>
 		<image>./snap/James Bond 007 - The Duel (Europe).png</image>
 		<video>./video/James Bond 007 - The Duel (Europe).mp4</video>
 		<marquee>./marquee/James Bond 007 - The Duel (Europe).png</marquee>
@@ -3047,7 +3047,7 @@
 	</game>
 	<game>
 		<path>./James Pond 2 - Codename RoboCod (Europe, Brazil).zip</path>
-		<name>화랑의 검 (미국,유럽판)</name>
+		<name>제임스 폰드 2 - 코드명 로보코드</name>
 		<image>./snap/James Pond 2 - Codename RoboCod (Europe, Brazil).png</image>
 		<video>./video/James Pond 2 - Codename RoboCod (Europe, Brazil).mp4</video>
 		<marquee>./marquee/James Pond 2 - Codename RoboCod (Europe, Brazil).png</marquee>
@@ -3059,7 +3059,7 @@
 	</game>
 	<game>
 		<path>./Jang Pung 3 (Korea) (Unl).zip</path>
-		<name>킹 &amp; 벌룬 (한국판)(해적판)</name>
+		<name>장풍 3 (한국판)(해적판)</name>
 		<image>./snap/Jang Pung 3 (Korea) (Unl).png</image>
 		<video>./video/Jang Pung 3 (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Jang Pung 3 (Korea) (Unl).png</marquee>
@@ -3071,7 +3071,7 @@
 	</game>
 	<game>
 		<path>./Jang Pung II (Korea) (Unl).zip</path>
-		<name>킹스 퀘스트 - 왕관을 찾아서 (베타)</name>
+		<name>장풍 2 (한국판)(해적판)</name>
 		<image>./snap/Jang Pung II (Korea) (Unl).png</image>
 		<video>./video/Jang Pung II (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Jang Pung II (Korea) (Unl).png</marquee>
@@ -3083,7 +3083,7 @@
 	</game>
 	<game>
 		<path>./Janggun-ui Adeul (Korea) (Unl).zip</path>
-		<name>킹스 퀘스트 - 왕관을 찾아서</name>
+		<name>장군의 아들 (한국판)(해적판)</name>
 		<image>./snap/Janggun-ui Adeul (Korea) (Unl).png</image>
 		<video>./video/Janggun-ui Adeul (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Janggun-ui Adeul (Korea) (Unl).png</marquee>
@@ -3095,7 +3095,7 @@
 	</game>
 	<game>
 		<path>./Joe Montana Football (USA, Europe, Brazil).zip</path>
-		<name>클락스 (유럽판)</name>
+		<name>조 몬태나 풋볼</name>
 		<image>./snap/Joe Montana Football (USA, Europe, Brazil).png</image>
 		<video>./video/Joe Montana Football (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Joe Montana Football (USA, Europe, Brazil).png</marquee>
@@ -3107,7 +3107,7 @@
 	</game>
 	<game>
 		<path>./Jogos de Verao II (Brazil).zip</path>
-		<name>마성전설 2 - 나이트메어 2 - 갈리우스의 미로 (한국판)</name>
+		<name>여름 게임 2 (브라질판)</name>
 		<image>./snap/Jogos de Verao II (Brazil).png</image>
 		<video>./video/Jogos de Verao II (Brazil).mp4</video>
 		<marquee>./marquee/Jogos de Verao II (Brazil).png</marquee>
@@ -3119,7 +3119,7 @@
 	</game>
 	<game>
 		<path>./Jungle Book, The (Europe, Brazil).zip</path>
-		<name>크러스티의 펀 하우스 (유럽판)</name>
+		<name>정글북</name>
 		<image>./snap/Jungle Book, The (Europe, Brazil).png</image>
 		<video>./video/Jungle Book, The (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Jungle Book, The (Europe, Brazil).png</marquee>
@@ -3131,7 +3131,7 @@
 	</game>
 	<game>
 		<path>./Jurassic Park (Europe, Brazil).zip</path>
-		<name>공작왕 (일본판)</name>
+		<name>쥬라기 공원</name>
 		<image>./snap/Jurassic Park (Europe, Brazil).png</image>
 		<video>./video/Jurassic Park (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Jurassic Park (Europe, Brazil).png</marquee>
@@ -3143,7 +3143,7 @@
 	</game>
 	<game>
 		<path>./Kenseiden (Japan).zip</path>
-		<name>쿵후 키드 (미국,유럽판)</name>
+		<name>화랑의 검 (일본판)</name>
 		<image>./snap/Kenseiden (Japan).png</image>
 		<video>./video/Kenseiden (Japan).mp4</video>
 		<marquee>./marquee/Kenseiden (Japan).png</marquee>
@@ -3155,7 +3155,7 @@
 	</game>
 	<game>
 		<path>./Kenseiden (USA, Europe, Brazil).zip</path>
-		<name>랜드 오브 일루젼 (유럽판)</name>
+		<name>화랑의 검</name>
 		<image>./snap/Kenseiden (USA, Europe, Brazil).png</image>
 		<video>./video/Kenseiden (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Kenseiden (USA, Europe, Brazil).png</marquee>
@@ -3167,7 +3167,7 @@
 	</game>
 	<game>
 		<path>./King &amp; Balloon (Korea) (Unl).zip</path>
-		<name>레이저 고스트 (유럽판)</name>
+		<name>킹 &amp; 벌룬 (한국판)(해적판)</name>
 		<image>./snap/King &amp; Balloon (Korea) (Unl).png</image>
 		<video>./video/King &amp; Balloon (Korea) (Unl).mp4</video>
 		<marquee>./marquee/King &amp; Balloon (Korea) (Unl).png</marquee>
@@ -3179,7 +3179,7 @@
 	</game>
 	<game>
 		<path>./King's Quest - Quest for the Crown (USA) (Beta).zip</path>
-		<name>레전드 오브 일루젼 (브라질판)</name>
+		<name>킹스 퀘스트 - 왕관을 찾아서 (베타)</name>
 		<image>./snap/King's Quest - Quest for the Crown (USA) (Beta).png</image>
 		<video>./video/King's Quest - Quest for the Crown (USA) (Beta).mp4</video>
 		<marquee>./marquee/King's Quest - Quest for the Crown (USA) (Beta).png</marquee>
@@ -3191,7 +3191,7 @@
 	</game>
 	<game>
 		<path>./King's Quest - Quest for the Crown (USA).zip</path>
-		<name>레밍즈 2 (불명)(시험판)</name>
+		<name>킹스 퀘스트 - 왕관을 찾아서</name>
 		<image>./snap/King's Quest - Quest for the Crown (USA).png</image>
 		<video>./video/King's Quest - Quest for the Crown (USA).mp4</video>
 		<marquee>./marquee/King's Quest - Quest for the Crown (USA).png</marquee>
@@ -3203,7 +3203,7 @@
 	</game>
 	<game>
 		<path>./Klax (Europe).zip</path>
-		<name>레밍즈 (유럽판)(베타)</name>
+		<name>클락스 (유럽판)</name>
 		<image>./snap/Klax (Europe).png</image>
 		<video>./video/Klax (Europe).mp4</video>
 		<marquee>./marquee/Klax (Europe).png</marquee>
@@ -3215,7 +3215,7 @@
 	</game>
 	<game>
 		<path>./Knightmare II - The Maze of Galious (Korea).zip</path>
-		<name>레밍즈 (유럽판)</name>
+		<name>마성전설 2 - 나이트메어 2 - 갈리우스의 미로 (한국판)</name>
 		<image>./snap/Knightmare II - The Maze of Galious (Korea).png</image>
 		<video>./video/Knightmare II - The Maze of Galious (Korea).mp4</video>
 		<marquee>./marquee/Knightmare II - The Maze of Galious (Korea).png</marquee>
@@ -3227,7 +3227,7 @@
 	</game>
 	<game>
 		<path>./Krusty's Fun House (Europe, Brazil).zip</path>
-		<name>스머프의 세계여행 (유럽판)(베타)</name>
+		<name>크러스티의 펀 하우스</name>
 		<image>./snap/Krusty's Fun House (Europe, Brazil).png</image>
 		<video>./video/Krusty's Fun House (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Krusty's Fun House (Europe, Brazil).png</marquee>
@@ -3239,7 +3239,7 @@
 	</game>
 	<game>
 		<path>./Kujaku Ou (Japan).zip</path>
-		<name>스머프의 세계여행 (유럽판)</name>
+		<name>공작왕 (일본판)</name>
 		<image>./snap/Kujaku Ou (Japan).png</image>
 		<video>./video/Kujaku Ou (Japan).mp4</video>
 		<marquee>./marquee/Kujaku Ou (Japan).png</marquee>
@@ -3251,7 +3251,7 @@
 	</game>
 	<game>
 		<path>./Kung Fu Kid (USA, Europe, Brazil).zip</path>
-		<name>라인 오브 파이어 (유럽판)</name>
+		<name>쿵후 키드</name>
 		<image>./snap/Kung Fu Kid (USA, Europe, Brazil).png</image>
 		<video>./video/Kung Fu Kid (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Kung Fu Kid (USA, Europe, Brazil).png</marquee>
@@ -3263,7 +3263,7 @@
 	</game>
 	<game>
 		<path>./Land of Illusion Starring Mickey Mouse (Europe, Brazil).zip</path>
-		<name>로드 오브 소드 (일본판)</name>
+		<name>랜드 오브 일루젼</name>
 		<image>./snap/Land of Illusion Starring Mickey Mouse (Europe, Brazil).png</image>
 		<video>./video/Land of Illusion Starring Mickey Mouse (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Land of Illusion Starring Mickey Mouse (Europe, Brazil).png</marquee>
@@ -3275,7 +3275,7 @@
 	</game>
 	<game>
 		<path>./Laser Ghost (Europe).zip</path>
-		<name>로드 오브 더 소드 (미국,유럽판)</name>
+		<name>레이저 고스트 (유럽판)</name>
 		<image>./snap/Laser Ghost (Europe).png</image>
 		<video>./video/Laser Ghost (Europe).mp4</video>
 		<marquee>./marquee/Laser Ghost (Europe).png</marquee>
@@ -3287,7 +3287,7 @@
 	</game>
 	<game>
 		<path>./Legend of Illusion Starring Mickey Mouse (Brazil).zip</path>
-		<name>로렛타의 초상 (일본판)</name>
+		<name>레전드 오브 일루젼 (브라질판)</name>
 		<image>./snap/Legend of Illusion Starring Mickey Mouse (Brazil).png</image>
 		<video>./video/Legend of Illusion Starring Mickey Mouse (Brazil).mp4</video>
 		<marquee>./marquee/Legend of Illusion Starring Mickey Mouse (Brazil).png</marquee>
@@ -3299,7 +3299,7 @@
 	</game>
 	<game>
 		<path>./Lemmings (Europe) (Beta).zip</path>
-		<name>모키걸 머신 건 죠 (일본판)</name>
+		<name>레밍즈 (유럽판)(베타)</name>
 		<image>./snap/Lemmings (Europe) (Beta).png</image>
 		<video>./video/Lemmings (Europe) (Beta).mp4</video>
 		<marquee>./marquee/Lemmings (Europe) (Beta).png</marquee>
@@ -3311,7 +3311,7 @@
 	</game>
 	<game>
 		<path>./Lemmings (Europe, Brazil).zip</path>
-		<name>마작 전국시대 (일본판)(베타)</name>
+		<name>레밍즈</name>
 		<image>./snap/Lemmings (Europe, Brazil).png</image>
 		<video>./video/Lemmings (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Lemmings (Europe, Brazil).png</marquee>
@@ -3323,7 +3323,7 @@
 	</game>
 	<game>
 		<path>./Lemmings 2 - The Tribes (Europe) (Proto).zip</path>
-		<name>마작 전국시대 (일본판)</name>
+		<name>레밍즈 2 (유럽판)(시험판)</name>
 		<image>./snap/Lemmings 2 - The Tribes (Europe) (Proto).png</image>
 		<video>./video/Lemmings 2 - The Tribes (Europe) (Proto).mp4</video>
 		<marquee>./marquee/Lemmings 2 - The Tribes (Europe) (Proto).png</marquee>
@@ -3335,7 +3335,7 @@
 	</game>
 	<game>
 		<path>./Line of Fire (Europe, Brazil).zip</path>
-		<name>마계 열전 (일본판)</name>
+		<name>라인 오브 파이어</name>
 		<image>./snap/Line of Fire (Europe, Brazil).png</image>
 		<video>./video/Line of Fire (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Line of Fire (Europe, Brazil).png</marquee>
@@ -3347,7 +3347,7 @@
 	</game>
 	<game>
 		<path>./Lion King, The (Europe, Brazil).zip</path>
-		<name>마왕 골베리우스 (일본판)(베타)</name>
+		<name>라이온 킹</name>
 		<image>./snap/Lion King, The (Europe, Brazil).png</image>
 		<video>./video/Lion King, The (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Lion King, The (Europe, Brazil).png</marquee>
@@ -3359,7 +3359,7 @@
 	</game>
 	<game>
 		<path>./Lord of Sword (Japan).zip</path>
-		<name>마왕 골베리우스 (일본판)</name>
+		<name>로드 오브 소드 (일본판)</name>
 		<image>./snap/Lord of Sword (Japan).png</image>
 		<video>./video/Lord of Sword (Japan).mp4</video>
 		<marquee>./marquee/Lord of Sword (Japan).png</marquee>
@@ -3371,7 +3371,7 @@
 	</game>
 	<game>
 		<path>./Lord of the Sword (USA, Europe, Brazil).zip</path>
-		<name>마블 매드니스 (유럽판)</name>
+		<name>로드 오브 더 소드</name>
 		<image>./snap/Lord of the Sword (USA, Europe, Brazil).png</image>
 		<video>./video/Lord of the Sword (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Lord of the Sword (USA, Europe, Brazil).png</marquee>
@@ -3383,7 +3383,7 @@
 	</game>
 	<game>
 		<path>./Loretta no Shouzou - Sherlock Holmes (Japan).zip</path>
-		<name>마크맨 슈팅 &amp; 트랩 슈팅</name>
+		<name>로렛타의 초상 - 셜록홈즈 (일본판)</name>
 		<image>./snap/Loretta no Shouzou - Sherlock Holmes (Japan).png</image>
 		<video>./video/Loretta no Shouzou - Sherlock Holmes (Japan).mp4</video>
 		<marquee>./marquee/Loretta no Shouzou - Sherlock Holmes (Japan).png</marquee>
@@ -3395,7 +3395,7 @@
 	</game>
 	<game>
 		<path>./Lucky Dime Caper Starring Donald Duck, The (Europe, Brazil) (Beta).zip</path>
-		<name>마스터 오브 다크니스 (유럽판)</name>
+		<name>도널드덕의 럭키 다임 케이퍼 (베타)</name>
 		<image>./snap/Lucky Dime Caper Starring Donald Duck, The (Europe, Brazil) (Beta).png</image>
 		<video>./video/Lucky Dime Caper Starring Donald Duck, The (Europe, Brazil) (Beta).mp4</video>
 		<marquee>./marquee/Lucky Dime Caper Starring Donald Duck, The (Europe, Brazil) (Beta).png</marquee>
@@ -3407,7 +3407,7 @@
 	</game>
 	<game>
 		<path>./Lucky Dime Caper Starring Donald Duck, The (Europe, Brazil).zip</path>
-		<name>벰파이어 (유럽판)(베타)</name>
+		<name>도널드덕의 럭키 다임 케이퍼</name>
 		<image>./snap/Lucky Dime Caper Starring Donald Duck, The (Europe, Brazil).png</image>
 		<video>./video/Lucky Dime Caper Starring Donald Duck, The (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Lucky Dime Caper Starring Donald Duck, The (Europe, Brazil).png</marquee>
@@ -3419,7 +3419,7 @@
 	</game>
 	<game>
 		<path>./Mahjong Sengoku Jidai (Japan) (Beta).zip</path>
-		<name>그레이트 골프 (일본판)</name>
+		<name>마작 전국시대 (일본판)(베타)</name>
 		<image>./snap/Mahjong Sengoku Jidai (Japan) (Beta).png</image>
 		<video>./video/Mahjong Sengoku Jidai (Japan) (Beta).mp4</video>
 		<marquee>./marquee/Mahjong Sengoku Jidai (Japan) (Beta).png</marquee>
@@ -3431,7 +3431,7 @@
 	</game>
 	<game>
 		<path>./Mahjong Sengoku Jidai (Japan, Hong Kong).zip</path>
-		<name>그레이트 골프 (세계판)(베타)</name>
+		<name>마작 전국시대</name>
 		<image>./snap/Mahjong Sengoku Jidai (Japan, Hong Kong).png</image>
 		<video>./video/Mahjong Sengoku Jidai (Japan, Hong Kong).mp4</video>
 		<marquee>./marquee/Mahjong Sengoku Jidai (Japan, Hong Kong).png</marquee>
@@ -3443,7 +3443,7 @@
 	</game>
 	<game>
 		<path>./Makai Retsuden (Japan).zip</path>
-		<name>마스터스 오브 컴뱃 (유럽판)</name>
+		<name>마계 열전 (일본판)</name>
 		<image>./snap/Makai Retsuden (Japan).png</image>
 		<video>./video/Makai Retsuden (Japan).mp4</video>
 		<marquee>./marquee/Makai Retsuden (Japan).png</marquee>
@@ -3455,7 +3455,7 @@
 	</game>
 	<game>
 		<path>./Maou Golvellius (Japan) (Beta).zip</path>
-		<name>메이즈 헌터 3D (미국,유럽판)</name>
+		<name>마왕 골베리우스 (일본판)(베타)</name>
 		<image>./snap/Maou Golvellius (Japan) (Beta).png</image>
 		<video>./video/Maou Golvellius (Japan) (Beta).mp4</video>
 		<marquee>./marquee/Maou Golvellius (Japan) (Beta).png</marquee>
@@ -3467,7 +3467,7 @@
 	</game>
 	<game>
 		<path>./Maou Golvellius (Japan).zip</path>
-		<name>메이즈 워커 (일본판)</name>
+		<name>마왕 골베리우스 (일본판)</name>
 		<image>./snap/Maou Golvellius (Japan).png</image>
 		<video>./video/Maou Golvellius (Japan).mp4</video>
 		<marquee>./marquee/Maou Golvellius (Japan).png</marquee>
@@ -3479,7 +3479,7 @@
 	</game>
 	<game>
 		<path>./Marble Madness (Europe).zip</path>
-		<name>메구미 레스큐 (일본판)</name>
+		<name>마블 매드니스 (유럽판)</name>
 		<image>./snap/Marble Madness (Europe).png</image>
 		<video>./video/Marble Madness (Europe).mp4</video>
 		<marquee>./marquee/Marble Madness (Europe).png</marquee>
@@ -3491,7 +3491,7 @@
 	</game>
 	<game>
 		<path>./Marksman Shooting &amp; Trap Shooting &amp; Safari Hunt (Europe).zip</path>
-		<name>전장의 이리 2 / 머크스 (유럽판)</name>
+		<name>마크맨 슈팅 &amp; 트랩 슈팅 &amp; 사파리 헌트 (유럽판)</name>
 		<image>./snap/Marksman Shooting &amp; Trap Shooting &amp; Safari Hunt (Europe).png</image>
 		<video>./video/Marksman Shooting &amp; Trap Shooting &amp; Safari Hunt (Europe).mp4</video>
 		<marquee>./marquee/Marksman Shooting &amp; Trap Shooting &amp; Safari Hunt (Europe).png</marquee>
@@ -3503,7 +3503,7 @@
 	</game>
 	<game>
 		<path>./Marksman Shooting &amp; Trap Shooting (USA, Brazil).zip</path>
-		<name>마이클 잭슨의 문워커 (미국,유럽판)(베타)</name>
+		<name>마크맨 슈팅 &amp; 트랩 슈팅</name>
 		<image>./snap/Marksman Shooting &amp; Trap Shooting (USA, Brazil).png</image>
 		<video>./video/Marksman Shooting &amp; Trap Shooting (USA, Brazil).mp4</video>
 		<marquee>./marquee/Marksman Shooting &amp; Trap Shooting (USA, Brazil).png</marquee>
@@ -3515,7 +3515,7 @@
 	</game>
 	<game>
 		<path>./Master of Darkness (Europe, Brazil).zip</path>
-		<name>마이클 잭슨의 문워커 (미국,유럽판)</name>
+		<name>마스터 오브 다크니스</name>
 		<image>./snap/Master of Darkness (Europe, Brazil).png</image>
 		<video>./video/Master of Darkness (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Master of Darkness (Europe, Brazil).png</marquee>
@@ -3527,7 +3527,7 @@
 	</game>
 	<game>
 		<path>./Masters of Combat (Europe, Brazil).zip</path>
-		<name>믹키의 울티메이트 챌린지 (브라질판)</name>
+		<name>마스터스 오브 컴뱃</name>
 		<image>./snap/Masters of Combat (Europe, Brazil).png</image>
 		<video>./video/Masters of Combat (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Masters of Combat (Europe, Brazil).png</marquee>
@@ -3539,7 +3539,7 @@
 	</game>
 	<game>
 		<path>./Maze Hunter 3-D (USA, Europe, Brazil).zip</path>
-		<name>마이크로 머신 (유럽판)</name>
+		<name>메이즈 헌터 3D</name>
 		<image>./snap/Maze Hunter 3-D (USA, Europe, Brazil).png</image>
 		<video>./video/Maze Hunter 3-D (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Maze Hunter 3-D (USA, Europe, Brazil).png</marquee>
@@ -3551,7 +3551,7 @@
 	</game>
 	<game>
 		<path>./Maze Walker (Japan).zip</path>
-		<name>미라클 워리어즈 - 실 오브 다크로드 (미국,유럽판)(베타)</name>
+		<name>메이즈 워커 (일본판)</name>
 		<image>./snap/Maze Walker (Japan).png</image>
 		<video>./video/Maze Walker (Japan).mp4</video>
 		<marquee>./marquee/Maze Walker (Japan).png</marquee>
@@ -3563,7 +3563,7 @@
 	</game>
 	<game>
 		<path>./Megumi Rescue (Japan).zip</path>
-		<name>미라클 워리어즈 - 실 오브 다크로드 (미국,유럽판)</name>
+		<name>메구미 레스큐 (일본판)</name>
 		<image>./snap/Megumi Rescue (Japan).png</image>
 		<video>./video/Megumi Rescue (Japan).mp4</video>
 		<marquee>./marquee/Megumi Rescue (Japan).png</marquee>
@@ -3575,7 +3575,7 @@
 	</game>
 	<game>
 		<path>./Mercs (Europe, Brazil).zip</path>
-		<name>[바이오스] 미사일 디펜스 3D (미국,유럽판)(v4.4)</name>
+		<name>전장의 이리 2 / 머크스</name>
 		<image>./snap/Mercs (Europe, Brazil).png</image>
 		<video>./video/Mercs (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Mercs (Europe, Brazil).png</marquee>
@@ -3587,7 +3587,7 @@
 	</game>
 	<game>
 		<path>./Michael Jackson's Moonwalker (USA, Europe, Brazil) (Beta).zip</path>
-		<name>미사일 디펜스 3D (미국,유럽판)</name>
+		<name>마이클 잭슨의 문워커 (베타)</name>
 		<image>./snap/Michael Jackson's Moonwalker (USA, Europe, Brazil) (Beta).png</image>
 		<video>./video/Michael Jackson's Moonwalker (USA, Europe, Brazil) (Beta).mp4</video>
 		<marquee>./marquee/Michael Jackson's Moonwalker (USA, Europe, Brazil) (Beta).png</marquee>
@@ -3599,7 +3599,7 @@
 	</game>
 	<game>
 		<path>./Michael Jackson's Moonwalker (USA, Europe, Brazil).zip</path>
-		<name>원더보이 인 몬스터 랜드 (브라질판)</name>
+		<name>마이클 잭슨의 문워커</name>
 		<image>./snap/Michael Jackson's Moonwalker (USA, Europe, Brazil).png</image>
 		<video>./video/Michael Jackson's Moonwalker (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Michael Jackson's Moonwalker (USA, Europe, Brazil).png</marquee>
@@ -3611,7 +3611,7 @@
 	</game>
 	<game>
 		<path>./Mickey's Ultimate Challenge (Brazil).zip</path>
-		<name>모노폴리 (유럽판)</name>
+		<name>믹키의 얼티메이트 챌린지 (브라질판)</name>
 		<image>./snap/Mickey's Ultimate Challenge (Brazil).png</image>
 		<video>./video/Mickey's Ultimate Challenge (Brazil).mp4</video>
 		<marquee>./marquee/Mickey's Ultimate Challenge (Brazil).png</marquee>
@@ -3623,7 +3623,7 @@
 	</game>
 	<game>
 		<path>./Micro Machines (Europe).zip</path>
-		<name>모노폴리 (불명)(베타)</name>
+		<name>마이크로 머신 (유럽판)</name>
 		<image>./snap/Micro Machines (Europe).png</image>
 		<video>./video/Micro Machines (Europe).mp4</video>
 		<marquee>./marquee/Micro Machines (Europe).png</marquee>
@@ -3635,7 +3635,7 @@
 	</game>
 	<game>
 		<path>./Micro Xevious, The (Korea) (Unl).zip</path>
-		<name>모노폴리</name>
+		<name>마이크로 제비우스 (한국판)(해적판)</name>
 		<image>./snap/Micro Xevious, The (Korea) (Unl).png</image>
 		<video>./video/Micro Xevious, The (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Micro Xevious, The (Korea) (Unl).png</marquee>
@@ -3647,7 +3647,7 @@
 	</game>
 	<game>
 		<path>./Miracle Warriors - Seal of the Dark Lord (USA, Europe) (Beta).zip</path>
-		<name>파나마 죠의 몬테즈마의 복수 (베타)</name>
+		<name>미라클 워리어즈 - 실 오브 다크로드 (미국,유럽판)(베타)</name>
 		<image>./snap/Miracle Warriors - Seal of the Dark Lord (USA, Europe) (Beta).png</image>
 		<video>./video/Miracle Warriors - Seal of the Dark Lord (USA, Europe) (Beta).mp4</video>
 		<marquee>./marquee/Miracle Warriors - Seal of the Dark Lord (USA, Europe) (Beta).png</marquee>
@@ -3659,7 +3659,7 @@
 	</game>
 	<game>
 		<path>./Miracle Warriors - Seal of the Dark Lord (USA, Europe, Brazil).zip</path>
-		<name>파나마 죠의 몬테즈마의 복수</name>
+		<name>미라클 워리어즈 - 실 오브 다크로드</name>
 		<image>./snap/Miracle Warriors - Seal of the Dark Lord (USA, Europe, Brazil).png</image>
 		<video>./video/Miracle Warriors - Seal of the Dark Lord (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Miracle Warriors - Seal of the Dark Lord (USA, Europe, Brazil).png</marquee>
@@ -3671,7 +3671,7 @@
 	</game>
 	<game>
 		<path>./Missile Defense 3-D (USA, Europe, Brazil) (Sample).zip</path>
-		<name>모피레인져 (한국판)(해적판)</name>
+		<name>미사일 디펜스 3D (샘플)</name>
 		<image>./snap/Missile Defense 3-D (USA, Europe, Brazil) (Sample).png</image>
 		<video>./video/Missile Defense 3-D (USA, Europe, Brazil) (Sample).mp4</video>
 		<marquee>./marquee/Missile Defense 3-D (USA, Europe, Brazil) (Sample).png</marquee>
@@ -3683,7 +3683,7 @@
 	</game>
 	<game>
 		<path>./Missile Defense 3-D (USA, Europe, Brazil).zip</path>
-		<name>모탈 컴뱃 3 (브라질판)</name>
+		<name>미사일 디펜스 3D</name>
 		<image>./snap/Missile Defense 3-D (USA, Europe, Brazil).png</image>
 		<video>./video/Missile Defense 3-D (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Missile Defense 3-D (USA, Europe, Brazil).png</marquee>
@@ -3695,7 +3695,7 @@
 	</game>
 	<game>
 		<path>./Monica no Castelo do Dragao (Brazil).zip</path>
-		<name>모탈 컴뱃 2 (유럽판)</name>
+		<name>원더보이 인 몬스터 랜드 (브라질판)</name>
 		<image>./snap/Monica no Castelo do Dragao (Brazil).png</image>
 		<video>./video/Monica no Castelo do Dragao (Brazil).mp4</video>
 		<marquee>./marquee/Monica no Castelo do Dragao (Brazil).png</marquee>
@@ -3707,7 +3707,7 @@
 	</game>
 	<game>
 		<path>./Monopoly (Europe).zip</path>
-		<name>모탈 컴뱃 (유럽판)</name>
+		<name>모노폴리 (유럽판)</name>
 		<image>./snap/Monopoly (Europe).png</image>
 		<video>./video/Monopoly (Europe).mp4</video>
 		<marquee>./marquee/Monopoly (Europe).png</marquee>
@@ -3719,7 +3719,7 @@
 	</game>
 	<game>
 		<path>./Monopoly (USA) (Beta).zip</path>
-		<name>미즈 팩맨 (유럽판)</name>
+		<name>모노폴리 (베타)</name>
 		<image>./snap/Monopoly (USA) (Beta).png</image>
 		<video>./video/Monopoly (USA) (Beta).mp4</video>
 		<marquee>./marquee/Monopoly (USA) (Beta).png</marquee>
@@ -3731,7 +3731,7 @@
 	</game>
 	<game>
 		<path>./Monopoly (USA).zip</path>
-		<name>청춘 스캔들 / 마이 히어로 (미국,유럽판)</name>
+		<name>모노폴리</name>
 		<image>./snap/Monopoly (USA).png</image>
 		<video>./video/Monopoly (USA).mp4</video>
 		<marquee>./marquee/Monopoly (USA).png</marquee>
@@ -3743,7 +3743,7 @@
 	</game>
 	<game>
 		<path>./Montezuma's Revenge featuring Panama Joe (USA) (Beta).zip</path>
-		<name>NBA 잼 (유럽판)(시험판)</name>
+		<name>파나마 죠의 몬테즈마의 복수 (베타)</name>
 		<image>./snap/Montezuma's Revenge featuring Panama Joe (USA) (Beta).png</image>
 		<video>./video/Montezuma's Revenge featuring Panama Joe (USA) (Beta).mp4</video>
 		<marquee>./marquee/Montezuma's Revenge featuring Panama Joe (USA) (Beta).png</marquee>
@@ -3755,7 +3755,7 @@
 	</game>
 	<game>
 		<path>./Montezuma's Revenge featuring Panama Joe (USA).zip</path>
-		<name>열구 갑자원 (일본판)</name>
+		<name>파나마 죠의 몬테즈마의 복수</name>
 		<image>./snap/Montezuma's Revenge featuring Panama Joe (USA).png</image>
 		<video>./video/Montezuma's Revenge featuring Panama Joe (USA).mp4</video>
 		<marquee>./marquee/Montezuma's Revenge featuring Panama Joe (USA).png</marquee>
@@ -3767,7 +3767,7 @@
 	</game>
 	<game>
 		<path>./Mopiranger (Korea) (Unl).zip</path>
-		<name>네메시스 2 (한국판)</name>
+		<name>모피레인져 (한국판)(해적판)</name>
 		<image>./snap/Mopiranger (Korea) (Unl).png</image>
 		<video>./video/Mopiranger (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Mopiranger (Korea) (Unl).png</marquee>
@@ -3779,7 +3779,7 @@
 	</game>
 	<game>
 		<path>./Mortal Kombat (Europe, Brazil).zip</path>
-		<name>그라디우스 / 네메시스 (한국판)</name>
+		<name>모탈 컴뱃</name>
 		<image>./snap/Mortal Kombat (Europe, Brazil).png</image>
 		<video>./video/Mortal Kombat (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Mortal Kombat (Europe, Brazil).png</marquee>
@@ -3791,7 +3791,7 @@
 	</game>
 	<game>
 		<path>./Mortal Kombat 3 (Brazil).zip</path>
-		<name>뉴 보글 보글 2 (한국판)(해적판)</name>
+		<name>모탈 컴뱃 3 (브라질판)</name>
 		<image>./snap/Mortal Kombat 3 (Brazil).png</image>
 		<video>./video/Mortal Kombat 3 (Brazil).mp4</video>
 		<marquee>./marquee/Mortal Kombat 3 (Brazil).png</marquee>
@@ -3803,7 +3803,7 @@
 	</game>
 	<game>
 		<path>./Mortal Kombat II (Europe, Brazil).zip</path>
-		<name>닌자 가이덴 (유럽판)(베타)</name>
+		<name>모탈 컴뱃 2</name>
 		<image>./snap/Mortal Kombat II (Europe, Brazil).png</image>
 		<video>./video/Mortal Kombat II (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Mortal Kombat II (Europe, Brazil).png</marquee>
@@ -3815,7 +3815,7 @@
 	</game>
 	<game>
 		<path>./Ms. Pac-Man (Europe, Brazil).zip</path>
-		<name>닌자 가이덴 (유럽판)</name>
+		<name>미즈 팩맨</name>
 		<image>./snap/Ms. Pac-Man (Europe, Brazil).png</image>
 		<video>./video/Ms. Pac-Man (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Ms. Pac-Man (Europe, Brazil).png</marquee>
@@ -3827,7 +3827,7 @@
 	</game>
 	<game>
 		<path>./My Hero (USA, Europe, Brazil).zip</path>
-		<name>닌자 (일본판)</name>
+		<name>청춘 스캔들 / 마이 히어로</name>
 		<image>./snap/My Hero (USA, Europe, Brazil).png</image>
 		<video>./video/My Hero (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/My Hero (USA, Europe, Brazil).png</marquee>
@@ -3839,7 +3839,7 @@
 	</game>
 	<game>
 		<path>./NBA Jam (Europe) (Proto).zip</path>
-		<name>올림픽 골드 (한국판)</name>
+		<name>NBA 잼 (유럽판)(시험판)</name>
 		<image>./snap/NBA Jam (Europe) (Proto).png</image>
 		<video>./video/NBA Jam (Europe) (Proto).mp4</video>
 		<marquee>./marquee/NBA Jam (Europe) (Proto).png</marquee>
@@ -3851,7 +3851,7 @@
 	</game>
 	<game>
 		<path>./Nekkyuu Koushien (Japan).zip</path>
-		<name>올림픽 골드 (유럽판)</name>
+		<name>열구 갑자원 (일본판)</name>
 		<image>./snap/Nekkyuu Koushien (Japan).png</image>
 		<video>./video/Nekkyuu Koushien (Japan).mp4</video>
 		<marquee>./marquee/Nekkyuu Koushien (Japan).png</marquee>
@@ -3863,7 +3863,7 @@
 	</game>
 	<game>
 		<path>./Nemesis (Korea).zip</path>
-		<name>오파 오파 (일본판)</name>
+		<name>그라디우스 / 네메시스 (한국판)</name>
 		<image>./snap/Nemesis (Korea).png</image>
 		<video>./video/Nemesis (Korea).mp4</video>
 		<marquee>./marquee/Nemesis (Korea).png</marquee>
@@ -3875,7 +3875,7 @@
 	</game>
 	<game>
 		<path>./Nemesis 2 (Korea).zip</path>
-		<name>오퍼레이션 울프 (유럽판)</name>
+		<name>네메시스 2 (한국판)</name>
 		<image>./snap/Nemesis 2 (Korea).png</image>
 		<video>./video/Nemesis 2 (Korea).mp4</video>
 		<marquee>./marquee/Nemesis 2 (Korea).png</marquee>
@@ -3887,7 +3887,7 @@
 	</game>
 	<game>
 		<path>./New Boggle Boggle 2 (Korea) (Unl).zip</path>
-		<name>아웃 런 3D (유럽판)</name>
+		<name>뉴 보글 보글 2 (한국판)(해적판)</name>
 		<image>./snap/New Boggle Boggle 2 (Korea) (Unl).png</image>
 		<video>./video/New Boggle Boggle 2 (Korea) (Unl).mp4</video>
 		<marquee>./marquee/New Boggle Boggle 2 (Korea) (Unl).png</marquee>
@@ -3899,7 +3899,7 @@
 	</game>
 	<game>
 		<path>./NewZealand Story, The (Europe).zip</path>
-		<name>아웃 런 유럽 (유럽판)</name>
+		<name>뉴질랜드 스토리 (유럽판)</name>
 		<image>./snap/NewZealand Story, The (Europe).png</image>
 		<video>./video/NewZealand Story, The (Europe).mp4</video>
 		<marquee>./marquee/NewZealand Story, The (Europe).png</marquee>
@@ -3911,7 +3911,7 @@
 	</game>
 	<game>
 		<path>./Ninja (Japan).zip</path>
-		<name>아웃 런 (세계판)</name>
+		<name>닌자 (일본판)</name>
 		<image>./snap/Ninja (Japan).png</image>
 		<video>./video/Ninja (Japan).mp4</video>
 		<marquee>./marquee/Ninja (Japan).png</marquee>
@@ -3923,7 +3923,7 @@
 	</game>
 	<game>
 		<path>./Ninja Gaiden (Europe, Brazil) (Beta).zip</path>
-		<name>팩매니아 (유럽판)</name>
+		<name>닌자 가이덴 (베타)</name>
 		<image>./snap/Ninja Gaiden (Europe, Brazil) (Beta).png</image>
 		<video>./video/Ninja Gaiden (Europe, Brazil) (Beta).mp4</video>
 		<marquee>./marquee/Ninja Gaiden (Europe, Brazil) (Beta).png</marquee>
@@ -3935,7 +3935,7 @@
 	</game>
 	<game>
 		<path>./Ninja Gaiden (Europe, Brazil).zip</path>
-		<name>페이퍼 보이 (유럽판)</name>
+		<name>닌자 가이덴</name>
 		<image>./snap/Ninja Gaiden (Europe, Brazil).png</image>
 		<video>./video/Ninja Gaiden (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Ninja Gaiden (Europe, Brazil).png</marquee>
@@ -3947,7 +3947,7 @@
 	</game>
 	<game>
 		<path>./Ninja, The (USA, Europe, Brazil).zip</path>
-		<name>페이퍼 보이</name>
+		<name>닌자</name>
 		<image>./snap/Ninja, The (USA, Europe, Brazil).png</image>
 		<video>./video/Ninja, The (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Ninja, The (USA, Europe, Brazil).png</marquee>
@@ -3959,7 +3959,7 @@
 	</game>
 	<game>
 		<path>./Olympic Gold (Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv).zip</path>
-		<name>팔러 게임즈 (미국,유럽판)</name>
+		<name>올림픽 골드 (브라질판)</name>
 		<image>./snap/Olympic Gold (Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv).png</image>
 		<video>./video/Olympic Gold (Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv).mp4</video>
 		<marquee>./marquee/Olympic Gold (Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv).png</marquee>
@@ -3971,7 +3971,7 @@
 	</game>
 	<game>
 		<path>./Olympic Gold (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv).zip</path>
-		<name>팻 라일리 농구 (시험판)</name>
+		<name>올림픽 골드 (유럽판)</name>
 		<image>./snap/Olympic Gold (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv).png</image>
 		<video>./video/Olympic Gold (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv).mp4</video>
 		<marquee>./marquee/Olympic Gold (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv).png</marquee>
@@ -3983,7 +3983,7 @@
 	</game>
 	<game>
 		<path>./Opa Opa (Japan).zip</path>
-		<name>팽귄 어드벤쳐 / 몽대륙 (한국판)(해적판)(해적판)</name>
+		<name>오파 오파 (일본판)</name>
 		<image>./snap/Opa Opa (Japan).png</image>
 		<video>./video/Opa Opa (Japan).mp4</video>
 		<marquee>./marquee/Opa Opa (Japan).png</marquee>
@@ -3995,7 +3995,7 @@
 	</game>
 	<game>
 		<path>./Operation Wolf (Europe, Brazil).zip</path>
-		<name>팽귄 랜드 (미국,유럽판)</name>
+		<name>오퍼레이션 울프</name>
 		<image>./snap/Operation Wolf (Europe, Brazil).png</image>
 		<video>./video/Operation Wolf (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Operation Wolf (Europe, Brazil).png</marquee>
@@ -4007,7 +4007,7 @@
 	</game>
 	<game>
 		<path>./Ottifants, The (Europe, Brazil) (En,Fr,De,Es,It).zip</path>
-		<name>PGA 투어 골프 (유럽판)</name>
+		<name>오티팬츠</name>
 		<image>./snap/Ottifants, The (Europe, Brazil) (En,Fr,De,Es,It).png</image>
 		<video>./video/Ottifants, The (Europe, Brazil) (En,Fr,De,Es,It).mp4</video>
 		<marquee>./marquee/Ottifants, The (Europe, Brazil) (En,Fr,De,Es,It).png</marquee>
@@ -4019,7 +4019,7 @@
 	</game>
 	<game>
 		<path>./OutRun (World).zip</path>
-		<name>판타지 스타 (브라질판)</name>
+		<name>아웃런 (세계판)</name>
 		<image>./snap/OutRun (World).png</image>
 		<video>./video/OutRun (World).mp4</video>
 		<marquee>./marquee/OutRun (World).png</marquee>
@@ -4031,7 +4031,7 @@
 	</game>
 	<game>
 		<path>./OutRun 3-D (Europe, Brazil).zip</path>
-		<name>판타지 스타 (일본판)</name>
+		<name>아웃런 3D</name>
 		<image>./snap/OutRun 3-D (Europe, Brazil).png</image>
 		<video>./video/OutRun 3-D (Europe, Brazil).mp4</video>
 		<marquee>./marquee/OutRun 3-D (Europe, Brazil).png</marquee>
@@ -4043,7 +4043,7 @@
 	</game>
 	<game>
 		<path>./OutRun Europa (Europe, Brazil).zip</path>
-		<name>판타지 스타 (한국판)</name>
+		<name>아웃런 유럽</name>
 		<image>./snap/OutRun Europa (Europe, Brazil).png</image>
 		<video>./video/OutRun Europa (Europe, Brazil).mp4</video>
 		<marquee>./marquee/OutRun Europa (Europe, Brazil).png</marquee>
@@ -4055,7 +4055,7 @@
 	</game>
 	<game>
 		<path>./Pac-Mania (Europe).zip</path>
-		<name>판타지 스타 (미국,유럽판)(개정판 2)</name>
+		<name>팩매니아 (유럽판)</name>
 		<image>./snap/Pac-Mania (Europe).png</image>
 		<video>./video/Pac-Mania (Europe).mp4</video>
 		<marquee>./marquee/Pac-Mania (Europe).png</marquee>
@@ -4067,7 +4067,7 @@
 	</game>
 	<game>
 		<path>./Paperboy (Europe).zip</path>
-		<name>판타지 스타 (미국,유럽판)(개정판 3)</name>
+		<name>페이퍼 보이 (유럽판)</name>
 		<image>./snap/Paperboy (Europe).png</image>
 		<video>./video/Paperboy (Europe).mp4</video>
 		<marquee>./marquee/Paperboy (Europe).png</marquee>
@@ -4079,7 +4079,7 @@
 	</game>
 	<game>
 		<path>./Paperboy (USA, Brazil).zip</path>
-		<name>피트 파이터 (브라질판)</name>
+		<name>페이퍼 보이</name>
 		<image>./snap/Paperboy (USA, Brazil).png</image>
 		<video>./video/Paperboy (USA, Brazil).mp4</video>
 		<marquee>./marquee/Paperboy (USA, Brazil).png</marquee>
@@ -4091,7 +4091,7 @@
 	</game>
 	<game>
 		<path>./Parlour Games (USA, Europe).zip</path>
-		<name>피트 파이터 (유럽판)</name>
+		<name>팔러 게임즈 (미국,유럽판)</name>
 		<image>./snap/Parlour Games (USA, Europe).png</image>
 		<video>./video/Parlour Games (USA, Europe).mp4</video>
 		<marquee>./marquee/Parlour Games (USA, Europe).png</marquee>
@@ -4103,7 +4103,7 @@
 	</game>
 	<game>
 		<path>./Pat Riley Basketball (USA) (Proto).zip</path>
-		<name>아기돼지 / 뿌얀 (한국판)</name>
+		<name>팻 라일리 농구 (시험판)</name>
 		<image>./snap/Pat Riley Basketball (USA) (Proto).png</image>
 		<video>./video/Pat Riley Basketball (USA) (Proto).mp4</video>
 		<marquee>./marquee/Pat Riley Basketball (USA) (Proto).png</marquee>
@@ -4115,7 +4115,7 @@
 	</game>
 	<game>
 		<path>./Penguin Adventure (Korea) (Unl) (Pirate).zip</path>
-		<name>파퓰러스 (유럽판)</name>
+		<name>팽귄 어드벤처 / 몽대륙 (한국판)(해적판)(해적판)</name>
 		<image>./snap/Penguin Adventure (Korea) (Unl) (Pirate).png</image>
 		<video>./video/Penguin Adventure (Korea) (Unl) (Pirate).mp4</video>
 		<marquee>./marquee/Penguin Adventure (Korea) (Unl) (Pirate).png</marquee>
@@ -4127,7 +4127,7 @@
 	</game>
 	<game>
 		<path>./Penguin Land (USA, Europe).zip</path>
-		<name>포세이돈 워즈 3D (미국,유럽판)</name>
+		<name>팽귄 랜드 (미국,유럽판)</name>
 		<image>./snap/Penguin Land (USA, Europe).png</image>
 		<video>./video/Penguin Land (USA, Europe).mp4</video>
 		<marquee>./marquee/Penguin Land (USA, Europe).png</marquee>
@@ -4139,7 +4139,7 @@
 	</game>
 	<game>
 		<path>./PGA Tour Golf (Europe).zip</path>
-		<name>파워 보글 보글 (한국판)(해적판)</name>
+		<name>PGA 투어 골프 (유럽판)</name>
 		<image>./snap/PGA Tour Golf (Europe).png</image>
 		<video>./video/PGA Tour Golf (Europe).mp4</video>
 		<marquee>./marquee/PGA Tour Golf (Europe).png</marquee>
@@ -4151,7 +4151,7 @@
 	</game>
 	<game>
 		<path>./Phantasy Star (Brazil).zip</path>
-		<name>파워 스트라이크 2 (유럽판)</name>
+		<name>판타지 스타 (브라질판)</name>
 		<image>./snap/Phantasy Star (Brazil).png</image>
 		<video>./video/Phantasy Star (Brazil).mp4</video>
 		<marquee>./marquee/Phantasy Star (Brazil).png</marquee>
@@ -4163,7 +4163,7 @@
 	</game>
 	<game>
 		<path>./Phantasy Star (Japan) (Virtual Console).zip</path>
-		<name>파워 스트라이크 (미국,유럽판)</name>
+		<name>판타지 스타 (일본판)(버추얼 콘솔)</name>
 		<image>./snap/Phantasy Star (Japan) (Virtual Console).png</image>
 		<video>./video/Phantasy Star (Japan) (Virtual Console).mp4</video>
 		<marquee>./marquee/Phantasy Star (Japan) (Virtual Console).png</marquee>
@@ -4175,7 +4175,7 @@
 	</game>
 	<game>
 		<path>./Phantasy Star (Japan).zip</path>
-		<name>프레데터 2 (브라질판)</name>
+		<name>판타지 스타 (일본판)</name>
 		<image>./snap/Phantasy Star (Japan).png</image>
 		<video>./video/Phantasy Star (Japan).mp4</video>
 		<marquee>./marquee/Phantasy Star (Japan).png</marquee>
@@ -4187,7 +4187,7 @@
 	</game>
 	<game>
 		<path>./Phantasy Star (Korea).zip</path>
-		<name>프레데터 2 (유럽판)</name>
+		<name>판타지 스타 (한국판)</name>
 		<image>./snap/Phantasy Star (Korea).png</image>
 		<video>./video/Phantasy Star (Korea).mp4</video>
 		<marquee>./marquee/Phantasy Star (Korea).png</marquee>
@@ -4199,7 +4199,7 @@
 	</game>
 	<game>
 		<path>./Phantasy Star (USA, Europe) (Rev 1).zip</path>
-		<name>페르시아의 왕자 (유럽판)</name>
+		<name>판타지 스타 (미국,유럽판)(개정판 1)</name>
 		<image>./snap/Phantasy Star (USA, Europe) (Rev 1).png</image>
 		<video>./video/Phantasy Star (USA, Europe) (Rev 1).mp4</video>
 		<marquee>./marquee/Phantasy Star (USA, Europe) (Rev 1).png</marquee>
@@ -4211,7 +4211,7 @@
 	</game>
 	<game>
 		<path>./Phantasy Star (USA, Europe).zip</path>
-		<name>프로 레슬링 (미국,유럽판)</name>
+		<name>판타지 스타 (미국,유럽판)</name>
 		<image>./snap/Phantasy Star (USA, Europe).png</image>
 		<video>./video/Phantasy Star (USA, Europe).mp4</video>
 		<marquee>./marquee/Phantasy Star (USA, Europe).png</marquee>
@@ -4223,7 +4223,7 @@
 	</game>
 	<game>
 		<path>./Pit-Fighter (Brazil).zip</path>
-		<name>프로 야구 페넌트레이스 (일본판)</name>
+		<name>피트 - 파이터 (브라질판)</name>
 		<image>./snap/Pit-Fighter (Brazil).png</image>
 		<video>./video/Pit-Fighter (Brazil).mp4</video>
 		<marquee>./marquee/Pit-Fighter (Brazil).png</marquee>
@@ -4235,7 +4235,7 @@
 	</game>
 	<game>
 		<path>./Pit-Fighter (Europe).zip</path>
-		<name>사이킥 월드 (유럽판)</name>
+		<name>피트 - 파이터 (유럽판)</name>
 		<image>./snap/Pit-Fighter (Europe).png</image>
 		<video>./video/Pit-Fighter (Europe).mp4</video>
 		<marquee>./marquee/Pit-Fighter (Europe).png</marquee>
@@ -4247,7 +4247,7 @@
 	</game>
 	<game>
 		<path>./Pooyan (Korea).zip</path>
-		<name>사이코 폭스 (미국,유럽판)</name>
+		<name>아기돼지 / 뿌얀 (한국판)</name>
 		<image>./snap/Pooyan (Korea).png</image>
 		<video>./video/Pooyan (Korea).mp4</video>
 		<marquee>./marquee/Pooyan (Korea).png</marquee>
@@ -4259,7 +4259,7 @@
 	</game>
 	<game>
 		<path>./Populous (Europe, Brazil).zip</path>
-		<name>풋 &amp; 풋터 (유럽판)(베타)</name>
+		<name>파퓰러스</name>
 		<image>./snap/Populous (Europe, Brazil).png</image>
 		<video>./video/Populous (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Populous (Europe, Brazil).png</marquee>
@@ -4271,7 +4271,7 @@
 	</game>
 	<game>
 		<path>./Poseidon Wars 3-D (USA, Europe, Brazil).zip</path>
-		<name>풋 &amp; 풋터 (유럽판)</name>
+		<name>포세이돈 워즈 3D</name>
 		<image>./snap/Poseidon Wars 3-D (USA, Europe, Brazil).png</image>
 		<video>./video/Poseidon Wars 3-D (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Poseidon Wars 3-D (USA, Europe, Brazil).png</marquee>
@@ -4283,7 +4283,7 @@
 	</game>
 	<game>
 		<path>./Power Boggle Boggle (Korea) (Unl).zip</path>
-		<name>퍼즈닉 (한국판)(해적판)</name>
+		<name>파워 보글 보글 (한국판)(해적판)</name>
 		<image>./snap/Power Boggle Boggle (Korea) (Unl).png</image>
 		<video>./video/Power Boggle Boggle (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Power Boggle Boggle (Korea) (Unl).png</marquee>
@@ -4295,7 +4295,7 @@
 	</game>
 	<game>
 		<path>./Power Strike (USA, Europe, Brazil).zip</path>
-		<name>쿼텟 (미국,유럽판)</name>
+		<name>파워 스트라이크</name>
 		<image>./snap/Power Strike (USA, Europe, Brazil).png</image>
 		<video>./video/Power Strike (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Power Strike (USA, Europe, Brazil).png</marquee>
@@ -4307,7 +4307,7 @@
 	</game>
 	<game>
 		<path>./Power Strike II (Europe, Brazil).zip</path>
-		<name>렌과 스팀피의 스티븐 야크를 찾아서 (브라질판)</name>
+		<name>파워 스트라이크 2</name>
 		<image>./snap/Power Strike II (Europe, Brazil).png</image>
 		<video>./video/Power Strike II (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Power Strike II (Europe, Brazil).png</marquee>
@@ -4319,7 +4319,7 @@
 	</game>
 	<game>
 		<path>./Ppang Gongjang (Korea) (Unl).zip</path>
-		<name>RC 그랑프리 (미국,유럽판)(베타)</name>
+		<name>빵공장 (한국판)(해적판)</name>
 		<image>./snap/Ppang Gongjang (Korea) (Unl).png</image>
 		<video>./video/Ppang Gongjang (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Ppang Gongjang (Korea) (Unl).png</marquee>
@@ -4331,7 +4331,7 @@
 	</game>
 	<game>
 		<path>./Predator 2 (Brazil).zip</path>
-		<name>RC 그랑프리 (미국,유럽판)</name>
+		<name>프레데터 2 (브라질판)</name>
 		<image>./snap/Predator 2 (Brazil).png</image>
 		<video>./video/Predator 2 (Brazil).mp4</video>
 		<marquee>./marquee/Predator 2 (Brazil).png</marquee>
@@ -4343,7 +4343,7 @@
 	</game>
 	<game>
 		<path>./Predator 2 (Europe).zip</path>
-		<name>레인보우 아일랜드 - 버블 보블 2 이야기 (유럽판)</name>
+		<name>프레데터 2 (유럽판)</name>
 		<image>./snap/Predator 2 (Europe).png</image>
 		<video>./video/Predator 2 (Europe).mp4</video>
 		<marquee>./marquee/Predator 2 (Europe).png</marquee>
@@ -4355,7 +4355,7 @@
 	</game>
 	<game>
 		<path>./Prince of Persia (Europe, Brazil).zip</path>
-		<name>레인보우 아일랜드 - 버블 보블 2 이야기 (브라질판)</name>
+		<name>페르시아의 왕자</name>
 		<image>./snap/Prince of Persia (Europe, Brazil).png</image>
 		<video>./video/Prince of Persia (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Prince of Persia (Europe, Brazil).png</marquee>
@@ -4367,7 +4367,7 @@
 	</game>
 	<game>
 		<path>./Pro Wrestling (USA, Europe, Brazil).zip</path>
-		<name>람보 3 (미국,유럽판)</name>
+		<name>프로 레슬링</name>
 		<image>./snap/Pro Wrestling (USA, Europe, Brazil).png</image>
 		<video>./video/Pro Wrestling (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Pro Wrestling (USA, Europe, Brazil).png</marquee>
@@ -4379,7 +4379,7 @@
 	</game>
 	<game>
 		<path>./Pro Yakyuu , The - Pennant Race (Japan).zip</path>
-		<name>람보 2</name>
+		<name>프로 야구 페넌트레이스 (일본판)</name>
 		<image>./snap/Pro Yakyuu , The - Pennant Race (Japan).png</image>
 		<video>./video/Pro Yakyuu , The - Pennant Race (Japan).mp4</video>
 		<marquee>./marquee/Pro Yakyuu , The - Pennant Race (Japan).png</marquee>
@@ -4391,7 +4391,7 @@
 	</game>
 	<game>
 		<path>./Promocao Especial M. System III Compact (Brazil) (Sample).zip</path>
-		<name>램페이지 (미국,유럽판)</name>
+		<name>특별 프로모션 시스템III 컴팩트 (브라질판)(샘플)</name>
 		<image>./snap/Promocao Especial M. System III Compact (Brazil) (Sample).png</image>
 		<video>./video/Promocao Especial M. System III Compact (Brazil) (Sample).mp4</video>
 		<marquee>./marquee/Promocao Especial M. System III Compact (Brazil) (Sample).png</marquee>
@@ -4403,7 +4403,7 @@
 	</game>
 	<game>
 		<path>./Psychic World (Europe, Brazil).zip</path>
-		<name>램파트 (유럽판)</name>
+		<name>사이킥 월드</name>
 		<image>./snap/Psychic World (Europe, Brazil).png</image>
 		<video>./video/Psychic World (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Psychic World (Europe, Brazil).png</marquee>
@@ -4415,7 +4415,7 @@
 	</game>
 	<game>
 		<path>./Psycho Fox (USA, Europe, Brazil).zip</path>
-		<name>라스턴 (미국,유럽판)</name>
+		<name>사이코 폭스</name>
 		<image>./snap/Psycho Fox (USA, Europe, Brazil).png</image>
 		<video>./video/Psycho Fox (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Psycho Fox (USA, Europe, Brazil).png</marquee>
@@ -4427,7 +4427,7 @@
 	</game>
 	<game>
 		<path>./Putt &amp; Putter (Europe, Brazil) (Beta).zip</path>
-		<name>레기 잭슨 베이스볼</name>
+		<name>풋 &amp; 풋터 (베타)</name>
 		<image>./snap/Putt &amp; Putter (Europe, Brazil) (Beta).png</image>
 		<video>./video/Putt &amp; Putter (Europe, Brazil) (Beta).mp4</video>
 		<marquee>./marquee/Putt &amp; Putter (Europe, Brazil) (Beta).png</marquee>
@@ -4439,7 +4439,7 @@
 	</game>
 	<game>
 		<path>./Putt &amp; Putter ~ Minigolf (Europe, Brazil).zip</path>
-		<name>열혈경파 쿠니오군/ 레니게이드 (유럽판)</name>
+		<name>풋 &amp; 풋터</name>
 		<image>./snap/Putt &amp; Putter ~ Minigolf (Europe, Brazil).png</image>
 		<video>./video/Putt &amp; Putter ~ Minigolf (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Putt &amp; Putter ~ Minigolf (Europe, Brazil).png</marquee>
@@ -4451,7 +4451,7 @@
 	</game>
 	<game>
 		<path>./Puznic (Korea) (Unl).zip</path>
-		<name>레스큐 미션 (미국,유럽판)</name>
+		<name>퍼즈닉 (한국판)(해적판)</name>
 		<image>./snap/Puznic (Korea) (Unl).png</image>
 		<video>./video/Puznic (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Puznic (Korea) (Unl).png</marquee>
@@ -4463,7 +4463,7 @@
 	</game>
 	<game>
 		<path>./Quartet (USA, Europe).zip</path>
-		<name>로드 파이터 (한국판)(해적판)</name>
+		<name>쿼텟 (미국,유럽판)</name>
 		<image>./snap/Quartet (USA, Europe).png</image>
 		<video>./video/Quartet (USA, Europe).mp4</video>
 		<marquee>./marquee/Quartet (USA, Europe).png</marquee>
@@ -4475,7 +4475,7 @@
 	</game>
 	<game>
 		<path>./Quest for the Shaven Yak Starring Ren Hoek &amp; Stimpy (Brazil).zip</path>
-		<name>로스 러쉬 (유럽판)</name>
+		<name>렌과 스팀피의 스티븐 야크를 찾아서 (브라질판)</name>
 		<image>./snap/Quest for the Shaven Yak Starring Ren Hoek &amp; Stimpy (Brazil).png</image>
 		<video>./video/Quest for the Shaven Yak Starring Ren Hoek &amp; Stimpy (Brazil).mp4</video>
 		<marquee>./marquee/Quest for the Shaven Yak Starring Ren Hoek &amp; Stimpy (Brazil).png</marquee>
@@ -4487,7 +4487,7 @@
 	</game>
 	<game>
 		<path>./R-Type (World) (Beta).zip</path>
-		<name>로보캅 3 (유럽판)</name>
+		<name>R - 타입 (세계판)(베타)</name>
 		<image>./snap/R-Type (World) (Beta).png</image>
 		<video>./video/R-Type (World) (Beta).mp4</video>
 		<marquee>./marquee/R-Type (World) (Beta).png</marquee>
@@ -4499,7 +4499,7 @@
 	</game>
 	<game>
 		<path>./R-Type (World).zip</path>
-		<name>로보캅 대 터미네이터 (유럽판)</name>
+		<name>R - 타입 (세계판)</name>
 		<image>./snap/R-Type (World).png</image>
 		<video>./video/R-Type (World).mp4</video>
 		<marquee>./marquee/R-Type (World).png</marquee>
@@ -4511,7 +4511,7 @@
 	</game>
 	<game>
 		<path>./R.C. Grand Prix (USA, Europe, Brazil) (Beta).zip</path>
-		<name>록키 (세계판)</name>
+		<name>RC 그랑프리 (베타)</name>
 		<image>./snap/R.C. Grand Prix (USA, Europe, Brazil) (Beta).png</image>
 		<video>./video/R.C. Grand Prix (USA, Europe, Brazil) (Beta).mp4</video>
 		<marquee>./marquee/R.C. Grand Prix (USA, Europe, Brazil) (Beta).png</marquee>
@@ -4523,7 +4523,7 @@
 	</game>
 	<game>
 		<path>./R.C. Grand Prix (USA, Europe, Brazil).zip</path>
-		<name>R - 타입 (불명)(베타)</name>
+		<name>RC 그랑프리</name>
 		<image>./snap/R.C. Grand Prix (USA, Europe, Brazil).png</image>
 		<video>./video/R.C. Grand Prix (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/R.C. Grand Prix (USA, Europe, Brazil).png</marquee>
@@ -4535,7 +4535,7 @@
 	</game>
 	<game>
 		<path>./Rainbow Islands (Brazil).zip</path>
-		<name>R - 타입 (세계판)</name>
+		<name>레인보우 아일랜드 (브라질판)</name>
 		<image>./snap/Rainbow Islands (Brazil).png</image>
 		<video>./video/Rainbow Islands (Brazil).mp4</video>
 		<marquee>./marquee/Rainbow Islands (Brazil).png</marquee>
@@ -4547,7 +4547,7 @@
 	</game>
 	<game>
 		<path>./Rainbow Islands (Europe).zip</path>
-		<name>런닝 배틀 (유럽판)</name>
+		<name>레인보우 아일랜드 (유럽판)</name>
 		<image>./snap/Rainbow Islands (Europe).png</image>
 		<video>./video/Rainbow Islands (Europe).mp4</video>
 		<marquee>./marquee/Rainbow Islands (Europe).png</marquee>
@@ -4559,7 +4559,7 @@
 	</game>
 	<game>
 		<path>./Rambo - First Blood Part II (USA).zip</path>
-		<name>사가이아 (유럽판)</name>
+		<name>람보 2</name>
 		<image>./snap/Rambo - First Blood Part II (USA).png</image>
 		<video>./video/Rambo - First Blood Part II (USA).mp4</video>
 		<marquee>./marquee/Rambo - First Blood Part II (USA).png</marquee>
@@ -4571,7 +4571,7 @@
 	</game>
 	<game>
 		<path>./Rambo III (USA, Europe, Brazil).zip</path>
-		<name>삼국지 3 (한국판)(해적판)</name>
+		<name>람보 3</name>
 		<image>./snap/Rambo III (USA, Europe, Brazil).png</image>
 		<video>./video/Rambo III (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Rambo III (USA, Europe, Brazil).png</marquee>
@@ -4583,7 +4583,7 @@
 	</game>
 	<game>
 		<path>./Rampage (USA, Europe, Brazil).zip</path>
-		<name>쿵푸 키드 (브라질판)</name>
+		<name>램페이지</name>
 		<image>./snap/Rampage (USA, Europe, Brazil).png</image>
 		<video>./video/Rampage (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Rampage (USA, Europe, Brazil).png</marquee>
@@ -4595,7 +4595,7 @@
 	</game>
 	<game>
 		<path>./Rampart (Europe).zip</path>
-		<name>사이코 폭스 (브라질판)</name>
+		<name>램파트 (유럽판)</name>
 		<image>./snap/Rampart (Europe).png</image>
 		<video>./video/Rampart (Europe).mp4</video>
 		<marquee>./marquee/Rampart (Europe).png</marquee>
@@ -4607,7 +4607,7 @@
 	</game>
 	<game>
 		<path>./Rastan (USA, Europe, Brazil).zip</path>
-		<name>아스트로 워리어 (브라질판)</name>
+		<name>라스턴</name>
 		<image>./snap/Rastan (USA, Europe, Brazil).png</image>
 		<video>./video/Rastan (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Rastan (USA, Europe, Brazil).png</marquee>
@@ -4619,7 +4619,7 @@
 	</game>
 	<game>
 		<path>./Reggie Jackson Baseball (USA).zip</path>
-		<name>세틀라이트 7 (일본판)</name>
+		<name>레기 잭슨 베이스볼</name>
 		<image>./snap/Reggie Jackson Baseball (USA).png</image>
 		<video>./video/Reggie Jackson Baseball (USA).mp4</video>
 		<marquee>./marquee/Reggie Jackson Baseball (USA).png</marquee>
@@ -4631,7 +4631,7 @@
 	</game>
 	<game>
 		<path>./Renegade (Europe, Brazil).zip</path>
-		<name>스크램블 스피리츠 (유럽판)</name>
+		<name>열혈경파 쿠니오군/ 레니게이드</name>
 		<image>./snap/Renegade (Europe, Brazil).png</image>
 		<video>./video/Renegade (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Renegade (Europe, Brazil).png</marquee>
@@ -4643,7 +4643,7 @@
 	</game>
 	<game>
 		<path>./Rescue Mission (USA, Europe, Brazil).zip</path>
-		<name>비밀 명령 (유럽판)</name>
+		<name>레스큐 미션</name>
 		<image>./snap/Rescue Mission (USA, Europe, Brazil).png</image>
 		<video>./video/Rescue Mission (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Rescue Mission (USA, Europe, Brazil).png</marquee>
@@ -4655,7 +4655,7 @@
 	</game>
 	<game>
 		<path>./Road Fighter (Korea) (Unl).zip</path>
-		<name>세가 체스 (유럽판)</name>
+		<name>로드 파이터 (한국판)(해적판)</name>
 		<image>./snap/Road Fighter (Korea) (Unl).png</image>
 		<video>./video/Road Fighter (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Road Fighter (Korea) (Unl).png</marquee>
@@ -4667,7 +4667,7 @@
 	</game>
 	<game>
 		<path>./Road Rash (Europe, Brazil).zip</path>
-		<name>세가 월드 토너먼트 골프 (유럽판)</name>
+		<name>로스 러쉬</name>
 		<image>./snap/Road Rash (Europe, Brazil).png</image>
 		<video>./video/Road Rash (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Road Rash (Europe, Brazil).png</marquee>
@@ -4679,7 +4679,7 @@
 	</game>
 	<game>
 		<path>./RoboCop 3 (Europe, Brazil).zip</path>
-		<name>청춘 스캔들 / 마이 히어로 (일본판)</name>
+		<name>로보캅 3</name>
 		<image>./snap/RoboCop 3 (Europe, Brazil).png</image>
 		<video>./video/RoboCop 3 (Europe, Brazil).mp4</video>
 		<marquee>./marquee/RoboCop 3 (Europe, Brazil).png</marquee>
@@ -4691,7 +4691,7 @@
 	</game>
 	<game>
 		<path>./RoboCop versus The Terminator (Europe, Brazil).zip</path>
-		<name>센시블 사커 (유럽판)</name>
+		<name>로보캅 대 터미네이터</name>
 		<image>./snap/RoboCop versus The Terminator (Europe, Brazil).png</image>
 		<video>./video/RoboCop versus The Terminator (Europe, Brazil).mp4</video>
 		<marquee>./marquee/RoboCop versus The Terminator (Europe, Brazil).png</marquee>
@@ -4703,7 +4703,7 @@
 	</game>
 	<game>
 		<path>./Rocky (World).zip</path>
-		<name>쉐도우 댄서 - 영의무 (유럽판)</name>
+		<name>록키 (세계판)</name>
 		<image>./snap/Rocky (World).png</image>
 		<video>./video/Rocky (World).mp4</video>
 		<marquee>./marquee/Rocky (World).png</marquee>
@@ -4715,7 +4715,7 @@
 	</game>
 	<game>
 		<path>./Running Battle (Europe, Brazil).zip</path>
-		<name>쉐도우 오브 더 비스트 (유럽판)</name>
+		<name>런닝 배틀</name>
 		<image>./snap/Running Battle (Europe, Brazil).png</image>
 		<video>./video/Running Battle (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Running Battle (Europe, Brazil).png</marquee>
@@ -4727,7 +4727,7 @@
 	</game>
 	<game>
 		<path>./Sagaia (Europe, Brazil).zip</path>
-		<name>상하이 (미국,유럽판)(베타)</name>
+		<name>사가이아</name>
 		<image>./snap/Sagaia (Europe, Brazil).png</image>
 		<video>./video/Sagaia (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Sagaia (Europe, Brazil).png</marquee>
@@ -4739,7 +4739,7 @@
 	</game>
 	<game>
 		<path>./Sagak-ui Bimil (Korea) (Unl).zip</path>
-		<name>상하이 (미국,유럽판)</name>
+		<name>사각의 비밀 (한국판)(해적판)</name>
 		<image>./snap/Sagak-ui Bimil (Korea) (Unl).png</image>
 		<video>./video/Sagak-ui Bimil (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Sagak-ui Bimil (Korea) (Unl).png</marquee>
@@ -4751,7 +4751,7 @@
 	</game>
 	<game>
 		<path>./Samgukji 3 (Korea) (Unl).zip</path>
-		<name>시노비 (일본판)</name>
+		<name>삼국지 3 (한국판)(해적판)</name>
 		<image>./snap/Samgukji 3 (Korea) (Unl).png</image>
 		<video>./video/Samgukji 3 (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Samgukji 3 (Korea) (Unl).png</marquee>
@@ -4763,7 +4763,7 @@
 	</game>
 	<game>
 		<path>./Sapo Xule - O Mestre do Kung Fu (Brazil).zip</path>
-		<name>시노비 (미국,유럽판)</name>
+		<name>개구리 쥴 - 쿵푸 마스터 (브라질판)</name>
 		<image>./snap/Sapo Xule - O Mestre do Kung Fu (Brazil).png</image>
 		<video>./video/Sapo Xule - O Mestre do Kung Fu (Brazil).mp4</video>
 		<marquee>./marquee/Sapo Xule - O Mestre do Kung Fu (Brazil).png</marquee>
@@ -4775,7 +4775,7 @@
 	</game>
 	<game>
 		<path>./Sapo Xule - S.O.S. Lagoa Poluida (Brazil, Portugal).zip</path>
-		<name>슈팅 갤러리 (미국,유럽판)</name>
+		<name>개구리 쥴 - SOS 오염된 연못</name>
 		<image>./snap/Sapo Xule - S.O.S. Lagoa Poluida (Brazil, Portugal).png</image>
 		<video>./video/Sapo Xule - S.O.S. Lagoa Poluida (Brazil, Portugal).mp4</video>
 		<marquee>./marquee/Sapo Xule - S.O.S. Lagoa Poluida (Brazil, Portugal).png</marquee>
@@ -4787,7 +4787,7 @@
 	</game>
 	<game>
 		<path>./Sapo Xule vs. Os Invasores do Brejo (Brazil).zip</path>
-		<name>노란 딱따구리 농장 (브라질판)</name>
+		<name>개구리 쥴 vs 습지의 침략자 (브라질판)</name>
 		<image>./snap/Sapo Xule vs. Os Invasores do Brejo (Brazil).png</image>
 		<video>./video/Sapo Xule vs. Os Invasores do Brejo (Brazil).mp4</video>
 		<marquee>./marquee/Sapo Xule vs. Os Invasores do Brejo (Brazil).png</marquee>
@@ -4799,7 +4799,7 @@
 	</game>
 	<game>
 		<path>./Satellite 7 (Japan).zip</path>
-		<name>스카이 파이터 (한국판)(해적판)</name>
+		<name>세틀라이트 7 (일본판)</name>
 		<image>./snap/Satellite 7 (Japan).png</image>
 		<video>./video/Satellite 7 (Japan).mp4</video>
 		<marquee>./marquee/Satellite 7 (Japan).png</marquee>
@@ -4811,7 +4811,7 @@
 	</game>
 	<game>
 		<path>./Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es) (Beta) (1996-08-12).zip</path>
-		<name>스카이 재규어 (한국판)</name>
+		<name>스머프의 세계여행 (유럽판)(베타)</name>
 		<image>./snap/Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es) (Beta) (1996-08-12).png</image>
 		<video>./video/Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es) (Beta) (1996-08-12).mp4</video>
 		<marquee>./marquee/Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es) (Beta) (1996-08-12).png</marquee>
@@ -4823,7 +4823,7 @@
 	</game>
 	<game>
 		<path>./Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es).zip</path>
-		<name>스카이 재규어 (한국판)</name>
+		<name>스머프의 세계여행 (유럽판)</name>
 		<image>./snap/Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es).png</image>
 		<video>./video/Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es).mp4</video>
 		<marquee>./marquee/Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es).png</marquee>
@@ -4835,7 +4835,7 @@
 	</game>
 	<game>
 		<path>./Scramble Spirits (Europe, Brazil).zip</path>
-		<name>슬랩 샷 (유럽판)(개정판 1)</name>
+		<name>스크램블 스피리츠</name>
 		<image>./snap/Scramble Spirits (Europe, Brazil).png</image>
 		<video>./video/Scramble Spirits (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Scramble Spirits (Europe, Brazil).png</marquee>
@@ -4847,7 +4847,7 @@
 	</game>
 	<game>
 		<path>./SDI (Japan).zip</path>
-		<name>슬랩 샷 (유럽판)</name>
+		<name>SDI (일본판)</name>
 		<image>./snap/SDI (Japan).png</image>
 		<video>./video/SDI (Japan).mp4</video>
 		<marquee>./marquee/SDI (Japan).png</marquee>
@@ -4859,7 +4859,7 @@
 	</game>
 	<game>
 		<path>./Secret Command (Europe).zip</path>
-		<name>슬랩 샷 (불명)(베타)</name>
+		<name>비밀 명령 (유럽판)</name>
 		<image>./snap/Secret Command (Europe).png</image>
 		<video>./video/Secret Command (Europe).mp4</video>
 		<marquee>./marquee/Secret Command (Europe).png</marquee>
@@ -4871,7 +4871,7 @@
 	</game>
 	<game>
 		<path>./Sega Chess (Europe, Brazil).zip</path>
-		<name>슬랩 샷</name>
+		<name>세가 체스</name>
 		<image>./snap/Sega Chess (Europe, Brazil).png</image>
 		<video>./video/Sega Chess (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Sega Chess (Europe, Brazil).png</marquee>
@@ -4883,7 +4883,7 @@
 	</game>
 	<game>
 		<path>./Sega Graphic Board (USA) (v2.0) (Proto).zip</path>
-		<name>솔로몬의 열쇠 - 왕녀 리히타의 눈물 (일본판)</name>
+		<name>세가 그래픽 보드 (v2.0)(시험판)</name>
 		<image>./snap/Sega Graphic Board (USA) (v2.0) (Proto).png</image>
 		<video>./video/Sega Graphic Board (USA) (v2.0) (Proto).mp4</video>
 		<marquee>./marquee/Sega Graphic Board (USA) (v2.0) (Proto).png</marquee>
@@ -4895,7 +4895,7 @@
 	</game>
 	<game>
 		<path>./Sega World Tournament Golf (Europe, Brazil).zip</path>
-		<name>소닉 블라스트 (브라질판)</name>
+		<name>세가 월드 토너먼트 골프</name>
 		<image>./snap/Sega World Tournament Golf (Europe, Brazil).png</image>
 		<video>./video/Sega World Tournament Golf (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Sega World Tournament Golf (Europe, Brazil).png</marquee>
@@ -4907,7 +4907,7 @@
 	</game>
 	<game>
 		<path>./Seishun Scandal (Japan).zip</path>
-		<name>소닉 카오스 (유럽판)</name>
+		<name>청춘 스캔들 / 마이 히어로 (일본판)</name>
 		<image>./snap/Seishun Scandal (Japan).png</image>
 		<video>./video/Seishun Scandal (Japan).mp4</video>
 		<marquee>./marquee/Seishun Scandal (Japan).png</marquee>
@@ -4919,7 +4919,7 @@
 	</game>
 	<game>
 		<path>./Sensible Soccer (Europe).zip</path>
-		<name>소닉 스핀볼 (유럽판)</name>
+		<name>센시블 사커 (유럽판)</name>
 		<image>./snap/Sensible Soccer (Europe).png</image>
 		<video>./video/Sensible Soccer (Europe).mp4</video>
 		<marquee>./marquee/Sensible Soccer (Europe).png</marquee>
@@ -4931,7 +4931,7 @@
 	</game>
 	<game>
 		<path>./Shadow Dancer - The Secret of Shinobi ~ Shadow Dancer (Europe, Brazil).zip</path>
-		<name>소닉 더 헤지혹 2 (유럽판)(개정판 1)</name>
+		<name>쉐도우 댄서 - 시노비의 비밀</name>
 		<image>./snap/Shadow Dancer - The Secret of Shinobi ~ Shadow Dancer (Europe, Brazil).png</image>
 		<video>./video/Shadow Dancer - The Secret of Shinobi ~ Shadow Dancer (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Shadow Dancer - The Secret of Shinobi ~ Shadow Dancer (Europe, Brazil).png</marquee>
@@ -4943,7 +4943,7 @@
 	</game>
 	<game>
 		<path>./Shadow of the Beast (Europe, Brazil).zip</path>
-		<name>소닉 더 헤지혹 2 (유럽판)</name>
+		<name>쉐도우 오브 더 비스트</name>
 		<image>./snap/Shadow of the Beast (Europe, Brazil).png</image>
 		<video>./video/Shadow of the Beast (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Shadow of the Beast (Europe, Brazil).png</marquee>
@@ -4955,7 +4955,7 @@
 	</game>
 	<game>
 		<path>./Shanghai (USA, Europe) (Beta).zip</path>
-		<name>소닉 더 헤지혹 (미국,유럽판)</name>
+		<name>상하이 (미국,유럽판)(베타)</name>
 		<image>./snap/Shanghai (USA, Europe) (Beta).png</image>
 		<video>./video/Shanghai (USA, Europe) (Beta).mp4</video>
 		<marquee>./marquee/Shanghai (USA, Europe) (Beta).png</marquee>
@@ -4967,7 +4967,7 @@
 	</game>
 	<game>
 		<path>./Shanghai (USA, Europe).zip</path>
-		<name>소닉의 에듀소프트 (불명)(시험판)</name>
+		<name>상하이 (미국,유럽판)</name>
 		<image>./snap/Shanghai (USA, Europe).png</image>
 		<video>./video/Shanghai (USA, Europe).mp4</video>
 		<marquee>./marquee/Shanghai (USA, Europe).png</marquee>
@@ -4979,7 +4979,7 @@
 	</game>
 	<game>
 		<path>./Shinobi (Japan, Brazil).zip</path>
-		<name>스페이스 건 (유럽판)</name>
+		<name>시노비</name>
 		<image>./snap/Shinobi (Japan, Brazil).png</image>
 		<video>./video/Shinobi (Japan, Brazil).mp4</video>
 		<marquee>./marquee/Shinobi (Japan, Brazil).png</marquee>
@@ -4991,7 +4991,7 @@
 	</game>
 	<game>
 		<path>./Shinobi (USA, Europe, Brazil) (Rev 1).zip</path>
-		<name>스페이스 헤리어 3D (일본판)</name>
+		<name>시노비 (개정판 1)</name>
 		<image>./snap/Shinobi (USA, Europe, Brazil) (Rev 1).png</image>
 		<video>./video/Shinobi (USA, Europe, Brazil) (Rev 1).mp4</video>
 		<marquee>./marquee/Shinobi (USA, Europe, Brazil) (Rev 1).png</marquee>
@@ -5003,7 +5003,7 @@
 	</game>
 	<game>
 		<path>./Shooting Gallery (USA, Europe, Brazil).zip</path>
-		<name>스페이스 헤리어 3D (미국,유럽판)</name>
+		<name>슈팅 갤러리</name>
 		<image>./snap/Shooting Gallery (USA, Europe, Brazil).png</image>
 		<video>./video/Shooting Gallery (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Shooting Gallery (USA, Europe, Brazil).png</marquee>
@@ -5015,7 +5015,7 @@
 	</game>
 	<game>
 		<path>./Simpsons, The - Bart vs. the Space Mutants (Europe, Brazil).zip</path>
-		<name>스페이스 해리어 (유럽판)</name>
+		<name>심슨 가족 - 바트 대 우주 돌연변이</name>
 		<image>./snap/Simpsons, The - Bart vs. the Space Mutants (Europe, Brazil).png</image>
 		<video>./video/Simpsons, The - Bart vs. the Space Mutants (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Simpsons, The - Bart vs. the Space Mutants (Europe, Brazil).png</marquee>
@@ -5027,7 +5027,7 @@
 	</game>
 	<game>
 		<path>./Simpsons, The - Bart vs. the World (Europe, Brazil).zip</path>
-		<name>스페이스 해리어 (일본,미국판)</name>
+		<name>심슨 가족 - 바트 vs 월드</name>
 		<image>./snap/Simpsons, The - Bart vs. the World (Europe, Brazil).png</image>
 		<video>./video/Simpsons, The - Bart vs. the World (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Simpsons, The - Bart vs. the World (Europe, Brazil).png</marquee>
@@ -5039,7 +5039,7 @@
 	</game>
 	<game>
 		<path>./Sitio do Picapau Amarelo (Brazil).zip</path>
-		<name>스페셜 크리미널 인베스티게이션 (유럽판)</name>
+		<name>노란 딱따구리 농장 (브라질판)</name>
 		<image>./snap/Sitio do Picapau Amarelo (Brazil).png</image>
 		<video>./video/Sitio do Picapau Amarelo (Brazil).mp4</video>
 		<marquee>./marquee/Sitio do Picapau Amarelo (Brazil).png</marquee>
@@ -5051,7 +5051,7 @@
 	</game>
 	<game>
 		<path>./Sky Fighter (Korea) (Unl).zip</path>
-		<name>스피드 볼 2 (유럽판)</name>
+		<name>스카이 파이터 (한국판)(해적판)</name>
 		<image>./snap/Sky Fighter (Korea) (Unl).png</image>
 		<video>./video/Sky Fighter (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Sky Fighter (Korea) (Unl).png</marquee>
@@ -5063,7 +5063,7 @@
 	</game>
 	<game>
 		<path>./Sky Jaguar (Korea) (Clover).zip</path>
-		<name>스피드볼 (유럽판)(이미지웍스)</name>
+		<name>스카이 재규어 (한국판)</name>
 		<image>./snap/Sky Jaguar (Korea) (Clover).png</image>
 		<video>./video/Sky Jaguar (Korea) (Clover).mp4</video>
 		<marquee>./marquee/Sky Jaguar (Korea) (Clover).png</marquee>
@@ -5075,7 +5075,7 @@
 	</game>
 	<game>
 		<path>./Sky Jaguar (Korea).zip</path>
-		<name>스피드볼 (유럽판)(버진)</name>
+		<name>스카이 재규어 (한국판)</name>
 		<image>./snap/Sky Jaguar (Korea).png</image>
 		<video>./video/Sky Jaguar (Korea).mp4</video>
 		<marquee>./marquee/Sky Jaguar (Korea).png</marquee>
@@ -5087,7 +5087,7 @@
 	</game>
 	<game>
 		<path>./Slap Shoot (USA) (Beta).zip</path>
-		<name>스펠캐스터 (미국,유럽판)</name>
+		<name>슬랩 샷 (베타)</name>
 		<image>./snap/Slap Shoot (USA) (Beta).png</image>
 		<video>./video/Slap Shoot (USA) (Beta).mp4</video>
 		<marquee>./marquee/Slap Shoot (USA) (Beta).png</marquee>
@@ -5099,7 +5099,7 @@
 	</game>
 	<game>
 		<path>./Slap Shot (Europe) (Rev 1).zip</path>
-		<name>스파이더맨 - 시니스터 식스의 귀환 (유럽판)</name>
+		<name>슬랩 샷 (유럽판)(개정판 1)</name>
 		<image>./snap/Slap Shot (Europe) (Rev 1).png</image>
 		<video>./video/Slap Shot (Europe) (Rev 1).mp4</video>
 		<marquee>./marquee/Slap Shot (Europe) (Rev 1).png</marquee>
@@ -5111,7 +5111,7 @@
 	</game>
 	<game>
 		<path>./Slap Shot (Europe).zip</path>
-		<name>스파이더맨 대 킹핀 (미국,유럽판)</name>
+		<name>슬랩 샷 (유럽판)</name>
 		<image>./snap/Slap Shot (Europe).png</image>
 		<video>./video/Slap Shot (Europe).mp4</video>
 		<marquee>./marquee/Slap Shot (Europe).png</marquee>
@@ -5123,7 +5123,7 @@
 	</game>
 	<game>
 		<path>./Slap Shot (USA, Brazil).zip</path>
-		<name>스포츠 패드 풋볼</name>
+		<name>슬랩 샷</name>
 		<image>./snap/Slap Shot (USA, Brazil).png</image>
 		<video>./video/Slap Shot (USA, Brazil).mp4</video>
 		<marquee>./marquee/Slap Shot (USA, Brazil).png</marquee>
@@ -5135,7 +5135,7 @@
 	</game>
 	<game>
 		<path>./Smurfs, The (Europe, Brazil) (En,Fr,De,Es).zip</path>
-		<name>스포츠 패드 사커 (일본판)</name>
+		<name>스머프</name>
 		<image>./snap/Smurfs, The (Europe, Brazil) (En,Fr,De,Es).png</image>
 		<video>./video/Smurfs, The (Europe, Brazil) (En,Fr,De,Es).mp4</video>
 		<marquee>./marquee/Smurfs, The (Europe, Brazil) (En,Fr,De,Es).png</marquee>
@@ -5147,7 +5147,7 @@
 	</game>
 	<game>
 		<path>./Solomon no Kagi - Oujo Rihita no Namida (Japan) (Beta).zip</path>
-		<name>스파이 vs 스파이 (일본판)</name>
+		<name>솔로몬의 열쇠 - 왕녀 리히타의 눈물 (일본판)(베타)</name>
 		<image>./snap/Solomon no Kagi - Oujo Rihita no Namida (Japan) (Beta).png</image>
 		<video>./video/Solomon no Kagi - Oujo Rihita no Namida (Japan) (Beta).mp4</video>
 		<marquee>./marquee/Solomon no Kagi - Oujo Rihita no Namida (Japan) (Beta).png</marquee>
@@ -5159,7 +5159,7 @@
 	</game>
 	<game>
 		<path>./Solomon no Kagi - Oujo Rihita no Namida (Japan).zip</path>
-		<name>스파이 vs 스파이 (대만판)</name>
+		<name>솔로몬의 열쇠 - 왕녀 리히타의 눈물 (일본판)</name>
 		<image>./snap/Solomon no Kagi - Oujo Rihita no Namida (Japan).png</image>
 		<video>./video/Solomon no Kagi - Oujo Rihita no Namida (Japan).mp4</video>
 		<marquee>./marquee/Solomon no Kagi - Oujo Rihita no Namida (Japan).png</marquee>
@@ -5171,7 +5171,7 @@
 	</game>
 	<game>
 		<path>./Sonic Blast (Brazil).zip</path>
-		<name>스파이 vs 스파이 (미국,유럽판)</name>
+		<name>소닉 블라스트 (브라질판)</name>
 		<image>./snap/Sonic Blast (Brazil).png</image>
 		<video>./video/Sonic Blast (Brazil).mp4</video>
 		<marquee>./marquee/Sonic Blast (Brazil).png</marquee>
@@ -5183,7 +5183,7 @@
 	</game>
 	<game>
 		<path>./Sonic Chaos (Europe, Brazil).zip</path>
-		<name>스타 워즈 (유럽판)</name>
+		<name>소닉 카오스</name>
 		<image>./snap/Sonic Chaos (Europe, Brazil).png</image>
 		<video>./video/Sonic Chaos (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Sonic Chaos (Europe, Brazil).png</marquee>
@@ -5195,7 +5195,7 @@
 	</game>
 	<game>
 		<path>./Sonic Spinball (Europe, Brazil).zip</path>
-		<name>스트리트 파이터 2 (브라질판)</name>
+		<name>소닉 스핀볼</name>
 		<image>./snap/Sonic Spinball (Europe, Brazil).png</image>
 		<video>./video/Sonic Spinball (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Sonic Spinball (Europe, Brazil).png</marquee>
@@ -5207,7 +5207,7 @@
 	</game>
 	<game>
 		<path>./Sonic The Hedgehog (USA, Europe, Brazil).zip</path>
-		<name>스트리트 마스터 (한국판)(해적판)</name>
+		<name>소닉 더 헤지혹</name>
 		<image>./snap/Sonic The Hedgehog (USA, Europe, Brazil).png</image>
 		<video>./video/Sonic The Hedgehog (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Sonic The Hedgehog (USA, Europe, Brazil).png</marquee>
@@ -5219,7 +5219,7 @@
 	</game>
 	<game>
 		<path>./Sonic The Hedgehog 2 (Europe, Brazil) (Rev 1).zip</path>
-		<name>베어너클 2 / 스트리츠 오브 레이지 2 (유럽판)</name>
+		<name>소닉 더 헤지혹 2 (개정판 1)</name>
 		<image>./snap/Sonic The Hedgehog 2 (Europe, Brazil) (Rev 1).png</image>
 		<video>./video/Sonic The Hedgehog 2 (Europe, Brazil) (Rev 1).mp4</video>
 		<marquee>./marquee/Sonic The Hedgehog 2 (Europe, Brazil) (Rev 1).png</marquee>
@@ -5231,7 +5231,7 @@
 	</game>
 	<game>
 		<path>./Sonic The Hedgehog 2 (Europe, Brazil).zip</path>
-		<name>스트리트 오브 레이지 (유럽판)</name>
+		<name>소닉 더 헤지혹 2</name>
 		<image>./snap/Sonic The Hedgehog 2 (Europe, Brazil).png</image>
 		<video>./video/Sonic The Hedgehog 2 (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Sonic The Hedgehog 2 (Europe, Brazil).png</marquee>
@@ -5243,7 +5243,7 @@
 	</game>
 	<game>
 		<path>./Sonic's Edusoft (Unknown) (Proto).zip</path>
-		<name>스트라이더 2 (유럽판)</name>
+		<name>소닉의 에듀소프트 (불명)(시험판)</name>
 		<image>./snap/Sonic's Edusoft (Unknown) (Proto).png</image>
 		<video>./video/Sonic's Edusoft (Unknown) (Proto).mp4</video>
 		<marquee>./marquee/Sonic's Edusoft (Unknown) (Proto).png</marquee>
@@ -5255,7 +5255,7 @@
 	</game>
 	<game>
 		<path>./Space Gun (Europe).zip</path>
-		<name>스트라이더 (불명)(데모)</name>
+		<name>스페이스 건 (유럽판)</name>
 		<image>./snap/Space Gun (Europe).png</image>
 		<video>./video/Space Gun (Europe).mp4</video>
 		<marquee>./marquee/Space Gun (Europe).png</marquee>
@@ -5267,7 +5267,7 @@
 	</game>
 	<game>
 		<path>./Space Harrier (Europe).zip</path>
-		<name>스트라이더 (미국,유럽판)</name>
+		<name>스페이스 해리어 (유럽판)</name>
 		<image>./snap/Space Harrier (Europe).png</image>
 		<video>./video/Space Harrier (Europe).mp4</video>
 		<marquee>./marquee/Space Harrier (Europe).png</marquee>
@@ -5279,7 +5279,7 @@
 	</game>
 	<game>
 		<path>./Space Harrier (Japan, USA).zip</path>
-		<name>서브마린 어택 (유럽판)</name>
+		<name>스페이스 해리어 (일본,미국판)</name>
 		<image>./snap/Space Harrier (Japan, USA).png</image>
 		<video>./video/Space Harrier (Japan, USA).mp4</video>
 		<marquee>./marquee/Space Harrier (Japan, USA).png</marquee>
@@ -5291,7 +5291,7 @@
 	</game>
 	<game>
 		<path>./Space Harrier 3-D ~ Space Harrier 3D (USA, Europe, Brazil).zip</path>
-		<name>수호천사 (한국판)(해적판)</name>
+		<name>스페이스 헤리어 3D</name>
 		<image>./snap/Space Harrier 3-D ~ Space Harrier 3D (USA, Europe, Brazil).png</image>
 		<video>./video/Space Harrier 3-D ~ Space Harrier 3D (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Space Harrier 3-D ~ Space Harrier 3D (USA, Europe, Brazil).png</marquee>
@@ -5303,7 +5303,7 @@
 	</game>
 	<game>
 		<path>./Space Harrier 3D (Japan).zip</path>
-		<name>스케반 형사 2 - 소녀 철가면 전설 (일본판)</name>
+		<name>스페이스 헤리어 3D (일본판)</name>
 		<image>./snap/Space Harrier 3D (Japan).png</image>
 		<video>./video/Space Harrier 3D (Japan).mp4</video>
 		<marquee>./marquee/Space Harrier 3D (Japan).png</marquee>
@@ -5315,7 +5315,7 @@
 	</game>
 	<game>
 		<path>./Special Criminal Investigation (Europe) (Beta).zip</path>
-		<name>섬머 게임즈 (유럽판)(베타)</name>
+		<name>스페셜 크리미널 인베스티게이션 (유럽판)(베타)</name>
 		<image>./snap/Special Criminal Investigation (Europe) (Beta).png</image>
 		<video>./video/Special Criminal Investigation (Europe) (Beta).mp4</video>
 		<marquee>./marquee/Special Criminal Investigation (Europe) (Beta).png</marquee>
@@ -5327,7 +5327,7 @@
 	</game>
 	<game>
 		<path>./Special Criminal Investigation (Europe).zip</path>
-		<name>섬머 게임즈 (유럽판)</name>
+		<name>스페셜 크리미널 인베스티게이션 (유럽판)</name>
 		<image>./snap/Special Criminal Investigation (Europe).png</image>
 		<video>./video/Special Criminal Investigation (Europe).mp4</video>
 		<marquee>./marquee/Special Criminal Investigation (Europe).png</marquee>
@@ -5339,7 +5339,7 @@
 	</game>
 	<game>
 		<path>./Speedball (Europe) (Rev 1).zip</path>
-		<name>슈퍼 배스킷볼 (샘플)</name>
+		<name>스피드볼 (유럽판)(개정판 1)</name>
 		<image>./snap/Speedball (Europe) (Rev 1).png</image>
 		<video>./video/Speedball (Europe) (Rev 1).mp4</video>
 		<marquee>./marquee/Speedball (Europe) (Rev 1).png</marquee>
@@ -5351,7 +5351,7 @@
 	</game>
 	<game>
 		<path>./Speedball (Europe).zip</path>
-		<name>슈퍼 바이오맨 (한국판)(해적판)</name>
+		<name>스피드볼 (유럽판)</name>
 		<image>./snap/Speedball (Europe).png</image>
 		<video>./video/Speedball (Europe).mp4</video>
 		<marquee>./marquee/Speedball (Europe).png</marquee>
@@ -5363,7 +5363,7 @@
 	</game>
 	<game>
 		<path>./Speedball 2 (Europe).zip</path>
-		<name>슈퍼 보이 3 (한국판)(해적판)</name>
+		<name>스피드 볼 2 (유럽판)</name>
 		<image>./snap/Speedball 2 (Europe).png</image>
 		<video>./video/Speedball 2 (Europe).mp4</video>
 		<marquee>./marquee/Speedball 2 (Europe).png</marquee>
@@ -5375,7 +5375,7 @@
 	</game>
 	<game>
 		<path>./SpellCaster (USA, Europe, Brazil).zip</path>
-		<name>슈퍼 보이 4 (한국판)(해적판)</name>
+		<name>스펠캐스터</name>
 		<image>./snap/SpellCaster (USA, Europe, Brazil).png</image>
 		<video>./video/SpellCaster (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/SpellCaster (USA, Europe, Brazil).png</marquee>
@@ -5387,7 +5387,7 @@
 	</game>
 	<game>
 		<path>./Spider-Man (USA, Europe, Brazil).zip</path>
-		<name>슈퍼 보이 1 (한국판)(해적판)</name>
+		<name>스파이더맨</name>
 		<image>./snap/Spider-Man (USA, Europe, Brazil).png</image>
 		<video>./video/Spider-Man (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Spider-Man (USA, Europe, Brazil).png</marquee>
@@ -5399,7 +5399,7 @@
 	</game>
 	<game>
 		<path>./Spider-Man - Return of the Sinister Six (Europe, Brazil).zip</path>
-		<name>슈퍼 보이 2 (한국판)(해적판)</name>
+		<name>스파이더맨 - 시니스터 식스의 귀환</name>
 		<image>./snap/Spider-Man - Return of the Sinister Six (Europe, Brazil).png</image>
 		<video>./video/Spider-Man - Return of the Sinister Six (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Spider-Man - Return of the Sinister Six (Europe, Brazil).png</marquee>
@@ -5411,7 +5411,7 @@
 	</game>
 	<game>
 		<path>./Sports Pad Football (USA).zip</path>
-		<name>슈퍼 버블 보블 (한국판)(해적판)</name>
+		<name>스포츠 패드 풋볼</name>
 		<image>./snap/Sports Pad Football (USA).png</image>
 		<video>./video/Sports Pad Football (USA).mp4</video>
 		<marquee>./marquee/Sports Pad Football (USA).png</marquee>
@@ -5423,7 +5423,7 @@
 	</game>
 	<game>
 		<path>./Sports Pad Soccer (Japan).zip</path>
-		<name>슈퍼 컬럼스 &amp; 테트리스 (한국판)(해적판)</name>
+		<name>스포츠 패드 사커 (일본판)</name>
 		<image>./snap/Sports Pad Soccer (Japan).png</image>
 		<video>./video/Sports Pad Soccer (Japan).mp4</video>
 		<marquee>./marquee/Sports Pad Soccer (Japan).png</marquee>
@@ -5435,7 +5435,7 @@
 	</game>
 	<game>
 		<path>./Spy vs Spy (Japan).zip</path>
-		<name>슈퍼 킥 오프 (유럽판)</name>
+		<name>스파이 vs 스파이 (일본판)</name>
 		<image>./snap/Spy vs Spy (Japan).png</image>
 		<video>./video/Spy vs Spy (Japan).mp4</video>
 		<marquee>./marquee/Spy vs Spy (Japan).png</marquee>
@@ -5447,7 +5447,7 @@
 	</game>
 	<game>
 		<path>./Spy vs Spy (Taiwan) (Unl).zip</path>
-		<name>슈퍼 모나코 GP (유럽판)</name>
+		<name>스파이 vs 스파이 (대만판)(해적판)</name>
 		<image>./snap/Spy vs Spy (Taiwan) (Unl).png</image>
 		<video>./video/Spy vs Spy (Taiwan) (Unl).mp4</video>
 		<marquee>./marquee/Spy vs Spy (Taiwan) (Unl).png</marquee>
@@ -5459,7 +5459,7 @@
 	</game>
 	<game>
 		<path>./Spy vs Spy (USA, Europe, Brazil).zip</path>
-		<name>슈퍼 모나코 GP (배타 1)</name>
+		<name>스파이 vs 스파이</name>
 		<image>./snap/Spy vs Spy (USA, Europe, Brazil).png</image>
 		<video>./video/Spy vs Spy (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Spy vs Spy (USA, Europe, Brazil).png</marquee>
@@ -5471,7 +5471,7 @@
 	</game>
 	<game>
 		<path>./Star Wars (Europe, Brazil).zip</path>
-		<name>슈퍼 모나코 GP (베타 2)</name>
+		<name>스타 워즈</name>
 		<image>./snap/Star Wars (Europe, Brazil).png</image>
 		<video>./video/Star Wars (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Star Wars (Europe, Brazil).png</marquee>
@@ -5483,7 +5483,7 @@
 	</game>
 	<game>
 		<path>./Street Fighter II' (Brazil).zip</path>
-		<name>슈퍼 모나코 GP</name>
+		<name>스트리트 파이터 2 (브라질판)</name>
 		<image>./snap/Street Fighter II' (Brazil).png</image>
 		<video>./video/Street Fighter II' (Brazil).mp4</video>
 		<marquee>./marquee/Street Fighter II' (Brazil).png</marquee>
@@ -5495,7 +5495,7 @@
 	</game>
 	<game>
 		<path>./Street Master (Korea) (Unl).zip</path>
-		<name>슈퍼 오프 로드 (유럽판)</name>
+		<name>스트리트 마스터 (한국판)(해적판)</name>
 		<image>./snap/Street Master (Korea) (Unl).png</image>
 		<video>./video/Street Master (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Street Master (Korea) (Unl).png</marquee>
@@ -5507,7 +5507,7 @@
 	</game>
 	<game>
 		<path>./Streets of Rage (Europe, Brazil).zip</path>
-		<name>슈퍼 레이싱 (일본판)</name>
+		<name>스트리트 오브 레이지</name>
 		<image>./snap/Streets of Rage (Europe, Brazil).png</image>
 		<video>./video/Streets of Rage (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Streets of Rage (Europe, Brazil).png</marquee>
@@ -5519,7 +5519,7 @@
 	</game>
 	<game>
 		<path>./Streets of Rage II (Europe, Brazil).zip</path>
-		<name>슈퍼 스매쉬 TV (유럽판)</name>
+		<name>베어너클 2 / 스트리츠 오브 레이지 2</name>
 		<image>./snap/Streets of Rage II (Europe, Brazil).png</image>
 		<video>./video/Streets of Rage II (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Streets of Rage II (Europe, Brazil).png</marquee>
@@ -5531,7 +5531,7 @@
 	</game>
 	<game>
 		<path>./Strider (Unknown) (Demo).zip</path>
-		<name>슈퍼 스페이스 인베이더 (유럽판)</name>
+		<name>스트라이더 (불명)(데모)</name>
 		<image>./snap/Strider (Unknown) (Demo).png</image>
 		<video>./video/Strider (Unknown) (Demo).mp4</video>
 		<marquee>./marquee/Strider (Unknown) (Demo).png</marquee>
@@ -5543,7 +5543,7 @@
 	</game>
 	<game>
 		<path>./Strider (USA, Europe, Brazil).zip</path>
-		<name>슈퍼 테니스 (미국,유럽판)</name>
+		<name>스트라이더</name>
 		<image>./snap/Strider (USA, Europe, Brazil).png</image>
 		<video>./video/Strider (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Strider (USA, Europe, Brazil).png</marquee>
@@ -5555,7 +5555,7 @@
 	</game>
 	<game>
 		<path>./Strider II (Europe, Brazil).zip</path>
-		<name>슈퍼 원더보이 - 몬스터 월드 (일본판)</name>
+		<name>스트라이더 2</name>
 		<image>./snap/Strider II (Europe, Brazil).png</image>
 		<video>./video/Strider II (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Strider II (Europe, Brazil).png</marquee>
@@ -5567,7 +5567,7 @@
 	</game>
 	<game>
 		<path>./Submarine Attack (Europe, Brazil).zip</path>
-		<name>슈퍼 원더보이 (일본,유럽판)</name>
+		<name>서브마린 어택</name>
 		<image>./snap/Submarine Attack (Europe, Brazil).png</image>
 		<video>./video/Submarine Attack (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Submarine Attack (Europe, Brazil).png</marquee>
@@ -5579,7 +5579,7 @@
 	</game>
 	<game>
 		<path>./Suho Jeonsa (Korea) (Unl).zip</path>
-		<name>수퍼맨 - 강철의 남자 (유럽판)</name>
+		<name>수호전사 (한국판)(해적판)</name>
 		<image>./snap/Suho Jeonsa (Korea) (Unl).png</image>
 		<video>./video/Suho Jeonsa (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Suho Jeonsa (Korea) (Unl).png</marquee>
@@ -5591,7 +5591,7 @@
 	</game>
 	<game>
 		<path>./Sukeban Deka II - Shoujo Tekkamen Densetsu (Japan).zip</path>
-		<name>T2 - 아케이드 게임 (유럽판)</name>
+		<name>스케반 형사 2 - 소녀 철가면 전설 (일본판)</name>
 		<image>./snap/Sukeban Deka II - Shoujo Tekkamen Densetsu (Japan).png</image>
 		<video>./video/Sukeban Deka II - Shoujo Tekkamen Densetsu (Japan).mp4</video>
 		<marquee>./marquee/Sukeban Deka II - Shoujo Tekkamen Densetsu (Japan).png</marquee>
@@ -5603,7 +5603,7 @@
 	</game>
 	<game>
 		<path>./Summer Games (Europe, Brazil) (Beta).zip</path>
-		<name>타이토 체이스 H.Q. (유럽판)</name>
+		<name>섬머 게임즈 (베타)</name>
 		<image>./snap/Summer Games (Europe, Brazil) (Beta).png</image>
 		<video>./video/Summer Games (Europe, Brazil) (Beta).mp4</video>
 		<marquee>./marquee/Summer Games (Europe, Brazil) (Beta).png</marquee>
@@ -5615,7 +5615,7 @@
 	</game>
 	<game>
 		<path>./Summer Games ~ Jogos Olimpicos (Europe, Brazil).zip</path>
-		<name>태즈 화성 탈출 (브라질판)</name>
+		<name>하계 올림픽</name>
 		<image>./snap/Summer Games ~ Jogos Olimpicos (Europe, Brazil).png</image>
 		<video>./video/Summer Games ~ Jogos Olimpicos (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Summer Games ~ Jogos Olimpicos (Europe, Brazil).png</marquee>
@@ -5627,7 +5627,7 @@
 	</game>
 	<game>
 		<path>./Super Arkanoid (Korea) (Unl).zip</path>
-		<name>태즈-매니아 (유럽판)(베타)</name>
+		<name>슈퍼 알카노이드 (한국판)(해적판)</name>
 		<image>./snap/Super Arkanoid (Korea) (Unl).png</image>
 		<video>./video/Super Arkanoid (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Super Arkanoid (Korea) (Unl).png</marquee>
@@ -5639,7 +5639,7 @@
 	</game>
 	<game>
 		<path>./Super Basketball (USA) (Sample).zip</path>
-		<name>태즈-매니아 (유럽판)</name>
+		<name>슈퍼 배스킷볼 (샘플)</name>
 		<image>./snap/Super Basketball (USA) (Sample).png</image>
 		<video>./video/Super Basketball (USA) (Sample).mp4</video>
 		<marquee>./marquee/Super Basketball (USA) (Sample).png</marquee>
@@ -5651,7 +5651,7 @@
 	</game>
 	<game>
 		<path>./Super Bioman I (Korea) (Unl).zip</path>
-		<name>테크모 월드컵 92 (유럽판)(베타)</name>
+		<name>슈퍼 바이오맨 (한국판)(해적판)</name>
 		<image>./snap/Super Bioman I (Korea) (Unl).png</image>
 		<video>./video/Super Bioman I (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Super Bioman I (Korea) (Unl).png</marquee>
@@ -5663,7 +5663,7 @@
 	</game>
 	<game>
 		<path>./Super Boy 4 (Korea) (Unl).zip</path>
-		<name>테크모 월드컵 '93 (유럽판)</name>
+		<name>슈퍼 보이 4 (한국판)(해적판)</name>
 		<image>./snap/Super Boy 4 (Korea) (Unl).png</image>
 		<video>./video/Super Boy 4 (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Super Boy 4 (Korea) (Unl).png</marquee>
@@ -5675,7 +5675,7 @@
 	</game>
 	<game>
 		<path>./Super Boy I (Korea) (Unl).zip</path>
-		<name>테디 보이 블루스 (일본판)(시험판)</name>
+		<name>슈퍼 보이 1 (한국판)(해적판)</name>
 		<image>./snap/Super Boy I (Korea) (Unl).png</image>
 		<video>./video/Super Boy I (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Super Boy I (Korea) (Unl).png</marquee>
@@ -5687,7 +5687,7 @@
 	</game>
 	<game>
 		<path>./Super Boy II (Korea) (Unl).zip</path>
-		<name>테디 보이 블루스 (일본판)</name>
+		<name>슈퍼 보이 2 (한국판)(해적판)</name>
 		<image>./snap/Super Boy II (Korea) (Unl).png</image>
 		<video>./video/Super Boy II (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Super Boy II (Korea) (Unl).png</marquee>
@@ -5699,7 +5699,7 @@
 	</game>
 	<game>
 		<path>./Super Boy III (Korea) (Unl).zip</path>
-		<name>테디 보이 (미국,유럽판)</name>
+		<name>슈퍼 보이 3 (한국판)(해적판)</name>
 		<image>./snap/Super Boy III (Korea) (Unl).png</image>
 		<video>./video/Super Boy III (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Super Boy III (Korea) (Unl).png</marquee>
@@ -5711,7 +5711,7 @@
 	</game>
 	<game>
 		<path>./Super Bubble Bobble (Korea) (Unl).zip</path>
-		<name>테니스 에이스 (유럽판)</name>
+		<name>슈퍼 버블 보블 (한국판)(해적판)</name>
 		<image>./snap/Super Bubble Bobble (Korea) (Unl).png</image>
 		<video>./video/Super Bubble Bobble (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Super Bubble Bobble (Korea) (Unl).png</marquee>
@@ -5723,7 +5723,7 @@
 	</game>
 	<game>
 		<path>./Super Columns &amp; Tetris (Korea) (Unl).zip</path>
-		<name>천재 바카본 (일본판)</name>
+		<name>슈퍼 컬럼스 &amp; 테트리스 (한국판)(해적판)</name>
 		<image>./snap/Super Columns &amp; Tetris (Korea) (Unl).png</image>
 		<video>./video/Super Columns &amp; Tetris (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Super Columns &amp; Tetris (Korea) (Unl).png</marquee>
@@ -5735,7 +5735,7 @@
 	</game>
 	<game>
 		<path>./Super Golf (Europe) (Beta).zip</path>
-		<name>터미네이터 2 - 심판의 날 (유럽판)</name>
+		<name>슈퍼 골프 (유럽판)(베타)</name>
 		<image>./snap/Super Golf (Europe) (Beta).png</image>
 		<video>./video/Super Golf (Europe) (Beta).mp4</video>
 		<marquee>./marquee/Super Golf (Europe) (Beta).png</marquee>
@@ -5747,7 +5747,7 @@
 	</game>
 	<game>
 		<path>./Super Kick Off (Europe, Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv).zip</path>
-		<name>아담스 패밀리 (유럽판)</name>
+		<name>슈퍼 킥 오프</name>
 		<image>./snap/Super Kick Off (Europe, Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv).png</image>
 		<video>./video/Super Kick Off (Europe, Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv).mp4</video>
 		<marquee>./marquee/Super Kick Off (Europe, Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv).png</marquee>
@@ -5759,7 +5759,7 @@
 	</game>
 	<game>
 		<path>./Super Monaco GP (Europe, Brazil) (Beta).zip</path>
-		<name>서킷 (일본판)</name>
+		<name>슈퍼 모나코 GP (베타)</name>
 		<image>./snap/Super Monaco GP (Europe, Brazil) (Beta).png</image>
 		<video>./video/Super Monaco GP (Europe, Brazil) (Beta).mp4</video>
 		<marquee>./marquee/Super Monaco GP (Europe, Brazil) (Beta).png</marquee>
@@ -5771,7 +5771,7 @@
 	</game>
 	<game>
 		<path>./Super Monaco GP (Europe, Brazil).zip</path>
-		<name>사이보그 시노비 (유럽판)</name>
+		<name>슈퍼 모나코 GP</name>
 		<image>./snap/Super Monaco GP (Europe, Brazil).png</image>
 		<video>./video/Super Monaco GP (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Super Monaco GP (Europe, Brazil).png</marquee>
@@ -5783,7 +5783,7 @@
 	</game>
 	<game>
 		<path>./Super Monaco GP (USA) (Beta).zip</path>
-		<name>사이보그 시노비 (불명)(베타)</name>
+		<name>슈퍼 모나코 GP (베타)</name>
 		<image>./snap/Super Monaco GP (USA) (Beta).png</image>
 		<video>./video/Super Monaco GP (USA) (Beta).mp4</video>
 		<marquee>./marquee/Super Monaco GP (USA) (Beta).png</marquee>
@@ -5795,7 +5795,7 @@
 	</game>
 	<game>
 		<path>./Super Monaco GP (USA).zip</path>
-		<name>엑설런트 디지 콜렉션 (미국,유럽판)(시험판)</name>
+		<name>슈퍼 모나코 GP</name>
 		<image>./snap/Super Monaco GP (USA).png</image>
 		<video>./video/Super Monaco GP (USA).mp4</video>
 		<marquee>./marquee/Super Monaco GP (USA).png</marquee>
@@ -5807,7 +5807,7 @@
 	</game>
 	<game>
 		<path>./Super Off Road (Europe) (Beta).zip</path>
-		<name>플래쉬 (유럽판)</name>
+		<name>슈퍼 오프 로드 (유럽판)(베타)</name>
 		<image>./snap/Super Off Road (Europe) (Beta).png</image>
 		<video>./video/Super Off Road (Europe) (Beta).mp4</video>
 		<marquee>./marquee/Super Off Road (Europe) (Beta).png</marquee>
@@ -5819,7 +5819,7 @@
 	</game>
 	<game>
 		<path>./Super Off Road (Europe).zip</path>
-		<name>고인돌 가족 플린스톤 (유럽판)</name>
+		<name>슈퍼 오프 로드 (유럽판)</name>
 		<image>./snap/Super Off Road (Europe).png</image>
 		<video>./video/Super Off Road (Europe).mp4</video>
 		<marquee>./marquee/Super Off Road (Europe).png</marquee>
@@ -5831,7 +5831,7 @@
 	</game>
 	<game>
 		<path>./Super Racing (Japan).zip</path>
-		<name>인크레더블 크래지 더미 (유럽판)</name>
+		<name>슈퍼 레이싱 (일본판)</name>
 		<image>./snap/Super Racing (Japan).png</image>
 		<video>./video/Super Racing (Japan).mp4</video>
 		<marquee>./marquee/Super Racing (Japan).png</marquee>
@@ -5843,7 +5843,7 @@
 	</game>
 	<game>
 		<path>./Super Smash T.V. (Europe).zip</path>
-		<name>인크레더블 헐크 (유럽판)</name>
+		<name>슈퍼 스매쉬 TV (유럽판)</name>
 		<image>./snap/Super Smash T.V. (Europe).png</image>
 		<video>./video/Super Smash T.V. (Europe).mp4</video>
 		<marquee>./marquee/Super Smash T.V. (Europe).png</marquee>
@@ -5855,7 +5855,7 @@
 	</game>
 	<game>
 		<path>./Super Space Invaders (Europe).zip</path>
-		<name>정글북 (유럽판)</name>
+		<name>슈퍼 스페이스 인베이더 (유럽판)</name>
 		<image>./snap/Super Space Invaders (Europe).png</image>
 		<video>./video/Super Space Invaders (Europe).mp4</video>
 		<marquee>./marquee/Super Space Invaders (Europe).png</marquee>
@@ -5867,7 +5867,7 @@
 	</game>
 	<game>
 		<path>./Super Tennis (USA, Europe).zip</path>
-		<name>라이온 킹 (유럽판)</name>
+		<name>슈퍼 테니스 (미국,유럽판)</name>
 		<image>./snap/Super Tennis (USA, Europe).png</image>
 		<video>./video/Super Tennis (USA, Europe).mp4</video>
 		<marquee>./marquee/Super Tennis (USA, Europe).png</marquee>
@@ -5879,7 +5879,7 @@
 	</game>
 	<game>
 		<path>./Super Tetris (Korea) (Unl).zip</path>
-		<name>도널드덕의 럭키 다임 케이퍼 (유럽판)(베타)</name>
+		<name>슈퍼 테트리스 (한국판)(해적판)</name>
 		<image>./snap/Super Tetris (Korea) (Unl).png</image>
 		<video>./video/Super Tetris (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Super Tetris (Korea) (Unl).png</marquee>
@@ -5891,7 +5891,7 @@
 	</game>
 	<game>
 		<path>./Super Wonder Boy - Monster World (Japan).zip</path>
-		<name>도널드덕의 럭키 다임 케이퍼 (유럽판)</name>
+		<name>슈퍼 원더보이 - 몬스터 월드 (일본판)</name>
 		<image>./snap/Super Wonder Boy - Monster World (Japan).png</image>
 		<video>./video/Super Wonder Boy - Monster World (Japan).mp4</video>
 		<marquee>./marquee/Super Wonder Boy - Monster World (Japan).png</marquee>
@@ -5903,7 +5903,7 @@
 	</game>
 	<game>
 		<path>./Super Wonder Boy ~ Wonder Boy (Japan, Europe).zip</path>
-		<name>마이크로 제비우스 (한국판)(해적판)</name>
+		<name>슈퍼 원더보이 (일본,유럽판)</name>
 		<image>./snap/Super Wonder Boy ~ Wonder Boy (Japan, Europe).png</image>
 		<video>./video/Super Wonder Boy ~ Wonder Boy (Japan, Europe).mp4</video>
 		<marquee>./marquee/Super Wonder Boy ~ Wonder Boy (Japan, Europe).png</marquee>
@@ -5915,7 +5915,7 @@
 	</game>
 	<game>
 		<path>./Superman - The Man of Steel (Europe, Brazil).zip</path>
-		<name>뉴질랜드 스토리 (유럽판)</name>
+		<name>수퍼맨 - 강철의 남자</name>
 		<image>./snap/Superman - The Man of Steel (Europe, Brazil).png</image>
 		<video>./video/Superman - The Man of Steel (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Superman - The Man of Steel (Europe, Brazil).png</marquee>
@@ -5927,7 +5927,7 @@
 	</game>
 	<game>
 		<path>./T2 - The Arcade Game (Europe).zip</path>
-		<name>닌자 (미국,유럽판)</name>
+		<name>T2 - 아케이드 게임 (유럽판)</name>
 		<image>./snap/T2 - The Arcade Game (Europe).png</image>
 		<video>./video/T2 - The Arcade Game (Europe).mp4</video>
 		<marquee>./marquee/T2 - The Arcade Game (Europe).png</marquee>
@@ -5939,7 +5939,7 @@
 	</game>
 	<game>
 		<path>./Taito Chase H.Q. (Europe).zip</path>
-		<name>오티팬츠 (유럽판)</name>
+		<name>타이토 체이스 H.Q. (유럽판)</name>
 		<image>./snap/Taito Chase H.Q. (Europe).png</image>
 		<video>./video/Taito Chase H.Q. (Europe).mp4</video>
 		<marquee>./marquee/Taito Chase H.Q. (Europe).png</marquee>
@@ -5951,7 +5951,7 @@
 	</game>
 	<game>
 		<path>./Taz in Escape from Mars (Brazil).zip</path>
-		<name>심슨 가족 - 바트 대 우주 돌연변이 (유럽판)</name>
+		<name>태즈 화성 탈출 (브라질판)</name>
 		<image>./snap/Taz in Escape from Mars (Brazil).png</image>
 		<video>./video/Taz in Escape from Mars (Brazil).mp4</video>
 		<marquee>./marquee/Taz in Escape from Mars (Brazil).png</marquee>
@@ -5963,7 +5963,7 @@
 	</game>
 	<game>
 		<path>./Taz-Mania (Europe, Brazil) (Beta).zip</path>
-		<name>심슨 가족 - 바트 vs 월드 (유럽판)</name>
+		<name>태즈-매니아 (베타)</name>
 		<image>./snap/Taz-Mania (Europe, Brazil) (Beta).png</image>
 		<video>./video/Taz-Mania (Europe, Brazil) (Beta).mp4</video>
 		<marquee>./marquee/Taz-Mania (Europe, Brazil) (Beta).png</marquee>
@@ -5975,7 +5975,7 @@
 	</game>
 	<game>
 		<path>./Taz-Mania (Europe, Brazil).zip</path>
-		<name>스머프 (유럽판)</name>
+		<name>태즈-매니아</name>
 		<image>./snap/Taz-Mania (Europe, Brazil).png</image>
 		<video>./video/Taz-Mania (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Taz-Mania (Europe, Brazil).png</marquee>
@@ -5987,7 +5987,7 @@
 	</game>
 	<game>
 		<path>./Tecmo World Cup '92 (Europe) (Beta).zip</path>
-		<name>터미네이터 (브라질판)</name>
+		<name>테크모 월드컵 92 (유럽판)(베타)</name>
 		<image>./snap/Tecmo World Cup '92 (Europe) (Beta).png</image>
 		<video>./video/Tecmo World Cup '92 (Europe) (Beta).mp4</video>
 		<marquee>./marquee/Tecmo World Cup '92 (Europe) (Beta).png</marquee>
@@ -5999,7 +5999,7 @@
 	</game>
 	<game>
 		<path>./Tecmo World Cup '93 (Europe).zip</path>
-		<name>터미네이터 (유럽판)</name>
+		<name>테크모 월드컵 '93 (유럽판)</name>
 		<image>./snap/Tecmo World Cup '93 (Europe).png</image>
 		<video>./video/Tecmo World Cup '93 (Europe).mp4</video>
 		<marquee>./marquee/Tecmo World Cup '93 (Europe).png</marquee>
@@ -6011,7 +6011,7 @@
 	</game>
 	<game>
 		<path>./Teddy Boy (USA, Europe, Brazil).zip</path>
-		<name>용의 전설 (한국판)(해적판)</name>
+		<name>테디 보이</name>
 		<image>./snap/Teddy Boy (USA, Europe, Brazil).png</image>
 		<video>./video/Teddy Boy (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Teddy Boy (USA, Europe, Brazil).png</marquee>
@@ -6023,7 +6023,7 @@
 	</game>
 	<game>
 		<path>./Teddy Boy Blues (Japan) (Proto) (Ep-MyCard).zip</path>
-		<name>동계 올림픽 - 릴리함페르 '94 (브라질판)</name>
+		<name>테디 보이 블루스 (일본판)(시험판)</name>
 		<image>./snap/Teddy Boy Blues (Japan) (Proto) (Ep-MyCard).png</image>
 		<video>./video/Teddy Boy Blues (Japan) (Proto) (Ep-MyCard).mp4</video>
 		<marquee>./marquee/Teddy Boy Blues (Japan) (Proto) (Ep-MyCard).png</marquee>
@@ -6035,7 +6035,7 @@
 	</game>
 	<game>
 		<path>./Teddy Boy Blues (Japan).zip</path>
-		<name>썬더 블레이드 (일본판)</name>
+		<name>테디 보이 블루스 (일본판)</name>
 		<image>./snap/Teddy Boy Blues (Japan).png</image>
 		<video>./video/Teddy Boy Blues (Japan).mp4</video>
 		<marquee>./marquee/Teddy Boy Blues (Japan).png</marquee>
@@ -6047,7 +6047,7 @@
 	</game>
 	<game>
 		<path>./Tennis Ace ~ Super Tennis (Europe, Brazil).zip</path>
-		<name>썬더 블레이드 (미국,유럽판)</name>
+		<name>테니스 에이스</name>
 		<image>./snap/Tennis Ace ~ Super Tennis (Europe, Brazil).png</image>
 		<video>./video/Tennis Ace ~ Super Tennis (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Tennis Ace ~ Super Tennis (Europe, Brazil).png</marquee>
@@ -6059,7 +6059,7 @@
 	</game>
 	<game>
 		<path>./Tensai Bakabon (Japan).zip</path>
-		<name>타임 솔져 (미국,유럽판)</name>
+		<name>천재 바카본 (일본판)</name>
 		<image>./snap/Tensai Bakabon (Japan).png</image>
 		<video>./video/Tensai Bakabon (Japan).mp4</video>
 		<marquee>./marquee/Tensai Bakabon (Japan).png</marquee>
@@ -6071,7 +6071,7 @@
 	</game>
 	<game>
 		<path>./Terminator 2 - Judgment Day (Europe).zip</path>
-		<name>톰과 제리 - 극장판 (유럽판)</name>
+		<name>터미네이터 2 - 심판의 날 (유럽판)</name>
 		<image>./snap/Terminator 2 - Judgment Day (Europe).png</image>
 		<video>./video/Terminator 2 - Judgment Day (Europe).mp4</video>
 		<marquee>./marquee/Terminator 2 - Judgment Day (Europe).png</marquee>
@@ -6083,7 +6083,7 @@
 	</game>
 	<game>
 		<path>./Terminator, The (Brazil).zip</path>
-		<name>톰과 제리 (유럽판)(베타)</name>
+		<name>터미네이터 (브라질판)</name>
 		<image>./snap/Terminator, The (Brazil).png</image>
 		<video>./video/Terminator, The (Brazil).mp4</video>
 		<marquee>./marquee/Terminator, The (Brazil).png</marquee>
@@ -6095,7 +6095,7 @@
 	</game>
 	<game>
 		<path>./Terminator, The (Europe).zip</path>
-		<name>토토 월드 3 (한국판)(해적판)</name>
+		<name>터미네이터 (유럽판)</name>
 		<image>./snap/Terminator, The (Europe).png</image>
 		<video>./video/Terminator, The (Europe).mp4</video>
 		<marquee>./marquee/Terminator, The (Europe).png</marquee>
@@ -6107,7 +6107,7 @@
 	</game>
 	<game>
 		<path>./Three Dragon Story, The (Korea) (Unl).zip</path>
-		<name>트랜스봇 (베타)</name>
+		<name>용의 전설 (한국판)(해적판)</name>
 		<image>./snap/Three Dragon Story, The (Korea) (Unl).png</image>
 		<video>./video/Three Dragon Story, The (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Three Dragon Story, The (Korea) (Unl).png</marquee>
@@ -6119,7 +6119,7 @@
 	</game>
 	<game>
 		<path>./Thunder Blade (Japan).zip</path>
-		<name>트랜스봇 (미국,유럽판)</name>
+		<name>썬더 블레이드 (일본판)</name>
 		<image>./snap/Thunder Blade (Japan).png</image>
 		<video>./video/Thunder Blade (Japan).mp4</video>
 		<marquee>./marquee/Thunder Blade (Japan).png</marquee>
@@ -6131,7 +6131,7 @@
 	</game>
 	<game>
 		<path>./Thunder Blade (USA, Europe, Brazil).zip</path>
-		<name>마크맨 슈팅 &amp; 트랩 슈팅 &amp; 사파리 헌트 (유럽판)</name>
+		<name>썬더 블레이드</name>
 		<image>./snap/Thunder Blade (USA, Europe, Brazil).png</image>
 		<video>./video/Thunder Blade (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Thunder Blade (USA, Europe, Brazil).png</marquee>
@@ -6143,7 +6143,7 @@
 	</game>
 	<game>
 		<path>./Time Soldiers (USA, Europe, Brazil).zip</path>
-		<name>트리비아 퍼슛 - 지니어스 에디션 (유럽판)</name>
+		<name>타임 솔져</name>
 		<image>./snap/Time Soldiers (USA, Europe, Brazil).png</image>
 		<video>./video/Time Soldiers (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Time Soldiers (USA, Europe, Brazil).png</marquee>
@@ -6155,7 +6155,7 @@
 	</game>
 	<game>
 		<path>./Tom &amp; Jerry (Europe, Brazil) (Beta).zip</path>
-		<name>똘이의 모험 (한국판)</name>
+		<name>톰과 제리 (베타)</name>
 		<image>./snap/Tom &amp; Jerry (Europe, Brazil) (Beta).png</image>
 		<video>./video/Tom &amp; Jerry (Europe, Brazil) (Beta).mp4</video>
 		<marquee>./marquee/Tom &amp; Jerry (Europe, Brazil) (Beta).png</marquee>
@@ -6167,7 +6167,7 @@
 	</game>
 	<game>
 		<path>./Tom and Jerry - The Movie (Europe, Brazil).zip</path>
-		<name>원더보이 3 - 드래곤스 트랩 (브라질판)</name>
+		<name>톰과 제리 - 극장판</name>
 		<image>./snap/Tom and Jerry - The Movie (Europe, Brazil).png</image>
 		<video>./video/Tom and Jerry - The Movie (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Tom and Jerry - The Movie (Europe, Brazil).png</marquee>
@@ -6179,7 +6179,7 @@
 	</game>
 	<game>
 		<path>./Toto World 3 (Korea) (Unl).zip</path>
-		<name>TV 콜로소 (브라질판)</name>
+		<name>토토 월드 3 (한국판)(해적판)</name>
 		<image>./snap/Toto World 3 (Korea) (Unl).png</image>
 		<video>./video/Toto World 3 (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Toto World 3 (Korea) (Unl).png</marquee>
@@ -6191,7 +6191,7 @@
 	</game>
 	<game>
 		<path>./TransBot (USA, Europe, Brazil) (Beta).zip</path>
-		<name>울티마 4 - 아바타의 모험 (유럽판)(베타)</name>
+		<name>트랜스봇 (베타)</name>
 		<image>./snap/TransBot (USA, Europe, Brazil) (Beta).png</image>
 		<video>./video/TransBot (USA, Europe, Brazil) (Beta).mp4</video>
 		<marquee>./marquee/TransBot (USA, Europe, Brazil) (Beta).png</marquee>
@@ -6203,7 +6203,7 @@
 	</game>
 	<game>
 		<path>./TransBot (USA, Europe, Brazil).zip</path>
-		<name>울티마 4 - 아바타의 모험 (유럽판)</name>
+		<name>트랜스봇</name>
 		<image>./snap/TransBot (USA, Europe, Brazil).png</image>
 		<video>./video/TransBot (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/TransBot (USA, Europe, Brazil).png</marquee>
@@ -6215,7 +6215,7 @@
 	</game>
 	<game>
 		<path>./Trivial Pursuit - Genus Edition (Europe) (En,Fr,De,Es).zip</path>
-		<name>울티메이스 사커 (유럽판)</name>
+		<name>트리비아 퍼슛 - 지니어스 에디션 (유럽판)</name>
 		<image>./snap/Trivial Pursuit - Genus Edition (Europe) (En,Fr,De,Es).png</image>
 		<video>./video/Trivial Pursuit - Genus Edition (Europe) (En,Fr,De,Es).mp4</video>
 		<marquee>./marquee/Trivial Pursuit - Genus Edition (Europe) (En,Fr,De,Es).png</marquee>
@@ -6227,7 +6227,7 @@
 	</game>
 	<game>
 		<path>./Ttoriui Moheom (Korea).zip</path>
-		<name>비질란테 (미국,유럽판)</name>
+		<name>똘이의 모험 (한국판)</name>
 		<image>./snap/Ttoriui Moheom (Korea).png</image>
 		<video>./video/Ttoriui Moheom (Korea).mp4</video>
 		<marquee>./marquee/Ttoriui Moheom (Korea).png</marquee>
@@ -6239,7 +6239,7 @@
 	</game>
 	<game>
 		<path>./Turma da Monica em O Resgate (Brazil).zip</path>
-		<name>버추어 파이터 애니메이션 (브라질판)</name>
+		<name>원더보이 3 - 드래곤스 트랩 (브라질판)</name>
 		<image>./snap/Turma da Monica em O Resgate (Brazil).png</image>
 		<video>./video/Turma da Monica em O Resgate (Brazil).mp4</video>
 		<marquee>./marquee/Turma da Monica em O Resgate (Brazil).png</marquee>
@@ -6251,7 +6251,7 @@
 	</game>
 	<game>
 		<path>./Ultima IV - Quest of the Avatar (Europe, Brazil) (Beta).zip</path>
-		<name>월터 페이튼 풋볼</name>
+		<name>울티마 4 - 아바타의 모험 (베타)</name>
 		<image>./snap/Ultima IV - Quest of the Avatar (Europe, Brazil) (Beta).png</image>
 		<video>./video/Ultima IV - Quest of the Avatar (Europe, Brazil) (Beta).mp4</video>
 		<marquee>./marquee/Ultima IV - Quest of the Avatar (Europe, Brazil) (Beta).png</marquee>
@@ -6263,7 +6263,7 @@
 	</game>
 	<game>
 		<path>./Ultima IV - Quest of the Avatar (Europe, Brazil).zip</path>
-		<name>원티드 (미국,유럽판)</name>
+		<name>울티마 4 - 아바타의 모험</name>
 		<image>./snap/Ultima IV - Quest of the Avatar (Europe, Brazil).png</image>
 		<video>./video/Ultima IV - Quest of the Avatar (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Ultima IV - Quest of the Avatar (Europe, Brazil).png</marquee>
@@ -6275,7 +6275,7 @@
 	</game>
 	<game>
 		<path>./Ultimate Soccer (Europe, Brazil) (En,Fr,De,Es,It).zip</path>
-		<name>칼멘 센디에고는 어디에 있나 (브라질판)</name>
+		<name>울티메이스 사커</name>
 		<image>./snap/Ultimate Soccer (Europe, Brazil) (En,Fr,De,Es,It).png</image>
 		<video>./video/Ultimate Soccer (Europe, Brazil) (En,Fr,De,Es,It).mp4</video>
 		<marquee>./marquee/Ultimate Soccer (Europe, Brazil) (En,Fr,De,Es,It).png</marquee>
@@ -6287,7 +6287,7 @@
 	</game>
 	<game>
 		<path>./Vampire (Europe) (Beta).zip</path>
-		<name>칼멘 센디에고는 어디에 있나</name>
+		<name>벰파이어 (유럽판)(베타)</name>
 		<image>./snap/Vampire (Europe) (Beta).png</image>
 		<video>./video/Vampire (Europe) (Beta).mp4</video>
 		<marquee>./marquee/Vampire (Europe) (Beta).png</marquee>
@@ -6299,7 +6299,7 @@
 	</game>
 	<game>
 		<path>./Vigilante (USA, Europe, Brazil).zip</path>
-		<name>윔블던 (유럽판)</name>
+		<name>자경단</name>
 		<image>./snap/Vigilante (USA, Europe, Brazil).png</image>
 		<video>./video/Vigilante (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Vigilante (USA, Europe, Brazil).png</marquee>
@@ -6311,7 +6311,7 @@
 	</game>
 	<game>
 		<path>./Virtua Fighter Animation (Brazil).zip</path>
-		<name>윔블던 2 (유럽판)</name>
+		<name>버추어 파이터 애니메이션 (브라질판)</name>
 		<image>./snap/Virtua Fighter Animation (Brazil).png</image>
 		<video>./video/Virtua Fighter Animation (Brazil).mp4</video>
 		<marquee>./marquee/Virtua Fighter Animation (Brazil).png</marquee>
@@ -6323,7 +6323,7 @@
 	</game>
 	<game>
 		<path>./Walter Payton Football (USA).zip</path>
-		<name>동계 올림픽 - 릴리함페르 '94 (유럽판)</name>
+		<name>월터 페이튼 풋볼</name>
 		<image>./snap/Walter Payton Football (USA).png</image>
 		<video>./video/Walter Payton Football (USA).mp4</video>
 		<marquee>./marquee/Walter Payton Football (USA).png</marquee>
@@ -6335,7 +6335,7 @@
 	</game>
 	<game>
 		<path>./Wanted (USA, Europe, Brazil).zip</path>
-		<name>울프차일드 (유럽판)</name>
+		<name>원티드</name>
 		<image>./snap/Wanted (USA, Europe, Brazil).png</image>
 		<video>./video/Wanted (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Wanted (USA, Europe, Brazil).png</marquee>
@@ -6347,7 +6347,7 @@
 	</game>
 	<game>
 		<path>./Where in the World is Carmen Sandiego (Brazil).zip</path>
-		<name>원더보이 3 - 드래곤스 트랩 (미국,유럽판)</name>
+		<name>칼멘 센디에고는 어디에 있나 (브라질판)</name>
 		<image>./snap/Where in the World is Carmen Sandiego (Brazil).png</image>
 		<video>./video/Where in the World is Carmen Sandiego (Brazil).mp4</video>
 		<marquee>./marquee/Where in the World is Carmen Sandiego (Brazil).png</marquee>
@@ -6359,7 +6359,7 @@
 	</game>
 	<game>
 		<path>./Where in the World is Carmen Sandiego (USA).zip</path>
-		<name>원더 보이 인 몬스터 랜드 (미국,유럽판)(베타)</name>
+		<name>칼멘 센디에고는 어디에 있나</name>
 		<image>./snap/Where in the World is Carmen Sandiego (USA).png</image>
 		<video>./video/Where in the World is Carmen Sandiego (USA).mp4</video>
 		<marquee>./marquee/Where in the World is Carmen Sandiego (USA).png</marquee>
@@ -6371,7 +6371,7 @@
 	</game>
 	<game>
 		<path>./Wimbledon (Europe).zip</path>
-		<name>원더 보이 인 몬스터 랜드 (미국,유럽판)</name>
+		<name>윔블던 (유럽판)</name>
 		<image>./snap/Wimbledon (Europe).png</image>
 		<video>./video/Wimbledon (Europe).mp4</video>
 		<marquee>./marquee/Wimbledon (Europe).png</marquee>
@@ -6383,7 +6383,7 @@
 	</game>
 	<game>
 		<path>./Wimbledon II ~ Wimbledon (Europe, Brazil).zip</path>
-		<name>원더보이 인 몬스터월드 (유럽판)(베타)</name>
+		<name>윔블던 2</name>
 		<image>./snap/Wimbledon II ~ Wimbledon (Europe, Brazil).png</image>
 		<video>./video/Wimbledon II ~ Wimbledon (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Wimbledon II ~ Wimbledon (Europe, Brazil).png</marquee>
@@ -6395,7 +6395,7 @@
 	</game>
 	<game>
 		<path>./Winter Olympics (Brazil) (En,Fr,De,Es,It,Pt,Sv,No).zip</path>
-		<name>원더보이 인 몬스터월드 (유럽판)</name>
+		<name>동계 올림픽 (브라질판)</name>
 		<image>./snap/Winter Olympics (Brazil) (En,Fr,De,Es,It,Pt,Sv,No).png</image>
 		<video>./video/Winter Olympics (Brazil) (En,Fr,De,Es,It,Pt,Sv,No).mp4</video>
 		<marquee>./marquee/Winter Olympics (Brazil) (En,Fr,De,Es,It,Pt,Sv,No).png</marquee>
@@ -6407,7 +6407,7 @@
 	</game>
 	<game>
 		<path>./Winter Olympics (Europe) (En,Fr,De,Es,It,Pt,Sv,No).zip</path>
-		<name>원더 보이 (미국,유럽판)</name>
+		<name>동계 올림픽 (유럽판)</name>
 		<image>./snap/Winter Olympics (Europe) (En,Fr,De,Es,It,Pt,Sv,No).png</image>
 		<video>./video/Winter Olympics (Europe) (En,Fr,De,Es,It,Pt,Sv,No).mp4</video>
 		<marquee>./marquee/Winter Olympics (Europe) (En,Fr,De,Es,It,Pt,Sv,No).png</marquee>
@@ -6419,7 +6419,7 @@
 	</game>
 	<game>
 		<path>./Wolfchild (Europe, Brazil).zip</path>
-		<name>원시인 (한국판)(해적판)</name>
+		<name>울프차일드</name>
 		<image>./snap/Wolfchild (Europe, Brazil).png</image>
 		<video>./video/Wolfchild (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Wolfchild (Europe, Brazil).png</marquee>
@@ -6431,7 +6431,7 @@
 	</game>
 	<game>
 		<path>./Wonder Boy (USA, Europe, Brazil) (Rev 1).zip</path>
-		<name>슈퍼 알카노이드 (한국판)(해적판)</name>
+		<name>원더 보이 (개정판 1)</name>
 		<image>./snap/Wonder Boy (USA, Europe, Brazil) (Rev 1).png</image>
 		<video>./video/Wonder Boy (USA, Europe, Brazil) (Rev 1).mp4</video>
 		<marquee>./marquee/Wonder Boy (USA, Europe, Brazil) (Rev 1).png</marquee>
@@ -6443,7 +6443,7 @@
 	</game>
 	<game>
 		<path>./Wonder Boy III - The Dragon's Trap (USA, Europe).zip</path>
-		<name>우디 팝 - 신인류의 블록깨기 (일본판)</name>
+		<name>원더보이 3 - 드래곤스 트랩 (미국,유럽판)</name>
 		<image>./snap/Wonder Boy III - The Dragon's Trap (USA, Europe).png</image>
 		<video>./video/Wonder Boy III - The Dragon's Trap (USA, Europe).mp4</video>
 		<marquee>./marquee/Wonder Boy III - The Dragon's Trap (USA, Europe).png</marquee>
@@ -6455,7 +6455,7 @@
 	</game>
 	<game>
 		<path>./Wonder Boy in Monster Land (USA, Europe) (Beta).zip</path>
-		<name>월드 클래스 리더보드 (유럽판)</name>
+		<name>원더 보이 인 몬스터 랜드 (미국,유럽판)(베타)</name>
 		<image>./snap/Wonder Boy in Monster Land (USA, Europe) (Beta).png</image>
 		<video>./video/Wonder Boy in Monster Land (USA, Europe) (Beta).mp4</video>
 		<marquee>./marquee/Wonder Boy in Monster Land (USA, Europe) (Beta).png</marquee>
@@ -6467,7 +6467,7 @@
 	</game>
 	<game>
 		<path>./Wonder Boy in Monster Land (USA, Europe).zip</path>
-		<name>월드컵 이탈리아 90 (유럽판)(샘플)</name>
+		<name>원더 보이 인 몬스터 랜드 (미국,유럽판)</name>
 		<image>./snap/Wonder Boy in Monster Land (USA, Europe).png</image>
 		<video>./video/Wonder Boy in Monster Land (USA, Europe).mp4</video>
 		<marquee>./marquee/Wonder Boy in Monster Land (USA, Europe).png</marquee>
@@ -6479,7 +6479,7 @@
 	</game>
 	<game>
 		<path>./Wonder Boy in Monster World (Europe) (Beta).zip</path>
-		<name>월드컵 이탈리아 90 (유럽판)</name>
+		<name>원더보이 인 몬스터월드 (유럽판)(베타)</name>
 		<image>./snap/Wonder Boy in Monster World (Europe) (Beta).png</image>
 		<video>./video/Wonder Boy in Monster World (Europe) (Beta).mp4</video>
 		<marquee>./marquee/Wonder Boy in Monster World (Europe) (Beta).png</marquee>
@@ -6491,7 +6491,7 @@
 	</game>
 	<game>
 		<path>./Wonder Boy in Monster World (Europe).zip</path>
-		<name>월드컵 USA 94 (유럽판)</name>
+		<name>원더보이 인 몬스터월드 (유럽판)</name>
 		<image>./snap/Wonder Boy in Monster World (Europe).png</image>
 		<video>./video/Wonder Boy in Monster World (Europe).mp4</video>
 		<marquee>./marquee/Wonder Boy in Monster World (Europe).png</marquee>
@@ -6503,7 +6503,7 @@
 	</game>
 	<game>
 		<path>./Wonsiin (Korea) (Unl).zip</path>
-		<name>월드 게임즈 (유럽판)(베타)</name>
+		<name>원시인 (한국판)(해적판)</name>
 		<image>./snap/Wonsiin (Korea) (Unl).png</image>
 		<video>./video/Wonsiin (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Wonsiin (Korea) (Unl).png</marquee>
@@ -6515,7 +6515,7 @@
 	</game>
 	<game>
 		<path>./Woody Pop - Shinjinrui no Block Kuzushi (Japan).zip</path>
-		<name>월드 게임즈 (유럽판)</name>
+		<name>우디 팝 - 신인류의 블록깨기 (일본판)</name>
 		<image>./snap/Woody Pop - Shinjinrui no Block Kuzushi (Japan).png</image>
 		<video>./video/Woody Pop - Shinjinrui no Block Kuzushi (Japan).mp4</video>
 		<marquee>./marquee/Woody Pop - Shinjinrui no Block Kuzushi (Japan).png</marquee>
@@ -6527,7 +6527,7 @@
 	</game>
 	<game>
 		<path>./World Class Leader Board (Europe, Brazil).zip</path>
-		<name>월드 그랑프리 (유럽판)</name>
+		<name>월드 클래스 리더보드</name>
 		<image>./snap/World Class Leader Board (Europe, Brazil).png</image>
 		<video>./video/World Class Leader Board (Europe, Brazil).mp4</video>
 		<marquee>./marquee/World Class Leader Board (Europe, Brazil).png</marquee>
@@ -6539,7 +6539,7 @@
 	</game>
 	<game>
 		<path>./World Cup Italia '90 (USA) (Demo).zip</path>
-		<name>월드 그랑프리 (베타)</name>
+		<name>월드컵 이탈리아 90 (데모)</name>
 		<image>./snap/World Cup Italia '90 (USA) (Demo).png</image>
 		<video>./video/World Cup Italia '90 (USA) (Demo).mp4</video>
 		<marquee>./marquee/World Cup Italia '90 (USA) (Demo).png</marquee>
@@ -6551,7 +6551,7 @@
 	</game>
 	<game>
 		<path>./World Cup Italia '90 ~ Super Futebol II (Europe, Brazil).zip</path>
-		<name>월드 그랑프리</name>
+		<name>월드컵 이탈리아 90</name>
 		<image>./snap/World Cup Italia '90 ~ Super Futebol II (Europe, Brazil).png</image>
 		<video>./video/World Cup Italia '90 ~ Super Futebol II (Europe, Brazil).mp4</video>
 		<marquee>./marquee/World Cup Italia '90 ~ Super Futebol II (Europe, Brazil).png</marquee>
@@ -6563,7 +6563,7 @@
 	</game>
 	<game>
 		<path>./World Cup USA 94 (Europe, Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv).zip</path>
-		<name>WWF 레슬매니아 - 스틸 케이스 챌린지 (유럽판)</name>
+		<name>월드컵 USA 94</name>
 		<image>./snap/World Cup USA 94 (Europe, Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv).png</image>
 		<video>./video/World Cup USA 94 (Europe, Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv).mp4</video>
 		<marquee>./marquee/World Cup USA 94 (Europe, Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv).png</marquee>
@@ -6575,7 +6575,7 @@
 	</game>
 	<game>
 		<path>./World Games (Europe) (Beta).zip</path>
-		<name>제논 2 -메가블라스트 (유럽판)(이미지웍스)</name>
+		<name>월드 게임즈 (유럽판)(베타)</name>
 		<image>./snap/World Games (Europe) (Beta).png</image>
 		<video>./video/World Games (Europe) (Beta).mp4</video>
 		<marquee>./marquee/World Games (Europe) (Beta).png</marquee>
@@ -6587,7 +6587,7 @@
 	</game>
 	<game>
 		<path>./World Games (Europe, Brazil).zip</path>
-		<name>제논 2 -메가블라스트 (유럽판)(버진)</name>
+		<name>월드 게임즈</name>
 		<image>./snap/World Games (Europe, Brazil).png</image>
 		<video>./video/World Games (Europe, Brazil).mp4</video>
 		<marquee>./marquee/World Games (Europe, Brazil).png</marquee>
@@ -6599,7 +6599,7 @@
 	</game>
 	<game>
 		<path>./World Grand Prix (Europe).zip</path>
-		<name>엑스맨 - 모조 월드 (브라질판)</name>
+		<name>월드 그랑프리 (유럽판)</name>
 		<image>./snap/World Grand Prix (Europe).png</image>
 		<video>./video/World Grand Prix (Europe).mp4</video>
 		<marquee>./marquee/World Grand Prix (Europe).png</marquee>
@@ -6611,7 +6611,7 @@
 	</game>
 	<game>
 		<path>./World Grand Prix (USA, Brazil) (Beta).zip</path>
-		<name>자이조로그 (한국판)</name>
+		<name>월드 그랑프리 (베타)</name>
 		<image>./snap/World Grand Prix (USA, Brazil) (Beta).png</image>
 		<video>./video/World Grand Prix (USA, Brazil) (Beta).mp4</video>
 		<marquee>./marquee/World Grand Prix (USA, Brazil) (Beta).png</marquee>
@@ -6623,7 +6623,7 @@
 	</game>
 	<game>
 		<path>./World Grand Prix (USA, Brazil).zip</path>
-		<name>이스 (데모)</name>
+		<name>월드 그랑프리</name>
 		<image>./snap/World Grand Prix (USA, Brazil).png</image>
 		<video>./video/World Grand Prix (USA, Brazil).mp4</video>
 		<marquee>./marquee/World Grand Prix (USA, Brazil).png</marquee>
@@ -6635,7 +6635,7 @@
 	</game>
 	<game>
 		<path>./World Soccer ~ Great Soccer ~ Super Futebol (World).zip</path>
-		<name>이스 - 배니시드 오멘 (미국,유럽판)</name>
+		<name>월드 사커 (세계판)</name>
 		<image>./snap/World Soccer ~ Great Soccer ~ Super Futebol (World).png</image>
 		<video>./video/World Soccer ~ Great Soccer ~ Super Futebol (World).mp4</video>
 		<marquee>./marquee/World Soccer ~ Great Soccer ~ Super Futebol (World).png</marquee>
@@ -6647,7 +6647,7 @@
 	</game>
 	<game>
 		<path>./WWF Wrestlemania - Steel Cage Challenge (Europe, Brazil).zip</path>
-		<name>이스 (일본판)</name>
+		<name>WWF 레슬매니아 - 스틸 케이스 챌린지</name>
 		<image>./snap/WWF Wrestlemania - Steel Cage Challenge (Europe, Brazil).png</image>
 		<video>./video/WWF Wrestlemania - Steel Cage Challenge (Europe, Brazil).mp4</video>
 		<marquee>./marquee/WWF Wrestlemania - Steel Cage Challenge (Europe, Brazil).png</marquee>
@@ -6659,7 +6659,7 @@
 	</game>
 	<game>
 		<path>./X-Men - Mojo World (Brazil).zip</path>
-		<name>잭슨 3D (세계판)(베타)</name>
+		<name>엑스맨 - 모조 월드 (브라질판)</name>
 		<image>./snap/X-Men - Mojo World (Brazil).png</image>
 		<video>./video/X-Men - Mojo World (Brazil).mp4</video>
 		<marquee>./marquee/X-Men - Mojo World (Brazil).png</marquee>
@@ -6671,7 +6671,7 @@
 	</game>
 	<game>
 		<path>./Xenon 2 - Megablast (Europe) (Rev 1).zip</path>
-		<name>잭슨 3D (세계판)</name>
+		<name>제논 2 -메가블라스트 (유럽판)(개정판 1)</name>
 		<image>./snap/Xenon 2 - Megablast (Europe) (Rev 1).png</image>
 		<video>./video/Xenon 2 - Megablast (Europe) (Rev 1).mp4</video>
 		<marquee>./marquee/Xenon 2 - Megablast (Europe) (Rev 1).png</marquee>
@@ -6683,7 +6683,7 @@
 	</game>
 	<game>
 		<path>./Xenon 2 - Megablast (Europe).zip</path>
-		<name>붉은 광탄 질리온 2 (세계판)</name>
+		<name>제논 2 -메가블라스트 (유럽판)</name>
 		<image>./snap/Xenon 2 - Megablast (Europe).png</image>
 		<video>./video/Xenon 2 - Megablast (Europe).mp4</video>
 		<marquee>./marquee/Xenon 2 - Megablast (Europe).png</marquee>
@@ -6695,7 +6695,7 @@
 	</game>
 	<game>
 		<path>./Xyzolog (Korea).zip</path>
-		<name>붉은 광탄 질리온 (유럽판)(개정판 2)</name>
+		<name>자이조로그 (한국판)</name>
 		<image>./snap/Xyzolog (Korea).png</image>
 		<video>./video/Xyzolog (Korea).mp4</video>
 		<marquee>./marquee/Xyzolog (Korea).png</marquee>
@@ -6707,7 +6707,7 @@
 	</game>
 	<game>
 		<path>./Ys (Japan).zip</path>
-		<name>붉은 광탄 질리온 (개정판 1)</name>
+		<name>이스 (일본판)</name>
 		<image>./snap/Ys (Japan).png</image>
 		<video>./video/Ys (Japan).mp4</video>
 		<marquee>./marquee/Ys (Japan).png</marquee>
@@ -6719,7 +6719,7 @@
 	</game>
 	<game>
 		<path>./Ys - The Vanished Omens (USA, Europe) (Demo).zip</path>
-		<name>줄 - N차원의 닌자 (유럽판)</name>
+		<name>이스 - 배니시드 오멘 (미국,유럽판)(데모)</name>
 		<image>./snap/Ys - The Vanished Omens (USA, Europe) (Demo).png</image>
 		<video>./video/Ys - The Vanished Omens (USA, Europe) (Demo).mp4</video>
 		<marquee>./marquee/Ys - The Vanished Omens (USA, Europe) (Demo).png</marquee>
@@ -6731,7 +6731,7 @@
 	</game>
 	<game>
 		<path>./Ys - The Vanished Omens (USA, Europe, Brazil).zip</path>
-		<name>[바이오스] 알렉스 키드 미라클월드 (한국판)</name>
+		<name>이스 - 배니시드 오멘</name>
 		<image>./snap/Ys - The Vanished Omens (USA, Europe, Brazil).png</image>
 		<video>./video/Ys - The Vanished Omens (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Ys - The Vanished Omens (USA, Europe, Brazil).png</marquee>
@@ -6743,7 +6743,7 @@
 	</game>
 	<game>
 		<path>./Zaxxon 3-D (World) (Beta).zip</path>
-		<name>[바이오스] 알렉스 키드 미라클월드 (미국,유럽판)</name>
+		<name>잭슨 3D (세계판)(베타)</name>
 		<image>./snap/Zaxxon 3-D (World) (Beta).png</image>
 		<video>./video/Zaxxon 3-D (World) (Beta).mp4</video>
 		<marquee>./marquee/Zaxxon 3-D (World) (Beta).png</marquee>
@@ -6755,7 +6755,7 @@
 	</game>
 	<game>
 		<path>./Zaxxon 3-D (World).zip</path>
-		<name>[바이오스] 행온 &amp; 사파리 헌트 (미국,유럽판)(v2.4)</name>
+		<name>잭슨 3D (세계판)</name>
 		<image>./snap/Zaxxon 3-D (World).png</image>
 		<video>./video/Zaxxon 3-D (World).mp4</video>
 		<marquee>./marquee/Zaxxon 3-D (World).png</marquee>
@@ -6767,7 +6767,7 @@
 	</game>
 	<game>
 		<path>./Zillion (Europe, Brazil) (Rev 2).zip</path>
-		<name>[바이오스] 행온 (미국,유럽판)(v3.4)</name>
+		<name>붉은 광탄 질리온 (개정판 2)</name>
 		<image>./snap/Zillion (Europe, Brazil) (Rev 2).png</image>
 		<video>./video/Zillion (Europe, Brazil) (Rev 2).mp4</video>
 		<marquee>./marquee/Zillion (Europe, Brazil) (Rev 2).png</marquee>
@@ -6779,7 +6779,7 @@
 	</game>
 	<game>
 		<path>./Zillion (Japan, Europe) (En,Ja).zip</path>
-		<name>[바이오스] 세가 마스터 시스템 (유럽판)(v2.0)</name>
+		<name>붉은 광탄 질리온 (일본,유럽판)(영어,일본어)</name>
 		<image>./snap/Zillion (Japan, Europe) (En,Ja).png</image>
 		<video>./video/Zillion (Japan, Europe) (En,Ja).mp4</video>
 		<marquee>./marquee/Zillion (Japan, Europe) (En,Ja).png</marquee>
@@ -6791,7 +6791,7 @@
 	</game>
 	<game>
 		<path>./Zillion (USA, Europe) (Rev 1).zip</path>
-		<name>[바이오스] 바람돌이 소닉 (유럽판)</name>
+		<name>붉은 광탄 질리온 (미국,유럽판)(개정판 1)</name>
 		<image>./snap/Zillion (USA, Europe) (Rev 1).png</image>
 		<video>./video/Zillion (USA, Europe) (Rev 1).mp4</video>
 		<marquee>./marquee/Zillion (USA, Europe) (Rev 1).png</marquee>
@@ -6803,7 +6803,7 @@
 	</game>
 	<game>
 		<path>./Zillion II - The Tri Formation (World).zip</path>
-		<name>세가 그래픽 보드 (v2.0)(시험판)</name>
+		<name>붉은 광탄 질리온 2 (세계판)</name>
 		<image>./snap/Zillion II - The Tri Formation (World).png</image>
 		<video>./video/Zillion II - The Tri Formation (World).mp4</video>
 		<marquee>./marquee/Zillion II - The Tri Formation (World).png</marquee>
@@ -6815,7 +6815,7 @@
 	</game>
 	<game>
 		<path>./Zool - Ninja of the 'Nth' Dimension (Europe).zip</path>
-		<name>[바이오스] 세가 마스터 시스템 (일본판)(v2.1)</name>
+		<name>줄 - N차원의 닌자 (유럽판)</name>
 		<image>./snap/Zool - Ninja of the 'Nth' Dimension (Europe).png</image>
 		<video>./video/Zool - Ninja of the 'Nth' Dimension (Europe).mp4</video>
 		<marquee>./marquee/Zool - Ninja of the 'Nth' Dimension (Europe).png</marquee>
@@ -6827,7 +6827,7 @@
 	</game>
 	<game>
 		<path>./[BIOS] Alex Kidd in Miracle World (Korea).zip</path>
-		<name>[바이오스] 세가 마스터 시스템 (M404)(시험판)</name>
+		<name>[바이오스] 알렉스 키드 미라클월드 (한국판)</name>
 		<image>./snap/[BIOS] Alex Kidd in Miracle World (Korea).png</image>
 		<video>./video/[BIOS] Alex Kidd in Miracle World (Korea).mp4</video>
 		<marquee>./marquee/[BIOS] Alex Kidd in Miracle World (Korea).png</marquee>
@@ -6839,7 +6839,7 @@
 	</game>
 	<game>
 		<path>./[BIOS] Alex Kidd in Miracle World (USA, Europe).zip</path>
-		<name>[바이오스] 세가 마스터 시스템 (스토어 디즈니 유닛)</name>
+		<name>[바이오스] 알렉스 키드 미라클월드 (미국,유럽판)</name>
 		<image>./snap/[BIOS] Alex Kidd in Miracle World (USA, Europe).png</image>
 		<video>./video/[BIOS] Alex Kidd in Miracle World (USA, Europe).mp4</video>
 		<marquee>./marquee/[BIOS] Alex Kidd in Miracle World (USA, Europe).png</marquee>
@@ -6851,7 +6851,7 @@
 	</game>
 	<game>
 		<path>./[BIOS] Hang-On &amp; Safari Hunt (USA, Europe, Brazil) (v2.4).zip</path>
-		<name>[바이오스] 세가 마스터 시스템 (스토어 디즈니 유닛)</name>
+		<name>[바이오스] 행온 &amp; 사파리 헌트 (v2.4)</name>
 		<image>./snap/[BIOS] Hang-On &amp; Safari Hunt (USA, Europe, Brazil) (v2.4).png</image>
 		<video>./video/[BIOS] Hang-On &amp; Safari Hunt (USA, Europe, Brazil) (v2.4).mp4</video>
 		<marquee>./marquee/[BIOS] Hang-On &amp; Safari Hunt (USA, Europe, Brazil) (v2.4).png</marquee>
@@ -6863,7 +6863,7 @@
 	</game>
 	<game>
 		<path>./[BIOS] Hang-On (USA, Europe) (v3.4).zip</path>
-		<name>[바이오스] 세가 마스터 시스템 (스토어 디즈니 유닛)</name>
+		<name>[바이오스] 행온 (미국,유럽판)(v3.4)</name>
 		<image>./snap/[BIOS] Hang-On (USA, Europe) (v3.4).png</image>
 		<video>./video/[BIOS] Hang-On (USA, Europe) (v3.4).mp4</video>
 		<marquee>./marquee/[BIOS] Hang-On (USA, Europe) (v3.4).png</marquee>
@@ -6875,7 +6875,7 @@
 	</game>
 	<game>
 		<path>./[BIOS] Missile Defense 3-D (USA, Europe) (v4.4).zip</path>
-		<name>[바이오스] 세가 마스터 시스템 (스토어 디즈니 유닛)</name>
+		<name>[바이오스] 미사일 디펜스 3D (미국,유럽판)(v4.4)</name>
 		<image>./snap/[BIOS] Missile Defense 3-D (USA, Europe) (v4.4).png</image>
 		<video>./video/[BIOS] Missile Defense 3-D (USA, Europe) (v4.4).mp4</video>
 		<marquee>./marquee/[BIOS] Missile Defense 3-D (USA, Europe) (v4.4).png</marquee>
@@ -6887,7 +6887,7 @@
 	</game>
 	<game>
 		<path>./[BIOS] Sega Master System (Europe) (v2.0).zip</path>
-		<name>[바이오스] 세가 마스터 시스템 (스토어 디즈니 유닛)</name>
+		<name>[바이오스] 세가 마스터 시스템 (유럽판)(v2.0)</name>
 		<image>./snap/[BIOS] Sega Master System (Europe) (v2.0).png</image>
 		<video>./video/[BIOS] Sega Master System (Europe) (v2.0).mp4</video>
 		<marquee>./marquee/[BIOS] Sega Master System (Europe) (v2.0).png</marquee>
@@ -6899,7 +6899,7 @@
 	</game>
 	<game>
 		<path>./[BIOS] Sega Master System (Japan) (v2.1).zip</path>
-		<name>[바이오스] 세가 마스터 시스템 (스토어 디즈니 유닛)</name>
+		<name>[바이오스] 세가 마스터 시스템 (일본판)(v2.1)</name>
 		<image>./snap/[BIOS] Sega Master System (Japan) (v2.1).png</image>
 		<video>./video/[BIOS] Sega Master System (Japan) (v2.1).mp4</video>
 		<marquee>./marquee/[BIOS] Sega Master System (Japan) (v2.1).png</marquee>
@@ -6911,7 +6911,7 @@
 	</game>
 	<game>
 		<path>./[BIOS] Sega Master System (USA) (M404) (Proto).zip</path>
-		<name>[바이오스] 세가 마스터 시스템 (스토어 디즈니 유닛)</name>
+		<name>[바이오스] 세가 마스터 시스템 (M404)(시험판)</name>
 		<image>./snap/[BIOS] Sega Master System (USA) (M404) (Proto).png</image>
 		<video>./video/[BIOS] Sega Master System (USA) (M404) (Proto).mp4</video>
 		<marquee>./marquee/[BIOS] Sega Master System (USA) (M404) (Proto).png</marquee>
@@ -6935,7 +6935,7 @@
 	</game>
 	<game>
 		<path>./[BIOS] Sega Master System (USA) (v1.0) (Proto).zip</path>
-		<name>[바이오스] 세가 마스터 시스템 (스토어 디즈니 유닛)</name>
+		<name>[바이오스] 세가 마스터 시스템 (v1.0)(시험판)</name>
 		<image>./snap/[BIOS] Sega Master System (USA) (v1.0) (Proto).png</image>
 		<video>./video/[BIOS] Sega Master System (USA) (v1.0) (Proto).mp4</video>
 		<marquee>./marquee/[BIOS] Sega Master System (USA) (v1.0) (Proto).png</marquee>
@@ -6947,7 +6947,7 @@
 	</game>
 	<game>
 		<path>./[BIOS] Sega Master System (USA, Europe) (v1.3).zip</path>
-		<name>[바이오스] 세가 마스터 시스템 (스토어 디즈니 유닛)</name>
+		<name>[바이오스] 세가 마스터 시스템 (미국,유럽판)(v1.3)</name>
 		<image>./snap/[BIOS] Sega Master System (USA, Europe) (v1.3).png</image>
 		<video>./video/[BIOS] Sega Master System (USA, Europe) (v1.3).mp4</video>
 		<marquee>./marquee/[BIOS] Sega Master System (USA, Europe) (v1.3).png</marquee>
@@ -6959,7 +6959,7 @@
 	</game>
 	<game>
 		<path>./[BIOS] Sonic The Hedgehog (Europe).zip</path>
-		<name>[바이오스] 세가 마스터 시스템 (스토어 디즈니 유닛)</name>
+		<name>[바이오스] 바람돌이 소닉 (유럽판)</name>
 		<image>./snap/[BIOS] Sonic The Hedgehog (Europe).png</image>
 		<video>./video/[BIOS] Sonic The Hedgehog (Europe).mp4</video>
 		<marquee>./marquee/[BIOS] Sonic The Hedgehog (Europe).png</marquee>
