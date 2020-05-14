@@ -1,0 +1,407 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<!--
+* 제목 : 레트로게임 롬 목록 한글화 프로젝트
+* 지원프론트엔드 : RetroPie, Recalbox, Attract-Mode
+* 지원에뮬 : Arcade(MAME, AdvMAME, FBNeo), NES, SNES, MD, GB, GBC, GBA, PCE, SMS, Sega 32X, NGP, NGPC, WS, WSC
+* 제작자 : 텐타클 팀
+* 최종수정 : May 14, 2020
+* 카페 : http://cafe.naver.com/raspigamer
+* 레트로게임 롬 목록 한글화 자료는 오픈소스입니다. MIT 라이센스를 따르고 있으므로 라이센스와 출처(http://cafe.naver.com/raspigamer) 표시만 지켜주시면 자유롭게 사용하실 수 있습니다.
+-->
+	<game>
+		<path>./anmlbskt.zip</path>
+		<name>애니멀 바스켓</name>
+		<image>./../arcade/snap/anmlbskt.png</image>
+		<video>./../arcade/video/anmlbskt.mp4</video>
+		<marquee>./../arcade/marquee/anmlbskt.png</marquee>
+		<developer>새미</developer>
+		<publisher>새미</publisher>
+		<genre>스포츠 / 농구</genre>
+		<players>2</players>
+		<releasedate>20050101T000000</releasedate>
+	</game>
+	<game>
+		<path>./anmlbskta.zip</path>
+		<name>애니멀 바스켓</name>
+		<image>./../arcade/snap/anmlbskta.png</image>
+		<video>./../arcade/video/anmlbskta.mp4</video>
+		<marquee>./../arcade/marquee/anmlbskta.png</marquee>
+		<developer>새미</developer>
+		<publisher>새미</publisher>
+		<genre>스포츠 / 농구</genre>
+		<releasedate>20050101T000000</releasedate>
+	</game>
+	<game>
+		<path>./basschal.zip</path>
+		<name>세가 배스 피싱 챌린지</name>
+		<image>./../arcade/snap/basschal.png</image>
+		<video>./../arcade/video/basschal.mp4</video>
+		<marquee>./../arcade/marquee/basschal.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠 / 낚시</genre>
+		<players>2</players>
+		<releasedate>20090101T000000</releasedate>
+	</game>
+	<game>
+		<path>./basschalo.zip</path>
+		<name>세가 배스 피싱 챌린지</name>
+		<image>./../arcade/snap/basschalo.png</image>
+		<video>./../arcade/video/basschalo.mp4</video>
+		<marquee>./../arcade/marquee/basschalo.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠 / 낚시</genre>
+		<releasedate>20090101T000000</releasedate>
+	</game>
+	<game>
+		<path>./blokpong.zip</path>
+		<name>플럭 퐁퐁</name>
+		<image>./../arcade/snap/blokpong.png</image>
+		<video>./../arcade/video/blokpong.mp4</video>
+		<marquee>./../arcade/marquee/blokpong.png</marquee>
+		<developer/>
+		<publisher/>
+		<releasedate>20040101T000000</releasedate>
+	</game>
+	<game>
+		<path>./claychal.zip</path>
+		<name>세가 시티 챌린지</name>
+		<image>./../arcade/snap/claychal.png</image>
+		<video>./../arcade/video/claychal.mp4</video>
+		<marquee>./../arcade/marquee/claychal.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>슈터 / 라이트건</genre>
+		<players>6</players>
+		<releasedate>20080101T000000</releasedate>
+	</game>
+	<game>
+		<path>./demofist.zip</path>
+		<name>데몰리시 피스트</name>
+		<image>./../arcade/snap/demofist.png</image>
+		<video>./../arcade/video/demofist.mp4</video>
+		<marquee>./../arcade/marquee/demofist.png</marquee>
+		<developer>새미 스튜디오</developer>
+		<publisher>새미 스튜디오</publisher>
+		<genre>격투 / 대전</genre>
+		<players>2</players>
+		<releasedate>20030101T000000</releasedate>
+	</game>
+	<game>
+		<path>./dirtypig.zip</path>
+		<name>더티 피그스킨 풋볼</name>
+		<image>./../arcade/snap/dirtypig.png</image>
+		<video>./../arcade/video/dirtypig.mp4</video>
+		<marquee>./../arcade/marquee/dirtypig.png</marquee>
+		<developer/>
+		<publisher/>
+		<genre>스포츠 / 풋볼</genre>
+		<players>4</players>
+		<releasedate>20040101T000000</releasedate>
+	</game>
+	<game>
+		<path>./dolphin.zip</path>
+		<name>돌핀 블루</name>
+		<image>./../arcade/snap/dolphin.png</image>
+		<video>./../arcade/video/dolphin.mp4</video>
+		<marquee>./../arcade/marquee/dolphin.png</marquee>
+		<developer/>
+		<publisher/>
+		<genre>슈팅</genre>
+		<players>2</players>
+		<releasedate>20030101T000000</releasedate>
+	</game>
+	<game>
+		<path>./fotns.zip</path>
+		<name>북두의 권</name>
+		<image>./../arcade/snap/fotns.png</image>
+		<video>./../arcade/video/fotns.mp4</video>
+		<marquee>./../arcade/marquee/fotns.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>격투 / 대전</genre>
+		<players>2</players>
+		<releasedate>20050101T000000</releasedate>
+	</game>
+	<game>
+		<path>./ftspeed.zip</path>
+		<name>패스터 댄 스피드</name>
+		<image>./../arcade/snap/ftspeed.png</image>
+		<video>./../arcade/video/ftspeed.mp4</video>
+		<marquee>./../arcade/marquee/ftspeed.png</marquee>
+		<developer/>
+		<publisher/>
+		<genre>레이싱</genre>
+		<players>1</players>
+		<releasedate>20040101T000000</releasedate>
+	</game>
+	<game>
+		<path>./ggisuka.zip</path>
+		<name>길티 기어 이사카</name>
+		<image>./../arcade/snap/ggisuka.png</image>
+		<video>./../arcade/video/ggisuka.mp4</video>
+		<marquee>./../arcade/marquee/ggisuka.png</marquee>
+		<developer>새미 스튜디오</developer>
+		<publisher>새미 스튜디오</publisher>
+		<genre>격투 / 대전</genre>
+		<players>4</players>
+		<releasedate>20030101T000000</releasedate>
+	</game>
+	<game>
+		<path>./ggx15.zip</path>
+		<name>길티기어 X</name>
+		<image>./../arcade/snap/ggx15.png</image>
+		<video>./../arcade/video/ggx15.mp4</video>
+		<marquee>./../arcade/marquee/ggx15.png</marquee>
+		<developer>새미 스튜디오</developer>
+		<publisher>새미 스튜디오</publisher>
+		<genre>격투 / 대전</genre>
+		<players>2</players>
+		<releasedate>20030101T000000</releasedate>
+	</game>
+	<game>
+		<path>./kofnw.zip</path>
+		<name>킹 오브 파이터즈 네오웨이브</name>
+		<image>./../arcade/snap/kofnw.png</image>
+		<video>./../arcade/video/kofnw.mp4</video>
+		<marquee>./../arcade/marquee/kofnw.png</marquee>
+		<developer/>
+		<publisher/>
+		<genre>격투 / 대전</genre>
+		<players>2</players>
+		<releasedate>20050101T000000</releasedate>
+	</game>
+	<game>
+		<path>./kofnwj.zip</path>
+		<name>킹 오브 파이터즈 네오웨이브 (일본판)</name>
+		<image>./../arcade/snap/kofnwj.png</image>
+		<video>./../arcade/video/kofnwj.mp4</video>
+		<marquee>./../arcade/marquee/kofnwj.png</marquee>
+		<developer/>
+		<publisher/>
+		<genre>격투 / 대전</genre>
+		<players>2</players>
+		<releasedate>20050101T000000</releasedate>
+	</game>
+	<game>
+		<path>./kofxi.zip</path>
+		<name>킹 오브 파이터즈 XI</name>
+		<image>./../arcade/snap/kofxi.png</image>
+		<video>./../arcade/video/kofxi.mp4</video>
+		<marquee>./../arcade/marquee/kofxi.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>격투 / 대전</genre>
+		<players>2</players>
+		<releasedate>20050101T000000</releasedate>
+	</game>
+	<game>
+		<path>./kov7sprt.zip</path>
+		<name>신 삼국전기 - 칠성전생</name>
+		<image>./../arcade/snap/kov7sprt.png</image>
+		<video>./../arcade/video/kov7sprt.mp4</video>
+		<marquee>./../arcade/marquee/kov7sprt.png</marquee>
+		<developer/>
+		<publisher/>
+		<genre>액션</genre>
+		<players>2</players>
+		<releasedate>20040101T000000</releasedate>
+	</game>
+	<game>
+		<path>./maxspeed.zip</path>
+		<name>맥시멈 스피드</name>
+		<image>./../arcade/snap/maxspeed.png</image>
+		<video>./../arcade/video/maxspeed.mp4</video>
+		<marquee>./../arcade/marquee/maxspeed.png</marquee>
+		<developer/>
+		<publisher/>
+		<genre>레이싱</genre>
+		<players>1</players>
+		<releasedate>20030101T000000</releasedate>
+	</game>
+	<game>
+		<path>./mslug6.zip</path>
+		<name>메탈 슬러그 6</name>
+		<image>./../arcade/snap/mslug6.png</image>
+		<video>./../arcade/video/mslug6.mp4</video>
+		<marquee>./../arcade/marquee/mslug6.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>플랫폼</genre>
+		<players>2</players>
+		<releasedate>20060101T000000</releasedate>
+	</game>
+	<game>
+		<path>./ngbc.zip</path>
+		<name>네오지오 배틀 콜로세움</name>
+		<image>./../arcade/snap/ngbc.png</image>
+		<video>./../arcade/video/ngbc.mp4</video>
+		<marquee>./../arcade/marquee/ngbc.png</marquee>
+		<developer>새미 / SNK 플레이모어</developer>
+		<publisher>새미 / SNK 플레이모어</publisher>
+		<genre>격투</genre>
+		<players>2</players>
+		<releasedate>20050101T000000</releasedate>
+	</game>
+	<game>
+		<path>./ngbcj.zip</path>
+		<name>네오지오 배틀 콜로세움 (일본판)</name>
+		<image>./../arcade/snap/ngbcj.png</image>
+		<video>./../arcade/video/ngbcj.mp4</video>
+		<marquee>./../arcade/marquee/ngbcj.png</marquee>
+		<developer>새미 / SNK 플레이모어</developer>
+		<publisher>새미 / SNK 플레이모어</publisher>
+		<genre>격투</genre>
+		<releasedate>20050101T000000</releasedate>
+	</game>
+	<game>
+		<path>./rangrmsn.zip</path>
+		<name>레인져 미션</name>
+		<image>./../arcade/snap/rangrmsn.png</image>
+		<video>./../arcade/video/rangrmsn.mp4</video>
+		<marquee>./../arcade/marquee/rangrmsn.png</marquee>
+		<developer/>
+		<publisher/>
+		<genre>슈터 / 라이트건</genre>
+		<players>2</players>
+		<releasedate>20040101T000000</releasedate>
+	</game>
+	<game>
+		<path>./rumblef.zip</path>
+		<name>럼블 피시</name>
+		<image>./../arcade/snap/rumblef.png</image>
+		<video>./../arcade/video/rumblef.mp4</video>
+		<marquee>./../arcade/marquee/rumblef.png</marquee>
+		<developer>새미 스튜디오</developer>
+		<publisher>새미 스튜디오</publisher>
+		<genre>격투 / 대전</genre>
+		<players>2</players>
+		<releasedate>20040101T000000</releasedate>
+	</game>
+	<game>
+		<path>./rumblef2.zip</path>
+		<name>럼블 피시 2</name>
+		<image>./../arcade/snap/rumblef2.png</image>
+		<video>./../arcade/video/rumblef2.mp4</video>
+		<marquee>./../arcade/marquee/rumblef2.png</marquee>
+		<developer>새미 스튜디오</developer>
+		<publisher>새미 스튜디오</publisher>
+		<genre>격투 / 대전</genre>
+		<players>2</players>
+		<releasedate>20040101T000000</releasedate>
+	</game>
+	<game>
+		<path>./rumblefp.zip</path>
+		<name>럼블 피시</name>
+		<image>./../arcade/snap/rumblefp.png</image>
+		<video>./../arcade/video/rumblefp.mp4</video>
+		<marquee>./../arcade/marquee/rumblefp.png</marquee>
+		<developer/>
+		<publisher/>
+	</game>
+	<game>
+		<path>./rumblf2p.zip</path>
+		<name>럼블 피시 2 (시험판)</name>
+		<image>./../arcade/snap/rumblf2p.png</image>
+		<video>./../arcade/video/rumblf2p.mp4</video>
+		<marquee>./../arcade/marquee/rumblf2p.png</marquee>
+		<developer>새미 스튜디오</developer>
+		<publisher>새미 스튜디오</publisher>
+		<genre>격투 / 대전</genre>
+		<players>2</players>
+		<releasedate>20040101T000000</releasedate>
+	</game>
+	<game>
+		<path>./salmankt.zip</path>
+		<name>샐러리맨 킨타로</name>
+		<image>./../arcade/snap/salmankt.png</image>
+		<video>./../arcade/video/salmankt.mp4</video>
+		<marquee>./../arcade/marquee/salmankt.png</marquee>
+		<developer/>
+		<publisher/>
+		<genre>마작</genre>
+		<players>2</players>
+		<releasedate>20040101T000000</releasedate>
+	</game>
+	<game>
+		<path>./samsptk.zip</path>
+		<name>사무라이 쇼다운 6 - 천하제일검객전</name>
+		<image>./../arcade/snap/samsptk.png</image>
+		<video>./../arcade/video/samsptk.mp4</video>
+		<marquee>./../arcade/marquee/samsptk.png</marquee>
+		<developer/>
+		<publisher/>
+		<genre>격투 / 대전</genre>
+		<players>2</players>
+		<releasedate>20050101T000000</releasedate>
+	</game>
+	<game>
+		<path>./sprtshot.zip</path>
+		<name>스포츠 슈팅 USA</name>
+		<image>./../arcade/snap/sprtshot.png</image>
+		<video>./../arcade/video/sprtshot.mp4</video>
+		<marquee>./../arcade/marquee/sprtshot.png</marquee>
+		<developer/>
+		<publisher/>
+		<genre>슈터 / 라이트건</genre>
+		<players>2</players>
+		<releasedate>20030101T000000</releasedate>
+	</game>
+	<game>
+		<path>./sushibar.zip</path>
+		<name>스시바</name>
+		<image>./../arcade/snap/sushibar.png</image>
+		<video>./../arcade/video/sushibar.mp4</video>
+		<marquee>./../arcade/marquee/sushibar.png</marquee>
+		<developer/>
+		<publisher/>
+		<releasedate>20030101T000000</releasedate>
+	</game>
+	<game>
+		<path>./vfurlong.zip</path>
+		<name>네트 셀렉트 경마</name>
+		<image>./../arcade/snap/vfurlong.png</image>
+		<video>./../arcade/video/vfurlong.mp4</video>
+		<marquee>./../arcade/marquee/vfurlong.png</marquee>
+		<developer/>
+		<publisher/>
+		<releasedate>20050101T000000</releasedate>
+	</game>
+	<game>
+		<path>./waidrive.zip</path>
+		<name>와이와이 드라이브</name>
+		<image>./../arcade/snap/waidrive.png</image>
+		<video>./../arcade/video/waidrive.mp4</video>
+		<marquee>./../arcade/marquee/waidrive.png</marquee>
+		<developer/>
+		<publisher/>
+		<genre>운전</genre>
+		<releasedate>20050101T000000</releasedate>
+	</game>
+	<game>
+		<path>./xtrmhnt2.zip</path>
+		<name>익스트림 헌팅 2</name>
+		<image>./../arcade/snap/xtrmhnt2.png</image>
+		<video>./../arcade/video/xtrmhnt2.mp4</video>
+		<marquee>./../arcade/marquee/xtrmhnt2.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>슈터 / 라이트건</genre>
+		<players>2</players>
+		<releasedate>20060101T000000</releasedate>
+	</game>
+	<game>
+		<path>./xtrmhunt.zip</path>
+		<name>익스트림 헌팅</name>
+		<image>./../arcade/snap/xtrmhunt.png</image>
+		<video>./../arcade/video/xtrmhunt.mp4</video>
+		<marquee>./../arcade/marquee/xtrmhunt.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>슈터 / 라이트건</genre>
+		<players>2</players>
+		<releasedate>20050101T000000</releasedate>
+	</game>
+</gameList>

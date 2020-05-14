@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <!--
 * 제목 : 레트로게임 롬 목록 한글화 프로젝트
 * 지원프론트엔드 : RetroPie, Recalbox, Attract-Mode
 * 지원에뮬 : Arcade(MAME, AdvMAME, FBNeo), NES, SNES, MD, GB, GBC, GBA, PCE, SMS, Sega 32X, NGP, NGPC, WS, WSC
 * 제작자 : 텐타클 팀
-* 최종수정 : Fab 07, 2020
+* 최종수정 : May 14, 2020
 * 카페 : http://cafe.naver.com/raspigamer
 * 레트로게임 롬 목록 한글화 자료는 오픈소스입니다. MIT 라이센스를 따르고 있으므로 라이센스와 출처(http://cafe.naver.com/raspigamer) 표시만 지켜주시면 자유롭게 사용하실 수 있습니다.
 -->

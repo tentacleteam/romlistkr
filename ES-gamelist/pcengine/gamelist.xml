@@ -1,14 +1,26 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <!--
 * 제목 : 레트로게임 롬 목록 한글화 프로젝트
 * 지원프론트엔드 : RetroPie, Recalbox, Attract-Mode
 * 지원에뮬 : Arcade(MAME, AdvMAME, FBNeo), NES, SNES, MD, GB, GBC, GBA, PCE, SMS, Sega 32X, NGP, NGPC, WS, WSC
 * 제작자 : 텐타클 팀
-* 최종수정 : Fab 07, 2020
+* 최종수정 : May 14, 2020
 * 카페 : http://cafe.naver.com/raspigamer
 * 레트로게임 롬 목록 한글화 자료는 오픈소스입니다. MIT 라이센스를 따르고 있으므로 라이센스와 출처(http://cafe.naver.com/raspigamer) 표시만 지켜주시면 자유롭게 사용하실 수 있습니다.
 -->
+	<game>
+		<path>./1941 - Counter Attack (Japan).zip</path>
+		<name>1941 - 카운터 어택 (일본판)</name>
+		<image>./snap/1941 - Counter Attack (Japan).png</image>
+		<video>./video/1941 - Counter Attack (Japan).mp4</video>
+		<marquee>./marquee/1941 - Counter Attack (Japan).png</marquee>
+		<developer>캡콤</developer>
+		<publisher>캡콤</publisher>
+		<genre/>
+		<players>2</players>
+		<releasedate>19910823T000000</releasedate>
+	</game>
 	<game>
 		<path>./1943 Kai (Japan).zip</path>
 		<name>1943 카이 (일본판)</name>
@@ -17,6 +29,7 @@
 		<marquee>./marquee/1943 Kai (Japan).png</marquee>
 		<developer>캡콤</developer>
 		<publisher>낙삿 소프트</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19910322T000000</releasedate>
 	</game>
@@ -28,6 +41,7 @@
 		<marquee>./marquee/21 Emon - Mezase Hotel Ou!! (Japan).png</marquee>
 		<developer>NEC</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>4</players>
 		<releasedate>19941216T000000</releasedate>
 	</game>
@@ -39,6 +53,7 @@
 		<marquee>./marquee/Adventure Island (Japan).png</marquee>
 		<developer>웨스톤</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19910419T000000</releasedate>
 	</game>
@@ -50,6 +65,7 @@
 		<marquee>./marquee/Aero Blasters (Japan).png</marquee>
 		<developer/>
 		<publisher/>
+		<genre/>
 		<players>2</players>
 		<releasedate>19901102T000000</releasedate>
 	</game>
@@ -61,6 +77,7 @@
 		<marquee>./marquee/Aero Blasters (USA).png</marquee>
 		<developer/>
 		<publisher/>
+		<genre/>
 		<players>2</players>
 		<releasedate>19900101T000000</releasedate>
 	</game>
@@ -72,6 +89,7 @@
 		<marquee>./marquee/After Burner II (Japan).png</marquee>
 		<developer>세가</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19900928T000000</releasedate>
 	</game>
@@ -83,8 +101,21 @@
 		<marquee>./marquee/Air Zonk (USA).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19920101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Aldynes - The Misson Code for Rage Crisis (Japan).zip</path>
+		<name>알디인즈 - 미션 코드 포 레이지 크라이시스 (일본판)</name>
+		<image>./snap/Aldynes - The Misson Code for Rage Crisis (Japan).png</image>
+		<video>./video/Aldynes - The Misson Code for Rage Crisis (Japan).mp4</video>
+		<marquee>./marquee/Aldynes - The Misson Code for Rage Crisis (Japan).png</marquee>
+		<developer>프로듀스</developer>
+		<publisher>허드슨</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>19910222T000000</releasedate>
 	</game>
 	<game>
 		<path>./Alien Crush (Japan).zip</path>
@@ -94,6 +125,7 @@
 		<marquee>./marquee/Alien Crush (Japan).png</marquee>
 		<developer>컴파일</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19880914T000000</releasedate>
 	</game>
@@ -105,6 +137,7 @@
 		<marquee>./marquee/Alien Crush (USA).png</marquee>
 		<developer>컴파일</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19890101T000000</releasedate>
 	</game>
@@ -116,6 +149,7 @@
 		<marquee>./marquee/All Star Power League (Japan).png</marquee>
 		<developer/>
 		<publisher/>
+		<genre/>
 		<players/>
 		<releasedate/>
 	</game>
@@ -127,6 +161,7 @@
 		<marquee>./marquee/Andre Panza Kick Boxing (USA).png</marquee>
 		<developer>퓨처라</developer>
 		<publisher/>
+		<genre/>
 		<players>2</players>
 		<releasedate>19910101T000000</releasedate>
 	</game>
@@ -138,6 +173,7 @@
 		<marquee>./marquee/Ankoku Densetsu (Japan).png</marquee>
 		<developer>아틀러스</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19900907T000000</releasedate>
 	</game>
@@ -149,6 +185,7 @@
 		<marquee>./marquee/Aoi Blink (Japan).png</marquee>
 		<developer>웨스트 원</developer>
 		<publisher>허드슨</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19900427T000000</releasedate>
 	</game>
@@ -160,6 +197,7 @@
 		<marquee>./marquee/Appare! Gateball (Japan).png</marquee>
 		<developer>웨스트 원</developer>
 		<publisher>허드슨</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19881222T000000</releasedate>
 	</game>
@@ -171,6 +209,7 @@
 		<marquee>./marquee/Armed F (Japan).png</marquee>
 		<developer>만청당</developer>
 		<publisher>팩인 비디오</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19900323T000000</releasedate>
 	</game>
@@ -182,6 +221,7 @@
 		<marquee>./marquee/Artist Tool (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19890929T000000</releasedate>
 	</game>
@@ -193,6 +233,7 @@
 		<marquee>./marquee/Atomic Robo-Kid Special (Japan).png</marquee>
 		<developer>UPL</developer>
 		<publisher>UPL</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19900119T000000</releasedate>
 	</game>
@@ -204,6 +245,7 @@
 		<marquee>./marquee/AV Poker - World Gambler (Japan) (Unl).png</marquee>
 		<developer/>
 		<publisher/>
+		<genre/>
 		<players>4</players>
 		<releasedate>19920101T000000</releasedate>
 	</game>
@@ -215,6 +257,7 @@
 		<marquee>./marquee/Ballistix (Japan).png</marquee>
 		<developer>리플렉션 인터액티브</developer>
 		<publisher>터보 테크놀리지</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19911213T000000</releasedate>
 	</game>
@@ -226,6 +269,7 @@
 		<marquee>./marquee/Ballistix (USA).png</marquee>
 		<developer>리플렉션 인터액티브</developer>
 		<publisher>터보 테크놀리지</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19920101T000000</releasedate>
 	</game>
@@ -237,6 +281,7 @@
 		<marquee>./marquee/Bari Bari Densetsu (Japan).png</marquee>
 		<developer>타이토</developer>
 		<publisher>타이토</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19891129T000000</releasedate>
 	</game>
@@ -248,6 +293,7 @@
 		<marquee>./marquee/Barunba (Japan).png</marquee>
 		<developer>잡</developer>
 		<publisher>남코</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19900427T000000</releasedate>
 	</game>
@@ -259,8 +305,21 @@
 		<marquee>./marquee/Batman (Japan).png</marquee>
 		<developer>선소프트</developer>
 		<publisher>선소프트</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19901012T000000</releasedate>
+	</game>
+	<game>
+		<path>./Battle Ace (Japan).zip</path>
+		<name>배틀 에이스 (일본판)</name>
+		<image>./snap/Battle Ace (Japan).png</image>
+		<video>./video/Battle Ace (Japan).mp4</video>
+		<marquee>./marquee/Battle Ace (Japan).png</marquee>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>19891130T000000</releasedate>
 	</game>
 	<game>
 		<path>./Battle Lode Runner (Japan).zip</path>
@@ -270,6 +329,7 @@
 		<marquee>./marquee/Battle Lode Runner (Japan).png</marquee>
 		<developer>브로드번드 소프트웨어</developer>
 		<publisher>브로드번드 소프트웨어</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19930210T000000</releasedate>
 	</game>
@@ -281,6 +341,7 @@
 		<marquee>./marquee/Battle Royale (USA).png</marquee>
 		<developer>인크레더블 테크놀리지</developer>
 		<publisher>터보 테크놀리지</publisher>
+		<genre/>
 		<players>4</players>
 		<releasedate>19900101T000000</releasedate>
 	</game>
@@ -292,6 +353,7 @@
 		<marquee>./marquee/Be Ball (Japan).png</marquee>
 		<developer>나우 프로덕션</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19900330T000000</releasedate>
 	</game>
@@ -303,6 +365,7 @@
 		<marquee>./marquee/Benkei Gaiden (Japan).png</marquee>
 		<developer>선소프트</developer>
 		<publisher>선소프트</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19891222T000000</releasedate>
 	</game>
@@ -314,6 +377,7 @@
 		<marquee>./marquee/Bikkuriman World (Japan).png</marquee>
 		<developer>웨스톤</developer>
 		<publisher>허드슨</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19871030T000000</releasedate>
 	</game>
@@ -325,6 +389,7 @@
 		<marquee>./marquee/Blazing Lazers (USA).png</marquee>
 		<developer>컴파일</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19890101T000000</releasedate>
 	</game>
@@ -336,6 +401,7 @@
 		<marquee>./marquee/Blodia (Japan).png</marquee>
 		<developer/>
 		<publisher/>
+		<genre/>
 		<players>2</players>
 		<releasedate>19900223T000000</releasedate>
 	</game>
@@ -347,6 +413,7 @@
 		<marquee>./marquee/Bloody Wolf (USA).png</marquee>
 		<developer>데이터 이스트</developer>
 		<publisher>데이터 이스트</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19900101T000000</releasedate>
 	</game>
@@ -358,41 +425,81 @@
 		<marquee>./marquee/Bodycon Quest II (Japan) (Unl).png</marquee>
 		<developer/>
 		<publisher/>
+		<genre/>
 		<players>1</players>
 		<releasedate>19930101T000000</releasedate>
 	</game>
 	<game>
-		<path>./Bomberman '93 (Japan).zip</path>
+		<path>./Bomber Man '93 (Japan).zip</path>
 		<name>봄버맨 93 (일본판)</name>
-		<image>./snap/Bomberman '93 (Japan).png</image>
-		<video>./video/Bomberman '93 (Japan).mp4</video>
-		<marquee>./marquee/Bomberman '93 (Japan).png</marquee>
+		<image>./snap/Bomber Man '93 (Japan).png</image>
+		<video>./video/Bomber Man '93 (Japan).mp4</video>
+		<marquee>./marquee/Bomber Man '93 (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
-		<players>2</players>
+		<genre/>
+		<players/>
 		<releasedate>19921211T000000</releasedate>
 	</game>
 	<game>
-		<path>./Bomberman '93 (USA).zip</path>
+		<path>./Bomber Man '93 (USA).zip</path>
 		<name>봄버맨 93</name>
-		<image>./snap/Bomberman '93 (USA).png</image>
-		<video>./video/Bomberman '93 (USA).mp4</video>
-		<marquee>./marquee/Bomberman '93 (USA).png</marquee>
+		<image>./snap/Bomber Man '93 (USA).png</image>
+		<video>./video/Bomber Man '93 (USA).mp4</video>
+		<marquee>./marquee/Bomber Man '93 (USA).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
-		<players>2</players>
-		<releasedate>19930101T000000</releasedate>
+		<genre/>
+		<players/>
+		<releasedate>19921211T000000</releasedate>
 	</game>
 	<game>
-		<path>./Bomberman '93 (USA, Europe) (Virtual Console).zip</path>
+		<path>./Bomber Man '93 (USA, Europe) (Virtual Console).zip</path>
 		<name>봄버맨 93 (미국,유럽판)(버추얼 콘솔)</name>
-		<image>./snap/Bomberman '93 (USA, Europe) (Virtual Console).png</image>
-		<video>./video/Bomberman '93 (USA, Europe) (Virtual Console).mp4</video>
-		<marquee>./marquee/Bomberman '93 (USA, Europe) (Virtual Console).png</marquee>
+		<image>./snap/Bomber Man '93 (USA, Europe) (Virtual Console).png</image>
+		<video>./video/Bomber Man '93 (USA, Europe) (Virtual Console).mp4</video>
+		<marquee>./marquee/Bomber Man '93 (USA, Europe) (Virtual Console).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
+		<genre/>
 		<players/>
-		<releasedate>19930101T000000</releasedate>
+		<releasedate>19921211T000000</releasedate>
+	</game>
+	<game>
+		<path>./Bomber Man '94 (Japan).zip</path>
+		<name>봄버맨 94 (일본판)</name>
+		<image>./snap/Bomber Man '94 (Japan).png</image>
+		<video>./video/Bomber Man '94 (Japan).mp4</video>
+		<marquee>./marquee/Bomber Man '94 (Japan).png</marquee>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<genre/>
+		<players>5</players>
+		<releasedate>19931210T000000</releasedate>
+	</game>
+	<game>
+		<path>./Bomber Man (Japan).zip</path>
+		<name>봄버맨 (일본판)</name>
+		<image>./snap/Bomber Man (Japan).png</image>
+		<video>./video/Bomber Man (Japan).mp4</video>
+		<marquee>./marquee/Bomber Man (Japan).png</marquee>
+		<developer>허드슨</developer>
+		<publisher>터보 테크놀리지</publisher>
+		<genre/>
+		<players>5</players>
+		<releasedate>19901207T000000</releasedate>
+	</game>
+	<game>
+		<path>./Bomber Man (USA).zip</path>
+		<name>봄버맨</name>
+		<image>./snap/Bomber Man (USA).png</image>
+		<video>./video/Bomber Man (USA).mp4</video>
+		<marquee>./marquee/Bomber Man (USA).png</marquee>
+		<developer>허드슨</developer>
+		<publisher>터보 테크놀리지</publisher>
+		<genre/>
+		<players>5</players>
+		<releasedate>19901207T000000</releasedate>
 	</game>
 	<game>
 		<path>./Bomberman '93 - Special Version (Japan).zip</path>
@@ -402,41 +509,9 @@
 		<marquee>./marquee/Bomberman '93 - Special Version (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
+		<genre/>
 		<players/>
 		<releasedate>19921211T000000</releasedate>
-	</game>
-	<game>
-		<path>./Bomberman '94 (Japan).zip</path>
-		<name>봄버맨 94 (일본판)</name>
-		<image>./snap/Bomberman '94 (Japan).png</image>
-		<video>./video/Bomberman '94 (Japan).mp4</video>
-		<marquee>./marquee/Bomberman '94 (Japan).png</marquee>
-		<developer>허드슨</developer>
-		<publisher>허드슨</publisher>
-		<players>5</players>
-		<releasedate>19931210T000000</releasedate>
-	</game>
-	<game>
-		<path>./Bomberman (Japan).zip</path>
-		<name>봄버맨 (일본판)</name>
-		<image>./snap/Bomberman (Japan).png</image>
-		<video>./video/Bomberman (Japan).mp4</video>
-		<marquee>./marquee/Bomberman (Japan).png</marquee>
-		<developer>허드슨</developer>
-		<publisher>터보 테크놀리지</publisher>
-		<players>5</players>
-		<releasedate>19901207T000000</releasedate>
-	</game>
-	<game>
-		<path>./Bomberman (USA).zip</path>
-		<name>봄버맨</name>
-		<image>./snap/Bomberman (USA).png</image>
-		<video>./video/Bomberman (USA).mp4</video>
-		<marquee>./marquee/Bomberman (USA).png</marquee>
-		<developer>허드슨</developer>
-		<publisher>터보 테크놀리지</publisher>
-		<players>5</players>
-		<releasedate>19901207T000000</releasedate>
 	</game>
 	<game>
 		<path>./Bomberman - Users Battle (Japan).zip</path>
@@ -446,6 +521,7 @@
 		<marquee>./marquee/Bomberman - Users Battle (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
+		<genre/>
 		<players>5</players>
 		<releasedate>19900101T000000</releasedate>
 	</game>
@@ -457,6 +533,7 @@
 		<marquee>./marquee/Bonk 3 - Bonk's Big Adventure (USA).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>터보 테크놀리지</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19930101T000000</releasedate>
 	</game>
@@ -468,6 +545,7 @@
 		<marquee>./marquee/Bonk's Adventure (USA).png</marquee>
 		<developer>아틀러스</developer>
 		<publisher>허드슨</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19900101T000000</releasedate>
 	</game>
@@ -479,6 +557,7 @@
 		<marquee>./marquee/Bonk's Revenge (USA).png</marquee>
 		<developer>레드 컴퍼니</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19910101T000000</releasedate>
 	</game>
@@ -490,6 +569,7 @@
 		<marquee>./marquee/Bonk's Revenge (USA, Europe) (Virtual Console).png</marquee>
 		<developer>레드 컴퍼니</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19910101T000000</releasedate>
 	</game>
@@ -501,6 +581,7 @@
 		<marquee>./marquee/Bouken Danshaku Don - The Lost Sunheart (Japan).png</marquee>
 		<developer>만청당</developer>
 		<publisher>아이맥스</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19920104T000000</releasedate>
 	</game>
@@ -512,6 +593,7 @@
 		<marquee>./marquee/Boxyboy (USA).png</marquee>
 		<developer>NEC</developer>
 		<publisher>미디어링</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19900101T000000</releasedate>
 	</game>
@@ -523,6 +605,7 @@
 		<marquee>./marquee/Bravoman (USA).png</marquee>
 		<developer>나우 프로덕션</developer>
 		<publisher>터보 테크놀리지</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19900101T000000</releasedate>
 	</game>
@@ -534,6 +617,7 @@
 		<marquee>./marquee/Break In (Japan).png</marquee>
 		<developer>낙삿 소프트</developer>
 		<publisher>낙삿 소프트</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19890810T000000</releasedate>
 	</game>
@@ -545,6 +629,7 @@
 		<marquee>./marquee/Bubblegum Crash! - Knight Sabers 2034 (Japan).png</marquee>
 		<developer>스피엘</developer>
 		<publisher>낙삿 소프트</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19911206T000000</releasedate>
 	</game>
@@ -556,6 +641,7 @@
 		<marquee>./marquee/Bull Fight - Ring no Hasha (Japan).png</marquee>
 		<developer>크림</developer>
 		<publisher>크림</publisher>
+		<genre/>
 		<players>8</players>
 		<releasedate>19891208T000000</releasedate>
 	</game>
@@ -567,6 +653,7 @@
 		<marquee>./marquee/Burning Angels (Japan).png</marquee>
 		<developer>잡</developer>
 		<publisher>낙삿 소프트</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19901207T000000</releasedate>
 	</game>
@@ -578,6 +665,7 @@
 		<marquee>./marquee/Busou Keiji - Cyber Cross (Japan).png</marquee>
 		<developer>페이스</developer>
 		<publisher>페이스</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19890623T000000</releasedate>
 	</game>
@@ -589,6 +677,7 @@
 		<marquee>./marquee/Cadash (Japan).png</marquee>
 		<developer>타이토</developer>
 		<publisher>워킹 디자인</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19910118T000000</releasedate>
 	</game>
@@ -600,6 +689,7 @@
 		<marquee>./marquee/Cadash (USA).png</marquee>
 		<developer>타이토</developer>
 		<publisher>워킹 디자인</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19910101T000000</releasedate>
 	</game>
@@ -611,6 +701,7 @@
 		<marquee>./marquee/Champion Wrestler (Japan).png</marquee>
 		<developer>타이토</developer>
 		<publisher>타이토</publisher>
+		<genre/>
 		<players>4</players>
 		<releasedate>19901214T000000</releasedate>
 	</game>
@@ -622,6 +713,7 @@
 		<marquee>./marquee/Champions Forever Boxing (USA).png</marquee>
 		<developer>디스팅티브 소프트웨어</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19910101T000000</releasedate>
 	</game>
@@ -633,6 +725,7 @@
 		<marquee>./marquee/Chase H.Q. (USA).png</marquee>
 		<developer/>
 		<publisher/>
+		<genre/>
 		<players/>
 		<releasedate/>
 	</game>
@@ -644,6 +737,7 @@
 		<marquee>./marquee/Chew-Man-Fu (USA).png</marquee>
 		<developer>나우 프로덕션</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19900101T000000</releasedate>
 	</game>
@@ -655,6 +749,7 @@
 		<marquee>./marquee/Chibi Maruko-chan - Quiz de Piihyara (Japan).png</marquee>
 		<developer>남코</developer>
 		<publisher>남코</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19920110T000000</releasedate>
 	</game>
@@ -666,6 +761,7 @@
 		<marquee>./marquee/Chikudenya Toubei - Kubikiri Yakata Yori (Japan).png</marquee>
 		<developer>낙삿 소프트</developer>
 		<publisher>낙삿 소프트</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19900126T000000</releasedate>
 	</game>
@@ -677,6 +773,7 @@
 		<marquee>./marquee/China Warrior (USA).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19890101T000000</releasedate>
 	</game>
@@ -688,6 +785,7 @@
 		<marquee>./marquee/Chouzetsurinjin Bravoman (Japan).png</marquee>
 		<developer>나우 프로덕션</developer>
 		<publisher>터보 테크놀리지</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19900713T000000</releasedate>
 	</game>
@@ -699,6 +797,7 @@
 		<marquee>./marquee/Circus Lido (Japan).png</marquee>
 		<developer>유니포스트</developer>
 		<publisher>유니포스트</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19910406T000000</releasedate>
 	</game>
@@ -710,17 +809,19 @@
 		<marquee>./marquee/City Hunter (Japan).png</marquee>
 		<developer>선소프트</developer>
 		<publisher>선소프트</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19900302T000000</releasedate>
 	</game>
 	<game>
 		<path>./Columns (Japan).zip</path>
-		<name>컬럼즈 (일본판)</name>
+		<name>컬럼스 (일본판)</name>
 		<image>./snap/Columns (Japan).png</image>
 		<video>./video/Columns (Japan).mp4</video>
 		<marquee>./marquee/Columns (Japan).png</marquee>
 		<developer>레이져 소프트</developer>
 		<publisher>레이져 소프트</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19910329T000000</releasedate>
 	</game>
@@ -732,6 +833,7 @@
 		<marquee>./marquee/Coryoon - Child of Dragon (Japan).png</marquee>
 		<developer>낙삿 소프트</developer>
 		<publisher>낙삿 소프트</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19911129T000000</releasedate>
 	</game>
@@ -743,6 +845,7 @@
 		<marquee>./marquee/Cratermaze (USA).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19900101T000000</releasedate>
 	</game>
@@ -754,6 +857,7 @@
 		<marquee>./marquee/Cross Wiber - Cyber Combat Police (Japan).png</marquee>
 		<developer>참근도</developer>
 		<publisher>페이스</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19901221T000000</releasedate>
 	</game>
@@ -765,6 +869,7 @@
 		<marquee>./marquee/Cyber Core (Japan).png</marquee>
 		<developer>알파 시스템</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19900309T000000</releasedate>
 	</game>
@@ -776,6 +881,7 @@
 		<marquee>./marquee/Cyber Core (USA).png</marquee>
 		<developer>알파 시스템</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19900101T000000</releasedate>
 	</game>
@@ -787,6 +893,7 @@
 		<marquee>./marquee/Cyber Dodge (Japan).png</marquee>
 		<developer>토킨하우스</developer>
 		<publisher>토킨하우스</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19920131T000000</releasedate>
 	</game>
@@ -798,6 +905,7 @@
 		<marquee>./marquee/Cyber Knight (Japan).png</marquee>
 		<developer>컴파일</developer>
 		<publisher>토킨하우스</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19901012T000000</releasedate>
 	</game>
@@ -809,8 +917,21 @@
 		<marquee>./marquee/Daichi-kun Crisis - Do Natural (Japan).png</marquee>
 		<developer>살리오</developer>
 		<publisher>살리오</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19891122T000000</releasedate>
+	</game>
+	<game>
+		<path>./Daimakaimura (Japan).zip</path>
+		<name>대마계촌 (일본판)</name>
+		<image>./snap/Daimakaimura (Japan).png</image>
+		<video>./video/Daimakaimura (Japan).mp4</video>
+		<marquee>./marquee/Daimakaimura (Japan).png</marquee>
+		<developer>캡콤</developer>
+		<publisher>NEC</publisher>
+		<genre/>
+		<players>2</players>
+		<releasedate>19900727T000000</releasedate>
 	</game>
 	<game>
 		<path>./Daisenpuu (Japan).zip</path>
@@ -820,6 +941,7 @@
 		<marquee>./marquee/Daisenpuu (Japan).png</marquee>
 		<developer>토아플랜</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19901214T000000</releasedate>
 	</game>
@@ -831,6 +953,7 @@
 		<marquee>./marquee/Darius Alpha (Japan) (SG Enhanced).png</marquee>
 		<developer>비츠 랩</developer>
 		<publisher>NEC 인터채널</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19900101T000000</releasedate>
 	</game>
@@ -842,6 +965,7 @@
 		<marquee>./marquee/Darius Plus (Japan) (SG Enhanced).png</marquee>
 		<developer>비츠 랩</developer>
 		<publisher>NEC 인터채널</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19900921T000000</releasedate>
 	</game>
@@ -853,6 +977,7 @@
 		<marquee>./marquee/Darkwing Duck (USA).png</marquee>
 		<developer>터보 테크놀리지</developer>
 		<publisher>래디언스 소프트웨어</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19920101T000000</releasedate>
 	</game>
@@ -864,6 +989,7 @@
 		<marquee>./marquee/Davis Cup Tennis (USA).png</marquee>
 		<developer>로리시엘</developer>
 		<publisher>마이크로 월드</publisher>
+		<genre/>
 		<players/>
 		<releasedate>19910101T000000</releasedate>
 	</game>
@@ -875,6 +1001,7 @@
 		<marquee>./marquee/Dead Moon (USA).png</marquee>
 		<developer>스튜디오 덕스</developer>
 		<publisher>나츠메</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19920101T000000</releasedate>
 	</game>
@@ -886,6 +1013,7 @@
 		<marquee>./marquee/Dead Moon - Getsu Sekai no Akumu (Japan).png</marquee>
 		<developer>스튜디오 덕스</developer>
 		<publisher>나츠메</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19910222T000000</releasedate>
 	</game>
@@ -897,6 +1025,7 @@
 		<marquee>./marquee/Deep Blue (USA).png</marquee>
 		<developer>팩인 비디오</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19900101T000000</releasedate>
 	</game>
@@ -908,6 +1037,7 @@
 		<marquee>./marquee/Deep Blue - Kaitei Shinwa (Japan).png</marquee>
 		<developer>팩인 비디오</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19890331T000000</releasedate>
 	</game>
@@ -919,6 +1049,7 @@
 		<marquee>./marquee/Detana!! TwinBee (Japan).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19920228T000000</releasedate>
 	</game>
@@ -930,6 +1061,7 @@
 		<marquee>./marquee/Devil Crash - Naxat Pinball (Japan).png</marquee>
 		<developer>컴파일</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19900720T000000</releasedate>
 	</game>
@@ -941,6 +1073,7 @@
 		<marquee>./marquee/Devil's Crush (USA).png</marquee>
 		<developer>컴파일</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19900101T000000</releasedate>
 	</game>
@@ -952,6 +1085,7 @@
 		<marquee>./marquee/Die Hard (Japan).png</marquee>
 		<developer>팩인 비디오</developer>
 		<publisher>NEC 인터채널</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19900928T000000</releasedate>
 	</game>
@@ -963,6 +1097,7 @@
 		<marquee>./marquee/Digital Champ (Japan).png</marquee>
 		<developer>낙삿 소프트</developer>
 		<publisher>낙삿 소프트</publisher>
+		<genre/>
 		<players/>
 		<releasedate>19891013T000000</releasedate>
 	</game>
@@ -974,6 +1109,7 @@
 		<marquee>./marquee/Don Doko Don! (Japan).png</marquee>
 		<developer>타이토</developer>
 		<publisher>타이토</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19900531T000000</releasedate>
 	</game>
@@ -985,6 +1121,7 @@
 		<marquee>./marquee/Doraemon - Meikyuu Daisakusen (Japan).png</marquee>
 		<developer>일본 물산</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19891031T000000</releasedate>
 	</game>
@@ -996,6 +1133,7 @@
 		<marquee>./marquee/Doraemon - Nobita no Dorabian Night (Japan).png</marquee>
 		<developer>나우 프로덕션</developer>
 		<publisher>허드슨</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19911206T000000</releasedate>
 	</game>
@@ -1007,6 +1145,7 @@
 		<marquee>./marquee/Double Dungeons (Japan).png</marquee>
 		<developer>NCS</developer>
 		<publisher>마사야</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19890929T000000</releasedate>
 	</game>
@@ -1018,6 +1157,7 @@
 		<marquee>./marquee/Double Dungeons (USA).png</marquee>
 		<developer>NCS</developer>
 		<publisher>마사야</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19900101T000000</releasedate>
 	</game>
@@ -1029,6 +1169,7 @@
 		<marquee>./marquee/Download (Japan).png</marquee>
 		<developer>알파 시스템</developer>
 		<publisher>NEC 인터채널</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19900622T000000</releasedate>
 	</game>
@@ -1040,17 +1181,19 @@
 		<marquee>./marquee/Dragon Egg! (Japan).png</marquee>
 		<developer>마사야</developer>
 		<publisher>NCS</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19910927T000000</releasedate>
 	</game>
 	<game>
-		<path>./Dragon Saber - After Story of Dragon Spirit (Japan).zip</path>
+		<path>./Dragon Saber (Japan).zip</path>
 		<name>드래곤 세이버 (일본판)</name>
-		<image>./snap/Dragon Saber - After Story of Dragon Spirit (Japan).png</image>
-		<video>./video/Dragon Saber - After Story of Dragon Spirit (Japan).mp4</video>
-		<marquee>./marquee/Dragon Saber - After Story of Dragon Spirit (Japan).png</marquee>
+		<image>./snap/Dragon Saber (Japan).png</image>
+		<video>./video/Dragon Saber (Japan).mp4</video>
+		<marquee>./marquee/Dragon Saber (Japan).png</marquee>
 		<developer>남코</developer>
 		<publisher>남코</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19911227T000000</releasedate>
 	</game>
@@ -1062,6 +1205,7 @@
 		<marquee>./marquee/Dragon Spirit (Japan).png</marquee>
 		<developer>남코</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19881226T000000</releasedate>
 	</game>
@@ -1073,6 +1217,7 @@
 		<marquee>./marquee/Dragon Spirit (USA).png</marquee>
 		<developer>남코</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19890101T000000</releasedate>
 	</game>
@@ -1084,6 +1229,7 @@
 		<marquee>./marquee/Dragon's Curse (USA).png</marquee>
 		<developer>웨스톤</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19901231T000000</releasedate>
 	</game>
@@ -1095,6 +1241,7 @@
 		<marquee>./marquee/Drop Off (USA).png</marquee>
 		<developer>데이터 이스트</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19900101T000000</releasedate>
 	</game>
@@ -1106,6 +1253,7 @@
 		<marquee>./marquee/Drop Rock Hora Hora (Japan).png</marquee>
 		<developer>데이터 이스트</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19900330T000000</releasedate>
 	</game>
@@ -1117,6 +1265,7 @@
 		<marquee>./marquee/Dungeon Explorer (Japan).png</marquee>
 		<developer>아틀러스</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>5</players>
 		<releasedate>19890304T000000</releasedate>
 	</game>
@@ -1128,6 +1277,7 @@
 		<marquee>./marquee/Dungeon Explorer (USA).png</marquee>
 		<developer>아틀러스</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>5</players>
 		<releasedate>19890101T000000</releasedate>
 	</game>
@@ -1139,6 +1289,7 @@
 		<marquee>./marquee/Dungeons &amp; Dragons - Order of the Griffon (USA).png</marquee>
 		<developer/>
 		<publisher/>
+		<genre/>
 		<players/>
 		<releasedate/>
 	</game>
@@ -1150,6 +1301,7 @@
 		<marquee>./marquee/Energy (Japan).png</marquee>
 		<developer>퀘이자 소프트</developer>
 		<publisher>NCS</publisher>
+		<genre/>
 		<players>5</players>
 		<releasedate>19890419T000000</releasedate>
 	</game>
@@ -1161,6 +1313,7 @@
 		<marquee>./marquee/Eternal City - Toshi Tensou Keikaku (Japan).png</marquee>
 		<developer>낙삿 소프트</developer>
 		<publisher>낙삿 소프트</publisher>
+		<genre/>
 		<players/>
 		<releasedate>19910412T000000</releasedate>
 	</game>
@@ -1172,6 +1325,7 @@
 		<marquee>./marquee/F-1 Dream (Japan).png</marquee>
 		<developer>NEC 인터채널</developer>
 		<publisher>NEC 인터채널</publisher>
+		<genre/>
 		<players/>
 		<releasedate>19890825T000000</releasedate>
 	</game>
@@ -1183,17 +1337,19 @@
 		<marquee>./marquee/F-1 Pilot - You're King of Kings (Japan).png</marquee>
 		<developer>팩인 비디오</developer>
 		<publisher>팩인 비디오</publisher>
+		<genre/>
 		<players/>
 		<releasedate>19890323T000000</releasedate>
 	</game>
 	<game>
-		<path>./F1 Circus '91 - World Championship (Japan).zip</path>
-		<name>F1 서커스 91 - 월드 챔피언십 (일본판)</name>
-		<image>./snap/F1 Circus '91 - World Championship (Japan).png</image>
-		<video>./video/F1 Circus '91 - World Championship (Japan).mp4</video>
-		<marquee>./marquee/F1 Circus '91 - World Championship (Japan).png</marquee>
+		<path>./F1 Circus '91 (Japan).zip</path>
+		<name>F1 서커스 91 (일본판)</name>
+		<image>./snap/F1 Circus '91 (Japan).png</image>
+		<video>./video/F1 Circus '91 (Japan).mp4</video>
+		<marquee>./marquee/F1 Circus '91 (Japan).png</marquee>
 		<developer>일본 물산</developer>
 		<publisher>일본물산</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19910712T000000</releasedate>
 	</game>
@@ -1205,6 +1361,7 @@
 		<marquee>./marquee/F1 Circus '92 - The Speed of Sound (Japan).png</marquee>
 		<developer>일본 물산</developer>
 		<publisher>일본물산</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19921218T000000</releasedate>
 	</game>
@@ -1216,6 +1373,7 @@
 		<marquee>./marquee/F1 Circus (Japan).png</marquee>
 		<developer>일본 물산</developer>
 		<publisher>일본물산</publisher>
+		<genre/>
 		<players>5</players>
 		<releasedate>19900914T000000</releasedate>
 	</game>
@@ -1227,6 +1385,7 @@
 		<marquee>./marquee/F1 Triple Battle (Japan).png</marquee>
 		<developer>휴먼</developer>
 		<publisher>휴먼</publisher>
+		<genre/>
 		<players>3</players>
 		<releasedate>19891227T000000</releasedate>
 	</game>
@@ -1238,6 +1397,7 @@
 		<marquee>./marquee/Falcon (USA).png</marquee>
 		<developer>스펙트럼 홀로바이츠</developer>
 		<publisher>스펙트럼 홀로바이츠</publisher>
+		<genre/>
 		<players/>
 		<releasedate>19920101T000000</releasedate>
 	</game>
@@ -1249,6 +1409,7 @@
 		<marquee>./marquee/Fantasy Zone (Japan).png</marquee>
 		<developer>비츠 랩</developer>
 		<publisher>NEC 인터채널</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19881014T000000</releasedate>
 	</game>
@@ -1260,6 +1421,7 @@
 		<marquee>./marquee/Fantasy Zone (USA).png</marquee>
 		<developer>비츠 랩</developer>
 		<publisher>NEC 인터채널</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19890101T000000</releasedate>
 	</game>
@@ -1271,6 +1433,7 @@
 		<marquee>./marquee/Fighting Run (Japan).png</marquee>
 		<developer>일본 물산</developer>
 		<publisher>일본 물산</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19911129T000000</releasedate>
 	</game>
@@ -1282,6 +1445,7 @@
 		<marquee>./marquee/Final Blaster (Japan).png</marquee>
 		<developer>아이시스템 토쿄</developer>
 		<publisher>남코</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19900928T000000</releasedate>
 	</game>
@@ -1293,6 +1457,7 @@
 		<marquee>./marquee/Final Lap Twin (Japan).png</marquee>
 		<developer>NEC 인터채널</developer>
 		<publisher>남코</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19890707T000000</releasedate>
 	</game>
@@ -1304,6 +1469,7 @@
 		<marquee>./marquee/Final Lap Twin (USA).png</marquee>
 		<developer>NEC 인터채널</developer>
 		<publisher>남코</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19890101T000000</releasedate>
 	</game>
@@ -1315,6 +1481,7 @@
 		<marquee>./marquee/Final Match Tennis (Japan).png</marquee>
 		<developer>휴먼</developer>
 		<publisher>휴먼</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19910301T000000</releasedate>
 	</game>
@@ -1326,6 +1493,7 @@
 		<marquee>./marquee/Final Soldier (Japan) (En).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19910705T000000</releasedate>
 	</game>
@@ -1337,6 +1505,7 @@
 		<marquee>./marquee/Final Soldier - Special Version (Japan) (En).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19910705T000000</releasedate>
 	</game>
@@ -1348,6 +1517,7 @@
 		<marquee>./marquee/Fire Pro Wrestling - Combination Tag (Japan).png</marquee>
 		<developer>휴먼</developer>
 		<publisher>휴먼</publisher>
+		<genre/>
 		<players>4</players>
 		<releasedate>19890622T000000</releasedate>
 	</game>
@@ -1359,6 +1529,7 @@
 		<marquee>./marquee/Fire Pro Wrestling 2 - 2nd Bout (Japan).png</marquee>
 		<developer/>
 		<publisher/>
+		<genre/>
 		<players>4</players>
 		<releasedate>19910830T000000</releasedate>
 	</game>
@@ -1370,6 +1541,7 @@
 		<marquee>./marquee/Fire Pro Wrestling 3 - Legend Bout (Japan).png</marquee>
 		<developer/>
 		<publisher/>
+		<genre/>
 		<players>4</players>
 		<releasedate>19921113T000000</releasedate>
 	</game>
@@ -1381,6 +1553,7 @@
 		<marquee>./marquee/Formation Soccer - Human Cup '90 (Japan).png</marquee>
 		<developer>휴먼</developer>
 		<publisher>휴먼</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19900427T000000</releasedate>
 	</game>
@@ -1392,6 +1565,7 @@
 		<marquee>./marquee/Formation Soccer - On J League (Japan).png</marquee>
 		<developer>휴먼</developer>
 		<publisher>휴먼</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19940115T000000</releasedate>
 	</game>
@@ -1403,6 +1577,7 @@
 		<marquee>./marquee/Fushigi no Yume no Alice (Japan).png</marquee>
 		<developer>페이스</developer>
 		<publisher>페이스</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19901207T000000</releasedate>
 	</game>
@@ -1414,6 +1589,7 @@
 		<marquee>./marquee/Gai Flame (Japan).png</marquee>
 		<developer>마사야</developer>
 		<publisher/>
+		<genre/>
 		<players>1</players>
 		<releasedate>19900126T000000</releasedate>
 	</game>
@@ -1425,6 +1601,7 @@
 		<marquee>./marquee/Gaia no Monshou (Japan).png</marquee>
 		<developer>NCS</developer>
 		<publisher>NCS</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19880923T000000</releasedate>
 	</game>
@@ -1436,6 +1613,7 @@
 		<marquee>./marquee/Galaga '88 (Japan).png</marquee>
 		<developer>남코</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19880715T000000</releasedate>
 	</game>
@@ -1447,6 +1625,7 @@
 		<marquee>./marquee/Galaga '90 (USA).png</marquee>
 		<developer>남코</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19890101T000000</releasedate>
 	</game>
@@ -1458,6 +1637,7 @@
 		<marquee>./marquee/Ganbare! Golf Boys (Japan).png</marquee>
 		<developer>NCS</developer>
 		<publisher>NCS</publisher>
+		<genre/>
 		<players>4</players>
 		<releasedate>19890328T000000</releasedate>
 	</game>
@@ -1469,6 +1649,7 @@
 		<marquee>./marquee/Gekisha Boy (Japan).png</marquee>
 		<developer>톰캣 시스템</developer>
 		<publisher>아이렘</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19921002T000000</releasedate>
 	</game>
@@ -1480,6 +1661,7 @@
 		<marquee>./marquee/Genji Tsuushin Agedama (Japan).png</marquee>
 		<developer>NEC</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19911213T000000</releasedate>
 	</game>
@@ -1491,6 +1673,7 @@
 		<marquee>./marquee/Genpei Toumaden (Japan).png</marquee>
 		<developer>남코</developer>
 		<publisher>남코</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19920407T000000</releasedate>
 	</game>
@@ -1502,6 +1685,7 @@
 		<marquee>./marquee/Genpei Toumaden - Kan no Ni (Japan).png</marquee>
 		<developer>남코</developer>
 		<publisher>남코</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19920407T000000</releasedate>
 	</game>
@@ -1513,6 +1697,7 @@
 		<marquee>./marquee/Ghost Manor (USA).png</marquee>
 		<developer>아이콤</developer>
 		<publisher>터보 테크놀리지</publisher>
+		<genre/>
 		<players/>
 		<releasedate>19920101T000000</releasedate>
 	</game>
@@ -1524,6 +1709,7 @@
 		<marquee>./marquee/Gokuraku! Chuuka Taisen (Japan).png</marquee>
 		<developer>대영 제작소</developer>
 		<publisher>타이토</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19920313T000000</releasedate>
 	</game>
@@ -1535,6 +1721,7 @@
 		<marquee>./marquee/Gomola Speed (Japan).png</marquee>
 		<developer>UPL</developer>
 		<publisher>UPL</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19900928T000000</releasedate>
 	</game>
@@ -1546,6 +1733,7 @@
 		<marquee>./marquee/Gradius (Japan).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19911115T000000</releasedate>
 	</game>
@@ -1557,6 +1745,7 @@
 		<marquee>./marquee/Gunboat (USA).png</marquee>
 		<developer>어콜레이드</developer>
 		<publisher>어콜레이드</publisher>
+		<genre/>
 		<players/>
 		<releasedate>19920101T000000</releasedate>
 	</game>
@@ -1568,6 +1757,7 @@
 		<marquee>./marquee/Gunhed (Japan).png</marquee>
 		<developer>컴파일</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19890707T000000</releasedate>
 	</game>
@@ -1579,6 +1769,7 @@
 		<marquee>./marquee/Gunhed - Special Version (Japan).png</marquee>
 		<developer>컴파일</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19890707T000000</releasedate>
 	</game>
@@ -1590,6 +1781,7 @@
 		<marquee>./marquee/Hana Taaka Daka! (Japan).png</marquee>
 		<developer>타이토</developer>
 		<publisher>타이토</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19910809T000000</releasedate>
 	</game>
@@ -1601,6 +1793,7 @@
 		<marquee>./marquee/Hanii in the Sky (Japan).png</marquee>
 		<developer>페이스</developer>
 		<publisher>페이스</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19890301T000000</releasedate>
 	</game>
@@ -1612,6 +1805,7 @@
 		<marquee>./marquee/Hanii on the Road (Japan).png</marquee>
 		<developer>페이스</developer>
 		<publisher>페이스</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19900914T000000</releasedate>
 	</game>
@@ -1623,6 +1817,7 @@
 		<marquee>./marquee/Hatris (Japan).png</marquee>
 		<developer>마이크로캐빈</developer>
 		<publisher>마이크로캐빈</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19910524T000000</releasedate>
 	</game>
@@ -1634,6 +1829,7 @@
 		<marquee>./marquee/Heavy Unit (Japan).png</marquee>
 		<developer>인터스테이트</developer>
 		<publisher>타이토</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19891222T000000</releasedate>
 	</game>
@@ -1645,6 +1841,7 @@
 		<marquee>./marquee/Hisou Kihei X-Serd (Japan).png</marquee>
 		<developer>NCS</developer>
 		<publisher>NCS</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19900223T000000</releasedate>
 	</game>
@@ -1656,6 +1853,7 @@
 		<marquee>./marquee/Hit the Ice - VHL - The Official Video Hockey League (USA).png</marquee>
 		<developer>타이토</developer>
 		<publisher>타이토</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19920101T000000</releasedate>
 	</game>
@@ -1667,6 +1865,7 @@
 		<marquee>./marquee/Hit the Ice - VHL - The Video Hockey League (Japan).png</marquee>
 		<developer>타이토</developer>
 		<publisher>타이토</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19920101T000000</releasedate>
 	</game>
@@ -1678,6 +1877,7 @@
 		<marquee>./marquee/Honoo no Toukyuuji - Dodge Danpei (Japan).png</marquee>
 		<developer>에임 소프트웨어</developer>
 		<publisher>허드슨</publisher>
+		<genre/>
 		<players/>
 		<releasedate>19920925T000000</releasedate>
 	</game>
@@ -1689,6 +1889,7 @@
 		<marquee>./marquee/Idol Hanafuda Fan Club (Japan) (Unl).png</marquee>
 		<developer/>
 		<publisher/>
+		<genre/>
 		<players>1</players>
 		<releasedate>19910101T000000</releasedate>
 	</game>
@@ -1700,6 +1901,7 @@
 		<marquee>./marquee/Image Fight (Japan).png</marquee>
 		<developer>아이렘</developer>
 		<publisher>아이렘</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19900727T000000</releasedate>
 	</game>
@@ -1711,6 +1913,7 @@
 		<marquee>./marquee/Impossamole (USA).png</marquee>
 		<developer>NEC 인터채널</developer>
 		<publisher>코어디자인</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19910101T000000</releasedate>
 	</game>
@@ -1722,6 +1925,7 @@
 		<marquee>./marquee/J.J. &amp; Jeff (USA).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>NEC 인터채널</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19900101T000000</releasedate>
 	</game>
@@ -1733,6 +1937,7 @@
 		<marquee>./marquee/J.League Greatest Eleven (Japan).png</marquee>
 		<developer>크림</developer>
 		<publisher>일본물산</publisher>
+		<genre/>
 		<players/>
 		<releasedate>19930514T000000</releasedate>
 	</game>
@@ -1744,6 +1949,7 @@
 		<marquee>./marquee/Jack Nicklaus - Championship Golf (Japan).png</marquee>
 		<developer/>
 		<publisher/>
+		<genre/>
 		<players>4</players>
 		<releasedate>19891124T000000</releasedate>
 	</game>
@@ -1755,6 +1961,7 @@
 		<marquee>./marquee/Jack Nicklaus' Turbo Golf (USA).png</marquee>
 		<developer/>
 		<publisher/>
+		<genre/>
 		<players>4</players>
 		<releasedate>19900101T000000</releasedate>
 	</game>
@@ -1766,6 +1973,7 @@
 		<marquee>./marquee/Jackie Chan (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19910118T000000</releasedate>
 	</game>
@@ -1777,6 +1985,7 @@
 		<marquee>./marquee/Jackie Chan's Action Kung Fu (USA).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19920101T000000</releasedate>
 	</game>
@@ -1788,6 +1997,7 @@
 		<marquee>./marquee/Jaseiken Necromancer (Japan) (Virtual Console).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19880122T000000</releasedate>
 	</game>
@@ -1799,6 +2009,7 @@
 		<marquee>./marquee/Jaseiken Necromancer (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19880122T000000</releasedate>
 	</game>
@@ -1810,6 +2021,7 @@
 		<marquee>./marquee/Jigoku Meguri (Japan).png</marquee>
 		<developer>타이토</developer>
 		<publisher>타이토</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19900803T000000</releasedate>
 	</game>
@@ -1821,6 +2033,7 @@
 		<marquee>./marquee/Jinmu Denshou (Japan).png</marquee>
 		<developer>빅 클럽</developer>
 		<publisher>울프 팀</publisher>
+		<genre/>
 		<players/>
 		<releasedate>19890623T000000</releasedate>
 	</game>
@@ -1832,6 +2045,7 @@
 		<marquee>./marquee/Juuouki (Japan).png</marquee>
 		<developer>세가</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19890929T000000</releasedate>
 	</game>
@@ -1843,6 +2057,7 @@
 		<marquee>./marquee/Kaizou Choujin Shubibinman (Japan).png</marquee>
 		<developer/>
 		<publisher>마사야</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19890318T000000</releasedate>
 	</game>
@@ -1854,6 +2069,7 @@
 		<marquee>./marquee/Kaizou Choujin Shubibinman 2 - Aratanaru Teki (Japan).png</marquee>
 		<developer>윈드</developer>
 		<publisher>NCS</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19910426T000000</releasedate>
 	</game>
@@ -1865,6 +2081,7 @@
 		<marquee>./marquee/Kato-chan Ken-chan (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>NEC 인터채널</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19871130T000000</releasedate>
 	</game>
@@ -1876,6 +2093,7 @@
 		<marquee>./marquee/Kattobi! Takuhai-kun (Japan).png</marquee>
 		<developer>어드벤스 커뮤니케이션 컴퍼니</developer>
 		<publisher>토킨하우스</publisher>
+		<genre/>
 		<players/>
 		<releasedate>19901109T000000</releasedate>
 	</game>
@@ -1887,6 +2105,7 @@
 		<marquee>./marquee/Keith Courage in Alpha Zones (USA).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19890101T000000</releasedate>
 	</game>
@@ -1898,6 +2117,7 @@
 		<marquee>./marquee/KickBall (Japan).png</marquee>
 		<developer>듀얼</developer>
 		<publisher>NCS</publisher>
+		<genre/>
 		<players/>
 		<releasedate>19901124T000000</releasedate>
 	</game>
@@ -1909,6 +2129,7 @@
 		<marquee>./marquee/Kiki Kaikai (Japan).png</marquee>
 		<developer>타이토</developer>
 		<publisher>타이토</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19900327T000000</releasedate>
 	</game>
@@ -1920,6 +2141,7 @@
 		<marquee>./marquee/King of Casino (Japan).png</marquee>
 		<developer>NEC</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>5</players>
 		<releasedate>19900330T000000</releasedate>
 	</game>
@@ -1931,6 +2153,7 @@
 		<marquee>./marquee/King of Casino (USA).png</marquee>
 		<developer>NEC</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>5</players>
 		<releasedate>19900101T000000</releasedate>
 	</game>
@@ -1942,6 +2165,7 @@
 		<marquee>./marquee/Klax (Japan).png</marquee>
 		<developer>아타리</developer>
 		<publisher>덴젠</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19900810T000000</releasedate>
 	</game>
@@ -1953,6 +2177,7 @@
 		<marquee>./marquee/Klax (USA).png</marquee>
 		<developer>아타리</developer>
 		<publisher>덴젠</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19900101T000000</releasedate>
 	</game>
@@ -1964,6 +2189,7 @@
 		<marquee>./marquee/Knight Rider Special (Japan).png</marquee>
 		<developer>팩인 비디오</developer>
 		<publisher>팩인 비디오</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19891222T000000</releasedate>
 	</game>
@@ -1975,6 +2201,7 @@
 		<marquee>./marquee/Kore ga Pro Yakyuu '89 (Japan).png</marquee>
 		<developer>토세</developer>
 		<publisher>인텍</publisher>
+		<genre/>
 		<players/>
 		<releasedate>19891220T000000</releasedate>
 	</game>
@@ -1986,6 +2213,7 @@
 		<marquee>./marquee/Kore ga Pro Yakyuu '90 (Japan).png</marquee>
 		<developer>토세</developer>
 		<publisher>인텍</publisher>
+		<genre/>
 		<players/>
 		<releasedate>19900629T000000</releasedate>
 	</game>
@@ -1997,6 +2225,7 @@
 		<marquee>./marquee/Kung Fu, The (Japan) (Virtual Console).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19871121T000000</releasedate>
 	</game>
@@ -2008,6 +2237,7 @@
 		<marquee>./marquee/Kung Fu, The (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19871121T000000</releasedate>
 	</game>
@@ -2019,6 +2249,7 @@
 		<marquee>./marquee/Kyuukyoku Mahjong - Idol Graphics (Japan) (Unl).png</marquee>
 		<developer>게임익스프레스</developer>
 		<publisher>게임익스프레스</publisher>
+		<genre/>
 		<players/>
 		<releasedate/>
 	</game>
@@ -2030,6 +2261,7 @@
 		<marquee>./marquee/Kyuukyoku Mahjong II (Japan) (Unl).png</marquee>
 		<developer>게임익스프레스</developer>
 		<publisher>게임익스프레스</publisher>
+		<genre/>
 		<players/>
 		<releasedate/>
 	</game>
@@ -2041,6 +2273,7 @@
 		<marquee>./marquee/Kyuukyoku Tiger (Japan).png</marquee>
 		<developer>토아플랜</developer>
 		<publisher>타이토</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19890331T000000</releasedate>
 	</game>
@@ -2052,6 +2285,7 @@
 		<marquee>./marquee/Lady Sword - Ryakudatsu Sareta 10-nin no Otome (Japan) (Unl).png</marquee>
 		<developer>해커 인터네셔널</developer>
 		<publisher>게임익스프레스</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19920101T000000</releasedate>
 	</game>
@@ -2063,6 +2297,7 @@
 		<marquee>./marquee/Legend of Hero Tonma (Japan).png</marquee>
 		<developer>아이렘</developer>
 		<publisher>아이렘</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19910313T000000</releasedate>
 	</game>
@@ -2074,6 +2309,7 @@
 		<marquee>./marquee/Legend of Hero Tonma (USA).png</marquee>
 		<developer>아이렘</developer>
 		<publisher>아이렘</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19930101T000000</releasedate>
 	</game>
@@ -2085,6 +2321,7 @@
 		<marquee>./marquee/Legendary Axe II (USA).png</marquee>
 		<developer>아틀러스</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19900101T000000</releasedate>
 	</game>
@@ -2096,6 +2333,7 @@
 		<marquee>./marquee/Legendary Axe, The (USA).png</marquee>
 		<developer>마블러스 인터랙티브</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19890101T000000</releasedate>
 	</game>
@@ -2107,8 +2345,21 @@
 		<marquee>./marquee/Lode Runner - Lost Labyrinth (Japan).png</marquee>
 		<developer>브로드번드</developer>
 		<publisher>팩인 비디오</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19900727T000000</releasedate>
+	</game>
+	<game>
+		<path>./Madou King Granzort (Japan).zip</path>
+		<name>마동왕 슈퍼 그랑죠 (일본판)</name>
+		<image>./snap/Madou King Granzort (Japan).png</image>
+		<video>./video/Madou King Granzort (Japan).mp4</video>
+		<marquee>./marquee/Madou King Granzort (Japan).png</marquee>
+		<developer>선라이즈</developer>
+		<publisher>허드슨</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>19900406T000000</releasedate>
 	</game>
 	<game>
 		<path>./Maerchen Maze (Japan).zip</path>
@@ -2118,6 +2369,7 @@
 		<marquee>./marquee/Maerchen Maze (Japan).png</marquee>
 		<developer/>
 		<publisher/>
+		<genre/>
 		<players>1</players>
 		<releasedate>19901211T000000</releasedate>
 	</game>
@@ -2129,6 +2381,7 @@
 		<marquee>./marquee/Magical Chase (Japan).png</marquee>
 		<developer>퀘스트</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19911115T000000</releasedate>
 	</game>
@@ -2140,6 +2393,7 @@
 		<marquee>./marquee/Magical Chase (USA).png</marquee>
 		<developer>퀘스트</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19930101T000000</releasedate>
 	</game>
@@ -2151,6 +2405,7 @@
 		<marquee>./marquee/Mahjong Gakuen - Touma Soushirou Toujou (Japan).png</marquee>
 		<developer>참근도</developer>
 		<publisher>페이스</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19891124T000000</releasedate>
 	</game>
@@ -2162,6 +2417,7 @@
 		<marquee>./marquee/Mahjong Gakuen Mild - Touma Soushirou Toujou (Japan).png</marquee>
 		<developer>참근도</developer>
 		<publisher>페이스</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19900629T000000</releasedate>
 	</game>
@@ -2173,6 +2429,7 @@
 		<marquee>./marquee/Mahjong Gokuu Special (Japan).png</marquee>
 		<developer>선소프트</developer>
 		<publisher>선소프트</publisher>
+		<genre/>
 		<players/>
 		<releasedate>19900810T000000</releasedate>
 	</game>
@@ -2184,6 +2441,7 @@
 		<marquee>./marquee/Mahjong Haouden - Kaiser's Quest (Japan).png</marquee>
 		<developer>UPL</developer>
 		<publisher>UPL</publisher>
+		<genre/>
 		<players/>
 		<releasedate>19920228T000000</releasedate>
 	</game>
@@ -2195,6 +2453,7 @@
 		<marquee>./marquee/Mahjong Shikaku Retsuden - Mahjong Wars (Japan).png</marquee>
 		<developer>일본물산</developer>
 		<publisher>일본물산</publisher>
+		<genre/>
 		<players/>
 		<releasedate>19900201T000000</releasedate>
 	</game>
@@ -2206,6 +2465,7 @@
 		<marquee>./marquee/Maison Ikkoku (Japan).png</marquee>
 		<developer>마이크로캐빈</developer>
 		<publisher>마이크로캐빈</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19890804T000000</releasedate>
 	</game>
@@ -2217,6 +2477,7 @@
 		<marquee>./marquee/Makai Hakkenden Shada (Japan).png</marquee>
 		<developer/>
 		<publisher/>
+		<genre/>
 		<players>1</players>
 		<releasedate>19890401T000000</releasedate>
 	</game>
@@ -2228,6 +2489,7 @@
 		<marquee>./marquee/Makai Prince Dorabocchan (Japan).png</marquee>
 		<developer>레드 컴퍼니</developer>
 		<publisher>낙삿 소프트</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19901221T000000</releasedate>
 	</game>
@@ -2239,6 +2501,7 @@
 		<marquee>./marquee/Makyou Densetsu (Japan).png</marquee>
 		<developer>마블러스 인터랙티브</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19880923T000000</releasedate>
 	</game>
@@ -2250,6 +2513,7 @@
 		<marquee>./marquee/Maniac Pro Wres - Asu e no Tatakai (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19900525T000000</releasedate>
 	</game>
@@ -2261,6 +2525,7 @@
 		<marquee>./marquee/Mashin Eiyuuden Wataru (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19880830T000000</releasedate>
 	</game>
@@ -2272,6 +2537,7 @@
 		<marquee>./marquee/Mesopotamia (Japan).png</marquee>
 		<developer>아틀러스</developer>
 		<publisher>아틀러스</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19911004T000000</releasedate>
 	</game>
@@ -2283,6 +2549,7 @@
 		<marquee>./marquee/Metal Stoker (Japan).png</marquee>
 		<developer>참근도</developer>
 		<publisher>페이스</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19910712T000000</releasedate>
 	</game>
@@ -2294,6 +2561,7 @@
 		<marquee>./marquee/Military Madness (USA).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19890101T000000</releasedate>
 	</game>
@@ -2305,6 +2573,7 @@
 		<marquee>./marquee/Mizubaku Daibouken (Japan).png</marquee>
 		<developer>타이토</developer>
 		<publisher>타이토</publisher>
+		<genre/>
 		<players/>
 		<releasedate/>
 	</game>
@@ -2316,6 +2585,7 @@
 		<marquee>./marquee/Momotarou Densetsu Gaiden - Dai-1-shuu (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
+		<genre/>
 		<players/>
 		<releasedate>19921204T000000</releasedate>
 	</game>
@@ -2327,6 +2597,7 @@
 		<marquee>./marquee/Momotarou Densetsu II (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
+		<genre/>
 		<players/>
 		<releasedate>19901222T000000</releasedate>
 	</game>
@@ -2338,6 +2609,7 @@
 		<marquee>./marquee/Momotarou Densetsu Turbo (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19900720T000000</releasedate>
 	</game>
@@ -2349,6 +2621,7 @@
 		<marquee>./marquee/Momotarou Katsugeki (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19900921T000000</releasedate>
 	</game>
@@ -2360,6 +2633,7 @@
 		<marquee>./marquee/Monster Pro Wres (Japan).png</marquee>
 		<developer>리나</developer>
 		<publisher>ASK</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19911122T000000</releasedate>
 	</game>
@@ -2371,6 +2645,7 @@
 		<marquee>./marquee/Morita Shougi PC (Japan).png</marquee>
 		<developer>랜덤 하우스</developer>
 		<publisher>NEC 인터채널</publisher>
+		<genre/>
 		<players/>
 		<releasedate>19910927T000000</releasedate>
 	</game>
@@ -2382,6 +2657,7 @@
 		<marquee>./marquee/Moto Roader (Japan).png</marquee>
 		<developer>NCS</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>5</players>
 		<releasedate>19890223T000000</releasedate>
 	</game>
@@ -2393,6 +2669,7 @@
 		<marquee>./marquee/Moto Roader (USA).png</marquee>
 		<developer>NCS</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>5</players>
 		<releasedate>19890101T000000</releasedate>
 	</game>
@@ -2404,6 +2681,7 @@
 		<marquee>./marquee/Moto Roader II (Japan).png</marquee>
 		<developer>NCS</developer>
 		<publisher>NCS</publisher>
+		<genre/>
 		<players/>
 		<releasedate>19910329T000000</releasedate>
 	</game>
@@ -2415,6 +2693,7 @@
 		<marquee>./marquee/Mr. Heli no Daibouken (Japan).png</marquee>
 		<developer>아이렘</developer>
 		<publisher>아이렘</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19891201T000000</releasedate>
 	</game>
@@ -2426,6 +2705,7 @@
 		<marquee>./marquee/Narazumono Sentou Butai - Bloody Wolf (Japan).png</marquee>
 		<developer>데이터 이스트</developer>
 		<publisher>데이터 이스트</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19890901T000000</releasedate>
 	</game>
@@ -2437,6 +2717,7 @@
 		<marquee>./marquee/Naxat Open (Japan).png</marquee>
 		<developer>낙삿 소프트</developer>
 		<publisher>낙삿 소프트</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19890530T000000</releasedate>
 	</game>
@@ -2448,6 +2729,7 @@
 		<marquee>./marquee/Naxat Stadium (Japan).png</marquee>
 		<developer>스팅</developer>
 		<publisher>낙삿 소프트</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19901026T000000</releasedate>
 	</game>
@@ -2459,6 +2741,7 @@
 		<marquee>./marquee/Nazo no Mascarade (Japan).png</marquee>
 		<developer>리버힐 소프트</developer>
 		<publisher>NCS</publisher>
+		<genre/>
 		<players/>
 		<releasedate>19900302T000000</releasedate>
 	</game>
@@ -2470,6 +2753,7 @@
 		<marquee>./marquee/Necros no Yousai (Japan).png</marquee>
 		<developer>어드벤쳐 플래닝 서비스</developer>
 		<publisher>ASK</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19900420T000000</releasedate>
 	</game>
@@ -2481,6 +2765,7 @@
 		<marquee>./marquee/Nectaris (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19890209T000000</releasedate>
 	</game>
@@ -2492,6 +2777,7 @@
 		<marquee>./marquee/Nekketsu Koukou Dodgeball-bu - PC Bangai Hen (Japan).png</marquee>
 		<developer>키드</developer>
 		<publisher>낙삿 소프트</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19900330T000000</releasedate>
 	</game>
@@ -2503,6 +2789,7 @@
 		<marquee>./marquee/Nekketsu Koukou Dodgeball-bu - PC Soccer Hen (Japan).png</marquee>
 		<developer>키드</developer>
 		<publisher>낙삿 소프트</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19900330T000000</releasedate>
 	</game>
@@ -2514,6 +2801,7 @@
 		<marquee>./marquee/Neutopia (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19891117T000000</releasedate>
 	</game>
@@ -2525,6 +2813,7 @@
 		<marquee>./marquee/Neutopia (USA).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19900101T000000</releasedate>
 	</game>
@@ -2536,6 +2825,7 @@
 		<marquee>./marquee/Neutopia II (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19910927T000000</releasedate>
 	</game>
@@ -2547,6 +2837,7 @@
 		<marquee>./marquee/Neutopia II (USA).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19920101T000000</releasedate>
 	</game>
@@ -2558,6 +2849,7 @@
 		<marquee>./marquee/New Adventure Island (USA).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19920101T000000</releasedate>
 	</game>
@@ -2569,6 +2861,7 @@
 		<marquee>./marquee/NewZealand Story, The (Japan).png</marquee>
 		<developer>타이토</developer>
 		<publisher>타이토</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19900223T000000</releasedate>
 	</game>
@@ -2580,6 +2873,7 @@
 		<marquee>./marquee/NHK Taiga Drama - Taiheiki (Japan).png</marquee>
 		<developer>NHK</developer>
 		<publisher>NHK</publisher>
+		<genre/>
 		<players/>
 		<releasedate>19920131T000000</releasedate>
 	</game>
@@ -2591,6 +2885,7 @@
 		<marquee>./marquee/Night Creatures (USA).png</marquee>
 		<developer>만리 &amp; 어소시에이트</developer>
 		<publisher>NEC 인터채널</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19910101T000000</releasedate>
 	</game>
@@ -2602,6 +2897,7 @@
 		<marquee>./marquee/Niko Niko Pun (Japan).png</marquee>
 		<developer>이스코</developer>
 		<publisher>NHK</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19911213T000000</releasedate>
 	</game>
@@ -2613,6 +2909,7 @@
 		<marquee>./marquee/Ninja Ryuukenden (Japan) (En,Ja,Zh).png</marquee>
 		<developer>테크모</developer>
 		<publisher>허드슨</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19920124T000000</releasedate>
 	</game>
@@ -2624,6 +2921,7 @@
 		<marquee>./marquee/Ninja Spirit (USA).png</marquee>
 		<developer>아이렘</developer>
 		<publisher>아이렘</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19900101T000000</releasedate>
 	</game>
@@ -2635,6 +2933,7 @@
 		<marquee>./marquee/Ninja Warriors, The (Japan).png</marquee>
 		<developer>타이토</developer>
 		<publisher>타이토</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19890630T000000</releasedate>
 	</game>
@@ -2646,6 +2945,7 @@
 		<marquee>./marquee/Obocchama-kun (Japan).png</marquee>
 		<developer>팩인 비디오</developer>
 		<publisher>남코</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19910315T000000</releasedate>
 	</game>
@@ -2657,6 +2957,7 @@
 		<marquee>./marquee/Off the Wall (USA) (Proto).png</marquee>
 		<developer/>
 		<publisher/>
+		<genre/>
 		<players/>
 		<releasedate/>
 	</game>
@@ -2668,6 +2969,7 @@
 		<marquee>./marquee/Operation Wolf (Japan).png</marquee>
 		<developer>타이토</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19900831T000000</releasedate>
 	</game>
@@ -2679,6 +2981,7 @@
 		<marquee>./marquee/Ordyne (Japan).png</marquee>
 		<developer>남코</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19890908T000000</releasedate>
 	</game>
@@ -2690,6 +2993,7 @@
 		<marquee>./marquee/Ordyne (USA).png</marquee>
 		<developer>남코</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19900101T000000</releasedate>
 	</game>
@@ -2701,6 +3005,7 @@
 		<marquee>./marquee/Out Live (Japan).png</marquee>
 		<developer>선소프트</developer>
 		<publisher>선소프트</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19890317T000000</releasedate>
 	</game>
@@ -2712,6 +3017,7 @@
 		<marquee>./marquee/Out Run (Japan).png</marquee>
 		<developer>NEC</developer>
 		<publisher>세가</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19901221T000000</releasedate>
 	</game>
@@ -2723,6 +3029,7 @@
 		<marquee>./marquee/Override (Japan).png</marquee>
 		<developer>스팅</developer>
 		<publisher>데이터 이스트</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19910108T000000</releasedate>
 	</game>
@@ -2734,6 +3041,7 @@
 		<marquee>./marquee/P-47 - The Freedom Fighter (Japan).png</marquee>
 		<developer>NMK</developer>
 		<publisher>에이콤</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19890320T000000</releasedate>
 	</game>
@@ -2745,6 +3053,7 @@
 		<marquee>./marquee/Pac-Land (Japan).png</marquee>
 		<developer>남코</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19890601T000000</releasedate>
 	</game>
@@ -2756,6 +3065,7 @@
 		<marquee>./marquee/Pac-Land (USA).png</marquee>
 		<developer>남코</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19900101T000000</releasedate>
 	</game>
@@ -2767,6 +3077,7 @@
 		<marquee>./marquee/Pachio-kun - Juuban Shoubu (Japan).png</marquee>
 		<developer>코코넛 재팬</developer>
 		<publisher>코코넛 재팬</publisher>
+		<genre/>
 		<players/>
 		<releasedate>19920313T000000</releasedate>
 	</game>
@@ -2778,6 +3089,7 @@
 		<marquee>./marquee/Paranoia (Japan).png</marquee>
 		<developer>낙삿 소프트</developer>
 		<publisher>NEC 인터채널</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19900301T000000</releasedate>
 	</game>
@@ -2789,6 +3101,7 @@
 		<marquee>./marquee/Parasol Stars - The Story of Bubble Bobble III (Japan).png</marquee>
 		<developer>타이토</developer>
 		<publisher>워킹 디자인</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19910215T000000</releasedate>
 	</game>
@@ -2800,6 +3113,7 @@
 		<marquee>./marquee/Parasol Stars - The Story of Bubble Bobble III (USA).png</marquee>
 		<developer>타이토</developer>
 		<publisher>워킹 디자인</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19910502T000000</releasedate>
 	</game>
@@ -2811,6 +3125,7 @@
 		<marquee>./marquee/Parodius Da! - Shinwa kara Owarai e (Japan).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19920221T000000</releasedate>
 	</game>
@@ -2822,6 +3137,7 @@
 		<marquee>./marquee/PC Denjin - Punkic Cyborgs (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19921212T000000</releasedate>
 	</game>
@@ -2833,6 +3149,7 @@
 		<marquee>./marquee/PC Genjin - Pithecanthropus Computerurus (Japan).png</marquee>
 		<developer>아틀러스</developer>
 		<publisher>허드슨</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19891215T000000</releasedate>
 	</game>
@@ -2844,6 +3161,7 @@
 		<marquee>./marquee/PC Genjin 2 - Pithecanthropus Computerurus (Japan) (Virtual Console).png</marquee>
 		<developer>레드 컴퍼니</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19910719T000000</releasedate>
 	</game>
@@ -2855,6 +3173,7 @@
 		<marquee>./marquee/PC Genjin 2 - Pithecanthropus Computerurus (Japan).png</marquee>
 		<developer>레드 컴퍼니</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19910719T000000</releasedate>
 	</game>
@@ -2866,6 +3185,7 @@
 		<marquee>./marquee/PC Genjin 3 - Pithecanthropus Computerurus (Japan) (Sample).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>터보 테크놀리지</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19930402T000000</releasedate>
 	</game>
@@ -2877,6 +3197,7 @@
 		<marquee>./marquee/PC Genjin 3 - Pithecanthropus Computerurus (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>터보 테크놀리지</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19930402T000000</releasedate>
 	</game>
@@ -2888,6 +3209,7 @@
 		<marquee>./marquee/PC Pachi-Slot - Idol Gambler (Japan) (Unl).png</marquee>
 		<developer>게임익스프레스</developer>
 		<publisher>게임익스프레스</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19920101T000000</releasedate>
 	</game>
@@ -2899,6 +3221,7 @@
 		<marquee>./marquee/Populous (Japan).png</marquee>
 		<developer>블프로그</developer>
 		<publisher>허드슨</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19910405T000000</releasedate>
 	</game>
@@ -2910,6 +3233,7 @@
 		<marquee>./marquee/Power Drift (Japan).png</marquee>
 		<developer>애스믹 에이스 엔터테인먼트</developer>
 		<publisher>세가</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19900413T000000</releasedate>
 	</game>
@@ -2921,6 +3245,7 @@
 		<marquee>./marquee/Power Eleven (Japan).png</marquee>
 		<developer>웨스트 원</developer>
 		<publisher>허드슨</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19910621T000000</releasedate>
 	</game>
@@ -2932,6 +3257,7 @@
 		<marquee>./marquee/Power Gate (Japan).png</marquee>
 		<developer>메이크</developer>
 		<publisher>팩인 비디오</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19910830T000000</releasedate>
 	</game>
@@ -2943,6 +3269,7 @@
 		<marquee>./marquee/Power Golf (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
+		<genre/>
 		<players>3</players>
 		<releasedate>19890525T000000</releasedate>
 	</game>
@@ -2954,6 +3281,7 @@
 		<marquee>./marquee/Power Golf (USA).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
+		<genre/>
 		<players>3</players>
 		<releasedate>19890101T000000</releasedate>
 	</game>
@@ -2965,6 +3293,7 @@
 		<marquee>./marquee/Power League '93 (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19931015T000000</releasedate>
 	</game>
@@ -2976,6 +3305,7 @@
 		<marquee>./marquee/Power League (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>NEC 인터채널</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19880624T000000</releasedate>
 	</game>
@@ -2987,6 +3317,7 @@
 		<marquee>./marquee/Power League 4 (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19910809T000000</releasedate>
 	</game>
@@ -2998,6 +3329,7 @@
 		<marquee>./marquee/Power League 5 (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
+		<genre/>
 		<players/>
 		<releasedate>19920807T000000</releasedate>
 	</game>
@@ -3009,6 +3341,7 @@
 		<marquee>./marquee/Power League II (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19890808T000000</releasedate>
 	</game>
@@ -3020,6 +3353,7 @@
 		<marquee>./marquee/Power League III (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
+		<genre/>
 		<players/>
 		<releasedate>19900810T000000</releasedate>
 	</game>
@@ -3031,6 +3365,7 @@
 		<marquee>./marquee/Power Sports (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
+		<genre/>
 		<players>5</players>
 		<releasedate>19921010T000000</releasedate>
 	</game>
@@ -3042,6 +3377,7 @@
 		<marquee>./marquee/Power Tennis (Japan).png</marquee>
 		<developer>나우 프로덕션</developer>
 		<publisher>허드슨</publisher>
+		<genre/>
 		<players>4</players>
 		<releasedate>19930625T000000</releasedate>
 	</game>
@@ -3053,6 +3389,7 @@
 		<marquee>./marquee/Pro Tennis - World Court (Japan).png</marquee>
 		<developer>남코</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>4</players>
 		<releasedate>19880811T000000</releasedate>
 	</game>
@@ -3064,6 +3401,7 @@
 		<marquee>./marquee/Pro Yakyuu World Stadium '91 (Japan).png</marquee>
 		<developer>남코</developer>
 		<publisher>남코</publisher>
+		<genre/>
 		<players/>
 		<releasedate>19910321T000000</releasedate>
 	</game>
@@ -3075,6 +3413,7 @@
 		<marquee>./marquee/Pro Yakyuu World Stadium (Japan).png</marquee>
 		<developer>남코</developer>
 		<publisher>남코</publisher>
+		<genre/>
 		<players/>
 		<releasedate>19880520T000000</releasedate>
 	</game>
@@ -3086,6 +3425,7 @@
 		<marquee>./marquee/Psycho Chaser (Japan).png</marquee>
 		<developer>스팅</developer>
 		<publisher>낙삿 소프트</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19900406T000000</releasedate>
 	</game>
@@ -3097,6 +3437,7 @@
 		<marquee>./marquee/Psychosis (USA).png</marquee>
 		<developer>낙삿 소프트</developer>
 		<publisher>NEC 인터채널</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19900101T000000</releasedate>
 	</game>
@@ -3108,6 +3449,7 @@
 		<marquee>./marquee/Puzzle Boy (Japan).png</marquee>
 		<developer>아틀러스</developer>
 		<publisher>니폰 텔넷</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19910222T000000</releasedate>
 	</game>
@@ -3119,6 +3461,7 @@
 		<marquee>./marquee/Puzznic (Japan).png</marquee>
 		<developer>타이토</developer>
 		<publisher>타이토</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19900629T000000</releasedate>
 	</game>
@@ -3130,6 +3473,7 @@
 		<marquee>./marquee/Quiz Toukou Shashin (Japan) (Unl).png</marquee>
 		<developer>게임익스프레스</developer>
 		<publisher>게임익스프레스</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19920101T000000</releasedate>
 	</game>
@@ -3141,6 +3485,7 @@
 		<marquee>./marquee/R-Type (USA).png</marquee>
 		<developer>아이렘</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19890101T000000</releasedate>
 	</game>
@@ -3152,6 +3497,7 @@
 		<marquee>./marquee/R-Type I (Japan).png</marquee>
 		<developer>아이렘</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19880325T000000</releasedate>
 	</game>
@@ -3163,6 +3509,7 @@
 		<marquee>./marquee/R-Type II (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19880603T000000</releasedate>
 	</game>
@@ -3174,6 +3521,7 @@
 		<marquee>./marquee/Rabio Lepus Special (Japan).png</marquee>
 		<developer>비디오 시스템</developer>
 		<publisher>비디오 시스템</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19901019T000000</releasedate>
 	</game>
@@ -3185,6 +3533,7 @@
 		<marquee>./marquee/Racing Damashii (Japan).png</marquee>
 		<developer>아이렘</developer>
 		<publisher>아이렘</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19910719T000000</releasedate>
 	</game>
@@ -3196,6 +3545,7 @@
 		<marquee>./marquee/Raiden (Japan).png</marquee>
 		<developer>세이부 개발</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19911122T000000</releasedate>
 	</game>
@@ -3207,6 +3557,7 @@
 		<marquee>./marquee/Raiden (USA).png</marquee>
 		<developer>세이부 개발</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19910101T000000</releasedate>
 	</game>
@@ -3218,6 +3569,7 @@
 		<marquee>./marquee/Rastan Saga II (Japan).png</marquee>
 		<developer>타이토</developer>
 		<publisher>타이토</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19900706T000000</releasedate>
 	</game>
@@ -3229,6 +3581,7 @@
 		<marquee>./marquee/Rock-On (Japan).png</marquee>
 		<developer>만청당</developer>
 		<publisher>빅 클럽</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19890825T000000</releasedate>
 	</game>
@@ -3240,6 +3593,7 @@
 		<marquee>./marquee/Ryuukyuu (Japan).png</marquee>
 		<developer>참근도</developer>
 		<publisher>페이스</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19901026T000000</releasedate>
 	</game>
@@ -3251,6 +3605,7 @@
 		<marquee>./marquee/S.C.I. - Special Criminal Investigation (Japan).png</marquee>
 		<developer>타이토</developer>
 		<publisher/>
+		<genre/>
 		<players>1</players>
 		<releasedate>19910125T000000</releasedate>
 	</game>
@@ -3262,6 +3617,7 @@
 		<marquee>./marquee/Sadakichi Seven - Hideyoshi no Ougon (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
+		<genre/>
 		<players/>
 		<releasedate>19881118T000000</releasedate>
 	</game>
@@ -3273,6 +3629,7 @@
 		<marquee>./marquee/Saigo no Nindou - Ninja Spirit (Japan).png</marquee>
 		<developer>아이렘</developer>
 		<publisher>아이렘</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19900706T000000</releasedate>
 	</game>
@@ -3284,6 +3641,7 @@
 		<marquee>./marquee/Salamander (Japan).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19911206T000000</releasedate>
 	</game>
@@ -3295,6 +3653,7 @@
 		<marquee>./marquee/Samurai-Ghost (USA).png</marquee>
 		<developer>남코</developer>
 		<publisher>남코</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19920101T000000</releasedate>
 	</game>
@@ -3306,6 +3665,7 @@
 		<marquee>./marquee/Sekigahara (Japan).png</marquee>
 		<developer>토킨하우스</developer>
 		<publisher>토킨하우스</publisher>
+		<genre/>
 		<players/>
 		<releasedate>19900914T000000</releasedate>
 	</game>
@@ -3317,6 +3677,7 @@
 		<marquee>./marquee/Sengoku Mahjong (Japan).png</marquee>
 		<developer/>
 		<publisher/>
+		<genre/>
 		<players/>
 		<releasedate>19880708T000000</releasedate>
 	</game>
@@ -3328,6 +3689,7 @@
 		<marquee>./marquee/Shanghai (Japan).png</marquee>
 		<developer/>
 		<publisher/>
+		<genre/>
 		<players>1</players>
 		<releasedate>19871030T000000</releasedate>
 	</game>
@@ -3339,6 +3701,7 @@
 		<marquee>./marquee/Shinobi (Japan).png</marquee>
 		<developer>애스믹 에이스 엔터테인먼트</developer>
 		<publisher>세가</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19891208T000000</releasedate>
 	</game>
@@ -3350,6 +3713,7 @@
 		<marquee>./marquee/Shiryou Sensen - War of the Dead (Japan).png</marquee>
 		<developer/>
 		<publisher>핌 팩토리</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19890324T000000</releasedate>
 	</game>
@@ -3361,6 +3725,7 @@
 		<marquee>./marquee/Shockman (USA).png</marquee>
 		<developer>윈드</developer>
 		<publisher>NCS</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19920101T000000</releasedate>
 	</game>
@@ -3372,6 +3737,7 @@
 		<marquee>./marquee/Shougi Shodan Icchokusen (Japan).png</marquee>
 		<developer>옴데이터</developer>
 		<publisher>옴데이터</publisher>
+		<genre/>
 		<players/>
 		<releasedate>19900810T000000</releasedate>
 	</game>
@@ -3383,6 +3749,7 @@
 		<marquee>./marquee/Shougi Shoshinsha Muyou (Japan).png</marquee>
 		<developer>옴데이터</developer>
 		<publisher>옴데이터</publisher>
+		<genre/>
 		<players/>
 		<releasedate>19911129T000000</releasedate>
 	</game>
@@ -3394,6 +3761,7 @@
 		<marquee>./marquee/SideArms (USA).png</marquee>
 		<developer>캡콤</developer>
 		<publisher>래디언스 소프트웨어</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19890101T000000</releasedate>
 	</game>
@@ -3405,6 +3773,7 @@
 		<marquee>./marquee/SideArms - Hyper Dyne (Japan).png</marquee>
 		<developer>캡콤</developer>
 		<publisher>래디언스 소프트웨어</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19890714T000000</releasedate>
 	</game>
@@ -3416,6 +3785,7 @@
 		<marquee>./marquee/Silent Debuggers (Japan).png</marquee>
 		<developer>데이터 이스트</developer>
 		<publisher>NEC 인터채널</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19910329T000000</releasedate>
 	</game>
@@ -3427,6 +3797,7 @@
 		<marquee>./marquee/Silent Debuggers (USA).png</marquee>
 		<developer>데이터 이스트</developer>
 		<publisher>NEC 인터채널</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19910101T000000</releasedate>
 	</game>
@@ -3438,6 +3809,7 @@
 		<marquee>./marquee/Sindibad - Chitei no Daimakyuu (Japan).png</marquee>
 		<developer/>
 		<publisher>인포메이션 글로벌 서비스</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19900602T000000</releasedate>
 	</game>
@@ -3449,6 +3821,7 @@
 		<marquee>./marquee/Sinistron (USA).png</marquee>
 		<developer>인포메이션 글로벌 서비스</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19910101T000000</releasedate>
 	</game>
@@ -3460,6 +3833,7 @@
 		<marquee>./marquee/Skweek (Japan).png</marquee>
 		<developer>로리시엘</developer>
 		<publisher>빅터 뮤직 인더스트리</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19910802T000000</releasedate>
 	</game>
@@ -3471,6 +3845,7 @@
 		<marquee>./marquee/Soldier Blade (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19920710T000000</releasedate>
 	</game>
@@ -3482,6 +3857,7 @@
 		<marquee>./marquee/Soldier Blade (USA).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19920101T000000</releasedate>
 	</game>
@@ -3493,6 +3869,7 @@
 		<marquee>./marquee/Soldier Blade - Special Version (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19920710T000000</releasedate>
 	</game>
@@ -3504,6 +3881,7 @@
 		<marquee>./marquee/Somer Assault (USA).png</marquee>
 		<developer>아틀러스</developer>
 		<publisher>아틀러스</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19920101T000000</releasedate>
 	</game>
@@ -3515,6 +3893,7 @@
 		<marquee>./marquee/Son Son II (Japan).png</marquee>
 		<developer>NEC</developer>
 		<publisher>캡콤</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19890127T000000</releasedate>
 	</game>
@@ -3526,6 +3905,7 @@
 		<marquee>./marquee/Sonic Spike - World Championship Beach Volleyball (USA).png</marquee>
 		<developer>인포메이션 글로벌 서비스</developer>
 		<publisher>인포메이션 글로벌 서비스</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19900101T000000</releasedate>
 	</game>
@@ -3537,6 +3917,7 @@
 		<marquee>./marquee/Soukoban World (Japan).png</marquee>
 		<developer>NEC</developer>
 		<publisher>미디어링</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19900316T000000</releasedate>
 	</game>
@@ -3548,6 +3929,7 @@
 		<marquee>./marquee/Space Harrier (Japan).png</marquee>
 		<developer>AM2연</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19881209T000000</releasedate>
 	</game>
@@ -3559,6 +3941,7 @@
 		<marquee>./marquee/Space Harrier (USA).png</marquee>
 		<developer>AM2연</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19900101T000000</releasedate>
 	</game>
@@ -3570,6 +3953,7 @@
 		<marquee>./marquee/Space Invaders - Fukkatsu no Hi (Japan).png</marquee>
 		<developer>타이토</developer>
 		<publisher>타이토</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19900302T000000</releasedate>
 	</game>
@@ -3581,6 +3965,7 @@
 		<marquee>./marquee/Spin Pair (Japan).png</marquee>
 		<developer>미디어 링즈</developer>
 		<publisher>미디어 링즈</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19901214T000000</releasedate>
 	</game>
@@ -3592,6 +3977,7 @@
 		<marquee>./marquee/Spiral Wave (Japan).png</marquee>
 		<developer>미디어 링즈</developer>
 		<publisher>미디어 링즈</publisher>
+		<genre/>
 		<players/>
 		<releasedate>19911213T000000</releasedate>
 	</game>
@@ -3603,6 +3989,7 @@
 		<marquee>./marquee/Splatterhouse (Japan) (En).png</marquee>
 		<developer>남코</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19900403T000000</releasedate>
 	</game>
@@ -3614,6 +4001,7 @@
 		<marquee>./marquee/Splatterhouse (USA).png</marquee>
 		<developer>남코</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19900101T000000</releasedate>
 	</game>
@@ -3625,6 +4013,7 @@
 		<marquee>./marquee/Stratego (Japan).png</marquee>
 		<developer>어콜레이드</developer>
 		<publisher>빅터 인터랙티브</publisher>
+		<genre/>
 		<players/>
 		<releasedate>19920724T000000</releasedate>
 	</game>
@@ -3636,6 +4025,7 @@
 		<marquee>./marquee/Street Fighter II' - Champion Edition (Japan).png</marquee>
 		<developer>캡콤</developer>
 		<publisher>NEC 인터채널</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19930612T000000</releasedate>
 	</game>
@@ -3647,6 +4037,7 @@
 		<marquee>./marquee/Strip Fighter II (Japan) (Unl).png</marquee>
 		<developer>게임익스프레스</developer>
 		<publisher>게임익스프레스</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19930101T000000</releasedate>
 	</game>
@@ -3658,6 +4049,7 @@
 		<marquee>./marquee/Super Metal Crusher (Japan).png</marquee>
 		<developer>메이크</developer>
 		<publisher>팩인 비디오</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19911129T000000</releasedate>
 	</game>
@@ -3669,6 +4061,7 @@
 		<marquee>./marquee/Super Momotarou Dentetsu (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
+		<genre/>
 		<players/>
 		<releasedate>19890915T000000</releasedate>
 	</game>
@@ -3680,6 +4073,7 @@
 		<marquee>./marquee/Super Momotarou Dentetsu II (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
+		<genre/>
 		<players/>
 		<releasedate>19911220T000000</releasedate>
 	</game>
@@ -3691,6 +4085,7 @@
 		<marquee>./marquee/Super Star Soldier (Japan).png</marquee>
 		<developer>인터스테이트</developer>
 		<publisher>허드슨</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19900706T000000</releasedate>
 	</game>
@@ -3702,6 +4097,7 @@
 		<marquee>./marquee/Super Star Soldier (USA).png</marquee>
 		<developer>인터스테이트</developer>
 		<publisher>허드슨</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19910101T000000</releasedate>
 	</game>
@@ -3713,6 +4109,7 @@
 		<marquee>./marquee/Super Volley Ball (Japan).png</marquee>
 		<developer>비디오 시스템</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19900207T000000</releasedate>
 	</game>
@@ -3724,6 +4121,7 @@
 		<marquee>./marquee/Super Volleyball (USA).png</marquee>
 		<developer>비디오 시스템</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19900101T000000</releasedate>
 	</game>
@@ -3735,6 +4133,7 @@
 		<marquee>./marquee/Susanoou Densetsu (Japan).png</marquee>
 		<developer>알파 시스템</developer>
 		<publisher>허드슨</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19890427T000000</releasedate>
 	</game>
@@ -3746,6 +4145,7 @@
 		<marquee>./marquee/Taito Chase H.Q. (Japan).png</marquee>
 		<developer>타이토</developer>
 		<publisher>타이토</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19900126T000000</releasedate>
 	</game>
@@ -3757,6 +4157,7 @@
 		<marquee>./marquee/Takahashi Meijin no Shin Bouken-jima (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19920626T000000</releasedate>
 	</game>
@@ -3768,6 +4169,7 @@
 		<marquee>./marquee/Takeda Shingen (Japan).png</marquee>
 		<developer>에이콤</developer>
 		<publisher>에이콤</publisher>
+		<genre/>
 		<players/>
 		<releasedate>19890728T000000</releasedate>
 	</game>
@@ -3779,6 +4181,7 @@
 		<marquee>./marquee/Takin' It to the Hoop (USA).png</marquee>
 		<developer>에이콤</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players/>
 		<releasedate>19900101T000000</releasedate>
 	</game>
@@ -3790,6 +4193,7 @@
 		<marquee>./marquee/TaleSpin (USA).png</marquee>
 		<developer>인터랙티브 디자인</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19910101T000000</releasedate>
 	</game>
@@ -3801,6 +4205,7 @@
 		<marquee>./marquee/Tatsujin (Japan) (Beta).png</marquee>
 		<developer>스팅</developer>
 		<publisher>타이토</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19920724T000000</releasedate>
 	</game>
@@ -3812,6 +4217,7 @@
 		<marquee>./marquee/Tatsujin (Japan).png</marquee>
 		<developer>스팅</developer>
 		<publisher>타이토</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19920724T000000</releasedate>
 	</game>
@@ -3823,6 +4229,7 @@
 		<marquee>./marquee/Tatsunoko Fighter (Japan).png</marquee>
 		<developer>어드벤스 커뮤니케이션 컴퍼니</developer>
 		<publisher>토킨하우스</publisher>
+		<genre/>
 		<players/>
 		<releasedate>19891020T000000</releasedate>
 	</game>
@@ -3834,6 +4241,7 @@
 		<marquee>./marquee/Ten no Koe Bank (Japan).png</marquee>
 		<developer/>
 		<publisher/>
+		<genre/>
 		<players/>
 		<releasedate/>
 	</game>
@@ -3845,6 +4253,7 @@
 		<marquee>./marquee/Tenseiryuu - Saint Dragon (Japan).png</marquee>
 		<developer>NMK</developer>
 		<publisher>아이콤</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19901221T000000</releasedate>
 	</game>
@@ -3856,6 +4265,7 @@
 		<marquee>./marquee/Terra Cresta II - Mandoler no Gyakushuu (Japan).png</marquee>
 		<developer>일본물산</developer>
 		<publisher>일본물산</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19921127T000000</releasedate>
 	</game>
@@ -3867,6 +4277,7 @@
 		<marquee>./marquee/Thunder Blade (Japan).png</marquee>
 		<developer>NEC</developer>
 		<publisher>세가</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19901207T000000</releasedate>
 	</game>
@@ -3878,6 +4289,7 @@
 		<marquee>./marquee/Tiger Road (USA).png</marquee>
 		<developer>고</developer>
 		<publisher>캡콤</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19900101T000000</releasedate>
 	</game>
@@ -3889,6 +4301,7 @@
 		<marquee>./marquee/Time Cruise (USA).png</marquee>
 		<developer>페이스</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19920101T000000</releasedate>
 	</game>
@@ -3900,6 +4313,7 @@
 		<marquee>./marquee/Time Cruise II (Japan).png</marquee>
 		<developer>페이스</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19911108T000000</releasedate>
 	</game>
@@ -3911,6 +4325,7 @@
 		<marquee>./marquee/Timeball (USA).png</marquee>
 		<developer/>
 		<publisher/>
+		<genre/>
 		<players>2</players>
 		<releasedate>19900223T000000</releasedate>
 	</game>
@@ -3922,6 +4337,7 @@
 		<marquee>./marquee/Titan (Japan).png</marquee>
 		<developer>낙삿 소프트</developer>
 		<publisher>티투스</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19910315T000000</releasedate>
 	</game>
@@ -3933,6 +4349,7 @@
 		<marquee>./marquee/Toilet Kids (Japan).png</marquee>
 		<developer>비츠 랩</developer>
 		<publisher>미디어 링즈</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19920306T000000</releasedate>
 	</game>
@@ -3944,6 +4361,7 @@
 		<marquee>./marquee/Tora e no Michi (Japan).png</marquee>
 		<developer>고</developer>
 		<publisher>캡콤</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19900223T000000</releasedate>
 	</game>
@@ -3955,6 +4373,7 @@
 		<marquee>./marquee/Tower of Druaga, The (Japan).png</marquee>
 		<developer/>
 		<publisher/>
+		<genre/>
 		<players/>
 		<releasedate/>
 	</game>
@@ -3966,6 +4385,7 @@
 		<marquee>./marquee/Toy Shop Boys (Japan).png</marquee>
 		<developer>빅터 뮤직 인더스트리</developer>
 		<publisher>빅터 뮤직 인더스트리</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19901214T000000</releasedate>
 	</game>
@@ -3977,6 +4397,7 @@
 		<marquee>./marquee/Tricky (Japan).png</marquee>
 		<developer>IGS</developer>
 		<publisher>IGS</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19910706T000000</releasedate>
 	</game>
@@ -3988,6 +4409,7 @@
 		<marquee>./marquee/Tricky Kick (USA).png</marquee>
 		<developer>IGS</developer>
 		<publisher>IGS</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19900101T000000</releasedate>
 	</game>
@@ -3999,6 +4421,7 @@
 		<marquee>./marquee/Tsuppari Oozumou - Heisei Ban (Japan).png</marquee>
 		<developer>낙삿 소프트</developer>
 		<publisher>낙삿 소프트</publisher>
+		<genre/>
 		<players/>
 		<releasedate>19930219T000000</releasedate>
 	</game>
@@ -4010,6 +4433,7 @@
 		<marquee>./marquee/Tsuru Teruhito no Jissen Kabushiki Bai Bai Game (Japan).png</marquee>
 		<developer>토세</developer>
 		<publisher>인텍</publisher>
+		<genre/>
 		<players/>
 		<releasedate>19891101T000000</releasedate>
 	</game>
@@ -4021,6 +4445,7 @@
 		<marquee>./marquee/Turrican (USA).png</marquee>
 		<developer>레인보우 아츠</developer>
 		<publisher>어콜레이드</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19910801T000000</releasedate>
 	</game>
@@ -4032,6 +4457,7 @@
 		<marquee>./marquee/TV Sports Basketball (Japan).png</marquee>
 		<developer>시네웨이브</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>5</players>
 		<releasedate>19910101T000000</releasedate>
 	</game>
@@ -4043,6 +4469,7 @@
 		<marquee>./marquee/TV Sports Basketball (USA).png</marquee>
 		<developer>시네웨이브</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>5</players>
 		<releasedate>19910101T000000</releasedate>
 	</game>
@@ -4054,6 +4481,7 @@
 		<marquee>./marquee/TV Sports Football (Japan).png</marquee>
 		<developer>시네웨이브</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>5</players>
 		<releasedate>19910329T000000</releasedate>
 	</game>
@@ -4065,6 +4493,7 @@
 		<marquee>./marquee/TV Sports Football (USA).png</marquee>
 		<developer>시네웨이브</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>5</players>
 		<releasedate>19900101T000000</releasedate>
 	</game>
@@ -4076,6 +4505,7 @@
 		<marquee>./marquee/TV Sports Hockey (Japan).png</marquee>
 		<developer>시네웨이브</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>5</players>
 		<releasedate>19930429T000000</releasedate>
 	</game>
@@ -4087,6 +4517,7 @@
 		<marquee>./marquee/TV Sports Hockey (USA).png</marquee>
 		<developer>시네웨이브</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>5</players>
 		<releasedate>19910101T000000</releasedate>
 	</game>
@@ -4098,6 +4529,7 @@
 		<marquee>./marquee/USA Pro Basketball (Japan).png</marquee>
 		<developer>에이콤</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players/>
 		<releasedate>19891201T000000</releasedate>
 	</game>
@@ -4109,6 +4541,7 @@
 		<marquee>./marquee/Valkyrie no Densetsu (Japan).png</marquee>
 		<developer>남코</developer>
 		<publisher>남코</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19900809T000000</releasedate>
 	</game>
@@ -4120,6 +4553,7 @@
 		<marquee>./marquee/Veigues - Tactical Gladiator (Japan).png</marquee>
 		<developer>게임 아츠</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19900629T000000</releasedate>
 	</game>
@@ -4131,6 +4565,7 @@
 		<marquee>./marquee/Veigues - Tactical Gladiator (USA).png</marquee>
 		<developer>게임 아츠</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19900101T000000</releasedate>
 	</game>
@@ -4142,6 +4577,7 @@
 		<marquee>./marquee/Victory Run (USA).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19890101T000000</releasedate>
 	</game>
@@ -4153,6 +4589,7 @@
 		<marquee>./marquee/Victory Run - Eikou no 13,000km (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19871228T000000</releasedate>
 	</game>
@@ -4164,6 +4601,7 @@
 		<marquee>./marquee/Vigilante (Japan).png</marquee>
 		<developer>NEC</developer>
 		<publisher>아이렘</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19890114T000000</releasedate>
 	</game>
@@ -4175,6 +4613,7 @@
 		<marquee>./marquee/Vigilante (USA).png</marquee>
 		<developer>NEC</developer>
 		<publisher>아이렘</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19890101T000000</releasedate>
 	</game>
@@ -4186,6 +4625,7 @@
 		<marquee>./marquee/Violent Soldier (Japan).png</marquee>
 		<developer>인포메이션 글로벌 서비스</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19901214T000000</releasedate>
 	</game>
@@ -4197,6 +4637,7 @@
 		<marquee>./marquee/Volfied (Japan).png</marquee>
 		<developer>타이토</developer>
 		<publisher>엠파이어 인터랙티브</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19891227T000000</releasedate>
 	</game>
@@ -4208,6 +4649,7 @@
 		<marquee>./marquee/W-Ring - The Double Rings (Japan).png</marquee>
 		<developer>낙삿 소프트</developer>
 		<publisher>낙삿 소프트</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19900928T000000</releasedate>
 	</game>
@@ -4219,6 +4661,7 @@
 		<marquee>./marquee/Wai Wai Mahjong - Yukai na Janyuu-tachi (Japan).png</marquee>
 		<developer>비디오 시스템</developer>
 		<publisher>비디오 시스템</publisher>
+		<genre/>
 		<players/>
 		<releasedate>19890619T000000</releasedate>
 	</game>
@@ -4230,6 +4673,7 @@
 		<marquee>./marquee/Wallaby!! - Usagi no Kuni no Kangaroo Race (Japan).png</marquee>
 		<developer>텐키</developer>
 		<publisher>NCS</publisher>
+		<genre/>
 		<players/>
 		<releasedate>19901214T000000</releasedate>
 	</game>
@@ -4241,6 +4685,7 @@
 		<marquee>./marquee/Winning Shot (Japan).png</marquee>
 		<developer>데이터 이스트</developer>
 		<publisher>데이터 이스트</publisher>
+		<genre/>
 		<players/>
 		<releasedate>19890303T000000</releasedate>
 	</game>
@@ -4252,6 +4697,7 @@
 		<marquee>./marquee/Wonder Momo (Japan).png</marquee>
 		<developer>남코</developer>
 		<publisher>남코</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19890421T000000</releasedate>
 	</game>
@@ -4263,6 +4709,7 @@
 		<marquee>./marquee/World Beach Volley (Japan).png</marquee>
 		<developer>인포메이션 글로벌 서비스</developer>
 		<publisher>인포메이션 글로벌 서비스</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19900727T000000</releasedate>
 	</game>
@@ -4274,6 +4721,7 @@
 		<marquee>./marquee/World Circuit (Japan).png</marquee>
 		<developer>게임스튜디오</developer>
 		<publisher>남코</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19911018T000000</releasedate>
 	</game>
@@ -4285,6 +4733,7 @@
 		<marquee>./marquee/World Class Baseball (USA).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>NEC 인터채널</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19890101T000000</releasedate>
 	</game>
@@ -4296,6 +4745,7 @@
 		<marquee>./marquee/World Class Baseball (USA, Europe) (Virtual Console).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>NEC 인터채널</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19890101T000000</releasedate>
 	</game>
@@ -4307,6 +4757,7 @@
 		<marquee>./marquee/World Court Tennis (USA).png</marquee>
 		<developer>남코</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>4</players>
 		<releasedate>19890101T000000</releasedate>
 	</game>
@@ -4318,6 +4769,7 @@
 		<marquee>./marquee/World Jockey (Japan).png</marquee>
 		<developer>남코</developer>
 		<publisher>남코</publisher>
+		<genre/>
 		<players>4</players>
 		<releasedate>19910920T000000</releasedate>
 	</game>
@@ -4329,6 +4781,7 @@
 		<marquee>./marquee/World Sports Competition (USA).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
+		<genre/>
 		<players>5</players>
 		<releasedate>19930101T000000</releasedate>
 	</game>
@@ -4340,6 +4793,7 @@
 		<marquee>./marquee/Xevious - Fardraut Saga (Japan).png</marquee>
 		<developer>컴파일</developer>
 		<publisher>남코</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19900629T000000</releasedate>
 	</game>
@@ -4351,6 +4805,7 @@
 		<marquee>./marquee/Yo, Bro (USA).png</marquee>
 		<developer>아이콤</developer>
 		<publisher>NEC</publisher>
+		<genre/>
 		<players>2</players>
 		<releasedate>19910101T000000</releasedate>
 	</game>
@@ -4362,6 +4817,7 @@
 		<marquee>./marquee/You-You Jinsei (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
+		<genre/>
 		<players/>
 		<releasedate>19880422T000000</releasedate>
 	</game>
@@ -4373,6 +4829,7 @@
 		<marquee>./marquee/Youkai Douchuuki (Japan) (Virtual Console).png</marquee>
 		<developer>남코</developer>
 		<publisher>남코</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19880205T000000</releasedate>
 	</game>
@@ -4384,6 +4841,7 @@
 		<marquee>./marquee/Youkai Douchuuki (Japan).png</marquee>
 		<developer>남코</developer>
 		<publisher>남코</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19880205T000000</releasedate>
 	</game>
@@ -4395,6 +4853,7 @@
 		<marquee>./marquee/Zero4 Champ (Japan) (v1.5).png</marquee>
 		<developer>미디어링</developer>
 		<publisher>미디어링</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19910308T000000</releasedate>
 	</game>
@@ -4406,6 +4865,7 @@
 		<marquee>./marquee/Zero4 Champ (Japan).png</marquee>
 		<developer>미디어링</developer>
 		<publisher>미디어링</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19910308T000000</releasedate>
 	</game>
@@ -4417,6 +4877,7 @@
 		<marquee>./marquee/Zipang (Japan).png</marquee>
 		<developer>아크 시스템 웍스</developer>
 		<publisher>팩인 비디오</publisher>
+		<genre/>
 		<players>1</players>
 		<releasedate>19901214T000000</releasedate>
 	</game>
@@ -4428,6 +4889,7 @@
 		<marquee>./marquee/[BIOS] CD-ROM System (Japan) (v1.0).png</marquee>
 		<developer/>
 		<publisher/>
+		<genre/>
 		<players/>
 		<releasedate/>
 	</game>
@@ -4439,6 +4901,7 @@
 		<marquee>./marquee/[BIOS] CD-ROM System (Japan) (v2.0).png</marquee>
 		<developer/>
 		<publisher/>
+		<genre/>
 		<players/>
 		<releasedate/>
 	</game>
@@ -4450,6 +4913,7 @@
 		<marquee>./marquee/[BIOS] CD-ROM System (Japan) (v2.1).png</marquee>
 		<developer/>
 		<publisher/>
+		<genre/>
 		<players/>
 		<releasedate/>
 	</game>
@@ -4461,6 +4925,7 @@
 		<marquee>./marquee/[BIOS] Games Express CD Card (Japan) (Blue Version).png</marquee>
 		<developer/>
 		<publisher/>
+		<genre/>
 		<players/>
 		<releasedate/>
 	</game>
@@ -4472,6 +4937,7 @@
 		<marquee>./marquee/[BIOS] Games Express CD Card (Japan) (Green Version).png</marquee>
 		<developer/>
 		<publisher/>
+		<genre/>
 		<players/>
 		<releasedate/>
 	</game>
@@ -4483,6 +4949,7 @@
 		<marquee>./marquee/[BIOS] Super CD-ROM System (Japan) (v3.0).png</marquee>
 		<developer/>
 		<publisher/>
+		<genre/>
 		<players/>
 		<releasedate/>
 	</game>
@@ -4494,6 +4961,7 @@
 		<marquee>./marquee/[BIOS] TurboGrafx CD Super System Card (USA) (v3.0).png</marquee>
 		<developer/>
 		<publisher/>
+		<genre/>
 		<players/>
 		<releasedate/>
 	</game>
@@ -4505,62 +4973,8 @@
 		<marquee>./marquee/[BIOS] TurboGrafx CD System Card (USA) (v2.0).png</marquee>
 		<developer/>
 		<publisher/>
+		<genre/>
 		<players/>
 		<releasedate/>
-	</game>
-	<game>
-		<path>./1941 - Counter Attack (Japan).zip</path>
-		<name>1941 - 카운터 어택 (일본판)</name>
-		<image>./snap/1941 - Counter Attack (Japan).png</image>
-		<video>./video/1941 - Counter Attack (Japan).mp4</video>
-		<marquee>./marquee/1941 - Counter Attack (Japan).png</marquee>
-		<developer>캡콤</developer>
-		<publisher>캡콤</publisher>
-		<players>2</players>
-		<releasedate>19910823T000000</releasedate>
-	</game>
-	<game>
-		<path>./Battle Ace (Japan).zip</path>
-		<name>배틀 에이스 (일본판)</name>
-		<image>./snap/Battle Ace (Japan).png</image>
-		<video>./video/Battle Ace (Japan).mp4</video>
-		<marquee>./marquee/Battle Ace (Japan).png</marquee>
-		<developer>허드슨</developer>
-		<publisher>허드슨</publisher>
-		<players>1</players>
-		<releasedate>19891130T000000</releasedate>
-	</game>
-	<game>
-		<path>./Madou King Granzort (Japan).zip</path>
-		<name>마동왕 슈퍼 그랑죠 (일본판)</name>
-		<image>./snap/Madou King Granzort (Japan).png</image>
-		<video>./video/Madou King Granzort (Japan).mp4</video>
-		<marquee>./marquee/Madou King Granzort (Japan).png</marquee>
-		<developer>선라이즈</developer>
-		<publisher>허드슨</publisher>
-		<players>1</players>
-		<releasedate>19900406T000000</releasedate>
-	</game>
-	<game>
-		<path>./Aldynes - The Misson Code for Rage Crisis (Japan).zip</path>
-		<name>알디인즈 - 미션 코드 포 레이지 크라이시스 (일본판)</name>
-		<image>./snap/Aldynes - The Misson Code for Rage Crisis (Japan).png</image>
-		<video>./video/Aldynes - The Misson Code for Rage Crisis (Japan).mp4</video>
-		<marquee>./marquee/Aldynes - The Misson Code for Rage Crisis (Japan).png</marquee>
-		<developer>프로듀스</developer>
-		<publisher>허드슨</publisher>
-		<players>1</players>
-		<releasedate>19910222T000000</releasedate>
-	</game>
-	<game>
-		<path>./Daimakaimura (Japan).zip</path>
-		<name>대마계촌 (일본판)</name>
-		<image>./snap/Daimakaimura (Japan).png</image>
-		<video>./video/Daimakaimura (Japan).mp4</video>
-		<marquee>./marquee/Daimakaimura (Japan).png</marquee>
-		<developer>캡콤</developer>
-		<publisher>NEC</publisher>
-		<players>2</players>
-		<releasedate>19900727T000000</releasedate>
 	</game>
 </gameList>
