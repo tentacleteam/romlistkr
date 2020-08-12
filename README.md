@@ -2,7 +2,7 @@
 
 * 제목 : 레트로게임 롬 목록 한글화 프로젝트
 * 제작자 : 텐타클 팀
-* 최종수정 : Fab 07, 2020
+* 최종수정 : Aug 08, 2020
 * 이메일 : losernator@gmail.com
 * 카페 : http://cafe.naver.com/raspigamer
 * 지원프론트엔드 : RetroPie, Recalbox, Attract-Mode
