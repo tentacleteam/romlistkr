@@ -5,7 +5,7 @@
 * 지원프론트엔드 : RetroPie, Recalbox, Attract-Mode
 * 지원에뮬 : Arcade(MAME, AdvMAME, FBNeo), NES, SNES, MD, GB, GBC, GBA, PCE, SMS, Sega 32X, NGP, NGPC, WS, WSC
 * 제작자 : 텐타클 팀
-* 최종수정 : Fab 07, 2020
+* 최종수정 : August 8, 2020
 * 카페 : http://cafe.naver.com/raspigamer
 * 레트로게임 롬 목록 한글화 자료는 오픈소스입니다. MIT 라이센스를 따르고 있으므로 라이센스와 출처(http://cafe.naver.com/raspigamer) 표시만 지켜주시면 자유롭게 사용하실 수 있습니다.
 -->
@@ -2702,7 +2702,7 @@
 	</game>
 	<game>
 		<path>./Computer Billiards (Japan).zip</path>
-		<name>컴퓨터 빌리아드</name>
+		<name>컴퓨터 당구</name>
 		<image>./snap/Computer Billiards (Japan).png</image>
 		<video>./video/Computer Billiards (Japan).mp4</video>
 		<marquee>./marquee/Computer Billiards (Japan).png</marquee>
@@ -4327,7 +4327,7 @@
 	</game>
 	<game>
 		<path>./Family Billiards (Japan).zip</path>
-		<name>패밀리 빌리아드</name>
+		<name>패밀리 당구</name>
 		<image>./snap/Family Billiards (Japan).png</image>
 		<video>./video/Family Billiards (Japan).mp4</video>
 		<marquee>./marquee/Family Billiards (Japan).png</marquee>
@@ -6563,7 +6563,7 @@
 	</game>
 	<game>
 		<path>./Hyper Sports 1 (Japan) (Alt 1).zip</path>
-		<name>하이퍼 올림픽 1 (대체 1)</name>
+		<name>하이퍼 스포츠 1 (대체 1)</name>
 		<image>./snap/Hyper Sports 1 (Japan) (Alt 1).png</image>
 		<video>./video/Hyper Sports 1 (Japan) (Alt 1).mp4</video>
 		<marquee>./marquee/Hyper Sports 1 (Japan) (Alt 1).png</marquee>
@@ -6576,7 +6576,7 @@
 	</game>
 	<game>
 		<path>./Hyper Sports 1 (Japan).zip</path>
-		<name>하이퍼 올림픽 1</name>
+		<name>하이퍼 스포츠 1</name>
 		<image>./snap/Hyper Sports 1 (Japan).png</image>
 		<video>./video/Hyper Sports 1 (Japan).mp4</video>
 		<marquee>./marquee/Hyper Sports 1 (Japan).png</marquee>
@@ -6589,7 +6589,7 @@
 	</game>
 	<game>
 		<path>./Hyper Sports 2 (Japan).zip</path>
-		<name>하이퍼 올림픽 2</name>
+		<name>하이퍼 스포츠 2</name>
 		<image>./snap/Hyper Sports 2 (Japan).png</image>
 		<video>./video/Hyper Sports 2 (Japan).mp4</video>
 		<marquee>./marquee/Hyper Sports 2 (Japan).png</marquee>
@@ -6602,7 +6602,7 @@
 	</game>
 	<game>
 		<path>./Hyper Sports 3 (Japan) (Alt 1).zip</path>
-		<name>하이퍼 올림픽 3 (대체 1)</name>
+		<name>하이퍼 스포츠 3 (대체 1)</name>
 		<image>./snap/Hyper Sports 3 (Japan) (Alt 1).png</image>
 		<video>./video/Hyper Sports 3 (Japan) (Alt 1).mp4</video>
 		<marquee>./marquee/Hyper Sports 3 (Japan) (Alt 1).png</marquee>
@@ -6615,7 +6615,7 @@
 	</game>
 	<game>
 		<path>./Hyper Sports 3 (Japan) (Alt 2).zip</path>
-		<name>하이퍼 올림픽 3 (대체 2)</name>
+		<name>하이퍼 스포츠 3 (대체 2)</name>
 		<image>./snap/Hyper Sports 3 (Japan) (Alt 2).png</image>
 		<video>./video/Hyper Sports 3 (Japan) (Alt 2).mp4</video>
 		<marquee>./marquee/Hyper Sports 3 (Japan) (Alt 2).png</marquee>
@@ -6628,7 +6628,7 @@
 	</game>
 	<game>
 		<path>./Hyper Sports 3 (Japan).zip</path>
-		<name>하이퍼 올림픽 3</name>
+		<name>하이퍼 스포츠 3</name>
 		<image>./snap/Hyper Sports 3 (Japan).png</image>
 		<video>./video/Hyper Sports 3 (Japan).mp4</video>
 		<marquee>./marquee/Hyper Sports 3 (Japan).png</marquee>
@@ -7382,7 +7382,7 @@
 	</game>
 	<game>
 		<path>./King's Valley (Japan, Europe) (Alt 1).zip</path>
-		<name>왕가의 계곡 (일본,유럽판)(대체 1)</name>
+		<name>왕가의 계곡(대체 1)</name>
 		<image>./snap/King's Valley (Japan, Europe) (Alt 1).png</image>
 		<video>./video/King's Valley (Japan, Europe) (Alt 1).mp4</video>
 		<marquee>./marquee/King's Valley (Japan, Europe) (Alt 1).png</marquee>
@@ -7395,7 +7395,7 @@
 	</game>
 	<game>
 		<path>./King's Valley (Japan, Europe) (Alt 2).zip</path>
-		<name>왕가의 계곡 (일본,유럽판)(대체 2)</name>
+		<name>왕가의 계곡(대체 2)</name>
 		<image>./snap/King's Valley (Japan, Europe) (Alt 2).png</image>
 		<video>./video/King's Valley (Japan, Europe) (Alt 2).mp4</video>
 		<marquee>./marquee/King's Valley (Japan, Europe) (Alt 2).png</marquee>
@@ -7408,7 +7408,7 @@
 	</game>
 	<game>
 		<path>./King's Valley (Japan, Europe) (Alt 3).zip</path>
-		<name>왕가의 계곡 (일본,유럽판)(대체 3)</name>
+		<name>왕가의 계곡(대체 3)</name>
 		<image>./snap/King's Valley (Japan, Europe) (Alt 3).png</image>
 		<video>./video/King's Valley (Japan, Europe) (Alt 3).mp4</video>
 		<marquee>./marquee/King's Valley (Japan, Europe) (Alt 3).png</marquee>
@@ -7421,7 +7421,7 @@
 	</game>
 	<game>
 		<path>./King's Valley (Japan, Europe) (Alt 4).zip</path>
-		<name>왕가의 계곡 (일본,유럽판)</name>
+		<name>왕가의 계곡</name>
 		<image>./snap/King's Valley (Japan, Europe) (Alt 4).png</image>
 		<video>./video/King's Valley (Japan, Europe) (Alt 4).mp4</video>
 		<marquee>./marquee/King's Valley (Japan, Europe) (Alt 4).png</marquee>
@@ -7434,7 +7434,7 @@
 	</game>
 	<game>
 		<path>./King's Valley (Japan, Europe).zip</path>
-		<name>왕가의 계곡 (일본,유럽판)</name>
+		<name>왕가의 계곡</name>
 		<image>./snap/King's Valley (Japan, Europe).png</image>
 		<video>./video/King's Valley (Japan, Europe).mp4</video>
 		<marquee>./marquee/King's Valley (Japan, Europe).png</marquee>
@@ -7447,7 +7447,7 @@
 	</game>
 	<game>
 		<path>./King's Valley II (Japan, Europe).zip</path>
-		<name>왕가의 계곡 2 (일본,유럽판)</name>
+		<name>왕가의 계곡 2</name>
 		<image>./snap/King's Valley II (Japan, Europe).png</image>
 		<video>./video/King's Valley II (Japan, Europe).mp4</video>
 		<marquee>./marquee/King's Valley II (Japan, Europe).png</marquee>
@@ -9644,7 +9644,7 @@
 	</game>
 	<game>
 		<path>./Nemesis (Japan, Europe) (Alt 1).zip</path>
-		<name>그라디우스 / 네메시스 (일본,유럽판)(대체 1)</name>
+		<name>그라디우스 / 네메시스(대체 1)</name>
 		<image>./snap/Nemesis (Japan, Europe) (Alt 1).png</image>
 		<video>./video/Nemesis (Japan, Europe) (Alt 1).mp4</video>
 		<marquee>./marquee/Nemesis (Japan, Europe) (Alt 1).png</marquee>
@@ -9657,7 +9657,7 @@
 	</game>
 	<game>
 		<path>./Nemesis (Japan, Europe).zip</path>
-		<name>그라디우스 / 네메시스 (일본,유럽판)</name>
+		<name>그라디우스 / 네메시스</name>
 		<image>./snap/Nemesis (Japan, Europe).png</image>
 		<video>./video/Nemesis (Japan, Europe).mp4</video>
 		<marquee>./marquee/Nemesis (Japan, Europe).png</marquee>
@@ -9670,7 +9670,7 @@
 	</game>
 	<game>
 		<path>./Nemesis 2 (Japan) (Demo).zip</path>
-		<name>네메시스 2 (데모)</name>
+		<name>그라디우스 2 / 네메시스 2 (데모)</name>
 		<image>./snap/Nemesis 2 (Japan) (Demo).png</image>
 		<video>./video/Nemesis 2 (Japan) (Demo).mp4</video>
 		<marquee>./marquee/Nemesis 2 (Japan) (Demo).png</marquee>
@@ -9683,7 +9683,7 @@
 	</game>
 	<game>
 		<path>./Nemesis 2 (Japan, Europe) (Alt 1).zip</path>
-		<name>네메시스 2 (일본,유럽판)(대체 1)</name>
+		<name>그라디우스 2 / 네메시스 2(대체 1)</name>
 		<image>./snap/Nemesis 2 (Japan, Europe) (Alt 1).png</image>
 		<video>./video/Nemesis 2 (Japan, Europe) (Alt 1).mp4</video>
 		<marquee>./marquee/Nemesis 2 (Japan, Europe) (Alt 1).png</marquee>
@@ -9696,7 +9696,7 @@
 	</game>
 	<game>
 		<path>./Nemesis 2 (Japan, Europe) (Beta).zip</path>
-		<name>네메시스 2 (일본,유럽판)(베타)</name>
+		<name>그라디우스 2 / 네메시스 2(베타)</name>
 		<image>./snap/Nemesis 2 (Japan, Europe) (Beta).png</image>
 		<video>./video/Nemesis 2 (Japan, Europe) (Beta).mp4</video>
 		<marquee>./marquee/Nemesis 2 (Japan, Europe) (Beta).png</marquee>
@@ -9709,7 +9709,7 @@
 	</game>
 	<game>
 		<path>./Nemesis 2 (Japan, Europe).zip</path>
-		<name>네메시스 2 (일본,유럽판)</name>
+		<name>그라디우스 2 / 네메시스 2</name>
 		<image>./snap/Nemesis 2 (Japan, Europe).png</image>
 		<video>./video/Nemesis 2 (Japan, Europe).mp4</video>
 		<marquee>./marquee/Nemesis 2 (Japan, Europe).png</marquee>
@@ -9722,7 +9722,7 @@
 	</game>
 	<game>
 		<path>./Nemesis 3 - The Eve of Destruction (Japan, Europe) (Alt 1).zip</path>
-		<name>네메시스 3 (일본,유럽판)(대체 1)</name>
+		<name>그라디우스 3 / 네메시스 3(대체 1)</name>
 		<image>./snap/Nemesis 3 - The Eve of Destruction (Japan, Europe) (Alt 1).png</image>
 		<video>./video/Nemesis 3 - The Eve of Destruction (Japan, Europe) (Alt 1).mp4</video>
 		<marquee>./marquee/Nemesis 3 - The Eve of Destruction (Japan, Europe) (Alt 1).png</marquee>
@@ -9735,7 +9735,7 @@
 	</game>
 	<game>
 		<path>./Nemesis 3 - The Eve of Destruction (Japan, Europe) (Alt 2).zip</path>
-		<name>네메시스 3 (일본,유럽판)(대체 2)</name>
+		<name>그라디우스 3 / 네메시스 3(대체 2)</name>
 		<image>./snap/Nemesis 3 - The Eve of Destruction (Japan, Europe) (Alt 2).png</image>
 		<video>./video/Nemesis 3 - The Eve of Destruction (Japan, Europe) (Alt 2).mp4</video>
 		<marquee>./marquee/Nemesis 3 - The Eve of Destruction (Japan, Europe) (Alt 2).png</marquee>
@@ -9748,7 +9748,7 @@
 	</game>
 	<game>
 		<path>./Nemesis 3 - The Eve of Destruction (Japan, Europe).zip</path>
-		<name>네메시스 3 (일본,유럽판)</name>
+		<name>그라디우스 3 / 네메시스 3</name>
 		<image>./snap/Nemesis 3 - The Eve of Destruction (Japan, Europe).png</image>
 		<video>./video/Nemesis 3 - The Eve of Destruction (Japan, Europe).mp4</video>
 		<marquee>./marquee/Nemesis 3 - The Eve of Destruction (Japan, Europe).png</marquee>
@@ -10372,7 +10372,7 @@
 	</game>
 	<game>
 		<path>./Penguin Adventure (Japan, Europe).zip</path>
-		<name>팽귄 어드벤처 / 몽대륙 (일본,유럽판)</name>
+		<name>팽귄 어드벤처 / 몽대륙</name>
 		<image>./snap/Penguin Adventure (Japan, Europe).png</image>
 		<video>./video/Penguin Adventure (Japan, Europe).mp4</video>
 		<marquee>./marquee/Penguin Adventure (Japan, Europe).png</marquee>
@@ -12556,7 +12556,7 @@
 	</game>
 	<game>
 		<path>./Super Billiards (Japan).zip</path>
-		<name>슈퍼 빌리아드</name>
+		<name>슈퍼 당구</name>
 		<image>./snap/Super Billiards (Japan).png</image>
 		<video>./video/Super Billiards (Japan).mp4</video>
 		<marquee>./marquee/Super Billiards (Japan).png</marquee>
@@ -13518,7 +13518,7 @@
 	</game>
 	<game>
 		<path>./Treasure of Usas, The (Japan, Europe) (Alt 1).zip</path>
-		<name>우샤스 (일본,유럽판)(대체 1)</name>
+		<name>우샤스(대체 1)</name>
 		<image>./snap/Treasure of Usas, The (Japan, Europe) (Alt 1).png</image>
 		<video>./video/Treasure of Usas, The (Japan, Europe) (Alt 1).mp4</video>
 		<marquee>./marquee/Treasure of Usas, The (Japan, Europe) (Alt 1).png</marquee>
@@ -13531,7 +13531,7 @@
 	</game>
 	<game>
 		<path>./Treasure of Usas, The (Japan, Europe).zip</path>
-		<name>우샤스 (일본,유럽판)</name>
+		<name>우샤스</name>
 		<image>./snap/Treasure of Usas, The (Japan, Europe).png</image>
 		<video>./video/Treasure of Usas, The (Japan, Europe).mp4</video>
 		<marquee>./marquee/Treasure of Usas, The (Japan, Europe).png</marquee>
@@ -13778,7 +13778,7 @@
 	</game>
 	<game>
 		<path>./Vampire Killer (Japan, Europe) (Alt 1).zip</path>
-		<name>뱀파이어 킬러 (일본,유럽판)(대체 1)</name>
+		<name>악마성 드라귤라 / 뱀파이어 킬러(대체 1)</name>
 		<image>./snap/Vampire Killer (Japan, Europe) (Alt 1).png</image>
 		<video>./video/Vampire Killer (Japan, Europe) (Alt 1).mp4</video>
 		<marquee>./marquee/Vampire Killer (Japan, Europe) (Alt 1).png</marquee>
@@ -13791,7 +13791,7 @@
 	</game>
 	<game>
 		<path>./Vampire Killer (Japan, Europe) (Alt 2).zip</path>
-		<name>뱀파이어 킬러 (일본,유럽판)(대체 2)</name>
+		<name>악마성 드라귤라 / 뱀파이어 킬러(대체 2)</name>
 		<image>./snap/Vampire Killer (Japan, Europe) (Alt 2).png</image>
 		<video>./video/Vampire Killer (Japan, Europe) (Alt 2).mp4</video>
 		<marquee>./marquee/Vampire Killer (Japan, Europe) (Alt 2).png</marquee>
@@ -13804,7 +13804,7 @@
 	</game>
 	<game>
 		<path>./Vampire Killer (Japan, Europe) (Alt 3).zip</path>
-		<name>뱀파이어 킬러 (일본,유럽판)(대체 3)</name>
+		<name>악마성 드라귤라 / 뱀파이어 킬러(대체 3)</name>
 		<image>./snap/Vampire Killer (Japan, Europe) (Alt 3).png</image>
 		<video>./video/Vampire Killer (Japan, Europe) (Alt 3).mp4</video>
 		<marquee>./marquee/Vampire Killer (Japan, Europe) (Alt 3).png</marquee>
@@ -13817,7 +13817,7 @@
 	</game>
 	<game>
 		<path>./Vampire Killer (Japan, Europe).zip</path>
-		<name>뱀파이어 킬러 (일본,유럽판)</name>
+		<name>악마성 드라귤라 / 뱀파이어 킬러</name>
 		<image>./snap/Vampire Killer (Japan, Europe).png</image>
 		<video>./video/Vampire Killer (Japan, Europe).mp4</video>
 		<marquee>./marquee/Vampire Killer (Japan, Europe).png</marquee>
@@ -13986,7 +13986,7 @@
 	</game>
 	<game>
 		<path>./Wonder Boy (Japan) (Alt 1).zip</path>
-		<name>원더 보이 (대체 1)</name>
+		<name>원더 보이 / 모험도 (대체 1)</name>
 		<image>./snap/Wonder Boy (Japan) (Alt 1).png</image>
 		<video>./video/Wonder Boy (Japan) (Alt 1).mp4</video>
 		<marquee>./marquee/Wonder Boy (Japan) (Alt 1).png</marquee>
@@ -13999,7 +13999,7 @@
 	</game>
 	<game>
 		<path>./Wonder Boy (Japan).zip</path>
-		<name>원더 보이</name>
+		<name>원더 보이 / 모험도</name>
 		<image>./snap/Wonder Boy (Japan).png</image>
 		<video>./video/Wonder Boy (Japan).mp4</video>
 		<marquee>./marquee/Wonder Boy (Japan).png</marquee>
