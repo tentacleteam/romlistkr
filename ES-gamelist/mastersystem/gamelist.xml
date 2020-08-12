@@ -1,11 +1,11 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <!--
 * 제목 : 레트로게임 롬 목록 한글화 프로젝트
 * 지원프론트엔드 : RetroPie, Recalbox, Attract-Mode
 * 지원에뮬 : Arcade(MAME, AdvMAME, FBNeo), NES, SNES, MD, GB, GBC, GBA, PCE, SMS, Sega 32X, NGP, NGPC, WS, WSC
 * 제작자 : 텐타클 팀
-* 최종수정 : May 14, 2020
+* 최종수정 : August 8, 2020
 * 카페 : http://cafe.naver.com/raspigamer
 * 레트로게임 롬 목록 한글화 자료는 오픈소스입니다. MIT 라이센스를 따르고 있으므로 라이센스와 출처(http://cafe.naver.com/raspigamer) 표시만 지켜주시면 자유롭게 사용하실 수 있습니다.
 -->
@@ -23,7 +23,7 @@
 	</game>
 	<game>
 		<path>./3 in 1 - The Best Game Collection (A) (Korea) (Unl).zip</path>
-		<name>3 게임 합팩 - 베스트 게임 컬렉션 (A)(한국판)(해적판)</name>
+		<name>3 게임 합팩 - 베스트 게임 컬렉션 (A)(한국판)</name>
 		<image>./snap/3 in 1 - The Best Game Collection (A) (Korea) (Unl).png</image>
 		<video>./video/3 in 1 - The Best Game Collection (A) (Korea) (Unl).mp4</video>
 		<marquee>./marquee/3 in 1 - The Best Game Collection (A) (Korea) (Unl).png</marquee>
@@ -35,7 +35,7 @@
 	</game>
 	<game>
 		<path>./3 in 1 - The Best Game Collection (B) (Korea) (Unl).zip</path>
-		<name>3 게임 합팩 - 베스트 게임 컬렉션 (B)(한국판)(해적판)</name>
+		<name>3 게임 합팩 - 베스트 게임 컬렉션 (B)(한국판)</name>
 		<image>./snap/3 in 1 - The Best Game Collection (B) (Korea) (Unl).png</image>
 		<video>./video/3 in 1 - The Best Game Collection (B) (Korea) (Unl).mp4</video>
 		<marquee>./marquee/3 in 1 - The Best Game Collection (B) (Korea) (Unl).png</marquee>
@@ -47,7 +47,7 @@
 	</game>
 	<game>
 		<path>./3 in 1 - The Best Game Collection (C) (Korea) (Unl).zip</path>
-		<name>3 게임 합팩 - 베스트 게임 컬렉션 (C)(한국판)(해적판)</name>
+		<name>3 게임 합팩 - 베스트 게임 컬렉션 (C)(한국판)</name>
 		<image>./snap/3 in 1 - The Best Game Collection (C) (Korea) (Unl).png</image>
 		<video>./video/3 in 1 - The Best Game Collection (C) (Korea) (Unl).mp4</video>
 		<marquee>./marquee/3 in 1 - The Best Game Collection (C) (Korea) (Unl).png</marquee>
@@ -59,7 +59,7 @@
 	</game>
 	<game>
 		<path>./3 in 1 - The Best Game Collection (D) (Korea) (Unl).zip</path>
-		<name>3 게임 합팩 - 베스트 게임 컬렉션 (D)(한국판)(해적판)</name>
+		<name>3 게임 합팩 - 베스트 게임 컬렉션 (D)(한국판)</name>
 		<image>./snap/3 in 1 - The Best Game Collection (D) (Korea) (Unl).png</image>
 		<video>./video/3 in 1 - The Best Game Collection (D) (Korea) (Unl).mp4</video>
 		<marquee>./marquee/3 in 1 - The Best Game Collection (D) (Korea) (Unl).png</marquee>
@@ -71,7 +71,7 @@
 	</game>
 	<game>
 		<path>./3 in 1 - The Best Game Collection (E) (Korea) (Unl).zip</path>
-		<name>3 게임 합팩 - 베스트 게임 컬렉션 (E)(한국판)(해적판)</name>
+		<name>3 게임 합팩 - 베스트 게임 컬렉션 (E)(한국판)</name>
 		<image>./snap/3 in 1 - The Best Game Collection (E) (Korea) (Unl).png</image>
 		<video>./video/3 in 1 - The Best Game Collection (E) (Korea) (Unl).mp4</video>
 		<marquee>./marquee/3 in 1 - The Best Game Collection (E) (Korea) (Unl).png</marquee>
@@ -83,7 +83,7 @@
 	</game>
 	<game>
 		<path>./3 in 1 - The Best Game Collection (F) (Korea) (Unl).zip</path>
-		<name>3 게임 합팩 - 베스트 게임 컬렉션 (F)(한국판)(해적판)</name>
+		<name>3 게임 합팩 - 베스트 게임 컬렉션 (F)(한국판)</name>
 		<image>./snap/3 in 1 - The Best Game Collection (F) (Korea) (Unl).png</image>
 		<video>./video/3 in 1 - The Best Game Collection (F) (Korea) (Unl).mp4</video>
 		<marquee>./marquee/3 in 1 - The Best Game Collection (F) (Korea) (Unl).png</marquee>
@@ -97,7 +97,7 @@
 		<path>./3D Gunner (USA) (Demo).zip</path>
 		<name>3D 거너 (데모)</name>
 		<image>./snap/3D Gunner (USA) (Demo).png</image>
-		<video>./video/3D Gunner (USA) (Demo).mp4</video>
+		<video>./video/Missile Defense 3-D (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/3D Gunner (USA) (Demo).png</marquee>
 		<developer/>
 		<publisher/>
@@ -119,7 +119,7 @@
 	</game>
 	<game>
 		<path>./8 in 1 - The Best Game Collection (A) (Korea) (Unl).zip</path>
-		<name>8 게임 합팩 - 베스트 게임 컬렉션 (A)(한국판)(해적판)</name>
+		<name>8 게임 합팩 - 베스트 게임 컬렉션 (A)(한국판)</name>
 		<image>./snap/8 in 1 - The Best Game Collection (A) (Korea) (Unl).png</image>
 		<video>./video/8 in 1 - The Best Game Collection (A) (Korea) (Unl).mp4</video>
 		<marquee>./marquee/8 in 1 - The Best Game Collection (A) (Korea) (Unl).png</marquee>
@@ -131,7 +131,7 @@
 	</game>
 	<game>
 		<path>./8 in 1 - The Best Game Collection (B) (Korea) (Unl).zip</path>
-		<name>8 게임 합팩 - 베스트 게임 컬렉션 (B)(한국판)(해적판)</name>
+		<name>8 게임 합팩 - 베스트 게임 컬렉션 (B)(한국판)</name>
 		<image>./snap/8 in 1 - The Best Game Collection (B) (Korea) (Unl).png</image>
 		<video>./video/8 in 1 - The Best Game Collection (B) (Korea) (Unl).mp4</video>
 		<marquee>./marquee/8 in 1 - The Best Game Collection (B) (Korea) (Unl).png</marquee>
@@ -143,7 +143,7 @@
 	</game>
 	<game>
 		<path>./8 in 1 - The Best Game Collection (C) (Korea) (Unl).zip</path>
-		<name>8 게임 합팩 - 베스트 게임 컬렉션 (C)(한국판)(해적판)</name>
+		<name>8 게임 합팩 - 베스트 게임 컬렉션 (C)(한국판)</name>
 		<image>./snap/8 in 1 - The Best Game Collection (C) (Korea) (Unl).png</image>
 		<video>./video/8 in 1 - The Best Game Collection (C) (Korea) (Unl).mp4</video>
 		<marquee>./marquee/8 in 1 - The Best Game Collection (C) (Korea) (Unl).png</marquee>
@@ -155,7 +155,7 @@
 	</game>
 	<game>
 		<path>./94 Super World Cup Soccer (Korea) (Unl).zip</path>
-		<name>94 슈퍼 월드컵 사커 (한국판)(해적판)</name>
+		<name>94 슈퍼 월드컵 사커 (한국판)</name>
 		<image>./snap/94 Super World Cup Soccer (Korea) (Unl).png</image>
 		<video>./video/94 Super World Cup Soccer (Korea) (Unl).mp4</video>
 		<marquee>./marquee/94 Super World Cup Soccer (Korea) (Unl).png</marquee>
@@ -163,7 +163,7 @@
 		<publisher>다우정보/열림기획</publisher>
 		<genre/>
 		<players/>
-		<releasedate/>
+		<releasedate>19940601T000000</releasedate>
 	</game>
 	<game>
 		<path>./Ace of Aces (Europe, Brazil).zip</path>
@@ -181,37 +181,37 @@
 		<path>./Action Fighter (Japan, Europe) (Beta).zip</path>
 		<name>액션 파이터 (일본,유럽판)(베타)</name>
 		<image>./snap/Action Fighter (Japan, Europe) (Beta).png</image>
-		<video>./video/Action Fighter (Japan, Europe) (Beta).mp4</video>
+		<video>./video/Action Fighter (USA, Europe, Brazil) (Rev 1).mp4</video>
 		<marquee>./marquee/Action Fighter (Japan, Europe) (Beta).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19860101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Action Fighter (Japan, Europe).zip</path>
 		<name>액션 파이터 (일본,유럽판)</name>
 		<image>./snap/Action Fighter (Japan, Europe).png</image>
-		<video>./video/Action Fighter (Japan, Europe).mp4</video>
+		<video>./video/Action Fighter (USA, Europe, Brazil) (Rev 1).mp4</video>
 		<marquee>./marquee/Action Fighter (Japan, Europe).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19860101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Action Fighter (Taiwan) (Unl).zip</path>
 		<name>액션 파이터 (대만판)(해적판)</name>
 		<image>./snap/Action Fighter (Taiwan) (Unl).png</image>
-		<video>./video/Action Fighter (Taiwan) (Unl).mp4</video>
+		<video>./video/Action Fighter (USA, Europe, Brazil) (Rev 1).mp4</video>
 		<marquee>./marquee/Action Fighter (Taiwan) (Unl).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
-		<releasedate>19860102T000000</releasedate>
+		<players>2</players>
+		<releasedate>19860101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Action Fighter (USA, Europe, Brazil) (Rev 1).zip</path>
@@ -222,8 +222,8 @@
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
-		<releasedate>19860102T000000</releasedate>
+		<players>2</players>
+		<releasedate>19860101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Addams Family, The (Europe).zip</path>
@@ -253,7 +253,7 @@
 		<path>./Aerial Assault (USA).zip</path>
 		<name>에리얼 어썰트</name>
 		<image>./snap/Aerial Assault (USA).png</image>
-		<video>./video/Aerial Assault (USA).mp4</video>
+		<video>./video/Aerial Assault (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Aerial Assault (USA).png</marquee>
 		<developer>삼입전기</developer>
 		<publisher>세가</publisher>
@@ -275,9 +275,9 @@
 	</game>
 	<game>
 		<path>./Agigongnyong Dooly (Korea) (Unl).zip</path>
-		<name>아기공룡 둘리 (한국판)(해적판)</name>
+		<name>아기공룡 둘리 (한국판)</name>
 		<image>./snap/Agigongnyong Dooly (Korea) (Unl).png</image>
-		<video>./video/Agigongnyong Dooly (Korea) (Unl).mp4</video>
+		<video>./video/Dinosaur Dooley, The (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Agigongnyong Dooly (Korea) (Unl).png</marquee>
 		<developer>다우</developer>
 		<publisher>이노베이션 테크</publisher>
@@ -301,7 +301,7 @@
 		<path>./Akai Koudan Zillion ~ Zillion (Japan, Europe) (En,Ja).zip</path>
 		<name>붉은 광탄 질리온 (일본,유럽판)(영어,일본어)</name>
 		<image>./snap/Akai Koudan Zillion ~ Zillion (Japan, Europe) (En,Ja).png</image>
-		<video>./video/Akai Koudan Zillion ~ Zillion (Japan, Europe) (En,Ja).mp4</video>
+		<video>./video/Zillion (Europe, Brazil) (Rev 2).mp4</video>
 		<marquee>./marquee/Akai Koudan Zillion ~ Zillion (Japan, Europe) (En,Ja).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
@@ -325,7 +325,7 @@
 		<path>./Aleste (Japan).zip</path>
 		<name>알레스트 (일본판)</name>
 		<image>./snap/Aleste (Japan).png</image>
-		<video>./video/Aleste (Japan).mp4</video>
+		<video>./video/Power Strike (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Aleste (Japan).png</marquee>
 		<developer>컴파일</developer>
 		<publisher>컴파일/세가</publisher>
@@ -337,7 +337,7 @@
 		<path>./Alex Kidd - High-Tech World (USA, Europe, Brazil) (Beta).zip</path>
 		<name>알렉스 키드 - 하이테크 월드 (미국,유럽,브라질판)(베타)</name>
 		<image>./snap/Alex Kidd - High-Tech World (USA, Europe, Brazil) (Beta).png</image>
-		<video>./video/Alex Kidd - High-Tech World (USA, Europe, Brazil) (Beta).mp4</video>
+		<video>./video/Alex Kidd - High-Tech World (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Alex Kidd - High-Tech World (USA, Europe, Brazil) (Beta).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
@@ -373,7 +373,7 @@
 		<path>./Alex Kidd in Miracle World (Taiwan) (Unl).zip</path>
 		<name>알렉스 키드 인 미라클 월드 (대만판)(해적판)</name>
 		<image>./snap/Alex Kidd in Miracle World (Taiwan) (Unl).png</image>
-		<video>./video/Alex Kidd in Miracle World (Taiwan) (Unl).mp4</video>
+		<video>./video/Alex Kidd in Miracle World (USA, Europe, Brazil) (Rev 1).mp4</video>
 		<marquee>./marquee/Alex Kidd in Miracle World (Taiwan) (Unl).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
@@ -385,7 +385,7 @@
 		<path>./Alex Kidd in Miracle World (USA, Europe).zip</path>
 		<name>알렉스 키드 인 미라클 월드 (미국,유럽판)</name>
 		<image>./snap/Alex Kidd in Miracle World (USA, Europe).png</image>
-		<video>./video/Alex Kidd in Miracle World (USA, Europe).mp4</video>
+		<video>./video/Alex Kidd in Miracle World (USA, Europe, Brazil) (Rev 1).mp4</video>
 		<marquee>./marquee/Alex Kidd in Miracle World (USA, Europe).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
@@ -433,7 +433,7 @@
 		<path>./Alex Kidd no Miracle World (Japan).zip</path>
 		<name>알렉스 키드의 미라클 월드 (일본판)</name>
 		<image>./snap/Alex Kidd no Miracle World (Japan).png</image>
-		<video>./video/Alex Kidd no Miracle World (Japan).mp4</video>
+		<video>./video/Alex Kidd in Miracle World (USA, Europe, Brazil) (Rev 1).mp4</video>
 		<marquee>./marquee/Alex Kidd no Miracle World (Japan).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
@@ -455,7 +455,7 @@
 	</game>
 	<game>
 		<path>./Alibaba and 40 Thieves (Korea) (Unl).zip</path>
-		<name>알리바바와 40인의 도둑 (한국판)(해적판)</name>
+		<name>알리바바와 40인의 도둑 (한국판)</name>
 		<image>./snap/Alibaba and 40 Thieves (Korea) (Unl).png</image>
 		<video>./video/Alibaba and 40 Thieves (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Alibaba and 40 Thieves (Korea) (Unl).png</marquee>
@@ -474,7 +474,7 @@
 		<developer>프로브</developer>
 		<publisher>어클레임</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19921001T000000</releasedate>
 	</game>
 	<game>
@@ -493,25 +493,25 @@
 		<path>./Alien Syndrome (Japan).zip</path>
 		<name>에일리언 신드롬 (일본판)</name>
 		<image>./snap/Alien Syndrome (Japan).png</image>
-		<video>./video/Alien Syndrome (Japan).mp4</video>
+		<video>./video/Alien Syndrome (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Alien Syndrome (Japan).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19871018T000000</releasedate>
 	</game>
 	<game>
 		<path>./Alien Syndrome (USA, Europe, Brazil) (Beta).zip</path>
 		<name>에일리언 신드롬 (미국,유럽,브라질판)(베타)</name>
 		<image>./snap/Alien Syndrome (USA, Europe, Brazil) (Beta).png</image>
-		<video>./video/Alien Syndrome (USA, Europe, Brazil) (Beta).mp4</video>
+		<video>./video/Alien Syndrome (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Alien Syndrome (USA, Europe, Brazil) (Beta).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
-		<releasedate>19880101T000000</releasedate>
+		<players>2</players>
+		<releasedate>19871018T000000</releasedate>
 	</game>
 	<game>
 		<path>./Alien Syndrome (USA, Europe, Brazil).zip</path>
@@ -522,8 +522,8 @@
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
-		<releasedate>19880101T000000</releasedate>
+		<players>2</players>
+		<releasedate>19871018T000000</releasedate>
 	</game>
 	<game>
 		<path>./Altered Beast (USA, Europe, Brazil).zip</path>
@@ -546,7 +546,7 @@
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19890101T000000</releasedate>
 	</game>
 	<game>
@@ -558,7 +558,7 @@
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19890101T000000</releasedate>
 	</game>
 	<game>
@@ -570,14 +570,14 @@
 		<developer>테크마직</developer>
 		<publisher>테크마직</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19930101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Anmitsu Hime (Japan).zip</path>
 		<name>안미츠 공주 (일본판)</name>
 		<image>./snap/Anmitsu Hime (Japan).png</image>
-		<video>./video/Anmitsu Hime (Japan).mp4</video>
+		<video>./video/Alex Kidd - High-Tech World (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Anmitsu Hime (Japan).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
@@ -594,7 +594,7 @@
 		<developer>이미지 소프트웨어</developer>
 		<publisher>아타리/버진</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19920601T000000</releasedate>
 	</game>
 	<game>
@@ -606,7 +606,7 @@
 		<developer>테크모</developer>
 		<publisher>살리오/테크모</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19880325T000000</releasedate>
 	</game>
 	<game>
@@ -625,19 +625,19 @@
 		<path>./Ashura (Japan).zip</path>
 		<name>아수라 (일본판)</name>
 		<image>./snap/Ashura (Japan).png</image>
-		<video>./video/Ashura (Japan).mp4</video>
+		<video>./video/Secret Command (Europe).mp4</video>
 		<marquee>./marquee/Ashura (Japan).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19861116T000000</releasedate>
 	</game>
 	<game>
 		<path>./Assault City (Europe) (Joypad).zip</path>
 		<name>어썰트 시티 (유럽판)</name>
 		<image>./snap/Assault City (Europe) (Joypad).png</image>
-		<video>./video/Assault City (Europe) (Joypad).mp4</video>
+		<video>./video/Assault City (USA, Europe, Brazil) (Light Phaser).mp4</video>
 		<marquee>./marquee/Assault City (Europe) (Joypad).png</marquee>
 		<developer>삼립</developer>
 		<publisher>세가</publisher>
@@ -666,19 +666,19 @@
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19920401T000000</releasedate>
 	</game>
 	<game>
 		<path>./Asterix (Europe, Brazil) (En,Fr).zip</path>
 		<name>아스테릭스</name>
 		<image>./snap/Asterix (Europe, Brazil) (En,Fr).png</image>
-		<video>./video/Asterix (Europe, Brazil) (En,Fr).mp4</video>
+		<video>./video/Asterix (Europe, Brazil) (En,Fr) (Rev 1).mp4</video>
 		<marquee>./marquee/Asterix (Europe, Brazil) (En,Fr).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19920401T000000</releasedate>
 	</game>
 	<game>
@@ -702,19 +702,19 @@
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19940101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Astro Flash (Japan).zip</path>
 		<name>아스트로 플래쉬 (일본판)</name>
 		<image>./snap/Astro Flash (Japan).png</image>
-		<video>./video/Astro Flash (Japan).mp4</video>
+		<video>./video/TransBot (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Astro Flash (Japan).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19851222T000000</releasedate>
 	</game>
 	<game>
@@ -726,7 +726,7 @@
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19860101T000000</releasedate>
 	</game>
 	<game>
@@ -738,7 +738,7 @@
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19860101T000000</releasedate>
 	</game>
 	<game>
@@ -834,7 +834,7 @@
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19890101T000000</releasedate>
 	</game>
 	<game>
@@ -870,7 +870,7 @@
 		<developer>레어</developer>
 		<publisher>테크토이</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19940101T000000</releasedate>
 	</game>
 	<game>
@@ -882,20 +882,20 @@
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19861101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Blade Eagle (World) (Beta).zip</path>
 		<name>블레이드 이글 (세계판)(베타)</name>
 		<image>./snap/Blade Eagle (World) (Beta).png</image>
-		<video>./video/Blade Eagle (World) (Beta).mp4</video>
+		<video>./video/Blade Eagle ~ Blade Eagle 3-D (World).mp4</video>
 		<marquee>./marquee/Blade Eagle (World) (Beta).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
 		<players>1</players>
-		<releasedate>19880101T000000</releasedate>
+		<releasedate>19880901T000000</releasedate>
 	</game>
 	<game>
 		<path>./Blade Eagle ~ Blade Eagle 3-D (World).zip</path>
@@ -923,7 +923,7 @@
 	</game>
 	<game>
 		<path>./Bobble Bobble (Korea) (Unl).zip</path>
-		<name>보블 보블 (한국판)(해적판)</name>
+		<name>보블 보블 (한국판)</name>
 		<image>./snap/Bobble Bobble (Korea) (Unl).png</image>
 		<video>./video/Bobble Bobble (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Bobble Bobble (Korea) (Unl).png</marquee>
@@ -990,7 +990,7 @@
 		<developer>타이토</developer>
 		<publisher>타이토</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19911201T000000</releasedate>
 	</game>
 	<game>
@@ -1002,7 +1002,7 @@
 		<developer>심즈</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19931201T000000</releasedate>
 	</game>
 	<game>
@@ -1014,7 +1014,7 @@
 		<developer>에픽스</developer>
 		<publisher>에픽스/프로브/세가</publisher>
 		<genre/>
-		<players>43,838</players>
+		<players>8</players>
 		<releasedate>19930101T000000</releasedate>
 	</game>
 	<game>
@@ -1026,7 +1026,7 @@
 		<developer>에픽스</developer>
 		<publisher>에픽스/세가</publisher>
 		<genre/>
-		<players>43,838</players>
+		<players>8</players>
 		<releasedate>19890501T000000</releasedate>
 	</game>
 	<game>
@@ -1045,25 +1045,25 @@
 		<path>./Captain Silver (USA) (Beta).zip</path>
 		<name>캡틴 실버 (베타)</name>
 		<image>./snap/Captain Silver (USA) (Beta).png</image>
-		<video>./video/Captain Silver (USA) (Beta).mp4</video>
+		<video>./video/Captain Silver (Japan, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Captain Silver (USA) (Beta).png</marquee>
 		<developer>데이터 이스트</developer>
 		<publisher>데이터 이스트/세가</publisher>
 		<genre/>
 		<players>1</players>
-		<releasedate>19890901T000000</releasedate>
+		<releasedate>19880702T000000</releasedate>
 	</game>
 	<game>
 		<path>./Captain Silver (USA).zip</path>
 		<name>캡틴 실버</name>
 		<image>./snap/Captain Silver (USA).png</image>
-		<video>./video/Captain Silver (USA).mp4</video>
+		<video>./video/Captain Silver (Japan, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Captain Silver (USA).png</marquee>
 		<developer>데이터 이스트</developer>
 		<publisher>데이터 이스트/세가</publisher>
 		<genre/>
 		<players>1</players>
-		<releasedate>19890901T000000</releasedate>
+		<releasedate>19880702T000000</releasedate>
 	</game>
 	<game>
 		<path>./Casino Games (USA, Europe).zip</path>
@@ -1093,7 +1093,7 @@
 		<path>./Castle of Illusion Starring Mickey Mouse (USA, Brazil) (Demo).zip</path>
 		<name>미키마우스의 환상의 성 (데모)</name>
 		<image>./snap/Castle of Illusion Starring Mickey Mouse (USA, Brazil) (Demo).png</image>
-		<video>./video/Castle of Illusion Starring Mickey Mouse (USA, Brazil) (Demo).mp4</video>
+		<video>./video/Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (Rev 1).mp4</video>
 		<marquee>./marquee/Castle of Illusion Starring Mickey Mouse (USA, Brazil) (Demo).png</marquee>
 		<developer>세가</developer>
 		<publisher>디즈니/세가</publisher>
@@ -1105,7 +1105,7 @@
 		<path>./Castle of Illusion Starring Mickey Mouse (USA, Brazil).zip</path>
 		<name>미키마우스의 환상의 성</name>
 		<image>./snap/Castle of Illusion Starring Mickey Mouse (USA, Brazil).png</image>
-		<video>./video/Castle of Illusion Starring Mickey Mouse (USA, Brazil).mp4</video>
+		<video>./video/Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (Rev 1).mp4</video>
 		<marquee>./marquee/Castle of Illusion Starring Mickey Mouse (USA, Brazil).png</marquee>
 		<developer>세가</developer>
 		<publisher>디즈니/세가</publisher>
@@ -1158,7 +1158,7 @@
 		<developer>세가</developer>
 		<publisher>테크토이</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19930101T000000</releasedate>
 	</game>
 	<game>
@@ -1177,25 +1177,25 @@
 		<path>./Choplifter (Japan) (Proto).zip</path>
 		<name>촙리프터 (일본판)(시험판)</name>
 		<image>./snap/Choplifter (Japan) (Proto).png</image>
-		<video>./video/Choplifter (Japan) (Proto).mp4</video>
+		<video>./video/Choplifter (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Choplifter (Japan) (Proto).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19850101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Choplifter (USA, Europe, Brazil) (Beta).zip</path>
 		<name>촙리프터 (미국,유럽,브라질판)(베타)</name>
 		<image>./snap/Choplifter (USA, Europe, Brazil) (Beta).png</image>
-		<video>./video/Choplifter (USA, Europe, Brazil) (Beta).mp4</video>
+		<video>./video/Choplifter (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Choplifter (USA, Europe, Brazil) (Beta).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
-		<releasedate>19860101T000000</releasedate>
+		<players>2</players>
+		<releasedate>19850101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Choplifter (USA, Europe, Brazil).zip</path>
@@ -1206,14 +1206,14 @@
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
-		<releasedate>19860101T000000</releasedate>
+		<players>2</players>
+		<releasedate>19850101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Chouon Senshi Borgman (Japan) (Beta).zip</path>
 		<name>초음전사 보그맨 (일본판)(베타)</name>
 		<image>./snap/Chouon Senshi Borgman (Japan) (Beta).png</image>
-		<video>./video/Chouon Senshi Borgman (Japan) (Beta).mp4</video>
+		<video>./video/Cyborg Hunter (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Chouon Senshi Borgman (Japan) (Beta).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
@@ -1225,7 +1225,7 @@
 		<path>./Chouon Senshi Borgman (Japan).zip</path>
 		<name>초음전사 보그맨 (일본판)</name>
 		<image>./snap/Chouon Senshi Borgman (Japan).png</image>
-		<video>./video/Chouon Senshi Borgman (Japan).mp4</video>
+		<video>./video/Cyborg Hunter (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Chouon Senshi Borgman (Japan).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
@@ -1249,7 +1249,7 @@
 		<path>./Chuck Rock II - Son of Chuck (Brazil).zip</path>
 		<name>척 록 II - 척의 아들 (브라질판)</name>
 		<image>./snap/Chuck Rock II - Son of Chuck (Brazil).png</image>
-		<video>./video/Chuck Rock II - Son of Chuck (Brazil).mp4</video>
+		<video>./video/Chuck Rock II - Son of Chuck (Europe).mp4</video>
 		<marquee>./marquee/Chuck Rock II - Son of Chuck (Brazil).png</marquee>
 		<developer>코어디자인</developer>
 		<publisher>코어디자인</publisher>
@@ -1267,13 +1267,13 @@
 		<publisher>코어디자인</publisher>
 		<genre/>
 		<players>1</players>
-		<releasedate>19930101T000000</releasedate>
+		<releasedate>19940101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Circuit, The (Japan).zip</path>
 		<name>서킷 (일본판)</name>
 		<image>./snap/Circuit, The (Japan).png</image>
-		<video>./video/Circuit, The (Japan).mp4</video>
+		<video>./video/World Grand Prix (Europe).mp4</video>
 		<marquee>./marquee/Circuit, The (Japan).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
@@ -1290,7 +1290,7 @@
 		<developer>타이토</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19890801T000000</releasedate>
 	</game>
 	<game>
@@ -1309,12 +1309,12 @@
 		<path>./Columns (USA, Europe, Brazil) (Beta).zip</path>
 		<name>컬럼스 (미국,유럽,브라질판)(베타)</name>
 		<image>./snap/Columns (USA, Europe, Brazil) (Beta).png</image>
-		<video>./video/Columns (USA, Europe, Brazil) (Beta).mp4</video>
+		<video>./video/Columns ~ Shapes and Columns (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Columns (USA, Europe, Brazil) (Beta).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19900901T000000</releasedate>
 	</game>
 	<game>
@@ -1326,7 +1326,7 @@
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19900901T000000</releasedate>
 	</game>
 	<game>
@@ -1343,9 +1343,9 @@
 	</game>
 	<game>
 		<path>./Comical Machine Gun Joe (Korea) (Unl).zip</path>
-		<name>모키걸 머신 건 죠 (한국판)(해적판)</name>
+		<name>모키걸 머신 건 죠 (한국판)</name>
 		<image>./snap/Comical Machine Gun Joe (Korea) (Unl).png</image>
-		<video>./video/Comical Machine Gun Joe (Korea) (Unl).mp4</video>
+		<video>./video/Comical Machine Gun Joe (Japan).mp4</video>
 		<marquee>./marquee/Comical Machine Gun Joe (Korea) (Unl).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
@@ -1357,7 +1357,7 @@
 		<path>./Comical Machine Gun Joe (Taiwan) (Unl).zip</path>
 		<name>모키걸 머신 건 죠 (대만판)(해적판)</name>
 		<image>./snap/Comical Machine Gun Joe (Taiwan) (Unl).png</image>
-		<video>./video/Comical Machine Gun Joe (Taiwan) (Unl).mp4</video>
+		<video>./video/Comical Machine Gun Joe (Japan).mp4</video>
 		<marquee>./marquee/Comical Machine Gun Joe (Taiwan) (Unl).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
@@ -1386,14 +1386,14 @@
 		<developer>코드마스터즈</developer>
 		<publisher>코드마스터즈</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19930101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Cyber Shinobi, The (Europe, Brazil) (Beta).zip</path>
 		<name>사이보그 시노비 (베타)</name>
 		<image>./snap/Cyber Shinobi, The (Europe, Brazil) (Beta).png</image>
-		<video>./video/Cyber Shinobi, The (Europe, Brazil) (Beta).mp4</video>
+		<video>./video/Cyber Shinobi, The (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Cyber Shinobi, The (Europe, Brazil) (Beta).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
@@ -1427,7 +1427,7 @@
 	</game>
 	<game>
 		<path>./Cyborg Z (Korea) (Unl).zip</path>
-		<name>사이보그 Z (한국판)(해적판)</name>
+		<name>사이보그 Z (한국판)</name>
 		<image>./snap/Cyborg Z (Korea) (Unl).png</image>
 		<video>./video/Cyborg Z (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Cyborg Z (Korea) (Unl).png</marquee>
@@ -1439,7 +1439,7 @@
 	</game>
 	<game>
 		<path>./C_So! (Korea) (Unl).zip</path>
-		<name>시소 (한국판)(해적판)</name>
+		<name>시소 (한국판)</name>
 		<image>./snap/C_So! (Korea) (Unl).png</image>
 		<video>./video/C_So! (Korea) (Unl).mp4</video>
 		<marquee>./marquee/C_So! (Korea) (Unl).png</marquee>
@@ -1463,7 +1463,7 @@
 	</game>
 	<game>
 		<path>./Dallyeora Pigu-Wang (Korea) (Unl).zip</path>
-		<name>달려라 피구왕 (한국판)(해적판)</name>
+		<name>달려라 피구왕 (한국판)</name>
 		<image>./snap/Dallyeora Pigu-Wang (Korea) (Unl).png</image>
 		<video>./video/Dallyeora Pigu-Wang (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Dallyeora Pigu-Wang (Korea) (Unl).png</marquee>
@@ -1559,7 +1559,7 @@
 	</game>
 	<game>
 		<path>./Dinosaur Dooley, The (Korea) (Unl).zip</path>
-		<name>아기공룡 둘리 (한국판)(해적판)</name>
+		<name>아기공룡 둘리 (한국판)</name>
 		<image>./snap/Dinosaur Dooley, The (Korea) (Unl).png</image>
 		<video>./video/Dinosaur Dooley, The (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Dinosaur Dooley, The (Korea) (Unl).png</marquee>
@@ -1573,7 +1573,7 @@
 		<path>./Doki Doki Penguin Land - Uchuu Daibouken (Japan) (Beta).zip</path>
 		<name>두근 두근 팽귄 랜드 우주대모험 (일본판)(베타)</name>
 		<image>./snap/Doki Doki Penguin Land - Uchuu Daibouken (Japan) (Beta).png</image>
-		<video>./video/Doki Doki Penguin Land - Uchuu Daibouken (Japan) (Beta).mp4</video>
+		<video>./video/Penguin Land (USA, Europe).mp4</video>
 		<marquee>./marquee/Doki Doki Penguin Land - Uchuu Daibouken (Japan) (Beta).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
@@ -1585,7 +1585,7 @@
 		<path>./Doki Doki Penguin Land - Uchuu Daibouken (Japan).zip</path>
 		<name>두근 두근 팽귄 랜드 우주대모험 (일본판)</name>
 		<image>./snap/Doki Doki Penguin Land - Uchuu Daibouken (Japan).png</image>
-		<video>./video/Doki Doki Penguin Land - Uchuu Daibouken (Japan).mp4</video>
+		<video>./video/Penguin Land (USA, Europe).mp4</video>
 		<marquee>./marquee/Doki Doki Penguin Land - Uchuu Daibouken (Japan).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
@@ -1602,19 +1602,19 @@
 		<developer>테크모</developer>
 		<publisher>트레이드웨스트</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19880101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Double Hawk (Europe) (Beta).zip</path>
 		<name>더블 호크 (유럽판)(베타)</name>
 		<image>./snap/Double Hawk (Europe) (Beta).png</image>
-		<video>./video/Double Hawk (Europe) (Beta).mp4</video>
+		<video>./video/Double Hawk (Europe).mp4</video>
 		<marquee>./marquee/Double Hawk (Europe) (Beta).png</marquee>
 		<developer>오페라 하우스</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19900101T000000</releasedate>
 	</game>
 	<game>
@@ -1626,24 +1626,24 @@
 		<developer>오페라 하우스</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19900101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Double Target - Cynthia no Nemuri (Japan).zip</path>
 		<name>더블 타켓 (일본판)</name>
 		<image>./snap/Double Target - Cynthia no Nemuri (Japan).png</image>
-		<video>./video/Double Target - Cynthia no Nemuri (Japan).mp4</video>
+		<video>./video/Quartet (USA, Europe).mp4</video>
 		<marquee>./marquee/Double Target - Cynthia no Nemuri (Japan).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19870118T000000</releasedate>
 	</game>
 	<game>
 		<path>./Dr. HELLO (Korea) (Unl).zip</path>
-		<name>닥터 헬로 (한국판)(해적판)</name>
+		<name>닥터 헬로 (한국판)</name>
 		<image>./snap/Dr. HELLO (Korea) (Unl).png</image>
 		<video>./video/Dr. HELLO (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Dr. HELLO (Korea) (Unl).png</marquee>
@@ -1662,7 +1662,7 @@
 		<developer>컴파일</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19940101T000000</releasedate>
 	</game>
 	<game>
@@ -1674,7 +1674,7 @@
 		<developer>아발론 인터렉티브</developer>
 		<publisher>어클레임</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19950101T000000</releasedate>
 	</game>
 	<game>
@@ -1729,7 +1729,7 @@
 		<path>./E-SWAT (USA, Europe, Brazil) (Beta 1).zip</path>
 		<name>E-스와트 (미국,유럽,브라질판)(배타 1)</name>
 		<image>./snap/E-SWAT (USA, Europe, Brazil) (Beta 1).png</image>
-		<video>./video/E-SWAT (USA, Europe, Brazil) (Beta 1).mp4</video>
+		<video>./video/E-SWAT (USA, Europe, Brazil) (Rev 1).mp4</video>
 		<marquee>./marquee/E-SWAT (USA, Europe, Brazil) (Beta 1).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
@@ -1741,7 +1741,7 @@
 		<path>./E-SWAT (USA, Europe, Brazil) (Beta 2).zip</path>
 		<name>E-스와트 (미국,유럽,브라질판)(베타 2)</name>
 		<image>./snap/E-SWAT (USA, Europe, Brazil) (Beta 2).png</image>
-		<video>./video/E-SWAT (USA, Europe, Brazil) (Beta 2).mp4</video>
+		<video>./video/E-SWAT (USA, Europe, Brazil) (Rev 1).mp4</video>
 		<marquee>./marquee/E-SWAT (USA, Europe, Brazil) (Beta 2).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
@@ -1753,7 +1753,7 @@
 		<path>./E-SWAT (USA, Europe, Brazil) (Beta 3).zip</path>
 		<name>E-스와트 (미국,유럽,브라질판)(베타 3)</name>
 		<image>./snap/E-SWAT (USA, Europe, Brazil) (Beta 3).png</image>
-		<video>./video/E-SWAT (USA, Europe, Brazil) (Beta 3).mp4</video>
+		<video>./video/E-SWAT (USA, Europe, Brazil) (Rev 1).mp4</video>
 		<marquee>./marquee/E-SWAT (USA, Europe, Brazil) (Beta 3).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
@@ -1777,7 +1777,7 @@
 		<path>./E-SWAT (USA, Europe, Brazil).zip</path>
 		<name>E-스와트 (미국,유럽,브라질판)</name>
 		<image>./snap/E-SWAT (USA, Europe, Brazil).png</image>
-		<video>./video/E-SWAT (USA, Europe, Brazil).mp4</video>
+		<video>./video/E-SWAT (USA, Europe, Brazil) (Rev 1).mp4</video>
 		<marquee>./marquee/E-SWAT (USA, Europe, Brazil).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
@@ -1787,7 +1787,7 @@
 	</game>
 	<game>
 		<path>./E.I. - Exa Innova (Korea) (Unl).zip</path>
-		<name>엑사 이노바 (한국판)(해적판)</name>
+		<name>엑사 이노바 (한국판)</name>
 		<image>./snap/E.I. - Exa Innova (Korea) (Unl).png</image>
 		<video>./video/E.I. - Exa Innova (Korea) (Unl).mp4</video>
 		<marquee>./marquee/E.I. - Exa Innova (Korea) (Unl).png</marquee>
@@ -1799,7 +1799,7 @@
 	</game>
 	<game>
 		<path>./Eagles 5 (Korea) (Unl).zip</path>
-		<name>이글스 5 (한국판)(해적판)</name>
+		<name>이글스 5 (한국판)</name>
 		<image>./snap/Eagles 5 (Korea) (Unl).png</image>
 		<video>./video/Eagles 5 (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Eagles 5 (Korea) (Unl).png</marquee>
@@ -1849,7 +1849,7 @@
 		<path>./Enduro Racer (Japan).zip</path>
 		<name>엔듀로 레이서 (일본판)</name>
 		<image>./snap/Enduro Racer (Japan).png</image>
-		<video>./video/Enduro Racer (Japan).mp4</video>
+		<video>./video/Enduro Racer ~ Super Cross (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Enduro Racer (Japan).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
@@ -1883,7 +1883,7 @@
 	</game>
 	<game>
 		<path>./F-1 Spirit - The Way to Formula-1 (Korea) (Unl).zip</path>
-		<name>F1 스피릿 (한국판)(해적판)</name>
+		<name>F1 스피릿 (한국판)</name>
 		<image>./snap/F-1 Spirit - The Way to Formula-1 (Korea) (Unl).png</image>
 		<video>./video/F-1 Spirit - The Way to Formula-1 (Korea) (Unl).mp4</video>
 		<marquee>./marquee/F-1 Spirit - The Way to Formula-1 (Korea) (Unl).png</marquee>
@@ -1897,7 +1897,7 @@
 		<path>./F-16 Fighting Falcon (Japan).zip</path>
 		<name>F-16 파이터 팔콘 (일본판)</name>
 		<image>./snap/F-16 Fighting Falcon (Japan).png</image>
-		<video>./video/F-16 Fighting Falcon (Japan).mp4</video>
+		<video>./video/F-16 Fighting Falcon ~ F-16 Fighter ~ F16 Falcon Fighter (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/F-16 Fighting Falcon (Japan).png</marquee>
 		<developer>넥사</developer>
 		<publisher>아스키/세가</publisher>
@@ -1909,25 +1909,25 @@
 		<path>./F-16 Fighting Falcon (Taiwan) (Unl).zip</path>
 		<name>F-16 파이터 팔콘 (대만판)(해적판)</name>
 		<image>./snap/F-16 Fighting Falcon (Taiwan) (Unl).png</image>
-		<video>./video/F-16 Fighting Falcon (Taiwan) (Unl).mp4</video>
+		<video>./video/F-16 Fighting Falcon ~ F-16 Fighter ~ F16 Falcon Fighter (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/F-16 Fighting Falcon (Taiwan) (Unl).png</marquee>
 		<developer>넥사</developer>
 		<publisher>아스키/세가</publisher>
 		<genre/>
 		<players>1</players>
-		<releasedate>19860101T000000</releasedate>
+		<releasedate>19850101T000000</releasedate>
 	</game>
 	<game>
 		<path>./F-16 Fighting Falcon (USA).zip</path>
 		<name>F-16 파이터 팔콘</name>
 		<image>./snap/F-16 Fighting Falcon (USA).png</image>
-		<video>./video/F-16 Fighting Falcon (USA).mp4</video>
+		<video>./video/F-16 Fighting Falcon ~ F-16 Fighter ~ F16 Falcon Fighter (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/F-16 Fighting Falcon (USA).png</marquee>
 		<developer>넥사</developer>
 		<publisher>아스키/세가</publisher>
 		<genre/>
 		<players>1</players>
-		<releasedate>19860101T000000</releasedate>
+		<releasedate>19850101T000000</releasedate>
 	</game>
 	<game>
 		<path>./F-16 Fighting Falcon ~ F-16 Fighter ~ F16 Falcon Fighter (USA, Europe, Brazil).zip</path>
@@ -1950,12 +1950,12 @@
 		<developer>도마크 소프트웨어</developer>
 		<publisher>랜코</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19930101T000000</releasedate>
 	</game>
 	<game>
 		<path>./FA Tetris (Korea) (Unl).zip</path>
-		<name>FA 테트리스 (한국판)(해적판)</name>
+		<name>FA 테트리스 (한국판)</name>
 		<image>./snap/FA Tetris (Korea) (Unl).png</image>
 		<video>./video/FA Tetris (Korea) (Unl).mp4</video>
 		<marquee>./marquee/FA Tetris (Korea) (Unl).png</marquee>
@@ -1969,12 +1969,12 @@
 		<path>./Family Games (Japan).zip</path>
 		<name>패밀리 게임즈 (일본판)</name>
 		<image>./snap/Family Games (Japan).png</image>
-		<video>./video/Family Games (Japan).mp4</video>
+		<video>./video/Parlour Games (USA, Europe).mp4</video>
 		<marquee>./marquee/Family Games (Japan).png</marquee>
 		<developer>컴파일</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,834</players>
+		<players>4</players>
 		<releasedate>19871227T000000</releasedate>
 	</game>
 	<game>
@@ -1993,37 +1993,37 @@
 		<path>./Fantasy Zone (Japan).zip</path>
 		<name>판타지 존 (일본판)</name>
 		<image>./snap/Fantasy Zone (Japan).png</image>
-		<video>./video/Fantasy Zone (Japan).mp4</video>
+		<video>./video/Fantasy Zone (World) (Rev 1).mp4</video>
 		<marquee>./marquee/Fantasy Zone (Japan).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19860615T000000</releasedate>
 	</game>
 	<game>
 		<path>./Fantasy Zone (Taiwan) (Unl).zip</path>
 		<name>판타지 존 (대만판)(해적판)</name>
 		<image>./snap/Fantasy Zone (Taiwan) (Unl).png</image>
-		<video>./video/Fantasy Zone (Taiwan) (Unl).mp4</video>
+		<video>./video/Fantasy Zone (World) (Rev 1).mp4</video>
 		<marquee>./marquee/Fantasy Zone (Taiwan) (Unl).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
-		<releasedate>19860901T000000</releasedate>
+		<players>2</players>
+		<releasedate>19860615T000000</releasedate>
 	</game>
 	<game>
 		<path>./Fantasy Zone (World) (Beta).zip</path>
 		<name>판타지 존 (세계판)(베타)</name>
 		<image>./snap/Fantasy Zone (World) (Beta).png</image>
-		<video>./video/Fantasy Zone (World) (Beta).mp4</video>
+		<video>./video/Fantasy Zone (World) (Rev 1).mp4</video>
 		<marquee>./marquee/Fantasy Zone (World) (Beta).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
-		<releasedate>19860901T000000</releasedate>
+		<players>2</players>
+		<releasedate>19860615T000000</releasedate>
 	</game>
 	<game>
 		<path>./Fantasy Zone (World) (Rev 1).zip</path>
@@ -2034,8 +2034,8 @@
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
-		<releasedate>19860901T000000</releasedate>
+		<players>2</players>
+		<releasedate>19860615T000000</releasedate>
 	</game>
 	<game>
 		<path>./Fantasy Zone - The Maze (USA, Europe, Brazil).zip</path>
@@ -2046,7 +2046,7 @@
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19880101T000000</releasedate>
 	</game>
 	<game>
@@ -2065,7 +2065,7 @@
 		<path>./Fantasy Zone II - Opa-Opa no Namida (Japan).zip</path>
 		<name>판타지 존 2 - 오파오파의 눈물 (일본판)</name>
 		<image>./snap/Fantasy Zone II - Opa-Opa no Namida (Japan).png</image>
-		<video>./video/Fantasy Zone II - Opa-Opa no Namida (Japan).mp4</video>
+		<video>./video/Fantasy Zone II (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Fantasy Zone II - Opa-Opa no Namida (Japan).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
@@ -2101,12 +2101,12 @@
 		<path>./Final Bubble Bobble (Japan).zip</path>
 		<name>파이널 버블 보블 (일본판)</name>
 		<image>./snap/Final Bubble Bobble (Japan).png</image>
-		<video>./video/Final Bubble Bobble (Japan).mp4</video>
+		<video>./video/Bubble Bobble ~ Dragon Maze (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Final Bubble Bobble (Japan).png</marquee>
 		<developer>타이토</developer>
 		<publisher>타이토</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19880702T000000</releasedate>
 	</game>
 	<game>
@@ -2130,7 +2130,7 @@
 		<developer>그라프트골드</developer>
 		<publisher>테크토이</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19930101T000000</releasedate>
 	</game>
 	<game>
@@ -2147,7 +2147,7 @@
 	</game>
 	<game>
 		<path>./Flashpoint (Korea) (Unl).zip</path>
-		<name>플래시포인트 (한국판)(해적판)</name>
+		<name>플래시포인트 (한국판)</name>
 		<image>./snap/Flashpoint (Korea) (Unl).png</image>
 		<video>./video/Flashpoint (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Flashpoint (Korea) (Unl).png</marquee>
@@ -2207,7 +2207,7 @@
 	</game>
 	<game>
 		<path>./Gaegujangi Ggachi (Korea) (Unl).zip</path>
-		<name>개구장이 까치 (한국판)(해적판)</name>
+		<name>개구장이 까치 (한국판)</name>
 		<image>./snap/Gaegujangi Ggachi (Korea) (Unl).png</image>
 		<video>./video/Gaegujangi Ggachi (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Gaegujangi Ggachi (Korea) (Unl).png</marquee>
@@ -2221,12 +2221,12 @@
 		<path>./Gain Ground (Europe, Brazil) (Beta).zip</path>
 		<name>게인 그라운드 (베타)</name>
 		<image>./snap/Gain Ground (Europe, Brazil) (Beta).png</image>
-		<video>./video/Gain Ground (Europe, Brazil) (Beta).mp4</video>
+		<video>./video/Gain Ground (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Gain Ground (Europe, Brazil) (Beta).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19910101T000000</releasedate>
 	</game>
 	<game>
@@ -2238,7 +2238,7 @@
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19910101T000000</releasedate>
 	</game>
 	<game>
@@ -2250,12 +2250,12 @@
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19880221T000000</releasedate>
 	</game>
 	<game>
 		<path>./Galaxian (Korea) (Unl).zip</path>
-		<name>갤럭시안 (한국판)(해적판)</name>
+		<name>갤럭시안 (한국판)</name>
 		<image>./snap/Galaxian (Korea) (Unl).png</image>
 		<video>./video/Galaxian (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Galaxian (Korea) (Unl).png</marquee>
@@ -2281,7 +2281,7 @@
 		<path>./Galaxy Force (USA).zip</path>
 		<name>겔럭시 포스</name>
 		<image>./snap/Galaxy Force (USA).png</image>
-		<video>./video/Galaxy Force (USA).mp4</video>
+		<video>./video/Galaxy Force (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Galaxy Force (USA).png</marquee>
 		<developer>AM2연</developer>
 		<publisher>세가</publisher>
@@ -2298,7 +2298,7 @@
 		<developer>에픽스</developer>
 		<publisher>테크토이</publisher>
 		<genre/>
-		<players>43,838</players>
+		<players>8</players>
 		<releasedate>19890101T000000</releasedate>
 	</game>
 	<game>
@@ -2315,7 +2315,7 @@
 	</game>
 	<game>
 		<path>./Gangcheol RoboCop (Korea) (Unl).zip</path>
-		<name>강철 로보캅 (한국판)(해적판)</name>
+		<name>강철 로보캅 (한국판)</name>
 		<image>./snap/Gangcheol RoboCop (Korea) (Unl).png</image>
 		<video>./video/Gangcheol RoboCop (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Gangcheol RoboCop (Korea) (Unl).png</marquee>
@@ -2334,7 +2334,7 @@
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19870801T000000</releasedate>
 	</game>
 	<game>
@@ -2346,7 +2346,7 @@
 		<developer>US골드</developer>
 		<publisher>아타리/덴젠/US골드</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19901101T000000</releasedate>
 	</game>
 	<game>
@@ -2358,7 +2358,7 @@
 		<developer>심즈</developer>
 		<publisher>플라잉 에지</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19920101T000000</releasedate>
 	</game>
 	<game>
@@ -2370,32 +2370,32 @@
 		<developer>세가</developer>
 		<publisher>테크토이</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19940101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Ghost House (Japan).zip</path>
 		<name>고스트 하우스 (일본판)</name>
 		<image>./snap/Ghost House (Japan).png</image>
-		<video>./video/Ghost House (Japan).mp4</video>
+		<video>./video/Ghost House (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Ghost House (Japan).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19860421T000000</releasedate>
 	</game>
 	<game>
 		<path>./Ghost House (USA, Europe, Brazil) (Beta).zip</path>
 		<name>고스트 하우스 (미국,유럽,브라질판)(베타)</name>
 		<image>./snap/Ghost House (USA, Europe, Brazil) (Beta).png</image>
-		<video>./video/Ghost House (USA, Europe, Brazil) (Beta).mp4</video>
+		<video>./video/Ghost House (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Ghost House (USA, Europe, Brazil) (Beta).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
-		<releasedate>19860901T000000</releasedate>
+		<players>2</players>
+		<releasedate>19860421T000000</releasedate>
 	</game>
 	<game>
 		<path>./Ghost House (USA, Europe, Brazil).zip</path>
@@ -2406,8 +2406,8 @@
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
-		<releasedate>19860901T000000</releasedate>
+		<players>2</players>
+		<releasedate>19860421T000000</releasedate>
 	</game>
 	<game>
 		<path>./Ghostbusters (USA, Europe, Brazil).zip</path>
@@ -2425,7 +2425,7 @@
 		<path>./Ghouls'n Ghosts (USA, Europe, Brazil) (Demo).zip</path>
 		<name>대마계촌 / 구울 앤 고스트 (미국,유럽,브라질판)(데모)</name>
 		<image>./snap/Ghouls'n Ghosts (USA, Europe, Brazil) (Demo).png</image>
-		<video>./video/Ghouls'n Ghosts (USA, Europe, Brazil) (Demo).mp4</video>
+		<video>./video/Ghouls'n Ghosts (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Ghouls'n Ghosts (USA, Europe, Brazil) (Demo).png</marquee>
 		<developer>캡콤</developer>
 		<publisher>캡콤/세가</publisher>
@@ -2449,7 +2449,7 @@
 		<path>./Global Defense (USA, Europe, Brazil) (Beta).zip</path>
 		<name>글로벌 디펜스 (미국,유럽,브라질판)(베타)</name>
 		<image>./snap/Global Defense (USA, Europe, Brazil) (Beta).png</image>
-		<video>./video/Global Defense (USA, Europe, Brazil) (Beta).mp4</video>
+		<video>./video/Global Defense (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Global Defense (USA, Europe, Brazil) (Beta).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
@@ -2485,12 +2485,12 @@
 		<path>./Gokuaku Doumei Dump Matsumoto (Japan).zip</path>
 		<name>극악 동맹 덤프 마츠모토 (일본판)</name>
 		<image>./snap/Gokuaku Doumei Dump Matsumoto (Japan).png</image>
-		<video>./video/Gokuaku Doumei Dump Matsumoto (Japan).mp4</video>
+		<video>./video/Pro Wrestling (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Gokuaku Doumei Dump Matsumoto (Japan).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19860101T000000</releasedate>
 	</game>
 	<game>
@@ -2521,12 +2521,12 @@
 		<path>./Golfamania (Europe) (Beta).zip</path>
 		<name>골프마니아 (유럽판)(베타)</name>
 		<image>./snap/Golfamania (Europe) (Beta).png</image>
-		<video>./video/Golfamania (Europe) (Beta).mp4</video>
+		<video>./video/Golfamania (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Golfamania (Europe) (Beta).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,834</players>
+		<players>4</players>
 		<releasedate>19900101T000000</releasedate>
 	</game>
 	<game>
@@ -2538,7 +2538,7 @@
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,834</players>
+		<players>4</players>
 		<releasedate>19900101T000000</releasedate>
 	</game>
 	<game>
@@ -2562,7 +2562,7 @@
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19930101T000000</releasedate>
 	</game>
 	<game>
@@ -2574,8 +2574,8 @@
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
-		<releasedate>19851215T000000</releasedate>
+		<players>2</players>
+		<releasedate>19870101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Great Baseball (USA, Europe).zip</path>
@@ -2586,7 +2586,7 @@
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19870101T000000</releasedate>
 	</game>
 	<game>
@@ -2598,7 +2598,7 @@
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19870101T000000</releasedate>
 	</game>
 	<game>
@@ -2610,7 +2610,7 @@
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19870101T000000</releasedate>
 	</game>
 	<game>
@@ -2622,31 +2622,31 @@
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,834</players>
+		<players>4</players>
 		<releasedate>19870101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Great Golf (Korea) (Unl).zip</path>
-		<name>그레이트 골프 (한국판)(해적판)</name>
+		<name>그레이트 골프 (한국판)</name>
 		<image>./snap/Great Golf (Korea) (Unl).png</image>
-		<video>./video/Great Golf (Korea) (Unl).mp4</video>
+		<video>./video/Great Golf (Japan).mp4</video>
 		<marquee>./marquee/Great Golf (Korea) (Unl).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,834</players>
+		<players>4</players>
 		<releasedate>19870101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Great Golf (World) (Beta).zip</path>
 		<name>그레이트 골프 (세계판)(베타)</name>
 		<image>./snap/Great Golf (World) (Beta).png</image>
-		<video>./video/Great Golf (World) (Beta).mp4</video>
+		<video>./video/Great Golf ~ Masters Golf (World).mp4</video>
 		<marquee>./marquee/Great Golf (World) (Beta).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,834</players>
+		<players>4</players>
 		<releasedate>19870101T000000</releasedate>
 	</game>
 	<game>
@@ -2658,7 +2658,7 @@
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,834</players>
+		<players>4</players>
 		<releasedate>19870101T000000</releasedate>
 	</game>
 	<game>
@@ -2670,7 +2670,7 @@
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19870101T000000</releasedate>
 	</game>
 	<game>
@@ -2682,55 +2682,55 @@
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19850101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Great Soccer (Japan).zip</path>
 		<name>그레이트 사커 (일본판)</name>
 		<image>./snap/Great Soccer (Japan).png</image>
-		<video>./video/Great Soccer (Japan).mp4</video>
+		<video>./video/Great Soccer (Europe).mp4</video>
 		<marquee>./marquee/Great Soccer (Japan).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
-		<releasedate>19851027T000000</releasedate>
+		<players>2</players>
+		<releasedate>19850101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Great Soccer (Taiwan) (Unl).zip</path>
 		<name>그레이트 사커 (대만판)(해적판)</name>
 		<image>./snap/Great Soccer (Taiwan) (Unl).png</image>
-		<video>./video/Great Soccer (Taiwan) (Unl).mp4</video>
+		<video>./video/Great Soccer (Europe).mp4</video>
 		<marquee>./marquee/Great Soccer (Taiwan) (Unl).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
-		<releasedate>19851027T000000</releasedate>
+		<players>2</players>
+		<releasedate>19850101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Great Tennis (Japan).zip</path>
 		<name>그레이트 테니스 (일본판)</name>
 		<image>./snap/Great Tennis (Japan).png</image>
-		<video>./video/Great Tennis (Japan).mp4</video>
+		<video>./video/Super Tennis (USA, Europe).mp4</video>
 		<marquee>./marquee/Great Tennis (Japan).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19860101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Great Volleyball (Japan).zip</path>
 		<name>그레이트 발리볼 (일본판)</name>
 		<image>./snap/Great Volleyball (Japan).png</image>
-		<video>./video/Great Volleyball (Japan).mp4</video>
+		<video>./video/Great Volleyball (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Great Volleyball (Japan).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19870101T000000</releasedate>
 	</game>
 	<game>
@@ -2742,12 +2742,12 @@
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19870101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Gun.Smoke (Korea) (Unl).zip</path>
-		<name>건 스모크 (한국판)(해적판)</name>
+		<name>건 스모크 (한국판)</name>
 		<image>./snap/Gun.Smoke (Korea) (Unl).png</image>
 		<video>./video/Gun.Smoke (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Gun.Smoke (Korea) (Unl).png</marquee>
@@ -2761,7 +2761,7 @@
 		<path>./Haja no Fuuin (Japan).zip</path>
 		<name>패사의 봉인 (일본판)</name>
 		<image>./snap/Haja no Fuuin (Japan).png</image>
-		<video>./video/Haja no Fuuin (Japan).mp4</video>
+		<video>./video/Miracle Warriors - Seal of the Dark Lord (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Haja no Fuuin (Japan).png</marquee>
 		<developer>세가</developer>
 		<publisher>아스키/세가</publisher>
@@ -2785,7 +2785,7 @@
 		<path>./Hang On &amp; Safari Hunt (USA) (Beta).zip</path>
 		<name>행온 - 사파리 헌트 (베타)</name>
 		<image>./snap/Hang On &amp; Safari Hunt (USA) (Beta).png</image>
-		<video>./video/Hang On &amp; Safari Hunt (USA) (Beta).mp4</video>
+		<video>./video/Hang-On &amp; Safari Hunt (USA).mp4</video>
 		<marquee>./marquee/Hang On &amp; Safari Hunt (USA) (Beta).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
@@ -2797,12 +2797,12 @@
 		<path>./Hang On (Europe) (Beta).zip</path>
 		<name>행온 (유럽판)(베타)</name>
 		<image>./snap/Hang On (Europe) (Beta).png</image>
-		<video>./video/Hang On (Europe) (Beta).mp4</video>
+		<video>./video/Hang On (Europe).mp4</video>
 		<marquee>./marquee/Hang On (Europe) (Beta).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19860101T000000</releasedate>
 	</game>
 	<game>
@@ -2814,19 +2814,19 @@
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19860101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Hang On (Japan).zip</path>
 		<name>행온 (일본판)</name>
 		<image>./snap/Hang On (Japan).png</image>
-		<video>./video/Hang On (Japan).mp4</video>
+		<video>./video/Hang On (Europe).mp4</video>
 		<marquee>./marquee/Hang On (Japan).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19860101T000000</releasedate>
 	</game>
 	<game>
@@ -2845,12 +2845,12 @@
 		<path>./Heavyweight Champ (Europe).zip</path>
 		<name>헤비웨이트 챔프 (유럽판)</name>
 		<image>./snap/Heavyweight Champ (Europe).png</image>
-		<video>./video/Heavyweight Champ (Europe).mp4</video>
+		<video>./video/George Foreman's KO Boxing (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Heavyweight Champ (Europe).png</marquee>
 		<developer>삼립</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19910501T000000</releasedate>
 	</game>
 	<game>
@@ -2881,25 +2881,25 @@
 		<path>./Hokuto no Ken (Japan).zip</path>
 		<name>북두의 권 (일본판)</name>
 		<image>./snap/Hokuto no Ken (Japan).png</image>
-		<video>./video/Hokuto no Ken (Japan).mp4</video>
+		<video>./video/Black Belt (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Hokuto no Ken (Japan).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19860720T000000</releasedate>
 	</game>
 	<game>
 		<path>./Hokuto no Ken (Taiwan) (Unl).zip</path>
 		<name>북두의 권 (대만판)(해적판)</name>
 		<image>./snap/Hokuto no Ken (Taiwan) (Unl).png</image>
-		<video>./video/Hokuto no Ken (Taiwan) (Unl).mp4</video>
+		<video>./video/Black Belt (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Hokuto no Ken (Taiwan) (Unl).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
-		<releasedate>19861101T000000</releasedate>
+		<players>2</players>
+		<releasedate>19860720T000000</releasedate>
 	</game>
 	<game>
 		<path>./Home Alone (Europe).zip</path>
@@ -2915,7 +2915,7 @@
 	</game>
 	<game>
 		<path>./Hong Kil Dong (Korea) (Unl).zip</path>
-		<name>홍길동 (한국판)(해적판)</name>
+		<name>홍길동 (한국판)</name>
 		<image>./snap/Hong Kil Dong (Korea) (Unl).png</image>
 		<video>./video/Hong Kil Dong (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Hong Kil Dong (Korea) (Unl).png</marquee>
@@ -2951,9 +2951,9 @@
 	</game>
 	<game>
 		<path>./Hwarang-ui Geom (Korea) (Unl).zip</path>
-		<name>화랑의 검 (한국판)(해적판)</name>
+		<name>화랑의 검 (한국판)</name>
 		<image>./snap/Hwarang-ui Geom (Korea) (Unl).png</image>
-		<video>./video/Hwarang-ui Geom (Korea) (Unl).mp4</video>
+		<video>./video/Kenseiden (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Hwarang-ui Geom (Korea) (Unl).png</marquee>
 		<developer>세가</developer>
 		<publisher>삼성전자/세가</publisher>
@@ -2965,7 +2965,7 @@
 		<path>./Impossible Mission (Europe, Brazil) (Beta).zip</path>
 		<name>임파서블 미션 (베타)</name>
 		<image>./snap/Impossible Mission (Europe, Brazil) (Beta).png</image>
-		<video>./video/Impossible Mission (Europe, Brazil) (Beta).mp4</video>
+		<video>./video/Impossible Mission (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Impossible Mission (Europe, Brazil) (Beta).png</marquee>
 		<developer>에픽스</developer>
 		<publisher>에픽스/US골드</publisher>
@@ -2994,7 +2994,7 @@
 		<developer>플라잉 에지</developer>
 		<publisher>그레이 매터</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19930101T000000</releasedate>
 	</game>
 	<game>
@@ -3025,7 +3025,7 @@
 		<path>./Indiana Jones and the Last Crusade (USA) (Proto).zip</path>
 		<name>인디아나 존스와 최후의 성전 (시험판)</name>
 		<image>./snap/Indiana Jones and the Last Crusade (USA) (Proto).png</image>
-		<video>./video/Indiana Jones and the Last Crusade (USA) (Proto).mp4</video>
+		<video>./video/Indiana Jones and the Last Crusade (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Indiana Jones and the Last Crusade (USA) (Proto).png</marquee>
 		<developer>티어텍스 디자인 스튜디오</developer>
 		<publisher>루카스아츠/티어텍스/US골드</publisher>
@@ -3037,31 +3037,31 @@
 		<path>./James 'Buster' Douglas Knockout Boxing (USA) (Beta).zip</path>
 		<name>제임스 버스터 더글라스 넉아웃 복싱 (베타)</name>
 		<image>./snap/James 'Buster' Douglas Knockout Boxing (USA) (Beta).png</image>
-		<video>./video/James 'Buster' Douglas Knockout Boxing (USA) (Beta).mp4</video>
+		<video>./video/George Foreman's KO Boxing (Europe, Brazil).mp4</video>
 		<marquee>./marquee/James 'Buster' Douglas Knockout Boxing (USA) (Beta).png</marquee>
 		<developer>삼립</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19900101T000000</releasedate>
 	</game>
 	<game>
 		<path>./James 'Buster' Douglas Knockout Boxing (USA).zip</path>
 		<name>제임스 버스터 더글라스 넉아웃 복싱</name>
 		<image>./snap/James 'Buster' Douglas Knockout Boxing (USA).png</image>
-		<video>./video/James 'Buster' Douglas Knockout Boxing (USA).mp4</video>
+		<video>./video/George Foreman's KO Boxing (Europe, Brazil).mp4</video>
 		<marquee>./marquee/James 'Buster' Douglas Knockout Boxing (USA).png</marquee>
 		<developer>삼립</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19900101T000000</releasedate>
 	</game>
 	<game>
 		<path>./James Bond 007 - The Duel (Brazil).zip</path>
 		<name>제임스 본드 007 - 결투 (브라질판)</name>
 		<image>./snap/James Bond 007 - The Duel (Brazil).png</image>
-		<video>./video/James Bond 007 - The Duel (Brazil).mp4</video>
+		<video>./video/James Bond 007 - The Duel (Europe).mp4</video>
 		<marquee>./marquee/James Bond 007 - The Duel (Brazil).png</marquee>
 		<developer>크레믈린</developer>
 		<publisher>도마크/테크토이</publisher>
@@ -3095,7 +3095,7 @@
 	</game>
 	<game>
 		<path>./Jang Pung 3 (Korea) (Unl).zip</path>
-		<name>장풍 3 (한국판)(해적판)</name>
+		<name>장풍 3 (한국판)</name>
 		<image>./snap/Jang Pung 3 (Korea) (Unl).png</image>
 		<video>./video/Jang Pung 3 (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Jang Pung 3 (Korea) (Unl).png</marquee>
@@ -3107,7 +3107,7 @@
 	</game>
 	<game>
 		<path>./Jang Pung II (Korea) (Unl).zip</path>
-		<name>장풍 2 (한국판)(해적판)</name>
+		<name>장풍 2 (한국판)</name>
 		<image>./snap/Jang Pung II (Korea) (Unl).png</image>
 		<video>./video/Jang Pung II (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Jang Pung II (Korea) (Unl).png</marquee>
@@ -3119,7 +3119,7 @@
 	</game>
 	<game>
 		<path>./Janggun-ui Adeul (Korea) (Unl).zip</path>
-		<name>장군의 아들 (한국판)(해적판)</name>
+		<name>장군의 아들 (한국판)</name>
 		<image>./snap/Janggun-ui Adeul (Korea) (Unl).png</image>
 		<video>./video/Janggun-ui Adeul (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Janggun-ui Adeul (Korea) (Unl).png</marquee>
@@ -3138,14 +3138,14 @@
 		<developer>블루스카이</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19901201T000000</releasedate>
 	</game>
 	<game>
 		<path>./Jogos de Verao II (Brazil).zip</path>
 		<name>여름 게임 2 (브라질판)</name>
 		<image>./snap/Jogos de Verao II (Brazil).png</image>
-		<video>./video/Jogos de Verao II (Brazil).mp4</video>
+		<video>./video/California Games II (Europe).mp4</video>
 		<marquee>./marquee/Jogos de Verao II (Brazil).png</marquee>
 		<developer/>
 		<publisher/>
@@ -3181,7 +3181,7 @@
 		<path>./Kenseiden (Japan).zip</path>
 		<name>화랑의 검 (일본판)</name>
 		<image>./snap/Kenseiden (Japan).png</image>
-		<video>./video/Kenseiden (Japan).mp4</video>
+		<video>./video/Kenseiden (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Kenseiden (Japan).png</marquee>
 		<developer>세가</developer>
 		<publisher>삼성전자/세가</publisher>
@@ -3199,11 +3199,11 @@
 		<publisher>삼성전자/세가</publisher>
 		<genre/>
 		<players>1</players>
-		<releasedate>19880901T000000</releasedate>
+		<releasedate>19880602T000000</releasedate>
 	</game>
 	<game>
 		<path>./King &amp; Balloon (Korea) (Unl).zip</path>
-		<name>킹 &amp; 벌룬 (한국판)(해적판)</name>
+		<name>킹 &amp; 벌룬 (한국판)</name>
 		<image>./snap/King &amp; Balloon (Korea) (Unl).png</image>
 		<video>./video/King &amp; Balloon (Korea) (Unl).mp4</video>
 		<marquee>./marquee/King &amp; Balloon (Korea) (Unl).png</marquee>
@@ -3217,7 +3217,7 @@
 		<path>./King's Quest - Quest for the Crown (USA) (Beta).zip</path>
 		<name>킹스 퀘스트 - 왕관을 찾아서 (베타)</name>
 		<image>./snap/King's Quest - Quest for the Crown (USA) (Beta).png</image>
-		<video>./video/King's Quest - Quest for the Crown (USA) (Beta).mp4</video>
+		<video>./video/King's Quest - Quest for the Crown (USA).mp4</video>
 		<marquee>./marquee/King's Quest - Quest for the Crown (USA) (Beta).png</marquee>
 		<developer>파커 브라더즈</developer>
 		<publisher>시에라</publisher>
@@ -3251,12 +3251,12 @@
 	</game>
 	<game>
 		<path>./Knightmare II - The Maze of Galious (Korea) (Unl).zip</path>
-		<name>마성전설 2 - 나이트메어 2 - 갈리우스의 미로 (한국판)(해적판)</name>
+		<name>마성전설 2 - 나이트메어 2 - 갈리우스의 미로 (한국판)</name>
 		<image>./snap/Knightmare II - The Maze of Galious (Korea) (Unl).png</image>
 		<video>./video/Knightmare II - The Maze of Galious (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Knightmare II - The Maze of Galious (Korea) (Unl).png</marquee>
 		<developer>코나미</developer>
-		<publisher/>
+		<publisher>코나미</publisher>
 		<genre/>
 		<players/>
 		<releasedate/>
@@ -3277,7 +3277,7 @@
 		<path>./Kujaku Ou (Japan).zip</path>
 		<name>공작왕 (일본판)</name>
 		<image>./snap/Kujaku Ou (Japan).png</image>
-		<video>./video/Kujaku Ou (Japan).mp4</video>
+		<video>./video/SpellCaster (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Kujaku Ou (Japan).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
@@ -3294,7 +3294,7 @@
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19870101T000000</releasedate>
 	</game>
 	<game>
@@ -3337,7 +3337,7 @@
 		<path>./Lemmings (Europe) (Beta).zip</path>
 		<name>레밍즈 (유럽판)(베타)</name>
 		<image>./snap/Lemmings (Europe) (Beta).png</image>
-		<video>./video/Lemmings (Europe) (Beta).mp4</video>
+		<video>./video/Lemmings (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Lemmings (Europe) (Beta).png</marquee>
 		<developer>DMA 디자인</developer>
 		<publisher>프로브/시그노시스/세가</publisher>
@@ -3367,7 +3367,7 @@
 		<publisher>시그노시스</publisher>
 		<genre/>
 		<players/>
-		<releasedate/>
+		<releasedate>19940101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Line of Fire (Europe, Brazil).zip</path>
@@ -3397,7 +3397,7 @@
 		<path>./Lord of Sword (Japan).zip</path>
 		<name>로드 오브 소드 (일본판)</name>
 		<image>./snap/Lord of Sword (Japan).png</image>
-		<video>./video/Lord of Sword (Japan).mp4</video>
+		<video>./video/Lord of the Sword (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Lord of Sword (Japan).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
@@ -3433,7 +3433,7 @@
 		<path>./Lucky Dime Caper Starring Donald Duck, The (Europe, Brazil) (Beta).zip</path>
 		<name>도널드덕의 럭키 다임 케이퍼 (베타)</name>
 		<image>./snap/Lucky Dime Caper Starring Donald Duck, The (Europe, Brazil) (Beta).png</image>
-		<video>./video/Lucky Dime Caper Starring Donald Duck, The (Europe, Brazil) (Beta).mp4</video>
+		<video>./video/Lucky Dime Caper Starring Donald Duck, The (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Lucky Dime Caper Starring Donald Duck, The (Europe, Brazil) (Beta).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
@@ -3457,7 +3457,7 @@
 		<path>./Mahjong Sengoku Jidai (Japan) (Beta).zip</path>
 		<name>마작 전국시대 (일본판)(베타)</name>
 		<image>./snap/Mahjong Sengoku Jidai (Japan) (Beta).png</image>
-		<video>./video/Mahjong Sengoku Jidai (Japan) (Beta).mp4</video>
+		<video>./video/Mahjong Sengoku Jidai ~ Mahjong (Japan, Hong Kong).mp4</video>
 		<marquee>./marquee/Mahjong Sengoku Jidai (Japan) (Beta).png</marquee>
 		<developer>삼립</developer>
 		<publisher>세가</publisher>
@@ -3481,19 +3481,19 @@
 		<path>./Makai Retsuden (Japan).zip</path>
 		<name>마계 열전 (일본판)</name>
 		<image>./snap/Makai Retsuden (Japan).png</image>
-		<video>./video/Makai Retsuden (Japan).mp4</video>
+		<video>./video/Kung Fu Kid (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Makai Retsuden (Japan).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19870101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Maou Golvellius (Japan) (Beta).zip</path>
 		<name>마왕 골베리우스 (일본판)(베타)</name>
 		<image>./snap/Maou Golvellius (Japan) (Beta).png</image>
-		<video>./video/Maou Golvellius (Japan) (Beta).mp4</video>
+		<video>./video/Golvellius - Valley of Doom (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Maou Golvellius (Japan) (Beta).png</marquee>
 		<developer>컴파일</developer>
 		<publisher>컴파일/세가</publisher>
@@ -3505,7 +3505,7 @@
 		<path>./Maou Golvellius (Japan).zip</path>
 		<name>마왕 골베리우스 (일본판)</name>
 		<image>./snap/Maou Golvellius (Japan).png</image>
-		<video>./video/Maou Golvellius (Japan).mp4</video>
+		<video>./video/Golvellius - Valley of Doom (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Maou Golvellius (Japan).png</marquee>
 		<developer>컴파일</developer>
 		<publisher>컴파일/세가</publisher>
@@ -3534,7 +3534,7 @@
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19860101T000000</releasedate>
 	</game>
 	<game>
@@ -3546,7 +3546,7 @@
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19860101T000000</releasedate>
 	</game>
 	<game>
@@ -3589,7 +3589,7 @@
 		<path>./Maze Walker (Japan).zip</path>
 		<name>메이즈 워커 (일본판)</name>
 		<image>./snap/Maze Walker (Japan).png</image>
-		<video>./video/Maze Walker (Japan).mp4</video>
+		<video>./video/Maze Hunter 3-D (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Maze Walker (Japan).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
@@ -3625,7 +3625,7 @@
 		<path>./Michael Jackson's Moonwalker (USA, Europe, Brazil) (Beta).zip</path>
 		<name>마이클 잭슨의 문워커 (미국,유럽,브라질판)(베타)</name>
 		<image>./snap/Michael Jackson's Moonwalker (USA, Europe, Brazil) (Beta).png</image>
-		<video>./video/Michael Jackson's Moonwalker (USA, Europe, Brazil) (Beta).mp4</video>
+		<video>./video/Michael Jackson's Moonwalker (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Michael Jackson's Moonwalker (USA, Europe, Brazil) (Beta).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
@@ -3666,12 +3666,12 @@
 		<developer>코드마스터즈</developer>
 		<publisher>코드마스터즈</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19930101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Micro Xevious, The (Korea) (Unl).zip</path>
-		<name>마이크로 제비우스 (한국판)(해적판)</name>
+		<name>마이크로 제비우스 (한국판)</name>
 		<image>./snap/Micro Xevious, The (Korea) (Unl).png</image>
 		<video>./video/Micro Xevious, The (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Micro Xevious, The (Korea) (Unl).png</marquee>
@@ -3685,7 +3685,7 @@
 		<path>./Miracle Warriors - Seal of the Dark Lord (USA, Europe, Brazil) (Beta).zip</path>
 		<name>미라클 워리어즈 - 실 오브 다크로드 (미국,유럽,브라질판)(베타)</name>
 		<image>./snap/Miracle Warriors - Seal of the Dark Lord (USA, Europe, Brazil) (Beta).png</image>
-		<video>./video/Miracle Warriors - Seal of the Dark Lord (USA, Europe, Brazil) (Beta).mp4</video>
+		<video>./video/Miracle Warriors - Seal of the Dark Lord (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Miracle Warriors - Seal of the Dark Lord (USA, Europe, Brazil) (Beta).png</marquee>
 		<developer>세가</developer>
 		<publisher>아스키/세가</publisher>
@@ -3709,7 +3709,7 @@
 		<path>./Missile Defense 3-D (USA, Europe, Brazil) (Sample).zip</path>
 		<name>미사일 디펜스 3D (미국,유럽,브라질판)(샘플)</name>
 		<image>./snap/Missile Defense 3-D (USA, Europe, Brazil) (Sample).png</image>
-		<video>./video/Missile Defense 3-D (USA, Europe, Brazil) (Sample).mp4</video>
+		<video>./video/Missile Defense 3-D (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Missile Defense 3-D (USA, Europe, Brazil) (Sample).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
@@ -3731,9 +3731,9 @@
 	</game>
 	<game>
 		<path>./Monica no Castelo do Dragao (Brazil).zip</path>
-		<name>원더보이 인 몬스터 랜드 (브라질판)</name>
+		<name>원더 보이 인 몬스터 랜드 (브라질판)</name>
 		<image>./snap/Monica no Castelo do Dragao (Brazil).png</image>
-		<video>./video/Monica no Castelo do Dragao (Brazil).mp4</video>
+		<video>./video/Wonder Boy in Monster Land (USA, Europe).mp4</video>
 		<marquee>./marquee/Monica no Castelo do Dragao (Brazil).png</marquee>
 		<developer>웨스톤</developer>
 		<publisher>테크토이</publisher>
@@ -3750,38 +3750,38 @@
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,840</players>
+		<players>10</players>
 		<releasedate>19880101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Monopoly (USA) (Beta).zip</path>
 		<name>모노폴리 (베타)</name>
 		<image>./snap/Monopoly (USA) (Beta).png</image>
-		<video>./video/Monopoly (USA) (Beta).mp4</video>
+		<video>./video/Monopoly (Europe).mp4</video>
 		<marquee>./marquee/Monopoly (USA) (Beta).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,840</players>
-		<releasedate>19880901T000000</releasedate>
+		<players>10</players>
+		<releasedate>19880101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Monopoly (USA).zip</path>
 		<name>모노폴리</name>
 		<image>./snap/Monopoly (USA).png</image>
-		<video>./video/Monopoly (USA).mp4</video>
+		<video>./video/Monopoly (Europe).mp4</video>
 		<marquee>./marquee/Monopoly (USA).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,840</players>
-		<releasedate>19880901T000000</releasedate>
+		<players>10</players>
+		<releasedate>19880101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Montezuma's Revenge featuring Panama Joe (USA) (Beta).zip</path>
 		<name>파나마 죠의 몬테즈마의 복수 (베타)</name>
 		<image>./snap/Montezuma's Revenge featuring Panama Joe (USA) (Beta).png</image>
-		<video>./video/Montezuma's Revenge featuring Panama Joe (USA) (Beta).mp4</video>
+		<video>./video/Montezuma's Revenge featuring Panama Joe (USA).mp4</video>
 		<marquee>./marquee/Montezuma's Revenge featuring Panama Joe (USA) (Beta).png</marquee>
 		<developer>파커 브라더즈</developer>
 		<publisher>파커 브라더즈</publisher>
@@ -3803,7 +3803,7 @@
 	</game>
 	<game>
 		<path>./Mopiranger (Korea) (Unl).zip</path>
-		<name>모피레인져 (한국판)(해적판)</name>
+		<name>모피레인져 (한국판)</name>
 		<image>./snap/Mopiranger (Korea) (Unl).png</image>
 		<video>./video/Mopiranger (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Mopiranger (Korea) (Unl).png</marquee>
@@ -3822,7 +3822,7 @@
 		<developer>미드웨이</developer>
 		<publisher>어클레임</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19930913T000000</releasedate>
 	</game>
 	<game>
@@ -3834,7 +3834,7 @@
 		<developer>미드웨이</developer>
 		<publisher>테크토이</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19950101T000000</releasedate>
 	</game>
 	<game>
@@ -3846,7 +3846,7 @@
 		<developer>미드웨이</developer>
 		<publisher>어클레임</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19941101T000000</releasedate>
 	</game>
 	<game>
@@ -3858,8 +3858,8 @@
 		<developer>제너럴 컴퓨터</developer>
 		<publisher>남코/텐젠</publisher>
 		<genre/>
-		<players>43,832</players>
-		<releasedate/>
+		<players>2</players>
+		<releasedate>19911201T000000</releasedate>
 	</game>
 	<game>
 		<path>./My Hero (USA, Europe, Brazil).zip</path>
@@ -3870,7 +3870,7 @@
 		<developer>코어랜드</developer>
 		<publisher>코어랜드/세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19860901T000000</releasedate>
 	</game>
 	<game>
@@ -3882,7 +3882,7 @@
 		<developer>미드웨이</developer>
 		<publisher>아레나</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19940101T000000</releasedate>
 	</game>
 	<game>
@@ -3899,7 +3899,7 @@
 	</game>
 	<game>
 		<path>./Nemesis (Korea) (Unl).zip</path>
-		<name>그라디우스 / 네메시스 (한국판)(해적판)</name>
+		<name>그라디우스 / 네메시스 (한국판)</name>
 		<image>./snap/Nemesis (Korea) (Unl).png</image>
 		<video>./video/Nemesis (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Nemesis (Korea) (Unl).png</marquee>
@@ -3911,7 +3911,7 @@
 	</game>
 	<game>
 		<path>./Nemesis 2 (Korea) (Unl).zip</path>
-		<name>네메시스 2 (한국판)(해적판)</name>
+		<name>네메시스 2 (한국판)</name>
 		<image>./snap/Nemesis 2 (Korea) (Unl).png</image>
 		<video>./video/Nemesis 2 (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Nemesis 2 (Korea) (Unl).png</marquee>
@@ -3923,7 +3923,7 @@
 	</game>
 	<game>
 		<path>./New Boggle Boggle 2 (Korea) (Unl).zip</path>
-		<name>뉴 보글 보글 2 (한국판)(해적판)</name>
+		<name>뉴 보글 보글 2 (한국판)</name>
 		<image>./snap/New Boggle Boggle 2 (Korea) (Unl).png</image>
 		<video>./video/New Boggle Boggle 2 (Korea) (Unl).mp4</video>
 		<marquee>./marquee/New Boggle Boggle 2 (Korea) (Unl).png</marquee>
@@ -3949,19 +3949,19 @@
 		<path>./Ninja (Japan).zip</path>
 		<name>닌자 (일본판)</name>
 		<image>./snap/Ninja (Japan).png</image>
-		<video>./video/Ninja (Japan).mp4</video>
+		<video>./video/Ninja, The (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Ninja (Japan).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19861108T000000</releasedate>
 	</game>
 	<game>
 		<path>./Ninja Gaiden (Europe, Brazil) (Beta).zip</path>
 		<name>닌자 가이덴 (베타)</name>
 		<image>./snap/Ninja Gaiden (Europe, Brazil) (Beta).png</image>
-		<video>./video/Ninja Gaiden (Europe, Brazil) (Beta).mp4</video>
+		<video>./video/Ninja Gaiden (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Ninja Gaiden (Europe, Brazil) (Beta).png</marquee>
 		<developer>테크모</developer>
 		<publisher>세가/테크모</publisher>
@@ -3990,19 +3990,19 @@
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19870101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Olympic Gold (Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv).zip</path>
 		<name>올림픽 골드 (브라질판)</name>
 		<image>./snap/Olympic Gold (Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv).png</image>
-		<video>./video/Olympic Gold (Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv).mp4</video>
+		<video>./video/Olympic Gold (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv).mp4</video>
 		<marquee>./marquee/Olympic Gold (Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv).png</marquee>
 		<developer>US골드</developer>
 		<publisher>US골드</publisher>
 		<genre/>
-		<players>43,834</players>
+		<players>4</players>
 		<releasedate>19920101T000000</releasedate>
 	</game>
 	<game>
@@ -4014,19 +4014,19 @@
 		<developer>US골드</developer>
 		<publisher>US골드</publisher>
 		<genre/>
-		<players>43,834</players>
+		<players>4</players>
 		<releasedate>19920101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Opa Opa (Japan).zip</path>
 		<name>오파 오파 (일본판)</name>
 		<image>./snap/Opa Opa (Japan).png</image>
-		<video>./video/Opa Opa (Japan).mp4</video>
+		<video>./video/Fantasy Zone - The Maze (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Opa Opa (Japan).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19870101T000000</releasedate>
 	</game>
 	<game>
@@ -4117,7 +4117,7 @@
 		<path>./Paperboy (USA, Brazil).zip</path>
 		<name>페이퍼 보이</name>
 		<image>./snap/Paperboy (USA, Brazil).png</image>
-		<video>./video/Paperboy (USA, Brazil).mp4</video>
+		<video>./video/Paperboy (Europe).mp4</video>
 		<marquee>./marquee/Paperboy (USA, Brazil).png</marquee>
 		<developer>US골드</developer>
 		<publisher>아타리/덴젠</publisher>
@@ -4134,7 +4134,7 @@
 		<developer>컴파일</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,834</players>
+		<players>4</players>
 		<releasedate>19880101T000000</releasedate>
 	</game>
 	<game>
@@ -4146,12 +4146,12 @@
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19890101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Penguin Adventure (Korea) (Unl).zip</path>
-		<name>팽귄 어드벤처 / 몽대륙 (한국판)(해적판)</name>
+		<name>팽귄 어드벤처 / 몽대륙 (한국판)</name>
 		<image>./snap/Penguin Adventure (Korea) (Unl).png</image>
 		<video>./video/Penguin Adventure (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Penguin Adventure (Korea) (Unl).png</marquee>
@@ -4182,14 +4182,14 @@
 		<developer>스터링 실버 소프트웨어</developer>
 		<publisher>일렉트로닉 아츠/스터링 실버 소프트웨어/텐젠</publisher>
 		<genre/>
-		<players>43,834</players>
+		<players>4</players>
 		<releasedate>19930101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Phantasy Star (Brazil).zip</path>
 		<name>판타지 스타 (브라질판)</name>
 		<image>./snap/Phantasy Star (Brazil).png</image>
-		<video>./video/Phantasy Star (Brazil).mp4</video>
+		<video>./video/Phantasy Star (USA, Europe) (Rev 1).mp4</video>
 		<marquee>./marquee/Phantasy Star (Brazil).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
@@ -4201,37 +4201,37 @@
 		<path>./Phantasy Star (Japan) (Virtual Console).zip</path>
 		<name>판타지 스타 (일본판)(버추얼 콘솔)</name>
 		<image>./snap/Phantasy Star (Japan) (Virtual Console).png</image>
-		<video>./video/Phantasy Star (Japan) (Virtual Console).mp4</video>
+		<video>./video/Phantasy Star (USA, Europe) (Rev 1).mp4</video>
 		<marquee>./marquee/Phantasy Star (Japan) (Virtual Console).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
 		<players>1</players>
-		<releasedate>19871220T000000</releasedate>
+		<releasedate>19911001T000000</releasedate>
 	</game>
 	<game>
 		<path>./Phantasy Star (Japan).zip</path>
 		<name>판타지 스타 (일본판)</name>
 		<image>./snap/Phantasy Star (Japan).png</image>
-		<video>./video/Phantasy Star (Japan).mp4</video>
+		<video>./video/Phantasy Star (USA, Europe) (Rev 1).mp4</video>
 		<marquee>./marquee/Phantasy Star (Japan).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
 		<players>1</players>
-		<releasedate>19871220T000000</releasedate>
+		<releasedate>19911001T000000</releasedate>
 	</game>
 	<game>
 		<path>./Phantasy Star (Korea) (Unl).zip</path>
-		<name>판타지 스타 (한국판)(해적판)</name>
+		<name>판타지 스타 (한국판)</name>
 		<image>./snap/Phantasy Star (Korea) (Unl).png</image>
-		<video>./video/Phantasy Star (Korea) (Unl).mp4</video>
+		<video>./video/Phantasy Star (USA, Europe) (Rev 1).mp4</video>
 		<marquee>./marquee/Phantasy Star (Korea) (Unl).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
 		<players>1</players>
-		<releasedate>19881101T000000</releasedate>
+		<releasedate>19911001T000000</releasedate>
 	</game>
 	<game>
 		<path>./Phantasy Star (USA, Europe) (Rev 1).zip</path>
@@ -4243,30 +4243,30 @@
 		<publisher>세가</publisher>
 		<genre/>
 		<players>1</players>
-		<releasedate>19881101T000000</releasedate>
+		<releasedate>19911001T000000</releasedate>
 	</game>
 	<game>
 		<path>./Phantasy Star (USA, Europe).zip</path>
 		<name>판타지 스타 (미국,유럽판)</name>
 		<image>./snap/Phantasy Star (USA, Europe).png</image>
-		<video>./video/Phantasy Star (USA, Europe).mp4</video>
+		<video>./video/Phantasy Star (USA, Europe) (Rev 1).mp4</video>
 		<marquee>./marquee/Phantasy Star (USA, Europe).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
 		<players>1</players>
-		<releasedate>19881101T000000</releasedate>
+		<releasedate>19911001T000000</releasedate>
 	</game>
 	<game>
 		<path>./Pit-Fighter (Brazil).zip</path>
 		<name>피트 - 파이터 (브라질판)</name>
 		<image>./snap/Pit-Fighter (Brazil).png</image>
-		<video>./video/Pit-Fighter (Brazil).mp4</video>
+		<video>./video/Pit-Fighter (Europe).mp4</video>
 		<marquee>./marquee/Pit-Fighter (Brazil).png</marquee>
 		<developer>도마크 소프트웨어</developer>
 		<publisher>아타리/테크토이</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19921201T000000</releasedate>
 	</game>
 	<game>
@@ -4278,12 +4278,12 @@
 		<developer>도마크 소프트웨어</developer>
 		<publisher>아타리/테크토이</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19921201T000000</releasedate>
 	</game>
 	<game>
 		<path>./Pooyan (Korea) (Unl).zip</path>
-		<name>아기돼지 / 뿌얀 (한국판)(해적판)</name>
+		<name>아기돼지 / 뿌얀 (한국판)</name>
 		<image>./snap/Pooyan (Korea) (Unl).png</image>
 		<video>./video/Pooyan (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Pooyan (Korea) (Unl).png</marquee>
@@ -4319,7 +4319,7 @@
 	</game>
 	<game>
 		<path>./Power Boggle Boggle (Korea) (Unl).zip</path>
-		<name>파워 보글 보글 (한국판)(해적판)</name>
+		<name>파워 보글 보글 (한국판)</name>
 		<image>./snap/Power Boggle Boggle (Korea) (Unl).png</image>
 		<video>./video/Power Boggle Boggle (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Power Boggle Boggle (Korea) (Unl).png</marquee>
@@ -4355,7 +4355,7 @@
 	</game>
 	<game>
 		<path>./Ppang Gongjang (Korea) (Unl).zip</path>
-		<name>빵공장 (한국판)(해적판)</name>
+		<name>빵공장 (한국판)</name>
 		<image>./snap/Ppang Gongjang (Korea) (Unl).png</image>
 		<video>./video/Ppang Gongjang (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Ppang Gongjang (Korea) (Unl).png</marquee>
@@ -4369,7 +4369,7 @@
 		<path>./Predator 2 (Brazil).zip</path>
 		<name>프레데터 2 (브라질판)</name>
 		<image>./snap/Predator 2 (Brazil).png</image>
-		<video>./video/Predator 2 (Brazil).mp4</video>
+		<video>./video/Predator 2 (Europe).mp4</video>
 		<marquee>./marquee/Predator 2 (Brazil).png</marquee>
 		<developer>티니위니 게임즈</developer>
 		<publisher>어클레임</publisher>
@@ -4410,7 +4410,7 @@
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19860101T000000</releasedate>
 	</game>
 	<game>
@@ -4465,12 +4465,12 @@
 		<path>./Putt &amp; Putter (Europe, Brazil) (Beta).zip</path>
 		<name>풋 &amp; 풋터 (베타)</name>
 		<image>./snap/Putt &amp; Putter (Europe, Brazil) (Beta).png</image>
-		<video>./video/Putt &amp; Putter (Europe, Brazil) (Beta).mp4</video>
+		<video>./video/Putt &amp; Putter ~ Minigolf (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Putt &amp; Putter (Europe, Brazil) (Beta).png</marquee>
 		<developer>심즈</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19920101T000000</releasedate>
 	</game>
 	<game>
@@ -4482,12 +4482,12 @@
 		<developer>심즈</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19920101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Puzzle (Korea) (Unl).zip</path>
-		<name>퍼즐 (한국판)(해적판)</name>
+		<name>퍼즐 (한국판)</name>
 		<image>./snap/Puzzle (Korea) (Unl).png</image>
 		<video>./video/Puzzle (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Puzzle (Korea) (Unl).png</marquee>
@@ -4506,7 +4506,7 @@
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19870401T000000</releasedate>
 	</game>
 	<game>
@@ -4525,7 +4525,7 @@
 		<path>./R-Type (World) (Beta).zip</path>
 		<name>R - 타입 (세계판)(베타)</name>
 		<image>./snap/R-Type (World) (Beta).png</image>
-		<video>./video/R-Type (World) (Beta).mp4</video>
+		<video>./video/R-Type (World).mp4</video>
 		<marquee>./marquee/R-Type (World) (Beta).png</marquee>
 		<developer>아이렘</developer>
 		<publisher>아이렘/세가</publisher>
@@ -4549,12 +4549,12 @@
 		<path>./R.C. Grand Prix (USA, Europe, Brazil) (Beta).zip</path>
 		<name>RC 그랑프리 (미국,유럽,브라질판)(베타)</name>
 		<image>./snap/R.C. Grand Prix (USA, Europe, Brazil) (Beta).png</image>
-		<video>./video/R.C. Grand Prix (USA, Europe, Brazil) (Beta).mp4</video>
+		<video>./video/R.C. Grand Prix (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/R.C. Grand Prix (USA, Europe, Brazil) (Beta).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,834</players>
+		<players>4</players>
 		<releasedate>19890101T000000</releasedate>
 	</game>
 	<game>
@@ -4566,14 +4566,14 @@
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,834</players>
+		<players>4</players>
 		<releasedate>19890101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Rainbow Islands (Brazil).zip</path>
 		<name>레인보우 아일랜드 (브라질판)</name>
 		<image>./snap/Rainbow Islands (Brazil).png</image>
-		<video>./video/Rainbow Islands (Brazil).mp4</video>
+		<video>./video/Rainbow Islands (Europe).mp4</video>
 		<marquee>./marquee/Rainbow Islands (Brazil).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가/타이토</publisher>
@@ -4597,12 +4597,12 @@
 		<path>./Rambo - First Blood Part II (USA).zip</path>
 		<name>람보 2</name>
 		<image>./snap/Rambo - First Blood Part II (USA).png</image>
-		<video>./video/Rambo - First Blood Part II (USA).mp4</video>
+		<video>./video/Secret Command (Europe).mp4</video>
 		<marquee>./marquee/Rambo - First Blood Part II (USA).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19860101T000000</releasedate>
 	</game>
 	<game>
@@ -4626,7 +4626,7 @@
 		<developer>미드웨이</developer>
 		<publisher>액티비전</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19880101T000000</releasedate>
 	</game>
 	<game>
@@ -4638,7 +4638,7 @@
 		<developer>덴젠</developer>
 		<publisher>아타리/덴젠</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19930902T000000</releasedate>
 	</game>
 	<game>
@@ -4657,12 +4657,12 @@
 		<path>./Reggie Jackson Baseball (USA).zip</path>
 		<name>레기 잭슨 베이스볼</name>
 		<image>./snap/Reggie Jackson Baseball (USA).png</image>
-		<video>./video/Reggie Jackson Baseball (USA).mp4</video>
+		<video>./video/American Baseball (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Reggie Jackson Baseball (USA).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19880101T000000</releasedate>
 	</game>
 	<game>
@@ -4674,7 +4674,7 @@
 		<developer>타이토</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19930101T000000</releasedate>
 	</game>
 	<game>
@@ -4691,7 +4691,7 @@
 	</game>
 	<game>
 		<path>./Road Fighter (Korea) (Unl).zip</path>
-		<name>로드 파이터 (한국판)(해적판)</name>
+		<name>로드 파이터 (한국판)</name>
 		<image>./snap/Road Fighter (Korea) (Unl).png</image>
 		<video>./video/Road Fighter (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Road Fighter (Korea) (Unl).png</marquee>
@@ -4710,7 +4710,7 @@
 		<developer>US골드</developer>
 		<publisher>일렉트로닉 아츠/프로브/US골드</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19940301T000000</releasedate>
 	</game>
 	<game>
@@ -4722,7 +4722,7 @@
 		<developer>오션</developer>
 		<publisher>어클레임</publisher>
 		<genre/>
-		<players/>
+		<players>1</players>
 		<releasedate>19930101T000000</releasedate>
 	</game>
 	<game>
@@ -4746,7 +4746,7 @@
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19870101T000000</releasedate>
 	</game>
 	<game>
@@ -4775,19 +4775,19 @@
 	</game>
 	<game>
 		<path>./Sagak-ui Bimil (Korea) (Unl).zip</path>
-		<name>사각의 비밀 (한국판)(해적판)</name>
+		<name>사각의 비밀 (한국판)</name>
 		<image>./snap/Sagak-ui Bimil (Korea) (Unl).png</image>
 		<video>./video/Sagak-ui Bimil (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Sagak-ui Bimil (Korea) (Unl).png</marquee>
 		<developer>제미나</developer>
-		<publisher/>
+		<publisher>제미나</publisher>
 		<genre/>
 		<players/>
 		<releasedate/>
 	</game>
 	<game>
 		<path>./Samgukji 3 (Korea) (Unl).zip</path>
-		<name>삼국지 3 (한국판)(해적판)</name>
+		<name>삼국지 3 (한국판)</name>
 		<image>./snap/Samgukji 3 (Korea) (Unl).png</image>
 		<video>./video/Samgukji 3 (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Samgukji 3 (Korea) (Unl).png</marquee>
@@ -4806,7 +4806,7 @@
 		<developer>세가</developer>
 		<publisher>테크토이</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19950101T000000</releasedate>
 	</game>
 	<game>
@@ -4818,7 +4818,7 @@
 		<developer>세가</developer>
 		<publisher>테크토이</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19950101T000000</releasedate>
 	</game>
 	<game>
@@ -4849,7 +4849,7 @@
 		<path>./Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es) (Beta) (1996-08-12).zip</path>
 		<name>스머프의 세계여행 (유럽판)(베타)</name>
 		<image>./snap/Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es) (Beta) (1996-08-12).png</image>
-		<video>./video/Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es) (Beta) (1996-08-12).mp4</video>
+		<video>./video/Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es).mp4</video>
 		<marquee>./marquee/Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es) (Beta) (1996-08-12).png</marquee>
 		<developer>버추얼 스튜디오</developer>
 		<publisher>인포그람</publisher>
@@ -4878,14 +4878,14 @@
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19890101T000000</releasedate>
 	</game>
 	<game>
 		<path>./SDI (Japan).zip</path>
 		<name>SDI (일본판)</name>
 		<image>./snap/SDI (Japan).png</image>
-		<video>./video/SDI (Japan).mp4</video>
+		<video>./video/Global Defense (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/SDI (Japan).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
@@ -4902,7 +4902,7 @@
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19860101T000000</releasedate>
 	</game>
 	<game>
@@ -4914,7 +4914,7 @@
 		<developer>프로브</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19910801T000000</releasedate>
 	</game>
 	<game>
@@ -4945,12 +4945,12 @@
 		<path>./Seishun Scandal (Japan).zip</path>
 		<name>청춘 스캔들 / 마이 히어로 (일본판)</name>
 		<image>./snap/Seishun Scandal (Japan).png</image>
-		<video>./video/Seishun Scandal (Japan).mp4</video>
+		<video>./video/My Hero (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Seishun Scandal (Japan).png</marquee>
 		<developer>코어랜드</developer>
 		<publisher>코어랜드/세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19860131T000000</releasedate>
 	</game>
 	<game>
@@ -4962,7 +4962,7 @@
 		<developer>센시블 소프트웨어</developer>
 		<publisher>센시블 소프트웨어/소니</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19930101T000000</releasedate>
 	</game>
 	<game>
@@ -4993,12 +4993,12 @@
 		<path>./Shanghai (USA, Europe) (Beta).zip</path>
 		<name>상하이 (미국,유럽판)(베타)</name>
 		<image>./snap/Shanghai (USA, Europe) (Beta).png</image>
-		<video>./video/Shanghai (USA, Europe) (Beta).mp4</video>
+		<video>./video/Shanghai (USA, Europe).mp4</video>
 		<marquee>./marquee/Shanghai (USA, Europe) (Beta).png</marquee>
 		<developer>세가</developer>
 		<publisher>액티비전/세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19881001T000000</releasedate>
 	</game>
 	<game>
@@ -5010,14 +5010,14 @@
 		<developer>세가</developer>
 		<publisher>액티비전/세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19881001T000000</releasedate>
 	</game>
 	<game>
 		<path>./Shinobi (Japan, Brazil).zip</path>
 		<name>시노비</name>
 		<image>./snap/Shinobi (Japan, Brazil).png</image>
-		<video>./video/Shinobi (Japan, Brazil).mp4</video>
+		<video>./video/Shinobi (USA, Europe, Brazil) (Rev 1).mp4</video>
 		<marquee>./marquee/Shinobi (Japan, Brazil).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
@@ -5035,7 +5035,7 @@
 		<publisher>세가</publisher>
 		<genre/>
 		<players>1</players>
-		<releasedate>19880901T000000</releasedate>
+		<releasedate>19880619T000000</releasedate>
 	</game>
 	<game>
 		<path>./Shooting Gallery ~ Shooting G. (USA, Europe, Brazil).zip</path>
@@ -5082,12 +5082,12 @@
 		<developer>테크토이</developer>
 		<publisher>테크토이</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19970101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Sky Fighter (Korea) (Unl).zip</path>
-		<name>스카이 파이터 (한국판)(해적판)</name>
+		<name>스카이 파이터 (한국판)</name>
 		<image>./snap/Sky Fighter (Korea) (Unl).png</image>
 		<video>./video/Sky Fighter (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Sky Fighter (Korea) (Unl).png</marquee>
@@ -5099,9 +5099,9 @@
 	</game>
 	<game>
 		<path>./Sky Jaguar (Korea) (Clover) (Unl).zip</path>
-		<name>스카이 재규어 (한국판)(해적판)</name>
+		<name>스카이 재규어 (한국판)</name>
 		<image>./snap/Sky Jaguar (Korea) (Clover) (Unl).png</image>
-		<video>./video/Sky Jaguar (Korea) (Clover) (Unl).mp4</video>
+		<video>./video/Sky Jaguar (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Sky Jaguar (Korea) (Clover) (Unl).png</marquee>
 		<developer>코나미</developer>
 		<publisher>클로버</publisher>
@@ -5111,7 +5111,7 @@
 	</game>
 	<game>
 		<path>./Sky Jaguar (Korea) (Unl).zip</path>
-		<name>스카이 재규어 (한국판)(해적판)</name>
+		<name>스카이 재규어 (한국판)</name>
 		<image>./snap/Sky Jaguar (Korea) (Unl).png</image>
 		<video>./video/Sky Jaguar (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Sky Jaguar (Korea) (Unl).png</marquee>
@@ -5125,12 +5125,12 @@
 		<path>./Slap Shoot (USA) (Beta).zip</path>
 		<name>슬랩 샷 (베타)</name>
 		<image>./snap/Slap Shoot (USA) (Beta).png</image>
-		<video>./video/Slap Shoot (USA) (Beta).mp4</video>
+		<video>./video/Slap Shot (Europe) (Rev 1).mp4</video>
 		<marquee>./marquee/Slap Shoot (USA) (Beta).png</marquee>
 		<developer>삼립</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19900101T000000</releasedate>
 	</game>
 	<game>
@@ -5142,31 +5142,31 @@
 		<developer>삼립</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19900101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Slap Shot (Europe).zip</path>
 		<name>슬랩 샷 (유럽판)</name>
 		<image>./snap/Slap Shot (Europe).png</image>
-		<video>./video/Slap Shot (Europe).mp4</video>
+		<video>./video/Slap Shot (Europe) (Rev 1).mp4</video>
 		<marquee>./marquee/Slap Shot (Europe).png</marquee>
 		<developer>삼립</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19900101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Slap Shot (USA, Brazil).zip</path>
 		<name>슬랩 샷</name>
 		<image>./snap/Slap Shot (USA, Brazil).png</image>
-		<video>./video/Slap Shot (USA, Brazil).mp4</video>
+		<video>./video/Slap Shot (Europe) (Rev 1).mp4</video>
 		<marquee>./marquee/Slap Shot (USA, Brazil).png</marquee>
 		<developer>삼립</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19900101T000000</releasedate>
 	</game>
 	<game>
@@ -5185,7 +5185,7 @@
 		<path>./Solomon no Kagi - Oujo Rihita no Namida (Japan) (Beta).zip</path>
 		<name>솔로몬의 열쇠 - 왕녀 리히타의 눈물 (일본판)(베타)</name>
 		<image>./snap/Solomon no Kagi - Oujo Rihita no Namida (Japan) (Beta).png</image>
-		<video>./video/Solomon no Kagi - Oujo Rihita no Namida (Japan) (Beta).mp4</video>
+		<video>./video/Solomon no Kagi - Oujo Rihita no Namida (Japan).mp4</video>
 		<marquee>./marquee/Solomon no Kagi - Oujo Rihita no Namida (Japan) (Beta).png</marquee>
 		<developer>US골드</developer>
 		<publisher>테크모</publisher>
@@ -5221,7 +5221,7 @@
 		<path>./Sonic Chaos (Europe, Brazil) (Beta) (1993-06-30).zip</path>
 		<name>소닉 카오스 (베타)(1993-06-30)</name>
 		<image>./snap/Sonic Chaos (Europe, Brazil) (Beta) (1993-06-30).png</image>
-		<video>./video/Sonic Chaos (Europe, Brazil) (Beta) (1993-06-30).mp4</video>
+		<video>./video/Sonic Chaos (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Sonic Chaos (Europe, Brazil) (Beta) (1993-06-30).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
@@ -5233,7 +5233,7 @@
 		<path>./Sonic Chaos (Europe, Brazil) (Beta) (1993-07-13).zip</path>
 		<name>소닉 카오스 (베타)</name>
 		<image>./snap/Sonic Chaos (Europe, Brazil) (Beta) (1993-07-13).png</image>
-		<video>./video/Sonic Chaos (Europe, Brazil) (Beta) (1993-07-13).mp4</video>
+		<video>./video/Sonic Chaos (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Sonic Chaos (Europe, Brazil) (Beta) (1993-07-13).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
@@ -5293,7 +5293,7 @@
 		<path>./Sonic The Hedgehog 2 (Europe, Brazil).zip</path>
 		<name>소닉 더 헤지혹 2</name>
 		<image>./snap/Sonic The Hedgehog 2 (Europe, Brazil).png</image>
-		<video>./video/Sonic The Hedgehog 2 (Europe, Brazil).mp4</video>
+		<video>./video/Sonic The Hedgehog 2 (Europe, Brazil) (Rev 1).mp4</video>
 		<marquee>./marquee/Sonic The Hedgehog 2 (Europe, Brazil).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
@@ -5341,7 +5341,7 @@
 		<path>./Space Harrier (Japan, USA).zip</path>
 		<name>스페이스 해리어</name>
 		<image>./snap/Space Harrier (Japan, USA).png</image>
-		<video>./video/Space Harrier (Japan, USA).mp4</video>
+		<video>./video/Space Harrier (Europe).mp4</video>
 		<marquee>./marquee/Space Harrier (Japan, USA).png</marquee>
 		<developer>AM2연</developer>
 		<publisher>세가</publisher>
@@ -5365,7 +5365,7 @@
 		<path>./Space Harrier 3D (Japan).zip</path>
 		<name>스페이스 헤리어 3D (일본판)</name>
 		<image>./snap/Space Harrier 3D (Japan).png</image>
-		<video>./video/Space Harrier 3D (Japan).mp4</video>
+		<video>./video/Space Harrier 3-D ~ Space Harrier 3D (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Space Harrier 3D (Japan).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
@@ -5377,7 +5377,7 @@
 		<path>./Special Criminal Investigation (Europe) (Beta).zip</path>
 		<name>스페셜 크리미널 인베스티게이션 (유럽판)(베타)</name>
 		<image>./snap/Special Criminal Investigation (Europe) (Beta).png</image>
-		<video>./video/Special Criminal Investigation (Europe) (Beta).mp4</video>
+		<video>./video/Special Criminal Investigation (Europe).mp4</video>
 		<marquee>./marquee/Special Criminal Investigation (Europe) (Beta).png</marquee>
 		<developer>타이토</developer>
 		<publisher>타이토</publisher>
@@ -5406,19 +5406,19 @@
 		<developer>비트맵 브라더즈</developer>
 		<publisher>버진</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19910301T000000</releasedate>
 	</game>
 	<game>
 		<path>./Speedball (Europe).zip</path>
 		<name>스피드볼 (유럽판)</name>
 		<image>./snap/Speedball (Europe).png</image>
-		<video>./video/Speedball (Europe).mp4</video>
+		<video>./video/Speedball (Europe) (Rev 1).mp4</video>
 		<marquee>./marquee/Speedball (Europe).png</marquee>
 		<developer>비트맵 브라더즈</developer>
 		<publisher>버진</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19910301T000000</releasedate>
 	</game>
 	<game>
@@ -5430,7 +5430,7 @@
 		<developer>이미지웍스</developer>
 		<publisher>비트맵 브라더즈</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19920101T000000</releasedate>
 	</game>
 	<game>
@@ -5485,7 +5485,7 @@
 		<path>./Sports Pad Soccer (Japan) (Rev 1).zip</path>
 		<name>스포츠 패드 사커 (일본판)(개정판 1)</name>
 		<image>./snap/Sports Pad Soccer (Japan) (Rev 1).png</image>
-		<video>./video/Sports Pad Soccer (Japan) (Rev 1).mp4</video>
+		<video>./video/World Soccer ~ Great Soccer ~ Super Futebol (World).mp4</video>
 		<marquee>./marquee/Sports Pad Soccer (Japan) (Rev 1).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
@@ -5497,25 +5497,25 @@
 		<path>./Spy vs Spy (Japan).zip</path>
 		<name>스파이 vs 스파이 (일본판)</name>
 		<image>./snap/Spy vs Spy (Japan).png</image>
-		<video>./video/Spy vs Spy (Japan).mp4</video>
+		<video>./video/Spy vs Spy (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Spy vs Spy (Japan).png</marquee>
 		<developer>퍼스트 스타 소프트웨어</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19860101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Spy vs Spy (Taiwan) (Unl).zip</path>
 		<name>스파이 vs 스파이 (대만판)(해적판)</name>
 		<image>./snap/Spy vs Spy (Taiwan) (Unl).png</image>
-		<video>./video/Spy vs Spy (Taiwan) (Unl).mp4</video>
+		<video>./video/Spy vs Spy (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Spy vs Spy (Taiwan) (Unl).png</marquee>
 		<developer>퍼스트 스타 소프트웨어</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
-		<releasedate>19880101T000000</releasedate>
+		<players>2</players>
+		<releasedate>19860101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Spy vs Spy (USA, Europe, Brazil).zip</path>
@@ -5526,8 +5526,8 @@
 		<developer>퍼스트 스타 소프트웨어</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
-		<releasedate>19880101T000000</releasedate>
+		<players>2</players>
+		<releasedate>19860101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Star Wars (Europe, Brazil).zip</path>
@@ -5550,12 +5550,12 @@
 		<developer>테크토이</developer>
 		<publisher>캡콤/세가/테크토이</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19970101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Street Master (Korea) (Unl).zip</path>
-		<name>스트리트 마스터 (한국판)(해적판)</name>
+		<name>스트리트 마스터 (한국판)</name>
 		<image>./snap/Street Master (Korea) (Unl).png</image>
 		<video>./video/Street Master (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Street Master (Korea) (Unl).png</marquee>
@@ -5593,13 +5593,13 @@
 		<path>./Strider (USA, Europe, Brazil) (Demo).zip</path>
 		<name>스트라이더 (미국,유럽,브라질판)(데모)</name>
 		<image>./snap/Strider (USA, Europe, Brazil) (Demo).png</image>
-		<video>./video/Strider (USA, Europe, Brazil) (Demo).mp4</video>
+		<video>./video/Strider (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Strider (USA, Europe, Brazil) (Demo).png</marquee>
 		<developer>캡콤</developer>
 		<publisher>캡콤/세가</publisher>
 		<genre/>
 		<players>1</players>
-		<releasedate>19911101T000000</releasedate>
+		<releasedate>19910101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Strider (USA, Europe, Brazil).zip</path>
@@ -5611,7 +5611,7 @@
 		<publisher>캡콤/세가</publisher>
 		<genre/>
 		<players>1</players>
-		<releasedate>19911101T000000</releasedate>
+		<releasedate>19910101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Strider II (Europe, Brazil).zip</path>
@@ -5639,11 +5639,11 @@
 	</game>
 	<game>
 		<path>./Suho Jeonsa (Korea) (Unl).zip</path>
-		<name>수호전사 (한국판)(해적판)</name>
+		<name>수호전사 (한국판)</name>
 		<image>./snap/Suho Jeonsa (Korea) (Unl).png</image>
 		<video>./video/Suho Jeonsa (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Suho Jeonsa (Korea) (Unl).png</marquee>
-		<developer/>
+		<developer>열림정보</developer>
 		<publisher>열림정보</publisher>
 		<genre/>
 		<players/>
@@ -5665,12 +5665,12 @@
 		<path>./Summer Games (Europe, Brazil) (Beta).zip</path>
 		<name>섬머 게임즈 (베타)</name>
 		<image>./snap/Summer Games (Europe, Brazil) (Beta).png</image>
-		<video>./video/Summer Games (Europe, Brazil) (Beta).mp4</video>
+		<video>./video/Summer Games ~ Jogos Olimpicos (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Summer Games (Europe, Brazil) (Beta).png</marquee>
 		<developer>에픽스</developer>
 		<publisher>에픽스/세가</publisher>
 		<genre/>
-		<players>43,834</players>
+		<players>4</players>
 		<releasedate>19901101T000000</releasedate>
 	</game>
 	<game>
@@ -5682,14 +5682,14 @@
 		<developer>에픽스</developer>
 		<publisher>에픽스/세가</publisher>
 		<genre/>
-		<players>43,834</players>
+		<players>4</players>
 		<releasedate>19901101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Super Arkanoid (Korea) (Unl).zip</path>
-		<name>슈퍼 알카노이드 (한국판)(해적판)</name>
+		<name>슈퍼 알카노이드 (한국판)</name>
 		<image>./snap/Super Arkanoid (Korea) (Unl).png</image>
-		<video>./video/Super Arkanoid (Korea) (Unl).mp4</video>
+		<video>./video/Woody Pop - Shinjinrui no Block Kuzushi (Japan).mp4</video>
 		<marquee>./marquee/Super Arkanoid (Korea) (Unl).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
@@ -5707,11 +5707,11 @@
 		<publisher/>
 		<genre/>
 		<players/>
-		<releasedate/>
+		<releasedate>19890101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Super Bioman I (Korea) (Unl).zip</path>
-		<name>슈퍼 바이오맨 (한국판)(해적판)</name>
+		<name>슈퍼 바이오맨 (한국판)</name>
 		<image>./snap/Super Bioman I (Korea) (Unl).png</image>
 		<video>./video/Super Bioman I (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Super Bioman I (Korea) (Unl).png</marquee>
@@ -5723,7 +5723,7 @@
 	</game>
 	<game>
 		<path>./Super Boy 4 (Korea) (Unl).zip</path>
-		<name>슈퍼 보이 4 (한국판)(해적판)</name>
+		<name>슈퍼 보이 4 (한국판)</name>
 		<image>./snap/Super Boy 4 (Korea) (Unl).png</image>
 		<video>./video/Super Boy 4 (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Super Boy 4 (Korea) (Unl).png</marquee>
@@ -5735,7 +5735,7 @@
 	</game>
 	<game>
 		<path>./Super Boy I (Korea) (Unl).zip</path>
-		<name>슈퍼 보이 1 (한국판)(해적판)</name>
+		<name>슈퍼 보이 1 (한국판)</name>
 		<image>./snap/Super Boy I (Korea) (Unl).png</image>
 		<video>./video/Super Boy I (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Super Boy I (Korea) (Unl).png</marquee>
@@ -5747,7 +5747,7 @@
 	</game>
 	<game>
 		<path>./Super Boy II (Korea) (Unl).zip</path>
-		<name>슈퍼 보이 2 (한국판)(해적판)</name>
+		<name>슈퍼 보이 2 (한국판)</name>
 		<image>./snap/Super Boy II (Korea) (Unl).png</image>
 		<video>./video/Super Boy II (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Super Boy II (Korea) (Unl).png</marquee>
@@ -5759,7 +5759,7 @@
 	</game>
 	<game>
 		<path>./Super Boy III (Korea) (Unl).zip</path>
-		<name>슈퍼 보이 3 (한국판)(해적판)</name>
+		<name>슈퍼 보이 3 (한국판)</name>
 		<image>./snap/Super Boy III (Korea) (Unl).png</image>
 		<video>./video/Super Boy III (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Super Boy III (Korea) (Unl).png</marquee>
@@ -5771,19 +5771,19 @@
 	</game>
 	<game>
 		<path>./Super Bubble Bobble (Korea) (Unl).zip</path>
-		<name>슈퍼 버블 보블 (한국판)(해적판)</name>
+		<name>슈퍼 버블 보블 (한국판)</name>
 		<image>./snap/Super Bubble Bobble (Korea) (Unl).png</image>
 		<video>./video/Super Bubble Bobble (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Super Bubble Bobble (Korea) (Unl).png</marquee>
 		<developer>제미나</developer>
 		<publisher>제미나</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate/>
 	</game>
 	<game>
 		<path>./Super Columns &amp; Tetris (Korea) (Unl).zip</path>
-		<name>슈퍼 컬럼스 &amp; 테트리스 (한국판)(해적판)</name>
+		<name>슈퍼 컬럼스 &amp; 테트리스 (한국판)</name>
 		<image>./snap/Super Columns &amp; Tetris (Korea) (Unl).png</image>
 		<video>./video/Super Columns &amp; Tetris (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Super Columns &amp; Tetris (Korea) (Unl).png</marquee>
@@ -5797,12 +5797,12 @@
 		<path>./Super Golf (Europe) (Beta).zip</path>
 		<name>슈퍼 골프 (유럽판)(베타)</name>
 		<image>./snap/Super Golf (Europe) (Beta).png</image>
-		<video>./video/Super Golf (Europe) (Beta).mp4</video>
+		<video>./video/Golfamania (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Super Golf (Europe) (Beta).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,834</players>
+		<players>4</players>
 		<releasedate>19900101T000000</releasedate>
 	</game>
 	<game>
@@ -5814,19 +5814,19 @@
 		<developer>안코</developer>
 		<publisher>US골드</publisher>
 		<genre/>
-		<players/>
+		<players>2</players>
 		<releasedate>19911201T000000</releasedate>
 	</game>
 	<game>
 		<path>./Super Monaco GP (Europe, Brazil) (Beta).zip</path>
 		<name>슈퍼 모나코 GP (베타)</name>
 		<image>./snap/Super Monaco GP (Europe, Brazil) (Beta).png</image>
-		<video>./video/Super Monaco GP (Europe, Brazil) (Beta).mp4</video>
+		<video>./video/Super Monaco GP (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Super Monaco GP (Europe, Brazil) (Beta).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19900901T000000</releasedate>
 	</game>
 	<game>
@@ -5838,43 +5838,43 @@
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19900901T000000</releasedate>
 	</game>
 	<game>
 		<path>./Super Monaco GP (USA) (Beta).zip</path>
 		<name>슈퍼 모나코 GP (베타)</name>
 		<image>./snap/Super Monaco GP (USA) (Beta).png</image>
-		<video>./video/Super Monaco GP (USA) (Beta).mp4</video>
+		<video>./video/Super Monaco GP (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Super Monaco GP (USA) (Beta).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19900901T000000</releasedate>
 	</game>
 	<game>
 		<path>./Super Monaco GP (USA).zip</path>
 		<name>슈퍼 모나코 GP</name>
 		<image>./snap/Super Monaco GP (USA).png</image>
-		<video>./video/Super Monaco GP (USA).mp4</video>
+		<video>./video/Super Monaco GP (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Super Monaco GP (USA).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19900901T000000</releasedate>
 	</game>
 	<game>
 		<path>./Super Off Road (Europe) (Beta).zip</path>
 		<name>슈퍼 오프 로드 (유럽판)(베타)</name>
 		<image>./snap/Super Off Road (Europe) (Beta).png</image>
-		<video>./video/Super Off Road (Europe) (Beta).mp4</video>
+		<video>./video/Super Off Road (Europe).mp4</video>
 		<marquee>./marquee/Super Off Road (Europe) (Beta).png</marquee>
 		<developer>리랜드</developer>
 		<publisher>버진</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19920101T000000</releasedate>
 	</game>
 	<game>
@@ -5886,7 +5886,7 @@
 		<developer>리랜드</developer>
 		<publisher>버진</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19920101T000000</releasedate>
 	</game>
 	<game>
@@ -5910,7 +5910,7 @@
 		<developer>윌리엄즈</developer>
 		<publisher>어클레임</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19921001T000000</releasedate>
 	</game>
 	<game>
@@ -5922,7 +5922,7 @@
 		<developer>크레믈린</developer>
 		<publisher>도마크 소프트웨어</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19910101T000000</releasedate>
 	</game>
 	<game>
@@ -5934,12 +5934,12 @@
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19860101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Super Tetris (Korea) (Unl).zip</path>
-		<name>슈퍼 테트리스 (한국판)(해적판)</name>
+		<name>슈퍼 테트리스 (한국판)</name>
 		<image>./snap/Super Tetris (Korea) (Unl).png</image>
 		<video>./video/Super Tetris (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Super Tetris (Korea) (Unl).png</marquee>
@@ -5951,9 +5951,9 @@
 	</game>
 	<game>
 		<path>./Super Wonder Boy - Monster World (Japan).zip</path>
-		<name>슈퍼 원더보이 - 몬스터 월드 (일본판)</name>
+		<name>슈퍼 원더 보이 - 몬스터 월드 (일본판)</name>
 		<image>./snap/Super Wonder Boy - Monster World (Japan).png</image>
-		<video>./video/Super Wonder Boy - Monster World (Japan).mp4</video>
+		<video>./video/Wonder Boy in Monster Land (USA, Europe).mp4</video>
 		<marquee>./marquee/Super Wonder Boy - Monster World (Japan).png</marquee>
 		<developer>웨스톤</developer>
 		<publisher>세가</publisher>
@@ -5963,14 +5963,14 @@
 	</game>
 	<game>
 		<path>./Super Wonder Boy ~ Wonder Boy (Japan, Europe).zip</path>
-		<name>슈퍼 원더보이 (일본,유럽판)</name>
+		<name>슈퍼 원더 보이 (일본,유럽판)</name>
 		<image>./snap/Super Wonder Boy ~ Wonder Boy (Japan, Europe).png</image>
-		<video>./video/Super Wonder Boy ~ Wonder Boy (Japan, Europe).mp4</video>
+		<video>./video/Wonder Boy (USA, Europe, Brazil) (Rev 1).mp4</video>
 		<marquee>./marquee/Super Wonder Boy ~ Wonder Boy (Japan, Europe).png</marquee>
 		<developer>웨스톤</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19870322T000000</releasedate>
 	</game>
 	<game>
@@ -6025,12 +6025,12 @@
 		<path>./Taz-Mania (Europe, Brazil) (Beta).zip</path>
 		<name>태즈-매니아 (베타)</name>
 		<image>./snap/Taz-Mania (Europe, Brazil) (Beta).png</image>
-		<video>./video/Taz-Mania (Europe, Brazil) (Beta).mp4</video>
+		<video>./video/Taz-Mania (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Taz-Mania (Europe, Brazil) (Beta).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players/>
+		<players>1</players>
 		<releasedate>19930201T000000</releasedate>
 	</game>
 	<game>
@@ -6042,19 +6042,19 @@
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players/>
+		<players>1</players>
 		<releasedate>19930201T000000</releasedate>
 	</game>
 	<game>
 		<path>./Tecmo World Cup '92 (Europe) (Beta).zip</path>
 		<name>테크모 월드컵 92 (유럽판)(베타)</name>
 		<image>./snap/Tecmo World Cup '92 (Europe) (Beta).png</image>
-		<video>./video/Tecmo World Cup '92 (Europe) (Beta).mp4</video>
+		<video>./video/Tecmo World Cup '93 (Europe).mp4</video>
 		<marquee>./marquee/Tecmo World Cup '92 (Europe) (Beta).png</marquee>
 		<developer>테크모</developer>
 		<publisher>세가/테크모</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19930101T000000</releasedate>
 	</game>
 	<game>
@@ -6066,7 +6066,7 @@
 		<developer>테크모</developer>
 		<publisher>세가/테크모</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19930101T000000</releasedate>
 	</game>
 	<game>
@@ -6078,31 +6078,31 @@
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19850101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Teddy Boy Blues (Japan) (Proto) (Ep-MyCard).zip</path>
 		<name>테디 보이 블루스 (일본판)(시험판)</name>
 		<image>./snap/Teddy Boy Blues (Japan) (Proto) (Ep-MyCard).png</image>
-		<video>./video/Teddy Boy Blues (Japan) (Proto) (Ep-MyCard).mp4</video>
+		<video>./video/Teddy Boy (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Teddy Boy Blues (Japan) (Proto) (Ep-MyCard).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19850101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Teddy Boy Blues (Japan).zip</path>
 		<name>테디 보이 블루스 (일본판)</name>
 		<image>./snap/Teddy Boy Blues (Japan).png</image>
-		<video>./video/Teddy Boy Blues (Japan).mp4</video>
+		<video>./video/Teddy Boy (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Teddy Boy Blues (Japan).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19850101T000000</releasedate>
 	</game>
 	<game>
@@ -6114,7 +6114,7 @@
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19890101T000000</releasedate>
 	</game>
 	<game>
@@ -6145,7 +6145,7 @@
 		<path>./Terminator, The (Brazil) (Rev 1).zip</path>
 		<name>터미네이터 (브라질판)(개정판 1)</name>
 		<image>./snap/Terminator, The (Brazil) (Rev 1).png</image>
-		<video>./video/Terminator, The (Brazil) (Rev 1).mp4</video>
+		<video>./video/Terminator, The (Europe).mp4</video>
 		<marquee>./marquee/Terminator, The (Brazil) (Rev 1).png</marquee>
 		<developer>프로브</developer>
 		<publisher>테크토이/버진</publisher>
@@ -6163,11 +6163,11 @@
 		<publisher>테크토이/버진</publisher>
 		<genre/>
 		<players>1</players>
-		<releasedate>19920801T000000</releasedate>
+		<releasedate>19920101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Three Dragon Story, The (Korea) (Unl).zip</path>
-		<name>용의 전설 (한국판)(해적판)</name>
+		<name>용의 전설 (한국판)</name>
 		<image>./snap/Three Dragon Story, The (Korea) (Unl).png</image>
 		<video>./video/Three Dragon Story, The (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Three Dragon Story, The (Korea) (Unl).png</marquee>
@@ -6181,7 +6181,7 @@
 		<path>./Thunder Blade (Japan).zip</path>
 		<name>썬더 블레이드 (일본판)</name>
 		<image>./snap/Thunder Blade (Japan).png</image>
-		<video>./video/Thunder Blade (Japan).mp4</video>
+		<video>./video/Thunder Blade (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Thunder Blade (Japan).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
@@ -6195,11 +6195,11 @@
 		<image>./snap/Thunder Blade (USA, Europe, Brazil).png</image>
 		<video>./video/Thunder Blade (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Thunder Blade (USA, Europe, Brazil).png</marquee>
-		<developer>ADK</developer>
-		<publisher>ADK</publisher>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
-		<releasedate>19890501T000000</releasedate>
+		<players>1</players>
+		<releasedate>19880730T000000</releasedate>
 	</game>
 	<game>
 		<path>./Time Soldiers (USA, Europe, Brazil).zip</path>
@@ -6207,17 +6207,17 @@
 		<image>./snap/Time Soldiers (USA, Europe, Brazil).png</image>
 		<video>./video/Time Soldiers (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Time Soldiers (USA, Europe, Brazil).png</marquee>
-		<developer>심즈</developer>
-		<publisher>세가</publisher>
+		<developer>ADK</developer>
+		<publisher>ADK</publisher>
 		<genre/>
-		<players>1</players>
-		<releasedate>19920101T000000</releasedate>
+		<players>2</players>
+		<releasedate>19890501T000000</releasedate>
 	</game>
 	<game>
 		<path>./Tom &amp; Jerry (Europe, Brazil) (Beta).zip</path>
 		<name>톰과 제리 (베타)</name>
 		<image>./snap/Tom &amp; Jerry (Europe, Brazil) (Beta).png</image>
-		<video>./video/Tom &amp; Jerry (Europe, Brazil) (Beta).mp4</video>
+		<video>./video/Tom and Jerry - The Movie (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Tom &amp; Jerry (Europe, Brazil) (Beta).png</marquee>
 		<developer>심즈</developer>
 		<publisher>세가</publisher>
@@ -6239,7 +6239,7 @@
 	</game>
 	<game>
 		<path>./Toto World 3 (Korea) (Unl).zip</path>
-		<name>토토 월드 3 (한국판)(해적판)</name>
+		<name>토토 월드 3 (한국판)</name>
 		<image>./snap/Toto World 3 (Korea) (Unl).png</image>
 		<video>./video/Toto World 3 (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Toto World 3 (Korea) (Unl).png</marquee>
@@ -6253,12 +6253,12 @@
 		<path>./TransBot (USA, Europe, Brazil) (Beta).zip</path>
 		<name>트랜스봇 (미국,유럽,브라질판)(베타)</name>
 		<image>./snap/TransBot (USA, Europe, Brazil) (Beta).png</image>
-		<video>./video/TransBot (USA, Europe, Brazil) (Beta).mp4</video>
+		<video>./video/TransBot (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/TransBot (USA, Europe, Brazil) (Beta).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19861001T000000</releasedate>
 	</game>
 	<game>
@@ -6270,7 +6270,7 @@
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19861001T000000</releasedate>
 	</game>
 	<game>
@@ -6282,26 +6282,26 @@
 		<developer>도마크 소프트웨어</developer>
 		<publisher>테크 소프트웨어</publisher>
 		<genre/>
-		<players>43,834</players>
+		<players>4</players>
 		<releasedate>19920101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Ttoriui Moheom (Korea) (Unl).zip</path>
-		<name>똘이의 모험 (한국판)(해적판)</name>
+		<name>똘이의 모험 (한국판)</name>
 		<image>./snap/Ttoriui Moheom (Korea) (Unl).png</image>
-		<video>./video/Ttoriui Moheom (Korea) (Unl).mp4</video>
+		<video>./video/My Hero (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Ttoriui Moheom (Korea) (Unl).png</marquee>
 		<developer>코어랜드</developer>
 		<publisher>코어랜드/세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19860101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Turma da Monica em O Resgate (Brazil).zip</path>
-		<name>원더보이 3 - 드래곤스 트랩 (브라질판)</name>
+		<name>원더 보이 3 - 드래곤스 트랩 (브라질판)</name>
 		<image>./snap/Turma da Monica em O Resgate (Brazil).png</image>
-		<video>./video/Turma da Monica em O Resgate (Brazil).mp4</video>
+		<video>./video/Wonder Boy III - The Dragon's Trap (USA, Europe).mp4</video>
 		<marquee>./marquee/Turma da Monica em O Resgate (Brazil).png</marquee>
 		<developer>세가</developer>
 		<publisher>테크토이</publisher>
@@ -6313,7 +6313,7 @@
 		<path>./Ultima IV - Quest of the Avatar (Europe, Brazil) (Beta).zip</path>
 		<name>울티마 4 - 아바타의 모험 (베타)</name>
 		<image>./snap/Ultima IV - Quest of the Avatar (Europe, Brazil) (Beta).png</image>
-		<video>./video/Ultima IV - Quest of the Avatar (Europe, Brazil) (Beta).mp4</video>
+		<video>./video/Ultima IV - Quest of the Avatar (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Ultima IV - Quest of the Avatar (Europe, Brazil) (Beta).png</marquee>
 		<developer>오리진 시스템</developer>
 		<publisher>세가</publisher>
@@ -6342,14 +6342,14 @@
 		<developer>세가</developer>
 		<publisher>레이지 소프트/세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19930802T000000</releasedate>
 	</game>
 	<game>
 		<path>./Vampire (Europe) (Beta).zip</path>
 		<name>벰파이어 (유럽판)(베타)</name>
 		<image>./snap/Vampire (Europe) (Beta).png</image>
-		<video>./video/Vampire (Europe) (Beta).mp4</video>
+		<video>./video/Master of Darkness (Europe, Brazil).mp4</video>
 		<marquee>./marquee/Vampire (Europe) (Beta).png</marquee>
 		<developer>심즈</developer>
 		<publisher>세가</publisher>
@@ -6378,19 +6378,19 @@
 		<developer>어스펙트</developer>
 		<publisher>테크토이</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19970101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Walter Payton Football (USA).zip</path>
 		<name>월터 페이튼 풋볼</name>
 		<image>./snap/Walter Payton Football (USA).png</image>
-		<video>./video/Walter Payton Football (USA).mp4</video>
+		<video>./video/American Pro Football (Europe).mp4</video>
 		<marquee>./marquee/Walter Payton Football (USA).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19900101T000000</releasedate>
 	</game>
 	<game>
@@ -6409,7 +6409,7 @@
 		<path>./Where in the World is Carmen Sandiego (Brazil).zip</path>
 		<name>칼멘 센디에고는 어디에 있나 (브라질판)</name>
 		<image>./snap/Where in the World is Carmen Sandiego (Brazil).png</image>
-		<video>./video/Where in the World is Carmen Sandiego (Brazil).mp4</video>
+		<video>./video/Where in the World is Carmen Sandiego (USA).mp4</video>
 		<marquee>./marquee/Where in the World is Carmen Sandiego (Brazil).png</marquee>
 		<developer>파커 브라더즈</developer>
 		<publisher>브로드번드 소프트웨어</publisher>
@@ -6438,7 +6438,7 @@
 		<developer>심즈</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19930101T000000</releasedate>
 	</game>
 	<game>
@@ -6450,19 +6450,19 @@
 		<developer>심즈</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19930101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Winter Olympics (Brazil) (En,Fr,De,Es,It,Pt,Sv,No).zip</path>
 		<name>동계 올림픽 (브라질판)</name>
 		<image>./snap/Winter Olympics (Brazil) (En,Fr,De,Es,It,Pt,Sv,No).png</image>
-		<video>./video/Winter Olympics (Brazil) (En,Fr,De,Es,It,Pt,Sv,No).mp4</video>
+		<video>./video/Winter Olympics (Europe) (En,Fr,De,Es,It,Pt,Sv,No).mp4</video>
 		<marquee>./marquee/Winter Olympics (Brazil) (En,Fr,De,Es,It,Pt,Sv,No).png</marquee>
 		<developer>US골드</developer>
 		<publisher>US골드</publisher>
 		<genre/>
-		<players>43,834</players>
+		<players>4</players>
 		<releasedate>19940101T000000</releasedate>
 	</game>
 	<game>
@@ -6474,7 +6474,7 @@
 		<developer>US골드</developer>
 		<publisher>US골드</publisher>
 		<genre/>
-		<players>43,834</players>
+		<players>4</players>
 		<releasedate>19940101T000000</releasedate>
 	</game>
 	<game>
@@ -6498,12 +6498,12 @@
 		<developer>웨스톤</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19870601T000000</releasedate>
 	</game>
 	<game>
 		<path>./Wonder Boy III - The Dragon's Trap (USA, Europe).zip</path>
-		<name>원더보이 3 - 드래곤스 트랩 (미국,유럽판)</name>
+		<name>원더 보이 3 - 드래곤스 트랩 (미국,유럽판)</name>
 		<image>./snap/Wonder Boy III - The Dragon's Trap (USA, Europe).png</image>
 		<video>./video/Wonder Boy III - The Dragon's Trap (USA, Europe).mp4</video>
 		<marquee>./marquee/Wonder Boy III - The Dragon's Trap (USA, Europe).png</marquee>
@@ -6514,10 +6514,22 @@
 		<releasedate>19890901T000000</releasedate>
 	</game>
 	<game>
+		<path>./Wonder Boy III - The Dragon's Trap (USA, Europe) (GOG) (Unl).zip</path>
+		<name>원더 보이 3 - 드래곤스 트랩 (미국,유럽판)(GOG)</name>
+		<image>./snap/Wonder Boy III - The Dragon's Trap (USA, Europe) (GOG) (Unl).png</image>
+		<video>./video/Wonder Boy III - The Dragon's Trap (USA, Europe).mp4</video>
+		<marquee>./marquee/Wonder Boy III - The Dragon's Trap (USA, Europe) (GOG) (Unl).png</marquee>
+		<developer>웨스톤</developer>
+		<publisher>세가</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>19890901T000000</releasedate>
+	</game>
+	<game>
 		<path>./Wonder Boy in Monster Land (USA, Europe) (Beta).zip</path>
 		<name>원더 보이 인 몬스터 랜드 (미국,유럽판)(베타)</name>
 		<image>./snap/Wonder Boy in Monster Land (USA, Europe) (Beta).png</image>
-		<video>./video/Wonder Boy in Monster Land (USA, Europe) (Beta).mp4</video>
+		<video>./video/Wonder Boy in Monster Land (USA, Europe).mp4</video>
 		<marquee>./marquee/Wonder Boy in Monster Land (USA, Europe) (Beta).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
@@ -6539,9 +6551,9 @@
 	</game>
 	<game>
 		<path>./Wonder Boy in Monster World (Europe) (Beta).zip</path>
-		<name>원더보이 인 몬스터월드 (유럽판)(베타)</name>
+		<name>원더 보이 인 몬스터 월드 (유럽판)(베타)</name>
 		<image>./snap/Wonder Boy in Monster World (Europe) (Beta).png</image>
-		<video>./video/Wonder Boy in Monster World (Europe) (Beta).mp4</video>
+		<video>./video/Wonder Boy in Monster World (Europe).mp4</video>
 		<marquee>./marquee/Wonder Boy in Monster World (Europe) (Beta).png</marquee>
 		<developer>웨스톤</developer>
 		<publisher>세가</publisher>
@@ -6551,7 +6563,7 @@
 	</game>
 	<game>
 		<path>./Wonder Boy in Monster World (Europe).zip</path>
-		<name>원더보이 인 몬스터월드 (유럽판)</name>
+		<name>원더 보이 인 몬스터 월드 (유럽판)</name>
 		<image>./snap/Wonder Boy in Monster World (Europe).png</image>
 		<video>./video/Wonder Boy in Monster World (Europe).mp4</video>
 		<marquee>./marquee/Wonder Boy in Monster World (Europe).png</marquee>
@@ -6563,7 +6575,7 @@
 	</game>
 	<game>
 		<path>./Wonsiin (Korea) (Unl).zip</path>
-		<name>원시인 (한국판)(해적판)</name>
+		<name>원시인 (한국판)</name>
 		<image>./snap/Wonsiin (Korea) (Unl).png</image>
 		<video>./video/Wonsiin (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Wonsiin (Korea) (Unl).png</marquee>
@@ -6594,19 +6606,19 @@
 		<developer>엑세스 게임즈</developer>
 		<publisher>US골드</publisher>
 		<genre/>
-		<players>43,834</players>
+		<players>4</players>
 		<releasedate>19911001T000000</releasedate>
 	</game>
 	<game>
 		<path>./World Cup Italia '90 (USA) (Demo).zip</path>
 		<name>월드컵 이탈리아 90 (데모)</name>
 		<image>./snap/World Cup Italia '90 (USA) (Demo).png</image>
-		<video>./video/World Cup Italia '90 (USA) (Demo).mp4</video>
+		<video>./video/World Cup Italia '90 ~ Super Futebol II (Europe, Brazil).mp4</video>
 		<marquee>./marquee/World Cup Italia '90 (USA) (Demo).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19901201T000000</releasedate>
 	</game>
 	<game>
@@ -6618,7 +6630,7 @@
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19901201T000000</releasedate>
 	</game>
 	<game>
@@ -6630,19 +6642,19 @@
 		<developer>티어텍스</developer>
 		<publisher>US골드</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19940101T000000</releasedate>
 	</game>
 	<game>
 		<path>./World Games (Europe) (Beta).zip</path>
 		<name>월드 게임즈 (유럽판)(베타)</name>
 		<image>./snap/World Games (Europe) (Beta).png</image>
-		<video>./video/World Games (Europe) (Beta).mp4</video>
+		<video>./video/World Games (Europe, Brazil).mp4</video>
 		<marquee>./marquee/World Games (Europe) (Beta).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,834</players>
+		<players>4</players>
 		<releasedate>19900101T000000</releasedate>
 	</game>
 	<game>
@@ -6654,7 +6666,7 @@
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
-		<players>43,834</players>
+		<players>4</players>
 		<releasedate>19900101T000000</releasedate>
 	</game>
 	<game>
@@ -6673,7 +6685,7 @@
 		<path>./World Grand Prix (USA, Brazil) (Beta).zip</path>
 		<name>월드 그랑프리 (베타)</name>
 		<image>./snap/World Grand Prix (USA, Brazil) (Beta).png</image>
-		<video>./video/World Grand Prix (USA, Brazil) (Beta).mp4</video>
+		<video>./video/World Grand Prix (Europe).mp4</video>
 		<marquee>./marquee/World Grand Prix (USA, Brazil) (Beta).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
@@ -6685,7 +6697,7 @@
 		<path>./World Grand Prix (USA, Brazil).zip</path>
 		<name>월드 그랑프리</name>
 		<image>./snap/World Grand Prix (USA, Brazil).png</image>
-		<video>./video/World Grand Prix (USA, Brazil).mp4</video>
+		<video>./video/World Grand Prix (Europe).mp4</video>
 		<marquee>./marquee/World Grand Prix (USA, Brazil).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
@@ -6702,7 +6714,7 @@
 		<developer>테크모</developer>
 		<publisher>테크모</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19870101T000000</releasedate>
 	</game>
 	<game>
@@ -6714,7 +6726,7 @@
 		<developer>플라잉 에지</developer>
 		<publisher>어클래임/플라잉 에지</publisher>
 		<genre/>
-		<players>43,832</players>
+		<players>2</players>
 		<releasedate>19930101T000000</releasedate>
 	</game>
 	<game>
@@ -6745,7 +6757,7 @@
 		<path>./Xenon 2 - Megablast (Europe).zip</path>
 		<name>제논 2 -메가블라스트 (유럽판)</name>
 		<image>./snap/Xenon 2 - Megablast (Europe).png</image>
-		<video>./video/Xenon 2 - Megablast (Europe).mp4</video>
+		<video>./video/Xenon 2 - Megablast (Europe) (Rev 1).mp4</video>
 		<marquee>./marquee/Xenon 2 - Megablast (Europe).png</marquee>
 		<developer>데이터 디자인 인터액티프</developer>
 		<publisher>이미지 웍스</publisher>
@@ -6755,12 +6767,12 @@
 	</game>
 	<game>
 		<path>./Xyzolog (Korea) (Unl).zip</path>
-		<name>자이조로그 (한국판)(해적판)</name>
+		<name>자이조로그 (한국판)</name>
 		<image>./snap/Xyzolog (Korea) (Unl).png</image>
 		<video>./video/Xyzolog (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Xyzolog (Korea) (Unl).png</marquee>
 		<developer>타이토</developer>
-		<publisher/>
+		<publisher>타이토</publisher>
 		<genre/>
 		<players/>
 		<releasedate/>
@@ -6769,7 +6781,7 @@
 		<path>./Ys (Japan).zip</path>
 		<name>이스 (일본판)</name>
 		<image>./snap/Ys (Japan).png</image>
-		<video>./video/Ys (Japan).mp4</video>
+		<video>./video/Ys - The Vanished Omens ~ Y's (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Ys (Japan).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
@@ -6781,7 +6793,7 @@
 		<path>./Ys - The Vanished Omens (USA, Europe) (Demo).zip</path>
 		<name>이스 - 배니시드 오멘 (미국,유럽판)(데모)</name>
 		<image>./snap/Ys - The Vanished Omens (USA, Europe) (Demo).png</image>
-		<video>./video/Ys - The Vanished Omens (USA, Europe) (Demo).mp4</video>
+		<video>./video/Ys - The Vanished Omens ~ Y's (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Ys - The Vanished Omens (USA, Europe) (Demo).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
@@ -6803,27 +6815,27 @@
 	</game>
 	<game>
 		<path>./Yuyryeong-ui Jip (Korea) (Unl).zip</path>
-		<name>유령의 집 (한국판)(해적판)</name>
+		<name>유령의 집 (한국판)</name>
 		<image>./snap/Yuyryeong-ui Jip (Korea) (Unl).png</image>
-		<video>./video/Yuyryeong-ui Jip (Korea) (Unl).mp4</video>
+		<video>./video/Ghost House (USA, Europe, Brazil).mp4</video>
 		<marquee>./marquee/Yuyryeong-ui Jip (Korea) (Unl).png</marquee>
 		<developer/>
 		<publisher/>
 		<genre/>
-		<players/>
-		<releasedate/>
+		<players>0</players>
+		<releasedate>0</releasedate>
 	</game>
 	<game>
 		<path>./Zaxxon 3-D (World) (Beta).zip</path>
 		<name>잭슨 3D (세계판)(베타)</name>
 		<image>./snap/Zaxxon 3-D (World) (Beta).png</image>
-		<video>./video/Zaxxon 3-D (World) (Beta).mp4</video>
+		<video>./video/Zaxxon 3-D (World).mp4</video>
 		<marquee>./marquee/Zaxxon 3-D (World) (Beta).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
 		<players>1</players>
-		<releasedate>19870101T000000</releasedate>
+		<releasedate>19880301T000000</releasedate>
 	</game>
 	<game>
 		<path>./Zaxxon 3-D (World).zip</path>
@@ -6853,13 +6865,13 @@
 		<path>./Zillion (USA, Europe) (Rev 1).zip</path>
 		<name>붉은 광탄 질리온 (미국,유럽판)(개정판 1)</name>
 		<image>./snap/Zillion (USA, Europe) (Rev 1).png</image>
-		<video>./video/Zillion (USA, Europe) (Rev 1).mp4</video>
+		<video>./video/Zillion (Europe, Brazil) (Rev 2).mp4</video>
 		<marquee>./marquee/Zillion (USA, Europe) (Rev 1).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre/>
 		<players>1</players>
-		<releasedate>19871101T000000</releasedate>
+		<releasedate>19871001T000000</releasedate>
 	</game>
 	<game>
 		<path>./Zillion II - The Tri Formation (World).zip</path>
@@ -6887,9 +6899,9 @@
 	</game>
 	<game>
 		<path>./[BIOS] Alex Kidd in Miracle World (Korea) (Unl).zip</path>
-		<name>[바이오스] 알렉스 키드 미라클월드 (한국판)(해적판)</name>
+		<name>[바이오스] 알렉스 키드 미라클월드 (한국판)</name>
 		<image>./snap/[BIOS] Alex Kidd in Miracle World (Korea) (Unl).png</image>
-		<video>./video/[BIOS] Alex Kidd in Miracle World (Korea) (Unl).mp4</video>
+		<video>./video/[BIOS] Alex Kidd in Miracle World (USA, Europe).mp4</video>
 		<marquee>./marquee/[BIOS] Alex Kidd in Miracle World (Korea) (Unl).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
@@ -6949,7 +6961,7 @@
 		<path>./[BIOS] Sega Master System (Europe) (v2.0).zip</path>
 		<name>[바이오스] 세가 마스터 시스템 (유럽판)(v2.0)</name>
 		<image>./snap/[BIOS] Sega Master System (Europe) (v2.0).png</image>
-		<video>./video/[BIOS] Sega Master System (Europe) (v2.0).mp4</video>
+		<video>./video/[BIOS] Sega Master System (Japan) (v2.1).mp4</video>
 		<marquee>./marquee/[BIOS] Sega Master System (Europe) (v2.0).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
@@ -6973,7 +6985,7 @@
 		<path>./[BIOS] Sega Master System (USA) (M404) (Proto).zip</path>
 		<name>[바이오스] 세가 마스터 시스템 (M404)(시험판)</name>
 		<image>./snap/[BIOS] Sega Master System (USA) (M404) (Proto).png</image>
-		<video>./video/[BIOS] Sega Master System (USA) (M404) (Proto).mp4</video>
+		<video>./video/[BIOS] Sega Master System (Japan) (v2.1).mp4</video>
 		<marquee>./marquee/[BIOS] Sega Master System (USA) (M404) (Proto).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
@@ -6985,7 +6997,7 @@
 		<path>./[BIOS] Sega Master System (USA) (Store Display Unit).zip</path>
 		<name>[바이오스] 세가 마스터 시스템 (스토어 디즈니 유닛)</name>
 		<image>./snap/[BIOS] Sega Master System (USA) (Store Display Unit).png</image>
-		<video>./video/[BIOS] Sega Master System (USA) (Store Display Unit).mp4</video>
+		<video>./video/[BIOS] Sega Master System (Japan) (v2.1).mp4</video>
 		<marquee>./marquee/[BIOS] Sega Master System (USA) (Store Display Unit).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
@@ -6997,7 +7009,7 @@
 		<path>./[BIOS] Sega Master System (USA) (v1.0) (Proto).zip</path>
 		<name>[바이오스] 세가 마스터 시스템 (v1.0)(시험판)</name>
 		<image>./snap/[BIOS] Sega Master System (USA) (v1.0) (Proto).png</image>
-		<video>./video/[BIOS] Sega Master System (USA) (v1.0) (Proto).mp4</video>
+		<video>./video/[BIOS] Sega Master System (Japan) (v2.1).mp4</video>
 		<marquee>./marquee/[BIOS] Sega Master System (USA) (v1.0) (Proto).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
@@ -7009,7 +7021,7 @@
 		<path>./[BIOS] Sega Master System (USA, Europe) (v1.3).zip</path>
 		<name>[바이오스] 세가 마스터 시스템 (미국,유럽판)(v1.3)</name>
 		<image>./snap/[BIOS] Sega Master System (USA, Europe) (v1.3).png</image>
-		<video>./video/[BIOS] Sega Master System (USA, Europe) (v1.3).mp4</video>
+		<video>./video/[BIOS] Sega Master System (Japan) (v2.1).mp4</video>
 		<marquee>./marquee/[BIOS] Sega Master System (USA, Europe) (v1.3).png</marquee>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
