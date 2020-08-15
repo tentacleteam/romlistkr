@@ -5,7 +5,7 @@
 * 지원프론트엔드 : RetroPie, Recalbox, Attract-Mode
 * 지원에뮬 : Arcade(MAME, AdvMAME, FBNeo), NES, SNES, MD, GB, GBC, GBA, PCE, SMS, Sega 32X, NGP, NGPC, WS, WSC
 * 제작자 : 텐타클 팀
-* 최종수정 : Fab 07, 2020
+* 최종수정 : August 8, 2020
 * 카페 : http://cafe.naver.com/raspigamer
 * 레트로게임 롬 목록 한글화 자료는 오픈소스입니다. MIT 라이센스를 따르고 있으므로 라이센스와 출처(http://cafe.naver.com/raspigamer) 표시만 지켜주시면 자유롭게 사용하실 수 있습니다.
 -->
@@ -13,29 +13,29 @@
 		<path>./Bakumatsu Rouman Tokubetsu Hen - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana (Japan).zip</path>
 		<name>월화의 검사 - 달에 피는 꽃, 떨어지는 꽃 (일본판)</name>
 		<image>./snap/Bakumatsu Rouman Tokubetsu Hen - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana (Japan).png</image>
-		<video>./video/Last Blade, The - Beyond the Destiny (USA, Europe).mp4</video>
+		<video>./video/Bakumatsu Rouman Tokubetsu Hen - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana (Japan).mp4</video>
 		<marquee>./marquee/Bakumatsu Rouman Tokubetsu Hen - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana (Japan).png</marquee>
 		<developer>사우르스</developer>
 		<publisher>SNK</publisher>
 		<genre/>
-		<players>1-2</players>
+		<players>2</players>
 		<releasedate>20000316T000000</releasedate>
 	</game>
 	<game>
 		<path>./Baseball Stars Color - Pocket Sports Series (World) (En,Ja).zip</path>
-		<name>베이스볼 스타즈 컬러 - 포켓 스포츠 시리즈 (세계판)(영어,일본어)</name>
+		<name>베이스볼 스타즈 컬러 - 포켓 스포츠 시리즈 (세계판)(영어)</name>
 		<image>./snap/Baseball Stars Color - Pocket Sports Series (World) (En,Ja).png</image>
 		<video>./video/Baseball Stars Color - Pocket Sports Series (World) (En,Ja).mp4</video>
 		<marquee>./marquee/Baseball Stars Color - Pocket Sports Series (World) (En,Ja).png</marquee>
 		<developer>SNK</developer>
 		<publisher>사우르스/SNK</publisher>
 		<genre/>
-		<players>1-2</players>
+		<players>2</players>
 		<releasedate>19990101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Big Bang Pro Wrestling (Japan) (En,Ja).zip</path>
-		<name>빅 뱅 프로 레슬링 (일본판)(영어,일본어)</name>
+		<name>빅 뱅 프로 레슬링 (일본판)(영어)</name>
 		<image>./snap/Big Bang Pro Wrestling (Japan) (En,Ja).png</image>
 		<video>./video/Big Bang Pro Wrestling (Japan) (En,Ja).mp4</video>
 		<marquee>./marquee/Big Bang Pro Wrestling (Japan) (En,Ja).png</marquee>
@@ -61,24 +61,24 @@
 		<path>./Biomotor Unitron (Japan) (Beta).zip</path>
 		<name>바이오모터 유니트론 (일본판)(베타)</name>
 		<image>./snap/Biomotor Unitron (Japan) (Beta).png</image>
-		<video>./video/Biomotor Unitron (USA, Europe).mp4</video>
+		<video>./video/Biomotor Unitron (Japan) (Beta).mp4</video>
 		<marquee>./marquee/Biomotor Unitron (Japan) (Beta).png</marquee>
 		<developer>유메코보</developer>
 		<publisher>SNK</publisher>
 		<genre/>
-		<players>1-2</players>
+		<players>2</players>
 		<releasedate>19990415T000000</releasedate>
 	</game>
 	<game>
 		<path>./Biomotor Unitron (Japan).zip</path>
 		<name>바이오모터 유니트론 (일본판)</name>
 		<image>./snap/Biomotor Unitron (Japan).png</image>
-		<video>./video/Biomotor Unitron (USA, Europe).mp4</video>
+		<video>./video/Biomotor Unitron (Japan).mp4</video>
 		<marquee>./marquee/Biomotor Unitron (Japan).png</marquee>
 		<developer>유메코보</developer>
 		<publisher>SNK</publisher>
 		<genre/>
-		<players>1-2</players>
+		<players>2</players>
 		<releasedate>19990415T000000</releasedate>
 	</game>
 	<game>
@@ -90,19 +90,19 @@
 		<developer>유메코보</developer>
 		<publisher>SNK</publisher>
 		<genre/>
-		<players>1-2</players>
-		<releasedate>19990731T000000</releasedate>
+		<players>2</players>
+		<releasedate>19990415T000000</releasedate>
 	</game>
 	<game>
 		<path>./Bust-A-Move Pocket (USA) (Beta).zip</path>
 		<name>버스트 어 무브 포켓 (베타)</name>
 		<image>./snap/Bust-A-Move Pocket (USA) (Beta).png</image>
-		<video>./video/Bust-A-Move Pocket (USA).mp4</video>
+		<video>./video/Bust-A-Move Pocket (USA) (Beta).mp4</video>
 		<marquee>./marquee/Bust-A-Move Pocket (USA) (Beta).png</marquee>
 		<developer>타이토</developer>
 		<publisher>SNK/타이토</publisher>
 		<genre/>
-		<players>1-2</players>
+		<players>2</players>
 		<releasedate>19990101T000000</releasedate>
 	</game>
 	<game>
@@ -114,12 +114,12 @@
 		<developer>타이토</developer>
 		<publisher>SNK/타이토</publisher>
 		<genre/>
-		<players>1-2</players>
+		<players>2</players>
 		<releasedate>19990101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Cool Boarders Pocket (Japan, Europe) (En,Ja).zip</path>
-		<name>쿨 보더스 포켓 (일본,유럽판)(영어,일본어)</name>
+		<name>쿨 보더스 포켓 (일본,유럽판)(영어)</name>
 		<image>./snap/Cool Boarders Pocket (Japan, Europe) (En,Ja).png</image>
 		<video>./video/Cool Boarders Pocket (Japan, Europe) (En,Ja).mp4</video>
 		<marquee>./marquee/Cool Boarders Pocket (Japan, Europe) (En,Ja).png</marquee>
@@ -145,7 +145,7 @@
 		<path>./Cool Cool Jam (USA) (Proto).zip</path>
 		<name>쿨쿨 잼 (시험판)</name>
 		<image>./snap/Cool Cool Jam (USA) (Proto).png</image>
-		<video>./video/Cool Cool Jam (Japan).mp4</video>
+		<video>./video/Cool Cool Jam (USA) (Proto).mp4</video>
 		<marquee>./marquee/Cool Cool Jam (USA) (Proto).png</marquee>
 		<developer>SNK</developer>
 		<publisher>SNK</publisher>
@@ -155,45 +155,33 @@
 	</game>
 	<game>
 		<path>./Crush Roller (World) (En,Ja).zip</path>
-		<name>크러쉬 롤러 (세계판)(영어,일본어)</name>
+		<name>크러쉬 롤러 (세계판)(영어)</name>
 		<image>./snap/Crush Roller (World) (En,Ja).png</image>
 		<video>./video/Crush Roller (World) (En,Ja).mp4</video>
 		<marquee>./marquee/Crush Roller (World) (En,Ja).png</marquee>
 		<developer>ADK</developer>
 		<publisher>SNK</publisher>
 		<genre/>
-		<players>1-2</players>
-		<releasedate>19990101T000000</releasedate>
-	</game>
-	<game>
-		<path>./Dark Arms - Beast Buster 1999 (World) (En,Ja) (Beta).zip</path>
-		<name>다크 암즈 - 비스느 버스터 1999 (세계판)(영어,일본어)(베타)</name>
-		<image>./snap/Dark Arms - Beast Buster 1999 (World) (En,Ja) (Beta).png</image>
-		<video>./video/Dark Arms - Beast Buster 1999 (World) (En,Ja).mp4</video>
-		<marquee>./marquee/Dark Arms - Beast Buster 1999 (World) (En,Ja) (Beta).png</marquee>
-		<developer>노이즈 팩토리</developer>
-		<publisher>SNK</publisher>
-		<genre/>
-		<players>1-2</players>
+		<players>2</players>
 		<releasedate>19990101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Dark Arms - Beast Buster 1999 (World) (En,Ja).zip</path>
-		<name>다크 암즈 - 비스느 버스터 1999 (세계판)(영어,일본어)</name>
+		<name>다크 암즈 - 비스느 버스터 1999 (세계판)(영어)</name>
 		<image>./snap/Dark Arms - Beast Buster 1999 (World) (En,Ja).png</image>
 		<video>./video/Dark Arms - Beast Buster 1999 (World) (En,Ja).mp4</video>
 		<marquee>./marquee/Dark Arms - Beast Buster 1999 (World) (En,Ja).png</marquee>
 		<developer>노이즈 팩토리</developer>
 		<publisher>SNK</publisher>
 		<genre/>
-		<players>1-2</players>
+		<players>2</players>
 		<releasedate>19990101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Delta Warp (Japan) (Beta).zip</path>
 		<name>델타 워프 (일본판)(베타)</name>
 		<image>./snap/Delta Warp (Japan) (Beta).png</image>
-		<video>./video/Delta Warp (Japan) (En,Ja).mp4</video>
+		<video>./video/Delta Warp (Japan) (Beta).mp4</video>
 		<marquee>./marquee/Delta Warp (Japan) (Beta).png</marquee>
 		<developer>아오시스</developer>
 		<publisher>SNK</publisher>
@@ -203,7 +191,7 @@
 	</game>
 	<game>
 		<path>./Delta Warp (Japan) (En,Ja).zip</path>
-		<name>델타 워프 (일본판)(영어,일본어)</name>
+		<name>델타 워프 (일본판)(영어)</name>
 		<image>./snap/Delta Warp (Japan) (En,Ja).png</image>
 		<video>./video/Delta Warp (Japan) (En,Ja).mp4</video>
 		<marquee>./marquee/Delta Warp (Japan) (En,Ja).png</marquee>
@@ -222,19 +210,19 @@
 		<developer>퀘스트</developer>
 		<publisher>퀘스트/SNK</publisher>
 		<genre/>
-		<players>1-2</players>
+		<players>2</players>
 		<releasedate>20000622T000000</releasedate>
 	</game>
 	<game>
 		<path>./Densha de Go! 2 on Neo Geo Pocket (Japan) (Beta).zip</path>
 		<name>전차로 고! 2 네오지오 포켓 (일본판)(베타)</name>
 		<image>./snap/Densha de Go! 2 on Neo Geo Pocket (Japan) (Beta).png</image>
-		<video>./video/Densha de Go! 2 on Neo Geo Pocket (Japan).mp4</video>
+		<video>./video/Densha de Go! 2 on Neo Geo Pocket (Japan) (Beta).mp4</video>
 		<marquee>./marquee/Densha de Go! 2 on Neo Geo Pocket (Japan) (Beta).png</marquee>
 		<developer>타이토 GM R&amp;D</developer>
 		<publisher>타이토/SNK</publisher>
 		<genre/>
-		<players>1-2</players>
+		<players>2</players>
 		<releasedate>19991021T000000</releasedate>
 	</game>
 	<game>
@@ -246,7 +234,7 @@
 		<developer>타이토 GM R&amp;D</developer>
 		<publisher>타이토/SNK</publisher>
 		<genre/>
-		<players>1-2</players>
+		<players>2</players>
 		<releasedate>19991021T000000</releasedate>
 	</game>
 	<game>
@@ -258,31 +246,31 @@
 		<developer>사크노스</developer>
 		<publisher>SNK</publisher>
 		<genre/>
-		<players>1-2</players>
+		<players>2</players>
 		<releasedate>20000416T000000</releasedate>
 	</game>
 	<game>
 		<path>./Dive Alert - Burn Hen (Japan) (Beta).zip</path>
 		<name>다이브 얼러트 - 번 편 (일본판)(베타)</name>
 		<image>./snap/Dive Alert - Burn Hen (Japan) (Beta).png</image>
-		<video>./video/Dive Alert - Matt's Version (USA, Europe).mp4</video>
+		<video>./video/Dive Alert - Burn Hen (Japan) (Beta).mp4</video>
 		<marquee>./marquee/Dive Alert - Burn Hen (Japan) (Beta).png</marquee>
 		<developer>사크노스</developer>
 		<publisher>SNK</publisher>
 		<genre/>
-		<players>1-2</players>
+		<players>2</players>
 		<releasedate>19990819T000000</releasedate>
 	</game>
 	<game>
 		<path>./Dive Alert - Burn Hen (Japan).zip</path>
 		<name>다이브 얼러트 - 번 편 (일본판)</name>
 		<image>./snap/Dive Alert - Burn Hen (Japan).png</image>
-		<video>./video/Dive Alert - Matt's Version (USA, Europe).mp4</video>
+		<video>./video/Dive Alert - Burn Hen (Japan).mp4</video>
 		<marquee>./marquee/Dive Alert - Burn Hen (Japan).png</marquee>
 		<developer>사크노스</developer>
 		<publisher>SNK</publisher>
 		<genre/>
-		<players>1-2</players>
+		<players>2</players>
 		<releasedate>19990819T000000</releasedate>
 	</game>
 	<game>
@@ -294,19 +282,19 @@
 		<developer>사크노스</developer>
 		<publisher>SNK</publisher>
 		<genre/>
-		<players>1-2</players>
+		<players>2</players>
 		<releasedate>20000416T000000</releasedate>
 	</game>
 	<game>
 		<path>./Dive Alert - Rebecca Hen (Japan).zip</path>
 		<name>다이브 얼러트 - 레베카 편 (일본판)</name>
 		<image>./snap/Dive Alert - Rebecca Hen (Japan).png</image>
-		<video>./video/Dive Alert - Becky's Version (USA, Europe).mp4</video>
+		<video>./video/Dive Alert - Rebecca Hen (Japan).mp4</video>
 		<marquee>./marquee/Dive Alert - Rebecca Hen (Japan).png</marquee>
 		<developer>사크노스</developer>
 		<publisher>SNK</publisher>
 		<genre/>
-		<players>1-2</players>
+		<players>2</players>
 		<releasedate>19990819T000000</releasedate>
 	</game>
 	<game>
@@ -323,7 +311,7 @@
 	</game>
 	<game>
 		<path>./Dynamite Slugger (Japan, Europe) (En,Ja).zip</path>
-		<name>다이너마이트 슬러거 (일본,유럽판)(영어,일본어)</name>
+		<name>다이너마이트 슬러거 (일본,유럽판)(영어)</name>
 		<image>./snap/Dynamite Slugger (Japan, Europe) (En,Ja).png</image>
 		<video>./video/Dynamite Slugger (Japan, Europe) (En,Ja).mp4</video>
 		<marquee>./marquee/Dynamite Slugger (Japan, Europe) (En,Ja).png</marquee>
@@ -342,7 +330,7 @@
 		<developer>ESP</developer>
 		<publisher>ESP/세가</publisher>
 		<genre/>
-		<players>1-2</players>
+		<players>2</players>
 		<releasedate>20000101T000000</releasedate>
 	</game>
 	<game>
@@ -361,7 +349,7 @@
 		<path>./Fantastic Night Dreams - Cotton (Japan).zip</path>
 		<name>판타스틱 나이트 드림 - 코튼 (일본판)</name>
 		<image>./snap/Fantastic Night Dreams - Cotton (Japan).png</image>
-		<video>./video/Fantastic Night Dreams - Cotton (Europe).mp4</video>
+		<video>./video/Fantastic Night Dreams - Cotton (Japan).mp4</video>
 		<marquee>./marquee/Fantastic Night Dreams - Cotton (Japan).png</marquee>
 		<developer>석세스</developer>
 		<publisher>SNK</publisher>
@@ -385,7 +373,7 @@
 		<path>./Faselei! (Japan).zip</path>
 		<name>파셀레이 (일본판)</name>
 		<image>./snap/Faselei! (Japan).png</image>
-		<video>./video/Faselei! (Europe).mp4</video>
+		<video>./video/Faselei! (Japan).mp4</video>
 		<marquee>./marquee/Faselei! (Japan).png</marquee>
 		<developer>사크노스</developer>
 		<publisher>SNK</publisher>
@@ -394,27 +382,15 @@
 		<releasedate>19991222T000000</releasedate>
 	</game>
 	<game>
-		<path>./Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja) (Beta).zip</path>
-		<name>아랑전설 F-콘택트 - 포켓 파이팅 시리즈 (세계판)(영어,일본어)(베타)</name>
-		<image>./snap/Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja) (Beta).png</image>
-		<video>./video/Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja).mp4</video>
-		<marquee>./marquee/Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja) (Beta).png</marquee>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre/>
-		<players>1-2</players>
-		<releasedate>19990101T000000</releasedate>
-	</game>
-	<game>
 		<path>./Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja).zip</path>
-		<name>아랑전설 F-콘택트 - 포켓 파이팅 시리즈 (세계판)(영어,일본어)</name>
+		<name>아랑전설 F-콘택트 - 포켓 파이팅 시리즈 (세계판)(영어)</name>
 		<image>./snap/Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja).png</image>
 		<video>./video/Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja).mp4</video>
 		<marquee>./marquee/Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja).png</marquee>
 		<developer>SNK</developer>
 		<publisher>SNK</publisher>
 		<genre/>
-		<players>1-2</players>
+		<players>2</players>
 		<releasedate>19990101T000000</releasedate>
 	</game>
 	<game>
@@ -426,7 +402,7 @@
 		<developer>SNK</developer>
 		<publisher>SNK</publisher>
 		<genre/>
-		<players>1-2</players>
+		<players>2</players>
 		<releasedate>20000101T000000</releasedate>
 	</game>
 	<game>
@@ -450,43 +426,43 @@
 		<developer>유메코보</developer>
 		<publisher>SNK</publisher>
 		<genre/>
-		<players>1-2</players>
+		<players>2</players>
 		<releasedate>20000120T000000</releasedate>
 	</game>
 	<game>
 		<path>./King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja) (Beta).zip</path>
-		<name>킹 오브 파이터즈 R-2 - 포켓 파이팅 시리즈 (세계판)(영어,일본어)(베타)</name>
+		<name>킹 오브 파이터즈 R-2 - 포켓 파이팅 시리즈 (세계판)(영어)(베타)</name>
 		<image>./snap/King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja) (Beta).png</image>
-		<video>./video/King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja).mp4</video>
+		<video>./video/King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja) (Beta).mp4</video>
 		<marquee>./marquee/King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja) (Beta).png</marquee>
 		<developer>SNK</developer>
 		<publisher>SNK</publisher>
 		<genre/>
-		<players>1-2</players>
+		<players>2</players>
 		<releasedate>19990101T000000</releasedate>
 	</game>
 	<game>
 		<path>./King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja).zip</path>
-		<name>킹 오브 파이터즈 R-2 - 포켓 파이팅 시리즈 (세계판)(영어,일본어)</name>
+		<name>킹 오브 파이터즈 R-2 - 포켓 파이팅 시리즈 (세계판)(영어)</name>
 		<image>./snap/King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja).png</image>
 		<video>./video/King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja).mp4</video>
 		<marquee>./marquee/King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja).png</marquee>
 		<developer>SNK</developer>
 		<publisher>SNK</publisher>
 		<genre/>
-		<players>1-2</players>
+		<players>2</players>
 		<releasedate>19990101T000000</releasedate>
 	</game>
 	<game>
 		<path>./King of Fighters R-2 Version 2 - Pocket Fighting Series (World) (En,Ja) (Beta).zip</path>
-		<name>킹 오브 파이터즈 R-2 버전 2 - 포켓 파이팅 시리즈 (세계판)(영어,일본어)(베타)</name>
+		<name>킹 오브 파이터즈 R-2 버전 2 - 포켓 파이팅 시리즈 (세계판)(영어)(베타)</name>
 		<image>./snap/King of Fighters R-2 Version 2 - Pocket Fighting Series (World) (En,Ja) (Beta).png</image>
-		<video>./video/King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja).mp4</video>
+		<video>./video/King of Fighters R-2 Version 2 - Pocket Fighting Series (World) (En,Ja) (Beta).mp4</video>
 		<marquee>./marquee/King of Fighters R-2 Version 2 - Pocket Fighting Series (World) (En,Ja) (Beta).png</marquee>
 		<developer>SNK</developer>
 		<publisher>SNK</publisher>
 		<genre/>
-		<players>1-2</players>
+		<players>2</players>
 		<releasedate>19990101T000000</releasedate>
 	</game>
 	<game>
@@ -498,7 +474,7 @@
 		<developer>SNK</developer>
 		<publisher>SNK</publisher>
 		<genre/>
-		<players>1-2</players>
+		<players>2</players>
 		<releasedate>20000706T000000</releasedate>
 	</game>
 	<game>
@@ -522,31 +498,31 @@
 		<developer>사우르스</developer>
 		<publisher>SNK</publisher>
 		<genre/>
-		<players>1-2</players>
+		<players>2</players>
 		<releasedate>20000101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Magical Drop Pocket (Japan) (Beta).zip</path>
 		<name>매지컬 드롭 포켓 (일본판)(베타)</name>
 		<image>./snap/Magical Drop Pocket (Japan) (Beta).png</image>
-		<video>./video/Magical Drop Pocket (USA, Europe).mp4</video>
+		<video>./video/Magical Drop Pocket (Japan) (Beta).mp4</video>
 		<marquee>./marquee/Magical Drop Pocket (Japan) (Beta).png</marquee>
 		<developer> SAS 사카다</developer>
 		<publisher>SNK</publisher>
 		<genre/>
-		<players>1-2</players>
+		<players>2</players>
 		<releasedate>19990624T000000</releasedate>
 	</game>
 	<game>
 		<path>./Magical Drop Pocket (Japan).zip</path>
 		<name>매지컬 드롭 포켓 (일본판)</name>
 		<image>./snap/Magical Drop Pocket (Japan).png</image>
-		<video>./video/Magical Drop Pocket (USA, Europe).mp4</video>
+		<video>./video/Magical Drop Pocket (Japan).mp4</video>
 		<marquee>./marquee/Magical Drop Pocket (Japan).png</marquee>
 		<developer> SAS 사카다</developer>
 		<publisher>SNK</publisher>
 		<genre/>
-		<players>1-2</players>
+		<players>2</players>
 		<releasedate>19990624T000000</releasedate>
 	</game>
 	<game>
@@ -558,8 +534,8 @@
 		<developer> SAS 사카다</developer>
 		<publisher>SNK</publisher>
 		<genre/>
-		<players>1-2</players>
-		<releasedate>19991205T000000</releasedate>
+		<players>2</players>
+		<releasedate>19990624T000000</releasedate>
 	</game>
 	<game>
 		<path>./Memories Off - Pure (Japan).zip</path>
@@ -575,7 +551,7 @@
 	</game>
 	<game>
 		<path>./Metal Slug - 1st Mission (World) (En,Ja).zip</path>
-		<name>메탈 슬러그 - 첫 번째 미션 (세계판)(영어,일본어)</name>
+		<name>메탈 슬러그 - 첫 번째 미션 (세계판)(영어)</name>
 		<image>./snap/Metal Slug - 1st Mission (World) (En,Ja).png</image>
 		<video>./video/Metal Slug - 1st Mission (World) (En,Ja).mp4</video>
 		<marquee>./marquee/Metal Slug - 1st Mission (World) (En,Ja).png</marquee>
@@ -587,9 +563,9 @@
 	</game>
 	<game>
 		<path>./Metal Slug - 2nd Mission (World) (En,Ja) (Beta).zip</path>
-		<name>메탈 슬러그 - 두 번째 미션 (세계판)(영어,일본어)(베타)</name>
+		<name>메탈 슬러그 - 두 번째 미션 (세계판)(영어)(베타)</name>
 		<image>./snap/Metal Slug - 2nd Mission (World) (En,Ja) (Beta).png</image>
-		<video>./video/Metal Slug - 2nd Mission (World) (En,Ja).mp4</video>
+		<video>./video/Metal Slug - 2nd Mission (World) (En,Ja) (Beta).mp4</video>
 		<marquee>./marquee/Metal Slug - 2nd Mission (World) (En,Ja) (Beta).png</marquee>
 		<developer>유키요테이</developer>
 		<publisher>SNK</publisher>
@@ -599,7 +575,7 @@
 	</game>
 	<game>
 		<path>./Metal Slug - 2nd Mission (World) (En,Ja).zip</path>
-		<name>메탈 슬러그 - 두 번째 미션 (세계판)(영어,일본어)</name>
+		<name>메탈 슬러그 - 두 번째 미션 (세계판)(영어)</name>
 		<image>./snap/Metal Slug - 2nd Mission (World) (En,Ja).png</image>
 		<video>./video/Metal Slug - 2nd Mission (World) (En,Ja).mp4</video>
 		<marquee>./marquee/Metal Slug - 2nd Mission (World) (En,Ja).png</marquee>
@@ -642,19 +618,19 @@
 		<developer>다이나</developer>
 		<publisher>다이나</publisher>
 		<genre/>
-		<players>1-2</players>
+		<players>2</players>
 		<releasedate>19990101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Neo Baccarat - Pocket Casino Series (Japan, Europe) (Beta).zip</path>
 		<name>네오 바카라 - 포켓 카지노 시리즈 (일본,유럽판)(베타)</name>
 		<image>./snap/Neo Baccarat - Pocket Casino Series (Japan, Europe) (Beta).png</image>
-		<video>./video/Neo Baccarat - Pocket Casino Series (Japan, Europe).mp4</video>
+		<video>./video/Neo Baccarat - Pocket Casino Series (Japan, Europe) (Beta).mp4</video>
 		<marquee>./marquee/Neo Baccarat - Pocket Casino Series (Japan, Europe) (Beta).png</marquee>
 		<developer>다이나</developer>
 		<publisher>다이나</publisher>
 		<genre/>
-		<players>1-2</players>
+		<players>2</players>
 		<releasedate>19990101T000000</releasedate>
 	</game>
 	<game>
@@ -666,31 +642,31 @@
 		<developer>다이나</developer>
 		<publisher>다이나</publisher>
 		<genre/>
-		<players>1-2</players>
+		<players>2</players>
 		<releasedate>19990101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja) (Beta).zip</path>
-		<name>네오 체리 마스터 컬러 - 포켓 카지노 시리즈 (세계판)(영어,일본어)(베타)</name>
+		<name>네오 체리 마스터 컬러 - 포켓 카지노 시리즈 (세계판)(영어)(베타)</name>
 		<image>./snap/Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja) (Beta).png</image>
-		<video>./video/Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja).mp4</video>
+		<video>./video/Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja) (Beta).mp4</video>
 		<marquee>./marquee/Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja) (Beta).png</marquee>
 		<developer>다이나</developer>
 		<publisher>SNK</publisher>
 		<genre/>
-		<players>1-2</players>
+		<players>2</players>
 		<releasedate>19990101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja).zip</path>
-		<name>네오 체리 마스터 컬러 - 포켓 카지노 시리즈 (세계판)(영어,일본어)</name>
+		<name>네오 체리 마스터 컬러 - 포켓 카지노 시리즈 (세계판)(영어)</name>
 		<image>./snap/Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja).png</image>
 		<video>./video/Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja).mp4</video>
 		<marquee>./marquee/Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja).png</marquee>
 		<developer>다이나</developer>
 		<publisher>SNK</publisher>
 		<genre/>
-		<players>1-2</players>
+		<players>2</players>
 		<releasedate>19990101T000000</releasedate>
 	</game>
 	<game>
@@ -707,7 +683,7 @@
 	</game>
 	<game>
 		<path>./Neo Dragon's Wild - Pocket Casino Series (World) (En,Ja).zip</path>
-		<name>네오 드래곤즈 와일드 - 포켓 카지노 시리즈 (세계판)(영어,일본어)</name>
+		<name>네오 드래곤즈 와일드 - 포켓 카지노 시리즈 (세계판)(영어)</name>
 		<image>./snap/Neo Dragon's Wild - Pocket Casino Series (World) (En,Ja).png</image>
 		<video>./video/Neo Dragon's Wild - Pocket Casino Series (World) (En,Ja).mp4</video>
 		<marquee>./marquee/Neo Dragon's Wild - Pocket Casino Series (World) (En,Ja).png</marquee>
@@ -719,9 +695,9 @@
 	</game>
 	<game>
 		<path>./Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (Beta).zip</path>
-		<name>네오 드래곤즈 와일드 - 리얼 카지노 시리즈 (세계판)(영어,일본어)(베타)</name>
+		<name>네오 드래곤즈 와일드 - 리얼 카지노 시리즈 (세계판)(영어)(베타)</name>
 		<image>./snap/Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (Beta).png</image>
-		<video>./video/Neo Dragon's Wild - Pocket Casino Series (World) (En,Ja).mp4</video>
+		<video>./video/Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (Beta).mp4</video>
 		<marquee>./marquee/Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (Beta).png</marquee>
 		<developer/>
 		<publisher>SNK</publisher>
@@ -731,7 +707,7 @@
 	</game>
 	<game>
 		<path>./Neo Mystery Bonus - Pocket Casino Series (World) (En,Ja).zip</path>
-		<name>네오 미스테리 보너스 - 포켓 카지노 시리즈 (세계판)(영어,일본어)</name>
+		<name>네오 미스테리 보너스 - 포켓 카지노 시리즈 (세계판)(영어)</name>
 		<image>./snap/Neo Mystery Bonus - Pocket Casino Series (World) (En,Ja).png</image>
 		<video>./video/Neo Mystery Bonus - Pocket Casino Series (World) (En,Ja).mp4</video>
 		<marquee>./marquee/Neo Mystery Bonus - Pocket Casino Series (World) (En,Ja).png</marquee>
@@ -755,31 +731,31 @@
 	</game>
 	<game>
 		<path>./Neo Turf Masters (World) (En,Ja) (Beta).zip</path>
-		<name>네오 터프 마스터즈 (세계판)(영어,일본어)(베타)</name>
+		<name>네오 터프 마스터즈 (세계판)(영어)(베타)</name>
 		<image>./snap/Neo Turf Masters (World) (En,Ja) (Beta).png</image>
-		<video>./video/Neo Turf Masters (World) (En,Ja).mp4</video>
+		<video>./video/Neo Turf Masters (World) (En,Ja) (Beta).mp4</video>
 		<marquee>./marquee/Neo Turf Masters (World) (En,Ja) (Beta).png</marquee>
 		<developer>SNK</developer>
 		<publisher>SNK</publisher>
 		<genre/>
-		<players>1-2</players>
+		<players>2</players>
 		<releasedate>19990101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Neo Turf Masters (World) (En,Ja).zip</path>
-		<name>네오 터프 마스터즈 (세계판)(영어,일본어)</name>
+		<name>네오 터프 마스터즈 (세계판)(영어)</name>
 		<image>./snap/Neo Turf Masters (World) (En,Ja).png</image>
 		<video>./video/Neo Turf Masters (World) (En,Ja).mp4</video>
 		<marquee>./marquee/Neo Turf Masters (World) (En,Ja).png</marquee>
 		<developer>SNK</developer>
 		<publisher>SNK</publisher>
 		<genre/>
-		<players>1-2</players>
+		<players>2</players>
 		<releasedate>19990101T000000</releasedate>
 	</game>
 	<game>
 		<path>./NeoGeo Cup '98 Plus Color - Pocket Sports Series (World) (En,Ja).zip</path>
-		<name>네오지오컵 98 플러스 컬러 - 포켓 스포츠 시리즈 (세계판)(영어,일본어)</name>
+		<name>네오지오컵 98 플러스 컬러 - 포켓 스포츠 시리즈 (세계판)(영어)</name>
 		<image>./snap/NeoGeo Cup '98 Plus Color - Pocket Sports Series (World) (En,Ja).png</image>
 		<video>./video/NeoGeo Cup '98 Plus Color - Pocket Sports Series (World) (En,Ja).mp4</video>
 		<marquee>./marquee/NeoGeo Cup '98 Plus Color - Pocket Sports Series (World) (En,Ja).png</marquee>
@@ -805,7 +781,7 @@
 		<path>./Oekaki Puzzle (Japan).zip</path>
 		<name>오에카키 퍼즐 (일본판)</name>
 		<image>./snap/Oekaki Puzzle (Japan).png</image>
-		<video>./video/Picture Puzzle (USA, Europe).mp4</video>
+		<video>./video/Oekaki Puzzle (Japan).mp4</video>
 		<marquee>./marquee/Oekaki Puzzle (Japan).png</marquee>
 		<developer>석세스</developer>
 		<publisher>SNK</publisher>
@@ -815,7 +791,7 @@
 	</game>
 	<game>
 		<path>./Pac-Man (World) (En,Ja).zip</path>
-		<name>팩맨 (세계판)(영어,일본어)</name>
+		<name>팩맨 (세계판)(영어)</name>
 		<image>./snap/Pac-Man (World) (En,Ja).png</image>
 		<video>./video/Pac-Man (World) (En,Ja).mp4</video>
 		<marquee>./marquee/Pac-Man (World) (En,Ja).png</marquee>
@@ -877,7 +853,7 @@
 		<path>./Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan) (Beta).zip</path>
 		<name>파지슬롯 애저 왕국 포켓 - 불꽃 (일본판)(베타)</name>
 		<image>./snap/Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan) (Beta).png</image>
-		<video>./video/Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan).mp4</video>
+		<video>./video/Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan) (Beta).mp4</video>
 		<marquee>./marquee/Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan) (Beta).png</marquee>
 		<developer/>
 		<publisher>아루즈</publisher>
@@ -949,7 +925,7 @@
 		<path>./Party Mail (Japan) (Beta).zip</path>
 		<name>파티 메일 (일본판)(베타)</name>
 		<image>./snap/Party Mail (Japan) (Beta).png</image>
-		<video>./video/Party Mail (Japan).mp4</video>
+		<video>./video/Party Mail (Japan) (Beta).mp4</video>
 		<marquee>./marquee/Party Mail (Japan) (Beta).png</marquee>
 		<developer/>
 		<publisher>ADK</publisher>
@@ -1009,7 +985,7 @@
 		<path>./Pocket Reversi (Japan).zip</path>
 		<name>포켓 리버시 (일본판)</name>
 		<image>./snap/Pocket Reversi (Japan).png</image>
-		<video>./video/Pocket Reversi (Europe).mp4</video>
+		<video>./video/Pocket Reversi (Japan).mp4</video>
 		<marquee>./marquee/Pocket Reversi (Japan).png</marquee>
 		<developer>석세스</developer>
 		<publisher>SNK</publisher>
@@ -1019,7 +995,7 @@
 	</game>
 	<game>
 		<path>./Pocket Tennis Color - Pocket Sports Series (World) (En,Ja).zip</path>
-		<name>포켓 테니스 컬러 - 포켓 스포츠 시리즈 (세계판)(영어,일본어)</name>
+		<name>포켓 테니스 컬러 - 포켓 스포츠 시리즈 (세계판)(영어)</name>
 		<image>./snap/Pocket Tennis Color - Pocket Sports Series (World) (En,Ja).png</image>
 		<video>./video/Pocket Tennis Color - Pocket Sports Series (World) (En,Ja).mp4</video>
 		<marquee>./marquee/Pocket Tennis Color - Pocket Sports Series (World) (En,Ja).png</marquee>
@@ -1043,9 +1019,9 @@
 	</game>
 	<game>
 		<path>./Puyo Pop (World) (En,Ja) (Beta).zip</path>
-		<name>뿌요 팝 (세계판)(영어,일본어)(베타)</name>
+		<name>뿌요 팝 (세계판)(영어)(베타)</name>
 		<image>./snap/Puyo Pop (World) (En,Ja) (Beta).png</image>
-		<video>./video/Puyo Pop (World) (En,Ja).mp4</video>
+		<video>./video/Puyo Pop (World) (En,Ja) (Beta).mp4</video>
 		<marquee>./marquee/Puyo Pop (World) (En,Ja) (Beta).png</marquee>
 		<developer>컴파일</developer>
 		<publisher>SNK</publisher>
@@ -1055,7 +1031,7 @@
 	</game>
 	<game>
 		<path>./Puyo Pop (World) (En,Ja).zip</path>
-		<name>뿌요 팝 (세계판)(영어,일본어)</name>
+		<name>뿌요 팝 (세계판)(영어)</name>
 		<image>./snap/Puyo Pop (World) (En,Ja).png</image>
 		<video>./video/Puyo Pop (World) (En,Ja).mp4</video>
 		<marquee>./marquee/Puyo Pop (World) (En,Ja).png</marquee>
@@ -1066,39 +1042,27 @@
 		<releasedate>19990101T000000</releasedate>
 	</game>
 	<game>
-		<path>./Puzzle Bobble Mini (Japan, Europe) (Beta) (Alt 1).zip</path>
-		<name>퍼즐 보블 미니 (일본,유럽판)(베타)(대체 1)</name>
-		<image>./snap/Puzzle Bobble Mini (Japan, Europe) (Beta) (Alt 1).png</image>
-		<video>./video/Bust-A-Move Pocket (USA).mp4</video>
-		<marquee>./marquee/Puzzle Bobble Mini (Japan, Europe) (Beta) (Alt 1).png</marquee>
-		<developer>타이토</developer>
-		<publisher>SNK/타이토</publisher>
-		<genre/>
-		<players>1-2</players>
-		<releasedate>19990101T000000</releasedate>
-	</game>
-	<game>
 		<path>./Puzzle Bobble Mini (Japan, Europe) (En,Ja) (Beta).zip</path>
-		<name>퍼즐 보블 미니 (일본,유럽판)(영어,일본어)(베타)</name>
+		<name>퍼즐 보블 미니 (일본,유럽판)(영어)(베타)</name>
 		<image>./snap/Puzzle Bobble Mini (Japan, Europe) (En,Ja) (Beta).png</image>
-		<video>./video/Bust-A-Move Pocket (USA).mp4</video>
+		<video>./video/Puzzle Bobble Mini (Japan, Europe) (En,Ja) (Beta).mp4</video>
 		<marquee>./marquee/Puzzle Bobble Mini (Japan, Europe) (En,Ja) (Beta).png</marquee>
 		<developer>타이토</developer>
 		<publisher>SNK/타이토</publisher>
 		<genre/>
-		<players>1-2</players>
+		<players>2</players>
 		<releasedate>19990101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Puzzle Bobble Mini (Japan, Europe).zip</path>
 		<name>퍼즐 보블 미니 (일본,유럽판)</name>
 		<image>./snap/Puzzle Bobble Mini (Japan, Europe).png</image>
-		<video>./video/Bust-A-Move Pocket (USA).mp4</video>
+		<video>./video/Puzzle Bobble Mini (Japan, Europe).mp4</video>
 		<marquee>./marquee/Puzzle Bobble Mini (Japan, Europe).png</marquee>
 		<developer>타이토</developer>
 		<publisher>SNK/타이토</publisher>
 		<genre/>
-		<players>1-2</players>
+		<players>2</players>
 		<releasedate>19990101T000000</releasedate>
 	</game>
 	<game>
@@ -1129,7 +1093,7 @@
 		<path>./Renketsu Puzzle Tsunagete Pon! Color (Japan).zip</path>
 		<name>연결 퍼즐 연결해서 퐁! 컬러 (일본판)</name>
 		<image>./snap/Renketsu Puzzle Tsunagete Pon! Color (Japan).png</image>
-		<video>./video/Puzzle Link (Europe).mp4</video>
+		<video>./video/Renketsu Puzzle Tsunagete Pon! Color (Japan).mp4</video>
 		<marquee>./marquee/Renketsu Puzzle Tsunagete Pon! Color (Japan).png</marquee>
 		<developer/>
 		<publisher/>
@@ -1141,7 +1105,7 @@
 		<path>./Rockman - Battle &amp; Fighters (Japan) (Beta).zip</path>
 		<name>록맨 - 배틀 엔 파이터즈 (일본판)(베타)</name>
 		<image>./snap/Rockman - Battle &amp; Fighters (Japan) (Beta).png</image>
-		<video>./video/Rockman - Battle &amp; Fighters (Japan).mp4</video>
+		<video>./video/Rockman - Battle &amp; Fighters (Japan) (Beta).mp4</video>
 		<marquee>./marquee/Rockman - Battle &amp; Fighters (Japan) (Beta).png</marquee>
 		<developer>캡콤</developer>
 		<publisher>캡콤</publisher>
@@ -1163,62 +1127,62 @@
 	</game>
 	<game>
 		<path>./Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja).zip</path>
-		<name>사무라이 쇼다운! 2 - 포켓 파이팅 시리즈 (세계판)(영어,일본어)</name>
+		<name>사무라이 쇼다운! 2 - 포켓 파이팅 시리즈 (세계판)(영어)</name>
 		<image>./snap/Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja).png</image>
 		<video>./video/Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja).mp4</video>
 		<marquee>./marquee/Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja).png</marquee>
 		<developer>SNK</developer>
 		<publisher>SNK</publisher>
 		<genre/>
-		<players>1-2</players>
+		<players>2</players>
 		<releasedate>19990101T000000</releasedate>
 	</game>
 	<game>
-		<path>./Shanghai Mini (World) (En,Ja) (Beta 1).zip</path>
-		<name>상하이 미니 (세계판)(영어,일본어)(배타 1)</name>
-		<image>./snap/Shanghai Mini (World) (En,Ja) (Beta 1).png</image>
-		<video>./video/Shanghai Mini (World) (En,Ja).mp4</video>
-		<marquee>./marquee/Shanghai Mini (World) (En,Ja) (Beta 1).png</marquee>
+		<path>./Shanghai Mini (Japan) (En,Ja) (Beta).zip</path>
+		<name>상하이 미니 (일본판)(영어)(베타)</name>
+		<image>./snap/Shanghai Mini (Japan) (En,Ja) (Beta).png</image>
+		<video>./video/Shanghai Mini (Japan) (En,Ja) (Beta).mp4</video>
+		<marquee>./marquee/Shanghai Mini (Japan) (En,Ja) (Beta).png</marquee>
 		<developer>SNK</developer>
 		<publisher>SNK</publisher>
 		<genre/>
-		<players>1-2</players>
+		<players>2</players>
 		<releasedate>19990101T000000</releasedate>
 	</game>
 	<game>
-		<path>./Shanghai Mini (World) (En,Ja) (Beta 2).zip</path>
-		<name>상하이 미니 (세계판)(영어,일본어)(베타 2)</name>
-		<image>./snap/Shanghai Mini (World) (En,Ja) (Beta 2).png</image>
-		<video>./video/Shanghai Mini (World) (En,Ja).mp4</video>
-		<marquee>./marquee/Shanghai Mini (World) (En,Ja) (Beta 2).png</marquee>
+		<path>./Shanghai Mini (USA) (En,Ja) (Beta).zip</path>
+		<name>상하이 미니 (영어)(베타)</name>
+		<image>./snap/Shanghai Mini (USA) (En,Ja) (Beta).png</image>
+		<video>./video/Shanghai Mini (USA) (En,Ja) (Beta).mp4</video>
+		<marquee>./marquee/Shanghai Mini (USA) (En,Ja) (Beta).png</marquee>
 		<developer>SNK</developer>
 		<publisher>SNK</publisher>
 		<genre/>
-		<players>1-2</players>
+		<players>2</players>
 		<releasedate>19990101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Shanghai Mini (World) (En,Ja).zip</path>
-		<name>상하이 미니 (세계판)(영어,일본어)</name>
+		<name>상하이 미니 (세계판)(영어)</name>
 		<image>./snap/Shanghai Mini (World) (En,Ja).png</image>
 		<video>./video/Shanghai Mini (World) (En,Ja).mp4</video>
 		<marquee>./marquee/Shanghai Mini (World) (En,Ja).png</marquee>
 		<developer>SNK</developer>
 		<publisher>SNK</publisher>
 		<genre/>
-		<players>1-2</players>
+		<players>2</players>
 		<releasedate>19990101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Shinki Sekai Evolution - Hateshinai Dungeon (Japan).zip</path>
 		<name>신기세기 에볼루션 - 끝이 없는 던전 (일본판)</name>
 		<image>./snap/Shinki Sekai Evolution - Hateshinai Dungeon (Japan).png</image>
-		<video>./video/Evolution - Eternal Dungeons (Europe).mp4</video>
+		<video>./video/Shinki Sekai Evolution - Hateshinai Dungeon (Japan).mp4</video>
 		<marquee>./marquee/Shinki Sekai Evolution - Hateshinai Dungeon (Japan).png</marquee>
 		<developer>ESP</developer>
 		<publisher>ESP/세가</publisher>
 		<genre/>
-		<players>1-2</players>
+		<players>2</players>
 		<releasedate>20000101T000000</releasedate>
 	</game>
 	<game>
@@ -1237,12 +1201,12 @@
 		<path>./SNK Gals' Fighters (Japan).zip</path>
 		<name>SNK 걸즈 파이터 (일본판)</name>
 		<image>./snap/SNK Gals' Fighters (Japan).png</image>
-		<video>./video/SNK Gals' Fighters (USA, Europe).mp4</video>
+		<video>./video/SNK Gals' Fighters (Japan).mp4</video>
 		<marquee>./marquee/SNK Gals' Fighters (Japan).png</marquee>
 		<developer>유메코보</developer>
 		<publisher>SNK</publisher>
 		<genre/>
-		<players>1-2</players>
+		<players>2</players>
 		<releasedate>20000101T000000</releasedate>
 	</game>
 	<game>
@@ -1254,7 +1218,7 @@
 		<developer>유메코보</developer>
 		<publisher>SNK</publisher>
 		<genre/>
-		<players>1-2</players>
+		<players>2</players>
 		<releasedate>20000101T000000</releasedate>
 	</game>
 	<game>
@@ -1278,7 +1242,7 @@
 		<developer>SNK</developer>
 		<publisher>캡콤/모토기획/SNK</publisher>
 		<genre/>
-		<players>1-2</players>
+		<players>2</players>
 		<releasedate>19990101T000000</releasedate>
 	</game>
 	<game>
@@ -1290,7 +1254,7 @@
 		<developer>SNK</developer>
 		<publisher>캡콤/모토기획/SNK</publisher>
 		<genre/>
-		<players>1-2</players>
+		<players>2</players>
 		<releasedate>19990101T000000</releasedate>
 	</game>
 	<game>
@@ -1309,7 +1273,7 @@
 		<path>./SNK vs. Capcom - Gekitotsu Card Fighters - Capcom Supporter Version (Japan).zip</path>
 		<name>SNK vs 캡콤 - 격돌 카드 파이터 - 캡콤 서포터 버전 (일본판)</name>
 		<image>./snap/SNK vs. Capcom - Gekitotsu Card Fighters - Capcom Supporter Version (Japan).png</image>
-		<video>./video/SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe).mp4</video>
+		<video>./video/SNK vs. Capcom - Gekitotsu Card Fighters - Capcom Supporter Version (Japan).mp4</video>
 		<marquee>./marquee/SNK vs. Capcom - Gekitotsu Card Fighters - Capcom Supporter Version (Japan).png</marquee>
 		<developer/>
 		<publisher>캡콤/모토기획/SNK</publisher>
@@ -1321,7 +1285,7 @@
 		<path>./SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan) (Beta).zip</path>
 		<name>SNK vs 캡콤 - 격돌 카드 파이터 - SNK 서포터 버전 (일본판)(베타)</name>
 		<image>./snap/SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan) (Beta).png</image>
-		<video>./video/SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe).mp4</video>
+		<video>./video/SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan) (Beta).mp4</video>
 		<marquee>./marquee/SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan) (Beta).png</marquee>
 		<developer/>
 		<publisher>캡콤/모토기획/SNK</publisher>
@@ -1333,7 +1297,7 @@
 		<path>./SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan).zip</path>
 		<name>SNK vs 캡콤 - 격돌 카드 파이터 - SNK 서포터 버전 (일본판)</name>
 		<image>./snap/SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan).png</image>
-		<video>./video/SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe).mp4</video>
+		<video>./video/SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan).mp4</video>
 		<marquee>./marquee/SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan).png</marquee>
 		<developer/>
 		<publisher>캡콤/모토기획/SNK</publisher>
@@ -1343,38 +1307,38 @@
 	</game>
 	<game>
 		<path>./SNK vs. Capcom - The Match of the Millennium (World) (En,Ja).zip</path>
-		<name>SNK vs 캡콤 - 밀레니엄 매치 (세계판)(영어,일본어)</name>
+		<name>SNK vs 캡콤 - 밀레니엄 매치 (세계판)(영어)</name>
 		<image>./snap/SNK vs. Capcom - The Match of the Millennium (World) (En,Ja).png</image>
 		<video>./video/SNK vs. Capcom - The Match of the Millennium (World) (En,Ja).mp4</video>
 		<marquee>./marquee/SNK vs. Capcom - The Match of the Millennium (World) (En,Ja).png</marquee>
 		<developer>캡콤</developer>
 		<publisher>캡콤/SNK</publisher>
 		<genre/>
-		<players>1-2</players>
+		<players>2</players>
 		<releasedate>19990101T000000</releasedate>
 	</game>
 	<game>
-		<path>./Sonic The Hedgehog - Pocket Adventure (World) (Beta 1).zip</path>
-		<name>소닉 더 헤지혹 - 포켓 어드벤처 (세계판)(배타 1)</name>
-		<image>./snap/Sonic The Hedgehog - Pocket Adventure (World) (Beta 1).png</image>
-		<video>./video/Sonic The Hedgehog - Pocket Adventure (World).mp4</video>
-		<marquee>./marquee/Sonic The Hedgehog - Pocket Adventure (World) (Beta 1).png</marquee>
+		<path>./Sonic The Hedgehog - Pocket Adventure (World) (Beta) (1999-10-22).zip</path>
+		<name>소닉 더 헤지혹 - 포켓 어드벤처 (세계판)(베타)</name>
+		<image>./snap/Sonic The Hedgehog - Pocket Adventure (World) (Beta) (1999-10-22).png</image>
+		<video>./video/Sonic The Hedgehog - Pocket Adventure (World) (Beta) (1999-10-22).mp4</video>
+		<marquee>./marquee/Sonic The Hedgehog - Pocket Adventure (World) (Beta) (1999-10-22).png</marquee>
 		<developer>SNK</developer>
 		<publisher>SNK</publisher>
 		<genre/>
-		<players>1-2</players>
+		<players>2</players>
 		<releasedate>19990101T000000</releasedate>
 	</game>
 	<game>
-		<path>./Sonic The Hedgehog - Pocket Adventure (World) (Beta 2).zip</path>
-		<name>소닉 더 헤지혹 - 포켓 어드벤처 (세계판)(베타 2)</name>
-		<image>./snap/Sonic The Hedgehog - Pocket Adventure (World) (Beta 2).png</image>
-		<video>./video/Sonic The Hedgehog - Pocket Adventure (World).mp4</video>
-		<marquee>./marquee/Sonic The Hedgehog - Pocket Adventure (World) (Beta 2).png</marquee>
+		<path>./Sonic The Hedgehog - Pocket Adventure (World) (Demo).zip</path>
+		<name>소닉 더 헤지혹 - 포켓 어드벤처 (세계판)(데모)</name>
+		<image>./snap/Sonic The Hedgehog - Pocket Adventure (World) (Demo).png</image>
+		<video>./video/Sonic The Hedgehog - Pocket Adventure (World) (Demo).mp4</video>
+		<marquee>./marquee/Sonic The Hedgehog - Pocket Adventure (World) (Demo).png</marquee>
 		<developer>SNK</developer>
 		<publisher>SNK</publisher>
 		<genre/>
-		<players>1-2</players>
+		<players>2</players>
 		<releasedate>19990101T000000</releasedate>
 	</game>
 	<game>
@@ -1386,7 +1350,7 @@
 		<developer>SNK</developer>
 		<publisher>SNK</publisher>
 		<genre/>
-		<players>1-2</players>
+		<players>2</players>
 		<releasedate>19990101T000000</releasedate>
 	</game>
 	<game>
@@ -1417,7 +1381,7 @@
 		<path>./Tsunagete Pon! 2 (Japan).zip</path>
 		<name>이어터져 퐁! 2 (일본판)</name>
 		<image>./snap/Tsunagete Pon! 2 (Japan).png</image>
-		<video>./video/Puzzle Link 2 (USA, Europe).mp4</video>
+		<video>./video/Tsunagete Pon! 2 (Japan).mp4</video>
 		<marquee>./marquee/Tsunagete Pon! 2 (Japan).png</marquee>
 		<developer/>
 		<publisher/>
@@ -1429,7 +1393,7 @@
 		<path>./Wrestling Madness (Japan) (En) (Beta).zip</path>
 		<name>레슬링 매드니스 (일본판)(영어)(베타)</name>
 		<image>./snap/Wrestling Madness (Japan) (En) (Beta).png</image>
-		<video>./video/Big Bang Pro Wrestling (Japan) (En,Ja).mp4</video>
+		<video>./video/Wrestling Madness (Japan) (En) (Beta).mp4</video>
 		<marquee>./marquee/Wrestling Madness (Japan) (En) (Beta).png</marquee>
 		<developer>S-네오</developer>
 		<publisher>SNK</publisher>
@@ -1439,7 +1403,7 @@
 	</game>
 	<game>
 		<path>./[BIOS] SNK Neo Geo Pocket Color (World) (En,Ja).zip</path>
-		<name>[바이오스] SNK 네오지오 포켓 컬러 (세계판)(영어,일본어)</name>
+		<name>[바이오스] SNK 네오지오 포켓 컬러 (세계판)(영어)</name>
 		<image>./snap/[BIOS] SNK Neo Geo Pocket Color (World) (En,Ja).png</image>
 		<video>./video/[BIOS] SNK Neo Geo Pocket Color (World) (En,Ja).mp4</video>
 		<marquee>./marquee/[BIOS] SNK Neo Geo Pocket Color (World) (En,Ja).png</marquee>

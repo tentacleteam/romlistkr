@@ -5,25 +5,25 @@
 * 지원프론트엔드 : RetroPie, Recalbox, Attract-Mode
 * 지원에뮬 : Arcade(MAME, AdvMAME, FBNeo), NES, SNES, MD, GB, GBC, GBA, PCE, SMS, Sega 32X, NGP, NGPC, WS, WSC
 * 제작자 : 텐타클 팀
-* 최종수정 : Fab 07, 2020
+* 최종수정 : August 8, 2020
 * 카페 : http://cafe.naver.com/raspigamer
 * 레트로게임 롬 목록 한글화 자료는 오픈소스입니다. MIT 라이센스를 따르고 있으므로 라이센스와 출처(http://cafe.naver.com/raspigamer) 표시만 지켜주시면 자유롭게 사용하실 수 있습니다.
 -->
 	<game>
 		<path>./Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja).zip</path>
-		<name>베이스볼 스타즈 - 포켓 스포츠 시리즈 (일본,유럽판)(영어,일본어)</name>
+		<name>베이스볼 스타즈 - 포켓 스포츠 시리즈 (일본,유럽판)(영어)</name>
 		<image>./snap/Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja).png</image>
 		<video>./video/Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja).mp4</video>
 		<marquee>./marquee/Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja).png</marquee>
 		<developer>사우루스</developer>
 		<publisher>SNK</publisher>
 		<genre/>
-		<players>1-2</players>
+		<players>2</players>
 		<releasedate>19980128T000000</releasedate>
 	</game>
 	<game>
 		<path>./King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja).zip</path>
-		<name>킹 오브 파이터즈 R-1 - 포켓 파이팅 시리즈 (일본,유럽판)(영어,일본어)</name>
+		<name>킹 오브 파이터즈 R-1 - 포켓 파이팅 시리즈 (일본,유럽판)(영어)</name>
 		<image>./snap/King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja).png</image>
 		<video>./video/King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja).mp4</video>
 		<marquee>./marquee/King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja).png</marquee>
@@ -59,7 +59,7 @@
 	</game>
 	<game>
 		<path>./Neo Cherry Master - Real Casino Series (Japan) (En,Ja).zip</path>
-		<name>네오 체리 마스터 - 리얼 카지노 시리즈 (일본판)(영어,일본어)</name>
+		<name>네오 체리 마스터 - 리얼 카지노 시리즈 (일본판)(영어)</name>
 		<image>./snap/Neo Cherry Master - Real Casino Series (Japan) (En,Ja).png</image>
 		<video>./video/Neo Cherry Master - Real Casino Series (Japan) (En,Ja).mp4</video>
 		<marquee>./marquee/Neo Cherry Master - Real Casino Series (Japan) (En,Ja).png</marquee>
@@ -71,7 +71,7 @@
 	</game>
 	<game>
 		<path>./Neo Geo Cup '98 (Japan, Europe) (En,Ja).zip</path>
-		<name>네오지오 컵 98 (일본,유럽판)(영어,일본어)</name>
+		<name>네오지오 컵 98 (일본,유럽판)(영어)</name>
 		<image>./snap/Neo Geo Cup '98 (Japan, Europe) (En,Ja).png</image>
 		<video>./video/Neo Geo Cup '98 (Japan, Europe) (En,Ja).mp4</video>
 		<marquee>./marquee/Neo Geo Cup '98 (Japan, Europe) (En,Ja).png</marquee>
@@ -83,7 +83,7 @@
 	</game>
 	<game>
 		<path>./Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja).zip</path>
-		<name>포켓 테니스 - 포켓 스포츠 시리즈 (일본,유럽판)(영어,일본어)</name>
+		<name>포켓 테니스 - 포켓 스포츠 시리즈 (일본,유럽판)(영어)</name>
 		<image>./snap/Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja).png</image>
 		<video>./video/Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja).mp4</video>
 		<marquee>./marquee/Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja).png</marquee>
@@ -107,7 +107,7 @@
 	</game>
 	<game>
 		<path>./Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja).zip</path>
-		<name>사무라이 쇼다운! - 포켓 파이팅 시리즈 (일본,유럽판)(영어,일본어)</name>
+		<name>사무라이 쇼다운! - 포켓 파이팅 시리즈 (일본,유럽판)(영어)</name>
 		<image>./snap/Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja).png</image>
 		<video>./video/Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja).mp4</video>
 		<marquee>./marquee/Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja).png</marquee>

@@ -5,7 +5,7 @@
 * 지원프론트엔드 : RetroPie, Recalbox, Attract-Mode
 * 지원에뮬 : Arcade(MAME, AdvMAME, FBNeo), NES, SNES, MD, GB, GBC, GBA, PCE, SMS, Sega 32X, NGP, NGPC, WS, WSC
 * 제작자 : 텐타클 팀
-* 최종수정 : Fab 07, 2020
+* 최종수정 : August 8, 2020
 * 카페 : http://cafe.naver.com/raspigamer
 * 레트로게임 롬 목록 한글화 자료는 오픈소스입니다. MIT 라이센스를 따르고 있으므로 라이센스와 출처(http://cafe.naver.com/raspigamer) 표시만 지켜주시면 자유롭게 사용하실 수 있습니다.
 -->
@@ -18,7 +18,7 @@
 		<developer>거스트</developer>
 		<publisher>거스트</publisher>
 		<genre>롤플레잉</genre>
-		<players>1-2</players>
+		<players>43,832</players>
 		<releasedate>20011025T000000</releasedate>
 	</game>
 	<game>
@@ -54,7 +54,7 @@
 		<developer>딤프</developer>
 		<publisher>반다이</publisher>
 		<genre>액션</genre>
-		<players>1-2</players>
+		<players>43,832</players>
 		<releasedate>20021207T000000</releasedate>
 	</game>
 	<game>
@@ -94,16 +94,28 @@
 		<releasedate>20040531T000000</releasedate>
 	</game>
 	<game>
-		<path>./Digimon - Anode Tamer &amp; Cathode Tamer - Veedramon Version (Asia).zip</path>
-		<name>디지몬 - 양극 태머 &amp; 음극 태머 (아시아판)</name>
-		<image>./snap/Digimon - Anode Tamer &amp; Cathode Tamer - Veedramon Version (Asia).png</image>
-		<video>./video/Digimon - Anode Tamer &amp; Cathode Tamer - Veedramon Version (Asia).mp4</video>
-		<marquee>./marquee/Digimon - Anode Tamer &amp; Cathode Tamer - Veedramon Version (Asia).png</marquee>
+		<path>./Digimon - Anode Tamer &amp; Cathode Tamer - Veedramon Version (Hong Kong).zip</path>
+		<name>디지몬 - 양극 태머 &amp; 음극 태머 (홍콩판)</name>
+		<image>./snap/Digimon - Anode Tamer &amp; Cathode Tamer - Veedramon Version (Hong Kong).png</image>
+		<video>./video/Digimon - Anode Tamer &amp; Cathode Tamer - Veedramon Version (Hong Kong).mp4</video>
+		<marquee>./marquee/Digimon - Anode Tamer &amp; Cathode Tamer - Veedramon Version (Hong Kong).png</marquee>
 		<developer>반다이</developer>
 		<publisher>반다이</publisher>
 		<genre>롤플레잉</genre>
-		<players>1-2</players>
+		<players>43,832</players>
 		<releasedate>01010101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Digimon Adventure 02 - D1 Tamers (Japan) (Rev 1).zip</path>
+		<name>디지몬 어드벤쳐 2 - D1 태머 (일본판)(개정판 1)</name>
+		<image>./snap/Digimon Adventure 02 - D1 Tamers (Japan) (Rev 1).png</image>
+		<video>./video/Digimon Adventure 02 - D1 Tamers (Japan) (Rev 1).mp4</video>
+		<marquee>./marquee/Digimon Adventure 02 - D1 Tamers (Japan) (Rev 1).png</marquee>
+		<developer>심즈</developer>
+		<publisher>반다이</publisher>
+		<genre>롤플레잉</genre>
+		<players>43,832</players>
+		<releasedate>20001209T000000</releasedate>
 	</game>
 	<game>
 		<path>./Digimon Adventure 02 - D1 Tamers (Japan).zip</path>
@@ -114,19 +126,19 @@
 		<developer>심즈</developer>
 		<publisher>반다이</publisher>
 		<genre>롤플레잉</genre>
-		<players>1-2</players>
+		<players>43,832</players>
 		<releasedate>20001209T000000</releasedate>
 	</game>
 	<game>
 		<path>./Digimon Tamers - Battle Spirit (Japan) (En,Ja).zip</path>
-		<name>디지몬 태머즈 - 배틀 스피릿 (일본판)(영어,일본어)</name>
+		<name>디지몬 태머즈 - 배틀 스피릿 (일본판)(영어)</name>
 		<image>./snap/Digimon Tamers - Battle Spirit (Japan) (En,Ja).png</image>
 		<video>./video/Digimon Tamers - Battle Spirit (Japan) (En,Ja).mp4</video>
 		<marquee>./marquee/Digimon Tamers - Battle Spirit (Japan) (En,Ja).png</marquee>
 		<developer>딤프</developer>
 		<publisher>반다이</publisher>
 		<genre>액션</genre>
-		<players>1-2</players>
+		<players>43,832</players>
 		<releasedate>20021207T000000</releasedate>
 	</game>
 	<game>
@@ -138,7 +150,7 @@
 		<developer>딤프</developer>
 		<publisher>반다이</publisher>
 		<genre>액션</genre>
-		<players>1-2</players>
+		<players>43,832</players>
 		<releasedate>20021207T000000</releasedate>
 	</game>
 	<game>
@@ -150,8 +162,20 @@
 		<developer>심즈</developer>
 		<publisher>반다이</publisher>
 		<genre>롤플레잉</genre>
-		<players>1-2</players>
+		<players>43,832</players>
 		<releasedate>20011229T000000</releasedate>
+	</game>
+	<game>
+		<path>./Digimon Tamers - Digimon Medley (Japan) (Rev 1).zip</path>
+		<name>디지몬 태머즈 - 디지몬 메들리 (일본판)(개정판 1)</name>
+		<image>./snap/Digimon Tamers - Digimon Medley (Japan) (Rev 1).png</image>
+		<video>./video/Digimon Tamers - Digimon Medley (Japan) (Rev 1).mp4</video>
+		<marquee>./marquee/Digimon Tamers - Digimon Medley (Japan) (Rev 1).png</marquee>
+		<developer>쉐이드</developer>
+		<publisher>반다이</publisher>
+		<genre>롤플레잉</genre>
+		<players>43,832</players>
+		<releasedate>20010712T000000</releasedate>
 	</game>
 	<game>
 		<path>./Digimon Tamers - Digimon Medley (Japan).zip</path>
@@ -162,12 +186,24 @@
 		<developer>쉐이드</developer>
 		<publisher>반다이</publisher>
 		<genre>롤플레잉</genre>
-		<players>1-2</players>
+		<players>43,832</players>
 		<releasedate>20010712T000000</releasedate>
 	</game>
 	<game>
+		<path>./Digital Monster - D-Project (Japan) (Rev 1).zip</path>
+		<name>디지털 몬스터 - D프로젝트 (일본판)(개정판 1)</name>
+		<image>./snap/Digital Monster - D-Project (Japan) (Rev 1).png</image>
+		<video>./video/Digital Monster - D-Project (Japan) (Rev 1).mp4</video>
+		<marquee>./marquee/Digital Monster - D-Project (Japan) (Rev 1).png</marquee>
+		<developer>스팅</developer>
+		<publisher>반다이</publisher>
+		<genre>롤플레잉</genre>
+		<players>1</players>
+		<releasedate>20020803T000000</releasedate>
+	</game>
+	<game>
 		<path>./Digital Monster - D-Project (Japan).zip</path>
-		<name>디지털 몬스터 - D프로젝트</name>
+		<name>디지털 몬스터 - D프로젝트 (일본판)</name>
 		<image>./snap/Digital Monster - D-Project (Japan).png</image>
 		<video>./video/Digital Monster - D-Project (Japan).mp4</video>
 		<marquee>./marquee/Digital Monster - D-Project (Japan).png</marquee>
@@ -178,6 +214,18 @@
 		<releasedate>20020803T000000</releasedate>
 	</game>
 	<game>
+		<path>./Digital Monster Card Game - Ver. WonderSwan Color (Japan) (Rev 2).zip</path>
+		<name>디지털 몬스터 카드 게임 원더스완 컬러 (일본판)(개정판 2)</name>
+		<image>./snap/Digital Monster Card Game - Ver. WonderSwan Color (Japan) (Rev 2).png</image>
+		<video>./video/Digital Monster Card Game - Ver. WonderSwan Color (Japan) (Rev 2).mp4</video>
+		<marquee>./marquee/Digital Monster Card Game - Ver. WonderSwan Color (Japan) (Rev 2).png</marquee>
+		<developer>톰 크리에이트</developer>
+		<publisher>반다이</publisher>
+		<genre>전략</genre>
+		<players>43,832</players>
+		<releasedate>20020316T000000</releasedate>
+	</game>
+	<game>
 		<path>./Digital Monster Card Game - Ver. WonderSwan Color (Japan).zip</path>
 		<name>디지털 몬스터 카드 게임 원더스완 컬러 (일본판)</name>
 		<image>./snap/Digital Monster Card Game - Ver. WonderSwan Color (Japan).png</image>
@@ -186,7 +234,7 @@
 		<developer>톰 크리에이트</developer>
 		<publisher>반다이</publisher>
 		<genre>전략</genre>
-		<players>1-2</players>
+		<players>43,832</players>
 		<releasedate>20020316T000000</releasedate>
 	</game>
 	<game>
@@ -258,7 +306,7 @@
 		<developer>반다이</developer>
 		<publisher>반다이</publisher>
 		<genre>운전</genre>
-		<players>1-2</players>
+		<players>43,832</players>
 		<releasedate>20011115T000000</releasedate>
 	</game>
 	<game>
@@ -282,7 +330,7 @@
 		<developer>반다이</developer>
 		<publisher>반다이</publisher>
 		<genre>격투</genre>
-		<players>1-2</players>
+		<players>43,832</players>
 		<releasedate>20031016T000000</releasedate>
 	</game>
 	<game>
@@ -294,7 +342,7 @@
 		<developer>반다이</developer>
 		<publisher>반다이</publisher>
 		<genre>격투</genre>
-		<players>1-2</players>
+		<players>43,832</players>
 		<releasedate>20020712T000000</releasedate>
 	</game>
 	<game>
@@ -310,6 +358,18 @@
 		<releasedate>20010913T000000</releasedate>
 	</game>
 	<game>
+		<path>./From TV Animation One Piece - Treasure Wars (Japan) (Rev 1).zip</path>
+		<name>TV 애니메이션 원피스 - 트레져 워즈 (일본판)(개정판 1)</name>
+		<image>./snap/From TV Animation One Piece - Treasure Wars (Japan) (Rev 1).png</image>
+		<video>./video/From TV Animation One Piece - Treasure Wars (Japan) (Rev 1).mp4</video>
+		<marquee>./marquee/From TV Animation One Piece - Treasure Wars (Japan) (Rev 1).png</marquee>
+		<developer>반다이</developer>
+		<publisher>반다이</publisher>
+		<genre/>
+		<players>43,832</players>
+		<releasedate>20020103T000000</releasedate>
+	</game>
+	<game>
 		<path>./From TV Animation One Piece - Treasure Wars (Japan).zip</path>
 		<name>TV 애니메이션 원피스 - 트레져 워즈 (일본판)</name>
 		<image>./snap/From TV Animation One Piece - Treasure Wars (Japan).png</image>
@@ -318,7 +378,7 @@
 		<developer>반다이</developer>
 		<publisher>반다이</publisher>
 		<genre/>
-		<players>1-2</players>
+		<players>43,832</players>
 		<releasedate>20020103T000000</releasedate>
 	</game>
 	<game>
@@ -330,7 +390,7 @@
 		<developer>반다이</developer>
 		<publisher>반다이</publisher>
 		<genre/>
-		<players>1-2</players>
+		<players>43,832</players>
 		<releasedate>20021220T000000</releasedate>
 	</game>
 	<game>
@@ -342,7 +402,7 @@
 		<developer>G-크래프트</developer>
 		<publisher>스퀘어 에닉스</publisher>
 		<genre>액션</genre>
-		<players>1-2</players>
+		<players>43,832</players>
 		<releasedate>20020712T000000</releasedate>
 	</game>
 	<game>
@@ -354,7 +414,7 @@
 		<developer>반다이</developer>
 		<publisher>반다이</publisher>
 		<genre/>
-		<players>1-2</players>
+		<players>43,832</players>
 		<releasedate>20020810T000000</releasedate>
 	</game>
 	<game>
@@ -366,7 +426,7 @@
 		<developer>픽팍-에어리얼</developer>
 		<publisher>무빅</publisher>
 		<genre/>
-		<players>1-2</players>
+		<players>43,832</players>
 		<releasedate>20010607T000000</releasedate>
 	</game>
 	<game>
@@ -378,7 +438,7 @@
 		<developer>세가</developer>
 		<publisher>반다이</publisher>
 		<genre>롤플레잉</genre>
-		<players>1-2</players>
+		<players>43,832</players>
 		<releasedate>20020228T000000</releasedate>
 	</game>
 	<game>
@@ -390,7 +450,7 @@
 		<developer>톰 크리에이트</developer>
 		<publisher>오메가 미코트</publisher>
 		<genre>롤플레잉</genre>
-		<players>1-2</players>
+		<players>43,832</players>
 		<releasedate>20020613T000000</releasedate>
 	</game>
 	<game>
@@ -402,7 +462,7 @@
 		<developer>아크 시스템 웍스</developer>
 		<publisher>새미</publisher>
 		<genre>격투</genre>
-		<players>1-2</players>
+		<players>43,832</players>
 		<releasedate>20010125T000000</releasedate>
 	</game>
 	<game>
@@ -414,7 +474,7 @@
 		<developer>아크 시스템 웍스</developer>
 		<publisher>새미</publisher>
 		<genre>격투</genre>
-		<players>1-2</players>
+		<players>43,832</players>
 		<releasedate>20010927T000000</releasedate>
 	</game>
 	<game>
@@ -426,7 +486,7 @@
 		<developer>코토 랩</developer>
 		<publisher>반다이</publisher>
 		<genre>시뮬레이션</genre>
-		<players>1-2</players>
+		<players>43,832</players>
 		<releasedate>20001209T000000</releasedate>
 	</game>
 	<game>
@@ -438,7 +498,7 @@
 		<developer>스퀘어 에닉스</developer>
 		<publisher>스퀘어 에닉스</publisher>
 		<genre>전략</genre>
-		<players>1-2</players>
+		<players>43,832</players>
 		<releasedate>20020214T000000</releasedate>
 	</game>
 	<game>
@@ -452,6 +512,18 @@
 		<genre>시뮬레이션</genre>
 		<players>1</players>
 		<releasedate>20000921T000000</releasedate>
+	</game>
+	<game>
+		<path>./Hunter X Hunter - Greed Island (Japan) (Rev 1).zip</path>
+		<name>헌터 X 헌터 - 그리드 아일랜드 (일본판)(개정판 1)</name>
+		<image>./snap/Hunter X Hunter - Greed Island (Japan) (Rev 1).png</image>
+		<video>./video/Hunter X Hunter - Greed Island (Japan) (Rev 1).mp4</video>
+		<marquee>./marquee/Hunter X Hunter - Greed Island (Japan) (Rev 1).png</marquee>
+		<developer>반다이</developer>
+		<publisher>반다이</publisher>
+		<genre>롤플레잉</genre>
+		<players>1</players>
+		<releasedate>20030424T000000</releasedate>
 	</game>
 	<game>
 		<path>./Hunter X Hunter - Greed Island (Japan).zip</path>
@@ -563,7 +635,7 @@
 	</game>
 	<game>
 		<path>./Kidou Senshi Gundam Seed (Japan).zip</path>
-		<name>기동전사 건단 SEED (일본판)</name>
+		<name>기동전사 건담 SEED (일본판)</name>
 		<image>./snap/Kidou Senshi Gundam Seed (Japan).png</image>
 		<video>./video/Kidou Senshi Gundam Seed (Japan).mp4</video>
 		<marquee>./marquee/Kidou Senshi Gundam Seed (Japan).png</marquee>
@@ -670,6 +742,18 @@
 		<releasedate>20020320T000000</releasedate>
 	</game>
 	<game>
+		<path>./mama Mitte (Japan) (Program).zip</path>
+		<name>맘마 미테 (일본판)(프로그램)</name>
+		<image>./snap/mama Mitte (Japan) (Program).png</image>
+		<video>./video/mama Mitte (Japan) (Program).mp4</video>
+		<marquee>./marquee/mama Mitte (Japan) (Program).png</marquee>
+		<developer/>
+		<publisher/>
+		<genre/>
+		<players/>
+		<releasedate/>
+	</game>
+	<game>
 		<path>./Meitantei Conan - Yuugure no Oujo (Japan).zip</path>
 		<name>명탐정 코난 - 황혼의 황녀 (일본판)</name>
 		<image>./snap/Meitantei Conan - Yuugure no Oujo (Japan).png</image>
@@ -762,7 +846,7 @@
 		<developer>엔터브레인</developer>
 		<publisher>반다이</publisher>
 		<genre/>
-		<players>1-2</players>
+		<players>43,832</players>
 		<releasedate>20010531T000000</releasedate>
 	</game>
 	<game>
@@ -858,7 +942,7 @@
 		<developer>반다이</developer>
 		<publisher>반다이</publisher>
 		<genre/>
-		<players>1-2</players>
+		<players>43,832</players>
 		<releasedate>20020216T000000</releasedate>
 	</game>
 	<game>
@@ -982,11 +1066,11 @@
 		<releasedate>20010101T000000</releasedate>
 	</game>
 	<game>
-		<path>./Super Robot Taisen Compact 3 (Japan) (v1.5).zip</path>
-		<name>슈퍼 로봇 대전 콤팩트 3 (일본판)(v1.5)</name>
-		<image>./snap/Super Robot Taisen Compact 3 (Japan) (v1.5).png</image>
-		<video>./video/Super Robot Taisen Compact 3 (Japan) (v1.5).mp4</video>
-		<marquee>./marquee/Super Robot Taisen Compact 3 (Japan) (v1.5).png</marquee>
+		<path>./Super Robot Taisen Compact 3 (Japan) (Rev 5).zip</path>
+		<name>슈퍼 로봇 대전 콤팩트 3 (일본판)(개정판 5)</name>
+		<image>./snap/Super Robot Taisen Compact 3 (Japan) (Rev 5).png</image>
+		<video>./video/Super Robot Taisen Compact 3 (Japan) (Rev 5).mp4</video>
+		<marquee>./marquee/Super Robot Taisen Compact 3 (Japan) (Rev 5).png</marquee>
 		<developer>반프레스토</developer>
 		<publisher>반프레스토</publisher>
 		<genre>전략</genre>
@@ -994,11 +1078,11 @@
 		<releasedate>20030717T000000</releasedate>
 	</game>
 	<game>
-		<path>./Super Robot Taisen Compact 3 (Japan) (v1.6).zip</path>
-		<name>슈퍼 로봇 대전 콤팩트 3 (일본판)(v1.6)</name>
-		<image>./snap/Super Robot Taisen Compact 3 (Japan) (v1.6).png</image>
-		<video>./video/Super Robot Taisen Compact 3 (Japan) (v1.6).mp4</video>
-		<marquee>./marquee/Super Robot Taisen Compact 3 (Japan) (v1.6).png</marquee>
+		<path>./Super Robot Taisen Compact 3 (Japan) (Rev 6).zip</path>
+		<name>슈퍼 로봇 대전 콤팩트 3 (일본판)(개정판 6)</name>
+		<image>./snap/Super Robot Taisen Compact 3 (Japan) (Rev 6).png</image>
+		<video>./video/Super Robot Taisen Compact 3 (Japan) (Rev 6).mp4</video>
+		<marquee>./marquee/Super Robot Taisen Compact 3 (Japan) (Rev 6).png</marquee>
 		<developer>반프레스토</developer>
 		<publisher>반프레스토</publisher>
 		<genre>전략</genre>
@@ -1038,7 +1122,7 @@
 		<developer>엘로그</developer>
 		<publisher>뱅가드 웍스</publisher>
 		<genre>퍼즐게임</genre>
-		<players>1-2</players>
+		<players>43,832</players>
 		<releasedate>20020418T000000</releasedate>
 	</game>
 	<game>
@@ -1050,7 +1134,7 @@
 		<developer>반다이</developer>
 		<publisher>반다이</publisher>
 		<genre/>
-		<players>1-2</players>
+		<players>43,832</players>
 		<releasedate>20010628T000000</releasedate>
 	</game>
 	<game>
@@ -1146,7 +1230,19 @@
 		<developer>MBI</developer>
 		<publisher>남코</publisher>
 		<genre>퍼즐게임</genre>
-		<players>1-2</players>
+		<players>43,832</players>
 		<releasedate>20011220T000000</releasedate>
+	</game>
+	<game>
+		<path>./[BIOS] WonderSwan Color Boot ROM (Japan) (En).zip</path>
+		<name>[바이오스] 원더스완 컬러 부트 롬 (일본판)(영어)</name>
+		<image>./snap/[BIOS] WonderSwan Color Boot ROM (Japan) (En).png</image>
+		<video>./video/[BIOS] WonderSwan Color Boot ROM (Japan) (En).mp4</video>
+		<marquee>./marquee/[BIOS] WonderSwan Color Boot ROM (Japan) (En).png</marquee>
+		<developer/>
+		<publisher/>
+		<genre/>
+		<players/>
+		<releasedate/>
 	</game>
 </gameList>
