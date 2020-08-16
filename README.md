@@ -24,16 +24,19 @@ sudo ./install.sh</code></pre>
 
 
 ### Romset Reference
-* Arcade : mame2000, mame2003, mame2010, FBneo 0.2.97.44 wip
 * Microsoft - MSX (20190115-064810)
 * Microsoft - MSX2 (20190115-063003)
 * Sega - Master System - Mark III (20200429-062328)
 * Sega - Mega Drive - Genesis (20200720-221421)
 * Sega - 32X (20191204-183941)
-* Nintendo - Super Nintendo Entertainment System (Combined) (20200802-011312)
+* Nintendo - Super Nintendo Entertainment System (20200802-011312)
 * Nintendo - Nintendo Entertainment System (20200727-154945)
 * Nintendo - Game Boy Advance (20200715-093546)
 * Nintendo - Game Boy Color (20200626-155317)
 * Nintendo - Game Boy (20200715-095243)
 * NEC - PC Engine - TurboGrafx 16 (20200628-105302)
 * NEC - PC Engine SuperGrafx (20191209-202241)
+* Bandai - WonderSwan (20200427-065439)
+* Bandai - WonderSwan Color (20200324-193106)
+* SNK - Neo Geo Pocket (20190930-190238)
+* SNK - Neo Geo Pocket Color (20200730-010130)
