@@ -1,4 +1,4 @@
-﻿<?xml version="1.0"?>
+<?xml version="1.0"?>
 <gameList>
 	<game>
 		<path>./esthemes.rp</path>
@@ -32,7 +32,7 @@
 	</game>
 	<game>
 		<path>./runcommand.rp</path>
-		<name>실행 명령 구성</name>
+		<name>런커멘드 구성</name>
 		<desc>runcommand 화면에 나오는 내용을 변경합니다. 메뉴를 활성 또는 비활성하거나 박스아트의 표시, CPU 설정 등을 변경할 수 있습니다.</desc>
 		<image>/home/pi/RetroPie/retropiemenu/icons/runcommand.png</image>
 	</game>
@@ -59,12 +59,6 @@
 		<name>[AUDIO] HDMI audio 활성화</name>
 		<desc>HDMI audio를 활성화 합니다. 재부팅 후 적용됩니다.</desc>
 		<image>./icons/hdmiOn.png</image>
-	</game>
-	<game>
-		<path>./audiosettings.rp</path>
-		<name>오디오</name>
-		<desc>오디오 설정을 변경합니다. 자동, 이어폰잭, HDMI 출력중 선택하세요. 믹서 컨트롤을 변경하고 기본 설정을 적용하세요.</desc>
-		<image>./icons/audiosettings.png</image>
 	</game>
 	<game>
 		<path>./# 라즈미니파이 설정/gpio2p.sh</path>
@@ -115,9 +109,20 @@
 		<image>./icons/bluetooth.png</image>
 	</game>
 	<game>
+		<path>./audiosettings.rp</path>
+		<name>오디오</name>
+		<desc>오디오 설정을 변경합니다. 자동, 이어폰잭, HDMI 출력중 선택하세요. 믹서 컨트롤을 변경하고 기본 설정을 적용하세요.</desc>
+		<image>./icons/audiosettings.png</image>
+	</game>
+	<game>
 		<path>./rpsetup.rp</path>
 		<name>레트로파이 설정</name>
 		<desc>바이너리 또는 소스를 통해 레트로파이를 설치하거나, 실험적인 패키지 설치, 드라이버 추가, 삼바공유 수정등 레트로파이 관련 설정을 할 수 있습니다.</desc>
 		<image>./icons/rpsetup.png</image>
+	</game>
+	<game>
+		<path>./bezelproject.sh</path>
+		<name>베젤 프로젝트</name>
+		<desc>레트로아크 시스템용 베젤팩을 다운로드 설치합니다.</desc>
 	</game>
 </gameList>
