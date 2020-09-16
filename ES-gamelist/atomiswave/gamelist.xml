@@ -1,11 +1,11 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <!--
 * 제목 : 레트로게임 롬 목록 한글화 프로젝트
 * 지원프론트엔드 : RetroPie, Recalbox, Attract-Mode
 * 지원에뮬 : Arcade(MAME, AdvMAME, FBNeo), NES, SNES, MD, GB, GBC, GBA, PCE, SMS, Sega 32X, NGP, NGPC, WS, WSC
 * 제작자 : 텐타클 팀
-* 최종수정 : May 14, 2020
+* 최종수정 : Sep 16, 2020
 * 카페 : http://cafe.naver.com/raspigamer
 * 레트로게임 롬 목록 한글화 자료는 오픈소스입니다. MIT 라이센스를 따르고 있으므로 라이센스와 출처(http://cafe.naver.com/raspigamer) 표시만 지켜주시면 자유롭게 사용하실 수 있습니다.
 -->
@@ -403,5 +403,1685 @@
 		<genre>슈터 / 라이트건</genre>
 		<players>2</players>
 		<releasedate>20050101T000000</releasedate>
+	</game>
+	<game>
+		<path>./18wheelr.zip</path>
+		<name>에이틴 휠러</name>
+		<image>./../arcade/snap/18wheelr.png</image>
+		<video>./../arcade/video/18wheelr.mp4</video>
+		<marquee>./../arcade/marquee/18wheelr.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>운전</genre>
+		<players/>
+		<releasedate>2000</releasedate>
+	</game>
+	<game>
+		<path>./airlbios.zip</path>
+		<name>나오미 에어라인 파일럿 디럭스 바이오스</name>
+		<image>./../arcade/snap/airlbios.png</image>
+		<video>./../arcade/video/airlbios.mp4</video>
+		<marquee>./../arcade/marquee/airlbios.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>시스템 / 바이오스</genre>
+		<players/>
+		<releasedate>1999</releasedate>
+	</game>
+	<game>
+		<path>./alpilota.zip</path>
+		<name>에어라인 파일럿 (개정판 A)</name>
+		<image>./../arcade/snap/alpilota.png</image>
+		<video>./../arcade/video/alpilota.mp4</video>
+		<marquee>./../arcade/marquee/alpilota.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>운전 / 비행기</genre>
+		<players/>
+		<releasedate>1999</releasedate>
+	</game>
+	<game>
+		<path>./alpiltdx.zip</path>
+		<name>에어라인 파일럿 딜럭스</name>
+		<image>./../arcade/snap/alpiltdx.png</image>
+		<video>./../arcade/video/alpiltdx.mp4</video>
+		<marquee>./../arcade/marquee/alpiltdx.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>운전 / 비행기</genre>
+		<players/>
+		<releasedate>1999</releasedate>
+	</game>
+	<game>
+		<path>./awbios.zip</path>
+		<name>아토미스웨이브 바이오스</name>
+		<image>./../arcade/snap/awbios.png</image>
+		<video>./../arcade/video/awbios.mp4</video>
+		<marquee>./../arcade/marquee/awbios.png</marquee>
+		<developer>새미</developer>
+		<publisher>새미</publisher>
+		<genre>시스템 / 바이오스</genre>
+		<players/>
+		<releasedate>2001</releasedate>
+	</game>
+	<game>
+		<path>./azumanga.zip</path>
+		<name>아즈망가 대왕 퍼즐 버블</name>
+		<image>./../arcade/snap/azumanga.png</image>
+		<video>./../arcade/video/azumanga.mp4</video>
+		<marquee>./../arcade/marquee/azumanga.png</marquee>
+		<developer>모스 (타이토 라이선스)</developer>
+		<publisher>모스 (타이토 라이선스)</publisher>
+		<genre>퍼즐 / 던지기</genre>
+		<players/>
+		<releasedate>2002</releasedate>
+	</game>
+	<game>
+		<path>./bdrdown.zip</path>
+		<name>보더 다운</name>
+		<image>./../arcade/snap/bdrdown.png</image>
+		<video>./../arcade/video/bdrdown.mp4</video>
+		<marquee>./../arcade/marquee/bdrdown.png</marquee>
+		<developer>G-Rev</developer>
+		<publisher>G-Rev</publisher>
+		<genre>슈팅 / 수평 비행</genre>
+		<players/>
+		<releasedate>2004</releasedate>
+	</game>
+	<game>
+		<path>./beachspi.zip</path>
+		<name>비치 스파이커</name>
+		<image>./../arcade/snap/beachspi.png</image>
+		<video>./../arcade/video/beachspi.mp4</video>
+		<marquee>./../arcade/marquee/beachspi.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠 / 배구</genre>
+		<players/>
+		<releasedate>2002</releasedate>
+	</game>
+	<game>
+		<path>./capsnk.zip</path>
+		<name>캡콤 vs SNK 밀레니엄 파이트 2000</name>
+		<image>./../arcade/snap/capsnk.png</image>
+		<video>./../arcade/video/capsnk.mp4</video>
+		<marquee>./../arcade/marquee/capsnk.png</marquee>
+		<developer>캡콤/세가</developer>
+		<publisher>캡콤/세가</publisher>
+		<genre>격투 / 대전</genre>
+		<players/>
+		<releasedate>2000</releasedate>
+	</game>
+	<game>
+		<path>./capsnka.zip</path>
+		<name>캡콤 vs SNK 밀레니엄 파이트 2000 (000804 일본, 미국, 한국, 호주) (개정판 A)</name>
+		<image>./../arcade/snap/capsnka.png</image>
+		<video>./../arcade/video/capsnka.mp4</video>
+		<marquee>./../arcade/marquee/capsnka.png</marquee>
+		<developer>캡콤/세가</developer>
+		<publisher>캡콤/세가</publisher>
+		<genre>격투 / 대전</genre>
+		<players/>
+		<releasedate>2000</releasedate>
+	</game>
+	<game>
+		<path>./cfield.zip</path>
+		<name>카오스 필드</name>
+		<image>./../arcade/snap/cfield.png</image>
+		<video>./../arcade/video/cfield.mp4</video>
+		<marquee>./../arcade/marquee/cfield.png</marquee>
+		<developer>에이블</developer>
+		<publisher>에이블</publisher>
+		<genre>슈팅 / 수직 비행</genre>
+		<players/>
+		<releasedate>2004</releasedate>
+	</game>
+	<game>
+		<path>./chocomk.zip</path>
+		<name>뮤사피의 초코 메이커</name>
+		<image>./../arcade/snap/chocomk.png</image>
+		<video>./../arcade/video/chocomk.mp4</video>
+		<marquee>./../arcade/marquee/chocomk.png</marquee>
+		<developer>에콜</developer>
+		<publisher>에콜</publisher>
+		<genre>퍼즐 / 맞추기</genre>
+		<players/>
+		<releasedate>2002</releasedate>
+	</game>
+	<game>
+		<path>./cleoftp.zip</path>
+		<name>클레오파트라 포춘 플러스</name>
+		<image>./../arcade/snap/cleoftp.png</image>
+		<video>./../arcade/video/cleoftp.mp4</video>
+		<marquee>./../arcade/marquee/cleoftp.png</marquee>
+		<developer>알트론</developer>
+		<publisher>알트론</publisher>
+		<genre>퍼즐 / 맞추기</genre>
+		<players/>
+		<releasedate>2002</releasedate>
+	</game>
+	<game>
+		<path>./clubkrte.zip</path>
+		<name>클럽 카트 - 유러피언 세션</name>
+		<image>./../arcade/snap/clubkrte.png</image>
+		<video>./../arcade/video/clubkrte.mp4</video>
+		<marquee>./../arcade/marquee/clubkrte.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre/>
+		<players/>
+		<releasedate>2002</releasedate>
+	</game>
+	<game>
+		<path>./confmiss.zip</path>
+		<name>컨피덴션 미션</name>
+		<image>./../arcade/snap/confmiss.png</image>
+		<video>./../arcade/video/confmiss.mp4</video>
+		<marquee>./../arcade/marquee/confmiss.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>슈팅 / 총</genre>
+		<players/>
+		<releasedate>2001</releasedate>
+	</game>
+	<game>
+		<path>./crackndj.zip</path>
+		<name>크래킨 DJ</name>
+		<image>./../arcade/snap/crackndj.png</image>
+		<video>./../arcade/video/crackndj.mp4</video>
+		<marquee>./../arcade/marquee/crackndj.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>리듬 / 악기</genre>
+		<players/>
+		<releasedate>2000</releasedate>
+	</game>
+	<game>
+		<path>./crzytaxi.zip</path>
+		<name>크레이지 택시</name>
+		<image>./../arcade/snap/crzytaxi.png</image>
+		<video>./../arcade/video/crzytaxi.mp4</video>
+		<marquee>./../arcade/marquee/crzytaxi.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>운전 / 3인칭</genre>
+		<players/>
+		<releasedate>1999</releasedate>
+	</game>
+	<game>
+		<path>./csmash.zip</path>
+		<name>코스믹 스매시</name>
+		<image>./../arcade/snap/csmash.png</image>
+		<video>./../arcade/video/csmash.mp4</video>
+		<marquee>./../arcade/marquee/csmash.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠 / 테니스</genre>
+		<players/>
+		<releasedate>2001</releasedate>
+	</game>
+	<game>
+		<path>./csmasho.zip</path>
+		<name>코스믹 스매시 (일본, 미국, 한국, 호주)(원본)</name>
+		<image>./../arcade/snap/csmasho.png</image>
+		<video>./../arcade/video/csmasho.mp4</video>
+		<marquee>./../arcade/marquee/csmasho.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠 / 테니스</genre>
+		<players/>
+		<releasedate>2001</releasedate>
+	</game>
+	<game>
+		<path>./cspike.zip</path>
+		<name>건 스파이크</name>
+		<image>./../arcade/snap/cspike.png</image>
+		<video>./../arcade/video/cspike.mp4</video>
+		<marquee>./../arcade/marquee/cspike.png</marquee>
+		<developer>싸이쿄/캡콤</developer>
+		<publisher>싸이쿄/캡콤</publisher>
+		<genre>슈팅 / 필드</genre>
+		<players/>
+		<releasedate>2000</releasedate>
+	</game>
+	<game>
+		<path>./cvs2gd.zip</path>
+		<name>캡콤 vs SNK 2 밀리어네어 파이팅 2001</name>
+		<image>./../arcade/snap/cvs2gd.png</image>
+		<video>./../arcade/video/cvs2gd.mp4</video>
+		<marquee>./../arcade/marquee/cvs2gd.png</marquee>
+		<developer>캡콤/세가</developer>
+		<publisher>캡콤/세가</publisher>
+		<genre>격투 / 대전</genre>
+		<players/>
+		<releasedate>2001</releasedate>
+	</game>
+	<game>
+		<path>./cvs2.zip</path>
+		<name>캡콤 vs SNK 2 밀리어네어 파이팅 2001</name>
+		<image>./../arcade/snap/cvs2.png</image>
+		<video>./../arcade/video/cvs2.mp4</video>
+		<marquee>./../arcade/marquee/cvs2.png</marquee>
+		<developer>캡콤/세가</developer>
+		<publisher>캡콤/세가</publisher>
+		<genre>격투 / 대전</genre>
+		<players/>
+		<releasedate>2001</releasedate>
+	</game>
+	<game>
+		<path>./cvsgd.zip</path>
+		<name>캡콤 vs SNK 밀레니엄 파이트 2000 프로</name>
+		<image>./../arcade/snap/cvsgd.png</image>
+		<video>./../arcade/video/cvsgd.mp4</video>
+		<marquee>./../arcade/marquee/cvsgd.png</marquee>
+		<developer>캡콤/세가</developer>
+		<publisher>캡콤/세가</publisher>
+		<genre>격투 / 대전</genre>
+		<players/>
+		<releasedate>2001</releasedate>
+	</game>
+	<game>
+		<path>./deathcox.zip</path>
+		<name>데스 크림존 OX</name>
+		<image>./../arcade/snap/deathcox.png</image>
+		<video>./../arcade/video/deathcox.mp4</video>
+		<marquee>./../arcade/marquee/deathcox.png</marquee>
+		<developer>에콜</developer>
+		<publisher>에콜</publisher>
+		<genre>슈팅 / 총</genre>
+		<players/>
+		<releasedate>2000</releasedate>
+	</game>
+	<game>
+		<path>./derbyoc.zip</path>
+		<name>더비 오너스 클럽</name>
+		<image>./../arcade/snap/derbyoc.png</image>
+		<video>./../arcade/video/derbyoc.mp4</video>
+		<marquee>./../arcade/marquee/derbyoc.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠 / 경마</genre>
+		<players/>
+		<releasedate>1999</releasedate>
+	</game>
+	<game>
+		<path>./derbyoc2.zip</path>
+		<name>더비 오너스 클럽 2</name>
+		<image>./../arcade/snap/derbyoc2.png</image>
+		<video>./../arcade/video/derbyoc2.mp4</video>
+		<marquee>./../arcade/marquee/derbyoc2.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠 / 경마</genre>
+		<players/>
+		<releasedate>2001</releasedate>
+	</game>
+	<game>
+		<path>./derbyocw.zip</path>
+		<name>더비 오너스 클럽 월드 에디션</name>
+		<image>./../arcade/snap/derbyocw.png</image>
+		<video>./../arcade/video/derbyocw.mp4</video>
+		<marquee>./../arcade/marquee/derbyocw.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠 / 경마</genre>
+		<players/>
+		<releasedate>2001</releasedate>
+	</game>
+	<game>
+		<path>./doa2.zip</path>
+		<name>데드 오어 얼라이브 2</name>
+		<image>./../arcade/snap/doa2.png</image>
+		<video>./../arcade/video/doa2.mp4</video>
+		<marquee>./../arcade/marquee/doa2.png</marquee>
+		<developer>테크모</developer>
+		<publisher>테크모</publisher>
+		<genre>격투 / 아케이드</genre>
+		<players/>
+		<releasedate>1999</releasedate>
+	</game>
+	<game>
+		<path>./doa2m.zip</path>
+		<name>데드 오어 얼라이브 2 밀레니엄</name>
+		<image>./../arcade/snap/doa2m.png</image>
+		<video>./../arcade/video/doa2m.mp4</video>
+		<marquee>./../arcade/marquee/doa2m.png</marquee>
+		<developer>테크모</developer>
+		<publisher>테크모</publisher>
+		<genre>격투 / 대전</genre>
+		<players/>
+		<releasedate>2000</releasedate>
+	</game>
+	<game>
+		<path>./dybb99.zip</path>
+		<name>다이나마이트 베이스볼 99</name>
+		<image>./../arcade/snap/dybb99.png</image>
+		<video>./../arcade/video/dybb99.mp4</video>
+		<marquee>./../arcade/marquee/dybb99.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠 / 야구</genre>
+		<players/>
+		<releasedate>1999</releasedate>
+	</game>
+	<game>
+		<path>./dybbnao.zip</path>
+		<name>다이나마이트 베이스볼 나오미</name>
+		<image>./../arcade/snap/dybbnao.png</image>
+		<video>./../arcade/video/dybbnao.mp4</video>
+		<marquee>./../arcade/marquee/dybbnao.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠 / 야구</genre>
+		<players/>
+		<releasedate>1998</releasedate>
+	</game>
+	<game>
+		<path>./dygolf.zip</path>
+		<name>버추어 골프</name>
+		<image>./../arcade/snap/dygolf.png</image>
+		<video>./../arcade/video/dygolf.mp4</video>
+		<marquee>./../arcade/marquee/dygolf.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠 / 골프</genre>
+		<players/>
+		<releasedate>2001</releasedate>
+	</game>
+	<game>
+		<path>./f355.zip</path>
+		<name>페라리 F355 챌린지</name>
+		<image>./../arcade/snap/f355.png</image>
+		<video>./../arcade/video/f355.mp4</video>
+		<marquee>./../arcade/marquee/f355.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>운전 / 1인칭</genre>
+		<players/>
+		<releasedate>1999</releasedate>
+	</game>
+	<game>
+		<path>./f355bios.zip</path>
+		<name>나오미 페라리 F355 챌린지 바이오스</name>
+		<image>./../arcade/snap/f355bios.png</image>
+		<video>./../arcade/video/f355bios.mp4</video>
+		<marquee>./../arcade/marquee/f355bios.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>시스템 / 바이오스</genre>
+		<players/>
+		<releasedate>1999</releasedate>
+	</game>
+	<game>
+		<path>./f355twin.zip</path>
+		<name>페라리 F355 챌린지</name>
+		<image>./../arcade/snap/f355twin.png</image>
+		<video>./../arcade/video/f355twin.mp4</video>
+		<marquee>./../arcade/marquee/f355twin.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>운전 / 1인칭</genre>
+		<players/>
+		<releasedate>1999</releasedate>
+	</game>
+	<game>
+		<path>./f355twn2.zip</path>
+		<name>페라리 F355 챌린지 2</name>
+		<image>./../arcade/snap/f355twn2.png</image>
+		<video>./../arcade/video/f355twn2.mp4</video>
+		<marquee>./../arcade/marquee/f355twn2.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>운전 / 1인칭</genre>
+		<players/>
+		<releasedate>1999</releasedate>
+	</game>
+	<game>
+		<path>./ggram2.zip</path>
+		<name>자이언트 그램</name>
+		<image>./../arcade/snap/ggram2.png</image>
+		<video>./../arcade/video/ggram2.mp4</video>
+		<marquee>./../arcade/marquee/ggram2.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠 / 레슬링</genre>
+		<players/>
+		<releasedate>1999</releasedate>
+	</game>
+	<game>
+		<path>./ggx.zip</path>
+		<name>길티 기어 X</name>
+		<image>./../arcade/snap/ggx.png</image>
+		<video>./../arcade/video/ggx.mp4</video>
+		<marquee>./../arcade/marquee/ggx.png</marquee>
+		<developer>아크 시스템 웍스</developer>
+		<publisher>아크 시스템 웍스</publisher>
+		<genre>격투 / 대전</genre>
+		<players/>
+		<releasedate>2000</releasedate>
+	</game>
+	<game>
+		<path>./ggxx.zip</path>
+		<name>길티 기어 XX</name>
+		<image>./../arcade/snap/ggxx.png</image>
+		<video>./../arcade/video/ggxx.mp4</video>
+		<marquee>./../arcade/marquee/ggxx.png</marquee>
+		<developer>아크 시스템 웍스</developer>
+		<publisher>아크 시스템 웍스</publisher>
+		<genre>격투 / 대전</genre>
+		<players/>
+		<releasedate>2002</releasedate>
+	</game>
+	<game>
+		<path>./ggxxac.zip</path>
+		<name>길티 기어 XX 액센트 코어</name>
+		<image>./../arcade/snap/ggxxac.png</image>
+		<video>./../arcade/video/ggxxac.mp4</video>
+		<marquee>./../arcade/marquee/ggxxac.png</marquee>
+		<developer>아크 시스템 웍스</developer>
+		<publisher>아크 시스템 웍스</publisher>
+		<genre>격투 / 대전</genre>
+		<players/>
+		<releasedate>2006</releasedate>
+	</game>
+	<game>
+		<path>./ggxxrl.zip</path>
+		<name>길티 기어 XX 리로드</name>
+		<image>./../arcade/snap/ggxxrl.png</image>
+		<video>./../arcade/video/ggxxrl.mp4</video>
+		<marquee>./../arcade/marquee/ggxxrl.png</marquee>
+		<developer>아크 시스템 웍스</developer>
+		<publisher>아크 시스템 웍스</publisher>
+		<genre>격투 / 대전</genre>
+		<players/>
+		<releasedate>2003</releasedate>
+	</game>
+	<game>
+		<path>./ggxxsla.zip</path>
+		<name>길티 기어 XX 슬래시</name>
+		<image>./../arcade/snap/ggxxsla.png</image>
+		<video>./../arcade/video/ggxxsla.mp4</video>
+		<marquee>./../arcade/marquee/ggxxsla.png</marquee>
+		<developer>아크 시스템 웍스</developer>
+		<publisher>아크 시스템 웍스</publisher>
+		<genre>격투 / 대전</genre>
+		<players/>
+		<releasedate>2005</releasedate>
+	</game>
+	<game>
+		<path>./gram2000.zip</path>
+		<name>자이언트 그램 2000</name>
+		<image>./../arcade/snap/gram2000.png</image>
+		<video>./../arcade/video/gram2000.mp4</video>
+		<marquee>./../arcade/marquee/gram2000.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠 / 레슬링</genre>
+		<players/>
+		<releasedate>2000</releasedate>
+	</game>
+	<game>
+		<path>./gundmgd.zip</path>
+		<name>기동전사 건담 - 연방 대 지온</name>
+		<image>./../arcade/snap/gundmgd.png</image>
+		<video>./../arcade/video/gundmgd.mp4</video>
+		<marquee>./../arcade/marquee/gundmgd.png</marquee>
+		<developer>캡콤</developer>
+		<publisher>캡콤</publisher>
+		<genre>슈팅 / 3인칭</genre>
+		<players/>
+		<releasedate>2001</releasedate>
+	</game>
+	<game>
+		<path>./gundmxgd.zip</path>
+		<name>기동전사 건담 - 연방 대 지온 DX</name>
+		<image>./../arcade/snap/gundmxgd.png</image>
+		<video>./../arcade/video/gundmxgd.mp4</video>
+		<marquee>./../arcade/marquee/gundmxgd.png</marquee>
+		<developer>캡콤</developer>
+		<publisher>캡콤</publisher>
+		<genre>슈팅 / 3인칭</genre>
+		<players/>
+		<releasedate>2001</releasedate>
+	</game>
+	<game>
+		<path>./gunsur2.zip</path>
+		<name>건 서바이버 2 - 바이오 하자드 코드 베로니카</name>
+		<image>./../arcade/snap/gunsur2.png</image>
+		<video>./../arcade/video/gunsur2.mp4</video>
+		<marquee>./../arcade/marquee/gunsur2.png</marquee>
+		<developer>캡콤/남코</developer>
+		<publisher>캡콤/남코</publisher>
+		<genre>슈팅 / 총</genre>
+		<players/>
+		<releasedate>2001</releasedate>
+	</game>
+	<game>
+		<path>./gwing2.zip</path>
+		<name>기가 윙 2</name>
+		<image>./../arcade/snap/gwing2.png</image>
+		<video>./../arcade/video/gwing2.mp4</video>
+		<marquee>./../arcade/marquee/gwing2.png</marquee>
+		<developer>타쿠미/캡콤</developer>
+		<publisher>타쿠미/캡콤</publisher>
+		<genre>슈팅 / 수직 비행</genre>
+		<players/>
+		<releasedate>2000</releasedate>
+	</game>
+	<game>
+		<path>./hmgeo.zip</path>
+		<name>헤비 메탈 지오매트릭스</name>
+		<image>./../arcade/snap/hmgeo.png</image>
+		<video>./../arcade/video/hmgeo.mp4</video>
+		<marquee>./../arcade/marquee/hmgeo.png</marquee>
+		<developer>캡콤</developer>
+		<publisher>캡콤</publisher>
+		<genre>격투 / 아케이드</genre>
+		<players/>
+		<releasedate>2001</releasedate>
+	</game>
+	<game>
+		<path>./hod2bios.zip</path>
+		<name>나오미 하우스 오브 데드 2 바이오스</name>
+		<image>./../arcade/snap/hod2bios.png</image>
+		<video>./../arcade/video/hod2bios.mp4</video>
+		<marquee>./../arcade/marquee/hod2bios.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>시스템 / 바이오스</genre>
+		<players/>
+		<releasedate>1998</releasedate>
+	</game>
+	<game>
+		<path>./hotd2.zip</path>
+		<name>하우스 오브 더 데드 2</name>
+		<image>./../arcade/snap/hotd2.png</image>
+		<video>./../arcade/video/hotd2.mp4</video>
+		<marquee>./../arcade/marquee/hotd2.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>슈팅 / 총</genre>
+		<players/>
+		<releasedate>1999</releasedate>
+	</game>
+	<game>
+		<path>./hotd2o.zip</path>
+		<name>하우스 오브 더 데드 2 (원본)</name>
+		<image>./../arcade/snap/hotd2o.png</image>
+		<video>./../arcade/video/hotd2o.mp4</video>
+		<marquee>./../arcade/marquee/hotd2o.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>슈팅 / 총</genre>
+		<players/>
+		<releasedate>1999</releasedate>
+	</game>
+	<game>
+		<path>./ikaruga.zip</path>
+		<name>이카루가</name>
+		<image>./../arcade/snap/ikaruga.png</image>
+		<video>./../arcade/video/ikaruga.mp4</video>
+		<marquee>./../arcade/marquee/ikaruga.png</marquee>
+		<developer>트레저</developer>
+		<publisher>트레저</publisher>
+		<genre>슈팅 / 수직 비행</genre>
+		<players/>
+		<releasedate>2001</releasedate>
+	</game>
+	<game>
+		<path>./initd.zip</path>
+		<name>이니셜 D - 아케이드 스테이지</name>
+		<image>./../arcade/snap/initd.png</image>
+		<video>./../arcade/video/initd.mp4</video>
+		<marquee>./../arcade/marquee/initd.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>운전 / 3인칭</genre>
+		<players/>
+		<releasedate>2002</releasedate>
+	</game>
+	<game>
+		<path>./initdexp.zip</path>
+		<name>이니셜 D - 아케이드 스테이지</name>
+		<image>./../arcade/snap/initdexp.png</image>
+		<video>./../arcade/video/initdexp.mp4</video>
+		<marquee>./../arcade/marquee/initdexp.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>운전 / 3인칭</genre>
+		<players/>
+		<releasedate>2002</releasedate>
+	</game>
+	<game>
+		<path>./initdv2j.zip</path>
+		<name>이니셜 D - 아케이드 스테이지 ver. 2</name>
+		<image>./../arcade/snap/initdv2j.png</image>
+		<video>./../arcade/video/initdv2j.mp4</video>
+		<marquee>./../arcade/marquee/initdv2j.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>운전 / 3인칭</genre>
+		<players/>
+		<releasedate>2002</releasedate>
+	</game>
+	<game>
+		<path>./initdv3j.zip</path>
+		<name>이니셜 D - 아케이드 스테이지 ver. 3</name>
+		<image>./../arcade/snap/initdv3j.png</image>
+		<video>./../arcade/video/initdv3j.mp4</video>
+		<marquee>./../arcade/marquee/initdv3j.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>운전 / 3인칭</genre>
+		<players/>
+		<releasedate>2004</releasedate>
+	</game>
+	<game>
+		<path>./jambo.zip</path>
+		<name>잠보! 사파리</name>
+		<image>./../arcade/snap/jambo.png</image>
+		<video>./../arcade/video/jambo.mp4</video>
+		<marquee>./../arcade/marquee/jambo.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>운전</genre>
+		<players/>
+		<releasedate>1999</releasedate>
+	</game>
+	<game>
+		<path>./jingystm.zip</path>
+		<name>진기 스톰 - 아케이드</name>
+		<image>./../arcade/snap/jingystm.png</image>
+		<video>./../arcade/video/jingystm.mp4</video>
+		<marquee>./../arcade/marquee/jingystm.png</marquee>
+		<developer>아트라비타 재팬</developer>
+		<publisher>아트라비타 재팬</publisher>
+		<genre>격투 / 대전</genre>
+		<players/>
+		<releasedate>2005</releasedate>
+	</game>
+	<game>
+		<path>./karous.zip</path>
+		<name>까마귀</name>
+		<image>./../arcade/snap/karous.png</image>
+		<video>./../arcade/video/karous.mp4</video>
+		<marquee>./../arcade/marquee/karous.png</marquee>
+		<developer>마일스톤</developer>
+		<publisher>마일스톤</publisher>
+		<genre>슈팅 / 수직 비행</genre>
+		<players/>
+		<releasedate>2006</releasedate>
+	</game>
+	<game>
+		<path>./keyboard.zip</path>
+		<name>라 키보닥슈</name>
+		<image>./../arcade/snap/keyboard.png</image>
+		<video>./../arcade/video/keyboard.mp4</video>
+		<marquee>./../arcade/marquee/keyboard.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>퀴즈 / 일본어</genre>
+		<players/>
+		<releasedate>2001</releasedate>
+	</game>
+	<game>
+		<path>./kick4csh.zip</path>
+		<name>킥 포 캐시</name>
+		<image>./../arcade/snap/kick4csh.png</image>
+		<video>./../arcade/video/kick4csh.mp4</video>
+		<marquee>./../arcade/marquee/kick4csh.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠 / 축구</genre>
+		<players/>
+		<releasedate>2004</releasedate>
+	</game>
+	<game>
+		<path>./kurucham.zip</path>
+		<name>쿠루쿠루 카멜레온</name>
+		<image>./../arcade/snap/kurucham.png</image>
+		<video>./../arcade/video/kurucham.mp4</video>
+		<marquee>./../arcade/marquee/kurucham.png</marquee>
+		<developer>에이블</developer>
+		<publisher>에이블</publisher>
+		<genre>퍼즐 / 맞추기</genre>
+		<players/>
+		<releasedate>2006</releasedate>
+	</game>
+	<game>
+		<path>./lupinsho.zip</path>
+		<name>루팡 3세 - 슈팅</name>
+		<image>./../arcade/snap/lupinsho.png</image>
+		<video>./../arcade/video/lupinsho.mp4</video>
+		<marquee>./../arcade/marquee/lupinsho.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>슈팅 / 총</genre>
+		<players/>
+		<releasedate>2001</releasedate>
+	</game>
+	<game>
+		<path>./luptype.zip</path>
+		<name>루팡 3세 - 타이핑</name>
+		<image>./../arcade/snap/luptype.png</image>
+		<video>./../arcade/video/luptype.mp4</video>
+		<marquee>./../arcade/marquee/luptype.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>슈팅 / 기타</genre>
+		<players/>
+		<releasedate>2002</releasedate>
+	</game>
+	<game>
+		<path>./meltyb.zip</path>
+		<name>멜티 블러드 액트 카덴자 Ver B</name>
+		<image>./../arcade/snap/meltyb.png</image>
+		<video>./../arcade/video/meltyb.mp4</video>
+		<marquee>./../arcade/marquee/meltyb.png</marquee>
+		<developer>에콜</developer>
+		<publisher>에콜</publisher>
+		<genre>격투 / 대전</genre>
+		<players/>
+		<releasedate>2006</releasedate>
+	</game>
+	<game>
+		<path>./meltyba.zip</path>
+		<name>멜티 블러드 액트 카덴자 Ver B (개정판 A)(GDL-0039A)</name>
+		<image>./../arcade/snap/meltyba.png</image>
+		<video>./../arcade/video/meltyba.mp4</video>
+		<marquee>./../arcade/marquee/meltyba.png</marquee>
+		<developer>에콜</developer>
+		<publisher>에콜</publisher>
+		<genre>격투 / 대전</genre>
+		<players/>
+		<releasedate>2006</releasedate>
+	</game>
+	<game>
+		<path>./meltybld.zip</path>
+		<name>멜티 블러드 액트 카덴자 Ver A</name>
+		<image>./../arcade/snap/meltybld.png</image>
+		<video>./../arcade/video/meltybld.mp4</video>
+		<marquee>./../arcade/marquee/meltybld.png</marquee>
+		<developer>에콜</developer>
+		<publisher>에콜</publisher>
+		<genre>격투 / 대전</genre>
+		<players/>
+		<releasedate>2005</releasedate>
+	</game>
+	<game>
+		<path>./moeru.zip</path>
+		<name>불타라 카지요</name>
+		<image>./../arcade/snap/moeru.png</image>
+		<video>./../arcade/video/moeru.mp4</video>
+		<marquee>./../arcade/marquee/moeru.png</marquee>
+		<developer>알트론</developer>
+		<publisher>알트론</publisher>
+		<genre>카지노 / 카드</genre>
+		<players/>
+		<releasedate>2002</releasedate>
+	</game>
+	<game>
+		<path>./mok.zip</path>
+		<name>메이즈 오브 킹즈</name>
+		<image>./../arcade/snap/mok.png</image>
+		<video>./../arcade/video/mok.mp4</video>
+		<marquee>./../arcade/marquee/mok.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>슈팅 / 총</genre>
+		<players/>
+		<releasedate>2002</releasedate>
+	</game>
+	<game>
+		<path>./monkeyba.zip</path>
+		<name>몽키 볼</name>
+		<image>./../arcade/snap/monkeyba.png</image>
+		<video>./../arcade/video/monkeyba.mp4</video>
+		<marquee>./../arcade/marquee/monkeyba.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>퍼즐 / 미로</genre>
+		<players/>
+		<releasedate>2001</releasedate>
+	</game>
+	<game>
+		<path>./mvsc2.zip</path>
+		<name>마블 VS 캡콤 2</name>
+		<image>./../arcade/snap/mvsc2.png</image>
+		<video>./../arcade/video/mvsc2.mp4</video>
+		<marquee>./../arcade/marquee/mvsc2.png</marquee>
+		<developer>캡콤</developer>
+		<publisher>캡콤</publisher>
+		<genre>격투 / 대전</genre>
+		<players/>
+		<releasedate>2000</releasedate>
+	</game>
+	<game>
+		<path>./naomi.zip</path>
+		<name>나오미 바이오스</name>
+		<image>./../arcade/snap/naomi.png</image>
+		<video>./../arcade/video/naomi.mp4</video>
+		<marquee>./../arcade/marquee/naomi.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>시스템 / 바이오스</genre>
+		<players/>
+		<releasedate>1998</releasedate>
+	</game>
+	<game>
+		<path>./naomi2.zip</path>
+		<name>나오미 2 바이오스</name>
+		<image>./../arcade/snap/naomi2.png</image>
+		<video>./../arcade/video/naomi2.mp4</video>
+		<marquee>./../arcade/marquee/naomi2.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>시스템 / 바이오스</genre>
+		<players/>
+		<releasedate>2001</releasedate>
+	</game>
+	<game>
+		<path>./naomigd.zip</path>
+		<name>나오미 GD-ROM 바이오스</name>
+		<image>./../arcade/snap/naomigd.png</image>
+		<video>./../arcade/video/naomigd.mp4</video>
+		<marquee>./../arcade/marquee/naomigd.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>시스템 / 바이오스</genre>
+		<players/>
+		<releasedate>2001</releasedate>
+	</game>
+	<game>
+		<path>./ngdup23a.zip</path>
+		<name>나오미 DIMM 펌웨어 업데이터</name>
+		<image>./../arcade/snap/ngdup23a.png</image>
+		<video>./../arcade/video/ngdup23a.mp4</video>
+		<marquee>./../arcade/marquee/ngdup23a.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>유틸리티 / 업데이트</genre>
+		<players/>
+		<releasedate>2001</releasedate>
+	</game>
+	<game>
+		<path>./ngdup23c.zip</path>
+		<name>나오미 DIMM 펌웨어 업데이터</name>
+		<image>./../arcade/snap/ngdup23c.png</image>
+		<video>./../arcade/video/ngdup23c.mp4</video>
+		<marquee>./../arcade/marquee/ngdup23c.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>유틸리티 / 업데이트</genre>
+		<players/>
+		<releasedate>2001</releasedate>
+	</game>
+	<game>
+		<path>./otrigger.zip</path>
+		<name>아웃트리거</name>
+		<image>./../arcade/snap/otrigger.png</image>
+		<video>./../arcade/video/otrigger.mp4</video>
+		<marquee>./../arcade/marquee/otrigger.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>슈팅 / 1인칭</genre>
+		<players/>
+		<releasedate>1999</releasedate>
+	</game>
+	<game>
+		<path>./pjustic.zip</path>
+		<name>불타라 저스티스 학원</name>
+		<image>./../arcade/snap/pjustic.png</image>
+		<video>./../arcade/video/pjustic.mp4</video>
+		<marquee>./../arcade/marquee/pjustic.png</marquee>
+		<developer>캡콤</developer>
+		<publisher>캡콤</publisher>
+		<genre>격투 / 대전</genre>
+		<players/>
+		<releasedate>2000</releasedate>
+	</game>
+	<game>
+		<path>./pstone.zip</path>
+		<name>파워 스톤</name>
+		<image>./../arcade/snap/pstone.png</image>
+		<video>./../arcade/video/pstone.mp4</video>
+		<marquee>./../arcade/marquee/pstone.png</marquee>
+		<developer>캡콤</developer>
+		<publisher>캡콤</publisher>
+		<genre>격투 / 아케이드</genre>
+		<players/>
+		<releasedate>1999</releasedate>
+	</game>
+	<game>
+		<path>./pstone2.zip</path>
+		<name>파워 스톤 2</name>
+		<image>./../arcade/snap/pstone2.png</image>
+		<video>./../arcade/video/pstone2.mp4</video>
+		<marquee>./../arcade/marquee/pstone2.png</marquee>
+		<developer>캡콤</developer>
+		<publisher>캡콤</publisher>
+		<genre>격투 / 아케이드</genre>
+		<players/>
+		<releasedate>2000</releasedate>
+	</game>
+	<game>
+		<path>./psyvar2.zip</path>
+		<name>사이바리아 2</name>
+		<image>./../arcade/snap/psyvar2.png</image>
+		<video>./../arcade/video/psyvar2.mp4</video>
+		<marquee>./../arcade/marquee/psyvar2.png</marquee>
+		<developer>G-Rev</developer>
+		<publisher>G-Rev</publisher>
+		<genre>슈팅 / 수직 비행</genre>
+		<players/>
+		<releasedate>2003</releasedate>
+	</game>
+	<game>
+		<path>./puyofev.zip</path>
+		<name>뿌요 팝 피버</name>
+		<image>./../arcade/snap/puyofev.png</image>
+		<video>./../arcade/video/puyofev.mp4</video>
+		<marquee>./../arcade/marquee/puyofev.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>퍼즐 / 낙하</genre>
+		<players/>
+		<releasedate>2003</releasedate>
+	</game>
+	<game>
+		<path>./qmegamis.zip</path>
+		<name>퀴즈 오 여신님</name>
+		<image>./../arcade/snap/qmegamis.png</image>
+		<video>./../arcade/video/qmegamis.mp4</video>
+		<marquee>./../arcade/marquee/qmegamis.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>퀴즈 / 일본어</genre>
+		<players>2</players>
+		<releasedate>2000</releasedate>
+	</game>
+	<game>
+		<path>./quizqgd.zip</path>
+		<name>퀴즈 휴대폰 Q 모드</name>
+		<image>./../arcade/snap/quizqgd.png</image>
+		<video>./../arcade/video/quizqgd.mp4</video>
+		<marquee>./../arcade/marquee/quizqgd.png</marquee>
+		<developer>아메디오 (타이토 라이센스)</developer>
+		<publisher>아메디오 (타이토 라이센스)</publisher>
+		<genre>퀴즈 / 일본어</genre>
+		<players/>
+		<releasedate>2002</releasedate>
+	</game>
+	<game>
+		<path>./radirgy.zip</path>
+		<name>래디지</name>
+		<image>./../arcade/snap/radirgy.png</image>
+		<video>./../arcade/video/radirgy.mp4</video>
+		<marquee>./../arcade/marquee/radirgy.png</marquee>
+		<developer>마일스톤</developer>
+		<publisher>마일스톤</publisher>
+		<genre>슈팅 / 수직 비행</genre>
+		<players/>
+		<releasedate>2005</releasedate>
+	</game>
+	<game>
+		<path>./samba.zip</path>
+		<name>삼바 디 아미고</name>
+		<image>./../arcade/snap/samba.png</image>
+		<video>./../arcade/video/samba.mp4</video>
+		<marquee>./../arcade/marquee/samba.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>리듬 / 악기</genre>
+		<players/>
+		<releasedate>1999</releasedate>
+	</game>
+	<game>
+		<path>./senko.zip</path>
+		<name>섬광의 윤무 뉴 버전</name>
+		<image>./../arcade/snap/senko.png</image>
+		<video>./../arcade/video/senko.mp4</video>
+		<marquee>./../arcade/marquee/senko.png</marquee>
+		<developer>G-Rev</developer>
+		<publisher>G-Rev</publisher>
+		<genre>슈팅 / 대전</genre>
+		<players/>
+		<releasedate>2005</releasedate>
+	</game>
+	<game>
+		<path>./senkoo.zip</path>
+		<name>섬광의 윤무 (GDL-0030)</name>
+		<image>./../arcade/snap/senkoo.png</image>
+		<video>./../arcade/video/senkoo.mp4</video>
+		<marquee>./../arcade/marquee/senkoo.png</marquee>
+		<developer>G-Rev</developer>
+		<publisher>G-Rev</publisher>
+		<genre>슈팅 / 대전</genre>
+		<players/>
+		<releasedate>2005</releasedate>
+	</game>
+	<game>
+		<path>./senkosp.zip</path>
+		<name>섬광의 윤무 스페셜</name>
+		<image>./../arcade/snap/senkosp.png</image>
+		<video>./../arcade/video/senkosp.mp4</video>
+		<marquee>./../arcade/marquee/senkosp.png</marquee>
+		<developer>G-Rev</developer>
+		<publisher>G-Rev</publisher>
+		<genre>슈팅 / 수평 비행</genre>
+		<players/>
+		<releasedate>2006</releasedate>
+	</game>
+	<game>
+		<path>./sfz3ugd.zip</path>
+		<name>스트리트 파이터 제로 3</name>
+		<image>./../arcade/snap/sfz3ugd.png</image>
+		<video>./../arcade/video/sfz3ugd.mp4</video>
+		<marquee>./../arcade/marquee/sfz3ugd.png</marquee>
+		<developer>캡콤</developer>
+		<publisher>캡콤</publisher>
+		<genre>격투 / 대전</genre>
+		<players>2</players>
+		<releasedate>1998</releasedate>
+	</game>
+	<game>
+		<path>./sgtetris.zip</path>
+		<name>세가 테트리스</name>
+		<image>./../arcade/snap/sgtetris.png</image>
+		<video>./../arcade/video/sgtetris.mp4</video>
+		<marquee>./../arcade/marquee/sgtetris.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>퍼즐 / 낙하</genre>
+		<players/>
+		<releasedate>1999</releasedate>
+	</game>
+	<game>
+		<path>./shangril.zip</path>
+		<name>전환천사대전마작 샹그리라</name>
+		<image>./../arcade/snap/shangril.png</image>
+		<video>./../arcade/video/shangril.mp4</video>
+		<marquee>./../arcade/marquee/shangril.png</marquee>
+		<developer>마블러스 엔터</developer>
+		<publisher>마블러스 엔터</publisher>
+		<genre>보드게임 / 마작</genre>
+		<players/>
+		<releasedate>1999</releasedate>
+	</game>
+	<game>
+		<path>./shikgam2.zip</path>
+		<name>식신의 성 2</name>
+		<image>./../arcade/snap/shikgam2.png</image>
+		<video>./../arcade/video/shikgam2.mp4</video>
+		<marquee>./../arcade/marquee/shikgam2.png</marquee>
+		<developer>알파 시스템</developer>
+		<publisher>알파 시스템</publisher>
+		<genre>슈팅 / 수직 비행</genre>
+		<players/>
+		<releasedate>2003</releasedate>
+	</game>
+	<game>
+		<path>./shootopl.zip</path>
+		<name>슛아웃 풀</name>
+		<image>./../arcade/snap/shootopl.png</image>
+		<video>./../arcade/video/shootopl.mp4</video>
+		<marquee>./../arcade/marquee/shootopl.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠 / 당구</genre>
+		<players/>
+		<releasedate>2001</releasedate>
+	</game>
+	<game>
+		<path>./shootpl.zip</path>
+		<name>슛아웃 풀</name>
+		<image>./../arcade/snap/shootpl.png</image>
+		<video>./../arcade/video/shootpl.mp4</video>
+		<marquee>./../arcade/marquee/shootpl.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠 / 당구</genre>
+		<players/>
+		<releasedate>2001</releasedate>
+	</game>
+	<game>
+		<path>./slasho.zip</path>
+		<name>슬래샤우트</name>
+		<image>./../arcade/snap/slasho.png</image>
+		<video>./../arcade/video/slasho.mp4</video>
+		<marquee>./../arcade/marquee/slasho.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>격투 / 아케이드</genre>
+		<players/>
+		<releasedate>2000</releasedate>
+	</game>
+	<game>
+		<path>./slashout.zip</path>
+		<name>슬래샤우트</name>
+		<image>./../arcade/snap/slashout.png</image>
+		<video>./../arcade/video/slashout.mp4</video>
+		<marquee>./../arcade/marquee/slashout.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>격투 / 아케이드</genre>
+		<players/>
+		<releasedate>2000</releasedate>
+	</game>
+	<game>
+		<path>./smarinef.zip</path>
+		<name>세가 마린 피싱</name>
+		<image>./../arcade/snap/smarinef.png</image>
+		<video>./../arcade/video/smarinef.mp4</video>
+		<marquee>./../arcade/marquee/smarinef.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠 / 낚시</genre>
+		<players/>
+		<releasedate>2000</releasedate>
+	</game>
+	<game>
+		<path>./smlg99.zip</path>
+		<name>슈퍼 메이져 리그 99</name>
+		<image>./../arcade/snap/smlg99.png</image>
+		<video>./../arcade/video/smlg99.mp4</video>
+		<marquee>./../arcade/marquee/smlg99.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠 / 야구</genre>
+		<players>4</players>
+		<releasedate>1999</releasedate>
+	</game>
+	<game>
+		<path>./spawn.zip</path>
+		<name>스폰</name>
+		<image>./../arcade/snap/spawn.png</image>
+		<video>./../arcade/video/spawn.mp4</video>
+		<marquee>./../arcade/marquee/spawn.png</marquee>
+		<developer>캡콤</developer>
+		<publisher>캡콤</publisher>
+		<genre>슈팅 / 3인칭</genre>
+		<players/>
+		<releasedate>1999</releasedate>
+	</game>
+	<game>
+		<path>./spkrbtl.zip</path>
+		<name>스파이커스 배틀</name>
+		<image>./../arcade/snap/spkrbtl.png</image>
+		<video>./../arcade/video/spkrbtl.mp4</video>
+		<marquee>./../arcade/marquee/spkrbtl.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>격투 / 아케이드</genre>
+		<players/>
+		<releasedate>2001</releasedate>
+	</game>
+	<game>
+		<path>./sprtjam.zip</path>
+		<name>스포츠 잼</name>
+		<image>./../arcade/snap/sprtjam.png</image>
+		<video>./../arcade/video/sprtjam.mp4</video>
+		<marquee>./../arcade/marquee/sprtjam.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠 / 멀티플래이</genre>
+		<players/>
+		<releasedate>2000</releasedate>
+	</game>
+	<game>
+		<path>./ss2005.zip</path>
+		<name>슈퍼 상하이 2005</name>
+		<image>./../arcade/snap/ss2005.png</image>
+		<video>./../arcade/video/ss2005.mp4</video>
+		<marquee>./../arcade/marquee/ss2005.png</marquee>
+		<developer>스타피시</developer>
+		<publisher>스타피시</publisher>
+		<genre>퍼즐 / 맞추기 *성인*</genre>
+		<players/>
+		<releasedate>2005</releasedate>
+	</game>
+	<game>
+		<path>./ss2005a.zip</path>
+		<name>슈퍼 상하이 2005 (개정판 A)(GDL-0031A)</name>
+		<image>./../arcade/snap/ss2005a.png</image>
+		<video>./../arcade/video/ss2005a.mp4</video>
+		<marquee>./../arcade/marquee/ss2005a.png</marquee>
+		<developer>스타피시</developer>
+		<publisher>스타피시</publisher>
+		<genre>퍼즐 / 맞추기 *성인*</genre>
+		<players/>
+		<releasedate>2005</releasedate>
+	</game>
+	<game>
+		<path>./sstrkfgt.zip</path>
+		<name>세가 스트라이크 파이터</name>
+		<image>./../arcade/snap/sstrkfgt.png</image>
+		<video>./../arcade/video/sstrkfgt.mp4</video>
+		<marquee>./../arcade/marquee/sstrkfgt.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>슈팅 / 1인칭 비행</genre>
+		<players/>
+		<releasedate>2000</releasedate>
+	</game>
+	<game>
+		<path>./suchie3.zip</path>
+		<name>아이돌 마작사 스치파이 3</name>
+		<image>./../arcade/snap/suchie3.png</image>
+		<video>./../arcade/video/suchie3.mp4</video>
+		<marquee>./../arcade/marquee/suchie3.png</marquee>
+		<developer>자레코</developer>
+		<publisher>자레코</publisher>
+		<genre>보드게임 / 마작 *성인*</genre>
+		<players/>
+		<releasedate>1999</releasedate>
+	</game>
+	<game>
+		<path>./takoron.zip</path>
+		<name>노콘 퍼즐 타쿠론</name>
+		<image>./../arcade/snap/takoron.png</image>
+		<video>./../arcade/video/takoron.mp4</video>
+		<marquee>./../arcade/marquee/takoron.png</marquee>
+		<developer>컴파일</developer>
+		<publisher>컴파일</publisher>
+		<genre>퍼즐 / 기타</genre>
+		<players/>
+		<releasedate>2006</releasedate>
+	</game>
+	<game>
+		<path>./tetkiwam.zip</path>
+		<name>테트리스 극도</name>
+		<image>./../arcade/snap/tetkiwam.png</image>
+		<video>./../arcade/video/tetkiwam.mp4</video>
+		<marquee>./../arcade/marquee/tetkiwam.png</marquee>
+		<developer>석세스</developer>
+		<publisher>석세스</publisher>
+		<genre>퍼즐 / 낙하</genre>
+		<players/>
+		<releasedate>2004</releasedate>
+	</game>
+	<game>
+		<path>./totd.zip</path>
+		<name>타이핑 오브 데드</name>
+		<image>./../arcade/snap/totd.png</image>
+		<video>./../arcade/video/totd.mp4</video>
+		<marquee>./../arcade/marquee/totd.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>슈팅 / 기타</genre>
+		<players/>
+		<releasedate>2000</releasedate>
+	</game>
+	<game>
+		<path>./toyfight.zip</path>
+		<name>토이 파이터</name>
+		<image>./../arcade/snap/toyfight.png</image>
+		<video>./../arcade/video/toyfight.mp4</video>
+		<marquee>./../arcade/marquee/toyfight.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>격투 / 대전</genre>
+		<players/>
+		<releasedate>1999</releasedate>
+	</game>
+	<game>
+		<path>./trgheart.zip</path>
+		<name>트리거 허트 엑셀리카</name>
+		<image>./../arcade/snap/trgheart.png</image>
+		<video>./../arcade/video/trgheart.mp4</video>
+		<marquee>./../arcade/marquee/trgheart.png</marquee>
+		<developer>와라시</developer>
+		<publisher>와라시</publisher>
+		<genre>슈팅 / 수직 비행</genre>
+		<players/>
+		<releasedate>2005</releasedate>
+	</game>
+	<game>
+		<path>./trizeal.zip</path>
+		<name>트라이질</name>
+		<image>./../arcade/snap/trizeal.png</image>
+		<video>./../arcade/video/trizeal.mp4</video>
+		<marquee>./../arcade/marquee/trizeal.png</marquee>
+		<developer>타이토</developer>
+		<publisher>타이토</publisher>
+		<genre>슈팅 / 수직 비행</genre>
+		<players/>
+		<releasedate>2004</releasedate>
+	</game>
+	<game>
+		<path>./ultratnk.zip</path>
+		<name>울트라 탱크</name>
+		<image>./../arcade/snap/ultratnk.png</image>
+		<video>./../arcade/video/ultratnk.mp4</video>
+		<marquee>./../arcade/marquee/ultratnk.png</marquee>
+		<developer>아타리</developer>
+		<publisher>아타리</publisher>
+		<genre>슈팅 / 대전</genre>
+		<players>2</players>
+		<releasedate>1978</releasedate>
+	</game>
+	<game>
+		<path>./usagi.zip</path>
+		<name>우사기</name>
+		<image>./../arcade/snap/usagi.png</image>
+		<video>./../arcade/video/usagi.mp4</video>
+		<marquee>./../arcade/marquee/usagi.png</marquee>
+		<developer>와라시/마작 코베/타이토</developer>
+		<publisher>와라시/마작 코베/타이토</publisher>
+		<genre>보드게임 / 마작</genre>
+		<players/>
+		<releasedate>2001</releasedate>
+	</game>
+	<game>
+		<path>./vaportrxp.zip</path>
+		<name>베이퍼 TRX (시험판)</name>
+		<image>./../arcade/snap/vaportrxp.png</image>
+		<video>./../arcade/video/vaportrxp.mp4</video>
+		<marquee>./../arcade/marquee/vaportrxp.png</marquee>
+		<developer>아타리 게임즈</developer>
+		<publisher>아타리 게임즈</publisher>
+		<genre>운전 / 3인칭</genre>
+		<players>1</players>
+		<releasedate>1998</releasedate>
+	</game>
+	<game>
+		<path>./vf3tb.zip</path>
+		<name>버추어 파이터 3 팀 배틀</name>
+		<image>./../arcade/snap/vf3tb.png</image>
+		<video>./../arcade/video/vf3tb.mp4</video>
+		<marquee>./../arcade/marquee/vf3tb.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>격투 / 대전</genre>
+		<players>1</players>
+		<releasedate>1996</releasedate>
+	</game>
+	<game>
+		<path>./vf4.zip</path>
+		<name>버추어 파이터 4</name>
+		<image>./../arcade/snap/vf4.png</image>
+		<video>./../arcade/video/vf4.mp4</video>
+		<marquee>./../arcade/marquee/vf4.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>격투 / 대전</genre>
+		<players/>
+		<releasedate>2001</releasedate>
+	</game>
+	<game>
+		<path>./vf4b.zip</path>
+		<name>버추어 파이터 4 (개정판 B)(GDS-0012B)</name>
+		<image>./../arcade/snap/vf4b.png</image>
+		<video>./../arcade/video/vf4b.mp4</video>
+		<marquee>./../arcade/marquee/vf4b.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>격투 / 대전</genre>
+		<players/>
+		<releasedate>2001</releasedate>
+	</game>
+	<game>
+		<path>./vf4c.zip</path>
+		<name>버추어 파이터 4 (개정판 C)(GDS-0012C)</name>
+		<image>./../arcade/snap/vf4c.png</image>
+		<video>./../arcade/video/vf4c.mp4</video>
+		<marquee>./../arcade/marquee/vf4c.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>격투 / 대전</genre>
+		<players/>
+		<releasedate>2001</releasedate>
+	</game>
+	<game>
+		<path>./vf4cart.zip</path>
+		<name>버추어 파이터 4</name>
+		<image>./../arcade/snap/vf4cart.png</image>
+		<video>./../arcade/video/vf4cart.mp4</video>
+		<marquee>./../arcade/marquee/vf4cart.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>격투 / 대전</genre>
+		<players/>
+		<releasedate>2001</releasedate>
+	</game>
+	<game>
+		<path>./vf4evo.zip</path>
+		<name>버추어 파이터 4 에볼루션</name>
+		<image>./../arcade/snap/vf4evo.png</image>
+		<video>./../arcade/video/vf4evo.mp4</video>
+		<marquee>./../arcade/marquee/vf4evo.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>격투 / 대전</genre>
+		<players/>
+		<releasedate>2002</releasedate>
+	</game>
+	<game>
+		<path>./vf4evoa.zip</path>
+		<name>버추어 파이터 4 에볼루션 (개정판 A)(GDS-0024A)</name>
+		<image>./../arcade/snap/vf4evoa.png</image>
+		<video>./../arcade/video/vf4evoa.mp4</video>
+		<marquee>./../arcade/marquee/vf4evoa.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>격투 / 대전</genre>
+		<players/>
+		<releasedate>2002</releasedate>
+	</game>
+	<game>
+		<path>./vf4evoct.zip</path>
+		<name>버추어 파이터 4 에볼루션</name>
+		<image>./../arcade/snap/vf4evoct.png</image>
+		<video>./../arcade/video/vf4evoct.mp4</video>
+		<marquee>./../arcade/marquee/vf4evoct.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>격투 / 대전</genre>
+		<players/>
+		<releasedate>2002</releasedate>
+	</game>
+	<game>
+		<path>./vf4tuned.zip</path>
+		<name>버추어 파이터 4 파이널 튠</name>
+		<image>./../arcade/snap/vf4tuned.png</image>
+		<video>./../arcade/video/vf4tuned.mp4</video>
+		<marquee>./../arcade/marquee/vf4tuned.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>격투 / 대전</genre>
+		<players/>
+		<releasedate>2004</releasedate>
+	</game>
+	<game>
+		<path>./vf4tuneda.zip</path>
+		<name>버추어 파이터 4 파이널 튠 (개정판 A)(GDS-0036A)</name>
+		<image>./../arcade/snap/vf4tuneda.png</image>
+		<video>./../arcade/video/vf4tuneda.mp4</video>
+		<marquee>./../arcade/marquee/vf4tuneda.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>격투 / 대전</genre>
+		<players/>
+		<releasedate>2004</releasedate>
+	</game>
+	<game>
+		<path>./vfremix.zip</path>
+		<name>버추어 파이터 리믹스</name>
+		<image>./../arcade/snap/vfremix.png</image>
+		<video>./../arcade/video/vfremix.mp4</video>
+		<marquee>./../arcade/marquee/vfremix.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>격투 / 대전</genre>
+		<players>4</players>
+		<releasedate>1995</releasedate>
+	</game>
+	<game>
+		<path>./viprp1u.zip</path>
+		<name>바이퍼 페이즈 1 (미국판, 신버전)</name>
+		<image>./../arcade/snap/viprp1u.png</image>
+		<video>./../arcade/video/viprp1u.mp4</video>
+		<marquee>./../arcade/marquee/viprp1u.png</marquee>
+		<developer>세이부 개발</developer>
+		<publisher>세이부 개발</publisher>
+		<genre>슈팅 / 수직 비행</genre>
+		<players>2</players>
+		<releasedate>1995</releasedate>
+	</game>
+	<game>
+		<path>./virnba.zip</path>
+		<name>버추어 NBA</name>
+		<image>./../arcade/snap/virnba.png</image>
+		<video>./../arcade/video/virnba.mp4</video>
+		<marquee>./../arcade/marquee/virnba.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠 / 농구</genre>
+		<players/>
+		<releasedate>2000</releasedate>
+	</game>
+	<game>
+		<path>./vs2.zip</path>
+		<name>버추어 스트라이커 2</name>
+		<image>./../arcade/snap/vs2.png</image>
+		<video>./../arcade/video/vs2.mp4</video>
+		<marquee>./../arcade/marquee/vs2.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠 / 축구</genre>
+		<players>1</players>
+		<releasedate>1997</releasedate>
+	</game>
+	<game>
+		<path>./vstetris.zip</path>
+		<name>테트리스</name>
+		<image>./../arcade/snap/vstetris.png</image>
+		<video>./../arcade/video/vstetris.mp4</video>
+		<marquee>./../arcade/marquee/vstetris.png</marquee>
+		<developer>아타리 게임즈</developer>
+		<publisher>아타리 게임즈</publisher>
+		<genre>퍼즐 / 낙하</genre>
+		<players>2</players>
+		<releasedate>1989</releasedate>
+	</game>
+	<game>
+		<path>./vstrik3.zip</path>
+		<name>버추어 스트라이커 3</name>
+		<image>./../arcade/snap/vstrik3.png</image>
+		<video>./../arcade/video/vstrik3.mp4</video>
+		<marquee>./../arcade/marquee/vstrik3.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠 / 축구</genre>
+		<players/>
+		<releasedate>2001</releasedate>
+	</game>
+	<game>
+		<path>./vsyard2.zip</path>
+		<name>10야드 파이트 (일본판)</name>
+		<image>./../arcade/snap/vsyard2.png</image>
+		<video>./../arcade/video/vsyard2.mp4</video>
+		<marquee>./../arcade/marquee/vsyard2.png</marquee>
+		<developer>아이렘</developer>
+		<publisher>아이렘</publisher>
+		<genre>스포츠 / 미식 축구</genre>
+		<players/>
+		<releasedate>1984</releasedate>
+	</game>
+	<game>
+		<path>./vtenis2c.zip</path>
+		<name>파워 스매시 2 / 버추어 테니스 2</name>
+		<image>./../arcade/snap/vtenis2c.png</image>
+		<video>./../arcade/video/vtenis2c.mp4</video>
+		<marquee>./../arcade/marquee/vtenis2c.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠 / 테니스</genre>
+		<players/>
+		<releasedate>2001</releasedate>
+	</game>
+	<game>
+		<path>./vtennis.zip</path>
+		<name>파워스매시</name>
+		<image>./../arcade/snap/vtennis.png</image>
+		<video>./../arcade/video/vtennis.mp4</video>
+		<marquee>./../arcade/marquee/vtennis.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠 / 테니스</genre>
+		<players/>
+		<releasedate>1999</releasedate>
+	</game>
+	<game>
+		<path>./vtennis2.zip</path>
+		<name>버추어 테니스 2</name>
+		<image>./../arcade/snap/vtennis2.png</image>
+		<video>./../arcade/video/vtennis2.mp4</video>
+		<marquee>./../arcade/marquee/vtennis2.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠 / 테니스</genre>
+		<players/>
+		<releasedate>2001</releasedate>
+	</game>
+	<game>
+		<path>./wldarrow.zip</path>
+		<name>와일드 애로우</name>
+		<image>./../arcade/snap/wldarrow.png</image>
+		<video>./../arcade/video/wldarrow.mp4</video>
+		<marquee>./../arcade/marquee/wldarrow.png</marquee>
+		<developer>메이코 게임즈</developer>
+		<publisher>메이코 게임즈</publisher>
+		<genre>카지노 / 슬롯</genre>
+		<players>1</players>
+		<releasedate>1982</releasedate>
+	</game>
+	<game>
+		<path>./wrestwa2.zip</path>
+		<name>레슬 워 (세트 2, 세계판, FD1094 317-0102)</name>
+		<image>./../arcade/snap/wrestwa2.png</image>
+		<video>./../arcade/video/wrestwa2.mp4</video>
+		<marquee>./../arcade/marquee/wrestwa2.png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠 / 레슬링</genre>
+		<players/>
+		<releasedate>1991</releasedate>
+	</game>
+	<game>
+		<path>./wwfmaniab.zip</path>
+		<name>WWF - 레슬매니아 (개정판 1.20 08/02/95)</name>
+		<image>./../arcade/snap/wwfmaniab.png</image>
+		<video>./../arcade/video/wwfmaniab.mp4</video>
+		<marquee>./../arcade/marquee/wwfmaniab.png</marquee>
+		<developer>미드웨이</developer>
+		<publisher>미드웨이</publisher>
+		<genre>스포츠 / 레슬링</genre>
+		<players>2</players>
+		<releasedate>1995</releasedate>
+	</game>
+	<game>
+		<path>./xtrial.zip</path>
+		<name>엑스트라이얼 레이싱</name>
+		<image>./../arcade/snap/xtrial.png</image>
+		<video>./../arcade/video/xtrial.mp4</video>
+		<marquee>./../arcade/marquee/xtrial.png</marquee>
+		<developer>코나미</developer>
+		<publisher>코나미</publisher>
+		<genre>운전 / 3인칭</genre>
+		<players/>
+		<releasedate>2002</releasedate>
+	</game>
+	<game>
+		<path>./zokuoten.zip</path>
+		<name>조쿠 솜씨가 어떤지 좀 봅시다</name>
+		<image>./../arcade/snap/zokuoten.png</image>
+		<video>./../arcade/video/zokuoten.mp4</video>
+		<marquee>./../arcade/marquee/zokuoten.png</marquee>
+		<developer>석세스</developer>
+		<publisher>석세스</publisher>
+		<genre>퍼즐 / 미니게임</genre>
+		<players/>
+		<releasedate>2000</releasedate>
 	</game>
 </gameList>

@@ -1,19 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<!--
-* 제목 : 레트로게임 롬 목록 한글화 프로젝트
-* 지원프론트엔드 : RetroPie, Recalbox, Attract-Mode
-* 지원에뮬 : Arcade(MAME, AdvMAME, FBNeo), NES, SNES, MD, GB, GBC, GBA, PCE, SMS, Sega 32X, NGP, NGPC, WS, WSC
-* 제작자 : 텐타클 팀
-* 최종수정 : August 8, 2020
-* 카페 : http://cafe.naver.com/raspigamer
-* 레트로게임 롬 목록 한글화 자료는 오픈소스입니다. MIT 라이센스를 따르고 있으므로 라이센스와 출처(http://cafe.naver.com/raspigamer) 표시만 지켜주시면 자유롭게 사용하실 수 있습니다.
--->
 	<game>
 		<path>./10-Yard Fight (Japan) (Alt 1).zip</path>
 		<name>10 야드 파이트 (대체 1)</name>
 		<image>./snap/10-Yard Fight (Japan) (Alt 1).png</image>
-		<video>./video/10-Yard Fight (Japan) (Alt 1).mp4</video>
+		<video>./video/10-Yard Fight (Japan).mp4</video>
 		<marquee>./marquee/10-Yard Fight (Japan) (Alt 1).png</marquee>
 		<developer>아이렘</developer>
 		<publisher>아이렘</publisher>
@@ -39,7 +30,7 @@
 		<path>./1942 (Japan) (Alt 1).zip</path>
 		<name>1942 (대체 1)</name>
 		<image>./snap/1942 (Japan) (Alt 1).png</image>
-		<video>./video/1942 (Japan) (Alt 1).mp4</video>
+		<video>./video/1942 (Japan).mp4</video>
 		<marquee>./marquee/1942 (Japan) (Alt 1).png</marquee>
 		<developer>캡콤</developer>
 		<publisher>아스키</publisher>
@@ -65,7 +56,7 @@
 		<path>./3-D Golf Simulation (Japan) (Alt 1).zip</path>
 		<name>3D 골프 시뮬레이션 (대체 1)</name>
 		<image>./snap/3-D Golf Simulation (Japan) (Alt 1).png</image>
-		<video>./video/3-D Golf Simulation (Japan) (Alt 1).mp4</video>
+		<video>./video/3-D Golf Simulation (Japan).mp4</video>
 		<marquee>./marquee/3-D Golf Simulation (Japan) (Alt 1).png</marquee>
 		<developer>T&amp;E 소프트</developer>
 		<publisher>T&amp;E 소프트</publisher>
@@ -78,7 +69,7 @@
 		<path>./3-D Golf Simulation (Japan) (High Speed).zip</path>
 		<name>3D 골프 시뮬레이션 (속도 업)</name>
 		<image>./snap/3-D Golf Simulation (Japan) (High Speed).png</image>
-		<video>./video/3-D Golf Simulation (Japan) (High Speed).mp4</video>
+		<video>./video/3-D Golf Simulation (Japan).mp4</video>
 		<marquee>./marquee/3-D Golf Simulation (Japan) (High Speed).png</marquee>
 		<developer>T&amp;E 소프트</developer>
 		<publisher>T&amp;E 소프트</publisher>
@@ -143,7 +134,7 @@
 		<path>./A1 Spirit - The Way to Formula-1 (Japan).zip</path>
 		<name>A1 스피릿 - 포뮬러1으로 향하는 길</name>
 		<image>./snap/A1 Spirit - The Way to Formula-1 (Japan).png</image>
-		<video>./video/A1 Spirit - The Way to Formula-1 (Japan).mp4</video>
+		<video>./video/F-1 Spirit - The Way to Formula-1 (Japan).mp4</video>
 		<marquee>./marquee/A1 Spirit - The Way to Formula-1 (Japan).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -169,7 +160,7 @@
 		<path>./Actman (Japan) (Alt 1).zip</path>
 		<name>액트맨 (대체 1)</name>
 		<image>./snap/Actman (Japan) (Alt 1).png</image>
-		<video>./video/Actman (Japan) (Alt 1).mp4</video>
+		<video>./video/Actman (Japan).mp4</video>
 		<marquee>./marquee/Actman (Japan) (Alt 1).png</marquee>
 		<developer>매스 타엘</developer>
 		<publisher>아스키</publisher>
@@ -206,7 +197,7 @@
 	</game>
 	<game>
 		<path>./Albatros (Japan) (Alt 1).zip</path>
-		<name>알바트로스 (대체 1)</name>
+		<name>알바트로스</name>
 		<image>./snap/Albatros (Japan) (Alt 1).png</image>
 		<video>./video/Albatros (Japan) (Alt 1).mp4</video>
 		<marquee>./marquee/Albatros (Japan) (Alt 1).png</marquee>
@@ -221,7 +212,7 @@
 		<path>./Albatros (Japan).zip</path>
 		<name>알바트로스</name>
 		<image>./snap/Albatros (Japan).png</image>
-		<video>./video/Albatros (Japan).mp4</video>
+		<video>./video/Albatros (Japan) (Alt 1).mp4</video>
 		<marquee>./marquee/Albatros (Japan).png</marquee>
 		<developer>텔넷 저팬</developer>
 		<publisher>텔넷 저팬</publisher>
@@ -234,7 +225,7 @@
 		<path>./Alcazar - The Forgotten Fortress (Japan) (Alt 1).zip</path>
 		<name>알카자르 - 잊혀진 요세 (대체 1)</name>
 		<image>./snap/Alcazar - The Forgotten Fortress (Japan) (Alt 1).png</image>
-		<video>./video/Alcazar - The Forgotten Fortress (Japan) (Alt 1).mp4</video>
+		<video>./video/Alcazar - The Forgotten Fortress (Japan).mp4</video>
 		<marquee>./marquee/Alcazar - The Forgotten Fortress (Japan) (Alt 1).png</marquee>
 		<developer>액티비전</developer>
 		<publisher>액티비전</publisher>
@@ -286,7 +277,7 @@
 		<path>./Alibaba and 40 Thieves (Japan) (Alt 1).zip</path>
 		<name>알리바바와 40인의 도둑 (대체 1)</name>
 		<image>./snap/Alibaba and 40 Thieves (Japan) (Alt 1).png</image>
-		<video>./video/Alibaba and 40 Thieves (Japan) (Alt 1).mp4</video>
+		<video>./video/Alibaba and 40 Thieves (Japan).mp4</video>
 		<marquee>./marquee/Alibaba and 40 Thieves (Japan) (Alt 1).png</marquee>
 		<developer>ICM</developer>
 		<publisher>소니</publisher>
@@ -299,7 +290,7 @@
 		<path>./Alibaba and 40 Thieves (Japan) (Alt 2).zip</path>
 		<name>알리바바와 40인의 도둑 (대체 2)</name>
 		<image>./snap/Alibaba and 40 Thieves (Japan) (Alt 2).png</image>
-		<video>./video/Alibaba and 40 Thieves (Japan) (Alt 2).mp4</video>
+		<video>./video/Alibaba and 40 Thieves (Japan).mp4</video>
 		<marquee>./marquee/Alibaba and 40 Thieves (Japan) (Alt 2).png</marquee>
 		<developer>ICM</developer>
 		<publisher>소니</publisher>
@@ -325,7 +316,7 @@
 		<path>./Alien 8 (Japan) (Alt 1).zip</path>
 		<name>에일리언 8 (대체 1)</name>
 		<image>./snap/Alien 8 (Japan) (Alt 1).png</image>
-		<video>./video/Alien 8 (Japan) (Alt 1).mp4</video>
+		<video>./video/Alien 8 (Japan).mp4</video>
 		<marquee>./marquee/Alien 8 (Japan) (Alt 1).png</marquee>
 		<developer>애쉬비 컴퓨터 앤 그리픽스</developer>
 		<publisher>니폰 덱스터</publisher>
@@ -351,7 +342,7 @@
 		<path>./Aliens - Alien 2 (Japan) (Alt 1).zip</path>
 		<name>에일리언즈 - 에일리언 2 (대체 1)</name>
 		<image>./snap/Aliens - Alien 2 (Japan) (Alt 1).png</image>
-		<video>./video/Aliens - Alien 2 (Japan) (Alt 1).mp4</video>
+		<video>./video/Aliens - Alien 2 (Japan).mp4</video>
 		<marquee>./marquee/Aliens - Alien 2 (Japan) (Alt 1).png</marquee>
 		<developer>스퀘어</developer>
 		<publisher>스퀘어</publisher>
@@ -364,7 +355,7 @@
 		<path>./Aliens - Alien 2 (Japan) (Alt 2).zip</path>
 		<name>에일리언즈 - 에일리언 2 (대체 2)</name>
 		<image>./snap/Aliens - Alien 2 (Japan) (Alt 2).png</image>
-		<video>./video/Aliens - Alien 2 (Japan) (Alt 2).mp4</video>
+		<video>./video/Aliens - Alien 2 (Japan).mp4</video>
 		<marquee>./marquee/Aliens - Alien 2 (Japan) (Alt 2).png</marquee>
 		<developer>스퀘어</developer>
 		<publisher>스퀘어</publisher>
@@ -390,7 +381,7 @@
 		<path>./Alpha Roid (Japan) (Alt 1).zip</path>
 		<name>알파로이드 (대체 1)</name>
 		<image>./snap/Alpha Roid (Japan) (Alt 1).png</image>
-		<video>./video/Alpha Roid (Japan) (Alt 1).mp4</video>
+		<video>./video/Alpha Roid (Japan).mp4</video>
 		<marquee>./marquee/Alpha Roid (Japan) (Alt 1).png</marquee>
 		<developer>포니</developer>
 		<publisher>포니 캐년</publisher>
@@ -442,7 +433,7 @@
 		<path>./American Truck (Japan) (Alt 1).zip</path>
 		<name>아메리칸 트럭 (대체 1)</name>
 		<image>./snap/American Truck (Japan) (Alt 1).png</image>
-		<video>./video/American Truck (Japan) (Alt 1).mp4</video>
+		<video>./video/American Truck (Japan).mp4</video>
 		<marquee>./marquee/American Truck (Japan) (Alt 1).png</marquee>
 		<developer>텔넷 저팬</developer>
 		<publisher>텔넷 저팬</publisher>
@@ -455,7 +446,7 @@
 		<path>./American Truck (Japan) (Alt 2).zip</path>
 		<name>아메리칸 트럭 (대체 2)</name>
 		<image>./snap/American Truck (Japan) (Alt 2).png</image>
-		<video>./video/American Truck (Japan) (Alt 2).mp4</video>
+		<video>./video/American Truck (Japan).mp4</video>
 		<marquee>./marquee/American Truck (Japan) (Alt 2).png</marquee>
 		<developer>텔넷 저팬</developer>
 		<publisher>텔넷 저팬</publisher>
@@ -494,7 +485,7 @@
 		<path>./Angelo (Japan) (Alt 1).zip</path>
 		<name>안젤로 (대체 1)</name>
 		<image>./snap/Angelo (Japan) (Alt 1).png</image>
-		<video>./video/Angelo (Japan) (Alt 1).mp4</video>
+		<video>./video/Angelo (Japan).mp4</video>
 		<marquee>./marquee/Angelo (Japan) (Alt 1).png</marquee>
 		<developer>매스 타엘</developer>
 		<publisher>아스키</publisher>
@@ -533,7 +524,7 @@
 		<path>./Antarctic Adventure (Europe) (Alt 1).zip</path>
 		<name>남극탐험 (유럽판)(대체 1)</name>
 		<image>./snap/Antarctic Adventure (Europe) (Alt 1).png</image>
-		<video>./video/Antarctic Adventure (Europe) (Alt 1).mp4</video>
+		<video>./video/Antarctic Adventure (Europe).mp4</video>
 		<marquee>./marquee/Antarctic Adventure (Europe) (Alt 1).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -544,7 +535,7 @@
 	</game>
 	<game>
 		<path>./Antarctic Adventure (Europe).zip</path>
-		<name>남극탐험 (유럽판)</name>
+		<name>남극탐험</name>
 		<image>./snap/Antarctic Adventure (Europe).png</image>
 		<video>./video/Antarctic Adventure (Europe).mp4</video>
 		<marquee>./marquee/Antarctic Adventure (Europe).png</marquee>
@@ -559,7 +550,7 @@
 		<path>./Antarctic Adventure (Japan).zip</path>
 		<name>남극탐험</name>
 		<image>./snap/Antarctic Adventure (Japan).png</image>
-		<video>./video/Antarctic Adventure (Japan).mp4</video>
+		<video>./video/Antarctic Adventure (Europe).mp4</video>
 		<marquee>./marquee/Antarctic Adventure (Japan).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -572,7 +563,7 @@
 		<path>./Anty (Japan) (Alt 1).zip</path>
 		<name>앤티 (대체 1)</name>
 		<image>./snap/Anty (Japan) (Alt 1).png</image>
-		<video>./video/Anty (Japan) (Alt 1).mp4</video>
+		<video>./video/Anty (Japan).mp4</video>
 		<marquee>./marquee/Anty (Japan) (Alt 1).png</marquee>
 		<developer>아스키</developer>
 		<publisher>보스텍</publisher>
@@ -663,7 +654,7 @@
 		<path>./Arctic - Active Rail Playing (Japan) (Alt 1).zip</path>
 		<name>아크틱 (대체 1)</name>
 		<image>./snap/Arctic - Active Rail Playing (Japan) (Alt 1).png</image>
-		<video>./video/Arctic - Active Rail Playing (Japan) (Alt 1).mp4</video>
+		<video>./video/Arctic - Active Rail Playing (Japan).mp4</video>
 		<marquee>./marquee/Arctic - Active Rail Playing (Japan) (Alt 1).png</marquee>
 		<developer/>
 		<publisher/>
@@ -689,7 +680,7 @@
 		<path>./Arkanoid (Japan) (Alt 1).zip</path>
 		<name>알카노이드 (대체 1)</name>
 		<image>./snap/Arkanoid (Japan) (Alt 1).png</image>
-		<video>./video/Arkanoid (Japan) (Alt 1).mp4</video>
+		<video>./video/Arkanoid (Japan).mp4</video>
 		<marquee>./marquee/Arkanoid (Japan) (Alt 1).png</marquee>
 		<developer>타이토</developer>
 		<publisher>타이토</publisher>
@@ -702,7 +693,7 @@
 		<path>./Arkanoid (Japan) (Alt 2).zip</path>
 		<name>알카노이드 (대체 2)</name>
 		<image>./snap/Arkanoid (Japan) (Alt 2).png</image>
-		<video>./video/Arkanoid (Japan) (Alt 2).mp4</video>
+		<video>./video/Arkanoid (Japan).mp4</video>
 		<marquee>./marquee/Arkanoid (Japan) (Alt 2).png</marquee>
 		<developer>타이토</developer>
 		<publisher>타이토</publisher>
@@ -715,7 +706,7 @@
 		<path>./Arkanoid (Japan) (Alt 3).zip</path>
 		<name>알카노이드 (대체 3)</name>
 		<image>./snap/Arkanoid (Japan) (Alt 3).png</image>
-		<video>./video/Arkanoid (Japan) (Alt 3).mp4</video>
+		<video>./video/Arkanoid (Japan).mp4</video>
 		<marquee>./marquee/Arkanoid (Japan) (Alt 3).png</marquee>
 		<developer>타이토</developer>
 		<publisher>타이토</publisher>
@@ -806,7 +797,7 @@
 		<path>./Athletic Land (Japan) (Alt 1).zip</path>
 		<name>어슬레틱 랜드 (대체 1)</name>
 		<image>./snap/Athletic Land (Japan) (Alt 1).png</image>
-		<video>./video/Athletic Land (Japan) (Alt 1).mp4</video>
+		<video>./video/Athletic Land (Japan).mp4</video>
 		<marquee>./marquee/Athletic Land (Japan) (Alt 1).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -819,7 +810,7 @@
 		<path>./Athletic Land (Japan) (Beta).zip</path>
 		<name>어슬레틱 랜드 (베타)</name>
 		<image>./snap/Athletic Land (Japan) (Beta).png</image>
-		<video>./video/Athletic Land (Japan) (Beta).mp4</video>
+		<video>./video/Athletic Land (Japan).mp4</video>
 		<marquee>./marquee/Athletic Land (Japan) (Beta).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -858,7 +849,7 @@
 		<path>./B.C.'s Quest (Japan) (Alt 1).zip</path>
 		<name>기원전 타이어탐구 (대체 1)</name>
 		<image>./snap/B.C.'s Quest (Japan) (Alt 1).png</image>
-		<video>./video/B.C.'s Quest (Japan) (Alt 1).mp4</video>
+		<video>./video/B.C.'s Quest (Japan).mp4</video>
 		<marquee>./marquee/B.C.'s Quest (Japan) (Alt 1).png</marquee>
 		<developer>도시바 EMI</developer>
 		<publisher>도시바 EMI</publisher>
@@ -884,7 +875,7 @@
 		<path>./Back Gammon (Japan) (Alt 1).zip</path>
 		<name>백 가몬 (대체 1)</name>
 		<image>./snap/Back Gammon (Japan) (Alt 1).png</image>
-		<video>./video/Back Gammon (Japan) (Alt 1).mp4</video>
+		<video>./video/Back Gammon (Japan).mp4</video>
 		<marquee>./marquee/Back Gammon (Japan) (Alt 1).png</marquee>
 		<developer>아타리 게임즈</developer>
 		<publisher>아타리 게임즈</publisher>
@@ -910,7 +901,7 @@
 		<path>./Back to the Future (Japan) (Alt 1).zip</path>
 		<name>백 투더 퓨쳐 (대체 1)</name>
 		<image>./snap/Back to the Future (Japan) (Alt 1).png</image>
-		<video>./video/Back to the Future (Japan) (Alt 1).mp4</video>
+		<video>./video/Back to the Future (Japan).mp4</video>
 		<marquee>./marquee/Back to the Future (Japan) (Alt 1).png</marquee>
 		<developer>빔 소프트웨어</developer>
 		<publisher>LJN</publisher>
@@ -934,7 +925,7 @@
 	</game>
 	<game>
 		<path>./Backgammon (Europe).zip</path>
-		<name>백게먼 (유럽판)</name>
+		<name>백게먼</name>
 		<image>./snap/Backgammon (Europe).png</image>
 		<video>./video/Backgammon (Europe).mp4</video>
 		<marquee>./marquee/Backgammon (Europe).png</marquee>
@@ -949,7 +940,7 @@
 		<path>./Balance (Japan) (Alt 1).zip</path>
 		<name>밸런스 (대체 1)</name>
 		<image>./snap/Balance (Japan) (Alt 1).png</image>
-		<video>./video/Balance (Japan) (Alt 1).mp4</video>
+		<video>./video/Balance (Japan).mp4</video>
 		<marquee>./marquee/Balance (Japan) (Alt 1).png</marquee>
 		<developer>사이버로직</developer>
 		<publisher>킹소프트</publisher>
@@ -962,7 +953,7 @@
 		<path>./Balance (Japan) (Alt 2).zip</path>
 		<name>밸런스 (대체 2)</name>
 		<image>./snap/Balance (Japan) (Alt 2).png</image>
-		<video>./video/Balance (Japan) (Alt 2).mp4</video>
+		<video>./video/Balance (Japan).mp4</video>
 		<marquee>./marquee/Balance (Japan) (Alt 2).png</marquee>
 		<developer>사이버로직</developer>
 		<publisher>킹소프트</publisher>
@@ -975,7 +966,7 @@
 		<path>./Balance (Japan) (Alt 3).zip</path>
 		<name>밸런스 (대체 3)</name>
 		<image>./snap/Balance (Japan) (Alt 3).png</image>
-		<video>./video/Balance (Japan) (Alt 3).mp4</video>
+		<video>./video/Balance (Japan).mp4</video>
 		<marquee>./marquee/Balance (Japan) (Alt 3).png</marquee>
 		<developer>사이버로직</developer>
 		<publisher>킹소프트</publisher>
@@ -988,7 +979,7 @@
 		<path>./Balance (Japan) (Alt 4).zip</path>
 		<name>밸런스</name>
 		<image>./snap/Balance (Japan) (Alt 4).png</image>
-		<video>./video/Balance (Japan) (Alt 4).mp4</video>
+		<video>./video/Balance (Japan).mp4</video>
 		<marquee>./marquee/Balance (Japan) (Alt 4).png</marquee>
 		<developer>사이버로직</developer>
 		<publisher>킹소프트</publisher>
@@ -1027,7 +1018,7 @@
 		<path>./Bank Panic (Japan) (Alt 1).zip</path>
 		<name>은행강도 / 뱅크패닉 (대체 1)</name>
 		<image>./snap/Bank Panic (Japan) (Alt 1).png</image>
-		<video>./video/Bank Panic (Japan) (Alt 1).mp4</video>
+		<video>./video/Bank Panic (Japan).mp4</video>
 		<marquee>./marquee/Bank Panic (Japan) (Alt 1).png</marquee>
 		<developer>삼입전기</developer>
 		<publisher>포니 캐년</publisher>
@@ -1090,7 +1081,7 @@
 	</game>
 	<game>
 		<path>./Batten Tanuki no Daibouken (Japan) (Alt 1).zip</path>
-		<name>벌점 너구리 대모험 (대체 1)</name>
+		<name>벌점 너구리 대모험</name>
 		<image>./snap/Batten Tanuki no Daibouken (Japan) (Alt 1).png</image>
 		<video>./video/Batten Tanuki no Daibouken (Japan) (Alt 1).mp4</video>
 		<marquee>./marquee/Batten Tanuki no Daibouken (Japan) (Alt 1).png</marquee>
@@ -1105,7 +1096,7 @@
 		<path>./Batten Tanuki no Daibouken (Japan) (Alt 2).zip</path>
 		<name>벌점 너구리 대모험 (대체 2)</name>
 		<image>./snap/Batten Tanuki no Daibouken (Japan) (Alt 2).png</image>
-		<video>./video/Batten Tanuki no Daibouken (Japan) (Alt 2).mp4</video>
+		<video>./video/Batten Tanuki no Daibouken (Japan) (Alt 1).mp4</video>
 		<marquee>./marquee/Batten Tanuki no Daibouken (Japan) (Alt 2).png</marquee>
 		<developer>테크노 소프트</developer>
 		<publisher>테크노 소프트</publisher>
@@ -1118,7 +1109,7 @@
 		<path>./Batten Tanuki no Daibouken (Japan) (v1.03).zip</path>
 		<name>벌점 너구리 대모험 (v1.03)</name>
 		<image>./snap/Batten Tanuki no Daibouken (Japan) (v1.03).png</image>
-		<video>./video/Batten Tanuki no Daibouken (Japan) (v1.03).mp4</video>
+		<video>./video/Batten Tanuki no Daibouken (Japan) (Alt 1).mp4</video>
 		<marquee>./marquee/Batten Tanuki no Daibouken (Japan) (v1.03).png</marquee>
 		<developer>테크노 소프트</developer>
 		<publisher>테크노 소프트</publisher>
@@ -1144,7 +1135,7 @@
 		<path>./Battleship Clapton II (Japan) (Alt 1).zip</path>
 		<name>배틀쉽 클랩톤 2 (대체 1)</name>
 		<image>./snap/Battleship Clapton II (Japan) (Alt 1).png</image>
-		<video>./video/Battleship Clapton II (Japan) (Alt 1).mp4</video>
+		<video>./video/Battleship Clapton II (Japan).mp4</video>
 		<marquee>./marquee/Battleship Clapton II (Japan) (Alt 1).png</marquee>
 		<developer>T&amp;E 소프트</developer>
 		<publisher>T&amp;E 소프트</publisher>
@@ -1168,7 +1159,7 @@
 	</game>
 	<game>
 		<path>./Beach-Head (Europe).zip</path>
-		<name>비치 헤드 (유럽판)</name>
+		<name>비치 헤드</name>
 		<image>./snap/Beach-Head (Europe).png</image>
 		<video>./video/Beach-Head (Europe).mp4</video>
 		<marquee>./marquee/Beach-Head (Europe).png</marquee>
@@ -1183,7 +1174,7 @@
 		<path>./Beam Rider (Japan) (Alt 1).zip</path>
 		<name>빔 라이더 (대체 1)</name>
 		<image>./snap/Beam Rider (Japan) (Alt 1).png</image>
-		<video>./video/Beam Rider (Japan) (Alt 1).mp4</video>
+		<video>./video/Beam Rider (Japan).mp4</video>
 		<marquee>./marquee/Beam Rider (Japan) (Alt 1).png</marquee>
 		<developer>포니 캐년</developer>
 		<publisher>액티비전</publisher>
@@ -1209,7 +1200,7 @@
 		<path>./Becky (Japan) (Alt 1).zip</path>
 		<name>베키 (대체 1)</name>
 		<image>./snap/Becky (Japan) (Alt 1).png</image>
-		<video>./video/Becky (Japan) (Alt 1).mp4</video>
+		<video>./video/Becky (Japan).mp4</video>
 		<marquee>./marquee/Becky (Japan) (Alt 1).png</marquee>
 		<developer>MIA</developer>
 		<publisher>MIA</publisher>
@@ -1222,7 +1213,7 @@
 		<path>./Becky (Japan) (Alt 2).zip</path>
 		<name>베키 (대체 2)</name>
 		<image>./snap/Becky (Japan) (Alt 2).png</image>
-		<video>./video/Becky (Japan) (Alt 2).mp4</video>
+		<video>./video/Becky (Japan).mp4</video>
 		<marquee>./marquee/Becky (Japan) (Alt 2).png</marquee>
 		<developer>MIA</developer>
 		<publisher>MIA</publisher>
@@ -1248,7 +1239,7 @@
 		<path>./Bee &amp; Flower (Japan) (Alt 1).zip</path>
 		<name>벌과 꽃 (대체 1)</name>
 		<image>./snap/Bee &amp; Flower (Japan) (Alt 1).png</image>
-		<video>./video/Bee &amp; Flower (Japan) (Alt 1).mp4</video>
+		<video>./video/Bee &amp; Flower (Japan).mp4</video>
 		<marquee>./marquee/Bee &amp; Flower (Japan) (Alt 1).png</marquee>
 		<developer>컴파일</developer>
 		<publisher>팅크 소프트</publisher>
@@ -1261,7 +1252,7 @@
 		<path>./Bee &amp; Flower (Japan) (Alt 2).zip</path>
 		<name>벌과 꽃 (대체 2)</name>
 		<image>./snap/Bee &amp; Flower (Japan) (Alt 2).png</image>
-		<video>./video/Bee &amp; Flower (Japan) (Alt 2).mp4</video>
+		<video>./video/Bee &amp; Flower (Japan).mp4</video>
 		<marquee>./marquee/Bee &amp; Flower (Japan) (Alt 2).png</marquee>
 		<developer>컴파일</developer>
 		<publisher>팅크 소프트</publisher>
@@ -1287,7 +1278,7 @@
 		<path>./Bifamu (Japan) (Alt 1).zip</path>
 		<name>비파무 / 은하전설 바이팜 (대체 1)</name>
 		<image>./snap/Bifamu (Japan) (Alt 1).png</image>
-		<video>./video/Bifamu (Japan) (Alt 1).mp4</video>
+		<video>./video/Bifamu (Japan).mp4</video>
 		<marquee>./marquee/Bifamu (Japan) (Alt 1).png</marquee>
 		<developer>반다이</developer>
 		<publisher>반다이</publisher>
@@ -1350,7 +1341,7 @@
 	</game>
 	<game>
 		<path>./Blagger MSX (Europe) (Converted from Tape).zip</path>
-		<name>블래거 (유럽판)(테이프에서 변환)</name>
+		<name>블래거</name>
 		<image>./snap/Blagger MSX (Europe) (Converted from Tape).png</image>
 		<video>./video/Blagger MSX (Europe) (Converted from Tape).mp4</video>
 		<marquee>./marquee/Blagger MSX (Europe) (Converted from Tape).png</marquee>
@@ -1363,7 +1354,7 @@
 	</game>
 	<game>
 		<path>./Block Hole (Korea) (Unl).zip</path>
-		<name>블럭홀 (한국판)(해적판)</name>
+		<name>블럭홀</name>
 		<image>./snap/Block Hole (Korea) (Unl).png</image>
 		<video>./video/Block Hole (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Block Hole (Korea) (Unl).png</marquee>
@@ -1391,7 +1382,7 @@
 		<path>./Boggy '84 (Japan) (Alt 1).zip</path>
 		<name>보기 84 (대체 1)</name>
 		<image>./snap/Boggy '84 (Japan) (Alt 1).png</image>
-		<video>./video/Boggy '84 (Japan) (Alt 1).mp4</video>
+		<video>./video/Boggy '84 (Japan).mp4</video>
 		<marquee>./marquee/Boggy '84 (Japan) (Alt 1).png</marquee>
 		<developer>니폰 콜롬비아</developer>
 		<publisher>소니</publisher>
@@ -1404,7 +1395,7 @@
 		<path>./Boggy '84 (Japan) (Alt 2).zip</path>
 		<name>보기 84 (대체 2)</name>
 		<image>./snap/Boggy '84 (Japan) (Alt 2).png</image>
-		<video>./video/Boggy '84 (Japan) (Alt 2).mp4</video>
+		<video>./video/Boggy '84 (Japan).mp4</video>
 		<marquee>./marquee/Boggy '84 (Japan) (Alt 2).png</marquee>
 		<developer>니폰 콜롬비아</developer>
 		<publisher>소니</publisher>
@@ -1428,7 +1419,7 @@
 	</game>
 	<game>
 		<path>./Boing Boing (Spain).zip</path>
-		<name>보잉 보잉 (스페인판)</name>
+		<name>보잉 보잉</name>
 		<image>./snap/Boing Boing (Spain).png</image>
 		<video>./video/Boing Boing (Spain).mp4</video>
 		<marquee>./marquee/Boing Boing (Spain).png</marquee>
@@ -1443,7 +1434,7 @@
 		<path>./Bokosuka Wars (Japan) (Alt 1).zip</path>
 		<name>보코즈카 전쟁 (대체 1)</name>
 		<image>./snap/Bokosuka Wars (Japan) (Alt 1).png</image>
-		<video>./video/Bokosuka Wars (Japan) (Alt 1).mp4</video>
+		<video>./video/Bokosuka Wars (Japan).mp4</video>
 		<marquee>./marquee/Bokosuka Wars (Japan) (Alt 1).png</marquee>
 		<developer>아스키</developer>
 		<publisher>아스키</publisher>
@@ -1508,7 +1499,7 @@
 		<path>./Boogie Woogi Jungle (Japan) (Alt 1).zip</path>
 		<name>부기 우기 정글 (대체 1)</name>
 		<image>./snap/Boogie Woogi Jungle (Japan) (Alt 1).png</image>
-		<video>./video/Boogie Woogi Jungle (Japan) (Alt 1).mp4</video>
+		<video>./video/Boogie Woogi Jungle (Japan).mp4</video>
 		<marquee>./marquee/Boogie Woogi Jungle (Japan) (Alt 1).png</marquee>
 		<developer>앰플 소프트웨어</developer>
 		<publisher>앰플 소프트웨어</publisher>
@@ -1521,7 +1512,7 @@
 		<path>./Boogie Woogi Jungle (Japan) (Alt 2).zip</path>
 		<name>부기 우기 정글 (대체 2)</name>
 		<image>./snap/Boogie Woogi Jungle (Japan) (Alt 2).png</image>
-		<video>./video/Boogie Woogi Jungle (Japan) (Alt 2).mp4</video>
+		<video>./video/Boogie Woogi Jungle (Japan).mp4</video>
 		<marquee>./marquee/Boogie Woogi Jungle (Japan) (Alt 2).png</marquee>
 		<developer>앰플 소프트웨어</developer>
 		<publisher>앰플 소프트웨어</publisher>
@@ -1547,7 +1538,7 @@
 		<path>./Boomerang (Japan) (Alt 1).zip</path>
 		<name>부메랑 (대체 1)</name>
 		<image>./snap/Boomerang (Japan) (Alt 1).png</image>
-		<video>./video/Boomerang (Japan) (Alt 1).mp4</video>
+		<video>./video/Boomerang (Japan).mp4</video>
 		<marquee>./marquee/Boomerang (Japan) (Alt 1).png</marquee>
 		<developer>선소프트</developer>
 		<publisher>아스키</publisher>
@@ -1586,7 +1577,7 @@
 		<path>./Bosconian (Japan) (Alt 1).zip</path>
 		<name>보스코니안 (대체 1)</name>
 		<image>./snap/Bosconian (Japan) (Alt 1).png</image>
-		<video>./video/Bosconian (Japan) (Alt 1).mp4</video>
+		<video>./video/Bosconian (Japan).mp4</video>
 		<marquee>./marquee/Bosconian (Japan) (Alt 1).png</marquee>
 		<developer>남콧</developer>
 		<publisher>남콧</publisher>
@@ -1599,7 +1590,7 @@
 		<path>./Bosconian (Japan) (Alt 2).zip</path>
 		<name>보스코니안 (대체 2)</name>
 		<image>./snap/Bosconian (Japan) (Alt 2).png</image>
-		<video>./video/Bosconian (Japan) (Alt 2).mp4</video>
+		<video>./video/Bosconian (Japan).mp4</video>
 		<marquee>./marquee/Bosconian (Japan) (Alt 2).png</marquee>
 		<developer>남콧</developer>
 		<publisher>남콧</publisher>
@@ -1625,7 +1616,7 @@
 		<path>./Bouken Roman - Dota (Japan) (Alt 1).zip</path>
 		<name>모험 낭만 (대체 1)</name>
 		<image>./snap/Bouken Roman - Dota (Japan) (Alt 1).png</image>
-		<video>./video/Bouken Roman - Dota (Japan) (Alt 1).mp4</video>
+		<video>./video/Bouken Roman - Dota (Japan).mp4</video>
 		<marquee>./marquee/Bouken Roman - Dota (Japan) (Alt 1).png</marquee>
 		<developer>시스템소프트</developer>
 		<publisher>시스템소프트</publisher>
@@ -1664,7 +1655,7 @@
 		<path>./Bouncing Block (Spain) (Alt 1).zip</path>
 		<name>바운싱 블록 (스페인판)(대체 1)</name>
 		<image>./snap/Bouncing Block (Spain) (Alt 1).png</image>
-		<video>./video/Bouncing Block (Spain) (Alt 1).mp4</video>
+		<video>./video/Bouncing Block (Spain).mp4</video>
 		<marquee>./marquee/Bouncing Block (Spain) (Alt 1).png</marquee>
 		<developer>아이디어로직</developer>
 		<publisher>아이디어로직</publisher>
@@ -1675,7 +1666,7 @@
 	</game>
 	<game>
 		<path>./Bouncing Block (Spain).zip</path>
-		<name>바운싱 블록 (스페인판)</name>
+		<name>바운싱 블록</name>
 		<image>./snap/Bouncing Block (Spain).png</image>
 		<video>./video/Bouncing Block (Spain).mp4</video>
 		<marquee>./marquee/Bouncing Block (Spain).png</marquee>
@@ -1729,7 +1720,7 @@
 		<path>./Brother Adventure (Korea) (Alt 1) (Unl).zip</path>
 		<name>형제의 모험 (한국판)(대체 1)(해적판)</name>
 		<image>./snap/Brother Adventure (Korea) (Alt 1) (Unl).png</image>
-		<video>./video/Brother Adventure (Korea) (Alt 1) (Unl).mp4</video>
+		<video>./video/Brother Adventure (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Brother Adventure (Korea) (Alt 1) (Unl).png</marquee>
 		<developer>닌텐도</developer>
 		<publisher>제미나</publisher>
@@ -1740,7 +1731,7 @@
 	</game>
 	<game>
 		<path>./Brother Adventure (Korea) (Unl).zip</path>
-		<name>형제의 모험 (한국판)(해적판)</name>
+		<name>형제의 모험</name>
 		<image>./snap/Brother Adventure (Korea) (Unl).png</image>
 		<video>./video/Brother Adventure (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Brother Adventure (Korea) (Unl).png</marquee>
@@ -1768,7 +1759,7 @@
 		<path>./Bubble Bobble (Japan) (Alt 1).zip</path>
 		<name>버블보블 (대체 1)</name>
 		<image>./snap/Bubble Bobble (Japan) (Alt 1).png</image>
-		<video>./video/Bubble Bobble (Japan) (Alt 1).mp4</video>
+		<video>./video/Bubble Bobble (Japan).mp4</video>
 		<marquee>./marquee/Bubble Bobble (Japan) (Alt 1).png</marquee>
 		<developer/>
 		<publisher/>
@@ -1794,7 +1785,7 @@
 		<path>./Bubble Bobble (Korea) (Alt 1) (Unl).zip</path>
 		<name>버블보블 (한국판)(대체 1)(해적판)</name>
 		<image>./snap/Bubble Bobble (Korea) (Alt 1) (Unl).png</image>
-		<video>./video/Bubble Bobble (Korea) (Alt 1) (Unl).mp4</video>
+		<video>./video/Bubble Bobble (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Bubble Bobble (Korea) (Alt 1) (Unl).png</marquee>
 		<developer>타이토</developer>
 		<publisher>타이토</publisher>
@@ -1805,7 +1796,7 @@
 	</game>
 	<game>
 		<path>./Bubble Bobble (Korea) (Unl).zip</path>
-		<name>버블보블 (한국판)(해적판)</name>
+		<name>버블보블</name>
 		<image>./snap/Bubble Bobble (Korea) (Unl).png</image>
 		<video>./video/Bubble Bobble (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Bubble Bobble (Korea) (Unl).png</marquee>
@@ -1846,7 +1837,7 @@
 		<path>./Butam Pants (Japan) (Alt 1).zip</path>
 		<name>부타마루 팬츠 (대체 1)</name>
 		<image>./snap/Butam Pants (Japan) (Alt 1).png</image>
-		<video>./video/Butam Pants (Japan) (Alt 1).mp4</video>
+		<video>./video/Butam Pants (Japan).mp4</video>
 		<marquee>./marquee/Butam Pants (Japan) (Alt 1).png</marquee>
 		<developer>할 연구소</developer>
 		<publisher>할 연구소</publisher>
@@ -1859,7 +1850,7 @@
 		<path>./Butam Pants (Japan) (Alt 2).zip</path>
 		<name>부타마루 팬츠 (대체 2)</name>
 		<image>./snap/Butam Pants (Japan) (Alt 2).png</image>
-		<video>./video/Butam Pants (Japan) (Alt 2).mp4</video>
+		<video>./video/Butam Pants (Japan).mp4</video>
 		<marquee>./marquee/Butam Pants (Japan) (Alt 2).png</marquee>
 		<developer>할 연구소</developer>
 		<publisher>할 연구소</publisher>
@@ -1898,7 +1889,7 @@
 		<path>./Cabbage Patch Kids (Japan) (Alt 1).zip</path>
 		<name>양배추 인형 (대체 1)</name>
 		<image>./snap/Cabbage Patch Kids (Japan) (Alt 1).png</image>
-		<video>./video/Cabbage Patch Kids (Japan) (Alt 1).mp4</video>
+		<video>./video/Cabbage Patch Kids (Japan).mp4</video>
 		<marquee>./marquee/Cabbage Patch Kids (Japan) (Alt 1).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -1924,7 +1915,7 @@
 		<path>./Candoo Ninja (Japan) (Alt 1).zip</path>
 		<name>칸두 닌자 (대체 1)</name>
 		<image>./snap/Candoo Ninja (Japan) (Alt 1).png</image>
-		<video>./video/Candoo Ninja (Japan) (Alt 1).mp4</video>
+		<video>./video/Candoo Ninja (Japan).mp4</video>
 		<marquee>./marquee/Candoo Ninja (Japan) (Alt 1).png</marquee>
 		<developer>매스 타엘</developer>
 		<publisher>아스키</publisher>
@@ -1950,7 +1941,7 @@
 		<path>./Cannon Ball (Japan) (Alt 1).zip</path>
 		<name>캐논볼 (대체 1)</name>
 		<image>./snap/Cannon Ball (Japan) (Alt 1).png</image>
-		<video>./video/Cannon Ball (Japan) (Alt 1).mp4</video>
+		<video>./video/Cannon Ball (Japan).mp4</video>
 		<marquee>./marquee/Cannon Ball (Japan) (Alt 1).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
@@ -2015,7 +2006,7 @@
 		<path>./Car Jamboree (Japan) (Alt 1).zip</path>
 		<name>카 잼버리 (대체 1)</name>
 		<image>./snap/Car Jamboree (Japan) (Alt 1).png</image>
-		<video>./video/Car Jamboree (Japan) (Alt 1).mp4</video>
+		<video>./video/Car Jamboree (Japan).mp4</video>
 		<marquee>./marquee/Car Jamboree (Japan) (Alt 1).png</marquee>
 		<developer>오모리</developer>
 		<publisher>소니</publisher>
@@ -2041,7 +2032,7 @@
 		<path>./Car-Race (Japan) (Alt 1).zip</path>
 		<name>카레이스 (대체 1)</name>
 		<image>./snap/Car-Race (Japan) (Alt 1).png</image>
-		<video>./video/Car-Race (Japan) (Alt 1).mp4</video>
+		<video>./video/Car-Race (Japan).mp4</video>
 		<marquee>./marquee/Car-Race (Japan) (Alt 1).png</marquee>
 		<developer>앰플 소프트웨어</developer>
 		<publisher>앰플 소프트웨어</publisher>
@@ -2054,7 +2045,7 @@
 		<path>./Car-Race (Japan) (Alt 2).zip</path>
 		<name>카레이스 (대체 2)</name>
 		<image>./snap/Car-Race (Japan) (Alt 2).png</image>
-		<video>./video/Car-Race (Japan) (Alt 2).mp4</video>
+		<video>./video/Car-Race (Japan).mp4</video>
 		<marquee>./marquee/Car-Race (Japan) (Alt 2).png</marquee>
 		<developer>앰플 소프트웨어</developer>
 		<publisher>앰플 소프트웨어</publisher>
@@ -2106,7 +2097,7 @@
 		<path>./Casio Ski Command (Japan) (Alt 1).zip</path>
 		<name>카시오 스키 커맨드 (대체 1)</name>
 		<image>./snap/Casio Ski Command (Japan) (Alt 1).png</image>
-		<video>./video/Casio Ski Command (Japan) (Alt 1).mp4</video>
+		<video>./video/Casio Ski Command (Japan).mp4</video>
 		<marquee>./marquee/Casio Ski Command (Japan) (Alt 1).png</marquee>
 		<developer>카시오</developer>
 		<publisher>카시오</publisher>
@@ -2145,7 +2136,7 @@
 		<path>./Castle Excellent (Japan) (Alt 1).zip</path>
 		<name>캐슬 엑설런트 (대체 1)</name>
 		<image>./snap/Castle Excellent (Japan) (Alt 1).png</image>
-		<video>./video/Castle Excellent (Japan) (Alt 1).mp4</video>
+		<video>./video/Castle Excellent (Japan).mp4</video>
 		<marquee>./marquee/Castle Excellent (Japan) (Alt 1).png</marquee>
 		<developer>아스키</developer>
 		<publisher>아스키</publisher>
@@ -2184,7 +2175,7 @@
 		<path>./Chack'n Pop (Japan) (Alt 1).zip</path>
 		<name>츄군 팝 / 채크 앤 팝 (대체 1)</name>
 		<image>./snap/Chack'n Pop (Japan) (Alt 1).png</image>
-		<video>./video/Chack'n Pop (Japan) (Alt 1).mp4</video>
+		<video>./video/Chack'n Pop (Japan).mp4</video>
 		<marquee>./marquee/Chack'n Pop (Japan) (Alt 1).png</marquee>
 		<developer>타이토</developer>
 		<publisher>타이토</publisher>
@@ -2249,7 +2240,7 @@
 		<path>./Champion Kendou (Japan) (Alt 1).zip</path>
 		<name>챔피언 검도 (대체 1)</name>
 		<image>./snap/Champion Kendou (Japan) (Alt 1).png</image>
-		<video>./video/Champion Kendou (Japan) (Alt 1).mp4</video>
+		<video>./video/Champion Kendou (Japan).mp4</video>
 		<marquee>./marquee/Champion Kendou (Japan) (Alt 1).png</marquee>
 		<developer>포니 캐년</developer>
 		<publisher>포니 캐년</publisher>
@@ -2275,7 +2266,7 @@
 		<path>./Champion Pro Wrestling (Japan) (Alt 1).zip</path>
 		<name>챔피언 프로레슬링 (대체 1)</name>
 		<image>./snap/Champion Pro Wrestling (Japan) (Alt 1).png</image>
-		<video>./video/Champion Pro Wrestling (Japan) (Alt 1).mp4</video>
+		<video>./video/Champion Pro Wrestling (Japan).mp4</video>
 		<marquee>./marquee/Champion Pro Wrestling (Japan) (Alt 1).png</marquee>
 		<developer>세가</developer>
 		<publisher>포니 캐년</publisher>
@@ -2288,7 +2279,7 @@
 		<path>./Champion Pro Wrestling (Japan) (Alt 2).zip</path>
 		<name>챔피언 프로레슬링 (대체 2)</name>
 		<image>./snap/Champion Pro Wrestling (Japan) (Alt 2).png</image>
-		<video>./video/Champion Pro Wrestling (Japan) (Alt 2).mp4</video>
+		<video>./video/Champion Pro Wrestling (Japan).mp4</video>
 		<marquee>./marquee/Champion Pro Wrestling (Japan) (Alt 2).png</marquee>
 		<developer>세가</developer>
 		<publisher>포니 캐년</publisher>
@@ -2351,7 +2342,7 @@
 	</game>
 	<game>
 		<path>./Cheese (Japan) (Program).zip</path>
-		<name>치즈 (프로그램)</name>
+		<name>치즈</name>
 		<image>./snap/Cheese (Japan) (Program).png</image>
 		<video>./video/Cheese (Japan) (Program).mp4</video>
 		<marquee>./marquee/Cheese (Japan) (Program).png</marquee>
@@ -2364,7 +2355,7 @@
 	</game>
 	<game>
 		<path>./Cheese 2 (Japan) (Program).zip</path>
-		<name>치즈 2 (프로그램)</name>
+		<name>치즈 2</name>
 		<image>./snap/Cheese 2 (Japan) (Program).png</image>
 		<video>./video/Cheese 2 (Japan) (Program).mp4</video>
 		<marquee>./marquee/Cheese 2 (Japan) (Program).png</marquee>
@@ -2390,7 +2381,7 @@
 	</game>
 	<game>
 		<path>./Chess Game, The (Europe).zip</path>
-		<name>체스 게임 (유럽판)</name>
+		<name>체스 게임</name>
 		<image>./snap/Chess Game, The (Europe).png</image>
 		<video>./video/Chess Game, The (Europe).mp4</video>
 		<marquee>./marquee/Chess Game, The (Europe).png</marquee>
@@ -2405,7 +2396,7 @@
 		<path>./Choplifter (Japan) (Alt 1).zip</path>
 		<name>촙리프터 (대체 1)</name>
 		<image>./snap/Choplifter (Japan) (Alt 1).png</image>
-		<video>./video/Choplifter (Japan) (Alt 1).mp4</video>
+		<video>./video/Choplifter (Japan).mp4</video>
 		<marquee>./marquee/Choplifter (Japan) (Alt 1).png</marquee>
 		<developer>단골린</developer>
 		<publisher>소니</publisher>
@@ -2418,7 +2409,7 @@
 		<path>./Choplifter (Japan) (Alt 2).zip</path>
 		<name>촙리프터 (대체 2)</name>
 		<image>./snap/Choplifter (Japan) (Alt 2).png</image>
-		<video>./video/Choplifter (Japan) (Alt 2).mp4</video>
+		<video>./video/Choplifter (Japan).mp4</video>
 		<marquee>./marquee/Choplifter (Japan) (Alt 2).png</marquee>
 		<developer>단골린</developer>
 		<publisher>소니</publisher>
@@ -2444,7 +2435,7 @@
 		<path>./Choro Q (Japan) (Alt 1).zip</path>
 		<name>초로 큐 (대체 1)</name>
 		<image>./snap/Choro Q (Japan) (Alt 1).png</image>
-		<video>./video/Choro Q (Japan) (Alt 1).mp4</video>
+		<video>./video/Choro Q (Japan).mp4</video>
 		<marquee>./marquee/Choro Q (Japan) (Alt 1).png</marquee>
 		<developer>타이토</developer>
 		<publisher>타이토</publisher>
@@ -2496,7 +2487,7 @@
 		<path>./City Connection (Japan) (Alt 1).zip</path>
 		<name>시티 커넥션 (대체 1)</name>
 		<image>./snap/City Connection (Japan) (Alt 1).png</image>
-		<video>./video/City Connection (Japan) (Alt 1).mp4</video>
+		<video>./video/City Connection (Japan).mp4</video>
 		<marquee>./marquee/City Connection (Japan) (Alt 1).png</marquee>
 		<developer>헥트</developer>
 		<publisher>잘레코</publisher>
@@ -2522,7 +2513,7 @@
 		<path>./Coaster Race (Japan) (Alt 1).zip</path>
 		<name>코스터 레이스 (대체 1)</name>
 		<image>./snap/Coaster Race (Japan) (Alt 1).png</image>
-		<video>./video/Coaster Race (Japan) (Alt 1).mp4</video>
+		<video>./video/Coaster Race (Japan).mp4</video>
 		<marquee>./marquee/Coaster Race (Japan) (Alt 1).png</marquee>
 		<developer>소니</developer>
 		<publisher>소니</publisher>
@@ -2535,7 +2526,7 @@
 		<path>./Coaster Race (Japan) (Alt 2).zip</path>
 		<name>코스터 레이스 (대체 2)</name>
 		<image>./snap/Coaster Race (Japan) (Alt 2).png</image>
-		<video>./video/Coaster Race (Japan) (Alt 2).mp4</video>
+		<video>./video/Coaster Race (Japan).mp4</video>
 		<marquee>./marquee/Coaster Race (Japan) (Alt 2).png</marquee>
 		<developer>소니</developer>
 		<publisher>소니</publisher>
@@ -2574,7 +2565,7 @@
 		<path>./Color Ball (Japan) (Alt 1).zip</path>
 		<name>컬러 볼 (대체 1)</name>
 		<image>./snap/Color Ball (Japan) (Alt 1).png</image>
-		<video>./video/Color Ball (Japan) (Alt 1).mp4</video>
+		<video>./video/Color Ball (Japan).mp4</video>
 		<marquee>./marquee/Color Ball (Japan) (Alt 1).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
@@ -2587,7 +2578,7 @@
 		<path>./Color Ball (Japan) (Alt 2).zip</path>
 		<name>컬러 볼 (대체 2)</name>
 		<image>./snap/Color Ball (Japan) (Alt 2).png</image>
-		<video>./video/Color Ball (Japan) (Alt 2).mp4</video>
+		<video>./video/Color Ball (Japan).mp4</video>
 		<marquee>./marquee/Color Ball (Japan) (Alt 2).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
@@ -2637,7 +2628,7 @@
 	</game>
 	<game>
 		<path>./Comecocos (Spain).zip</path>
-		<name>코메코코스 (스페인판)</name>
+		<name>코메코코스</name>
 		<image>./snap/Comecocos (Spain).png</image>
 		<video>./video/Comecocos (Spain).mp4</video>
 		<marquee>./marquee/Comecocos (Spain).png</marquee>
@@ -2665,7 +2656,7 @@
 		<path>./Comic Bakery (Japan) (Alt 1).zip</path>
 		<name>코믹 베이커리 (대체 1)</name>
 		<image>./snap/Comic Bakery (Japan) (Alt 1).png</image>
-		<video>./video/Comic Bakery (Japan) (Alt 1).mp4</video>
+		<video>./video/Comic Bakery (Japan).mp4</video>
 		<marquee>./marquee/Comic Bakery (Japan) (Alt 1).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -2678,7 +2669,7 @@
 		<path>./Comic Bakery (Japan) (Alt 2).zip</path>
 		<name>코믹 베이커리 (대체 2)</name>
 		<image>./snap/Comic Bakery (Japan) (Alt 2).png</image>
-		<video>./video/Comic Bakery (Japan) (Alt 2).mp4</video>
+		<video>./video/Comic Bakery (Japan).mp4</video>
 		<marquee>./marquee/Comic Bakery (Japan) (Alt 2).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -2730,7 +2721,7 @@
 		<path>./Computer Othello (Japan) (Alt 1).zip</path>
 		<name>컴퓨터 오델로 (대체 1)</name>
 		<image>./snap/Computer Othello (Japan) (Alt 1).png</image>
-		<video>./video/Computer Othello (Japan) (Alt 1).mp4</video>
+		<video>./video/Computer Othello (Japan).mp4</video>
 		<marquee>./marquee/Computer Othello (Japan) (Alt 1).png</marquee>
 		<developer>닌텐도</developer>
 		<publisher>닌텐도 레저 시스템</publisher>
@@ -2769,7 +2760,7 @@
 		<path>./Con-Dori (Japan) (Alt 1).zip</path>
 		<name>콘도리 (대체 1)</name>
 		<image>./snap/Con-Dori (Japan) (Alt 1).png</image>
-		<video>./video/Con-Dori (Japan) (Alt 1).mp4</video>
+		<video>./video/Con-Dori (Japan).mp4</video>
 		<marquee>./marquee/Con-Dori (Japan) (Alt 1).png</marquee>
 		<developer>크로스톡</developer>
 		<publisher>크로스톡</publisher>
@@ -2782,7 +2773,7 @@
 		<path>./Con-Dori (Japan) (Alt 2).zip</path>
 		<name>콘도리 (대체 2)</name>
 		<image>./snap/Con-Dori (Japan) (Alt 2).png</image>
-		<video>./video/Con-Dori (Japan) (Alt 2).mp4</video>
+		<video>./video/Con-Dori (Japan).mp4</video>
 		<marquee>./marquee/Con-Dori (Japan) (Alt 2).png</marquee>
 		<developer>크로스톡</developer>
 		<publisher>크로스톡</publisher>
@@ -2806,7 +2797,7 @@
 	</game>
 	<game>
 		<path>./Confused (Europe).zip</path>
-		<name>콘퓨즈드 (유럽판)</name>
+		<name>콘퓨즈드</name>
 		<image>./snap/Confused (Europe).png</image>
 		<video>./video/Confused (Europe).mp4</video>
 		<marquee>./marquee/Confused (Europe).png</marquee>
@@ -2834,7 +2825,7 @@
 		<path>./Cosmo (Japan) (Alt 1).zip</path>
 		<name>코스모 (대체 1)</name>
 		<image>./snap/Cosmo (Japan) (Alt 1).png</image>
-		<video>./video/Cosmo (Japan) (Alt 1).mp4</video>
+		<video>./video/Cosmo (Japan).mp4</video>
 		<marquee>./marquee/Cosmo (Japan) (Alt 1).png</marquee>
 		<developer>아스키</developer>
 		<publisher>아스키</publisher>
@@ -2860,7 +2851,7 @@
 		<path>./Cosmo-Explorer (Japan) (Alt 1).zip</path>
 		<name>코스모 익스플로러 (대체 1)</name>
 		<image>./snap/Cosmo-Explorer (Japan) (Alt 1).png</image>
-		<video>./video/Cosmo-Explorer (Japan) (Alt 1).mp4</video>
+		<video>./video/Cosmo-Explorer (Japan).mp4</video>
 		<marquee>./marquee/Cosmo-Explorer (Japan) (Alt 1).png</marquee>
 		<developer>소니</developer>
 		<publisher>소니</publisher>
@@ -2886,7 +2877,7 @@
 		<path>./Courageous Perseus (Japan) (Alt 1).zip</path>
 		<name>페르세우스 (대체 1)</name>
 		<image>./snap/Courageous Perseus (Japan) (Alt 1).png</image>
-		<video>./video/Courageous Perseus (Japan) (Alt 1).mp4</video>
+		<video>./video/Courageous Perseus (Japan).mp4</video>
 		<marquee>./marquee/Courageous Perseus (Japan) (Alt 1).png</marquee>
 		<developer>코스모스 컴퓨터</developer>
 		<publisher>코스모스 컴퓨터</publisher>
@@ -2925,7 +2916,7 @@
 		<path>./Crazy Bullet (Japan) (Alt 1).zip</path>
 		<name>크레이지 블렛 (대체 1)</name>
 		<image>./snap/Crazy Bullet (Japan) (Alt 1).png</image>
-		<video>./video/Crazy Bullet (Japan) (Alt 1).mp4</video>
+		<video>./video/Crazy Bullet (Japan).mp4</video>
 		<marquee>./marquee/Crazy Bullet (Japan) (Alt 1).png</marquee>
 		<developer>아스키</developer>
 		<publisher>아스키</publisher>
@@ -2949,7 +2940,7 @@
 	</game>
 	<game>
 		<path>./Crazy Cars (Europe).zip</path>
-		<name>크레이지 카즈 (유럽판)</name>
+		<name>크레이지 카즈</name>
 		<image>./snap/Crazy Cars (Europe).png</image>
 		<video>./video/Crazy Cars (Europe).mp4</video>
 		<marquee>./marquee/Crazy Cars (Europe).png</marquee>
@@ -2964,7 +2955,7 @@
 		<path>./Crazy Train (Japan) (Alt 1).zip</path>
 		<name>크레이지 트레인 (대체 1)</name>
 		<image>./snap/Crazy Train (Japan) (Alt 1).png</image>
-		<video>./video/Crazy Train (Japan) (Alt 1).mp4</video>
+		<video>./video/Crazy Train (Japan).mp4</video>
 		<marquee>./marquee/Crazy Train (Japan) (Alt 1).png</marquee>
 		<developer>코나미</developer>
 		<publisher>소니</publisher>
@@ -3016,7 +3007,7 @@
 		<path>./Crusader (Japan) (Alt 1).zip</path>
 		<name>크루세이더 (대체 1)</name>
 		<image>./snap/Crusader (Japan) (Alt 1).png</image>
-		<video>./video/Crusader (Japan) (Alt 1).mp4</video>
+		<video>./video/Crusader (Japan).mp4</video>
 		<marquee>./marquee/Crusader (Japan) (Alt 1).png</marquee>
 		<developer>포니 캐년</developer>
 		<publisher>포니 캐년</publisher>
@@ -3029,7 +3020,7 @@
 		<path>./Crusader (Japan) (Alt 2).zip</path>
 		<name>크루세이더 (대체 2)</name>
 		<image>./snap/Crusader (Japan) (Alt 2).png</image>
-		<video>./video/Crusader (Japan) (Alt 2).mp4</video>
+		<video>./video/Crusader (Japan).mp4</video>
 		<marquee>./marquee/Crusader (Japan) (Alt 2).png</marquee>
 		<developer>포니 캐년</developer>
 		<publisher>포니 캐년</publisher>
@@ -3055,7 +3046,7 @@
 		<path>./D-Day (Japan) (Alt 1).zip</path>
 		<name>D 데이 (대체 1)</name>
 		<image>./snap/D-Day (Japan) (Alt 1).png</image>
-		<video>./video/D-Day (Japan) (Alt 1).mp4</video>
+		<video>./video/D-Day (Japan).mp4</video>
 		<marquee>./marquee/D-Day (Japan) (Alt 1).png</marquee>
 		<developer>디지털 리얼리티 소프트</developer>
 		<publisher/>
@@ -3068,7 +3059,7 @@
 		<path>./D-Day (Japan) (Alt 2).zip</path>
 		<name>D 데이 (대체 2)</name>
 		<image>./snap/D-Day (Japan) (Alt 2).png</image>
-		<video>./video/D-Day (Japan) (Alt 2).mp4</video>
+		<video>./video/D-Day (Japan).mp4</video>
 		<marquee>./marquee/D-Day (Japan) (Alt 2).png</marquee>
 		<developer>디지털 리얼리티 소프트</developer>
 		<publisher/>
@@ -3081,7 +3072,7 @@
 		<path>./D-Day (Japan) (Alt 3).zip</path>
 		<name>D 데이 (대체 3)</name>
 		<image>./snap/D-Day (Japan) (Alt 3).png</image>
-		<video>./video/D-Day (Japan) (Alt 3).mp4</video>
+		<video>./video/D-Day (Japan).mp4</video>
 		<marquee>./marquee/D-Day (Japan) (Alt 3).png</marquee>
 		<developer>디지털 리얼리티 소프트</developer>
 		<publisher/>
@@ -3159,7 +3150,7 @@
 		<path>./Dam Busters, The (Japan) (Alt 1).zip</path>
 		<name>댐 버스터즈 (대체 1)</name>
 		<image>./snap/Dam Busters, The (Japan) (Alt 1).png</image>
-		<video>./video/Dam Busters, The (Japan) (Alt 1).mp4</video>
+		<video>./video/Dam Busters, The (Japan).mp4</video>
 		<marquee>./marquee/Dam Busters, The (Japan) (Alt 1).png</marquee>
 		<developer>컴퓨티크</developer>
 		<publisher>컴퓨티크</publisher>
@@ -3185,7 +3176,7 @@
 		<path>./Danger X4 (Japan) (Alt 1).zip</path>
 		<name>데인져 X4 (대체 1)</name>
 		<image>./snap/Danger X4 (Japan) (Alt 1).png</image>
-		<video>./video/Danger X4 (Japan) (Alt 1).mp4</video>
+		<video>./video/Danger X4 (Japan).mp4</video>
 		<marquee>./marquee/Danger X4 (Japan) (Alt 1).png</marquee>
 		<developer>아스키</developer>
 		<publisher>아스키</publisher>
@@ -3198,7 +3189,7 @@
 		<path>./Danger X4 (Japan) (Alt 2).zip</path>
 		<name>데인져 X4 (대체 2)</name>
 		<image>./snap/Danger X4 (Japan) (Alt 2).png</image>
-		<video>./video/Danger X4 (Japan) (Alt 2).mp4</video>
+		<video>./video/Danger X4 (Japan).mp4</video>
 		<marquee>./marquee/Danger X4 (Japan) (Alt 2).png</marquee>
 		<developer>아스키</developer>
 		<publisher>아스키</publisher>
@@ -3224,7 +3215,7 @@
 		<path>./Darwin 4078 (Japan) (Alt 1).zip</path>
 		<name>다윈 4078 (대체 1)</name>
 		<image>./snap/Darwin 4078 (Japan) (Alt 1).png</image>
-		<video>./video/Darwin 4078 (Japan) (Alt 1).mp4</video>
+		<video>./video/Darwin 4078 (Japan).mp4</video>
 		<marquee>./marquee/Darwin 4078 (Japan) (Alt 1).png</marquee>
 		<developer/>
 		<publisher/>
@@ -3237,7 +3228,7 @@
 		<path>./Darwin 4078 (Japan) (Alt 2).zip</path>
 		<name>다윈 4078 (대체 2)</name>
 		<image>./snap/Darwin 4078 (Japan) (Alt 2).png</image>
-		<video>./video/Darwin 4078 (Japan) (Alt 2).mp4</video>
+		<video>./video/Darwin 4078 (Japan).mp4</video>
 		<marquee>./marquee/Darwin 4078 (Japan) (Alt 2).png</marquee>
 		<developer/>
 		<publisher/>
@@ -3289,7 +3280,7 @@
 		<path>./Decathlon (Japan) (Alt 1).zip</path>
 		<name>디캐슬런 (대체 1)</name>
 		<image>./snap/Decathlon (Japan) (Alt 1).png</image>
-		<video>./video/Decathlon (Japan) (Alt 1).mp4</video>
+		<video>./video/Decathlon (Japan).mp4</video>
 		<marquee>./marquee/Decathlon (Japan) (Alt 1).png</marquee>
 		<developer>컴퓨터 &amp; 엔터테인먼트</developer>
 		<publisher>컴퓨터 &amp; 엔터테인먼트</publisher>
@@ -3341,7 +3332,7 @@
 		<path>./Deep Forest (Japan) (Alt 1).zip</path>
 		<name>딥 포레스트 (대체 1)</name>
 		<image>./snap/Deep Forest (Japan) (Alt 1).png</image>
-		<video>./video/Deep Forest (Japan) (Alt 1).mp4</video>
+		<video>./video/Deep Forest (Japan).mp4</video>
 		<marquee>./marquee/Deep Forest (Japan) (Alt 1).png</marquee>
 		<developer/>
 		<publisher/>
@@ -3378,7 +3369,7 @@
 	</game>
 	<game>
 		<path>./Demonia I (Europe).zip</path>
-		<name>데모니아 1 (유럽판)</name>
+		<name>데모니아 1</name>
 		<image>./snap/Demonia I (Europe).png</image>
 		<video>./video/Demonia I (Europe).mp4</video>
 		<marquee>./marquee/Demonia I (Europe).png</marquee>
@@ -3391,7 +3382,7 @@
 	</game>
 	<game>
 		<path>./Designer's Pencil, The (Europe) (Program).zip</path>
-		<name>디자이너의 연필 (유럽판)(프로그램)</name>
+		<name>디자이너의 연필</name>
 		<image>./snap/Designer's Pencil, The (Europe) (Program).png</image>
 		<video>./video/Designer's Pencil, The (Europe) (Program).mp4</video>
 		<marquee>./marquee/Designer's Pencil, The (Europe) (Program).png</marquee>
@@ -3419,7 +3410,7 @@
 		<path>./Dig Dug (Japan) (Alt 1).zip</path>
 		<name>디그 더그 (대체 1)</name>
 		<image>./snap/Dig Dug (Japan) (Alt 1).png</image>
-		<video>./video/Dig Dug (Japan) (Alt 1).mp4</video>
+		<video>./video/Dig Dug (Japan).mp4</video>
 		<marquee>./marquee/Dig Dug (Japan) (Alt 1).png</marquee>
 		<developer>남코</developer>
 		<publisher>남코</publisher>
@@ -3445,7 +3436,7 @@
 		<path>./Digital Devil Monogatari Megami Tensei (Japan) (Alt 1).zip</path>
 		<name>디지털 데빌 이야기 - 여신전생 (대체 1)</name>
 		<image>./snap/Digital Devil Monogatari Megami Tensei (Japan) (Alt 1).png</image>
-		<video>./video/Digital Devil Monogatari Megami Tensei (Japan) (Alt 1).mp4</video>
+		<video>./video/Digital Devil Monogatari Megami Tensei (Japan).mp4</video>
 		<marquee>./marquee/Digital Devil Monogatari Megami Tensei (Japan) (Alt 1).png</marquee>
 		<developer>텔넷 저팬</developer>
 		<publisher>텔넷 저팬</publisher>
@@ -3469,7 +3460,7 @@
 	</game>
 	<game>
 		<path>./Dip Dip (Spain).zip</path>
-		<name>딥 딥 (스페인판)</name>
+		<name>딥 딥</name>
 		<image>./snap/Dip Dip (Spain).png</image>
 		<video>./video/Dip Dip (Spain).mp4</video>
 		<marquee>./marquee/Dip Dip (Spain).png</marquee>
@@ -3497,7 +3488,7 @@
 		<path>./Doki Doki Penguin Land (Japan) (Alt 1).zip</path>
 		<name>두근두근 팽귄 랜드 (대체 1)</name>
 		<image>./snap/Doki Doki Penguin Land (Japan) (Alt 1).png</image>
-		<video>./video/Doki Doki Penguin Land (Japan) (Alt 1).mp4</video>
+		<video>./video/Doki Doki Penguin Land (Japan).mp4</video>
 		<marquee>./marquee/Doki Doki Penguin Land (Japan) (Alt 1).png</marquee>
 		<developer>세가</developer>
 		<publisher>포니 캐년</publisher>
@@ -3547,7 +3538,7 @@
 	</game>
 	<game>
 		<path>./Double Dragon (Korea) (Unl).zip</path>
-		<name>더블 드래곤 / 쌍절룡 (한국판)(해적판)</name>
+		<name>더블 드래곤 / 쌍절룡</name>
 		<image>./snap/Double Dragon (Korea) (Unl).png</image>
 		<video>./video/Double Dragon (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Double Dragon (Korea) (Unl).png</marquee>
@@ -3588,7 +3579,7 @@
 		<path>./Dragon Attack (Japan) (Alt 1).zip</path>
 		<name>드래곤 어택 (대체 1)</name>
 		<image>./snap/Dragon Attack (Japan) (Alt 1).png</image>
-		<video>./video/Dragon Attack (Japan) (Alt 1).mp4</video>
+		<video>./video/Dragon Attack (Japan).mp4</video>
 		<marquee>./marquee/Dragon Attack (Japan) (Alt 1).png</marquee>
 		<developer>할 연구소</developer>
 		<publisher>할 연구소</publisher>
@@ -3640,7 +3631,7 @@
 		<path>./Dragon Quest II (Japan) (Alt 1).zip</path>
 		<name>드래곤 퀘스트 2 (대체 1)</name>
 		<image>./snap/Dragon Quest II (Japan) (Alt 1).png</image>
-		<video>./video/Dragon Quest II (Japan) (Alt 1).mp4</video>
+		<video>./video/Dragon Quest II (Japan).mp4</video>
 		<marquee>./marquee/Dragon Quest II (Japan) (Alt 1).png</marquee>
 		<developer>춘소프트</developer>
 		<publisher>에닉스</publisher>
@@ -3692,7 +3683,7 @@
 		<path>./Dragon Slayer IV - Drasle Family (Japan) (Alt 1).zip</path>
 		<name>드래곤 슬레이어 4 - 드레슬레 패밀리 (대체 1)</name>
 		<image>./snap/Dragon Slayer IV - Drasle Family (Japan) (Alt 1).png</image>
-		<video>./video/Dragon Slayer IV - Drasle Family (Japan) (Alt 1).mp4</video>
+		<video>./video/Dragon Slayer IV - Drasle Family (Japan).mp4</video>
 		<marquee>./marquee/Dragon Slayer IV - Drasle Family (Japan) (Alt 1).png</marquee>
 		<developer/>
 		<publisher/>
@@ -3757,7 +3748,7 @@
 		<path>./Druid (Japan) (Alt 1).zip</path>
 		<name>드루이드 (대체 1)</name>
 		<image>./snap/Druid (Japan) (Alt 1).png</image>
-		<video>./video/Druid (Japan) (Alt 1).mp4</video>
+		<video>./video/Druid (Japan).mp4</video>
 		<marquee>./marquee/Druid (Japan) (Alt 1).png</marquee>
 		<developer/>
 		<publisher/>
@@ -3809,7 +3800,7 @@
 		<path>./Dunk Shot (Japan) (Alt 1).zip</path>
 		<name>덩크샷 (대체 1)</name>
 		<image>./snap/Dunk Shot (Japan) (Alt 1).png</image>
-		<video>./video/Dunk Shot (Japan) (Alt 1).mp4</video>
+		<video>./video/Dunk Shot (Japan).mp4</video>
 		<marquee>./marquee/Dunk Shot (Japan) (Alt 1).png</marquee>
 		<developer>할 연구소</developer>
 		<publisher>할 연구소</publisher>
@@ -3833,7 +3824,7 @@
 	</game>
 	<game>
 		<path>./DX7 Voicing Program (Japan) (Program).zip</path>
-		<name>DX7 보이싱 프로그램 (프로그램)</name>
+		<name>DX7 보이싱 프로그램</name>
 		<image>./snap/DX7 Voicing Program (Japan) (Program).png</image>
 		<video>./video/DX7 Voicing Program (Japan) (Program).mp4</video>
 		<marquee>./marquee/DX7 Voicing Program (Japan) (Program).png</marquee>
@@ -3848,7 +3839,7 @@
 		<path>./Dynamite Bowl (Japan) (Alt 1).zip</path>
 		<name>다이너마이트 보울 (대체 1)</name>
 		<image>./snap/Dynamite Bowl (Japan) (Alt 1).png</image>
-		<video>./video/Dynamite Bowl (Japan) (Alt 1).mp4</video>
+		<video>./video/Dynamite Bowl (Japan).mp4</video>
 		<marquee>./marquee/Dynamite Bowl (Japan) (Alt 1).png</marquee>
 		<developer/>
 		<publisher/>
@@ -3874,7 +3865,7 @@
 		<path>./Eagle Fighter (Japan) (Alt 1).zip</path>
 		<name>이글 파이터 (대체 1)</name>
 		<image>./snap/Eagle Fighter (Japan) (Alt 1).png</image>
-		<video>./video/Eagle Fighter (Japan) (Alt 1).mp4</video>
+		<video>./video/Eagle Fighter (Japan).mp4</video>
 		<marquee>./marquee/Eagle Fighter (Japan) (Alt 1).png</marquee>
 		<developer>카시오</developer>
 		<publisher>카시오</publisher>
@@ -3900,7 +3891,7 @@
 		<path>./Eddy 2 (Japan) (Program) (Alt 1).zip</path>
 		<name>에디 2 (프로그램)(대체 1)</name>
 		<image>./snap/Eddy 2 (Japan) (Program) (Alt 1).png</image>
-		<video>./video/Eddy 2 (Japan) (Program) (Alt 1).mp4</video>
+		<video>./video/Eddy 2 (Japan) (Program).mp4</video>
 		<marquee>./marquee/Eddy 2 (Japan) (Program) (Alt 1).png</marquee>
 		<developer/>
 		<publisher/>
@@ -3911,7 +3902,7 @@
 	</game>
 	<game>
 		<path>./Eddy 2 (Japan) (Program).zip</path>
-		<name>에디 2 (프로그램)</name>
+		<name>에디 2</name>
 		<image>./snap/Eddy 2 (Japan) (Program).png</image>
 		<video>./video/Eddy 2 (Japan) (Program).mp4</video>
 		<marquee>./marquee/Eddy 2 (Japan) (Program).png</marquee>
@@ -3937,7 +3928,7 @@
 	</game>
 	<game>
 		<path>./Eidolon, The (Europe).zip</path>
-		<name>아이드론 (유럽판)</name>
+		<name>아이드론</name>
 		<image>./snap/Eidolon, The (Europe).png</image>
 		<video>./video/Eidolon, The (Europe).mp4</video>
 		<marquee>./marquee/Eidolon, The (Europe).png</marquee>
@@ -3950,7 +3941,7 @@
 	</game>
 	<game>
 		<path>./Eiwa Jiten - English Japanese (Japan) (Program).zip</path>
-		<name>영일 사전 (프로그램)</name>
+		<name>영일 사전</name>
 		<image>./snap/Eiwa Jiten - English Japanese (Japan) (Program).png</image>
 		<video>./video/Eiwa Jiten - English Japanese (Japan) (Program).mp4</video>
 		<marquee>./marquee/Eiwa Jiten - English Japanese (Japan) (Program).png</marquee>
@@ -4030,7 +4021,7 @@
 		<path>./Exa Innova (Japan) (Alt 1).zip</path>
 		<name>엑사 이노바 (대체 1)</name>
 		<image>./snap/Exa Innova (Japan) (Alt 1).png</image>
-		<video>./video/Exa Innova (Japan) (Alt 1).mp4</video>
+		<video>./video/Exa Innova (Japan).mp4</video>
 		<marquee>./marquee/Exa Innova (Japan) (Alt 1).png</marquee>
 		<developer>소니</developer>
 		<publisher>소니</publisher>
@@ -4056,7 +4047,7 @@
 		<path>./Exchanger (Japan) (Alt 1).zip</path>
 		<name>엑스체인져 (대체 1)</name>
 		<image>./snap/Exchanger (Japan) (Alt 1).png</image>
-		<video>./video/Exchanger (Japan) (Alt 1).mp4</video>
+		<video>./video/Exchanger (Japan).mp4</video>
 		<marquee>./marquee/Exchanger (Japan) (Alt 1).png</marquee>
 		<developer>아스키</developer>
 		<publisher>아스키</publisher>
@@ -4082,7 +4073,7 @@
 		<path>./Exerion (Japan) (Alt 1).zip</path>
 		<name>엑시리온 (대체 1)</name>
 		<image>./snap/Exerion (Japan) (Alt 1).png</image>
-		<video>./video/Exerion (Japan) (Alt 1).mp4</video>
+		<video>./video/Exerion (Japan).mp4</video>
 		<marquee>./marquee/Exerion (Japan) (Alt 1).png</marquee>
 		<developer>잘레코</developer>
 		<publisher>뎀파</publisher>
@@ -4095,7 +4086,7 @@
 		<path>./Exerion (Japan) (Alt 2).zip</path>
 		<name>엑시리온 (대체 2)</name>
 		<image>./snap/Exerion (Japan) (Alt 2).png</image>
-		<video>./video/Exerion (Japan) (Alt 2).mp4</video>
+		<video>./video/Exerion (Japan).mp4</video>
 		<marquee>./marquee/Exerion (Japan) (Alt 2).png</marquee>
 		<developer>잘레코</developer>
 		<publisher>뎀파</publisher>
@@ -4121,7 +4112,7 @@
 		<path>./Exerion II - Zorni (Japan) (Alt 1).zip</path>
 		<name>엑시리온 2 (대체 1)</name>
 		<image>./snap/Exerion II - Zorni (Japan) (Alt 1).png</image>
-		<video>./video/Exerion II - Zorni (Japan) (Alt 1).mp4</video>
+		<video>./video/Exerion II - Zorni (Japan).mp4</video>
 		<marquee>./marquee/Exerion II - Zorni (Japan) (Alt 1).png</marquee>
 		<developer>잘레코</developer>
 		<publisher>잘레코</publisher>
@@ -4147,7 +4138,7 @@
 		<path>./Exoide-Z (Japan) (Alt 1).zip</path>
 		<name>엑소이드 Z (대체 1)</name>
 		<image>./snap/Exoide-Z (Japan) (Alt 1).png</image>
-		<video>./video/Exoide-Z (Japan) (Alt 1).mp4</video>
+		<video>./video/Exoide-Z (Japan).mp4</video>
 		<marquee>./marquee/Exoide-Z (Japan) (Alt 1).png</marquee>
 		<developer>카시오</developer>
 		<publisher>카시오</publisher>
@@ -4160,7 +4151,7 @@
 		<path>./Exoide-Z (Japan) (Alt 2).zip</path>
 		<name>엑소이드 Z (대체 2)</name>
 		<image>./snap/Exoide-Z (Japan) (Alt 2).png</image>
-		<video>./video/Exoide-Z (Japan) (Alt 2).mp4</video>
+		<video>./video/Exoide-Z (Japan).mp4</video>
 		<marquee>./marquee/Exoide-Z (Japan) (Alt 2).png</marquee>
 		<developer>카시오</developer>
 		<publisher>카시오</publisher>
@@ -4199,7 +4190,7 @@
 		<path>./F-1 Spirit - The Way to Formula-1 (Japan) (Alt 1).zip</path>
 		<name>F1 스피릿 (대체 1)</name>
 		<image>./snap/F-1 Spirit - The Way to Formula-1 (Japan) (Alt 1).png</image>
-		<video>./video/F-1 Spirit - The Way to Formula-1 (Japan) (Alt 1).mp4</video>
+		<video>./video/F-1 Spirit - The Way to Formula-1 (Japan).mp4</video>
 		<marquee>./marquee/F-1 Spirit - The Way to Formula-1 (Japan) (Alt 1).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -4249,7 +4240,7 @@
 	</game>
 	<game>
 		<path>./Fa Tetris (Korea) (Unl).zip</path>
-		<name>FA 테트리스 (한국판)(해적판)</name>
+		<name>FA 테트리스</name>
 		<image>./snap/Fa Tetris (Korea) (Unl).png</image>
 		<video>./video/Fa Tetris (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Fa Tetris (Korea) (Unl).png</marquee>
@@ -4277,7 +4268,7 @@
 		<path>./Fairy Land Story, The (Japan) (Alt 1).zip</path>
 		<name>페어리 랜드 스토리 (대체 1)</name>
 		<image>./snap/Fairy Land Story, The (Japan) (Alt 1).png</image>
-		<video>./video/Fairy Land Story, The (Japan) (Alt 1).mp4</video>
+		<video>./video/Fairy Land Story, The (Japan).mp4</video>
 		<marquee>./marquee/Fairy Land Story, The (Japan) (Alt 1).png</marquee>
 		<developer>핫 B</developer>
 		<publisher>핫 B</publisher>
@@ -4314,7 +4305,7 @@
 	</game>
 	<game>
 		<path>./Family Automation Language Community (Japan) (Program).zip</path>
-		<name>패밀리 오토메이션 랭귀지 커뮤니티 (프로그램)</name>
+		<name>패밀리 오토메이션 랭귀지 커뮤니티</name>
 		<image>./snap/Family Automation Language Community (Japan) (Program).png</image>
 		<video>./video/Family Automation Language Community (Japan) (Program).mp4</video>
 		<marquee>./marquee/Family Automation Language Community (Japan) (Program).png</marquee>
@@ -4407,7 +4398,7 @@
 		<path>./Fantasy Zone II - The Tears of Opa-Opa (Japan) (Alt 1).zip</path>
 		<name>판타지 존 2 - 오파오파의 눈물 (대체 1)</name>
 		<image>./snap/Fantasy Zone II - The Tears of Opa-Opa (Japan) (Alt 1).png</image>
-		<video>./video/Fantasy Zone II - The Tears of Opa-Opa (Japan) (Alt 1).mp4</video>
+		<video>./video/Fantasy Zone II - The Tears of Opa-Opa (Japan).mp4</video>
 		<marquee>./marquee/Fantasy Zone II - The Tears of Opa-Opa (Japan) (Alt 1).png</marquee>
 		<developer/>
 		<publisher/>
@@ -4431,7 +4422,7 @@
 	</game>
 	<game>
 		<path>./Farm Kit (Europe) (Program).zip</path>
-		<name>팜 킷 (유럽판)(프로그램)</name>
+		<name>팜 킷</name>
 		<image>./snap/Farm Kit (Europe) (Program).png</image>
 		<video>./video/Farm Kit (Europe) (Program).mp4</video>
 		<marquee>./marquee/Farm Kit (Europe) (Program).png</marquee>
@@ -4457,7 +4448,7 @@
 	</game>
 	<game>
 		<path>./FB-01 Voicing Program (Japan) (Program).zip</path>
-		<name>FB-01 보이싱 프로그램 (프로그램)</name>
+		<name>FB-01 보이싱 프로그램</name>
 		<image>./snap/FB-01 Voicing Program (Japan) (Program).png</image>
 		<video>./video/FB-01 Voicing Program (Japan) (Program).mp4</video>
 		<marquee>./marquee/FB-01 Voicing Program (Japan) (Program).png</marquee>
@@ -4472,7 +4463,7 @@
 		<path>./Final Justice (Japan) (Alt 1).zip</path>
 		<name>파이널 저스티스 (대체 1)</name>
 		<image>./snap/Final Justice (Japan) (Alt 1).png</image>
-		<video>./video/Final Justice (Japan) (Alt 1).mp4</video>
+		<video>./video/Final Justice (Japan).mp4</video>
 		<marquee>./marquee/Final Justice (Japan) (Alt 1).png</marquee>
 		<developer>컴파일</developer>
 		<publisher>포니 캐년</publisher>
@@ -4485,7 +4476,7 @@
 		<path>./Final Justice (Japan) (Alt 2).zip</path>
 		<name>파이널 저스티스 (대체 2)</name>
 		<image>./snap/Final Justice (Japan) (Alt 2).png</image>
-		<video>./video/Final Justice (Japan) (Alt 2).mp4</video>
+		<video>./video/Final Justice (Japan).mp4</video>
 		<marquee>./marquee/Final Justice (Japan) (Alt 2).png</marquee>
 		<developer>컴파일</developer>
 		<publisher>포니 캐년</publisher>
@@ -4563,7 +4554,7 @@
 		<path>./Fire Rescue (Japan) (Alt 1).zip</path>
 		<name>파이어 레스큐 (대체 1)</name>
 		<image>./snap/Fire Rescue (Japan) (Alt 1).png</image>
-		<video>./video/Fire Rescue (Japan) (Alt 1).mp4</video>
+		<video>./video/Fire Rescue (Japan).mp4</video>
 		<marquee>./marquee/Fire Rescue (Japan) (Alt 1).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>쿠마 컴퓨터</publisher>
@@ -4589,7 +4580,7 @@
 		<path>./Flappy (Japan) (Alt 1).zip</path>
 		<name>플로피 (대체 1)</name>
 		<image>./snap/Flappy (Japan) (Alt 1).png</image>
-		<video>./video/Flappy (Japan) (Alt 1).mp4</video>
+		<video>./video/Flappy (Japan).mp4</video>
 		<marquee>./marquee/Flappy (Japan) (Alt 1).png</marquee>
 		<developer>dB 소프트</developer>
 		<publisher>dB 소프트</publisher>
@@ -4628,7 +4619,7 @@
 		<path>./Flash Point (Korea) (Alt 1) (Unl).zip</path>
 		<name>플래쉬 포인트 (한국판)(대체 1)(해적판)</name>
 		<image>./snap/Flash Point (Korea) (Alt 1) (Unl).png</image>
-		<video>./video/Flash Point (Korea) (Alt 1) (Unl).mp4</video>
+		<video>./video/Flash Point (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Flash Point (Korea) (Alt 1) (Unl).png</marquee>
 		<developer>클래식 콘솔 센터</developer>
 		<publisher>클래식 콘솔 센터</publisher>
@@ -4639,7 +4630,7 @@
 	</game>
 	<game>
 		<path>./Flash Point (Korea) (Unl).zip</path>
-		<name>플래쉬 포인트 (한국판)(해적판)</name>
+		<name>플래쉬 포인트</name>
 		<image>./snap/Flash Point (Korea) (Unl).png</image>
 		<video>./video/Flash Point (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Flash Point (Korea) (Unl).png</marquee>
@@ -4691,7 +4682,7 @@
 	</game>
 	<game>
 		<path>./Flics, Les (France).zip</path>
-		<name>플릭스 (프랑스판)</name>
+		<name>플릭스</name>
 		<image>./snap/Flics, Les (France).png</image>
 		<video>./video/Flics, Les (France).mp4</video>
 		<marquee>./marquee/Flics, Les (France).png</marquee>
@@ -4706,7 +4697,7 @@
 		<path>./Flight Deck (Japan) (Alt 1).zip</path>
 		<name>플라이트 덱 (대체 1)</name>
 		<image>./snap/Flight Deck (Japan) (Alt 1).png</image>
-		<video>./video/Flight Deck (Japan) (Alt 1).mp4</video>
+		<video>./video/Flight Deck (Japan).mp4</video>
 		<marquee>./marquee/Flight Deck (Japan) (Alt 1).png</marquee>
 		<developer>액코소프트</developer>
 		<publisher>액코소프트</publisher>
@@ -4745,7 +4736,7 @@
 		<path>./Flipper Slipper (Japan) (Alt 1).zip</path>
 		<name>플리퍼 슬리퍼 (대체 1)</name>
 		<image>./snap/Flipper Slipper (Japan) (Alt 1).png</image>
-		<video>./video/Flipper Slipper (Japan) (Alt 1).mp4</video>
+		<video>./video/Flipper Slipper (Japan).mp4</video>
 		<marquee>./marquee/Flipper Slipper (Japan) (Alt 1).png</marquee>
 		<developer>아스키</developer>
 		<publisher>아스키</publisher>
@@ -4769,7 +4760,7 @@
 	</game>
 	<game>
 		<path>./FM Music Composer (Japan) (Program).zip</path>
-		<name>FM 뮤직 컴포저 (프로그램)</name>
+		<name>FM 뮤직 컴포저</name>
 		<image>./snap/FM Music Composer (Japan) (Program).png</image>
 		<video>./video/FM Music Composer (Japan) (Program).mp4</video>
 		<marquee>./marquee/FM Music Composer (Japan) (Program).png</marquee>
@@ -4782,7 +4773,7 @@
 	</game>
 	<game>
 		<path>./FM Music Composer II (Japan) (Program).zip</path>
-		<name>FM 뮤직 컴포저 2 (프로그램)</name>
+		<name>FM 뮤직 컴포저 2</name>
 		<image>./snap/FM Music Composer II (Japan) (Program).png</image>
 		<video>./video/FM Music Composer II (Japan) (Program).mp4</video>
 		<marquee>./marquee/FM Music Composer II (Japan) (Program).png</marquee>
@@ -4795,7 +4786,7 @@
 	</game>
 	<game>
 		<path>./FM Music Macro (Japan) (Program).zip</path>
-		<name>FM 뮤직 매크로 (프로그램)</name>
+		<name>FM 뮤직 매크로</name>
 		<image>./snap/FM Music Macro (Japan) (Program).png</image>
 		<video>./video/FM Music Macro (Japan) (Program).mp4</video>
 		<marquee>./marquee/FM Music Macro (Japan) (Program).png</marquee>
@@ -4808,7 +4799,7 @@
 	</game>
 	<game>
 		<path>./FM Pana Amusement Cartridge (Japan) (Program).zip</path>
-		<name>FM 파나 어뮤즈먼트 카트리지 (프로그램)</name>
+		<name>FM 파나 어뮤즈먼트 카트리지</name>
 		<image>./snap/FM Pana Amusement Cartridge (Japan) (Program).png</image>
 		<video>./video/FM Pana Amusement Cartridge (Japan) (Program).mp4</video>
 		<marquee>./marquee/FM Pana Amusement Cartridge (Japan) (Program).png</marquee>
@@ -4821,7 +4812,7 @@
 	</game>
 	<game>
 		<path>./FM Voicing Program (Japan) (Program).zip</path>
-		<name>FM 보이싱 프로그램 (프로그램)</name>
+		<name>FM 보이싱 프로그램</name>
 		<image>./snap/FM Voicing Program (Japan) (Program).png</image>
 		<video>./video/FM Voicing Program (Japan) (Program).mp4</video>
 		<marquee>./marquee/FM Voicing Program (Japan) (Program).png</marquee>
@@ -4836,7 +4827,7 @@
 		<path>./Formation Z (Japan) (Alt 1).zip</path>
 		<name>포메이션 Z (대체 1)</name>
 		<image>./snap/Formation Z (Japan) (Alt 1).png</image>
-		<video>./video/Formation Z (Japan) (Alt 1).mp4</video>
+		<video>./video/Formation Z (Japan).mp4</video>
 		<marquee>./marquee/Formation Z (Japan) (Alt 1).png</marquee>
 		<developer>헥트</developer>
 		<publisher>니폰 덱스터</publisher>
@@ -4862,7 +4853,7 @@
 		<path>./Frogger (Japan) (Alt 1).zip</path>
 		<name>프로거 (대체 1)</name>
 		<image>./snap/Frogger (Japan) (Alt 1).png</image>
-		<video>./video/Frogger (Japan) (Alt 1).mp4</video>
+		<video>./video/Frogger (Japan).mp4</video>
 		<marquee>./marquee/Frogger (Japan) (Alt 1).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -4888,7 +4879,7 @@
 		<path>./Front Line (Japan) (Alt 1).zip</path>
 		<name>프론트 라인 (대체 1)</name>
 		<image>./snap/Front Line (Japan) (Alt 1).png</image>
-		<video>./video/Front Line (Japan) (Alt 1).mp4</video>
+		<video>./video/Front Line (Japan).mp4</video>
 		<marquee>./marquee/Front Line (Japan) (Alt 1).png</marquee>
 		<developer>타이토</developer>
 		<publisher>일렉트릭 소프트웨어</publisher>
@@ -4901,7 +4892,7 @@
 		<path>./Front Line (Japan) (Alt 2).zip</path>
 		<name>프론트 라인 (대체 2)</name>
 		<image>./snap/Front Line (Japan) (Alt 2).png</image>
-		<video>./video/Front Line (Japan) (Alt 2).mp4</video>
+		<video>./video/Front Line (Japan).mp4</video>
 		<marquee>./marquee/Front Line (Japan) (Alt 2).png</marquee>
 		<developer>타이토</developer>
 		<publisher>일렉트릭 소프트웨어</publisher>
@@ -4927,7 +4918,7 @@
 		<path>./Fruit Search (Japan) (Alt 1).zip</path>
 		<name>후르츠 서치 (대체 1)</name>
 		<image>./snap/Fruit Search (Japan) (Alt 1).png</image>
-		<video>./video/Fruit Search (Japan) (Alt 1).mp4</video>
+		<video>./video/Fruit Search (Japan).mp4</video>
 		<marquee>./marquee/Fruit Search (Japan) (Alt 1).png</marquee>
 		<developer>할 연구소</developer>
 		<publisher>할 연구소</publisher>
@@ -4964,7 +4955,7 @@
 	</game>
 	<game>
 		<path>./Futbol (Spain).zip</path>
-		<name>풋볼 (스페인판)</name>
+		<name>풋볼</name>
 		<image>./snap/Futbol (Spain).png</image>
 		<video>./video/Futbol (Spain).mp4</video>
 		<marquee>./marquee/Futbol (Spain).png</marquee>
@@ -5005,7 +4996,7 @@
 		<path>./Galaga (Japan) (Alt 1).zip</path>
 		<name>갤러그 (대체 1)</name>
 		<image>./snap/Galaga (Japan) (Alt 1).png</image>
-		<video>./video/Galaga (Japan) (Alt 1).mp4</video>
+		<video>./video/Galaga (Japan).mp4</video>
 		<marquee>./marquee/Galaga (Japan) (Alt 1).png</marquee>
 		<developer>남코</developer>
 		<publisher>남코</publisher>
@@ -5018,7 +5009,7 @@
 		<path>./Galaga (Japan) (Alt 2).zip</path>
 		<name>갤러그 (대체 2)</name>
 		<image>./snap/Galaga (Japan) (Alt 2).png</image>
-		<video>./video/Galaga (Japan) (Alt 2).mp4</video>
+		<video>./video/Galaga (Japan).mp4</video>
 		<marquee>./marquee/Galaga (Japan) (Alt 2).png</marquee>
 		<developer>남코</developer>
 		<publisher>남코</publisher>
@@ -5031,7 +5022,7 @@
 		<path>./Galaga (Japan) (Alt 3).zip</path>
 		<name>갤러그 (대체 3)</name>
 		<image>./snap/Galaga (Japan) (Alt 3).png</image>
-		<video>./video/Galaga (Japan) (Alt 3).mp4</video>
+		<video>./video/Galaga (Japan).mp4</video>
 		<marquee>./marquee/Galaga (Japan) (Alt 3).png</marquee>
 		<developer>남코</developer>
 		<publisher>남코</publisher>
@@ -5057,7 +5048,7 @@
 		<path>./Galaxian (Japan) (Alt 1).zip</path>
 		<name>갤럭시안 (대체 1)</name>
 		<image>./snap/Galaxian (Japan) (Alt 1).png</image>
-		<video>./video/Galaxian (Japan) (Alt 1).mp4</video>
+		<video>./video/Galaxian (Japan).mp4</video>
 		<marquee>./marquee/Galaxian (Japan) (Alt 1).png</marquee>
 		<developer>남코</developer>
 		<publisher>버그바이트</publisher>
@@ -5070,7 +5061,7 @@
 		<path>./Galaxian (Japan) (Alt 2).zip</path>
 		<name>갤럭시안 (대체 2)</name>
 		<image>./snap/Galaxian (Japan) (Alt 2).png</image>
-		<video>./video/Galaxian (Japan) (Alt 2).mp4</video>
+		<video>./video/Galaxian (Japan).mp4</video>
 		<marquee>./marquee/Galaxian (Japan) (Alt 2).png</marquee>
 		<developer>남코</developer>
 		<publisher>버그바이트</publisher>
@@ -5096,7 +5087,7 @@
 		<path>./Gall Force - Defense of Chaos (Japan) (Alt 1).zip</path>
 		<name>갈 포스 - 카오스 공방 (대체 1)</name>
 		<image>./snap/Gall Force - Defense of Chaos (Japan) (Alt 1).png</image>
-		<video>./video/Gall Force - Defense of Chaos (Japan) (Alt 1).mp4</video>
+		<video>./video/Gall Force - Defense of Chaos (Japan).mp4</video>
 		<marquee>./marquee/Gall Force - Defense of Chaos (Japan) (Alt 1).png</marquee>
 		<developer>할 연구소</developer>
 		<publisher>소니</publisher>
@@ -5109,7 +5100,7 @@
 		<path>./Gall Force - Defense of Chaos (Japan) (Alt 2).zip</path>
 		<name>갈 포스 - 카오스 공방 (대체 2)</name>
 		<image>./snap/Gall Force - Defense of Chaos (Japan) (Alt 2).png</image>
-		<video>./video/Gall Force - Defense of Chaos (Japan) (Alt 2).mp4</video>
+		<video>./video/Gall Force - Defense of Chaos (Japan).mp4</video>
 		<marquee>./marquee/Gall Force - Defense of Chaos (Japan) (Alt 2).png</marquee>
 		<developer>할 연구소</developer>
 		<publisher>소니</publisher>
@@ -5174,7 +5165,7 @@
 		<path>./Game Master (Europe) (Alt 1).zip</path>
 		<name>게임 마스터 (유럽판)(대체 1)</name>
 		<image>./snap/Game Master (Europe) (Alt 1).png</image>
-		<video>./video/Game Master (Europe) (Alt 1).mp4</video>
+		<video>./video/Game Master (Europe).mp4</video>
 		<marquee>./marquee/Game Master (Europe) (Alt 1).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -5185,7 +5176,7 @@
 	</game>
 	<game>
 		<path>./Game Master (Europe).zip</path>
-		<name>게임 마스터 (유럽판)</name>
+		<name>게임 마스터</name>
 		<image>./snap/Game Master (Europe).png</image>
 		<video>./video/Game Master (Europe).mp4</video>
 		<marquee>./marquee/Game Master (Europe).png</marquee>
@@ -5200,7 +5191,7 @@
 		<path>./Game Master (Japan) (Alt 1).zip</path>
 		<name>게임 마스터 (대체 1)</name>
 		<image>./snap/Game Master (Japan) (Alt 1).png</image>
-		<video>./video/Game Master (Japan) (Alt 1).mp4</video>
+		<video>./video/Game Master (Europe).mp4</video>
 		<marquee>./marquee/Game Master (Japan) (Alt 1).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -5213,7 +5204,7 @@
 		<path>./Game Master (Japan).zip</path>
 		<name>게임 마스터</name>
 		<image>./snap/Game Master (Japan).png</image>
-		<video>./video/Game Master (Japan).mp4</video>
+		<video>./video/Game Master (Europe).mp4</video>
 		<marquee>./marquee/Game Master (Japan).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -5226,7 +5217,7 @@
 		<path>./Game Master II (Japan) (Alt 1).zip</path>
 		<name>게임 마스터 2 (대체 1)</name>
 		<image>./snap/Game Master II (Japan) (Alt 1).png</image>
-		<video>./video/Game Master II (Japan) (Alt 1).mp4</video>
+		<video>./video/Game Master II (Japan).mp4</video>
 		<marquee>./marquee/Game Master II (Japan) (Alt 1).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -5250,7 +5241,7 @@
 	</game>
 	<game>
 		<path>./Game World - 126 Games (Korea) (Unl).zip</path>
-		<name>게임월드 126합 (한국판)(해적판)</name>
+		<name>게임월드 126합</name>
 		<image>./snap/Game World - 126 Games (Korea) (Unl).png</image>
 		<video>./video/Game World - 126 Games (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Game World - 126 Games (Korea) (Unl).png</marquee>
@@ -5304,7 +5295,7 @@
 		<path>./Garyuu Ou (Japan) (Alt 1).zip</path>
 		<name>아룡왕 (대체 1)</name>
 		<image>./snap/Garyuu Ou (Japan) (Alt 1).png</image>
-		<video>./video/Garyuu Ou (Japan) (Alt 1).mp4</video>
+		<video>./video/Garyuu Ou (Japan).mp4</video>
 		<marquee>./marquee/Garyuu Ou (Japan) (Alt 1).png</marquee>
 		<developer/>
 		<publisher/>
@@ -5343,7 +5334,7 @@
 		<path>./Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 1).zip</path>
 		<name>프로야구 격돌 페넌트 레이스 (대체 1)</name>
 		<image>./snap/Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 1).png</image>
-		<video>./video/Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 1).mp4</video>
+		<video>./video/Gekitotsu Pennant Race - Pro Yakyuu, The (Japan).mp4</video>
 		<marquee>./marquee/Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 1).png</marquee>
 		<developer/>
 		<publisher/>
@@ -5356,7 +5347,7 @@
 		<path>./Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 2).zip</path>
 		<name>프로야구 격돌 페넌트 레이스 (대체 2)</name>
 		<image>./snap/Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 2).png</image>
-		<video>./video/Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 2).mp4</video>
+		<video>./video/Gekitotsu Pennant Race - Pro Yakyuu, The (Japan).mp4</video>
 		<marquee>./marquee/Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 2).png</marquee>
 		<developer/>
 		<publisher/>
@@ -5369,7 +5360,7 @@
 		<path>./Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 3).zip</path>
 		<name>프로야구 격돌 페넌트 레이스 (대체 3)</name>
 		<image>./snap/Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 3).png</image>
-		<video>./video/Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 3).mp4</video>
+		<video>./video/Gekitotsu Pennant Race - Pro Yakyuu, The (Japan).mp4</video>
 		<marquee>./marquee/Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 3).png</marquee>
 		<developer/>
 		<publisher/>
@@ -5408,7 +5399,7 @@
 		<path>./Gekitotsu Pennant Race 2 (Japan).zip</path>
 		<name>격돌 페넌트 레이스 2</name>
 		<image>./snap/Gekitotsu Pennant Race 2 (Japan).png</image>
-		<video>./video/Gekitotsu Pennant Race 2 (Japan).mp4</video>
+		<video>./video/Gekitotsu Pennant Race 2 (Japan) (English Menu).mp4</video>
 		<marquee>./marquee/Gekitotsu Pennant Race 2 (Japan).png</marquee>
 		<developer/>
 		<publisher/>
@@ -5432,7 +5423,7 @@
 	</game>
 	<game>
 		<path>./Ghostbusters (Europe).zip</path>
-		<name>고스트 버스터즈 (유럽판)</name>
+		<name>고스트 버스터즈</name>
 		<image>./snap/Ghostbusters (Europe).png</image>
 		<video>./video/Ghostbusters (Europe).mp4</video>
 		<marquee>./marquee/Ghostbusters (Europe).png</marquee>
@@ -5460,7 +5451,7 @@
 		<path>./Glider (Japan) (Alt 1).zip</path>
 		<name>글라이더 (대체 1)</name>
 		<image>./snap/Glider (Japan) (Alt 1).png</image>
-		<video>./video/Glider (Japan) (Alt 1).mp4</video>
+		<video>./video/Glider (Japan).mp4</video>
 		<marquee>./marquee/Glider (Japan) (Alt 1).png</marquee>
 		<developer>소프트 도로시</developer>
 		<publisher>소프트 도로시</publisher>
@@ -5486,7 +5477,7 @@
 		<path>./Gojira vs 3 Daikaijuu (Japan) (Alt 1).zip</path>
 		<name>고질라 대 3 대괴수 (대체 1)</name>
 		<image>./snap/Gojira vs 3 Daikaijuu (Japan) (Alt 1).png</image>
-		<video>./video/Gojira vs 3 Daikaijuu (Japan) (Alt 1).mp4</video>
+		<video>./video/Gojira vs 3 Daikaijuu (Japan).mp4</video>
 		<marquee>./marquee/Gojira vs 3 Daikaijuu (Japan) (Alt 1).png</marquee>
 		<developer>반다이</developer>
 		<publisher>반다이</publisher>
@@ -5512,7 +5503,7 @@
 		<path>./Gojira-kun (Japan) (Alt 1).zip</path>
 		<name>고질라군 (대체 1)</name>
 		<image>./snap/Gojira-kun (Japan) (Alt 1).png</image>
-		<video>./video/Gojira-kun (Japan) (Alt 1).mp4</video>
+		<video>./video/Gojira-kun (Japan).mp4</video>
 		<marquee>./marquee/Gojira-kun (Japan) (Alt 1).png</marquee>
 		<developer>컴파일</developer>
 		<publisher>토호</publisher>
@@ -5577,7 +5568,7 @@
 		<path>./Gomok Narabe - Omo Go (Japan) (Alt 1).zip</path>
 		<name>오목 (대체 1)</name>
 		<image>./snap/Gomok Narabe - Omo Go (Japan) (Alt 1).png</image>
-		<video>./video/Gomok Narabe - Omo Go (Japan) (Alt 1).mp4</video>
+		<video>./video/Gomok Narabe - Omo Go (Japan).mp4</video>
 		<marquee>./marquee/Gomok Narabe - Omo Go (Japan) (Alt 1).png</marquee>
 		<developer>도시바 EMI</developer>
 		<publisher>도시바 EMI</publisher>
@@ -5603,7 +5594,7 @@
 		<path>./Goonies, The (Japan) (Alt 1).zip</path>
 		<name>구니스 (대체 1)</name>
 		<image>./snap/Goonies, The (Japan) (Alt 1).png</image>
-		<video>./video/Goonies, The (Japan) (Alt 1).mp4</video>
+		<video>./video/Goonies, The (Japan).mp4</video>
 		<marquee>./marquee/Goonies, The (Japan) (Alt 1).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -5616,7 +5607,7 @@
 		<path>./Goonies, The (Japan) (Alt 2).zip</path>
 		<name>구니스 (대체 2)</name>
 		<image>./snap/Goonies, The (Japan) (Alt 2).png</image>
-		<video>./video/Goonies, The (Japan) (Alt 2).mp4</video>
+		<video>./video/Goonies, The (Japan).mp4</video>
 		<marquee>./marquee/Goonies, The (Japan) (Alt 2).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -5655,7 +5646,7 @@
 		<path>./Green Beret (Europe) (Alt 1).zip</path>
 		<name>그린베레 (유럽판)(대체 1)</name>
 		<image>./snap/Green Beret (Europe) (Alt 1).png</image>
-		<video>./video/Green Beret (Europe) (Alt 1).mp4</video>
+		<video>./video/Green Beret (Europe).mp4</video>
 		<marquee>./marquee/Green Beret (Europe) (Alt 1).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -5666,7 +5657,7 @@
 	</game>
 	<game>
 		<path>./Green Beret (Europe).zip</path>
-		<name>그린베레 (유럽판)</name>
+		<name>그린베레</name>
 		<image>./snap/Green Beret (Europe).png</image>
 		<video>./video/Green Beret (Europe).mp4</video>
 		<marquee>./marquee/Green Beret (Europe).png</marquee>
@@ -5681,7 +5672,7 @@
 		<path>./Grog's Revenge (Japan) (Alt 1).zip</path>
 		<name>그록의 복수 (대체 1)</name>
 		<image>./snap/Grog's Revenge (Japan) (Alt 1).png</image>
-		<video>./video/Grog's Revenge (Japan) (Alt 1).mp4</video>
+		<video>./video/Grog's Revenge (Japan).mp4</video>
 		<marquee>./marquee/Grog's Revenge (Japan) (Alt 1).png</marquee>
 		<developer>컴퓨티크</developer>
 		<publisher>컴퓨티크</publisher>
@@ -5707,7 +5698,7 @@
 		<path>./Guardic (Japan) (Alt 1).zip</path>
 		<name>가디크 (대체 1)</name>
 		<image>./snap/Guardic (Japan) (Alt 1).png</image>
-		<video>./video/Guardic (Japan) (Alt 1).mp4</video>
+		<video>./video/Guardic (Japan).mp4</video>
 		<marquee>./marquee/Guardic (Japan) (Alt 1).png</marquee>
 		<developer>컴파일</developer>
 		<publisher>컴파일</publisher>
@@ -5733,7 +5724,7 @@
 		<path>./Gulkave (Japan) (Alt 1).zip</path>
 		<name>걸케이브 (대체 1)</name>
 		<image>./snap/Gulkave (Japan) (Alt 1).png</image>
-		<video>./video/Gulkave (Japan) (Alt 1).mp4</video>
+		<video>./video/Gulkave (Japan).mp4</video>
 		<marquee>./marquee/Gulkave (Japan) (Alt 1).png</marquee>
 		<developer>컴파일</developer>
 		<publisher>포니 캐년</publisher>
@@ -5824,7 +5815,7 @@
 		<path>./Hades no Monsho (Japan) (Alt 1).zip</path>
 		<name>하데스의 문장 (대체 1)</name>
 		<image>./snap/Hades no Monsho (Japan) (Alt 1).png</image>
-		<video>./video/Hades no Monsho (Japan) (Alt 1).mp4</video>
+		<video>./video/Hades no Monsho (Japan).mp4</video>
 		<marquee>./marquee/Hades no Monsho (Japan) (Alt 1).png</marquee>
 		<developer>카시오</developer>
 		<publisher>카시오</publisher>
@@ -5887,7 +5878,7 @@
 	</game>
 	<game>
 		<path>./Hal Note (Japan) (Program).zip</path>
-		<name>할 노트 (프로그램)</name>
+		<name>할 노트</name>
 		<image>./snap/Hal Note (Japan) (Program).png</image>
 		<video>./video/Hal Note (Japan) (Program).mp4</video>
 		<marquee>./marquee/Hal Note (Japan) (Program).png</marquee>
@@ -5902,7 +5893,7 @@
 		<path>./Han Seimei Senki Andorogynus (Japan) (Alt 1).zip</path>
 		<name>반생명 전기 안드로규너스 (대체 1)</name>
 		<image>./snap/Han Seimei Senki Andorogynus (Japan) (Alt 1).png</image>
-		<video>./video/Han Seimei Senki Andorogynus (Japan) (Alt 1).mp4</video>
+		<video>./video/Han Seimei Senki Andorogynus (Japan).mp4</video>
 		<marquee>./marquee/Han Seimei Senki Andorogynus (Japan) (Alt 1).png</marquee>
 		<developer/>
 		<publisher/>
@@ -5941,7 +5932,7 @@
 		<path>./Hang-On (Japan) (Alt 1).zip</path>
 		<name>행온 (대체 1)</name>
 		<image>./snap/Hang-On (Japan) (Alt 1).png</image>
-		<video>./video/Hang-On (Japan) (Alt 1).mp4</video>
+		<video>./video/Hang-On (Japan).mp4</video>
 		<marquee>./marquee/Hang-On (Japan) (Alt 1).png</marquee>
 		<developer>세가</developer>
 		<publisher>포니 캐년</publisher>
@@ -5954,7 +5945,7 @@
 		<path>./Hang-On (Japan) (Alt 2).zip</path>
 		<name>행온 (대체 2)</name>
 		<image>./snap/Hang-On (Japan) (Alt 2).png</image>
-		<video>./video/Hang-On (Japan) (Alt 2).mp4</video>
+		<video>./video/Hang-On (Japan).mp4</video>
 		<marquee>./marquee/Hang-On (Japan) (Alt 2).png</marquee>
 		<developer>세가</developer>
 		<publisher>포니 캐년</publisher>
@@ -6045,7 +6036,7 @@
 		<path>./Heavy Boxing (Japan) (Alt 1).zip</path>
 		<name>헤비 복싱 (대체 1)</name>
 		<image>./snap/Heavy Boxing (Japan) (Alt 1).png</image>
-		<video>./video/Heavy Boxing (Japan) (Alt 1).mp4</video>
+		<video>./video/Heavy Boxing (Japan).mp4</video>
 		<marquee>./marquee/Heavy Boxing (Japan) (Alt 1).png</marquee>
 		<developer>타카라</developer>
 		<publisher>할 연구소</publisher>
@@ -6149,7 +6140,7 @@
 		<path>./High Way Star (Korea).zip</path>
 		<name>하이 웨이 스타 (한국판)</name>
 		<image>./snap/High Way Star (Korea).png</image>
-		<video>./video/High Way Star (Korea).mp4</video>
+		<video>./video/High Way Star (Japan).mp4</video>
 		<marquee>./marquee/High Way Star (Korea).png</marquee>
 		<developer>아이버 소프트</developer>
 		<publisher>코노시스</publisher>
@@ -6162,7 +6153,7 @@
 		<path>./Hinotori - Houou Hen (Japan) (Alt 1).zip</path>
 		<name>불새 - 봉황편 (대체 1)</name>
 		<image>./snap/Hinotori - Houou Hen (Japan) (Alt 1).png</image>
-		<video>./video/Hinotori - Houou Hen (Japan) (Alt 1).mp4</video>
+		<video>./video/Hinotori - Houou Hen (Japan).mp4</video>
 		<marquee>./marquee/Hinotori - Houou Hen (Japan) (Alt 1).png</marquee>
 		<developer/>
 		<publisher/>
@@ -6175,7 +6166,7 @@
 		<path>./Hinotori - Houou Hen (Japan) (Alt 2).zip</path>
 		<name>불새 - 봉황편 (대체 2)</name>
 		<image>./snap/Hinotori - Houou Hen (Japan) (Alt 2).png</image>
-		<video>./video/Hinotori - Houou Hen (Japan) (Alt 2).mp4</video>
+		<video>./video/Hinotori - Houou Hen (Japan).mp4</video>
 		<marquee>./marquee/Hinotori - Houou Hen (Japan) (Alt 2).png</marquee>
 		<developer/>
 		<publisher/>
@@ -6227,7 +6218,7 @@
 		<path>./Hole in One (Japan) (Alt 1).zip</path>
 		<name>홀 인 원 (대체 1)</name>
 		<image>./snap/Hole in One (Japan) (Alt 1).png</image>
-		<video>./video/Hole in One (Japan) (Alt 1).mp4</video>
+		<video>./video/Hole in One (Japan).mp4</video>
 		<marquee>./marquee/Hole in One (Japan) (Alt 1).png</marquee>
 		<developer>RISC</developer>
 		<publisher>BMC</publisher>
@@ -6240,7 +6231,7 @@
 		<path>./Hole in One (Japan) (Alt 2).zip</path>
 		<name>홀 인 원 (대체 2)</name>
 		<image>./snap/Hole in One (Japan) (Alt 2).png</image>
-		<video>./video/Hole in One (Japan) (Alt 2).mp4</video>
+		<video>./video/Hole in One (Japan).mp4</video>
 		<marquee>./marquee/Hole in One (Japan) (Alt 2).png</marquee>
 		<developer>RISC</developer>
 		<publisher>BMC</publisher>
@@ -6253,7 +6244,7 @@
 		<path>./Hole in One (Japan) (Alt 3).zip</path>
 		<name>홀 인 원 (대체 3)</name>
 		<image>./snap/Hole in One (Japan) (Alt 3).png</image>
-		<video>./video/Hole in One (Japan) (Alt 3).mp4</video>
+		<video>./video/Hole in One (Japan).mp4</video>
 		<marquee>./marquee/Hole in One (Japan) (Alt 3).png</marquee>
 		<developer>RISC</developer>
 		<publisher>BMC</publisher>
@@ -6277,7 +6268,7 @@
 	</game>
 	<game>
 		<path>./Hole in One Professional (Japan) (Alt 1).zip</path>
-		<name>홀 인 원 프로페셔널 (대체 1)</name>
+		<name>홀 인 원 프로페셔널</name>
 		<image>./snap/Hole in One Professional (Japan) (Alt 1).png</image>
 		<video>./video/Hole in One Professional (Japan) (Alt 1).mp4</video>
 		<marquee>./marquee/Hole in One Professional (Japan) (Alt 1).png</marquee>
@@ -6292,7 +6283,7 @@
 		<path>./Hole in One Professional (Japan).zip</path>
 		<name>홀 인 원 프로페셔널</name>
 		<image>./snap/Hole in One Professional (Japan).png</image>
-		<video>./video/Hole in One Professional (Japan).mp4</video>
+		<video>./video/Hole in One Professional (Japan) (Alt 1).mp4</video>
 		<marquee>./marquee/Hole in One Professional (Japan).png</marquee>
 		<developer>할 연구소</developer>
 		<publisher>할 연구소</publisher>
@@ -6305,7 +6296,7 @@
 		<path>./Hole in One Special (Japan) (Alt 1).zip</path>
 		<name>홀 인 원 스페셜 (대체 1)</name>
 		<image>./snap/Hole in One Special (Japan) (Alt 1).png</image>
-		<video>./video/Hole in One Special (Japan) (Alt 1).mp4</video>
+		<video>./video/Hole in One Special (Japan).mp4</video>
 		<marquee>./marquee/Hole in One Special (Japan) (Alt 1).png</marquee>
 		<developer/>
 		<publisher/>
@@ -6329,7 +6320,7 @@
 	</game>
 	<game>
 		<path>./Home Calc (Japan) (Program).zip</path>
-		<name>가정용 계산기 (프로그램)</name>
+		<name>가정용 계산기</name>
 		<image>./snap/Home Calc (Japan) (Program).png</image>
 		<video>./video/Home Calc (Japan) (Program).mp4</video>
 		<marquee>./marquee/Home Calc (Japan) (Program).png</marquee>
@@ -6342,7 +6333,7 @@
 	</game>
 	<game>
 		<path>./Home Writer (Japan) (Program).zip</path>
-		<name>가정용 라이터 (프로그램)</name>
+		<name>가정용 라이터</name>
 		<image>./snap/Home Writer (Japan) (Program).png</image>
 		<video>./video/Home Writer (Japan) (Program).mp4</video>
 		<marquee>./marquee/Home Writer (Japan) (Program).png</marquee>
@@ -6368,7 +6359,7 @@
 	</game>
 	<game>
 		<path>./Hopper (Europe).zip</path>
-		<name>호퍼 (유럽판)</name>
+		<name>호퍼</name>
 		<image>./snap/Hopper (Europe).png</image>
 		<video>./video/Hopper (Europe).mp4</video>
 		<marquee>./marquee/Hopper (Europe).png</marquee>
@@ -6383,7 +6374,7 @@
 		<path>./Hudson 3D Golf (Japan) (Alt 1).zip</path>
 		<name>허드슨 3D 골프 (대체 1)</name>
 		<image>./snap/Hudson 3D Golf (Japan) (Alt 1).png</image>
-		<video>./video/Hudson 3D Golf (Japan) (Alt 1).mp4</video>
+		<video>./video/Hudson 3D Golf (Japan).mp4</video>
 		<marquee>./marquee/Hudson 3D Golf (Japan) (Alt 1).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
@@ -6409,7 +6400,7 @@
 		<path>./Hustle! Chumy (Japan) (Alt 1).zip</path>
 		<name>허슬! 츄미 (대체 1)</name>
 		<image>./snap/Hustle! Chumy (Japan) (Alt 1).png</image>
-		<video>./video/Hustle! Chumy (Japan) (Alt 1).mp4</video>
+		<video>./video/Hustle! Chumy (Japan).mp4</video>
 		<marquee>./marquee/Hustle! Chumy (Japan) (Alt 1).png</marquee>
 		<developer>컴파일</developer>
 		<publisher>니소</publisher>
@@ -6461,7 +6452,7 @@
 		<path>./Hydlide II - Shine of Darkness (Japan) (Alt 1).zip</path>
 		<name>하이드라이드 2 - 암흑의 빛 (대체 1)</name>
 		<image>./snap/Hydlide II - Shine of Darkness (Japan) (Alt 1).png</image>
-		<video>./video/Hydlide II - Shine of Darkness (Japan) (Alt 1).mp4</video>
+		<video>./video/Hydlide II - Shine of Darkness (Japan).mp4</video>
 		<marquee>./marquee/Hydlide II - Shine of Darkness (Japan) (Alt 1).png</marquee>
 		<developer>T&amp;E 소프트</developer>
 		<publisher>T&amp;E 소프트</publisher>
@@ -6513,7 +6504,7 @@
 		<path>./Hyper Rally (Japan) (Alt 1).zip</path>
 		<name>하이퍼 랠리 (대체 1)</name>
 		<image>./snap/Hyper Rally (Japan) (Alt 1).png</image>
-		<video>./video/Hyper Rally (Japan) (Alt 1).mp4</video>
+		<video>./video/Hyper Rally (Japan).mp4</video>
 		<marquee>./marquee/Hyper Rally (Japan) (Alt 1).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -6526,7 +6517,7 @@
 		<path>./Hyper Rally (Japan) (Alt 2).zip</path>
 		<name>하이퍼 랠리 (대체 2)</name>
 		<image>./snap/Hyper Rally (Japan) (Alt 2).png</image>
-		<video>./video/Hyper Rally (Japan) (Alt 2).mp4</video>
+		<video>./video/Hyper Rally (Japan).mp4</video>
 		<marquee>./marquee/Hyper Rally (Japan) (Alt 2).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -6539,7 +6530,7 @@
 		<path>./Hyper Rally (Japan) (Alt 3).zip</path>
 		<name>하이퍼 랠리 (대체 3)</name>
 		<image>./snap/Hyper Rally (Japan) (Alt 3).png</image>
-		<video>./video/Hyper Rally (Japan) (Alt 3).mp4</video>
+		<video>./video/Hyper Rally (Japan).mp4</video>
 		<marquee>./marquee/Hyper Rally (Japan) (Alt 3).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -6565,7 +6556,7 @@
 		<path>./Hyper Sports 1 (Japan) (Alt 1).zip</path>
 		<name>하이퍼 스포츠 1 (대체 1)</name>
 		<image>./snap/Hyper Sports 1 (Japan) (Alt 1).png</image>
-		<video>./video/Hyper Sports 1 (Japan) (Alt 1).mp4</video>
+		<video>./video/Hyper Sports 1 (Japan).mp4</video>
 		<marquee>./marquee/Hyper Sports 1 (Japan) (Alt 1).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -6604,7 +6595,7 @@
 		<path>./Hyper Sports 3 (Japan) (Alt 1).zip</path>
 		<name>하이퍼 스포츠 3 (대체 1)</name>
 		<image>./snap/Hyper Sports 3 (Japan) (Alt 1).png</image>
-		<video>./video/Hyper Sports 3 (Japan) (Alt 1).mp4</video>
+		<video>./video/Hyper Sports 3 (Japan).mp4</video>
 		<marquee>./marquee/Hyper Sports 3 (Japan) (Alt 1).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -6617,7 +6608,7 @@
 		<path>./Hyper Sports 3 (Japan) (Alt 2).zip</path>
 		<name>하이퍼 스포츠 3 (대체 2)</name>
 		<image>./snap/Hyper Sports 3 (Japan) (Alt 2).png</image>
-		<video>./video/Hyper Sports 3 (Japan) (Alt 2).mp4</video>
+		<video>./video/Hyper Sports 3 (Japan).mp4</video>
 		<marquee>./marquee/Hyper Sports 3 (Japan) (Alt 2).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -6695,7 +6686,7 @@
 		<path>./Ikari (Japan) (Alt 1).zip</path>
 		<name>이까리 (대체 1)</name>
 		<image>./snap/Ikari (Japan) (Alt 1).png</image>
-		<video>./video/Ikari (Japan) (Alt 1).mp4</video>
+		<video>./video/Ikari (Japan).mp4</video>
 		<marquee>./marquee/Ikari (Japan) (Alt 1).png</marquee>
 		<developer/>
 		<publisher/>
@@ -6773,7 +6764,7 @@
 		<path>./Iriegas - Theseus (Japan) (Alt 1).zip</path>
 		<name>이리에가스 - 테세우스 (대체 1)</name>
 		<image>./snap/Iriegas - Theseus (Japan) (Alt 1).png</image>
-		<video>./video/Iriegas - Theseus (Japan) (Alt 1).mp4</video>
+		<video>./video/Iriegas - Theseus (Japan).mp4</video>
 		<marquee>./marquee/Iriegas - Theseus (Japan) (Alt 1).png</marquee>
 		<developer>아스키</developer>
 		<publisher>아스키</publisher>
@@ -6812,7 +6803,7 @@
 		<path>./Issunhoushi No Donnamondai (Japan) (Alt 1).zip</path>
 		<name>일촌법사의 어떤 문제 (대체 1)</name>
 		<image>./snap/Issunhoushi No Donnamondai (Japan) (Alt 1).png</image>
-		<video>./video/Issunhoushi No Donnamondai (Japan) (Alt 1).mp4</video>
+		<video>./video/Issunhoushi No Donnamondai (Japan).mp4</video>
 		<marquee>./marquee/Issunhoushi No Donnamondai (Japan) (Alt 1).png</marquee>
 		<developer>카시오</developer>
 		<publisher>카시오</publisher>
@@ -6851,7 +6842,7 @@
 		<path>./Jagur (Japan) (Alt 1).zip</path>
 		<name>재거 (대체 1)</name>
 		<image>./snap/Jagur (Japan) (Alt 1).png</image>
-		<video>./video/Jagur (Japan) (Alt 1).mp4</video>
+		<video>./video/Jagur (Japan).mp4</video>
 		<marquee>./marquee/Jagur (Japan) (Alt 1).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
@@ -6890,7 +6881,7 @@
 		<path>./Jansei (Japan) (Alt 1).zip</path>
 		<name>작성 (대체 1)</name>
 		<image>./snap/Jansei (Japan) (Alt 1).png</image>
-		<video>./video/Jansei (Japan) (Alt 1).mp4</video>
+		<video>./video/Jansei (Japan).mp4</video>
 		<marquee>./marquee/Jansei (Japan) (Alt 1).png</marquee>
 		<developer/>
 		<publisher/>
@@ -6914,7 +6905,7 @@
 	</game>
 	<game>
 		<path>./Japanese MSX-Write (Japan) (Program).zip</path>
-		<name>일본어 MSX 쓰기 (프로그램)</name>
+		<name>일본어 MSX 쓰기</name>
 		<image>./snap/Japanese MSX-Write (Japan) (Program).png</image>
 		<video>./video/Japanese MSX-Write (Japan) (Program).mp4</video>
 		<marquee>./marquee/Japanese MSX-Write (Japan) (Program).png</marquee>
@@ -6927,7 +6918,7 @@
 	</game>
 	<game>
 		<path>./Japanese MSX-Write II (Japan) (Program).zip</path>
-		<name>일본어 MSX 쓰기 2 (프로그램)</name>
+		<name>일본어 MSX 쓰기 2</name>
 		<image>./snap/Japanese MSX-Write II (Japan) (Program).png</image>
 		<video>./video/Japanese MSX-Write II (Japan) (Program).mp4</video>
 		<marquee>./marquee/Japanese MSX-Write II (Japan) (Program).png</marquee>
@@ -6942,7 +6933,7 @@
 		<path>./Jet Set Willy (Japan) (Alt 1).zip</path>
 		<name>젯 셋 윌리 (대체 1)</name>
 		<image>./snap/Jet Set Willy (Japan) (Alt 1).png</image>
-		<video>./video/Jet Set Willy (Japan) (Alt 1).mp4</video>
+		<video>./video/Jet Set Willy (Japan).mp4</video>
 		<marquee>./marquee/Jet Set Willy (Japan) (Alt 1).png</marquee>
 		<developer>소프트웨어 프로젝트</developer>
 		<publisher>소프트웨어 프로젝트</publisher>
@@ -6992,7 +6983,7 @@
 	</game>
 	<game>
 		<path>./Jisyo Data (Japan) (Program).zip</path>
-		<name>사전 데이터 (프로그램)</name>
+		<name>사전 데이터</name>
 		<image>./snap/Jisyo Data (Japan) (Program).png</image>
 		<video>./video/Jisyo Data (Japan) (Program).mp4</video>
 		<marquee>./marquee/Jisyo Data (Japan) (Program).png</marquee>
@@ -7005,7 +6996,7 @@
 	</game>
 	<game>
 		<path>./Joytelop (Japan) (Program).zip</path>
-		<name>조이텔롭 (프로그램)</name>
+		<name>조이텔롭</name>
 		<image>./snap/Joytelop (Japan) (Program).png</image>
 		<video>./video/Joytelop (Japan) (Program).mp4</video>
 		<marquee>./marquee/Joytelop (Japan) (Program).png</marquee>
@@ -7072,7 +7063,7 @@
 		<path>./Juno First (Japan) (Alt 1).zip</path>
 		<name>주노 퍼스트 (대체 1)</name>
 		<image>./snap/Juno First (Japan) (Alt 1).png</image>
-		<video>./video/Juno First (Japan) (Alt 1).mp4</video>
+		<video>./video/Juno First (Japan).mp4</video>
 		<marquee>./marquee/Juno First (Japan) (Alt 1).png</marquee>
 		<developer>코나미</developer>
 		<publisher>소니</publisher>
@@ -7137,7 +7128,7 @@
 		<path>./Kage no Densetsu - Legend of Kage, The (Japan) (Alt 1).zip</path>
 		<name>카게의 전설 (대체 1)</name>
 		<image>./snap/Kage no Densetsu - Legend of Kage, The (Japan) (Alt 1).png</image>
-		<video>./video/Kage no Densetsu - Legend of Kage, The (Japan) (Alt 1).mp4</video>
+		<video>./video/Kage no Densetsu - Legend of Kage, The (Japan).mp4</video>
 		<marquee>./marquee/Kage no Densetsu - Legend of Kage, The (Japan) (Alt 1).png</marquee>
 		<developer>타이토</developer>
 		<publisher>타이토</publisher>
@@ -7161,7 +7152,7 @@
 	</game>
 	<game>
 		<path>./Kakikukekon (Japan) (Program).zip</path>
-		<name>그림책 (프로그램)</name>
+		<name>그림책</name>
 		<image>./snap/Kakikukekon (Japan) (Program).png</image>
 		<video>./video/Kakikukekon (Japan) (Program).mp4</video>
 		<marquee>./marquee/Kakikukekon (Japan) (Program).png</marquee>
@@ -7200,7 +7191,7 @@
 	</game>
 	<game>
 		<path>./Keiba, The (Japan) (Program).zip</path>
-		<name>경마 (프로그램)</name>
+		<name>경마</name>
 		<image>./snap/Keiba, The (Japan) (Program).png</image>
 		<video>./video/Keiba, The (Japan) (Program).mp4</video>
 		<marquee>./marquee/Keiba, The (Japan) (Program).png</marquee>
@@ -7228,7 +7219,7 @@
 		<path>./Keystone Kapers (Japan) (Alt 1).zip</path>
 		<name>키스톤 캐이퍼스 (대체 1)</name>
 		<image>./snap/Keystone Kapers (Japan) (Alt 1).png</image>
-		<video>./video/Keystone Kapers (Japan) (Alt 1).mp4</video>
+		<video>./video/Keystone Kapers (Japan).mp4</video>
 		<marquee>./marquee/Keystone Kapers (Japan) (Alt 1).png</marquee>
 		<developer>액티비전</developer>
 		<publisher>포니 캐년</publisher>
@@ -7254,7 +7245,7 @@
 		<path>./Kick It (Japan) (Alt 1).zip</path>
 		<name>킥 잇 (대체 1)</name>
 		<image>./snap/Kick It (Japan) (Alt 1).png</image>
-		<video>./video/Kick It (Japan) (Alt 1).mp4</video>
+		<video>./video/Kick It (Japan).mp4</video>
 		<marquee>./marquee/Kick It (Japan) (Alt 1).png</marquee>
 		<developer>액코소프트</developer>
 		<publisher>할 연구소</publisher>
@@ -7291,7 +7282,7 @@
 	</game>
 	<game>
 		<path>./Kinasai (Japan) (Unl).zip</path>
-		<name>오세요 (해적판)</name>
+		<name>오세요</name>
 		<image>./snap/Kinasai (Japan) (Unl).png</image>
 		<video>./video/Kinasai (Japan) (Unl).mp4</video>
 		<marquee>./marquee/Kinasai (Japan) (Unl).png</marquee>
@@ -7306,7 +7297,7 @@
 		<path>./King &amp; Balloon (Japan) (Alt 1).zip</path>
 		<name>킹 &amp; 벌룬 (대체 1)</name>
 		<image>./snap/King &amp; Balloon (Japan) (Alt 1).png</image>
-		<video>./video/King &amp; Balloon (Japan) (Alt 1).mp4</video>
+		<video>./video/King &amp; Balloon (Japan).mp4</video>
 		<marquee>./marquee/King &amp; Balloon (Japan) (Alt 1).png</marquee>
 		<developer>남코</developer>
 		<publisher>남콧</publisher>
@@ -7332,7 +7323,7 @@
 		<path>./King Knight (Japan) (Alt 1).zip</path>
 		<name>킹 나이트 (대체 1)</name>
 		<image>./snap/King Knight (Japan) (Alt 1).png</image>
-		<video>./video/King Knight (Japan) (Alt 1).mp4</video>
+		<video>./video/King Knight (Japan).mp4</video>
 		<marquee>./marquee/King Knight (Japan) (Alt 1).png</marquee>
 		<developer>스퀘어</developer>
 		<publisher>스퀘어</publisher>
@@ -7345,7 +7336,7 @@
 		<path>./King Knight (Japan) (Alt 2).zip</path>
 		<name>킹 나이트 (대체 2)</name>
 		<image>./snap/King Knight (Japan) (Alt 2).png</image>
-		<video>./video/King Knight (Japan) (Alt 2).mp4</video>
+		<video>./video/King Knight (Japan).mp4</video>
 		<marquee>./marquee/King Knight (Japan) (Alt 2).png</marquee>
 		<developer>스퀘어</developer>
 		<publisher>스퀘어</publisher>
@@ -7384,7 +7375,7 @@
 		<path>./King's Valley (Japan, Europe) (Alt 1).zip</path>
 		<name>왕가의 계곡(대체 1)</name>
 		<image>./snap/King's Valley (Japan, Europe) (Alt 1).png</image>
-		<video>./video/King's Valley (Japan, Europe) (Alt 1).mp4</video>
+		<video>./video/King's Valley (Japan, Europe).mp4</video>
 		<marquee>./marquee/King's Valley (Japan, Europe) (Alt 1).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -7397,7 +7388,7 @@
 		<path>./King's Valley (Japan, Europe) (Alt 2).zip</path>
 		<name>왕가의 계곡(대체 2)</name>
 		<image>./snap/King's Valley (Japan, Europe) (Alt 2).png</image>
-		<video>./video/King's Valley (Japan, Europe) (Alt 2).mp4</video>
+		<video>./video/King's Valley (Japan, Europe).mp4</video>
 		<marquee>./marquee/King's Valley (Japan, Europe) (Alt 2).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -7410,7 +7401,7 @@
 		<path>./King's Valley (Japan, Europe) (Alt 3).zip</path>
 		<name>왕가의 계곡(대체 3)</name>
 		<image>./snap/King's Valley (Japan, Europe) (Alt 3).png</image>
-		<video>./video/King's Valley (Japan, Europe) (Alt 3).mp4</video>
+		<video>./video/King's Valley (Japan, Europe).mp4</video>
 		<marquee>./marquee/King's Valley (Japan, Europe) (Alt 3).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -7423,7 +7414,7 @@
 		<path>./King's Valley (Japan, Europe) (Alt 4).zip</path>
 		<name>왕가의 계곡</name>
 		<image>./snap/King's Valley (Japan, Europe) (Alt 4).png</image>
-		<video>./video/King's Valley (Japan, Europe) (Alt 4).mp4</video>
+		<video>./video/King's Valley (Japan, Europe).mp4</video>
 		<marquee>./marquee/King's Valley (Japan, Europe) (Alt 4).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -7462,7 +7453,7 @@
 		<path>./Kinnikuman - Muscle Man (Japan) (Alt 1).zip</path>
 		<name>근육맨 (대체 1)</name>
 		<image>./snap/Kinnikuman - Muscle Man (Japan) (Alt 1).png</image>
-		<video>./video/Kinnikuman - Muscle Man (Japan) (Alt 1).mp4</video>
+		<video>./video/Kinnikuman - Muscle Man (Japan).mp4</video>
 		<marquee>./marquee/Kinnikuman - Muscle Man (Japan) (Alt 1).png</marquee>
 		<developer>반다이</developer>
 		<publisher>반다이</publisher>
@@ -7527,7 +7518,7 @@
 		<path>./Knightmare - Majou Densetsu (Japan) (Alt 1).zip</path>
 		<name>마성전설 (대체 1)</name>
 		<image>./snap/Knightmare - Majou Densetsu (Japan) (Alt 1).png</image>
-		<video>./video/Knightmare - Majou Densetsu (Japan) (Alt 1).mp4</video>
+		<video>./video/Knightmare - Majou Densetsu (Japan).mp4</video>
 		<marquee>./marquee/Knightmare - Majou Densetsu (Japan) (Alt 1).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -7540,7 +7531,7 @@
 		<path>./Knightmare - Majou Densetsu (Japan) (Alt 2).zip</path>
 		<name>마성전설 (대체 2)</name>
 		<image>./snap/Knightmare - Majou Densetsu (Japan) (Alt 2).png</image>
-		<video>./video/Knightmare - Majou Densetsu (Japan) (Alt 2).mp4</video>
+		<video>./video/Knightmare - Majou Densetsu (Japan).mp4</video>
 		<marquee>./marquee/Knightmare - Majou Densetsu (Japan) (Alt 2).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -7605,7 +7596,7 @@
 		<path>./Konami's Baseball (Japan) (Alt 1).zip</path>
 		<name>코나미 야구 (대체 1)</name>
 		<image>./snap/Konami's Baseball (Japan) (Alt 1).png</image>
-		<video>./video/Konami's Baseball (Japan) (Alt 1).mp4</video>
+		<video>./video/Konami's Baseball (Japan).mp4</video>
 		<marquee>./marquee/Konami's Baseball (Japan) (Alt 1).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -7629,7 +7620,7 @@
 	</game>
 	<game>
 		<path>./Konami's Billiards (Europe).zip</path>
-		<name>코나미 당구 (유럽판)</name>
+		<name>코나미 당구</name>
 		<image>./snap/Konami's Billiards (Europe).png</image>
 		<video>./video/Konami's Billiards (Europe).mp4</video>
 		<marquee>./marquee/Konami's Billiards (Europe).png</marquee>
@@ -7644,7 +7635,7 @@
 		<path>./Konami's Boxing (Japan) (Alt 1).zip</path>
 		<name>코나미 복싱 (대체 1)</name>
 		<image>./snap/Konami's Boxing (Japan) (Alt 1).png</image>
-		<video>./video/Konami's Boxing (Japan) (Alt 1).mp4</video>
+		<video>./video/Konami's Boxing (Japan).mp4</video>
 		<marquee>./marquee/Konami's Boxing (Japan) (Alt 1).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -7657,7 +7648,7 @@
 		<path>./Konami's Boxing (Japan) (Alt 2).zip</path>
 		<name>코나미 복싱 (대체 2)</name>
 		<image>./snap/Konami's Boxing (Japan) (Alt 2).png</image>
-		<video>./video/Konami's Boxing (Japan) (Alt 2).mp4</video>
+		<video>./video/Konami's Boxing (Japan).mp4</video>
 		<marquee>./marquee/Konami's Boxing (Japan) (Alt 2).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -7683,7 +7674,7 @@
 		<path>./Konami's Football (Europe) (Alt 1).zip</path>
 		<name>코나미 축구 (유럽판)(대체 1)</name>
 		<image>./snap/Konami's Football (Europe) (Alt 1).png</image>
-		<video>./video/Konami's Football (Europe) (Alt 1).mp4</video>
+		<video>./video/Konami's Football (Europe).mp4</video>
 		<marquee>./marquee/Konami's Football (Europe) (Alt 1).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -7696,7 +7687,7 @@
 		<path>./Konami's Football (Europe) (Alt 2).zip</path>
 		<name>코나미 축구 (유럽판)(대체 2)</name>
 		<image>./snap/Konami's Football (Europe) (Alt 2).png</image>
-		<video>./video/Konami's Football (Europe) (Alt 2).mp4</video>
+		<video>./video/Konami's Football (Europe).mp4</video>
 		<marquee>./marquee/Konami's Football (Europe) (Alt 2).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -7707,7 +7698,7 @@
 	</game>
 	<game>
 		<path>./Konami's Football (Europe).zip</path>
-		<name>코나미 축구 (유럽판)</name>
+		<name>코나미 축구</name>
 		<image>./snap/Konami's Football (Europe).png</image>
 		<video>./video/Konami's Football (Europe).mp4</video>
 		<marquee>./marquee/Konami's Football (Europe).png</marquee>
@@ -7722,7 +7713,7 @@
 		<path>./Konami's Golf (Japan) (Alt 1).zip</path>
 		<name>코나미 골프 (대체 1)</name>
 		<image>./snap/Konami's Golf (Japan) (Alt 1).png</image>
-		<video>./video/Konami's Golf (Japan) (Alt 1).mp4</video>
+		<video>./video/Konami's Golf (Japan).mp4</video>
 		<marquee>./marquee/Konami's Golf (Japan) (Alt 1).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -7735,7 +7726,7 @@
 		<path>./Konami's Golf (Japan) (Alt 2).zip</path>
 		<name>코나미 골프 (대체 2)</name>
 		<image>./snap/Konami's Golf (Japan) (Alt 2).png</image>
-		<video>./video/Konami's Golf (Japan) (Alt 2).mp4</video>
+		<video>./video/Konami's Golf (Japan).mp4</video>
 		<marquee>./marquee/Konami's Golf (Japan) (Alt 2).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -7774,7 +7765,7 @@
 		<path>./Konami's Ping-Pong (Japan) (Alt 1).zip</path>
 		<name>코나미 탁구 (대체 1)</name>
 		<image>./snap/Konami's Ping-Pong (Japan) (Alt 1).png</image>
-		<video>./video/Konami's Ping-Pong (Japan) (Alt 1).mp4</video>
+		<video>./video/Konami's Ping-Pong (Japan).mp4</video>
 		<marquee>./marquee/Konami's Ping-Pong (Japan) (Alt 1).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -7787,7 +7778,7 @@
 		<path>./Konami's Ping-Pong (Japan) (Alt 2).zip</path>
 		<name>코나미 탁구 (대체 2)</name>
 		<image>./snap/Konami's Ping-Pong (Japan) (Alt 2).png</image>
-		<video>./video/Konami's Ping-Pong (Japan) (Alt 2).mp4</video>
+		<video>./video/Konami's Ping-Pong (Japan).mp4</video>
 		<marquee>./marquee/Konami's Ping-Pong (Japan) (Alt 2).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -7800,7 +7791,7 @@
 		<path>./Konami's Ping-Pong (Japan) (Alt 3).zip</path>
 		<name>코나미 탁구 (대체 3)</name>
 		<image>./snap/Konami's Ping-Pong (Japan) (Alt 3).png</image>
-		<video>./video/Konami's Ping-Pong (Japan) (Alt 3).mp4</video>
+		<video>./video/Konami's Ping-Pong (Japan).mp4</video>
 		<marquee>./marquee/Konami's Ping-Pong (Japan) (Alt 3).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -7826,7 +7817,7 @@
 		<path>./Konami's Soccer (Japan) (Alt 1).zip</path>
 		<name>코나미 축구 (대체 1)</name>
 		<image>./snap/Konami's Soccer (Japan) (Alt 1).png</image>
-		<video>./video/Konami's Soccer (Japan) (Alt 1).mp4</video>
+		<video>./video/Konami's Football (Europe).mp4</video>
 		<marquee>./marquee/Konami's Soccer (Japan) (Alt 1).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -7839,7 +7830,7 @@
 		<path>./Konami's Soccer (Japan) (Alt 2).zip</path>
 		<name>코나미 축구 (대체 2)</name>
 		<image>./snap/Konami's Soccer (Japan) (Alt 2).png</image>
-		<video>./video/Konami's Soccer (Japan) (Alt 2).mp4</video>
+		<video>./video/Konami's Football (Europe).mp4</video>
 		<marquee>./marquee/Konami's Soccer (Japan) (Alt 2).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -7852,7 +7843,7 @@
 		<path>./Konami's Soccer (Japan) (Alt 3).zip</path>
 		<name>코나미 축구 (대체 3)</name>
 		<image>./snap/Konami's Soccer (Japan) (Alt 3).png</image>
-		<video>./video/Konami's Soccer (Japan) (Alt 3).mp4</video>
+		<video>./video/Konami's Football (Europe).mp4</video>
 		<marquee>./marquee/Konami's Soccer (Japan) (Alt 3).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -7865,7 +7856,7 @@
 		<path>./Konami's Soccer (Japan).zip</path>
 		<name>코나미 축구</name>
 		<image>./snap/Konami's Soccer (Japan).png</image>
-		<video>./video/Konami's Soccer (Japan).mp4</video>
+		<video>./video/Konami's Football (Europe).mp4</video>
 		<marquee>./marquee/Konami's Soccer (Japan).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -7876,7 +7867,7 @@
 	</game>
 	<game>
 		<path>./Konami's Synthesizer (Japan) (Program).zip</path>
-		<name>코나미 신디사이져 (프로그램)</name>
+		<name>코나미 신디사이져</name>
 		<image>./snap/Konami's Synthesizer (Japan) (Program).png</image>
 		<video>./video/Konami's Synthesizer (Japan) (Program).mp4</video>
 		<marquee>./marquee/Konami's Synthesizer (Japan) (Program).png</marquee>
@@ -7891,7 +7882,7 @@
 		<path>./Konami's Tennis (Japan) (Alt 1).zip</path>
 		<name>코나미 테니스 (대체 1)</name>
 		<image>./snap/Konami's Tennis (Japan) (Alt 1).png</image>
-		<video>./video/Konami's Tennis (Japan) (Alt 1).mp4</video>
+		<video>./video/Konami's Tennis (Japan).mp4</video>
 		<marquee>./marquee/Konami's Tennis (Japan) (Alt 1).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -7928,7 +7919,7 @@
 	</game>
 	<game>
 		<path>./Koronis Rift (Europe).zip</path>
-		<name>코로니스 리프트 (유럽판)</name>
+		<name>코로니스 리프트</name>
 		<image>./snap/Koronis Rift (Europe).png</image>
 		<video>./video/Koronis Rift (Europe).mp4</video>
 		<marquee>./marquee/Koronis Rift (Europe).png</marquee>
@@ -7943,7 +7934,7 @@
 		<path>./Kung Fu Acho (Japan) (Alt 1).zip</path>
 		<name>성권 소림사 - 쿵후 아쵸 (대체 1)</name>
 		<image>./snap/Kung Fu Acho (Japan) (Alt 1).png</image>
-		<video>./video/Kung Fu Acho (Japan) (Alt 1).mp4</video>
+		<video>./video/Kung Fu Acho (Japan).mp4</video>
 		<marquee>./marquee/Kung Fu Acho (Japan) (Alt 1).png</marquee>
 		<developer>아이렘/아스키</developer>
 		<publisher>아이렘/아스키</publisher>
@@ -7969,7 +7960,7 @@
 		<path>./Kung Fu Master (Japan) (Alt 1).zip</path>
 		<name>쿵후 마스터 (대체 1)</name>
 		<image>./snap/Kung Fu Master (Japan) (Alt 1).png</image>
-		<video>./video/Kung Fu Master (Japan) (Alt 1).mp4</video>
+		<video>./video/Kung Fu Master (Japan).mp4</video>
 		<marquee>./marquee/Kung Fu Master (Japan) (Alt 1).png</marquee>
 		<developer>아이렘</developer>
 		<publisher>아스키</publisher>
@@ -7982,7 +7973,7 @@
 		<path>./Kung Fu Master (Japan) (Alt 2).zip</path>
 		<name>쿵후 마스터 (대체 2)</name>
 		<image>./snap/Kung Fu Master (Japan) (Alt 2).png</image>
-		<video>./video/Kung Fu Master (Japan) (Alt 2).mp4</video>
+		<video>./video/Kung Fu Master (Japan).mp4</video>
 		<marquee>./marquee/Kung Fu Master (Japan) (Alt 2).png</marquee>
 		<developer>아이렘</developer>
 		<publisher>아스키</publisher>
@@ -8008,7 +7999,7 @@
 		<path>./Kung Fu Taigun (Japan) (Alt 1).zip</path>
 		<name>쿵후 대군 (대체 1)</name>
 		<image>./snap/Kung Fu Taigun (Japan) (Alt 1).png</image>
-		<video>./video/Kung Fu Taigun (Japan) (Alt 1).mp4</video>
+		<video>./video/Kung Fu Taigun (Japan).mp4</video>
 		<marquee>./marquee/Kung Fu Taigun (Japan) (Alt 1).png</marquee>
 		<developer>도시바 EMI</developer>
 		<publisher>도시바 EMI</publisher>
@@ -8034,7 +8025,7 @@
 		<path>./Labyrinth (Japan) (Alt 1).zip</path>
 		<name>라비린스 (대체 1)</name>
 		<image>./snap/Labyrinth (Japan) (Alt 1).png</image>
-		<video>./video/Labyrinth (Japan) (Alt 1).mp4</video>
+		<video>./video/Labyrinth (Japan).mp4</video>
 		<marquee>./marquee/Labyrinth (Japan) (Alt 1).png</marquee>
 		<developer/>
 		<publisher/>
@@ -8084,7 +8075,7 @@
 	</game>
 	<game>
 		<path>./Le Mans 2 (Europe).zip</path>
-		<name>르망 2 (유럽판)</name>
+		<name>르망 2</name>
 		<image>./snap/Le Mans 2 (Europe).png</image>
 		<video>./video/Le Mans 2 (Europe).mp4</video>
 		<marquee>./marquee/Le Mans 2 (Europe).png</marquee>
@@ -8099,7 +8090,7 @@
 		<path>./Legendly Knight (Korea) (Alt 1).zip</path>
 		<name>대마성 (한국판)(대체 1)</name>
 		<image>./snap/Legendly Knight (Korea) (Alt 1).png</image>
-		<video>./video/Legendly Knight (Korea) (Alt 1).mp4</video>
+		<video>./video/Legendly Knight (Korea).mp4</video>
 		<marquee>./marquee/Legendly Knight (Korea) (Alt 1).png</marquee>
 		<developer>토피아</developer>
 		<publisher>토피아</publisher>
@@ -8110,7 +8101,7 @@
 	</game>
 	<game>
 		<path>./Legendly Knight (Korea).zip</path>
-		<name>대마성 (한국판)</name>
+		<name>대마성</name>
 		<image>./snap/Legendly Knight (Korea).png</image>
 		<video>./video/Legendly Knight (Korea).mp4</video>
 		<marquee>./marquee/Legendly Knight (Korea).png</marquee>
@@ -8123,7 +8114,7 @@
 	</game>
 	<game>
 		<path>./Leonard (Spain).zip</path>
-		<name>레오나드 (스페인판)</name>
+		<name>레오나드</name>
 		<image>./snap/Leonard (Spain).png</image>
 		<video>./video/Leonard (Spain).mp4</video>
 		<marquee>./marquee/Leonard (Spain).png</marquee>
@@ -8136,7 +8127,7 @@
 	</game>
 	<game>
 		<path>./Light Corridor, The (Europe).zip</path>
-		<name>라이트 코리더 (유럽판)</name>
+		<name>라이트 코리더</name>
 		<image>./snap/Light Corridor, The (Europe).png</image>
 		<video>./video/Light Corridor, The (Europe).mp4</video>
 		<marquee>./marquee/Light Corridor, The (Europe).png</marquee>
@@ -8151,7 +8142,7 @@
 		<path>./Links, The (Japan) (NGA II) (Program) (Alt 1).zip</path>
 		<name>링스 (NGA II)(프로그램)(대체 1)</name>
 		<image>./snap/Links, The (Japan) (NGA II) (Program) (Alt 1).png</image>
-		<video>./video/Links, The (Japan) (NGA II) (Program) (Alt 1).mp4</video>
+		<video>./video/Links, The (Japan) (NGA II) (Program).mp4</video>
 		<marquee>./marquee/Links, The (Japan) (NGA II) (Program) (Alt 1).png</marquee>
 		<developer/>
 		<publisher/>
@@ -8162,7 +8153,7 @@
 	</game>
 	<game>
 		<path>./Links, The (Japan) (NGA II) (Program).zip</path>
-		<name>링스 (NGA II)(프로그램)</name>
+		<name>링스</name>
 		<image>./snap/Links, The (Japan) (NGA II) (Program).png</image>
 		<video>./video/Links, The (Japan) (NGA II) (Program).mp4</video>
 		<marquee>./marquee/Links, The (Japan) (NGA II) (Program).png</marquee>
@@ -8175,7 +8166,7 @@
 	</game>
 	<game>
 		<path>./Links, The (Japan) (Program).zip</path>
-		<name>링스 (프로그램)</name>
+		<name>링스</name>
 		<image>./snap/Links, The (Japan) (Program).png</image>
 		<video>./video/Links, The (Japan) (Program).mp4</video>
 		<marquee>./marquee/Links, The (Japan) (Program).png</marquee>
@@ -8190,7 +8181,7 @@
 		<path>./Lode Runner (Japan) (Alt 1).zip</path>
 		<name>로드 러너 (대체 1)</name>
 		<image>./snap/Lode Runner (Japan) (Alt 1).png</image>
-		<video>./video/Lode Runner (Japan) (Alt 1).mp4</video>
+		<video>./video/Lode Runner (Japan).mp4</video>
 		<marquee>./marquee/Lode Runner (Japan) (Alt 1).png</marquee>
 		<developer>브로드번드 소프트웨어</developer>
 		<publisher>소니</publisher>
@@ -8268,7 +8259,7 @@
 		<path>./Lupin Sansei - Babylon no Ougon Densetsu (Japan) (Alt 1).zip</path>
 		<name>루팡 3세 - 바빌론의 황금전설 (대체 1)</name>
 		<image>./snap/Lupin Sansei - Babylon no Ougon Densetsu (Japan) (Alt 1).png</image>
-		<video>./video/Lupin Sansei - Babylon no Ougon Densetsu (Japan) (Alt 1).mp4</video>
+		<video>./video/Lupin Sansei - Babylon no Ougon Densetsu (Japan).mp4</video>
 		<marquee>./marquee/Lupin Sansei - Babylon no Ougon Densetsu (Japan) (Alt 1).png</marquee>
 		<developer/>
 		<publisher/>
@@ -8294,7 +8285,7 @@
 		<path>./Lupin Sansei - Cagliostro no Shiro (Japan) (Alt 1).zip</path>
 		<name>루팡 3세 - 카리오스트로의 성 (대체 1)</name>
 		<image>./snap/Lupin Sansei - Cagliostro no Shiro (Japan) (Alt 1).png</image>
-		<video>./video/Lupin Sansei - Cagliostro no Shiro (Japan) (Alt 1).mp4</video>
+		<video>./video/Lupin Sansei - Cagliostro no Shiro (Japan).mp4</video>
 		<marquee>./marquee/Lupin Sansei - Cagliostro no Shiro (Japan) (Alt 1).png</marquee>
 		<developer/>
 		<publisher/>
@@ -8331,7 +8322,7 @@
 	</game>
 	<game>
 		<path>./Mac Attack (Europe).zip</path>
-		<name>맥 어택 (유럽판)</name>
+		<name>맥 어택</name>
 		<image>./snap/Mac Attack (Europe).png</image>
 		<video>./video/Mac Attack (Europe).mp4</video>
 		<marquee>./marquee/Mac Attack (Europe).png</marquee>
@@ -8359,7 +8350,7 @@
 		<path>./Macross (Japan) (Alt 1).zip</path>
 		<name>마크로스 (대체 1)</name>
 		<image>./snap/Macross (Japan) (Alt 1).png</image>
-		<video>./video/Macross (Japan) (Alt 1).mp4</video>
+		<video>./video/Macross (Japan).mp4</video>
 		<marquee>./marquee/Macross (Japan) (Alt 1).png</marquee>
 		<developer>보스텍</developer>
 		<publisher>보스텍</publisher>
@@ -8385,7 +8376,7 @@
 		<path>./Mad Rider (Japan) (Alt 1).zip</path>
 		<name>매드 라이더 (대체 1)</name>
 		<image>./snap/Mad Rider (Japan) (Alt 1).png</image>
-		<video>./video/Mad Rider (Japan) (Alt 1).mp4</video>
+		<video>./video/Mad Rider (Japan).mp4</video>
 		<marquee>./marquee/Mad Rider (Japan) (Alt 1).png</marquee>
 		<developer/>
 		<publisher/>
@@ -8411,7 +8402,7 @@
 		<path>./Magical Kid Wiz (Japan) (Alt 1).zip</path>
 		<name>마법사 위즈 (대체 1)</name>
 		<image>./snap/Magical Kid Wiz (Japan) (Alt 1).png</image>
-		<video>./video/Magical Kid Wiz (Japan) (Alt 1).mp4</video>
+		<video>./video/Magical Kid Wiz (Japan).mp4</video>
 		<marquee>./marquee/Magical Kid Wiz (Japan) (Alt 1).png</marquee>
 		<developer>세이부 개발</developer>
 		<publisher>소니</publisher>
@@ -8424,7 +8415,7 @@
 		<path>./Magical Kid Wiz (Japan) (Alt 2).zip</path>
 		<name>마법사 위즈 (대체 2)</name>
 		<image>./snap/Magical Kid Wiz (Japan) (Alt 2).png</image>
-		<video>./video/Magical Kid Wiz (Japan) (Alt 2).mp4</video>
+		<video>./video/Magical Kid Wiz (Japan).mp4</video>
 		<marquee>./marquee/Magical Kid Wiz (Japan) (Alt 2).png</marquee>
 		<developer>세이부 개발</developer>
 		<publisher>소니</publisher>
@@ -8450,7 +8441,7 @@
 		<path>./Magical Tree (Japan) (Alt 1).zip</path>
 		<name>요술 나무 (대체 1)</name>
 		<image>./snap/Magical Tree (Japan) (Alt 1).png</image>
-		<video>./video/Magical Tree (Japan) (Alt 1).mp4</video>
+		<video>./video/Magical Tree (Japan).mp4</video>
 		<marquee>./marquee/Magical Tree (Japan) (Alt 1).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -8476,7 +8467,7 @@
 		<path>./Magnum Prohibition 1931 (Japan) (Alt 1).zip</path>
 		<name>매그넘 - 위기일발 (대체 1)</name>
 		<image>./snap/Magnum Prohibition 1931 (Japan) (Alt 1).png</image>
-		<video>./video/Magnum Prohibition 1931 (Japan) (Alt 1).mp4</video>
+		<video>./video/Magnum Prohibition 1931 (Japan).mp4</video>
 		<marquee>./marquee/Magnum Prohibition 1931 (Japan) (Alt 1).png</marquee>
 		<developer>도시바 EMI</developer>
 		<publisher>도시바 EMI</publisher>
@@ -8541,7 +8532,7 @@
 		<path>./Manes (Japan) (Alt 1).zip</path>
 		<name>메니즈 (대체 1)</name>
 		<image>./snap/Manes (Japan) (Alt 1).png</image>
-		<video>./video/Manes (Japan) (Alt 1).mp4</video>
+		<video>./video/Manes (Japan).mp4</video>
 		<marquee>./marquee/Manes (Japan) (Alt 1).png</marquee>
 		<developer>잡</developer>
 		<publisher>아스키</publisher>
@@ -8554,7 +8545,7 @@
 		<path>./Manes (Japan) (Alt 2).zip</path>
 		<name>메니즈 (대체 2)</name>
 		<image>./snap/Manes (Japan) (Alt 2).png</image>
-		<video>./video/Manes (Japan) (Alt 2).mp4</video>
+		<video>./video/Manes (Japan).mp4</video>
 		<marquee>./marquee/Manes (Japan) (Alt 2).png</marquee>
 		<developer>잡</developer>
 		<publisher>아스키</publisher>
@@ -8580,7 +8571,7 @@
 		<path>./Mappy (Japan) (Alt 1).zip</path>
 		<name>마피 (대체 1)</name>
 		<image>./snap/Mappy (Japan) (Alt 1).png</image>
-		<video>./video/Mappy (Japan) (Alt 1).mp4</video>
+		<video>./video/Mappy (Japan).mp4</video>
 		<marquee>./marquee/Mappy (Japan) (Alt 1).png</marquee>
 		<developer>남코</developer>
 		<publisher>버그바이트</publisher>
@@ -8593,7 +8584,7 @@
 		<path>./Mappy (Japan) (Alt 2).zip</path>
 		<name>마피 (대체 2)</name>
 		<image>./snap/Mappy (Japan) (Alt 2).png</image>
-		<video>./video/Mappy (Japan) (Alt 2).mp4</video>
+		<video>./video/Mappy (Japan).mp4</video>
 		<marquee>./marquee/Mappy (Japan) (Alt 2).png</marquee>
 		<developer>남코</developer>
 		<publisher>버그바이트</publisher>
@@ -8658,7 +8649,7 @@
 		<path>./Mashou no Tachi Goblin (Japan) (Alt 1).zip</path>
 		<name>마성의 관 고블린 (대체 1)</name>
 		<image>./snap/Mashou no Tachi Goblin (Japan) (Alt 1).png</image>
-		<video>./video/Mashou no Tachi Goblin (Japan) (Alt 1).mp4</video>
+		<video>./video/Mashou no Tachi Goblin (Japan).mp4</video>
 		<marquee>./marquee/Mashou no Tachi Goblin (Japan) (Alt 1).png</marquee>
 		<developer>포니 캐년</developer>
 		<publisher>포니 캐년</publisher>
@@ -8682,7 +8673,7 @@
 	</game>
 	<game>
 		<path>./Master Chess (Europe).zip</path>
-		<name>마스터 체스 (유럽판)</name>
+		<name>마스터 체스</name>
 		<image>./snap/Master Chess (Europe).png</image>
 		<video>./video/Master Chess (Europe).mp4</video>
 		<marquee>./marquee/Master Chess (Europe).png</marquee>
@@ -8697,7 +8688,7 @@
 		<path>./Megalopolis SOS (Japan) (Alt 1).zip</path>
 		<name>메가로폴리스 SOS (대체 1)</name>
 		<image>./snap/Megalopolis SOS (Japan) (Alt 1).png</image>
-		<video>./video/Megalopolis SOS (Japan) (Alt 1).mp4</video>
+		<video>./video/Megalopolis SOS (Japan).mp4</video>
 		<marquee>./marquee/Megalopolis SOS (Japan) (Alt 1).png</marquee>
 		<developer>컴파일</developer>
 		<publisher>컴파일</publisher>
@@ -8710,7 +8701,7 @@
 		<path>./Megalopolis SOS (Japan) (Alt 2).zip</path>
 		<name>메가로폴리스 SOS (대체 2)</name>
 		<image>./snap/Megalopolis SOS (Japan) (Alt 2).png</image>
-		<video>./video/Megalopolis SOS (Japan) (Alt 2).mp4</video>
+		<video>./video/Megalopolis SOS (Japan).mp4</video>
 		<marquee>./marquee/Megalopolis SOS (Japan) (Alt 2).png</marquee>
 		<developer>컴파일</developer>
 		<publisher>컴파일</publisher>
@@ -8736,7 +8727,7 @@
 		<path>./Meikyuu Shinwa (Japan) (Alt 1).zip</path>
 		<name>미궁 신화 (대체 1)</name>
 		<image>./snap/Meikyuu Shinwa (Japan) (Alt 1).png</image>
-		<video>./video/Meikyuu Shinwa (Japan) (Alt 1).mp4</video>
+		<video>./video/Meikyuu Shinwa (Japan).mp4</video>
 		<marquee>./marquee/Meikyuu Shinwa (Japan) (Alt 1).png</marquee>
 		<developer>할 연구소</developer>
 		<publisher>할 연구소</publisher>
@@ -8760,7 +8751,7 @@
 	</game>
 	<game>
 		<path>./Metal Gear (Europe).zip</path>
-		<name>메탈 기어 (유럽판)</name>
+		<name>메탈 기어</name>
 		<image>./snap/Metal Gear (Europe).png</image>
 		<video>./video/Metal Gear (Europe).mp4</video>
 		<marquee>./marquee/Metal Gear (Europe).png</marquee>
@@ -8775,7 +8766,7 @@
 		<path>./Metal Gear (Japan).zip</path>
 		<name>메탈 기어</name>
 		<image>./snap/Metal Gear (Japan).png</image>
-		<video>./video/Metal Gear (Japan).mp4</video>
+		<video>./video/Metal Gear (Europe).mp4</video>
 		<marquee>./marquee/Metal Gear (Japan).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -8788,7 +8779,7 @@
 		<path>./Metal Gear 2 - Solid Snake (Japan) (Demo).zip</path>
 		<name>메탈 기어 2 - 솔리드 스네이크 (데모)</name>
 		<image>./snap/Metal Gear 2 - Solid Snake (Japan) (Demo).png</image>
-		<video>./video/Metal Gear 2 - Solid Snake (Japan) (Demo).mp4</video>
+		<video>./video/Metal Gear 2 - Solid Snake (Japan).mp4</video>
 		<marquee>./marquee/Metal Gear 2 - Solid Snake (Japan) (Demo).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -8812,7 +8803,7 @@
 	</game>
 	<game>
 		<path>./MIDI Macro (Japan) (Program).zip</path>
-		<name>미디 매크로 (프로그램)</name>
+		<name>미디 매크로</name>
 		<image>./snap/MIDI Macro (Japan) (Program).png</image>
 		<video>./video/MIDI Macro (Japan) (Program).mp4</video>
 		<marquee>./marquee/MIDI Macro (Japan) (Program).png</marquee>
@@ -8827,7 +8818,7 @@
 		<path>./Midnight Brothers (Japan) (Alt 1).zip</path>
 		<name>미드나잇 브라더즈 (대체 1)</name>
 		<image>./snap/Midnight Brothers (Japan) (Alt 1).png</image>
-		<video>./video/Midnight Brothers (Japan) (Alt 1).mp4</video>
+		<video>./video/Midnight Brothers (Japan).mp4</video>
 		<marquee>./marquee/Midnight Brothers (Japan) (Alt 1).png</marquee>
 		<developer>소니</developer>
 		<publisher>소니</publisher>
@@ -8877,7 +8868,7 @@
 	</game>
 	<game>
 		<path>./Mil Caras (Spain).zip</path>
-		<name>밀 카라스 (스페인판)</name>
+		<name>밀 카라스</name>
 		<image>./snap/Mil Caras (Spain).png</image>
 		<video>./video/Mil Caras (Spain).mp4</video>
 		<marquee>./marquee/Mil Caras (Spain).png</marquee>
@@ -8892,7 +8883,7 @@
 		<path>./Mini Golf (Japan) (Alt 1).zip</path>
 		<name>미니 골프 (대체 1)</name>
 		<image>./snap/Mini Golf (Japan) (Alt 1).png</image>
-		<video>./video/Mini Golf (Japan) (Alt 1).mp4</video>
+		<video>./video/Mini Golf (Japan).mp4</video>
 		<marquee>./marquee/Mini Golf (Japan) (Alt 1).png</marquee>
 		<developer>제임스 랄프</developer>
 		<publisher>스펙트라비디오</publisher>
@@ -8983,7 +8974,7 @@
 		<path>./Moai no Hibou (Korea).zip</path>
 		<name>모아이의 비보 (한국판)</name>
 		<image>./snap/Moai no Hibou (Korea).png</image>
-		<video>./video/Moai no Hibou (Korea).mp4</video>
+		<video>./video/Moai no Hibou (Japan).mp4</video>
 		<marquee>./marquee/Moai no Hibou (Korea).png</marquee>
 		<developer>카시오</developer>
 		<publisher>카시오</publisher>
@@ -9009,7 +9000,7 @@
 		<path>./Mobile-Suit Gundam - Last Shooting (Japan) (Alt 1).zip</path>
 		<name>기동전사 건담 (대체 1)</name>
 		<image>./snap/Mobile-Suit Gundam - Last Shooting (Japan) (Alt 1).png</image>
-		<video>./video/Mobile-Suit Gundam - Last Shooting (Japan) (Alt 1).mp4</video>
+		<video>./video/Mobile-Suit Gundam - Last Shooting (Japan).mp4</video>
 		<marquee>./marquee/Mobile-Suit Gundam - Last Shooting (Japan) (Alt 1).png</marquee>
 		<developer>반다이</developer>
 		<publisher>반다이</publisher>
@@ -9087,7 +9078,7 @@
 		<path>./Monkey Academy (Japan) (Alt 1).zip</path>
 		<name>몽키 아카데미 (대체 1)</name>
 		<image>./snap/Monkey Academy (Japan) (Alt 1).png</image>
-		<video>./video/Monkey Academy (Japan) (Alt 1).mp4</video>
+		<video>./video/Monkey Academy (Japan).mp4</video>
 		<marquee>./marquee/Monkey Academy (Japan) (Alt 1).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -9100,7 +9091,7 @@
 		<path>./Monkey Academy (Japan) (Alt 2).zip</path>
 		<name>몽키 아카데미 (대체 2)</name>
 		<image>./snap/Monkey Academy (Japan) (Alt 2).png</image>
-		<video>./video/Monkey Academy (Japan) (Alt 2).mp4</video>
+		<video>./video/Monkey Academy (Japan).mp4</video>
 		<marquee>./marquee/Monkey Academy (Japan) (Alt 2).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -9113,7 +9104,7 @@
 		<path>./Monkey Academy (Japan) (Alt 3).zip</path>
 		<name>몽키 아카데미 (대체 3)</name>
 		<image>./snap/Monkey Academy (Japan) (Alt 3).png</image>
-		<video>./video/Monkey Academy (Japan) (Alt 3).mp4</video>
+		<video>./video/Monkey Academy (Japan).mp4</video>
 		<marquee>./marquee/Monkey Academy (Japan) (Alt 3).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -9204,7 +9195,7 @@
 		<path>./Mopiranger (Japan) (Alt 1).zip</path>
 		<name>모피레인져 (대체 1)</name>
 		<image>./snap/Mopiranger (Japan) (Alt 1).png</image>
-		<video>./video/Mopiranger (Japan) (Alt 1).mp4</video>
+		<video>./video/Mopiranger (Japan).mp4</video>
 		<marquee>./marquee/Mopiranger (Japan) (Alt 1).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -9217,7 +9208,7 @@
 		<path>./Mopiranger (Japan) (Alt 2).zip</path>
 		<name>모피레인져 (대체 2)</name>
 		<image>./snap/Mopiranger (Japan) (Alt 2).png</image>
-		<video>./video/Mopiranger (Japan) (Alt 2).mp4</video>
+		<video>./video/Mopiranger (Japan).mp4</video>
 		<marquee>./marquee/Mopiranger (Japan) (Alt 2).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -9230,7 +9221,7 @@
 		<path>./Mopiranger (Japan) (Alt 3).zip</path>
 		<name>모피레인져 (대체 3)</name>
 		<image>./snap/Mopiranger (Japan) (Alt 3).png</image>
-		<video>./video/Mopiranger (Japan) (Alt 3).mp4</video>
+		<video>./video/Mopiranger (Japan).mp4</video>
 		<marquee>./marquee/Mopiranger (Japan) (Alt 3).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -9243,7 +9234,7 @@
 		<path>./Mopiranger (Japan) (Alt 4).zip</path>
 		<name>모피레인져</name>
 		<image>./snap/Mopiranger (Japan) (Alt 4).png</image>
-		<video>./video/Mopiranger (Japan) (Alt 4).mp4</video>
+		<video>./video/Mopiranger (Japan).mp4</video>
 		<marquee>./marquee/Mopiranger (Japan) (Alt 4).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -9358,7 +9349,7 @@
 	</game>
 	<game>
 		<path>./MSX Audio (Japan) (FS-CA1) (Program).zip</path>
-		<name>MSX 오디오 (FS-CA1)(프로그램)</name>
+		<name>MSX 오디오</name>
 		<image>./snap/MSX Audio (Japan) (FS-CA1) (Program).png</image>
 		<video>./video/MSX Audio (Japan) (FS-CA1) (Program).mp4</video>
 		<marquee>./marquee/MSX Audio (Japan) (FS-CA1) (Program).png</marquee>
@@ -9373,7 +9364,7 @@
 		<path>./MSX Audio (Japan) (HX-MU900) (Program).zip</path>
 		<name>MSX 오디오 (HX-MU900)(프로그램)</name>
 		<image>./snap/MSX Audio (Japan) (HX-MU900) (Program).png</image>
-		<video>./video/MSX Audio (Japan) (HX-MU900) (Program).mp4</video>
+		<video>./video/MSX Audio (Japan) (FS-CA1) (Program).mp4</video>
 		<marquee>./marquee/MSX Audio (Japan) (HX-MU900) (Program).png</marquee>
 		<developer/>
 		<publisher/>
@@ -9386,7 +9377,7 @@
 		<path>./MSX Baseball (Japan) (Alt 1).zip</path>
 		<name>MSX 야구 (대체 1)</name>
 		<image>./snap/MSX Baseball (Japan) (Alt 1).png</image>
-		<video>./video/MSX Baseball (Japan) (Alt 1).mp4</video>
+		<video>./video/MSX Baseball (Japan).mp4</video>
 		<marquee>./marquee/MSX Baseball (Japan) (Alt 1).png</marquee>
 		<developer>미츠비시 전자</developer>
 		<publisher>미츠비시 전자</publisher>
@@ -9423,7 +9414,7 @@
 	</game>
 	<game>
 		<path>./MSX Basic-kun (Japan) (Program).zip</path>
-		<name>MSX 베이직 군 (프로그램)</name>
+		<name>MSX 베이직 군</name>
 		<image>./snap/MSX Basic-kun (Japan) (Program).png</image>
 		<video>./video/MSX Basic-kun (Japan) (Program).mp4</video>
 		<marquee>./marquee/MSX Basic-kun (Japan) (Program).png</marquee>
@@ -9436,7 +9427,7 @@
 	</game>
 	<game>
 		<path>./MSX Basic-kun Plus (Japan) (Program).zip</path>
-		<name>MSX 베이직 군 플러스 (프로그램)</name>
+		<name>MSX 베이직 군 플러스</name>
 		<image>./snap/MSX Basic-kun Plus (Japan) (Program).png</image>
 		<video>./video/MSX Basic-kun Plus (Japan) (Program).mp4</video>
 		<marquee>./marquee/MSX Basic-kun Plus (Japan) (Program).png</marquee>
@@ -9449,7 +9440,7 @@
 	</game>
 	<game>
 		<path>./MSX Bunsetsu Henkan Jisyo (Japan) (Program).zip</path>
-		<name>MSX 문절 변환 사전 (프로그램)</name>
+		<name>MSX 문절 변환 사전</name>
 		<image>./snap/MSX Bunsetsu Henkan Jisyo (Japan) (Program).png</image>
 		<video>./video/MSX Bunsetsu Henkan Jisyo (Japan) (Program).mp4</video>
 		<marquee>./marquee/MSX Bunsetsu Henkan Jisyo (Japan) (Program).png</marquee>
@@ -9490,7 +9481,7 @@
 		<path>./MSX Soccer (Japan) (Alt 1).zip</path>
 		<name>MSX 축구 (대체 1)</name>
 		<image>./snap/MSX Soccer (Japan) (Alt 1).png</image>
-		<video>./video/MSX Soccer (Japan) (Alt 1).mp4</video>
+		<video>./video/MSX Soccer (Japan).mp4</video>
 		<marquee>./marquee/MSX Soccer (Japan) (Alt 1).png</marquee>
 		<developer>파나 소프트</developer>
 		<publisher>미츠비시 전자</publisher>
@@ -9514,7 +9505,7 @@
 	</game>
 	<game>
 		<path>./MSX-Aid (Japan) (Program).zip</path>
-		<name>MSX-에이드 (프로그램)</name>
+		<name>MSX-에이드</name>
 		<image>./snap/MSX-Aid (Japan) (Program).png</image>
 		<video>./video/MSX-Aid (Japan) (Program).mp4</video>
 		<marquee>./marquee/MSX-Aid (Japan) (Program).png</marquee>
@@ -9527,7 +9518,7 @@
 	</game>
 	<game>
 		<path>./MSX-Logo (Netherlands) (Program).zip</path>
-		<name>MSX-로고 (네덜란드판)(프로그램)</name>
+		<name>MSX-로고</name>
 		<image>./snap/MSX-Logo (Netherlands) (Program).png</image>
 		<video>./video/MSX-Logo (Netherlands) (Program).mp4</video>
 		<marquee>./marquee/MSX-Logo (Netherlands) (Program).png</marquee>
@@ -9553,7 +9544,7 @@
 	</game>
 	<game>
 		<path>./Music Editor (Japan) (Program).zip</path>
-		<name>뮤직 에디터 (프로그램)</name>
+		<name>뮤직 에디터</name>
 		<image>./snap/Music Editor (Japan) (Program).png</image>
 		<video>./video/Music Editor (Japan) (Program).mp4</video>
 		<marquee>./marquee/Music Editor (Japan) (Program).png</marquee>
@@ -9566,7 +9557,7 @@
 	</game>
 	<game>
 		<path>./Music Harmonizer 3 (Japan) (Program).zip</path>
-		<name>뮤직 하모나이저 3 (프로그램)</name>
+		<name>뮤직 하모나이저 3</name>
 		<image>./snap/Music Harmonizer 3 (Japan) (Program).png</image>
 		<video>./video/Music Harmonizer 3 (Japan) (Program).mp4</video>
 		<marquee>./marquee/Music Harmonizer 3 (Japan) (Program).png</marquee>
@@ -9579,7 +9570,7 @@
 	</game>
 	<game>
 		<path>./Music Studio G7 (Japan) (Program).zip</path>
-		<name>뮤직 스튜디오 G7 (프로그램)</name>
+		<name>뮤직 스튜디오 G7</name>
 		<image>./snap/Music Studio G7 (Japan) (Program).png</image>
 		<video>./video/Music Studio G7 (Japan) (Program).mp4</video>
 		<marquee>./marquee/Music Studio G7 (Japan) (Program).png</marquee>
@@ -9592,7 +9583,7 @@
 	</game>
 	<game>
 		<path>./Musiwriter (Japan) (Program).zip</path>
-		<name>뮤지라이터 (프로그램)</name>
+		<name>뮤지라이터</name>
 		<image>./snap/Musiwriter (Japan) (Program).png</image>
 		<video>./video/Musiwriter (Japan) (Program).mp4</video>
 		<marquee>./marquee/Musiwriter (Japan) (Program).png</marquee>
@@ -9620,7 +9611,7 @@
 		<path>./Nekketsu Juudou (Japan) (Alt 1).zip</path>
 		<name>열혈 유도 (대체 1)</name>
 		<image>./snap/Nekketsu Juudou (Japan) (Alt 1).png</image>
-		<video>./video/Nekketsu Juudou (Japan) (Alt 1).mp4</video>
+		<video>./video/Nekketsu Juudou (Japan).mp4</video>
 		<marquee>./marquee/Nekketsu Juudou (Japan) (Alt 1).png</marquee>
 		<developer/>
 		<publisher/>
@@ -9646,7 +9637,7 @@
 		<path>./Nemesis (Japan, Europe) (Alt 1).zip</path>
 		<name>그라디우스 / 네메시스(대체 1)</name>
 		<image>./snap/Nemesis (Japan, Europe) (Alt 1).png</image>
-		<video>./video/Nemesis (Japan, Europe) (Alt 1).mp4</video>
+		<video>./video/Nemesis (Japan, Europe).mp4</video>
 		<marquee>./marquee/Nemesis (Japan, Europe) (Alt 1).png</marquee>
 		<developer>코나미</developer>
 		<publisher>울트라 소프트웨어</publisher>
@@ -9672,7 +9663,7 @@
 		<path>./Nemesis 2 (Japan) (Demo).zip</path>
 		<name>그라디우스 2 / 네메시스 2 (데모)</name>
 		<image>./snap/Nemesis 2 (Japan) (Demo).png</image>
-		<video>./video/Nemesis 2 (Japan) (Demo).mp4</video>
+		<video>./video/Nemesis 2 (Japan, Europe).mp4</video>
 		<marquee>./marquee/Nemesis 2 (Japan) (Demo).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -9685,7 +9676,7 @@
 		<path>./Nemesis 2 (Japan, Europe) (Alt 1).zip</path>
 		<name>그라디우스 2 / 네메시스 2(대체 1)</name>
 		<image>./snap/Nemesis 2 (Japan, Europe) (Alt 1).png</image>
-		<video>./video/Nemesis 2 (Japan, Europe) (Alt 1).mp4</video>
+		<video>./video/Nemesis 2 (Japan, Europe).mp4</video>
 		<marquee>./marquee/Nemesis 2 (Japan, Europe) (Alt 1).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -9698,7 +9689,7 @@
 		<path>./Nemesis 2 (Japan, Europe) (Beta).zip</path>
 		<name>그라디우스 2 / 네메시스 2(베타)</name>
 		<image>./snap/Nemesis 2 (Japan, Europe) (Beta).png</image>
-		<video>./video/Nemesis 2 (Japan, Europe) (Beta).mp4</video>
+		<video>./video/Nemesis 2 (Japan, Europe).mp4</video>
 		<marquee>./marquee/Nemesis 2 (Japan, Europe) (Beta).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -9724,7 +9715,7 @@
 		<path>./Nemesis 3 - The Eve of Destruction (Japan, Europe) (Alt 1).zip</path>
 		<name>그라디우스 3 / 네메시스 3(대체 1)</name>
 		<image>./snap/Nemesis 3 - The Eve of Destruction (Japan, Europe) (Alt 1).png</image>
-		<video>./video/Nemesis 3 - The Eve of Destruction (Japan, Europe) (Alt 1).mp4</video>
+		<video>./video/Nemesis 3 - The Eve of Destruction (Japan, Europe).mp4</video>
 		<marquee>./marquee/Nemesis 3 - The Eve of Destruction (Japan, Europe) (Alt 1).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -9737,7 +9728,7 @@
 		<path>./Nemesis 3 - The Eve of Destruction (Japan, Europe) (Alt 2).zip</path>
 		<name>그라디우스 3 / 네메시스 3(대체 2)</name>
 		<image>./snap/Nemesis 3 - The Eve of Destruction (Japan, Europe) (Alt 2).png</image>
-		<video>./video/Nemesis 3 - The Eve of Destruction (Japan, Europe) (Alt 2).mp4</video>
+		<video>./video/Nemesis 3 - The Eve of Destruction (Japan, Europe).mp4</video>
 		<marquee>./marquee/Nemesis 3 - The Eve of Destruction (Japan, Europe) (Alt 2).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -9774,7 +9765,7 @@
 	</game>
 	<game>
 		<path>./New Horizon - English Course 1 (Japan) (Program).zip</path>
-		<name>뉴 호라이즌 중학 영어 1 (프로그램)</name>
+		<name>뉴 호라이즌 중학 영어 1</name>
 		<image>./snap/New Horizon - English Course 1 (Japan) (Program).png</image>
 		<video>./video/New Horizon - English Course 1 (Japan) (Program).mp4</video>
 		<marquee>./marquee/New Horizon - English Course 1 (Japan) (Program).png</marquee>
@@ -9800,7 +9791,7 @@
 	</game>
 	<game>
 		<path>./Nihon-Shi Nenpyou (Japan) (Program).zip</path>
-		<name>일본사년표 (프로그램)</name>
+		<name>일본사년표</name>
 		<image>./snap/Nihon-Shi Nenpyou (Japan) (Program).png</image>
 		<video>./video/Nihon-Shi Nenpyou (Japan) (Program).mp4</video>
 		<marquee>./marquee/Nihon-Shi Nenpyou (Japan) (Program).png</marquee>
@@ -9828,7 +9819,7 @@
 		<path>./Ninja Princess (Japan) (Alt 1).zip</path>
 		<name>닌자 공주 (대체 1)</name>
 		<image>./snap/Ninja Princess (Japan) (Alt 1).png</image>
-		<video>./video/Ninja Princess (Japan) (Alt 1).mp4</video>
+		<video>./video/Ninja Princess (Japan).mp4</video>
 		<marquee>./marquee/Ninja Princess (Japan) (Alt 1).png</marquee>
 		<developer>세가</developer>
 		<publisher>포니카</publisher>
@@ -9893,7 +9884,7 @@
 		<path>./Ninjya Kage (Japan) (Alt 1).zip</path>
 		<name>닌자 카게 (대체 1)</name>
 		<image>./snap/Ninjya Kage (Japan) (Alt 1).png</image>
-		<video>./video/Ninjya Kage (Japan) (Alt 1).mp4</video>
+		<video>./video/Ninjya Kage (Japan).mp4</video>
 		<marquee>./marquee/Ninjya Kage (Japan) (Alt 1).png</marquee>
 		<developer/>
 		<publisher/>
@@ -9997,7 +9988,7 @@
 		<path>./Ogre (Japan) (Alt 1).zip</path>
 		<name>오거 (대체 1)</name>
 		<image>./snap/Ogre (Japan) (Alt 1).png</image>
-		<video>./video/Ogre (Japan) (Alt 1).mp4</video>
+		<video>./video/Ogre (Japan).mp4</video>
 		<marquee>./marquee/Ogre (Japan) (Alt 1).png</marquee>
 		<developer/>
 		<publisher/>
@@ -10023,7 +10014,7 @@
 		<path>./Oil's Well (Japan) (Alt 1).zip</path>
 		<name>오일즈 웰 (대체 1)</name>
 		<image>./snap/Oil's Well (Japan) (Alt 1).png</image>
-		<video>./video/Oil's Well (Japan) (Alt 1).mp4</video>
+		<video>./video/Oil's Well (Japan).mp4</video>
 		<marquee>./marquee/Oil's Well (Japan) (Alt 1).png</marquee>
 		<developer>바나나 디벨롭먼트</developer>
 		<publisher>시에라</publisher>
@@ -10088,7 +10079,7 @@
 		<path>./Ouke no Tani - El Giza no Fuuin - Edit Contest Yuushuu Sakuhinshuu (Japan).zip</path>
 		<name>왕가의 계곡 2 - 엘 기자의 봉인 - 에디트 콘테스트 버전</name>
 		<image>./snap/Ouke no Tani - El Giza no Fuuin - Edit Contest Yuushuu Sakuhinshuu (Japan).png</image>
-		<video>./video/Ouke no Tani - El Giza no Fuuin - Edit Contest Yuushuu Sakuhinshuu (Japan).mp4</video>
+		<video>./video/Ouke no Tani - El Giza no Fuuin (Japan).mp4</video>
 		<marquee>./marquee/Ouke no Tani - El Giza no Fuuin - Edit Contest Yuushuu Sakuhinshuu (Japan).png</marquee>
 		<developer/>
 		<publisher/>
@@ -10127,7 +10118,7 @@
 		<path>./Pac-Man (Japan) (Alt 1).zip</path>
 		<name>팩맨 (대체 1)</name>
 		<image>./snap/Pac-Man (Japan) (Alt 1).png</image>
-		<video>./video/Pac-Man (Japan) (Alt 1).mp4</video>
+		<video>./video/Pac-Man (Japan).mp4</video>
 		<marquee>./marquee/Pac-Man (Japan) (Alt 1).png</marquee>
 		<developer>남코</developer>
 		<publisher>버그바이트</publisher>
@@ -10140,7 +10131,7 @@
 		<path>./Pac-Man (Japan) (Alt 2).zip</path>
 		<name>팩맨 (대체 2)</name>
 		<image>./snap/Pac-Man (Japan) (Alt 2).png</image>
-		<video>./video/Pac-Man (Japan) (Alt 2).mp4</video>
+		<video>./video/Pac-Man (Japan).mp4</video>
 		<marquee>./marquee/Pac-Man (Japan) (Alt 2).png</marquee>
 		<developer>남코</developer>
 		<publisher>버그바이트</publisher>
@@ -10218,7 +10209,7 @@
 		<path>./Pairs (Japan) (Alt 1).zip</path>
 		<name>페어스 (대체 1)</name>
 		<image>./snap/Pairs (Japan) (Alt 1).png</image>
-		<video>./video/Pairs (Japan) (Alt 1).mp4</video>
+		<video>./video/Pairs (Japan).mp4</video>
 		<marquee>./marquee/Pairs (Japan) (Alt 1).png</marquee>
 		<developer>아스키</developer>
 		<publisher>아스키</publisher>
@@ -10257,7 +10248,7 @@
 		<path>./Parodius (Japan) (Alt 1).zip</path>
 		<name>파로디우스 (대체 1)</name>
 		<image>./snap/Parodius (Japan) (Alt 1).png</image>
-		<video>./video/Parodius (Japan) (Alt 1).mp4</video>
+		<video>./video/Parodius (Japan).mp4</video>
 		<marquee>./marquee/Parodius (Japan) (Alt 1).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -10281,7 +10272,7 @@
 	</game>
 	<game>
 		<path>./Pasokon Sakkyokuka (Japan) (Program).zip</path>
-		<name>퍼스콤 작곡가 (프로그램)</name>
+		<name>퍼스콤 작곡가</name>
 		<image>./snap/Pasokon Sakkyokuka (Japan) (Program).png</image>
 		<video>./video/Pasokon Sakkyokuka (Japan) (Program).mp4</video>
 		<marquee>./marquee/Pasokon Sakkyokuka (Japan) (Program).png</marquee>
@@ -10322,7 +10313,7 @@
 		<path>./Pay Load (Japan) (Alt 1).zip</path>
 		<name>패이로드 (대체 1)</name>
 		<image>./snap/Pay Load (Japan) (Alt 1).png</image>
-		<video>./video/Pay Load (Japan) (Alt 1).mp4</video>
+		<video>./video/Pay Load (Japan).mp4</video>
 		<marquee>./marquee/Pay Load (Japan) (Alt 1).png</marquee>
 		<developer>소니</developer>
 		<publisher>소니</publisher>
@@ -10400,7 +10391,7 @@
 		<path>./Penguin-kun Wars 2 (Japan) (Alt 1).zip</path>
 		<name>펭귄군 워즈 2 (대체 1)</name>
 		<image>./snap/Penguin-kun Wars 2 (Japan) (Alt 1).png</image>
-		<video>./video/Penguin-kun Wars 2 (Japan) (Alt 1).mp4</video>
+		<video>./video/Penguin-kun Wars 2 (Japan).mp4</video>
 		<marquee>./marquee/Penguin-kun Wars 2 (Japan) (Alt 1).png</marquee>
 		<developer/>
 		<publisher/>
@@ -10439,7 +10430,7 @@
 		<path>./Picture Puzzle (Japan) (Alt 1).zip</path>
 		<name>픽쳐 퍼즐 (대체 1)</name>
 		<image>./snap/Picture Puzzle (Japan) (Alt 1).png</image>
-		<video>./video/Picture Puzzle (Japan) (Alt 1).mp4</video>
+		<video>./video/Picture Puzzle (Japan).mp4</video>
 		<marquee>./marquee/Picture Puzzle (Japan) (Alt 1).png</marquee>
 		<developer>할 연구소</developer>
 		<publisher>할 연구소</publisher>
@@ -10465,7 +10456,7 @@
 		<path>./Pillbox (Japan) (Alt 1).zip</path>
 		<name>컬러 토치카 - 필박스 (대체 1)</name>
 		<image>./snap/Pillbox (Japan) (Alt 1).png</image>
-		<video>./video/Pillbox (Japan) (Alt 1).mp4</video>
+		<video>./video/Pillbox (Japan).mp4</video>
 		<marquee>./marquee/Pillbox (Japan) (Alt 1).png</marquee>
 		<developer>매직 소프트웨어</developer>
 		<publisher>매직 소프트웨어</publisher>
@@ -10489,7 +10480,7 @@
 	</game>
 	<game>
 		<path>./Pinball Blaster (Europe).zip</path>
-		<name>핀볼 블래스터 (유럽판)</name>
+		<name>핀볼 블래스터</name>
 		<image>./snap/Pinball Blaster (Europe).png</image>
 		<video>./video/Pinball Blaster (Europe).mp4</video>
 		<marquee>./marquee/Pinball Blaster (Europe).png</marquee>
@@ -10504,7 +10495,7 @@
 		<path>./Pine Applin (Japan) (Alt 1).zip</path>
 		<name>파인 애플린 (대체 1)</name>
 		<image>./snap/Pine Applin (Japan) (Alt 1).png</image>
-		<video>./video/Pine Applin (Japan) (Alt 1).mp4</video>
+		<video>./video/Pine Applin (Japan).mp4</video>
 		<marquee>./marquee/Pine Applin (Japan) (Alt 1).png</marquee>
 		<developer>잡</developer>
 		<publisher>잡</publisher>
@@ -10569,7 +10560,7 @@
 		<path>./Pippols (Japan) (Alt 1).zip</path>
 		<name>핍폴스 (대체 1)</name>
 		<image>./snap/Pippols (Japan) (Alt 1).png</image>
-		<video>./video/Pippols (Japan) (Alt 1).mp4</video>
+		<video>./video/Pippols (Japan).mp4</video>
 		<marquee>./marquee/Pippols (Japan) (Alt 1).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -10582,7 +10573,7 @@
 		<path>./Pippols (Japan) (Alt 2).zip</path>
 		<name>핍폴스 (대체 2)</name>
 		<image>./snap/Pippols (Japan) (Alt 2).png</image>
-		<video>./video/Pippols (Japan) (Alt 2).mp4</video>
+		<video>./video/Pippols (Japan).mp4</video>
 		<marquee>./marquee/Pippols (Japan) (Alt 2).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -10595,7 +10586,7 @@
 		<path>./Pippols (Japan) (Alt 3).zip</path>
 		<name>핍폴스 (대체 3)</name>
 		<image>./snap/Pippols (Japan) (Alt 3).png</image>
-		<video>./video/Pippols (Japan) (Alt 3).mp4</video>
+		<video>./video/Pippols (Japan).mp4</video>
 		<marquee>./marquee/Pippols (Japan) (Alt 3).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -10621,7 +10612,7 @@
 		<path>./Pitfall II - Lost Caverns (Japan) (Alt 1).zip</path>
 		<name>핏폴 2 (대체 1)</name>
 		<image>./snap/Pitfall II - Lost Caverns (Japan) (Alt 1).png</image>
-		<video>./video/Pitfall II - Lost Caverns (Japan) (Alt 1).mp4</video>
+		<video>./video/Pitfall II - Lost Caverns (Japan).mp4</video>
 		<marquee>./marquee/Pitfall II - Lost Caverns (Japan) (Alt 1).png</marquee>
 		<developer>액티비전</developer>
 		<publisher>액티비전</publisher>
@@ -10647,7 +10638,7 @@
 		<path>./Pitfall! (Japan) (Alt 1).zip</path>
 		<name>핏폴 (대체 1)</name>
 		<image>./snap/Pitfall! (Japan) (Alt 1).png</image>
-		<video>./video/Pitfall! (Japan) (Alt 1).mp4</video>
+		<video>./video/Pitfall! (Japan).mp4</video>
 		<marquee>./marquee/Pitfall! (Japan) (Alt 1).png</marquee>
 		<developer>액티비전</developer>
 		<publisher>액티비전</publisher>
@@ -10660,7 +10651,7 @@
 		<path>./Pitfall! (Japan) (Alt 2).zip</path>
 		<name>핏폴 (대체 2)</name>
 		<image>./snap/Pitfall! (Japan) (Alt 2).png</image>
-		<video>./video/Pitfall! (Japan) (Alt 2).mp4</video>
+		<video>./video/Pitfall! (Japan).mp4</video>
 		<marquee>./marquee/Pitfall! (Japan) (Alt 2).png</marquee>
 		<developer>액티비전</developer>
 		<publisher>액티비전</publisher>
@@ -10712,7 +10703,7 @@
 		<path>./Police Story, The (Japan) (Alt 1).zip</path>
 		<name>폴리스 스토리 (대체 1)</name>
 		<image>./snap/Police Story, The (Japan) (Alt 1).png</image>
-		<video>./video/Police Story, The (Japan) (Alt 1).mp4</video>
+		<video>./video/Police Story, The (Japan).mp4</video>
 		<marquee>./marquee/Police Story, The (Japan) (Alt 1).png</marquee>
 		<developer>포니 캐년</developer>
 		<publisher>포니 캐년</publisher>
@@ -10775,7 +10766,7 @@
 	</game>
 	<game>
 		<path>./Price of Magik, The (Europe).zip</path>
-		<name>프라이스 오브 매직 (유럽판)</name>
+		<name>프라이스 오브 매직</name>
 		<image>./snap/Price of Magik, The (Europe).png</image>
 		<video>./video/Price of Magik, The (Europe).mp4</video>
 		<marquee>./marquee/Price of Magik, The (Europe).png</marquee>
@@ -10879,7 +10870,7 @@
 	</game>
 	<game>
 		<path>./Psychedelia (Europe) (Program).zip</path>
-		<name>사이커딜리어 (유럽판)(프로그램)</name>
+		<name>사이커딜리어</name>
 		<image>./snap/Psychedelia (Europe) (Program).png</image>
 		<video>./video/Psychedelia (Europe) (Program).mp4</video>
 		<marquee>./marquee/Psychedelia (Europe) (Program).png</marquee>
@@ -10933,7 +10924,7 @@
 		<path>./Q-bert (Japan) (Alt 1).zip</path>
 		<name>큐-버트 (대체 1)</name>
 		<image>./snap/Q-bert (Japan) (Alt 1).png</image>
-		<video>./video/Q-bert (Japan) (Alt 1).mp4</video>
+		<video>./video/Q-bert (Japan).mp4</video>
 		<marquee>./marquee/Q-bert (Japan) (Alt 1).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -10959,7 +10950,7 @@
 		<path>./Quarth (Japan) (Demo).zip</path>
 		<name>쿼스 (데모)</name>
 		<image>./snap/Quarth (Japan) (Demo).png</image>
-		<video>./video/Quarth (Japan) (Demo).mp4</video>
+		<video>./video/Quarth (Japan).mp4</video>
 		<marquee>./marquee/Quarth (Japan) (Demo).png</marquee>
 		<developer/>
 		<publisher/>
@@ -10985,7 +10976,7 @@
 		<path>./Quarth (Korea).zip</path>
 		<name>쿼스 (한국판)</name>
 		<image>./snap/Quarth (Korea).png</image>
-		<video>./video/Quarth (Korea).mp4</video>
+		<video>./video/Quarth (Japan).mp4</video>
 		<marquee>./marquee/Quarth (Korea).png</marquee>
 		<developer/>
 		<publisher/>
@@ -10998,7 +10989,7 @@
 		<path>./Queen's Golf (Japan) (Alt 1).zip</path>
 		<name>퀸즈 골프 (대체 1)</name>
 		<image>./snap/Queen's Golf (Japan) (Alt 1).png</image>
-		<video>./video/Queen's Golf (Japan) (Alt 1).mp4</video>
+		<video>./video/Queen's Golf (Japan).mp4</video>
 		<marquee>./marquee/Queen's Golf (Japan) (Alt 1).png</marquee>
 		<developer>마리오네트</developer>
 		<publisher>아스키</publisher>
@@ -11011,7 +11002,7 @@
 		<path>./Queen's Golf (Japan) (Alt 2).zip</path>
 		<name>퀸즈 골프 (대체 2)</name>
 		<image>./snap/Queen's Golf (Japan) (Alt 2).png</image>
-		<video>./video/Queen's Golf (Japan) (Alt 2).mp4</video>
+		<video>./video/Queen's Golf (Japan).mp4</video>
 		<marquee>./marquee/Queen's Golf (Japan) (Alt 2).png</marquee>
 		<developer>마리오네트</developer>
 		<publisher>아스키</publisher>
@@ -11050,7 +11041,7 @@
 		<path>./R-Type (Japan) (Alt 1).zip</path>
 		<name>R - 타입 (대체 1)</name>
 		<image>./snap/R-Type (Japan) (Alt 1).png</image>
-		<video>./video/R-Type (Japan) (Alt 1).mp4</video>
+		<video>./video/R-Type (Japan).mp4</video>
 		<marquee>./marquee/R-Type (Japan) (Alt 1).png</marquee>
 		<developer>아이렘</developer>
 		<publisher>아이렘</publisher>
@@ -11063,7 +11054,7 @@
 		<path>./R-Type (Japan) (Alt 2).zip</path>
 		<name>R - 타입 (대체 2)</name>
 		<image>./snap/R-Type (Japan) (Alt 2).png</image>
-		<video>./video/R-Type (Japan) (Alt 2).mp4</video>
+		<video>./video/R-Type (Japan).mp4</video>
 		<marquee>./marquee/R-Type (Japan) (Alt 2).png</marquee>
 		<developer>아이렘</developer>
 		<publisher>아이렘</publisher>
@@ -11102,7 +11093,7 @@
 		<path>./Rally-X (Japan) (Alt 1).zip</path>
 		<name>랠리 X / 방구차 (대체 1)</name>
 		<image>./snap/Rally-X (Japan) (Alt 1).png</image>
-		<video>./video/Rally-X (Japan) (Alt 1).mp4</video>
+		<video>./video/Rally-X (Japan).mp4</video>
 		<marquee>./marquee/Rally-X (Japan) (Alt 1).png</marquee>
 		<developer>남코</developer>
 		<publisher>남코</publisher>
@@ -11115,7 +11106,7 @@
 		<path>./Rally-X (Japan) (Alt 2).zip</path>
 		<name>랠리 X / 방구차 (대체 2)</name>
 		<image>./snap/Rally-X (Japan) (Alt 2).png</image>
-		<video>./video/Rally-X (Japan) (Alt 2).mp4</video>
+		<video>./video/Rally-X (Japan).mp4</video>
 		<marquee>./marquee/Rally-X (Japan) (Alt 2).png</marquee>
 		<developer>남코</developer>
 		<publisher>남코</publisher>
@@ -11141,7 +11132,7 @@
 		<path>./Rambo (Japan) (Alt 1).zip</path>
 		<name>람보 (대체 1)</name>
 		<image>./snap/Rambo (Japan) (Alt 1).png</image>
-		<video>./video/Rambo (Japan) (Alt 1).mp4</video>
+		<video>./video/Rambo (Japan).mp4</video>
 		<marquee>./marquee/Rambo (Japan) (Alt 1).png</marquee>
 		<developer>CCS</developer>
 		<publisher>팩인 비디오</publisher>
@@ -11154,7 +11145,7 @@
 		<path>./Rambo (Japan) (Alt 2).zip</path>
 		<name>람보 (대체 2)</name>
 		<image>./snap/Rambo (Japan) (Alt 2).png</image>
-		<video>./video/Rambo (Japan) (Alt 2).mp4</video>
+		<video>./video/Rambo (Japan).mp4</video>
 		<marquee>./marquee/Rambo (Japan) (Alt 2).png</marquee>
 		<developer>CCS</developer>
 		<publisher>팩인 비디오</publisher>
@@ -11167,7 +11158,7 @@
 		<path>./Rambo (Japan) (Alt 3).zip</path>
 		<name>람보 (대체 3)</name>
 		<image>./snap/Rambo (Japan) (Alt 3).png</image>
-		<video>./video/Rambo (Japan) (Alt 3).mp4</video>
+		<video>./video/Rambo (Japan).mp4</video>
 		<marquee>./marquee/Rambo (Japan) (Alt 3).png</marquee>
 		<developer>CCS</developer>
 		<publisher>팩인 비디오</publisher>
@@ -11219,7 +11210,7 @@
 		<path>./Red Zone (Japan) (Alt 1).zip</path>
 		<name>레드 존 (대체 1)</name>
 		<image>./snap/Red Zone (Japan) (Alt 1).png</image>
-		<video>./video/Red Zone (Japan) (Alt 1).mp4</video>
+		<video>./video/Red Zone (Japan).mp4</video>
 		<marquee>./marquee/Red Zone (Japan) (Alt 1).png</marquee>
 		<developer>시그노시스</developer>
 		<publisher>시그노시스</publisher>
@@ -11323,7 +11314,7 @@
 		<path>./Rise Out from Dungeons (Japan) (Alt 1).zip</path>
 		<name>라이즈 아웃 프롬 던젼 (대체 1)</name>
 		<image>./snap/Rise Out from Dungeons (Japan) (Alt 1).png</image>
-		<video>./video/Rise Out from Dungeons (Japan) (Alt 1).mp4</video>
+		<video>./video/Rise Out from Dungeons (Japan).mp4</video>
 		<marquee>./marquee/Rise Out from Dungeons (Japan) (Alt 1).png</marquee>
 		<developer>아스키</developer>
 		<publisher>아스키</publisher>
@@ -11349,7 +11340,7 @@
 		<path>./River Raid (Japan) (Alt 1).zip</path>
 		<name>리버 레이드 (대체 1)</name>
 		<image>./snap/River Raid (Japan) (Alt 1).png</image>
-		<video>./video/River Raid (Japan) (Alt 1).mp4</video>
+		<video>./video/River Raid (Japan).mp4</video>
 		<marquee>./marquee/River Raid (Japan) (Alt 1).png</marquee>
 		<developer>액티비전</developer>
 		<publisher>액티비전</publisher>
@@ -11375,7 +11366,7 @@
 		<path>./Road Fighter (Japan) (Alt 1).zip</path>
 		<name>로드 파이터 (대체 1)</name>
 		<image>./snap/Road Fighter (Japan) (Alt 1).png</image>
-		<video>./video/Road Fighter (Japan) (Alt 1).mp4</video>
+		<video>./video/Road Fighter (Japan).mp4</video>
 		<marquee>./marquee/Road Fighter (Japan) (Alt 1).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -11414,7 +11405,7 @@
 		<path>./Robofrog (Japan) (Alt 1).zip</path>
 		<name>로보프로그 (대체 1)</name>
 		<image>./snap/Robofrog (Japan) (Alt 1).png</image>
-		<video>./video/Robofrog (Japan) (Alt 1).mp4</video>
+		<video>./video/Robofrog (Japan).mp4</video>
 		<marquee>./marquee/Robofrog (Japan) (Alt 1).png</marquee>
 		<developer>매스 타엘</developer>
 		<publisher>매스 타엘</publisher>
@@ -11453,7 +11444,7 @@
 		<path>./Roger Rubbish (Europe) (Alt 1).zip</path>
 		<name>로저 러비쉬 (유럽판)(대체 1)</name>
 		<image>./snap/Roger Rubbish (Europe) (Alt 1).png</image>
-		<video>./video/Roger Rubbish (Europe) (Alt 1).mp4</video>
+		<video>./video/Roger Rubbish (Europe).mp4</video>
 		<marquee>./marquee/Roger Rubbish (Europe) (Alt 1).png</marquee>
 		<developer>스펙트라비디오</developer>
 		<publisher>스펙트라비디오</publisher>
@@ -11464,7 +11455,7 @@
 	</game>
 	<game>
 		<path>./Roger Rubbish (Europe).zip</path>
-		<name>로저 러비쉬 (유럽판)</name>
+		<name>로저 러비쉬</name>
 		<image>./snap/Roger Rubbish (Europe).png</image>
 		<video>./video/Roger Rubbish (Europe).mp4</video>
 		<marquee>./marquee/Roger Rubbish (Europe).png</marquee>
@@ -11479,7 +11470,7 @@
 		<path>./Roller Ball (Japan) (Alt 1).zip</path>
 		<name>롤러볼 (대체 1)</name>
 		<image>./snap/Roller Ball (Japan) (Alt 1).png</image>
-		<video>./video/Roller Ball (Japan) (Alt 1).mp4</video>
+		<video>./video/Roller Ball (Japan).mp4</video>
 		<marquee>./marquee/Roller Ball (Japan) (Alt 1).png</marquee>
 		<developer>할 연구소</developer>
 		<publisher>할 연구소</publisher>
@@ -11544,7 +11535,7 @@
 		<path>./Sangokushi (Japan) (Alt 1).zip</path>
 		<name>삼국지 (대체 1)</name>
 		<image>./snap/Sangokushi (Japan) (Alt 1).png</image>
-		<video>./video/Sangokushi (Japan) (Alt 1).mp4</video>
+		<video>./video/Sangokushi (Japan).mp4</video>
 		<marquee>./marquee/Sangokushi (Japan) (Alt 1).png</marquee>
 		<developer>코에이</developer>
 		<publisher>코에이</publisher>
@@ -11583,7 +11574,7 @@
 		<path>./Sasa (Japan) (Alt 1).zip</path>
 		<name>사사 (대체 1)</name>
 		<image>./snap/Sasa (Japan) (Alt 1).png</image>
-		<video>./video/Sasa (Japan) (Alt 1).mp4</video>
+		<video>./video/Sasa (Japan).mp4</video>
 		<marquee>./marquee/Sasa (Japan) (Alt 1).png</marquee>
 		<developer>매스 타엘</developer>
 		<publisher>아스키</publisher>
@@ -11685,7 +11676,7 @@
 	</game>
 	<game>
 		<path>./Sea Hunter (Europe).zip</path>
-		<name>씨 헌터 (유럽판)</name>
+		<name>씨 헌터</name>
 		<image>./snap/Sea Hunter (Europe).png</image>
 		<video>./video/Sea Hunter (Europe).mp4</video>
 		<marquee>./marquee/Sea Hunter (Europe).png</marquee>
@@ -11700,7 +11691,7 @@
 		<path>./Seikima II Special - Akuma no Gyakushuu (Japan) (Alt 1).zip</path>
 		<name>성걸마 2 스페셜 - 악마의 역습 (대체 1)</name>
 		<image>./snap/Seikima II Special - Akuma no Gyakushuu (Japan) (Alt 1).png</image>
-		<video>./video/Seikima II Special - Akuma no Gyakushuu (Japan) (Alt 1).mp4</video>
+		<video>./video/Seikima II Special - Akuma no Gyakushuu (Japan).mp4</video>
 		<marquee>./marquee/Seikima II Special - Akuma no Gyakushuu (Japan) (Alt 1).png</marquee>
 		<developer/>
 		<publisher/>
@@ -11739,7 +11730,7 @@
 		<path>./Senjyo (Japan) (Alt 1).zip</path>
 		<name>전장 (대체 1)</name>
 		<image>./snap/Senjyo (Japan) (Alt 1).png</image>
-		<video>./video/Senjyo (Japan) (Alt 1).mp4</video>
+		<video>./video/Senjyo (Japan).mp4</video>
 		<marquee>./marquee/Senjyo (Japan) (Alt 1).png</marquee>
 		<developer>테이칸</developer>
 		<publisher>소니</publisher>
@@ -11880,7 +11871,7 @@
 	</game>
 	<game>
 		<path>./Simple ASM 1.0 (Japan) (Program).zip</path>
-		<name>심플 ASM 1.0 (프로그램)</name>
+		<name>심플 ASM 1.0</name>
 		<image>./snap/Simple ASM 1.0 (Japan) (Program).png</image>
 		<video>./video/Simple ASM 1.0 (Japan) (Program).mp4</video>
 		<marquee>./marquee/Simple ASM 1.0 (Japan) (Program).png</marquee>
@@ -11908,7 +11899,7 @@
 		<path>./Skooter (Japan) (Alt 1).zip</path>
 		<name>스쿠터 (대체 1)</name>
 		<image>./snap/Skooter (Japan) (Alt 1).png</image>
-		<video>./video/Skooter (Japan) (Alt 1).mp4</video>
+		<video>./video/Skooter (Japan).mp4</video>
 		<marquee>./marquee/Skooter (Japan) (Alt 1).png</marquee>
 		<developer>이글</developer>
 		<publisher>이글</publisher>
@@ -11958,7 +11949,7 @@
 	</game>
 	<game>
 		<path>./Slapshot (Spain).zip</path>
-		<name>스랩샷 (스페인판)</name>
+		<name>스랩샷</name>
 		<image>./snap/Slapshot (Spain).png</image>
 		<video>./video/Slapshot (Spain).mp4</video>
 		<marquee>./marquee/Slapshot (Spain).png</marquee>
@@ -11971,7 +11962,7 @@
 	</game>
 	<game>
 		<path>./Snake It (Europe).zip</path>
-		<name>스네이크 잇 (유럽판)</name>
+		<name>스네이크 잇</name>
 		<image>./snap/Snake It (Europe).png</image>
 		<video>./video/Snake It (Europe).mp4</video>
 		<marquee>./marquee/Snake It (Europe).png</marquee>
@@ -11999,7 +11990,7 @@
 		<path>./Soukoban (Japan) (Alt 1).zip</path>
 		<name>창고번 (대체 1)</name>
 		<image>./snap/Soukoban (Japan) (Alt 1).png</image>
-		<video>./video/Soukoban (Japan) (Alt 1).mp4</video>
+		<video>./video/Soukoban (Japan).mp4</video>
 		<marquee>./marquee/Soukoban (Japan) (Alt 1).png</marquee>
 		<developer>아스키</developer>
 		<publisher>아스키</publisher>
@@ -12012,7 +12003,7 @@
 		<path>./Soukoban (Japan) (Alt 2).zip</path>
 		<name>창고번 (대체 2)</name>
 		<image>./snap/Soukoban (Japan) (Alt 2).png</image>
-		<video>./video/Soukoban (Japan) (Alt 2).mp4</video>
+		<video>./video/Soukoban (Japan).mp4</video>
 		<marquee>./marquee/Soukoban (Japan) (Alt 2).png</marquee>
 		<developer>아스키</developer>
 		<publisher>아스키</publisher>
@@ -12038,7 +12029,7 @@
 		<path>./Space Camp (Japan) (Alt 1).zip</path>
 		<name>스페이스 캠프 (대체 1)</name>
 		<image>./snap/Space Camp (Japan) (Alt 1).png</image>
-		<video>./video/Space Camp (Japan) (Alt 1).mp4</video>
+		<video>./video/Space Camp (Japan).mp4</video>
 		<marquee>./marquee/Space Camp (Japan) (Alt 1).png</marquee>
 		<developer>팩인 비디오</developer>
 		<publisher>팩인 비디오</publisher>
@@ -12090,7 +12081,7 @@
 		<path>./Space Maze Attack (Japan) (Alt 1).zip</path>
 		<name>스페이스 메이즈 어택 (대체 1)</name>
 		<image>./snap/Space Maze Attack (Japan) (Alt 1).png</image>
-		<video>./video/Space Maze Attack (Japan) (Alt 1).mp4</video>
+		<video>./video/Space Maze Attack (Japan).mp4</video>
 		<marquee>./marquee/Space Maze Attack (Japan) (Alt 1).png</marquee>
 		<developer>할 연구소</developer>
 		<publisher>할 연구소</publisher>
@@ -12103,7 +12094,7 @@
 		<path>./Space Maze Attack (Japan) (Alt 2).zip</path>
 		<name>스페이스 메이즈 어택 (대체 2)</name>
 		<image>./snap/Space Maze Attack (Japan) (Alt 2).png</image>
-		<video>./video/Space Maze Attack (Japan) (Alt 2).mp4</video>
+		<video>./video/Space Maze Attack (Japan).mp4</video>
 		<marquee>./marquee/Space Maze Attack (Japan) (Alt 2).png</marquee>
 		<developer>할 연구소</developer>
 		<publisher>할 연구소</publisher>
@@ -12140,7 +12131,7 @@
 	</game>
 	<game>
 		<path>./Space Walk (Europe).zip</path>
-		<name>스페이스 워크 (유럽판)</name>
+		<name>스페이스 워크</name>
 		<image>./snap/Space Walk (Europe).png</image>
 		<video>./video/Space Walk (Europe).mp4</video>
 		<marquee>./marquee/Space Walk (Europe).png</marquee>
@@ -12155,7 +12146,7 @@
 		<path>./Sparkie (Japan) (Alt 1).zip</path>
 		<name>스파키 (대체 1)</name>
 		<image>./snap/Sparkie (Japan) (Alt 1).png</image>
-		<video>./video/Sparkie (Japan) (Alt 1).mp4</video>
+		<video>./video/Sparkie (Japan).mp4</video>
 		<marquee>./marquee/Sparkie (Japan) (Alt 1).png</marquee>
 		<developer>코나미</developer>
 		<publisher>소니</publisher>
@@ -12181,7 +12172,7 @@
 		<path>./Spelunker (Japan) (Alt 1).zip</path>
 		<name>스페랑카 (대체 1)</name>
 		<image>./snap/Spelunker (Japan) (Alt 1).png</image>
-		<video>./video/Spelunker (Japan) (Alt 1).mp4</video>
+		<video>./video/Spelunker (Japan).mp4</video>
 		<marquee>./marquee/Spelunker (Japan) (Alt 1).png</marquee>
 		<developer>마이크로 그래픽 이미지</developer>
 		<publisher>브로드번드 소프트웨어</publisher>
@@ -12218,7 +12209,7 @@
 	</game>
 	<game>
 		<path>./Spread Sheet (Europe) (Program).zip</path>
-		<name>스프레드 시트 (유럽판)(프로그램)</name>
+		<name>스프레드 시트</name>
 		<image>./snap/Spread Sheet (Europe) (Program).png</image>
 		<video>./video/Spread Sheet (Europe) (Program).mp4</video>
 		<marquee>./marquee/Spread Sheet (Europe) (Program).png</marquee>
@@ -12231,7 +12222,7 @@
 	</game>
 	<game>
 		<path>./Spy vs Spy II - The Island Caper (Europe).zip</path>
-		<name>스파이 vs 스파이 2 (유럽판)</name>
+		<name>스파이 vs 스파이 2</name>
 		<image>./snap/Spy vs Spy II - The Island Caper (Europe).png</image>
 		<video>./video/Spy vs Spy II - The Island Caper (Europe).mp4</video>
 		<marquee>./marquee/Spy vs Spy II - The Island Caper (Europe).png</marquee>
@@ -12259,7 +12250,7 @@
 		<path>./Squish'em (Japan) (Alt 1).zip</path>
 		<name>스퀴쉬엄 (대체 1)</name>
 		<image>./snap/Squish'em (Japan) (Alt 1).png</image>
-		<video>./video/Squish'em (Japan) (Alt 1).mp4</video>
+		<video>./video/Squish'em (Japan).mp4</video>
 		<marquee>./marquee/Squish'em (Japan) (Alt 1).png</marquee>
 		<developer>아스키</developer>
 		<publisher>아스키</publisher>
@@ -12285,7 +12276,7 @@
 		<path>./Star Blazer (Japan) (Alt 1).zip</path>
 		<name>스타 블래이져 (대체 1)</name>
 		<image>./snap/Star Blazer (Japan) (Alt 1).png</image>
-		<video>./video/Star Blazer (Japan) (Alt 1).mp4</video>
+		<video>./video/Star Blazer (Japan).mp4</video>
 		<marquee>./marquee/Star Blazer (Japan) (Alt 1).png</marquee>
 		<developer>스타크래프트</developer>
 		<publisher>소니</publisher>
@@ -12298,7 +12289,7 @@
 		<path>./Star Blazer (Japan) (Alt 2).zip</path>
 		<name>스타 블래이져 (대체 2)</name>
 		<image>./snap/Star Blazer (Japan) (Alt 2).png</image>
-		<video>./video/Star Blazer (Japan) (Alt 2).mp4</video>
+		<video>./video/Star Blazer (Japan).mp4</video>
 		<marquee>./marquee/Star Blazer (Japan) (Alt 2).png</marquee>
 		<developer>스타크래프트</developer>
 		<publisher>소니</publisher>
@@ -12337,7 +12328,7 @@
 		<path>./Star Force (Japan) (Alt 1).zip</path>
 		<name>스타 포스 (대체 1)</name>
 		<image>./snap/Star Force (Japan) (Alt 1).png</image>
-		<video>./video/Star Force (Japan) (Alt 1).mp4</video>
+		<video>./video/Star Force (Japan).mp4</video>
 		<marquee>./marquee/Star Force (Japan) (Alt 1).png</marquee>
 		<developer>테이칸</developer>
 		<publisher>허드슨</publisher>
@@ -12363,7 +12354,7 @@
 		<path>./Star Soldier (Japan) (Alt 1).zip</path>
 		<name>스타 솔져 (대체 1)</name>
 		<image>./snap/Star Soldier (Japan) (Alt 1).png</image>
-		<video>./video/Star Soldier (Japan) (Alt 1).mp4</video>
+		<video>./video/Star Soldier (Japan).mp4</video>
 		<marquee>./marquee/Star Soldier (Japan) (Alt 1).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
@@ -12402,7 +12393,7 @@
 		<path>./Star Virgin (Japan) (Alt 1).zip</path>
 		<name>스타 버진 (대체 1)</name>
 		<image>./snap/Star Virgin (Japan) (Alt 1).png</image>
-		<video>./video/Star Virgin (Japan) (Alt 1).mp4</video>
+		<video>./video/Star Virgin (Japan).mp4</video>
 		<marquee>./marquee/Star Virgin (Japan) (Alt 1).png</marquee>
 		<developer/>
 		<publisher/>
@@ -12428,7 +12419,7 @@
 		<path>./Starship Simulator (Japan) (Alt 1).zip</path>
 		<name>스타쉽 시뮬레이터 (대체 1)</name>
 		<image>./snap/Starship Simulator (Japan) (Alt 1).png</image>
-		<video>./video/Starship Simulator (Japan) (Alt 1).mp4</video>
+		<video>./video/Starship Simulator (Japan).mp4</video>
 		<marquee>./marquee/Starship Simulator (Japan) (Alt 1).png</marquee>
 		<developer>아스키</developer>
 		<publisher>아스키</publisher>
@@ -12454,7 +12445,7 @@
 		<path>./Step Up (Japan) (Alt 1).zip</path>
 		<name>스텝 업 (대체 1)</name>
 		<image>./snap/Step Up (Japan) (Alt 1).png</image>
-		<video>./video/Step Up (Japan) (Alt 1).mp4</video>
+		<video>./video/Step Up (Japan).mp4</video>
 		<marquee>./marquee/Step Up (Japan) (Alt 1).png</marquee>
 		<developer>마블 소프트</developer>
 		<publisher>도시바 EMI</publisher>
@@ -12569,7 +12560,7 @@
 	</game>
 	<game>
 		<path>./Super Bioman 4 (Korea) (Unl).zip</path>
-		<name>슈퍼 바이오맨 4 (한국판)(해적판)</name>
+		<name>슈퍼 바이오맨 4</name>
 		<image>./snap/Super Bioman 4 (Korea) (Unl).png</image>
 		<video>./video/Super Bioman 4 (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Super Bioman 4 (Korea) (Unl).png</marquee>
@@ -12582,7 +12573,7 @@
 	</game>
 	<game>
 		<path>./Super Boy 3 (Korea) (Unl).zip</path>
-		<name>슈퍼 보이 3 (한국판)(해적판)</name>
+		<name>슈퍼 보이 3</name>
 		<image>./snap/Super Boy 3 (Korea) (Unl).png</image>
 		<video>./video/Super Boy 3 (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Super Boy 3 (Korea) (Unl).png</marquee>
@@ -12595,7 +12586,7 @@
 	</game>
 	<game>
 		<path>./Super Boy I (Korea) (Unl).zip</path>
-		<name>슈퍼 보이 1 (한국판)(해적판)</name>
+		<name>슈퍼 보이 1</name>
 		<image>./snap/Super Boy I (Korea) (Unl).png</image>
 		<video>./video/Super Boy I (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Super Boy I (Korea) (Unl).png</marquee>
@@ -12608,7 +12599,7 @@
 	</game>
 	<game>
 		<path>./Super Boy II (Korea) (Unl).zip</path>
-		<name>슈퍼 보이 2 (한국판)(해적판)</name>
+		<name>슈퍼 보이 2</name>
 		<image>./snap/Super Boy II (Korea) (Unl).png</image>
 		<video>./video/Super Boy II (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Super Boy II (Korea) (Unl).png</marquee>
@@ -12621,7 +12612,7 @@
 	</game>
 	<game>
 		<path>./Super Bubble Bobble (Korea) (Unl).zip</path>
-		<name>슈퍼 버블 보블 (한국판)(해적판)</name>
+		<name>슈퍼 버블 보블</name>
 		<image>./snap/Super Bubble Bobble (Korea) (Unl).png</image>
 		<video>./video/Super Bubble Bobble (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Super Bubble Bobble (Korea) (Unl).png</marquee>
@@ -12636,7 +12627,7 @@
 		<path>./Super Cobra (Japan) (Alt 1).zip</path>
 		<name>슈퍼 코브라 (대체 1)</name>
 		<image>./snap/Super Cobra (Japan) (Alt 1).png</image>
-		<video>./video/Super Cobra (Japan) (Alt 1).mp4</video>
+		<video>./video/Super Cobra (Japan).mp4</video>
 		<marquee>./marquee/Super Cobra (Japan) (Alt 1).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -12673,7 +12664,7 @@
 	</game>
 	<game>
 		<path>./Super Cross Force (Europe).zip</path>
-		<name>슈퍼 크로스 포스 (유럽판)</name>
+		<name>슈퍼 크로스 포스</name>
 		<image>./snap/Super Cross Force (Europe).png</image>
 		<video>./video/Super Cross Force (Europe).mp4</video>
 		<marquee>./marquee/Super Cross Force (Europe).png</marquee>
@@ -12753,7 +12744,7 @@
 		<path>./Super Monitor (Japan) (v1.1) (Program).zip</path>
 		<name>슈퍼 모니터 (v1.1)(프로그램)</name>
 		<image>./snap/Super Monitor (Japan) (v1.1) (Program).png</image>
-		<video>./video/Super Monitor (Japan) (v1.1) (Program).mp4</video>
+		<video>./video/Super Monitor (Japan) (v1.2) (Program).mp4</video>
 		<marquee>./marquee/Super Monitor (Japan) (v1.1) (Program).png</marquee>
 		<developer/>
 		<publisher/>
@@ -12764,7 +12755,7 @@
 	</game>
 	<game>
 		<path>./Super Monitor (Japan) (v1.2) (Program).zip</path>
-		<name>슈퍼 모니터 (v1.2)(프로그램)</name>
+		<name>슈퍼 모니터</name>
 		<image>./snap/Super Monitor (Japan) (v1.2) (Program).png</image>
 		<video>./video/Super Monitor (Japan) (v1.2) (Program).mp4</video>
 		<marquee>./marquee/Super Monitor (Japan) (v1.2) (Program).png</marquee>
@@ -12831,7 +12822,7 @@
 		<path>./Super Snake (Japan) (Alt 1).zip</path>
 		<name>슈퍼 스네이크 (대체 1)</name>
 		<image>./snap/Super Snake (Japan) (Alt 1).png</image>
-		<video>./video/Super Snake (Japan) (Alt 1).mp4</video>
+		<video>./video/Super Snake (Japan).mp4</video>
 		<marquee>./marquee/Super Snake (Japan) (Alt 1).png</marquee>
 		<developer>할 연구소</developer>
 		<publisher>할 연구소</publisher>
@@ -12844,7 +12835,7 @@
 		<path>./Super Snake (Japan) (Alt 2).zip</path>
 		<name>슈퍼 스네이크 (대체 2)</name>
 		<image>./snap/Super Snake (Japan) (Alt 2).png</image>
-		<video>./video/Super Snake (Japan) (Alt 2).mp4</video>
+		<video>./video/Super Snake (Japan).mp4</video>
 		<marquee>./marquee/Super Snake (Japan) (Alt 2).png</marquee>
 		<developer>할 연구소</developer>
 		<publisher>할 연구소</publisher>
@@ -12883,7 +12874,7 @@
 		<path>./Super Synth (Japan) (Program) (Alt 1).zip</path>
 		<name>슈퍼 신디 (프로그램)(대체 1)</name>
 		<image>./snap/Super Synth (Japan) (Program) (Alt 1).png</image>
-		<video>./video/Super Synth (Japan) (Program) (Alt 1).mp4</video>
+		<video>./video/Super Synth (Japan) (Program).mp4</video>
 		<marquee>./marquee/Super Synth (Japan) (Program) (Alt 1).png</marquee>
 		<developer/>
 		<publisher/>
@@ -12894,7 +12885,7 @@
 	</game>
 	<game>
 		<path>./Super Synth (Japan) (Program).zip</path>
-		<name>슈퍼 신디 (프로그램)</name>
+		<name>슈퍼 신디</name>
 		<image>./snap/Super Synth (Japan) (Program).png</image>
 		<video>./video/Super Synth (Japan) (Program).mp4</video>
 		<marquee>./marquee/Super Synth (Japan) (Program).png</marquee>
@@ -12920,7 +12911,7 @@
 	</game>
 	<game>
 		<path>./Super Tripper (Spain).zip</path>
-		<name>슈퍼 트리퍼 (스페인판)</name>
+		<name>슈퍼 트리퍼</name>
 		<image>./snap/Super Tripper (Spain).png</image>
 		<video>./video/Super Tripper (Spain).mp4</video>
 		<marquee>./marquee/Super Tripper (Spain).png</marquee>
@@ -12948,7 +12939,7 @@
 		<path>./Sweet Acorn (Japan) (Alt 1).zip</path>
 		<name>스위트 아콘 (대체 1)</name>
 		<image>./snap/Sweet Acorn (Japan) (Alt 1).png</image>
-		<video>./video/Sweet Acorn (Japan) (Alt 1).mp4</video>
+		<video>./video/Sweet Acorn (Japan).mp4</video>
 		<marquee>./marquee/Sweet Acorn (Japan) (Alt 1).png</marquee>
 		<developer>타이토</developer>
 		<publisher>타이토</publisher>
@@ -12974,7 +12965,7 @@
 		<path>./Swing (Japan) (Alt 1).zip</path>
 		<name>스윙 (대체 1)</name>
 		<image>./snap/Swing (Japan) (Alt 1).png</image>
-		<video>./video/Swing (Japan) (Alt 1).mp4</video>
+		<video>./video/Swing (Japan).mp4</video>
 		<marquee>./marquee/Swing (Japan) (Alt 1).png</marquee>
 		<developer>컴파일</developer>
 		<publisher>포니 캐년</publisher>
@@ -12998,7 +12989,7 @@
 	</game>
 	<game>
 		<path>./Synthe Saurus (Japan) (Program).zip</path>
-		<name>신디 사우르스 (프로그램)</name>
+		<name>신디 사우르스</name>
 		<image>./snap/Synthe Saurus (Japan) (Program).png</image>
 		<video>./video/Synthe Saurus (Japan) (Program).mp4</video>
 		<marquee>./marquee/Synthe Saurus (Japan) (Program).png</marquee>
@@ -13078,7 +13069,7 @@
 		<path>./Tawara-kun (Japan) (Alt 1).zip</path>
 		<name>타와라군 (대체 1)</name>
 		<image>./snap/Tawara-kun (Japan) (Alt 1).png</image>
-		<video>./video/Tawara-kun (Japan) (Alt 1).mp4</video>
+		<video>./video/Tawara-kun (Japan).mp4</video>
 		<marquee>./marquee/Tawara-kun (Japan) (Alt 1).png</marquee>
 		<developer>아스키</developer>
 		<publisher>아스키</publisher>
@@ -13091,7 +13082,7 @@
 		<path>./Tawara-kun (Japan) (Alt 2).zip</path>
 		<name>타와라군 (대체 2)</name>
 		<image>./snap/Tawara-kun (Japan) (Alt 2).png</image>
-		<video>./video/Tawara-kun (Japan) (Alt 2).mp4</video>
+		<video>./video/Tawara-kun (Japan).mp4</video>
 		<marquee>./marquee/Tawara-kun (Japan) (Alt 2).png</marquee>
 		<developer>아스키</developer>
 		<publisher>아스키</publisher>
@@ -13143,7 +13134,7 @@
 		<path>./Telebunnie (Japan) (Alt 1).zip</path>
 		<name>텔레버니 (대체 1)</name>
 		<image>./snap/Telebunnie (Japan) (Alt 1).png</image>
-		<video>./video/Telebunnie (Japan) (Alt 1).mp4</video>
+		<video>./video/Telebunnie (Japan).mp4</video>
 		<marquee>./marquee/Telebunnie (Japan) (Alt 1).png</marquee>
 		<developer>아스키</developer>
 		<publisher>아스키</publisher>
@@ -13206,7 +13197,7 @@
 	</game>
 	<game>
 		<path>./Tension (Spain).zip</path>
-		<name>텐션 (스페인판)</name>
+		<name>텐션</name>
 		<image>./snap/Tension (Spain).png</image>
 		<video>./video/Tension (Spain).mp4</video>
 		<marquee>./marquee/Tension (Spain).png</marquee>
@@ -13221,7 +13212,7 @@
 		<path>./Tetra Horror (Japan) (Alt 1).zip</path>
 		<name>테트라 호러 (대체 1)</name>
 		<image>./snap/Tetra Horror (Japan) (Alt 1).png</image>
-		<video>./video/Tetra Horror (Japan) (Alt 1).mp4</video>
+		<video>./video/Tetra Horror (Japan).mp4</video>
 		<marquee>./marquee/Tetra Horror (Japan) (Alt 1).png</marquee>
 		<developer>매스 타엘</developer>
 		<publisher>스펙트라비디오</publisher>
@@ -13258,7 +13249,7 @@
 	</game>
 	<game>
 		<path>./Tetris (Korea) (Unl).zip</path>
-		<name>테트리스 (한국판)(해적판)</name>
+		<name>테트리스</name>
 		<image>./snap/Tetris (Korea) (Unl).png</image>
 		<video>./video/Tetris (Korea) (Unl).mp4</video>
 		<marquee>./marquee/Tetris (Korea) (Unl).png</marquee>
@@ -13273,7 +13264,7 @@
 		<path>./Tetsuman (Japan) (Alt 1).zip</path>
 		<name>테츠만 (대체 1)</name>
 		<image>./snap/Tetsuman (Japan) (Alt 1).png</image>
-		<video>./video/Tetsuman (Japan) (Alt 1).mp4</video>
+		<video>./video/Tetsuman (Japan).mp4</video>
 		<marquee>./marquee/Tetsuman (Japan) (Alt 1).png</marquee>
 		<developer>할 연구소</developer>
 		<publisher>할 연구소</publisher>
@@ -13299,7 +13290,7 @@
 		<path>./Thexder (Japan) (Alt 1).zip</path>
 		<name>테그져 (대체 1)</name>
 		<image>./snap/Thexder (Japan) (Alt 1).png</image>
-		<video>./video/Thexder (Japan) (Alt 1).mp4</video>
+		<video>./video/Thexder (Japan).mp4</video>
 		<marquee>./marquee/Thexder (Japan) (Alt 1).png</marquee>
 		<developer>게임아츠</developer>
 		<publisher>게임아츠</publisher>
@@ -13312,7 +13303,7 @@
 		<path>./Thexder (Japan) (Alt 2).zip</path>
 		<name>테그져 (대체 2)</name>
 		<image>./snap/Thexder (Japan) (Alt 2).png</image>
-		<video>./video/Thexder (Japan) (Alt 2).mp4</video>
+		<video>./video/Thexder (Japan).mp4</video>
 		<marquee>./marquee/Thexder (Japan) (Alt 2).png</marquee>
 		<developer>게임아츠</developer>
 		<publisher>게임아츠</publisher>
@@ -13338,7 +13329,7 @@
 		<path>./Thunder Ball (Japan) (Alt 1).zip</path>
 		<name>썬더 볼 (대체 1)</name>
 		<image>./snap/Thunder Ball (Japan) (Alt 1).png</image>
-		<video>./video/Thunder Ball (Japan) (Alt 1).mp4</video>
+		<video>./video/Thunder Ball (Japan).mp4</video>
 		<marquee>./marquee/Thunder Ball (Japan) (Alt 1).png</marquee>
 		<developer>아스키</developer>
 		<publisher>아스키</publisher>
@@ -13364,7 +13355,7 @@
 		<path>./Thunderbolt (Japan) (Alt 1).zip</path>
 		<name>썬더볼트 (대체 1)</name>
 		<image>./snap/Thunderbolt (Japan) (Alt 1).png</image>
-		<video>./video/Thunderbolt (Japan) (Alt 1).mp4</video>
+		<video>./video/Thunderbolt (Japan).mp4</video>
 		<marquee>./marquee/Thunderbolt (Japan) (Alt 1).png</marquee>
 		<developer>코드마스터즈</developer>
 		<publisher>코드마스터즈</publisher>
@@ -13377,7 +13368,7 @@
 		<path>./Thunderbolt (Japan) (Alt 2).zip</path>
 		<name>썬더볼트 (대체 2)</name>
 		<image>./snap/Thunderbolt (Japan) (Alt 2).png</image>
-		<video>./video/Thunderbolt (Japan) (Alt 2).mp4</video>
+		<video>./video/Thunderbolt (Japan).mp4</video>
 		<marquee>./marquee/Thunderbolt (Japan) (Alt 2).png</marquee>
 		<developer>코드마스터즈</developer>
 		<publisher>코드마스터즈</publisher>
@@ -13403,7 +13394,7 @@
 		<path>./Time Pilot (Japan) (Alt 1).zip</path>
 		<name>타임 파일럿 (대체 1)</name>
 		<image>./snap/Time Pilot (Japan) (Alt 1).png</image>
-		<video>./video/Time Pilot (Japan) (Alt 1).mp4</video>
+		<video>./video/Time Pilot (Japan).mp4</video>
 		<marquee>./marquee/Time Pilot (Japan) (Alt 1).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -13427,7 +13418,7 @@
 	</game>
 	<game>
 		<path>./Toobin (Europe).zip</path>
-		<name>투빈 (유럽판)</name>
+		<name>투빈</name>
 		<image>./snap/Toobin (Europe).png</image>
 		<video>./video/Toobin (Europe).mp4</video>
 		<marquee>./marquee/Toobin (Europe).png</marquee>
@@ -13468,7 +13459,7 @@
 		<path>./Track &amp; Field 1 (Europe).zip</path>
 		<name>트랙 &amp; 필드 1 (유럽판)</name>
 		<image>./snap/Track &amp; Field 1 (Europe).png</image>
-		<video>./video/Track &amp; Field 1 (Europe).mp4</video>
+		<video>./video/Hyper Olympic 1 (Japan).mp4</video>
 		<marquee>./marquee/Track &amp; Field 1 (Europe).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -13481,7 +13472,7 @@
 		<path>./Track &amp; Field 2 (Europe).zip</path>
 		<name>트랙 &amp; 필드 2 (유럽판)</name>
 		<image>./snap/Track &amp; Field 2 (Europe).png</image>
-		<video>./video/Track &amp; Field 2 (Europe).mp4</video>
+		<video>./video/Hyper Olympic 2 (Japan).mp4</video>
 		<marquee>./marquee/Track &amp; Field 2 (Europe).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -13494,7 +13485,7 @@
 		<path>./Traffic (Japan) (Alt 1).zip</path>
 		<name>트래픽 (대체 1)</name>
 		<image>./snap/Traffic (Japan) (Alt 1).png</image>
-		<video>./video/Traffic (Japan) (Alt 1).mp4</video>
+		<video>./video/Traffic (Japan).mp4</video>
 		<marquee>./marquee/Traffic (Japan) (Alt 1).png</marquee>
 		<developer>안드로메다</developer>
 		<publisher>소니</publisher>
@@ -13520,7 +13511,7 @@
 		<path>./Treasure of Usas, The (Japan, Europe) (Alt 1).zip</path>
 		<name>우샤스(대체 1)</name>
 		<image>./snap/Treasure of Usas, The (Japan, Europe) (Alt 1).png</image>
-		<video>./video/Treasure of Usas, The (Japan, Europe) (Alt 1).mp4</video>
+		<video>./video/Treasure of Usas, The (Japan, Europe).mp4</video>
 		<marquee>./marquee/Treasure of Usas, The (Japan, Europe) (Alt 1).png</marquee>
 		<developer/>
 		<publisher/>
@@ -13648,7 +13639,7 @@
 	</game>
 	<game>
 		<path>./Turmoil (Japan) (Alt 1).zip</path>
-		<name>터모일 (대체 1)</name>
+		<name>터모일</name>
 		<image>./snap/Turmoil (Japan) (Alt 1).png</image>
 		<video>./video/Turmoil (Japan) (Alt 1).mp4</video>
 		<marquee>./marquee/Turmoil (Japan) (Alt 1).png</marquee>
@@ -13663,7 +13654,7 @@
 		<path>./Twin Bee (Japan) (Alt 1).zip</path>
 		<name>트윈 비 (대체 1)</name>
 		<image>./snap/Twin Bee (Japan) (Alt 1).png</image>
-		<video>./video/Twin Bee (Japan) (Alt 1).mp4</video>
+		<video>./video/Twin Bee (Japan).mp4</video>
 		<marquee>./marquee/Twin Bee (Japan) (Alt 1).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -13676,7 +13667,7 @@
 		<path>./Twin Bee (Japan) (Alt 2).zip</path>
 		<name>트윈 비 (대체 2)</name>
 		<image>./snap/Twin Bee (Japan) (Alt 2).png</image>
-		<video>./video/Twin Bee (Japan) (Alt 2).mp4</video>
+		<video>./video/Twin Bee (Japan).mp4</video>
 		<marquee>./marquee/Twin Bee (Japan) (Alt 2).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -13689,7 +13680,7 @@
 		<path>./Twin Bee (Japan) (Alt 3).zip</path>
 		<name>트윈 비 (대체 3)</name>
 		<image>./snap/Twin Bee (Japan) (Alt 3).png</image>
-		<video>./video/Twin Bee (Japan) (Alt 3).mp4</video>
+		<video>./video/Twin Bee (Japan).mp4</video>
 		<marquee>./marquee/Twin Bee (Japan) (Alt 3).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -13713,7 +13704,7 @@
 	</game>
 	<game>
 		<path>./Twin Hammer (Europe).zip</path>
-		<name>트윈 해머 (유럽판)</name>
+		<name>트윈 해머</name>
 		<image>./snap/Twin Hammer (Europe).png</image>
 		<video>./video/Twin Hammer (Europe).mp4</video>
 		<marquee>./marquee/Twin Hammer (Europe).png</marquee>
@@ -13780,7 +13771,7 @@
 		<path>./Vampire Killer (Japan, Europe) (Alt 1).zip</path>
 		<name>악마성 드라귤라 / 뱀파이어 킬러(대체 1)</name>
 		<image>./snap/Vampire Killer (Japan, Europe) (Alt 1).png</image>
-		<video>./video/Vampire Killer (Japan, Europe) (Alt 1).mp4</video>
+		<video>./video/Vampire Killer (Japan, Europe).mp4</video>
 		<marquee>./marquee/Vampire Killer (Japan, Europe) (Alt 1).png</marquee>
 		<developer/>
 		<publisher/>
@@ -13793,7 +13784,7 @@
 		<path>./Vampire Killer (Japan, Europe) (Alt 2).zip</path>
 		<name>악마성 드라귤라 / 뱀파이어 킬러(대체 2)</name>
 		<image>./snap/Vampire Killer (Japan, Europe) (Alt 2).png</image>
-		<video>./video/Vampire Killer (Japan, Europe) (Alt 2).mp4</video>
+		<video>./video/Vampire Killer (Japan, Europe).mp4</video>
 		<marquee>./marquee/Vampire Killer (Japan, Europe) (Alt 2).png</marquee>
 		<developer/>
 		<publisher/>
@@ -13806,7 +13797,7 @@
 		<path>./Vampire Killer (Japan, Europe) (Alt 3).zip</path>
 		<name>악마성 드라귤라 / 뱀파이어 킬러(대체 3)</name>
 		<image>./snap/Vampire Killer (Japan, Europe) (Alt 3).png</image>
-		<video>./video/Vampire Killer (Japan, Europe) (Alt 3).mp4</video>
+		<video>./video/Vampire Killer (Japan, Europe).mp4</video>
 		<marquee>./marquee/Vampire Killer (Japan, Europe) (Alt 3).png</marquee>
 		<developer/>
 		<publisher/>
@@ -13871,7 +13862,7 @@
 		<path>./Video Hustler (Japan) (Alt 1).zip</path>
 		<name>비디오 허슬러 (대체 1)</name>
 		<image>./snap/Video Hustler (Japan) (Alt 1).png</image>
-		<video>./video/Video Hustler (Japan) (Alt 1).mp4</video>
+		<video>./video/Konami's Billiards (Europe).mp4</video>
 		<marquee>./marquee/Video Hustler (Japan) (Alt 1).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -13884,7 +13875,7 @@
 		<path>./Video Hustler (Japan).zip</path>
 		<name>비디오 허슬러</name>
 		<image>./snap/Video Hustler (Japan).png</image>
-		<video>./video/Video Hustler (Japan).mp4</video>
+		<video>./video/Konami's Billiards (Europe).mp4</video>
 		<marquee>./marquee/Video Hustler (Japan).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -13923,7 +13914,7 @@
 		<path>./Warroid (Japan) (Alt 1).zip</path>
 		<name>워로이드 (대체 1)</name>
 		<image>./snap/Warroid (Japan) (Alt 1).png</image>
-		<video>./video/Warroid (Japan) (Alt 1).mp4</video>
+		<video>./video/Warroid (Japan).mp4</video>
 		<marquee>./marquee/Warroid (Japan) (Alt 1).png</marquee>
 		<developer>엘로우 호른</developer>
 		<publisher>아스키</publisher>
@@ -13988,7 +13979,7 @@
 		<path>./Wonder Boy (Japan) (Alt 1).zip</path>
 		<name>원더 보이 / 모험도 (대체 1)</name>
 		<image>./snap/Wonder Boy (Japan) (Alt 1).png</image>
-		<video>./video/Wonder Boy (Japan) (Alt 1).mp4</video>
+		<video>./video/Wonder Boy (Japan).mp4</video>
 		<marquee>./marquee/Wonder Boy (Japan) (Alt 1).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
@@ -14014,7 +14005,7 @@
 		<path>./Woody Poco (Japan) (Alt 1).zip</path>
 		<name>우디 포코 (대체 1)</name>
 		<image>./snap/Woody Poco (Japan) (Alt 1).png</image>
-		<video>./video/Woody Poco (Japan) (Alt 1).mp4</video>
+		<video>./video/Woody Poco (Japan).mp4</video>
 		<marquee>./marquee/Woody Poco (Japan) (Alt 1).png</marquee>
 		<developer/>
 		<publisher/>
@@ -14038,7 +14029,7 @@
 	</game>
 	<game>
 		<path>./Wrangler (Spain).zip</path>
-		<name>랭글러 (스페인판)</name>
+		<name>랭글러</name>
 		<image>./snap/Wrangler (Spain).png</image>
 		<video>./video/Wrangler (Spain).mp4</video>
 		<marquee>./marquee/Wrangler (Spain).png</marquee>
@@ -14051,7 +14042,7 @@
 	</game>
 	<game>
 		<path>./Wreck, The (Europe).zip</path>
-		<name>렉 (유럽판)</name>
+		<name>렉</name>
 		<image>./snap/Wreck, The (Europe).png</image>
 		<video>./video/Wreck, The (Europe).mp4</video>
 		<marquee>./marquee/Wreck, The (Europe).png</marquee>
@@ -14066,7 +14057,7 @@
 		<path>./Xevious - Fardraut Saga (Japan) (Alt 1).zip</path>
 		<name>제비우스 - 파드라우트 전설 (대체 1)</name>
 		<image>./snap/Xevious - Fardraut Saga (Japan) (Alt 1).png</image>
-		<video>./video/Xevious - Fardraut Saga (Japan) (Alt 1).mp4</video>
+		<video>./video/Xevious - Fardraut Saga (Japan).mp4</video>
 		<marquee>./marquee/Xevious - Fardraut Saga (Japan) (Alt 1).png</marquee>
 		<developer/>
 		<publisher/>
@@ -14092,7 +14083,7 @@
 		<path>./Xyxolog (Japan) (Alt 1).zip</path>
 		<name>자이조로그 (대체 1)</name>
 		<image>./snap/Xyxolog (Japan) (Alt 1).png</image>
-		<video>./video/Xyxolog (Japan) (Alt 1).mp4</video>
+		<video>./video/Xyxolog (Japan).mp4</video>
 		<marquee>./marquee/Xyxolog (Japan) (Alt 1).png</marquee>
 		<developer>나이드콤</developer>
 		<publisher>나이드콤</publisher>
@@ -14116,7 +14107,7 @@
 	</game>
 	<game>
 		<path>./Yab Yum (Netherlands).zip</path>
-		<name>얍윰 (네덜란드판)</name>
+		<name>얍윰</name>
 		<image>./snap/Yab Yum (Netherlands).png</image>
 		<video>./video/Yab Yum (Netherlands).mp4</video>
 		<marquee>./marquee/Yab Yum (Netherlands).png</marquee>
@@ -14142,7 +14133,7 @@
 	</game>
 	<game>
 		<path>./Yamaha Play Card System (Japan) (Program).zip</path>
-		<name>야마하 플레이 카드 시스템 (프로그램)</name>
+		<name>야마하 플레이 카드 시스템</name>
 		<image>./snap/Yamaha Play Card System (Japan) (Program).png</image>
 		<video>./video/Yamaha Play Card System (Japan) (Program).mp4</video>
 		<marquee>./marquee/Yamaha Play Card System (Japan) (Program).png</marquee>
@@ -14183,7 +14174,7 @@
 		<path>./Yie Ar Kung-Fu (Japan) (Alt 1).zip</path>
 		<name>이 얼 쿵후 (대체 1)</name>
 		<image>./snap/Yie Ar Kung-Fu (Japan) (Alt 1).png</image>
-		<video>./video/Yie Ar Kung-Fu (Japan) (Alt 1).mp4</video>
+		<video>./video/Yie Ar Kung-Fu (Japan).mp4</video>
 		<marquee>./marquee/Yie Ar Kung-Fu (Japan) (Alt 1).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -14209,7 +14200,7 @@
 		<path>./Yie Ar Kung-Fu II - The Emperor Yie-Gah (Japan) (Alt 1).zip</path>
 		<name>이 얼 쿵후 2 - 이가 황제의 역습 (대체 1)</name>
 		<image>./snap/Yie Ar Kung-Fu II - The Emperor Yie-Gah (Japan) (Alt 1).png</image>
-		<video>./video/Yie Ar Kung-Fu II - The Emperor Yie-Gah (Japan) (Alt 1).mp4</video>
+		<video>./video/Yie Ar Kung-Fu II - The Emperor Yie-Gah (Japan).mp4</video>
 		<marquee>./marquee/Yie Ar Kung-Fu II - The Emperor Yie-Gah (Japan) (Alt 1).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -14222,7 +14213,7 @@
 		<path>./Yie Ar Kung-Fu II - The Emperor Yie-Gah (Japan) (Alt 2).zip</path>
 		<name>이 얼 쿵후 2 - 이가 황제의 역습 (대체 2)</name>
 		<image>./snap/Yie Ar Kung-Fu II - The Emperor Yie-Gah (Japan) (Alt 2).png</image>
-		<video>./video/Yie Ar Kung-Fu II - The Emperor Yie-Gah (Japan) (Alt 2).mp4</video>
+		<video>./video/Yie Ar Kung-Fu II - The Emperor Yie-Gah (Japan).mp4</video>
 		<marquee>./marquee/Yie Ar Kung-Fu II - The Emperor Yie-Gah (Japan) (Alt 2).png</marquee>
 		<developer>코나미</developer>
 		<publisher>코나미</publisher>
@@ -14287,7 +14278,7 @@
 		<path>./Zaider - Battle of Peguss (Japan) (Alt 1).zip</path>
 		<name>자이더 - 페가수스 전투 (대체 1)</name>
 		<image>./snap/Zaider - Battle of Peguss (Japan) (Alt 1).png</image>
-		<video>./video/Zaider - Battle of Peguss (Japan) (Alt 1).mp4</video>
+		<video>./video/Zaider - Battle of Peguss (Japan).mp4</video>
 		<marquee>./marquee/Zaider - Battle of Peguss (Japan) (Alt 1).png</marquee>
 		<developer>코스모스 컴퓨터</developer>
 		<publisher>코스모스 컴퓨터</publisher>
@@ -14313,7 +14304,7 @@
 		<path>./Zanac (Japan) (Alt 1).zip</path>
 		<name>자낙 (대체 1)</name>
 		<image>./snap/Zanac (Japan) (Alt 1).png</image>
-		<video>./video/Zanac (Japan) (Alt 1).mp4</video>
+		<video>./video/Zanac (Japan) (v2).mp4</video>
 		<marquee>./marquee/Zanac (Japan) (Alt 1).png</marquee>
 		<developer>컴파일</developer>
 		<publisher>포니 캐년</publisher>
@@ -14326,7 +14317,7 @@
 		<path>./Zanac (Japan) (v2) (Alt 1).zip</path>
 		<name>자낙 (대체 1)</name>
 		<image>./snap/Zanac (Japan) (v2) (Alt 1).png</image>
-		<video>./video/Zanac (Japan) (v2) (Alt 1).mp4</video>
+		<video>./video/Zanac (Japan) (v2).mp4</video>
 		<marquee>./marquee/Zanac (Japan) (v2) (Alt 1).png</marquee>
 		<developer>컴파일</developer>
 		<publisher>포니 캐년</publisher>
@@ -14352,7 +14343,7 @@
 		<path>./Zanac (Japan).zip</path>
 		<name>자낙</name>
 		<image>./snap/Zanac (Japan).png</image>
-		<video>./video/Zanac (Japan).mp4</video>
+		<video>./video/Zanac (Japan) (v2).mp4</video>
 		<marquee>./marquee/Zanac (Japan).png</marquee>
 		<developer>컴파일</developer>
 		<publisher>포니 캐년</publisher>
@@ -14365,7 +14356,7 @@
 		<path>./Zanac Ex (Japan) (Alt 1).zip</path>
 		<name>자낙 EX (대체 1)</name>
 		<image>./snap/Zanac Ex (Japan) (Alt 1).png</image>
-		<video>./video/Zanac Ex (Japan) (Alt 1).mp4</video>
+		<video>./video/Zanac Ex (Japan).mp4</video>
 		<marquee>./marquee/Zanac Ex (Japan) (Alt 1).png</marquee>
 		<developer>컴파일</developer>
 		<publisher>포니 캐년</publisher>
@@ -14391,7 +14382,7 @@
 		<path>./Zaxxon (Japan) (Alt 1).zip</path>
 		<name>잭슨 (대체 1)</name>
 		<image>./snap/Zaxxon (Japan) (Alt 1).png</image>
-		<video>./video/Zaxxon (Japan) (Alt 1).mp4</video>
+		<video>./video/Zaxxon (Japan).mp4</video>
 		<marquee>./marquee/Zaxxon (Japan) (Alt 1).png</marquee>
 		<developer>세가</developer>
 		<publisher>필립스</publisher>
@@ -14415,7 +14406,7 @@
 	</game>
 	<game>
 		<path>./Zen (Europe) (Program).zip</path>
-		<name>젠 (유럽판)(프로그램)</name>
+		<name>젠</name>
 		<image>./snap/Zen (Europe) (Program).png</image>
 		<video>./video/Zen (Europe) (Program).mp4</video>
 		<marquee>./marquee/Zen (Europe) (Program).png</marquee>
@@ -14430,7 +14421,7 @@
 		<path>./Zenji (Japan) (Alt 1).zip</path>
 		<name>젠지 (대체 1)</name>
 		<image>./snap/Zenji (Japan) (Alt 1).png</image>
-		<video>./video/Zenji (Japan) (Alt 1).mp4</video>
+		<video>./video/Zenji (Japan).mp4</video>
 		<marquee>./marquee/Zenji (Japan) (Alt 1).png</marquee>
 		<developer>액티비전</developer>
 		<publisher>포니 캐년</publisher>
@@ -14456,7 +14447,7 @@
 		<path>./Zexas Limited (Japan) (Alt 1).zip</path>
 		<name>젝서스 리미티드 (대체 1)</name>
 		<image>./snap/Zexas Limited (Japan) (Alt 1).png</image>
-		<video>./video/Zexas Limited (Japan) (Alt 1).mp4</video>
+		<video>./video/Zexas Limited (Japan).mp4</video>
 		<marquee>./marquee/Zexas Limited (Japan) (Alt 1).png</marquee>
 		<developer>dB 소프트</developer>
 		<publisher>dB 소프트</publisher>
@@ -14469,7 +14460,7 @@
 		<path>./Zexas Limited (Japan) (Alt 2).zip</path>
 		<name>젝서스 리미티드 (대체 2)</name>
 		<image>./snap/Zexas Limited (Japan) (Alt 2).png</image>
-		<video>./video/Zexas Limited (Japan) (Alt 2).mp4</video>
+		<video>./video/Zexas Limited (Japan).mp4</video>
 		<marquee>./marquee/Zexas Limited (Japan) (Alt 2).png</marquee>
 		<developer>dB 소프트</developer>
 		<publisher>dB 소프트</publisher>
@@ -14534,7 +14525,7 @@
 		<path>./Zukkoke Yajikita Onmitsu Douchuu (Japan) (Alt 1).zip</path>
 		<name>덜떨어진 야지키타의 은밀한 여행 (대체 1)</name>
 		<image>./snap/Zukkoke Yajikita Onmitsu Douchuu (Japan) (Alt 1).png</image>
-		<video>./video/Zukkoke Yajikita Onmitsu Douchuu (Japan) (Alt 1).mp4</video>
+		<video>./video/Zukkoke Yajikita Onmitsu Douchuu (Japan).mp4</video>
 		<marquee>./marquee/Zukkoke Yajikita Onmitsu Douchuu (Japan) (Alt 1).png</marquee>
 		<developer/>
 		<publisher/>
