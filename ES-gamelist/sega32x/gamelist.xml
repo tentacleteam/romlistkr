@@ -5,7 +5,7 @@
 * 지원프론트엔드 : RetroPie, Recalbox, Attract-Mode
 * 지원에뮬 : Arcade(MAME, AdvMAME, FBNeo), NES, SNES, MD, GB, GBC, GBA, PCE, SMS, Sega 32X, NGP, NGPC, WS, WSC
 * 제작자 : 텐타클 팀
-* 최종수정 : August 8, 2020
+* 최종수정 : July 30, 2021
 * 카페 : http://cafe.naver.com/raspigamer
 * 레트로게임 롬 목록 한글화 자료는 오픈소스입니다. MIT 라이센스를 따르고 있으므로 라이센스와 출처(http://cafe.naver.com/raspigamer) 표시만 지켜주시면 자유롭게 사용하실 수 있습니다.
 -->
@@ -15,6 +15,7 @@
 		<image>./snap/32X Sample Program - PWM Sound Demo (Unknown) (SDK Build).png</image>
 		<video>./video/32X Sample Program - PWM Sound Demo (Unknown) (SDK Build).mp4</video>
 		<marquee>./marquee/32X Sample Program - PWM Sound Demo (Unknown) (SDK Build).png</marquee>
+		<thumbnail>./box/32X Sample Program - PWM Sound Demo (Unknown) (SDK Build).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>데모</genre>
@@ -27,6 +28,7 @@
 		<image>./snap/After Burner Complete (Europe).png</image>
 		<video>./video/After Burner Complete (Europe).mp4</video>
 		<marquee>./marquee/After Burner Complete (Europe).png</marquee>
+		<thumbnail>./box/After Burner Complete (Europe).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>슈팅</genre>
@@ -39,6 +41,7 @@
 		<image>./snap/After Burner Complete ~ After Burner (Japan, USA).png</image>
 		<video>./video/After Burner Complete (Europe).mp4</video>
 		<marquee>./marquee/After Burner Complete ~ After Burner (Japan, USA).png</marquee>
+		<thumbnail>./box/After Burner Complete ~ After Burner (Japan, USA).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>슈팅</genre>
@@ -51,6 +54,7 @@
 		<image>./snap/Amazing Spider-Man, The - Web of Fire (USA).png</image>
 		<video>./video/Amazing Spider-Man, The - Web of Fire (USA).mp4</video>
 		<marquee>./marquee/Amazing Spider-Man, The - Web of Fire (USA).png</marquee>
+		<thumbnail>./box/Amazing Spider-Man, The - Web of Fire (USA).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>액션</genre>
@@ -63,6 +67,7 @@
 		<image>./snap/BC Racers (USA).png</image>
 		<video>./video/BC Racers (USA).mp4</video>
 		<marquee>./marquee/BC Racers (USA).png</marquee>
+		<thumbnail>./box/BC Racers (USA).png</thumbnail>
 		<developer>코어 디자인</developer>
 		<publisher>코어 디자인</publisher>
 		<genre>레이싱</genre>
@@ -75,6 +80,7 @@
 		<image>./snap/Blackthorne (USA).png</image>
 		<video>./video/Blackthorne (USA).mp4</video>
 		<marquee>./marquee/Blackthorne (USA).png</marquee>
+		<thumbnail>./box/Blackthorne (USA).png</thumbnail>
 		<developer>블리자드 엔터테인먼트</developer>
 		<publisher>인터플레이</publisher>
 		<genre>플랫폼</genre>
@@ -87,6 +93,7 @@
 		<image>./snap/Brutal - Above the Claw (USA).png</image>
 		<video>./video/Brutal - Above the Claw (USA).mp4</video>
 		<marquee>./marquee/Brutal - Above the Claw (USA).png</marquee>
+		<thumbnail>./box/Brutal - Above the Claw (USA).png</thumbnail>
 		<developer/>
 		<publisher/>
 		<genre/>
@@ -99,6 +106,7 @@
 		<image>./snap/Chaotix ~ Knuckles' Chaotix (Japan, USA).png</image>
 		<video>./video/Knuckles' Chaotix (Europe).mp4</video>
 		<marquee>./marquee/Chaotix ~ Knuckles' Chaotix (Japan, USA).png</marquee>
+		<thumbnail>./box/Chaotix ~ Knuckles' Chaotix (Japan, USA).png</thumbnail>
 		<developer>소닉팀</developer>
 		<publisher>세가</publisher>
 		<genre>플랫폼</genre>
@@ -111,6 +119,7 @@
 		<image>./snap/ClayFighter 2 (USA) (Proto) (1995-04-28).png</image>
 		<video>./video/ClayFighter 2 (USA) (Proto) (1995-04-28).mp4</video>
 		<marquee>./marquee/ClayFighter 2 (USA) (Proto) (1995-04-28).png</marquee>
+		<thumbnail>./box/ClayFighter 2 (USA) (Proto) (1995-04-28).png</thumbnail>
 		<developer/>
 		<publisher/>
 		<genre/>
@@ -123,6 +132,7 @@
 		<image>./snap/Cosmic Carnage (Europe).png</image>
 		<video>./video/Cosmic Carnage (Europe).mp4</video>
 		<marquee>./marquee/Cosmic Carnage (Europe).png</marquee>
+		<thumbnail>./box/Cosmic Carnage (Europe).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>격투</genre>
@@ -135,6 +145,7 @@
 		<image>./snap/Cosmic Carnage (Japan, USA) (Beta) (1994-09-06).png</image>
 		<video>./video/Cosmic Carnage (Europe).mp4</video>
 		<marquee>./marquee/Cosmic Carnage (Japan, USA) (Beta) (1994-09-06).png</marquee>
+		<thumbnail>./box/Cosmic Carnage (Japan, USA) (Beta) (1994-09-06).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>격투</genre>
@@ -147,6 +158,7 @@
 		<image>./snap/Cosmic Carnage (Japan, USA) (Beta) (1994-09-21).png</image>
 		<video>./video/Cosmic Carnage (Europe).mp4</video>
 		<marquee>./marquee/Cosmic Carnage (Japan, USA) (Beta) (1994-09-21).png</marquee>
+		<thumbnail>./box/Cosmic Carnage (Japan, USA) (Beta) (1994-09-21).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>격투</genre>
@@ -159,6 +171,7 @@
 		<image>./snap/Cosmic Carnage (Japan, USA) (Beta) (1994-09-26).png</image>
 		<video>./video/Cosmic Carnage (Europe).mp4</video>
 		<marquee>./marquee/Cosmic Carnage (Japan, USA) (Beta) (1994-09-26).png</marquee>
+		<thumbnail>./box/Cosmic Carnage (Japan, USA) (Beta) (1994-09-26).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>격투</genre>
@@ -171,6 +184,7 @@
 		<image>./snap/Cosmic Carnage (Japan, USA) (Beta) (1994-09-28).png</image>
 		<video>./video/Cosmic Carnage (Europe).mp4</video>
 		<marquee>./marquee/Cosmic Carnage (Japan, USA) (Beta) (1994-09-28).png</marquee>
+		<thumbnail>./box/Cosmic Carnage (Japan, USA) (Beta) (1994-09-28).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>격투</genre>
@@ -183,6 +197,7 @@
 		<image>./snap/Cosmic Carnage (Japan, USA) (Beta) (1994-10-04).png</image>
 		<video>./video/Cosmic Carnage (Europe).mp4</video>
 		<marquee>./marquee/Cosmic Carnage (Japan, USA) (Beta) (1994-10-04).png</marquee>
+		<thumbnail>./box/Cosmic Carnage (Japan, USA) (Beta) (1994-10-04).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>격투</genre>
@@ -195,6 +210,7 @@
 		<image>./snap/Cosmic Carnage (Japan, USA) (Beta) (1994-10-05).png</image>
 		<video>./video/Cosmic Carnage (Europe).mp4</video>
 		<marquee>./marquee/Cosmic Carnage (Japan, USA) (Beta) (1994-10-05).png</marquee>
+		<thumbnail>./box/Cosmic Carnage (Japan, USA) (Beta) (1994-10-05).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>격투</genre>
@@ -207,6 +223,7 @@
 		<image>./snap/Cosmic Carnage (Japan, USA) (Beta) (1994-10-07).png</image>
 		<video>./video/Cosmic Carnage (Europe).mp4</video>
 		<marquee>./marquee/Cosmic Carnage (Japan, USA) (Beta) (1994-10-07).png</marquee>
+		<thumbnail>./box/Cosmic Carnage (Japan, USA) (Beta) (1994-10-07).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>격투</genre>
@@ -219,6 +236,7 @@
 		<image>./snap/Cosmic Carnage (Japan, USA) (Beta) (1994-10-11).png</image>
 		<video>./video/Cosmic Carnage (Europe).mp4</video>
 		<marquee>./marquee/Cosmic Carnage (Japan, USA) (Beta) (1994-10-11).png</marquee>
+		<thumbnail>./box/Cosmic Carnage (Japan, USA) (Beta) (1994-10-11).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>격투</genre>
@@ -231,6 +249,7 @@
 		<image>./snap/Cyber Brawl ~ Cosmic Carnage (Japan, USA).png</image>
 		<video>./video/Cosmic Carnage (Europe).mp4</video>
 		<marquee>./marquee/Cyber Brawl ~ Cosmic Carnage (Japan, USA).png</marquee>
+		<thumbnail>./box/Cyber Brawl ~ Cosmic Carnage (Japan, USA).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>격투</genre>
@@ -243,6 +262,7 @@
 		<image>./snap/Darxide (Europe) (En,Fr,De,Es).png</image>
 		<video>./video/Darxide (Europe) (En,Fr,De,Es).mp4</video>
 		<marquee>./marquee/Darxide (Europe) (En,Fr,De,Es).png</marquee>
+		<thumbnail>./box/Darxide (Europe) (En,Fr,De,Es).png</thumbnail>
 		<developer>프론티어 디벨롭먼트</developer>
 		<publisher>세가</publisher>
 		<genre>라이트건</genre>
@@ -255,6 +275,7 @@
 		<image>./snap/Doom (Europe) (Beta) (1994-10-02).png</image>
 		<video>./video/Doom (Europe).mp4</video>
 		<marquee>./marquee/Doom (Europe) (Beta) (1994-10-02).png</marquee>
+		<thumbnail>./box/Doom (Europe) (Beta) (1994-10-02).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>id 소프트웨어</publisher>
 		<genre>액션</genre>
@@ -267,6 +288,7 @@
 		<image>./snap/Doom (Europe).png</image>
 		<video>./video/Doom (Europe).mp4</video>
 		<marquee>./marquee/Doom (Europe).png</marquee>
+		<thumbnail>./box/Doom (Europe).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>id 소프트웨어</publisher>
 		<genre>액션</genre>
@@ -279,6 +301,7 @@
 		<image>./snap/Doom (Japan, USA) (Beta) (1994-09-06).png</image>
 		<video>./video/Doom (Europe).mp4</video>
 		<marquee>./marquee/Doom (Japan, USA) (Beta) (1994-09-06).png</marquee>
+		<thumbnail>./box/Doom (Japan, USA) (Beta) (1994-09-06).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>id 소프트웨어</publisher>
 		<genre>액션</genre>
@@ -291,6 +314,7 @@
 		<image>./snap/Doom (Japan, USA) (Beta) (1994-09-09).png</image>
 		<video>./video/Doom (Europe).mp4</video>
 		<marquee>./marquee/Doom (Japan, USA) (Beta) (1994-09-09).png</marquee>
+		<thumbnail>./box/Doom (Japan, USA) (Beta) (1994-09-09).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>id 소프트웨어</publisher>
 		<genre>액션</genre>
@@ -303,6 +327,7 @@
 		<image>./snap/Doom (Japan, USA) (Beta) (1994-09-14).png</image>
 		<video>./video/Doom (Europe).mp4</video>
 		<marquee>./marquee/Doom (Japan, USA) (Beta) (1994-09-14).png</marquee>
+		<thumbnail>./box/Doom (Japan, USA) (Beta) (1994-09-14).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>id 소프트웨어</publisher>
 		<genre>액션</genre>
@@ -315,6 +340,7 @@
 		<image>./snap/Doom (Japan, USA) (Beta) (1994-09-16).png</image>
 		<video>./video/Doom (Europe).mp4</video>
 		<marquee>./marquee/Doom (Japan, USA) (Beta) (1994-09-16).png</marquee>
+		<thumbnail>./box/Doom (Japan, USA) (Beta) (1994-09-16).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>id 소프트웨어</publisher>
 		<genre>액션</genre>
@@ -327,6 +353,7 @@
 		<image>./snap/Doom (Japan, USA) (Beta) (1994-09-21).png</image>
 		<video>./video/Doom (Europe).mp4</video>
 		<marquee>./marquee/Doom (Japan, USA) (Beta) (1994-09-21).png</marquee>
+		<thumbnail>./box/Doom (Japan, USA) (Beta) (1994-09-21).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>id 소프트웨어</publisher>
 		<genre>액션</genre>
@@ -339,6 +366,7 @@
 		<image>./snap/Doom (Japan, USA) (Beta) (1994-09-23).png</image>
 		<video>./video/Doom (Europe).mp4</video>
 		<marquee>./marquee/Doom (Japan, USA) (Beta) (1994-09-23).png</marquee>
+		<thumbnail>./box/Doom (Japan, USA) (Beta) (1994-09-23).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>id 소프트웨어</publisher>
 		<genre>액션</genre>
@@ -351,6 +379,7 @@
 		<image>./snap/Doom (Japan, USA) (Beta) (1994-09-25).png</image>
 		<video>./video/Doom (Europe).mp4</video>
 		<marquee>./marquee/Doom (Japan, USA) (Beta) (1994-09-25).png</marquee>
+		<thumbnail>./box/Doom (Japan, USA) (Beta) (1994-09-25).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>id 소프트웨어</publisher>
 		<genre>액션</genre>
@@ -363,6 +392,7 @@
 		<image>./snap/Doom (Japan, USA) (Beta) (1994-09-27).png</image>
 		<video>./video/Doom (Europe).mp4</video>
 		<marquee>./marquee/Doom (Japan, USA) (Beta) (1994-09-27).png</marquee>
+		<thumbnail>./box/Doom (Japan, USA) (Beta) (1994-09-27).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>id 소프트웨어</publisher>
 		<genre>액션</genre>
@@ -375,6 +405,7 @@
 		<image>./snap/Doom (Japan, USA) (Beta) (1994-12-01).png</image>
 		<video>./video/Doom (Europe).mp4</video>
 		<marquee>./marquee/Doom (Japan, USA) (Beta) (1994-12-01).png</marquee>
+		<thumbnail>./box/Doom (Japan, USA) (Beta) (1994-12-01).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>id 소프트웨어</publisher>
 		<genre>액션</genre>
@@ -387,6 +418,7 @@
 		<image>./snap/Doom (Japan, USA).png</image>
 		<video>./video/Doom (Europe).mp4</video>
 		<marquee>./marquee/Doom (Japan, USA).png</marquee>
+		<thumbnail>./box/Doom (Japan, USA).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>id 소프트웨어</publisher>
 		<genre>액션</genre>
@@ -399,6 +431,7 @@
 		<image>./snap/Doom RR (Japan, USA) (Beta) (1995-02-15).png</image>
 		<video>./video/Doom (Europe).mp4</video>
 		<marquee>./marquee/Doom RR (Japan, USA) (Beta) (1995-02-15).png</marquee>
+		<thumbnail>./box/Doom RR (Japan, USA) (Beta) (1995-02-15).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>id 소프트웨어</publisher>
 		<genre>액션</genre>
@@ -411,6 +444,7 @@
 		<image>./snap/Doom RR (Japan, USA) (Beta) (1995-02-21).png</image>
 		<video>./video/Doom (Europe).mp4</video>
 		<marquee>./marquee/Doom RR (Japan, USA) (Beta) (1995-02-21).png</marquee>
+		<thumbnail>./box/Doom RR (Japan, USA) (Beta) (1995-02-21).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>id 소프트웨어</publisher>
 		<genre>액션</genre>
@@ -423,6 +457,7 @@
 		<image>./snap/Doom RR (Japan, USA) (Beta) (1995-03-07).png</image>
 		<video>./video/Doom (Europe).mp4</video>
 		<marquee>./marquee/Doom RR (Japan, USA) (Beta) (1995-03-07).png</marquee>
+		<thumbnail>./box/Doom RR (Japan, USA) (Beta) (1995-03-07).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>id 소프트웨어</publisher>
 		<genre>액션</genre>
@@ -435,6 +470,7 @@
 		<image>./snap/Ecco the Dolphin (USA) (Demo) (Developer Cart).png</image>
 		<video>./video/Ecco the Dolphin (USA) (Demo) (Developer Cart).mp4</video>
 		<marquee>./marquee/Ecco the Dolphin (USA) (Demo) (Developer Cart).png</marquee>
+		<thumbnail>./box/Ecco the Dolphin (USA) (Demo) (Developer Cart).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>데모</genre>
@@ -447,6 +483,7 @@
 		<image>./snap/FIFA Soccer 96 (Europe) (En,Fr,De,Es,It,Sv).png</image>
 		<video>./video/FIFA Soccer 96 (Europe) (En,Fr,De,Es,It,Sv).mp4</video>
 		<marquee>./marquee/FIFA Soccer 96 (Europe) (En,Fr,De,Es,It,Sv).png</marquee>
+		<thumbnail>./box/FIFA Soccer 96 (Europe) (En,Fr,De,Es,It,Sv).png</thumbnail>
 		<developer>프로브</developer>
 		<publisher>일렉트로닉 아츠</publisher>
 		<genre>스포츠</genre>
@@ -459,6 +496,7 @@
 		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe) (Beta) (1994-12-14).png</image>
 		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
 		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe) (Beta) (1994-12-14).png</marquee>
+		<thumbnail>./box/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe) (Beta) (1994-12-14).png</thumbnail>
 		<developer>플래시포인트 프로덕션</developer>
 		<publisher>세가</publisher>
 		<genre>스포츠</genre>
@@ -471,6 +509,7 @@
 		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe) (Beta) (1994-12-21).png</image>
 		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
 		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe) (Beta) (1994-12-21).png</marquee>
+		<thumbnail>./box/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe) (Beta) (1994-12-21).png</thumbnail>
 		<developer>플래시포인트 프로덕션</developer>
 		<publisher>세가</publisher>
 		<genre>스포츠</genre>
@@ -483,6 +522,7 @@
 		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).png</image>
 		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
 		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).png</marquee>
+		<thumbnail>./box/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).png</thumbnail>
 		<developer>플래시포인트 프로덕션</developer>
 		<publisher>세가</publisher>
 		<genre>스포츠</genre>
@@ -495,6 +535,7 @@
 		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-07-06).png</image>
 		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
 		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-07-06).png</marquee>
+		<thumbnail>./box/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-07-06).png</thumbnail>
 		<developer>플래시포인트 프로덕션</developer>
 		<publisher>세가</publisher>
 		<genre>스포츠</genre>
@@ -507,6 +548,7 @@
 		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-10-11).png</image>
 		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
 		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-10-11).png</marquee>
+		<thumbnail>./box/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-10-11).png</thumbnail>
 		<developer>플래시포인트 프로덕션</developer>
 		<publisher>세가</publisher>
 		<genre>스포츠</genre>
@@ -519,6 +561,7 @@
 		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-10-17).png</image>
 		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
 		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-10-17).png</marquee>
+		<thumbnail>./box/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-10-17).png</thumbnail>
 		<developer>플래시포인트 프로덕션</developer>
 		<publisher>세가</publisher>
 		<genre>스포츠</genre>
@@ -531,6 +574,7 @@
 		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-10-18).png</image>
 		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
 		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-10-18).png</marquee>
+		<thumbnail>./box/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-10-18).png</thumbnail>
 		<developer>플래시포인트 프로덕션</developer>
 		<publisher>세가</publisher>
 		<genre>스포츠</genre>
@@ -543,6 +587,7 @@
 		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-10-24).png</image>
 		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
 		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-10-24).png</marquee>
+		<thumbnail>./box/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-10-24).png</thumbnail>
 		<developer>플래시포인트 프로덕션</developer>
 		<publisher>세가</publisher>
 		<genre>스포츠</genre>
@@ -555,6 +600,7 @@
 		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-10-26).png</image>
 		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
 		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-10-26).png</marquee>
+		<thumbnail>./box/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-10-26).png</thumbnail>
 		<developer>플래시포인트 프로덕션</developer>
 		<publisher>세가</publisher>
 		<genre>스포츠</genre>
@@ -567,6 +613,7 @@
 		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-01).png</image>
 		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
 		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-01).png</marquee>
+		<thumbnail>./box/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-01).png</thumbnail>
 		<developer>플래시포인트 프로덕션</developer>
 		<publisher>세가</publisher>
 		<genre>스포츠</genre>
@@ -579,6 +626,7 @@
 		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-03).png</image>
 		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
 		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-03).png</marquee>
+		<thumbnail>./box/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-03).png</thumbnail>
 		<developer>플래시포인트 프로덕션</developer>
 		<publisher>세가</publisher>
 		<genre>스포츠</genre>
@@ -591,6 +639,7 @@
 		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-05).png</image>
 		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
 		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-05).png</marquee>
+		<thumbnail>./box/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-05).png</thumbnail>
 		<developer>플래시포인트 프로덕션</developer>
 		<publisher>세가</publisher>
 		<genre>스포츠</genre>
@@ -603,6 +652,7 @@
 		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-07).png</image>
 		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
 		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-07).png</marquee>
+		<thumbnail>./box/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-07).png</thumbnail>
 		<developer>플래시포인트 프로덕션</developer>
 		<publisher>세가</publisher>
 		<genre>스포츠</genre>
@@ -615,6 +665,7 @@
 		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-08).png</image>
 		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
 		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-08).png</marquee>
+		<thumbnail>./box/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-08).png</thumbnail>
 		<developer>플래시포인트 프로덕션</developer>
 		<publisher>세가</publisher>
 		<genre>스포츠</genre>
@@ -627,6 +678,7 @@
 		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-09).png</image>
 		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
 		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-09).png</marquee>
+		<thumbnail>./box/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-09).png</thumbnail>
 		<developer>플래시포인트 프로덕션</developer>
 		<publisher>세가</publisher>
 		<genre>스포츠</genre>
@@ -639,6 +691,7 @@
 		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-16).png</image>
 		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
 		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-16).png</marquee>
+		<thumbnail>./box/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-16).png</thumbnail>
 		<developer>플래시포인트 프로덕션</developer>
 		<publisher>세가</publisher>
 		<genre>스포츠</genre>
@@ -651,6 +704,7 @@
 		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-18).png</image>
 		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
 		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-18).png</marquee>
+		<thumbnail>./box/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-18).png</thumbnail>
 		<developer>플래시포인트 프로덕션</developer>
 		<publisher>세가</publisher>
 		<genre>스포츠</genre>
@@ -663,6 +717,7 @@
 		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-19) (Alt 1).png</image>
 		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
 		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-19) (Alt 1).png</marquee>
+		<thumbnail>./box/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-19) (Alt 1).png</thumbnail>
 		<developer>플래시포인트 프로덕션</developer>
 		<publisher>세가</publisher>
 		<genre>스포츠</genre>
@@ -675,6 +730,7 @@
 		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-19).png</image>
 		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
 		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-19).png</marquee>
+		<thumbnail>./box/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-19).png</thumbnail>
 		<developer>플래시포인트 프로덕션</developer>
 		<publisher>세가</publisher>
 		<genre>스포츠</genre>
@@ -687,6 +743,7 @@
 		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-21).png</image>
 		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
 		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-21).png</marquee>
+		<thumbnail>./box/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-21).png</thumbnail>
 		<developer>플래시포인트 프로덕션</developer>
 		<publisher>세가</publisher>
 		<genre>스포츠</genre>
@@ -699,6 +756,7 @@
 		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-22) (Alt 1).png</image>
 		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
 		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-22) (Alt 1).png</marquee>
+		<thumbnail>./box/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-22) (Alt 1).png</thumbnail>
 		<developer>플래시포인트 프로덕션</developer>
 		<publisher>세가</publisher>
 		<genre>스포츠</genre>
@@ -711,6 +769,7 @@
 		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-22).png</image>
 		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
 		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-22).png</marquee>
+		<thumbnail>./box/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-22).png</thumbnail>
 		<developer>플래시포인트 프로덕션</developer>
 		<publisher>세가</publisher>
 		<genre>스포츠</genre>
@@ -723,6 +782,7 @@
 		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-23).png</image>
 		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
 		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-23).png</marquee>
+		<thumbnail>./box/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-23).png</thumbnail>
 		<developer>플래시포인트 프로덕션</developer>
 		<publisher>세가</publisher>
 		<genre>스포츠</genre>
@@ -735,6 +795,7 @@
 		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-26).png</image>
 		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
 		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-26).png</marquee>
+		<thumbnail>./box/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-26).png</thumbnail>
 		<developer>플래시포인트 프로덕션</developer>
 		<publisher>세가</publisher>
 		<genre>스포츠</genre>
@@ -747,6 +808,7 @@
 		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-27).png</image>
 		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
 		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-27).png</marquee>
+		<thumbnail>./box/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-27).png</thumbnail>
 		<developer>플래시포인트 프로덕션</developer>
 		<publisher>세가</publisher>
 		<genre>스포츠</genre>
@@ -759,6 +821,7 @@
 		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-28) (Alt 1).png</image>
 		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
 		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-28) (Alt 1).png</marquee>
+		<thumbnail>./box/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-28) (Alt 1).png</thumbnail>
 		<developer>플래시포인트 프로덕션</developer>
 		<publisher>세가</publisher>
 		<genre>스포츠</genre>
@@ -771,6 +834,7 @@
 		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-28).png</image>
 		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
 		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-28).png</marquee>
+		<thumbnail>./box/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-28).png</thumbnail>
 		<developer>플래시포인트 프로덕션</developer>
 		<publisher>세가</publisher>
 		<genre>스포츠</genre>
@@ -783,6 +847,7 @@
 		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-29).png</image>
 		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
 		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-29).png</marquee>
+		<thumbnail>./box/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-29).png</thumbnail>
 		<developer>플래시포인트 프로덕션</developer>
 		<publisher>세가</publisher>
 		<genre>스포츠</genre>
@@ -795,6 +860,7 @@
 		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-30).png</image>
 		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
 		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-30).png</marquee>
+		<thumbnail>./box/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-11-30).png</thumbnail>
 		<developer>플래시포인트 프로덕션</developer>
 		<publisher>세가</publisher>
 		<genre>스포츠</genre>
@@ -807,6 +873,7 @@
 		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-12-02).png</image>
 		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
 		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-12-02).png</marquee>
+		<thumbnail>./box/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-12-02).png</thumbnail>
 		<developer>플래시포인트 프로덕션</developer>
 		<publisher>세가</publisher>
 		<genre>스포츠</genre>
@@ -819,6 +886,7 @@
 		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-12-03).png</image>
 		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
 		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-12-03).png</marquee>
+		<thumbnail>./box/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-12-03).png</thumbnail>
 		<developer>플래시포인트 프로덕션</developer>
 		<publisher>세가</publisher>
 		<genre>스포츠</genre>
@@ -831,6 +899,7 @@
 		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-12-06).png</image>
 		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
 		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-12-06).png</marquee>
+		<thumbnail>./box/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-12-06).png</thumbnail>
 		<developer>플래시포인트 프로덕션</developer>
 		<publisher>세가</publisher>
 		<genre>스포츠</genre>
@@ -843,6 +912,7 @@
 		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-12-13).png</image>
 		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
 		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-12-13).png</marquee>
+		<thumbnail>./box/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-12-13).png</thumbnail>
 		<developer>플래시포인트 프로덕션</developer>
 		<publisher>세가</publisher>
 		<genre>스포츠</genre>
@@ -855,6 +925,7 @@
 		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-12-19).png</image>
 		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
 		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-12-19).png</marquee>
+		<thumbnail>./box/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-12-19).png</thumbnail>
 		<developer>플래시포인트 프로덕션</developer>
 		<publisher>세가</publisher>
 		<genre>스포츠</genre>
@@ -867,6 +938,7 @@
 		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-12-21).png</image>
 		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
 		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-12-21).png</marquee>
+		<thumbnail>./box/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (Beta) (1994-12-21).png</thumbnail>
 		<developer>플래시포인트 프로덕션</developer>
 		<publisher>세가</publisher>
 		<genre>스포츠</genre>
@@ -879,6 +951,7 @@
 		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA).png</image>
 		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
 		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA).png</marquee>
+		<thumbnail>./box/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA).png</thumbnail>
 		<developer>플래시포인트 프로덕션</developer>
 		<publisher>세가</publisher>
 		<genre>스포츠</genre>
@@ -891,6 +964,7 @@
 		<image>./snap/Knuckles' Chaotix (Europe).png</image>
 		<video>./video/Knuckles' Chaotix (Europe).mp4</video>
 		<marquee>./marquee/Knuckles' Chaotix (Europe).png</marquee>
+		<thumbnail>./box/Knuckles' Chaotix (Europe).png</thumbnail>
 		<developer>소닉팀</developer>
 		<publisher>세가</publisher>
 		<genre>플랫폼</genre>
@@ -903,6 +977,7 @@
 		<image>./snap/Knuckles' Chaotix (Japan, USA) (Beta) (1994-12-07).png</image>
 		<video>./video/Knuckles' Chaotix (Europe).mp4</video>
 		<marquee>./marquee/Knuckles' Chaotix (Japan, USA) (Beta) (1994-12-07).png</marquee>
+		<thumbnail>./box/Knuckles' Chaotix (Japan, USA) (Beta) (1994-12-07).png</thumbnail>
 		<developer>소닉팀</developer>
 		<publisher>세가</publisher>
 		<genre>플랫폼</genre>
@@ -915,6 +990,7 @@
 		<image>./snap/Knuckles' Chaotix (Japan, USA) (Beta) (1994-12-27).png</image>
 		<video>./video/Knuckles' Chaotix (Europe).mp4</video>
 		<marquee>./marquee/Knuckles' Chaotix (Japan, USA) (Beta) (1994-12-27).png</marquee>
+		<thumbnail>./box/Knuckles' Chaotix (Japan, USA) (Beta) (1994-12-27).png</thumbnail>
 		<developer>소닉팀</developer>
 		<publisher>세가</publisher>
 		<genre>플랫폼</genre>
@@ -927,6 +1003,7 @@
 		<image>./snap/Knuckles' Chaotix (Japan, USA) (Beta) (1994-12-30).png</image>
 		<video>./video/Knuckles' Chaotix (Europe).mp4</video>
 		<marquee>./marquee/Knuckles' Chaotix (Japan, USA) (Beta) (1994-12-30).png</marquee>
+		<thumbnail>./box/Knuckles' Chaotix (Japan, USA) (Beta) (1994-12-30).png</thumbnail>
 		<developer>소닉팀</developer>
 		<publisher>세가</publisher>
 		<genre>플랫폼</genre>
@@ -939,6 +1016,7 @@
 		<image>./snap/Knuckles' Chaotix (Japan, USA) (Beta) (1995-01-12).png</image>
 		<video>./video/Knuckles' Chaotix (Europe).mp4</video>
 		<marquee>./marquee/Knuckles' Chaotix (Japan, USA) (Beta) (1995-01-12).png</marquee>
+		<thumbnail>./box/Knuckles' Chaotix (Japan, USA) (Beta) (1995-01-12).png</thumbnail>
 		<developer>소닉팀</developer>
 		<publisher>세가</publisher>
 		<genre>플랫폼</genre>
@@ -951,6 +1029,7 @@
 		<image>./snap/Knuckles' Chaotix (Japan, USA) (Beta) (1995-01-19).png</image>
 		<video>./video/Knuckles' Chaotix (Europe).mp4</video>
 		<marquee>./marquee/Knuckles' Chaotix (Japan, USA) (Beta) (1995-01-19).png</marquee>
+		<thumbnail>./box/Knuckles' Chaotix (Japan, USA) (Beta) (1995-01-19).png</thumbnail>
 		<developer>소닉팀</developer>
 		<publisher>세가</publisher>
 		<genre>플랫폼</genre>
@@ -963,6 +1042,7 @@
 		<image>./snap/Knuckles' Chaotix (Japan, USA) (Beta) (1995-02-07).png</image>
 		<video>./video/Knuckles' Chaotix (Europe).mp4</video>
 		<marquee>./marquee/Knuckles' Chaotix (Japan, USA) (Beta) (1995-02-07).png</marquee>
+		<thumbnail>./box/Knuckles' Chaotix (Japan, USA) (Beta) (1995-02-07).png</thumbnail>
 		<developer>소닉팀</developer>
 		<publisher>세가</publisher>
 		<genre>플랫폼</genre>
@@ -975,6 +1055,7 @@
 		<image>./snap/Knuckles' Chaotix (Japan, USA) (Beta) (1995-02-08).png</image>
 		<video>./video/Knuckles' Chaotix (Europe).mp4</video>
 		<marquee>./marquee/Knuckles' Chaotix (Japan, USA) (Beta) (1995-02-08).png</marquee>
+		<thumbnail>./box/Knuckles' Chaotix (Japan, USA) (Beta) (1995-02-08).png</thumbnail>
 		<developer>소닉팀</developer>
 		<publisher>세가</publisher>
 		<genre>플랫폼</genre>
@@ -987,6 +1068,7 @@
 		<image>./snap/Knuckles' Chaotix (Japan, USA) (Beta) (1995-02-09).png</image>
 		<video>./video/Knuckles' Chaotix (Europe).mp4</video>
 		<marquee>./marquee/Knuckles' Chaotix (Japan, USA) (Beta) (1995-02-09).png</marquee>
+		<thumbnail>./box/Knuckles' Chaotix (Japan, USA) (Beta) (1995-02-09).png</thumbnail>
 		<developer>소닉팀</developer>
 		<publisher>세가</publisher>
 		<genre>플랫폼</genre>
@@ -999,6 +1081,7 @@
 		<image>./snap/Knuckles' Chaotix (Japan, USA) (Beta) (1995-02-10).png</image>
 		<video>./video/Knuckles' Chaotix (Europe).mp4</video>
 		<marquee>./marquee/Knuckles' Chaotix (Japan, USA) (Beta) (1995-02-10).png</marquee>
+		<thumbnail>./box/Knuckles' Chaotix (Japan, USA) (Beta) (1995-02-10).png</thumbnail>
 		<developer>소닉팀</developer>
 		<publisher>세가</publisher>
 		<genre>플랫폼</genre>
@@ -1011,6 +1094,7 @@
 		<image>./snap/Knuckles' Chaotix (Japan, USA) (Beta) (1995-02-13) (Alt 1).png</image>
 		<video>./video/Knuckles' Chaotix (Europe).mp4</video>
 		<marquee>./marquee/Knuckles' Chaotix (Japan, USA) (Beta) (1995-02-13) (Alt 1).png</marquee>
+		<thumbnail>./box/Knuckles' Chaotix (Japan, USA) (Beta) (1995-02-13) (Alt 1).png</thumbnail>
 		<developer>소닉팀</developer>
 		<publisher>세가</publisher>
 		<genre>플랫폼</genre>
@@ -1023,6 +1107,7 @@
 		<image>./snap/Knuckles' Chaotix (Japan, USA) (Beta) (1995-02-13).png</image>
 		<video>./video/Knuckles' Chaotix (Europe).mp4</video>
 		<marquee>./marquee/Knuckles' Chaotix (Japan, USA) (Beta) (1995-02-13).png</marquee>
+		<thumbnail>./box/Knuckles' Chaotix (Japan, USA) (Beta) (1995-02-13).png</thumbnail>
 		<developer>소닉팀</developer>
 		<publisher>세가</publisher>
 		<genre>플랫폼</genre>
@@ -1035,6 +1120,7 @@
 		<image>./snap/Knuckles' Chaotix (Japan, USA) (Beta) (1995-02-14).png</image>
 		<video>./video/Knuckles' Chaotix (Europe).mp4</video>
 		<marquee>./marquee/Knuckles' Chaotix (Japan, USA) (Beta) (1995-02-14).png</marquee>
+		<thumbnail>./box/Knuckles' Chaotix (Japan, USA) (Beta) (1995-02-14).png</thumbnail>
 		<developer>소닉팀</developer>
 		<publisher>세가</publisher>
 		<genre>플랫폼</genre>
@@ -1047,6 +1133,7 @@
 		<image>./snap/Kolibri (USA, Europe).png</image>
 		<video>./video/Kolibri (USA, Europe).mp4</video>
 		<marquee>./marquee/Kolibri (USA, Europe).png</marquee>
+		<thumbnail>./box/Kolibri (USA, Europe).png</thumbnail>
 		<developer>노보트레이드</developer>
 		<publisher>세가</publisher>
 		<genre>슈팅</genre>
@@ -1059,6 +1146,7 @@
 		<image>./snap/Mars Check Program Version 1.0 (Unknown) (SDK Build) (Set 1).png</image>
 		<video>./video/Mars Check Program Version 1.0 (Unknown) (SDK Build) (Set 1).mp4</video>
 		<marquee>./marquee/Mars Check Program Version 1.0 (Unknown) (SDK Build) (Set 1).png</marquee>
+		<thumbnail>./box/Mars Check Program Version 1.0 (Unknown) (SDK Build) (Set 1).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>데모</genre>
@@ -1071,6 +1159,7 @@
 		<image>./snap/Mars Check Program Version 1.0 (Unknown) (SDK Build) (Set 2).png</image>
 		<video>./video/Mars Check Program Version 1.0 (Unknown) (SDK Build) (Set 2).mp4</video>
 		<marquee>./marquee/Mars Check Program Version 1.0 (Unknown) (SDK Build) (Set 2).png</marquee>
+		<thumbnail>./box/Mars Check Program Version 1.0 (Unknown) (SDK Build) (Set 2).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>데모</genre>
@@ -1083,6 +1172,7 @@
 		<image>./snap/Mars Sample Program - Gnu Sierra (Unknown) (SDK Build).png</image>
 		<video>./video/Mars Sample Program - Gnu Sierra (Unknown) (SDK Build).mp4</video>
 		<marquee>./marquee/Mars Sample Program - Gnu Sierra (Unknown) (SDK Build).png</marquee>
+		<thumbnail>./box/Mars Sample Program - Gnu Sierra (Unknown) (SDK Build).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>데모</genre>
@@ -1095,6 +1185,7 @@
 		<image>./snap/Mars Sample Program - Pharaoh (Unknown) (SDK Build).png</image>
 		<video>./video/Mars Sample Program - Pharaoh (Unknown) (SDK Build).mp4</video>
 		<marquee>./marquee/Mars Sample Program - Pharaoh (Unknown) (SDK Build).png</marquee>
+		<thumbnail>./box/Mars Sample Program - Pharaoh (Unknown) (SDK Build).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>데모</genre>
@@ -1107,6 +1198,7 @@
 		<image>./snap/Mars Sample Program - Runlength Mode Test (Unknown) (SDK Build).png</image>
 		<video>./video/Mars Sample Program - Runlength Mode Test (Unknown) (SDK Build).mp4</video>
 		<marquee>./marquee/Mars Sample Program - Runlength Mode Test (Unknown) (SDK Build).png</marquee>
+		<thumbnail>./box/Mars Sample Program - Runlength Mode Test (Unknown) (SDK Build).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>데모</genre>
@@ -1119,6 +1211,7 @@
 		<image>./snap/Mars Sample Program - Texture Test (Unknown) (SDK Build).png</image>
 		<video>./video/Mars Sample Program - Texture Test (Unknown) (SDK Build).mp4</video>
 		<marquee>./marquee/Mars Sample Program - Texture Test (Unknown) (SDK Build).png</marquee>
+		<thumbnail>./box/Mars Sample Program - Texture Test (Unknown) (SDK Build).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>데모</genre>
@@ -1131,6 +1224,7 @@
 		<image>./snap/Metal Head (Europe) (En,Ja).png</image>
 		<video>./video/Metal Head (Europe) (En,Ja).mp4</video>
 		<marquee>./marquee/Metal Head (Europe) (En,Ja).png</marquee>
+		<thumbnail>./box/Metal Head (Europe) (En,Ja).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>시뮬레이션</genre>
@@ -1143,6 +1237,7 @@
 		<image>./snap/Metal Head (Japan, USA) (Beta) (1994-11-14).png</image>
 		<video>./video/Metal Head (Europe) (En,Ja).mp4</video>
 		<marquee>./marquee/Metal Head (Japan, USA) (Beta) (1994-11-14).png</marquee>
+		<thumbnail>./box/Metal Head (Japan, USA) (Beta) (1994-11-14).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>시뮬레이션</genre>
@@ -1155,6 +1250,7 @@
 		<image>./snap/Metal Head (Japan, USA) (Beta) (1994-11-18).png</image>
 		<video>./video/Metal Head (Europe) (En,Ja).mp4</video>
 		<marquee>./marquee/Metal Head (Japan, USA) (Beta) (1994-11-18).png</marquee>
+		<thumbnail>./box/Metal Head (Japan, USA) (Beta) (1994-11-18).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>시뮬레이션</genre>
@@ -1167,6 +1263,7 @@
 		<image>./snap/Metal Head (Japan, USA) (Beta) (1994-11-21).png</image>
 		<video>./video/Metal Head (Europe) (En,Ja).mp4</video>
 		<marquee>./marquee/Metal Head (Japan, USA) (Beta) (1994-11-21).png</marquee>
+		<thumbnail>./box/Metal Head (Japan, USA) (Beta) (1994-11-21).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>시뮬레이션</genre>
@@ -1179,6 +1276,7 @@
 		<image>./snap/Metal Head (Japan, USA) (Beta) (1994-12-02).png</image>
 		<video>./video/Metal Head (Europe) (En,Ja).mp4</video>
 		<marquee>./marquee/Metal Head (Japan, USA) (Beta) (1994-12-02).png</marquee>
+		<thumbnail>./box/Metal Head (Japan, USA) (Beta) (1994-12-02).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>시뮬레이션</genre>
@@ -1191,6 +1289,7 @@
 		<image>./snap/Metal Head (Japan, USA) (Beta) (1994-12-07) (Alt 1).png</image>
 		<video>./video/Metal Head (Europe) (En,Ja).mp4</video>
 		<marquee>./marquee/Metal Head (Japan, USA) (Beta) (1994-12-07) (Alt 1).png</marquee>
+		<thumbnail>./box/Metal Head (Japan, USA) (Beta) (1994-12-07) (Alt 1).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>시뮬레이션</genre>
@@ -1203,6 +1302,7 @@
 		<image>./snap/Metal Head (Japan, USA) (Beta) (1994-12-07).png</image>
 		<video>./video/Metal Head (Europe) (En,Ja).mp4</video>
 		<marquee>./marquee/Metal Head (Japan, USA) (Beta) (1994-12-07).png</marquee>
+		<thumbnail>./box/Metal Head (Japan, USA) (Beta) (1994-12-07).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>시뮬레이션</genre>
@@ -1215,6 +1315,7 @@
 		<image>./snap/Metal Head (Japan, USA) (Beta) (1994-12-09).png</image>
 		<video>./video/Metal Head (Europe) (En,Ja).mp4</video>
 		<marquee>./marquee/Metal Head (Japan, USA) (Beta) (1994-12-09).png</marquee>
+		<thumbnail>./box/Metal Head (Japan, USA) (Beta) (1994-12-09).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>시뮬레이션</genre>
@@ -1227,6 +1328,7 @@
 		<image>./snap/Metal Head (Japan, USA) (Beta) (1994-12-13).png</image>
 		<video>./video/Metal Head (Europe) (En,Ja).mp4</video>
 		<marquee>./marquee/Metal Head (Japan, USA) (Beta) (1994-12-13).png</marquee>
+		<thumbnail>./box/Metal Head (Japan, USA) (Beta) (1994-12-13).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>시뮬레이션</genre>
@@ -1239,6 +1341,7 @@
 		<image>./snap/Metal Head (Japan, USA) (Beta) (1994-12-20).png</image>
 		<video>./video/Metal Head (Europe) (En,Ja).mp4</video>
 		<marquee>./marquee/Metal Head (Japan, USA) (Beta) (1994-12-20).png</marquee>
+		<thumbnail>./box/Metal Head (Japan, USA) (Beta) (1994-12-20).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>시뮬레이션</genre>
@@ -1251,6 +1354,7 @@
 		<image>./snap/Metal Head (Japan, USA) (En,Ja).png</image>
 		<video>./video/Metal Head (Europe) (En,Ja).mp4</video>
 		<marquee>./marquee/Metal Head (Japan, USA) (En,Ja).png</marquee>
+		<thumbnail>./box/Metal Head (Japan, USA) (En,Ja).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>시뮬레이션</genre>
@@ -1263,6 +1367,7 @@
 		<image>./snap/Mortal Kombat II (Europe).png</image>
 		<video>./video/Mortal Kombat II (Europe).mp4</video>
 		<marquee>./marquee/Mortal Kombat II (Europe).png</marquee>
+		<thumbnail>./box/Mortal Kombat II (Europe).png</thumbnail>
 		<developer>프로브</developer>
 		<publisher>어클레임 엔터테인먼트</publisher>
 		<genre>격투</genre>
@@ -1275,6 +1380,7 @@
 		<image>./snap/Mortal Kombat II (Japan, USA).png</image>
 		<video>./video/Mortal Kombat II (Europe).mp4</video>
 		<marquee>./marquee/Mortal Kombat II (Japan, USA).png</marquee>
+		<thumbnail>./box/Mortal Kombat II (Japan, USA).png</thumbnail>
 		<developer>프로브</developer>
 		<publisher>어클레임 엔터테인먼트</publisher>
 		<genre>격투</genre>
@@ -1287,6 +1393,7 @@
 		<image>./snap/Motocross Championship (Europe).png</image>
 		<video>./video/Motocross Championship (Europe).mp4</video>
 		<marquee>./marquee/Motocross Championship (Europe).png</marquee>
+		<thumbnail>./box/Motocross Championship (Europe).png</thumbnail>
 		<developer>아트텍 스튜디오</developer>
 		<publisher>세가</publisher>
 		<genre>레이싱</genre>
@@ -1299,6 +1406,7 @@
 		<image>./snap/Motocross Championship (Japan, USA) (Beta) (1994-10-12).png</image>
 		<video>./video/Motocross Championship (Europe).mp4</video>
 		<marquee>./marquee/Motocross Championship (Japan, USA) (Beta) (1994-10-12).png</marquee>
+		<thumbnail>./box/Motocross Championship (Japan, USA) (Beta) (1994-10-12).png</thumbnail>
 		<developer>아트텍 스튜디오</developer>
 		<publisher>세가</publisher>
 		<genre>레이싱</genre>
@@ -1311,6 +1419,7 @@
 		<image>./snap/Motocross Championship (Japan, USA) (Beta) (1994-10-17).png</image>
 		<video>./video/Motocross Championship (Europe).mp4</video>
 		<marquee>./marquee/Motocross Championship (Japan, USA) (Beta) (1994-10-17).png</marquee>
+		<thumbnail>./box/Motocross Championship (Japan, USA) (Beta) (1994-10-17).png</thumbnail>
 		<developer>아트텍 스튜디오</developer>
 		<publisher>세가</publisher>
 		<genre>레이싱</genre>
@@ -1323,6 +1432,7 @@
 		<image>./snap/Motocross Championship (Japan, USA) (Beta) (1994-10-18).png</image>
 		<video>./video/Motocross Championship (Europe).mp4</video>
 		<marquee>./marquee/Motocross Championship (Japan, USA) (Beta) (1994-10-18).png</marquee>
+		<thumbnail>./box/Motocross Championship (Japan, USA) (Beta) (1994-10-18).png</thumbnail>
 		<developer>아트텍 스튜디오</developer>
 		<publisher>세가</publisher>
 		<genre>레이싱</genre>
@@ -1335,6 +1445,7 @@
 		<image>./snap/Motocross Championship (Japan, USA) (Beta) (1994-10-19).png</image>
 		<video>./video/Motocross Championship (Europe).mp4</video>
 		<marquee>./marquee/Motocross Championship (Japan, USA) (Beta) (1994-10-19).png</marquee>
+		<thumbnail>./box/Motocross Championship (Japan, USA) (Beta) (1994-10-19).png</thumbnail>
 		<developer>아트텍 스튜디오</developer>
 		<publisher>세가</publisher>
 		<genre>레이싱</genre>
@@ -1347,6 +1458,7 @@
 		<image>./snap/Motocross Championship (Japan, USA) (Beta) (1994-10-20).png</image>
 		<video>./video/Motocross Championship (Europe).mp4</video>
 		<marquee>./marquee/Motocross Championship (Japan, USA) (Beta) (1994-10-20).png</marquee>
+		<thumbnail>./box/Motocross Championship (Japan, USA) (Beta) (1994-10-20).png</thumbnail>
 		<developer>아트텍 스튜디오</developer>
 		<publisher>세가</publisher>
 		<genre>레이싱</genre>
@@ -1359,6 +1471,7 @@
 		<image>./snap/Motocross Championship (Japan, USA) (Beta) (1994-10-24).png</image>
 		<video>./video/Motocross Championship (Europe).mp4</video>
 		<marquee>./marquee/Motocross Championship (Japan, USA) (Beta) (1994-10-24).png</marquee>
+		<thumbnail>./box/Motocross Championship (Japan, USA) (Beta) (1994-10-24).png</thumbnail>
 		<developer>아트텍 스튜디오</developer>
 		<publisher>세가</publisher>
 		<genre>레이싱</genre>
@@ -1371,6 +1484,7 @@
 		<image>./snap/Motocross Championship (Japan, USA) (Beta) (1994-10-28).png</image>
 		<video>./video/Motocross Championship (Europe).mp4</video>
 		<marquee>./marquee/Motocross Championship (Japan, USA) (Beta) (1994-10-28).png</marquee>
+		<thumbnail>./box/Motocross Championship (Japan, USA) (Beta) (1994-10-28).png</thumbnail>
 		<developer>아트텍 스튜디오</developer>
 		<publisher>세가</publisher>
 		<genre>레이싱</genre>
@@ -1383,6 +1497,7 @@
 		<image>./snap/Motocross Championship (Japan, USA) (Beta) (1994-11-01).png</image>
 		<video>./video/Motocross Championship (Europe).mp4</video>
 		<marquee>./marquee/Motocross Championship (Japan, USA) (Beta) (1994-11-01).png</marquee>
+		<thumbnail>./box/Motocross Championship (Japan, USA) (Beta) (1994-11-01).png</thumbnail>
 		<developer>아트텍 스튜디오</developer>
 		<publisher>세가</publisher>
 		<genre>레이싱</genre>
@@ -1395,6 +1510,7 @@
 		<image>./snap/Motocross Championship (Japan, USA) (Beta) (1994-11-02) (Alt 1).png</image>
 		<video>./video/Motocross Championship (Europe).mp4</video>
 		<marquee>./marquee/Motocross Championship (Japan, USA) (Beta) (1994-11-02) (Alt 1).png</marquee>
+		<thumbnail>./box/Motocross Championship (Japan, USA) (Beta) (1994-11-02) (Alt 1).png</thumbnail>
 		<developer>아트텍 스튜디오</developer>
 		<publisher>세가</publisher>
 		<genre>레이싱</genre>
@@ -1407,6 +1523,7 @@
 		<image>./snap/Motocross Championship (Japan, USA) (Beta) (1994-11-02).png</image>
 		<video>./video/Motocross Championship (Europe).mp4</video>
 		<marquee>./marquee/Motocross Championship (Japan, USA) (Beta) (1994-11-02).png</marquee>
+		<thumbnail>./box/Motocross Championship (Japan, USA) (Beta) (1994-11-02).png</thumbnail>
 		<developer>아트텍 스튜디오</developer>
 		<publisher>세가</publisher>
 		<genre>레이싱</genre>
@@ -1419,6 +1536,7 @@
 		<image>./snap/Motocross Championship (Japan, USA) (Beta) (1994-11-03).png</image>
 		<video>./video/Motocross Championship (Europe).mp4</video>
 		<marquee>./marquee/Motocross Championship (Japan, USA) (Beta) (1994-11-03).png</marquee>
+		<thumbnail>./box/Motocross Championship (Japan, USA) (Beta) (1994-11-03).png</thumbnail>
 		<developer>아트텍 스튜디오</developer>
 		<publisher>세가</publisher>
 		<genre>레이싱</genre>
@@ -1431,6 +1549,7 @@
 		<image>./snap/Motocross Championship (Japan, USA) (Beta) (1994-11-04).png</image>
 		<video>./video/Motocross Championship (Europe).mp4</video>
 		<marquee>./marquee/Motocross Championship (Japan, USA) (Beta) (1994-11-04).png</marquee>
+		<thumbnail>./box/Motocross Championship (Japan, USA) (Beta) (1994-11-04).png</thumbnail>
 		<developer>아트텍 스튜디오</developer>
 		<publisher>세가</publisher>
 		<genre>레이싱</genre>
@@ -1443,6 +1562,7 @@
 		<image>./snap/Motocross Championship (Japan, USA) (Beta) (1994-11-07).png</image>
 		<video>./video/Motocross Championship (Europe).mp4</video>
 		<marquee>./marquee/Motocross Championship (Japan, USA) (Beta) (1994-11-07).png</marquee>
+		<thumbnail>./box/Motocross Championship (Japan, USA) (Beta) (1994-11-07).png</thumbnail>
 		<developer>아트텍 스튜디오</developer>
 		<publisher>세가</publisher>
 		<genre>레이싱</genre>
@@ -1455,6 +1575,7 @@
 		<image>./snap/Motocross Championship (Japan, USA) (Beta) (1994-11-08).png</image>
 		<video>./video/Motocross Championship (Europe).mp4</video>
 		<marquee>./marquee/Motocross Championship (Japan, USA) (Beta) (1994-11-08).png</marquee>
+		<thumbnail>./box/Motocross Championship (Japan, USA) (Beta) (1994-11-08).png</thumbnail>
 		<developer>아트텍 스튜디오</developer>
 		<publisher>세가</publisher>
 		<genre>레이싱</genre>
@@ -1467,6 +1588,7 @@
 		<image>./snap/Motocross Championship (Japan, USA) (Beta) (1994-11-11).png</image>
 		<video>./video/Motocross Championship (Europe).mp4</video>
 		<marquee>./marquee/Motocross Championship (Japan, USA) (Beta) (1994-11-11).png</marquee>
+		<thumbnail>./box/Motocross Championship (Japan, USA) (Beta) (1994-11-11).png</thumbnail>
 		<developer>아트텍 스튜디오</developer>
 		<publisher>세가</publisher>
 		<genre>레이싱</genre>
@@ -1479,6 +1601,7 @@
 		<image>./snap/Motocross Championship (USA).png</image>
 		<video>./video/Motocross Championship (Europe).mp4</video>
 		<marquee>./marquee/Motocross Championship (USA).png</marquee>
+		<thumbnail>./box/Motocross Championship (USA).png</thumbnail>
 		<developer>아트텍 스튜디오</developer>
 		<publisher>세가</publisher>
 		<genre>레이싱</genre>
@@ -1491,6 +1614,7 @@
 		<image>./snap/NBA Jam - Tournament Edition (World).png</image>
 		<video>./video/NBA Jam - Tournament Edition (World).mp4</video>
 		<marquee>./marquee/NBA Jam - Tournament Edition (World).png</marquee>
+		<thumbnail>./box/NBA Jam - Tournament Edition (World).png</thumbnail>
 		<developer>이구아나 엔터테인먼트</developer>
 		<publisher>어클레임 엔터테인먼트</publisher>
 		<genre>스포츠</genre>
@@ -1503,6 +1627,7 @@
 		<image>./snap/NFL Quarterback Club (World).png</image>
 		<video>./video/NFL Quarterback Club (World).mp4</video>
 		<marquee>./marquee/NFL Quarterback Club (World).png</marquee>
+		<thumbnail>./box/NFL Quarterback Club (World).png</thumbnail>
 		<developer>이구아나 엔터테인먼트</developer>
 		<publisher>어클레임 엔터테인먼트</publisher>
 		<genre>스포츠</genre>
@@ -1515,6 +1640,7 @@
 		<image>./snap/Parasquad ~ Zaxxon's Motherbase (Japan, USA) (Beta) (1995-02-10).png</image>
 		<video>./video/Parasquad ~ Zaxxon's Motherbase 2000 (Japan, USA).mp4</video>
 		<marquee>./marquee/Parasquad ~ Zaxxon's Motherbase (Japan, USA) (Beta) (1995-02-10).png</marquee>
+		<thumbnail>./box/Parasquad ~ Zaxxon's Motherbase (Japan, USA) (Beta) (1995-02-10).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>슈팅</genre>
@@ -1527,6 +1653,7 @@
 		<image>./snap/Parasquad ~ Zaxxon's Motherbase (Japan, USA) (Beta) (1995-02-21).png</image>
 		<video>./video/Parasquad ~ Zaxxon's Motherbase 2000 (Japan, USA).mp4</video>
 		<marquee>./marquee/Parasquad ~ Zaxxon's Motherbase (Japan, USA) (Beta) (1995-02-21).png</marquee>
+		<thumbnail>./box/Parasquad ~ Zaxxon's Motherbase (Japan, USA) (Beta) (1995-02-21).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>슈팅</genre>
@@ -1539,6 +1666,7 @@
 		<image>./snap/Parasquad ~ Zaxxon's Motherbase (Japan, USA) (Beta) (1995-02-23).png</image>
 		<video>./video/Parasquad ~ Zaxxon's Motherbase 2000 (Japan, USA).mp4</video>
 		<marquee>./marquee/Parasquad ~ Zaxxon's Motherbase (Japan, USA) (Beta) (1995-02-23).png</marquee>
+		<thumbnail>./box/Parasquad ~ Zaxxon's Motherbase (Japan, USA) (Beta) (1995-02-23).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>슈팅</genre>
@@ -1551,6 +1679,7 @@
 		<image>./snap/Parasquad ~ Zaxxon's Motherbase (Japan, USA) (Beta) (1995-02-27).png</image>
 		<video>./video/Parasquad ~ Zaxxon's Motherbase 2000 (Japan, USA).mp4</video>
 		<marquee>./marquee/Parasquad ~ Zaxxon's Motherbase (Japan, USA) (Beta) (1995-02-27).png</marquee>
+		<thumbnail>./box/Parasquad ~ Zaxxon's Motherbase (Japan, USA) (Beta) (1995-02-27).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>슈팅</genre>
@@ -1563,6 +1692,7 @@
 		<image>./snap/Parasquad ~ Zaxxon's Motherbase (Japan, USA) (Beta) (1995-03-03).png</image>
 		<video>./video/Parasquad ~ Zaxxon's Motherbase 2000 (Japan, USA).mp4</video>
 		<marquee>./marquee/Parasquad ~ Zaxxon's Motherbase (Japan, USA) (Beta) (1995-03-03).png</marquee>
+		<thumbnail>./box/Parasquad ~ Zaxxon's Motherbase (Japan, USA) (Beta) (1995-03-03).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>슈팅</genre>
@@ -1575,6 +1705,7 @@
 		<image>./snap/Parasquad ~ Zaxxon's Motherbase (Japan, USA) (Beta) (1995-03-06).png</image>
 		<video>./video/Parasquad ~ Zaxxon's Motherbase 2000 (Japan, USA).mp4</video>
 		<marquee>./marquee/Parasquad ~ Zaxxon's Motherbase (Japan, USA) (Beta) (1995-03-06).png</marquee>
+		<thumbnail>./box/Parasquad ~ Zaxxon's Motherbase (Japan, USA) (Beta) (1995-03-06).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>슈팅</genre>
@@ -1587,6 +1718,7 @@
 		<image>./snap/Parasquad ~ Zaxxon's Motherbase (Japan, USA) (Beta) (1995-03-10).png</image>
 		<video>./video/Parasquad ~ Zaxxon's Motherbase 2000 (Japan, USA).mp4</video>
 		<marquee>./marquee/Parasquad ~ Zaxxon's Motherbase (Japan, USA) (Beta) (1995-03-10).png</marquee>
+		<thumbnail>./box/Parasquad ~ Zaxxon's Motherbase (Japan, USA) (Beta) (1995-03-10).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>슈팅</genre>
@@ -1599,6 +1731,7 @@
 		<image>./snap/Parasquad ~ Zaxxon's Motherbase (Japan, USA) (Beta) (1995-03-15).png</image>
 		<video>./video/Parasquad ~ Zaxxon's Motherbase 2000 (Japan, USA).mp4</video>
 		<marquee>./marquee/Parasquad ~ Zaxxon's Motherbase (Japan, USA) (Beta) (1995-03-15).png</marquee>
+		<thumbnail>./box/Parasquad ~ Zaxxon's Motherbase (Japan, USA) (Beta) (1995-03-15).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>슈팅</genre>
@@ -1611,6 +1744,7 @@
 		<image>./snap/Parasquad ~ Zaxxon's Motherbase (Japan, USA) (Beta) (1995-03-31).png</image>
 		<video>./video/Parasquad ~ Zaxxon's Motherbase 2000 (Japan, USA).mp4</video>
 		<marquee>./marquee/Parasquad ~ Zaxxon's Motherbase (Japan, USA) (Beta) (1995-03-31).png</marquee>
+		<thumbnail>./box/Parasquad ~ Zaxxon's Motherbase (Japan, USA) (Beta) (1995-03-31).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>슈팅</genre>
@@ -1623,6 +1757,7 @@
 		<image>./snap/Parasquad ~ Zaxxon's Motherbase 2000 (Japan, USA).png</image>
 		<video>./video/Parasquad ~ Zaxxon's Motherbase 2000 (Japan, USA).mp4</video>
 		<marquee>./marquee/Parasquad ~ Zaxxon's Motherbase 2000 (Japan, USA).png</marquee>
+		<thumbnail>./box/Parasquad ~ Zaxxon's Motherbase 2000 (Japan, USA).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>슈팅</genre>
@@ -1635,6 +1770,7 @@
 		<image>./snap/Pinocchio (Europe) (Proto) (1995-06-12).png</image>
 		<video>./video/Pinocchio (Europe) (Proto) (1995-06-12).mp4</video>
 		<marquee>./marquee/Pinocchio (Europe) (Proto) (1995-06-12).png</marquee>
+		<thumbnail>./box/Pinocchio (Europe) (Proto) (1995-06-12).png</thumbnail>
 		<developer/>
 		<publisher/>
 		<genre/>
@@ -1647,6 +1783,7 @@
 		<image>./snap/Pitfall - The Mayan Adventure (USA).png</image>
 		<video>./video/Pitfall - The Mayan Adventure (USA).mp4</video>
 		<marquee>./marquee/Pitfall - The Mayan Adventure (USA).png</marquee>
+		<thumbnail>./box/Pitfall - The Mayan Adventure (USA).png</thumbnail>
 		<developer>액티비젼</developer>
 		<publisher>액티비젼</publisher>
 		<genre>플랫폼</genre>
@@ -1659,6 +1796,7 @@
 		<image>./snap/Primal Rage (USA, Europe).png</image>
 		<video>./video/Primal Rage (USA, Europe).mp4</video>
 		<marquee>./marquee/Primal Rage (USA, Europe).png</marquee>
+		<thumbnail>./box/Primal Rage (USA, Europe).png</thumbnail>
 		<developer>타임워너 인터렉티브</developer>
 		<publisher>프로브</publisher>
 		<genre>격투</genre>
@@ -1671,6 +1809,7 @@
 		<image>./snap/RBI Baseball '95 (USA).png</image>
 		<video>./video/RBI Baseball '95 (USA).mp4</video>
 		<marquee>./marquee/RBI Baseball '95 (USA).png</marquee>
+		<thumbnail>./box/RBI Baseball '95 (USA).png</thumbnail>
 		<developer>타임워너 인터렉티브</developer>
 		<publisher>타임워너 인터렉티브</publisher>
 		<genre>스포츠</genre>
@@ -1683,6 +1822,7 @@
 		<image>./snap/Sangokushi IV (Japan).png</image>
 		<video>./video/Sangokushi IV (Japan).mp4</video>
 		<marquee>./marquee/Sangokushi IV (Japan).png</marquee>
+		<thumbnail>./box/Sangokushi IV (Japan).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>코에이</publisher>
 		<genre>시뮬레이션</genre>
@@ -1695,6 +1835,7 @@
 		<image>./snap/Shadow Squadron ~ Stellar Assault (USA, Europe) (Beta) (1995-02-22).png</image>
 		<video>./video/Shadow Squadron ~ Stellar Assault (USA, Europe).mp4</video>
 		<marquee>./marquee/Shadow Squadron ~ Stellar Assault (USA, Europe) (Beta) (1995-02-22).png</marquee>
+		<thumbnail>./box/Shadow Squadron ~ Stellar Assault (USA, Europe) (Beta) (1995-02-22).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>슈팅</genre>
@@ -1707,6 +1848,7 @@
 		<image>./snap/Shadow Squadron ~ Stellar Assault (USA, Europe) (Beta) (1995-03-02).png</image>
 		<video>./video/Shadow Squadron ~ Stellar Assault (USA, Europe).mp4</video>
 		<marquee>./marquee/Shadow Squadron ~ Stellar Assault (USA, Europe) (Beta) (1995-03-02).png</marquee>
+		<thumbnail>./box/Shadow Squadron ~ Stellar Assault (USA, Europe) (Beta) (1995-03-02).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>슈팅</genre>
@@ -1719,6 +1861,7 @@
 		<image>./snap/Shadow Squadron ~ Stellar Assault (USA, Europe) (Beta) (1995-03-06).png</image>
 		<video>./video/Shadow Squadron ~ Stellar Assault (USA, Europe).mp4</video>
 		<marquee>./marquee/Shadow Squadron ~ Stellar Assault (USA, Europe) (Beta) (1995-03-06).png</marquee>
+		<thumbnail>./box/Shadow Squadron ~ Stellar Assault (USA, Europe) (Beta) (1995-03-06).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>슈팅</genre>
@@ -1731,6 +1874,7 @@
 		<image>./snap/Shadow Squadron ~ Stellar Assault (USA, Europe) (Beta) (1995-03-13) (Alt 1).png</image>
 		<video>./video/Shadow Squadron ~ Stellar Assault (USA, Europe).mp4</video>
 		<marquee>./marquee/Shadow Squadron ~ Stellar Assault (USA, Europe) (Beta) (1995-03-13) (Alt 1).png</marquee>
+		<thumbnail>./box/Shadow Squadron ~ Stellar Assault (USA, Europe) (Beta) (1995-03-13) (Alt 1).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>슈팅</genre>
@@ -1743,6 +1887,7 @@
 		<image>./snap/Shadow Squadron ~ Stellar Assault (USA, Europe) (Beta) (1995-03-13).png</image>
 		<video>./video/Shadow Squadron ~ Stellar Assault (USA, Europe).mp4</video>
 		<marquee>./marquee/Shadow Squadron ~ Stellar Assault (USA, Europe) (Beta) (1995-03-13).png</marquee>
+		<thumbnail>./box/Shadow Squadron ~ Stellar Assault (USA, Europe) (Beta) (1995-03-13).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>슈팅</genre>
@@ -1755,6 +1900,7 @@
 		<image>./snap/Shadow Squadron ~ Stellar Assault (USA, Europe).png</image>
 		<video>./video/Shadow Squadron ~ Stellar Assault (USA, Europe).mp4</video>
 		<marquee>./marquee/Shadow Squadron ~ Stellar Assault (USA, Europe).png</marquee>
+		<thumbnail>./box/Shadow Squadron ~ Stellar Assault (USA, Europe).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>슈팅</genre>
@@ -1767,6 +1913,7 @@
 		<image>./snap/Soulstar X (USA) (Proto).png</image>
 		<video>./video/Soulstar X (USA) (Proto).mp4</video>
 		<marquee>./marquee/Soulstar X (USA) (Proto).png</marquee>
+		<thumbnail>./box/Soulstar X (USA) (Proto).png</thumbnail>
 		<developer>코어 디자인 Limited</developer>
 		<publisher>에이도스</publisher>
 		<genre>슈팅</genre>
@@ -1779,6 +1926,7 @@
 		<image>./snap/Space Harrier (Europe).png</image>
 		<video>./video/Space Harrier (Europe).mp4</video>
 		<marquee>./marquee/Space Harrier (Europe).png</marquee>
+		<thumbnail>./box/Space Harrier (Europe).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>슈팅</genre>
@@ -1791,6 +1939,7 @@
 		<image>./snap/Space Harrier (Japan, USA) (Beta) (1994-09-20).png</image>
 		<video>./video/Space Harrier (Europe).mp4</video>
 		<marquee>./marquee/Space Harrier (Japan, USA) (Beta) (1994-09-20).png</marquee>
+		<thumbnail>./box/Space Harrier (Japan, USA) (Beta) (1994-09-20).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>슈팅</genre>
@@ -1803,6 +1952,7 @@
 		<image>./snap/Space Harrier (Japan, USA).png</image>
 		<video>./video/Space Harrier (Europe).mp4</video>
 		<marquee>./marquee/Space Harrier (Japan, USA).png</marquee>
+		<thumbnail>./box/Space Harrier (Japan, USA).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>슈팅</genre>
@@ -1815,6 +1965,7 @@
 		<image>./snap/Star Trek - Starfleet Academy - Starship Bridge Simulator (USA).png</image>
 		<video>./video/Star Trek - Starfleet Academy - Starship Bridge Simulator (USA).mp4</video>
 		<marquee>./marquee/Star Trek - Starfleet Academy - Starship Bridge Simulator (USA).png</marquee>
+		<thumbnail>./box/Star Trek - Starfleet Academy - Starship Bridge Simulator (USA).png</thumbnail>
 		<developer>하이볼티지</developer>
 		<publisher>인터플레이</publisher>
 		<genre>라이트건</genre>
@@ -1827,6 +1978,7 @@
 		<image>./snap/Star Wars Arcade (Europe) (Beta) (1994-09-23).png</image>
 		<video>./video/Star Wars Arcade (Europe).mp4</video>
 		<marquee>./marquee/Star Wars Arcade (Europe) (Beta) (1994-09-23).png</marquee>
+		<thumbnail>./box/Star Wars Arcade (Europe) (Beta) (1994-09-23).png</thumbnail>
 		<developer>루카스아츠</developer>
 		<publisher>루카스아츠</publisher>
 		<genre>액션</genre>
@@ -1839,6 +1991,7 @@
 		<image>./snap/Star Wars Arcade (Europe) (Beta) (1994-09-29).png</image>
 		<video>./video/Star Wars Arcade (Europe).mp4</video>
 		<marquee>./marquee/Star Wars Arcade (Europe) (Beta) (1994-09-29).png</marquee>
+		<thumbnail>./box/Star Wars Arcade (Europe) (Beta) (1994-09-29).png</thumbnail>
 		<developer>루카스아츠</developer>
 		<publisher>루카스아츠</publisher>
 		<genre>액션</genre>
@@ -1851,6 +2004,7 @@
 		<image>./snap/Star Wars Arcade (Europe) (Beta) (1994-10-06).png</image>
 		<video>./video/Star Wars Arcade (Europe).mp4</video>
 		<marquee>./marquee/Star Wars Arcade (Europe) (Beta) (1994-10-06).png</marquee>
+		<thumbnail>./box/Star Wars Arcade (Europe) (Beta) (1994-10-06).png</thumbnail>
 		<developer>루카스아츠</developer>
 		<publisher>루카스아츠</publisher>
 		<genre>액션</genre>
@@ -1863,6 +2017,7 @@
 		<image>./snap/Star Wars Arcade (Europe) (Beta) (1994-10-07).png</image>
 		<video>./video/Star Wars Arcade (Europe).mp4</video>
 		<marquee>./marquee/Star Wars Arcade (Europe) (Beta) (1994-10-07).png</marquee>
+		<thumbnail>./box/Star Wars Arcade (Europe) (Beta) (1994-10-07).png</thumbnail>
 		<developer>루카스아츠</developer>
 		<publisher>루카스아츠</publisher>
 		<genre>액션</genre>
@@ -1875,6 +2030,7 @@
 		<image>./snap/Star Wars Arcade (Europe).png</image>
 		<video>./video/Star Wars Arcade (Europe).mp4</video>
 		<marquee>./marquee/Star Wars Arcade (Europe).png</marquee>
+		<thumbnail>./box/Star Wars Arcade (Europe).png</thumbnail>
 		<developer>루카스아츠</developer>
 		<publisher>루카스아츠</publisher>
 		<genre>액션</genre>
@@ -1887,6 +2043,7 @@
 		<image>./snap/Star Wars Arcade (Japan) (Beta) (1994-09-30).png</image>
 		<video>./video/Star Wars Arcade (Europe).mp4</video>
 		<marquee>./marquee/Star Wars Arcade (Japan) (Beta) (1994-09-30).png</marquee>
+		<thumbnail>./box/Star Wars Arcade (Japan) (Beta) (1994-09-30).png</thumbnail>
 		<developer>루카스아츠</developer>
 		<publisher>루카스아츠</publisher>
 		<genre>액션</genre>
@@ -1899,6 +2056,7 @@
 		<image>./snap/Star Wars Arcade (Japan) (Beta) (1994-10-03).png</image>
 		<video>./video/Star Wars Arcade (Europe).mp4</video>
 		<marquee>./marquee/Star Wars Arcade (Japan) (Beta) (1994-10-03).png</marquee>
+		<thumbnail>./box/Star Wars Arcade (Japan) (Beta) (1994-10-03).png</thumbnail>
 		<developer>루카스아츠</developer>
 		<publisher>루카스아츠</publisher>
 		<genre>액션</genre>
@@ -1911,6 +2069,7 @@
 		<image>./snap/Star Wars Arcade (Japan) (Beta) (1994-10-05).png</image>
 		<video>./video/Star Wars Arcade (Europe).mp4</video>
 		<marquee>./marquee/Star Wars Arcade (Japan) (Beta) (1994-10-05).png</marquee>
+		<thumbnail>./box/Star Wars Arcade (Japan) (Beta) (1994-10-05).png</thumbnail>
 		<developer>루카스아츠</developer>
 		<publisher>루카스아츠</publisher>
 		<genre>액션</genre>
@@ -1923,6 +2082,7 @@
 		<image>./snap/Star Wars Arcade (Japan).png</image>
 		<video>./video/Star Wars Arcade (Europe).mp4</video>
 		<marquee>./marquee/Star Wars Arcade (Japan).png</marquee>
+		<thumbnail>./box/Star Wars Arcade (Japan).png</thumbnail>
 		<developer>루카스아츠</developer>
 		<publisher>루카스아츠</publisher>
 		<genre>액션</genre>
@@ -1935,6 +2095,7 @@
 		<image>./snap/Star Wars Arcade (USA) (Beta) (1994-08-30).png</image>
 		<video>./video/Star Wars Arcade (Europe).mp4</video>
 		<marquee>./marquee/Star Wars Arcade (USA) (Beta) (1994-08-30).png</marquee>
+		<thumbnail>./box/Star Wars Arcade (USA) (Beta) (1994-08-30).png</thumbnail>
 		<developer>루카스아츠</developer>
 		<publisher>루카스아츠</publisher>
 		<genre>액션</genre>
@@ -1947,6 +2108,7 @@
 		<image>./snap/Star Wars Arcade (USA) (Beta) (1994-09-01).png</image>
 		<video>./video/Star Wars Arcade (Europe).mp4</video>
 		<marquee>./marquee/Star Wars Arcade (USA) (Beta) (1994-09-01).png</marquee>
+		<thumbnail>./box/Star Wars Arcade (USA) (Beta) (1994-09-01).png</thumbnail>
 		<developer>루카스아츠</developer>
 		<publisher>루카스아츠</publisher>
 		<genre>액션</genre>
@@ -1959,6 +2121,7 @@
 		<image>./snap/Star Wars Arcade (USA) (Beta) (1994-09-06).png</image>
 		<video>./video/Star Wars Arcade (Europe).mp4</video>
 		<marquee>./marquee/Star Wars Arcade (USA) (Beta) (1994-09-06).png</marquee>
+		<thumbnail>./box/Star Wars Arcade (USA) (Beta) (1994-09-06).png</thumbnail>
 		<developer>루카스아츠</developer>
 		<publisher>루카스아츠</publisher>
 		<genre>액션</genre>
@@ -1971,6 +2134,7 @@
 		<image>./snap/Star Wars Arcade (USA) (Beta) (1994-09-07).png</image>
 		<video>./video/Star Wars Arcade (Europe).mp4</video>
 		<marquee>./marquee/Star Wars Arcade (USA) (Beta) (1994-09-07).png</marquee>
+		<thumbnail>./box/Star Wars Arcade (USA) (Beta) (1994-09-07).png</thumbnail>
 		<developer>루카스아츠</developer>
 		<publisher>루카스아츠</publisher>
 		<genre>액션</genre>
@@ -1983,6 +2147,7 @@
 		<image>./snap/Star Wars Arcade (USA) (Beta) (1994-09-09).png</image>
 		<video>./video/Star Wars Arcade (Europe).mp4</video>
 		<marquee>./marquee/Star Wars Arcade (USA) (Beta) (1994-09-09).png</marquee>
+		<thumbnail>./box/Star Wars Arcade (USA) (Beta) (1994-09-09).png</thumbnail>
 		<developer>루카스아츠</developer>
 		<publisher>루카스아츠</publisher>
 		<genre>액션</genre>
@@ -1995,6 +2160,7 @@
 		<image>./snap/Star Wars Arcade (USA) (Beta) (1994-09-12).png</image>
 		<video>./video/Star Wars Arcade (Europe).mp4</video>
 		<marquee>./marquee/Star Wars Arcade (USA) (Beta) (1994-09-12).png</marquee>
+		<thumbnail>./box/Star Wars Arcade (USA) (Beta) (1994-09-12).png</thumbnail>
 		<developer>루카스아츠</developer>
 		<publisher>루카스아츠</publisher>
 		<genre>액션</genre>
@@ -2007,6 +2173,7 @@
 		<image>./snap/Star Wars Arcade (USA) (Beta) (1994-09-13).png</image>
 		<video>./video/Star Wars Arcade (Europe).mp4</video>
 		<marquee>./marquee/Star Wars Arcade (USA) (Beta) (1994-09-13).png</marquee>
+		<thumbnail>./box/Star Wars Arcade (USA) (Beta) (1994-09-13).png</thumbnail>
 		<developer>루카스아츠</developer>
 		<publisher>루카스아츠</publisher>
 		<genre>액션</genre>
@@ -2019,6 +2186,7 @@
 		<image>./snap/Star Wars Arcade (USA) (Beta) (1994-09-14).png</image>
 		<video>./video/Star Wars Arcade (Europe).mp4</video>
 		<marquee>./marquee/Star Wars Arcade (USA) (Beta) (1994-09-14).png</marquee>
+		<thumbnail>./box/Star Wars Arcade (USA) (Beta) (1994-09-14).png</thumbnail>
 		<developer>루카스아츠</developer>
 		<publisher>루카스아츠</publisher>
 		<genre>액션</genre>
@@ -2031,6 +2199,7 @@
 		<image>./snap/Star Wars Arcade (USA) (Beta) (1994-09-15).png</image>
 		<video>./video/Star Wars Arcade (Europe).mp4</video>
 		<marquee>./marquee/Star Wars Arcade (USA) (Beta) (1994-09-15).png</marquee>
+		<thumbnail>./box/Star Wars Arcade (USA) (Beta) (1994-09-15).png</thumbnail>
 		<developer>루카스아츠</developer>
 		<publisher>루카스아츠</publisher>
 		<genre>액션</genre>
@@ -2043,6 +2212,7 @@
 		<image>./snap/Star Wars Arcade (USA) (Beta) (1994-09-16).png</image>
 		<video>./video/Star Wars Arcade (Europe).mp4</video>
 		<marquee>./marquee/Star Wars Arcade (USA) (Beta) (1994-09-16).png</marquee>
+		<thumbnail>./box/Star Wars Arcade (USA) (Beta) (1994-09-16).png</thumbnail>
 		<developer>루카스아츠</developer>
 		<publisher>루카스아츠</publisher>
 		<genre>액션</genre>
@@ -2055,6 +2225,7 @@
 		<image>./snap/Star Wars Arcade (USA) (Beta) (1994-09-18).png</image>
 		<video>./video/Star Wars Arcade (Europe).mp4</video>
 		<marquee>./marquee/Star Wars Arcade (USA) (Beta) (1994-09-18).png</marquee>
+		<thumbnail>./box/Star Wars Arcade (USA) (Beta) (1994-09-18).png</thumbnail>
 		<developer>루카스아츠</developer>
 		<publisher>루카스아츠</publisher>
 		<genre>액션</genre>
@@ -2067,6 +2238,7 @@
 		<image>./snap/Star Wars Arcade (USA).png</image>
 		<video>./video/Star Wars Arcade (Europe).mp4</video>
 		<marquee>./marquee/Star Wars Arcade (USA).png</marquee>
+		<thumbnail>./box/Star Wars Arcade (USA).png</thumbnail>
 		<developer>루카스아츠</developer>
 		<publisher>루카스아츠</publisher>
 		<genre>액션</genre>
@@ -2079,6 +2251,7 @@
 		<image>./snap/Stellar Assault (Japan) (En) (Beta) (1995-02-06).png</image>
 		<video>./video/Shadow Squadron ~ Stellar Assault (USA, Europe).mp4</video>
 		<marquee>./marquee/Stellar Assault (Japan) (En) (Beta) (1995-02-06).png</marquee>
+		<thumbnail>./box/Stellar Assault (Japan) (En) (Beta) (1995-02-06).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>슈팅</genre>
@@ -2091,6 +2264,7 @@
 		<image>./snap/Stellar Assault (Japan) (En) (Beta) (1995-02-13).png</image>
 		<video>./video/Shadow Squadron ~ Stellar Assault (USA, Europe).mp4</video>
 		<marquee>./marquee/Stellar Assault (Japan) (En) (Beta) (1995-02-13).png</marquee>
+		<thumbnail>./box/Stellar Assault (Japan) (En) (Beta) (1995-02-13).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>슈팅</genre>
@@ -2103,6 +2277,7 @@
 		<image>./snap/Stellar Assault (Japan).png</image>
 		<video>./video/Shadow Squadron ~ Stellar Assault (USA, Europe).mp4</video>
 		<marquee>./marquee/Stellar Assault (Japan).png</marquee>
+		<thumbnail>./box/Stellar Assault (Japan).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>슈팅</genre>
@@ -2115,6 +2290,7 @@
 		<image>./snap/T-MEK (USA, Europe).png</image>
 		<video>./video/T-MEK (USA, Europe).mp4</video>
 		<marquee>./marquee/T-MEK (USA, Europe).png</marquee>
+		<thumbnail>./box/T-MEK (USA, Europe).png</thumbnail>
 		<developer>타임워너 인터렉티브</developer>
 		<publisher>비츠 소프트</publisher>
 		<genre>액션</genre>
@@ -2127,6 +2303,7 @@
 		<image>./snap/Tempo (Japan, USA) (Beta) (1994-12-21).png</image>
 		<video>./video/Tempo (Japan, USA).mp4</video>
 		<marquee>./marquee/Tempo (Japan, USA) (Beta) (1994-12-21).png</marquee>
+		<thumbnail>./box/Tempo (Japan, USA) (Beta) (1994-12-21).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>플랫폼</genre>
@@ -2139,6 +2316,7 @@
 		<image>./snap/Tempo (Japan, USA) (Beta) (1995-01-19).png</image>
 		<video>./video/Tempo (Japan, USA).mp4</video>
 		<marquee>./marquee/Tempo (Japan, USA) (Beta) (1995-01-19).png</marquee>
+		<thumbnail>./box/Tempo (Japan, USA) (Beta) (1995-01-19).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>플랫폼</genre>
@@ -2151,6 +2329,7 @@
 		<image>./snap/Tempo (Japan, USA) (Beta) (1995-01-24).png</image>
 		<video>./video/Tempo (Japan, USA).mp4</video>
 		<marquee>./marquee/Tempo (Japan, USA) (Beta) (1995-01-24).png</marquee>
+		<thumbnail>./box/Tempo (Japan, USA) (Beta) (1995-01-24).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>플랫폼</genre>
@@ -2163,6 +2342,7 @@
 		<image>./snap/Tempo (Japan, USA) (Beta) (1995-01-26).png</image>
 		<video>./video/Tempo (Japan, USA).mp4</video>
 		<marquee>./marquee/Tempo (Japan, USA) (Beta) (1995-01-26).png</marquee>
+		<thumbnail>./box/Tempo (Japan, USA) (Beta) (1995-01-26).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>플랫폼</genre>
@@ -2175,6 +2355,7 @@
 		<image>./snap/Tempo (Japan, USA) (Beta) (1995-02-04).png</image>
 		<video>./video/Tempo (Japan, USA).mp4</video>
 		<marquee>./marquee/Tempo (Japan, USA) (Beta) (1995-02-04).png</marquee>
+		<thumbnail>./box/Tempo (Japan, USA) (Beta) (1995-02-04).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>플랫폼</genre>
@@ -2187,6 +2368,7 @@
 		<image>./snap/Tempo (Japan, USA) (Beta) (1995-02-06) (Alt 1).png</image>
 		<video>./video/Tempo (Japan, USA).mp4</video>
 		<marquee>./marquee/Tempo (Japan, USA) (Beta) (1995-02-06) (Alt 1).png</marquee>
+		<thumbnail>./box/Tempo (Japan, USA) (Beta) (1995-02-06) (Alt 1).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>플랫폼</genre>
@@ -2199,6 +2381,7 @@
 		<image>./snap/Tempo (Japan, USA) (Beta) (1995-02-06).png</image>
 		<video>./video/Tempo (Japan, USA).mp4</video>
 		<marquee>./marquee/Tempo (Japan, USA) (Beta) (1995-02-06).png</marquee>
+		<thumbnail>./box/Tempo (Japan, USA) (Beta) (1995-02-06).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>플랫폼</genre>
@@ -2211,6 +2394,7 @@
 		<image>./snap/Tempo (Japan, USA) (Beta) (1995-02-07).png</image>
 		<video>./video/Tempo (Japan, USA).mp4</video>
 		<marquee>./marquee/Tempo (Japan, USA) (Beta) (1995-02-07).png</marquee>
+		<thumbnail>./box/Tempo (Japan, USA) (Beta) (1995-02-07).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>플랫폼</genre>
@@ -2223,6 +2407,7 @@
 		<image>./snap/Tempo (Japan, USA).png</image>
 		<video>./video/Tempo (Japan, USA).mp4</video>
 		<marquee>./marquee/Tempo (Japan, USA).png</marquee>
+		<thumbnail>./box/Tempo (Japan, USA).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>플랫폼</genre>
@@ -2235,6 +2420,7 @@
 		<image>./snap/Toughman Contest (USA, Europe).png</image>
 		<video>./video/Toughman Contest (USA, Europe).mp4</video>
 		<marquee>./marquee/Toughman Contest (USA, Europe).png</marquee>
+		<thumbnail>./box/Toughman Contest (USA, Europe).png</thumbnail>
 		<developer>비쥬얼 컨셉</developer>
 		<publisher>비쥬얼 컨셉</publisher>
 		<genre>격투</genre>
@@ -2247,6 +2433,7 @@
 		<image>./snap/Virtua Fighter (Europe).png</image>
 		<video>./video/Virtua Fighter (Europe).mp4</video>
 		<marquee>./marquee/Virtua Fighter (Europe).png</marquee>
+		<thumbnail>./box/Virtua Fighter (Europe).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>격투</genre>
@@ -2259,6 +2446,7 @@
 		<image>./snap/Virtua Fighter (Japan, USA) (Beta) (1995-05-30).png</image>
 		<video>./video/Virtua Fighter (Europe).mp4</video>
 		<marquee>./marquee/Virtua Fighter (Japan, USA) (Beta) (1995-05-30).png</marquee>
+		<thumbnail>./box/Virtua Fighter (Japan, USA) (Beta) (1995-05-30).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>격투</genre>
@@ -2271,6 +2459,7 @@
 		<image>./snap/Virtua Fighter (Japan, USA) (Beta) (1995-06-15).png</image>
 		<video>./video/Virtua Fighter (Europe).mp4</video>
 		<marquee>./marquee/Virtua Fighter (Japan, USA) (Beta) (1995-06-15).png</marquee>
+		<thumbnail>./box/Virtua Fighter (Japan, USA) (Beta) (1995-06-15).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>격투</genre>
@@ -2283,6 +2472,7 @@
 		<image>./snap/Virtua Fighter (Japan, USA) (Beta) (1995-06-30).png</image>
 		<video>./video/Virtua Fighter (Europe).mp4</video>
 		<marquee>./marquee/Virtua Fighter (Japan, USA) (Beta) (1995-06-30).png</marquee>
+		<thumbnail>./box/Virtua Fighter (Japan, USA) (Beta) (1995-06-30).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>격투</genre>
@@ -2295,6 +2485,7 @@
 		<image>./snap/Virtua Fighter (Japan, USA) (Beta) (1995-07-17).png</image>
 		<video>./video/Virtua Fighter (Europe).mp4</video>
 		<marquee>./marquee/Virtua Fighter (Japan, USA) (Beta) (1995-07-17).png</marquee>
+		<thumbnail>./box/Virtua Fighter (Japan, USA) (Beta) (1995-07-17).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>격투</genre>
@@ -2307,6 +2498,7 @@
 		<image>./snap/Virtua Fighter (Japan, USA) (Beta) (1995-07-21).png</image>
 		<video>./video/Virtua Fighter (Europe).mp4</video>
 		<marquee>./marquee/Virtua Fighter (Japan, USA) (Beta) (1995-07-21).png</marquee>
+		<thumbnail>./box/Virtua Fighter (Japan, USA) (Beta) (1995-07-21).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>격투</genre>
@@ -2319,6 +2511,7 @@
 		<image>./snap/Virtua Fighter (Japan, USA) (Beta) (1995-07-24).png</image>
 		<video>./video/Virtua Fighter (Europe).mp4</video>
 		<marquee>./marquee/Virtua Fighter (Japan, USA) (Beta) (1995-07-24).png</marquee>
+		<thumbnail>./box/Virtua Fighter (Japan, USA) (Beta) (1995-07-24).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>격투</genre>
@@ -2331,6 +2524,7 @@
 		<image>./snap/Virtua Fighter (Japan, USA) (Beta) (1995-07-25).png</image>
 		<video>./video/Virtua Fighter (Europe).mp4</video>
 		<marquee>./marquee/Virtua Fighter (Japan, USA) (Beta) (1995-07-25).png</marquee>
+		<thumbnail>./box/Virtua Fighter (Japan, USA) (Beta) (1995-07-25).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>격투</genre>
@@ -2343,6 +2537,7 @@
 		<image>./snap/Virtua Fighter (Japan, USA).png</image>
 		<video>./video/Virtua Fighter (Europe).mp4</video>
 		<marquee>./marquee/Virtua Fighter (Japan, USA).png</marquee>
+		<thumbnail>./box/Virtua Fighter (Japan, USA).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>격투</genre>
@@ -2355,6 +2550,7 @@
 		<image>./snap/Virtua Hamster (USA) (Proto).png</image>
 		<video>./video/Virtua Hamster (USA) (Proto).mp4</video>
 		<marquee>./marquee/Virtua Hamster (USA) (Proto).png</marquee>
+		<thumbnail>./box/Virtua Hamster (USA) (Proto).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>레이싱</genre>
@@ -2367,6 +2563,7 @@
 		<image>./snap/Virtua Racing Deluxe (Europe).png</image>
 		<video>./video/Virtua Racing Deluxe (Europe).mp4</video>
 		<marquee>./marquee/Virtua Racing Deluxe (Europe).png</marquee>
+		<thumbnail>./box/Virtua Racing Deluxe (Europe).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>레이싱</genre>
@@ -2379,6 +2576,7 @@
 		<image>./snap/Virtua Racing Deluxe (Japan).png</image>
 		<video>./video/Virtua Racing Deluxe (Europe).mp4</video>
 		<marquee>./marquee/Virtua Racing Deluxe (Japan).png</marquee>
+		<thumbnail>./box/Virtua Racing Deluxe (Japan).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>레이싱</genre>
@@ -2391,6 +2589,7 @@
 		<image>./snap/Virtua Racing Deluxe (USA) (Beta) (1994-08-22).png</image>
 		<video>./video/Virtua Racing Deluxe (Europe).mp4</video>
 		<marquee>./marquee/Virtua Racing Deluxe (USA) (Beta) (1994-08-22).png</marquee>
+		<thumbnail>./box/Virtua Racing Deluxe (USA) (Beta) (1994-08-22).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>레이싱</genre>
@@ -2403,6 +2602,7 @@
 		<image>./snap/Virtua Racing Deluxe (USA) (Beta) (1994-08-29).png</image>
 		<video>./video/Virtua Racing Deluxe (Europe).mp4</video>
 		<marquee>./marquee/Virtua Racing Deluxe (USA) (Beta) (1994-08-29).png</marquee>
+		<thumbnail>./box/Virtua Racing Deluxe (USA) (Beta) (1994-08-29).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>레이싱</genre>
@@ -2415,6 +2615,7 @@
 		<image>./snap/Virtua Racing Deluxe (USA) (Beta) (1994-09-05).png</image>
 		<video>./video/Virtua Racing Deluxe (Europe).mp4</video>
 		<marquee>./marquee/Virtua Racing Deluxe (USA) (Beta) (1994-09-05).png</marquee>
+		<thumbnail>./box/Virtua Racing Deluxe (USA) (Beta) (1994-09-05).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>레이싱</genre>
@@ -2427,6 +2628,7 @@
 		<image>./snap/Virtua Racing Deluxe (USA).png</image>
 		<video>./video/Virtua Racing Deluxe (Europe).mp4</video>
 		<marquee>./marquee/Virtua Racing Deluxe (USA).png</marquee>
+		<thumbnail>./box/Virtua Racing Deluxe (USA).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>레이싱</genre>
@@ -2439,6 +2641,7 @@
 		<image>./snap/World Series Baseball Starring Deion Sanders (USA).png</image>
 		<video>./video/World Series Baseball Starring Deion Sanders (USA).mp4</video>
 		<marquee>./marquee/World Series Baseball Starring Deion Sanders (USA).png</marquee>
+		<thumbnail>./box/World Series Baseball Starring Deion Sanders (USA).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>스포츠</genre>
@@ -2451,6 +2654,7 @@
 		<image>./snap/WWF Raw (World).png</image>
 		<video>./video/WWF Raw (World).mp4</video>
 		<marquee>./marquee/WWF Raw (World).png</marquee>
+		<thumbnail>./box/WWF Raw (World).png</thumbnail>
 		<developer>스컬프쳐드</developer>
 		<publisher>어클레임 엔터테인먼트</publisher>
 		<genre>격투</genre>
@@ -2463,6 +2667,7 @@
 		<image>./snap/WWF WrestleMania - The Arcade Game (USA).png</image>
 		<video>./video/WWF WrestleMania - The Arcade Game (USA).mp4</video>
 		<marquee>./marquee/WWF WrestleMania - The Arcade Game (USA).png</marquee>
+		<thumbnail>./box/WWF WrestleMania - The Arcade Game (USA).png</thumbnail>
 		<developer>스컬프쳐드</developer>
 		<publisher>어클레임 엔터테인먼트</publisher>
 		<genre>격투</genre>
@@ -2475,6 +2680,7 @@
 		<image>./snap/X-Men (USA) (Proto).png</image>
 		<video>./video/X-Men (USA) (Proto).mp4</video>
 		<marquee>./marquee/X-Men (USA) (Proto).png</marquee>
+		<thumbnail>./box/X-Men (USA) (Proto).png</thumbnail>
 		<developer>웨스턴 테크놀리지</developer>
 		<publisher>세가</publisher>
 		<genre>액션</genre>
@@ -2487,6 +2693,7 @@
 		<image>./snap/[BIOS] 32X M68000 (USA).png</image>
 		<video>./video/[BIOS] 32X M68000 (USA).mp4</video>
 		<marquee>./marquee/[BIOS] 32X M68000 (USA).png</marquee>
+		<thumbnail>./box/[BIOS] 32X M68000 (USA).png</thumbnail>
 		<developer/>
 		<publisher/>
 		<genre/>
@@ -2499,6 +2706,7 @@
 		<image>./snap/[BIOS] 32X SH-2 Master (USA).png</image>
 		<video>./video/[BIOS] 32X SH-2 Master (USA).mp4</video>
 		<marquee>./marquee/[BIOS] 32X SH-2 Master (USA).png</marquee>
+		<thumbnail>./box/[BIOS] 32X SH-2 Master (USA).png</thumbnail>
 		<developer/>
 		<publisher/>
 		<genre/>
@@ -2511,6 +2719,7 @@
 		<image>./snap/[BIOS] 32X SH-2 Slave (USA).png</image>
 		<video>./video/[BIOS] 32X SH-2 Slave (USA).mp4</video>
 		<marquee>./marquee/[BIOS] 32X SH-2 Slave (USA).png</marquee>
+		<thumbnail>./box/[BIOS] 32X SH-2 Slave (USA).png</thumbnail>
 		<developer/>
 		<publisher/>
 		<genre/>

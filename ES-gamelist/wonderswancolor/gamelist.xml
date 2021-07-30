@@ -5,7 +5,7 @@
 * 지원프론트엔드 : RetroPie, Recalbox, Attract-Mode
 * 지원에뮬 : Arcade(MAME, AdvMAME, FBNeo), NES, SNES, MD, GB, GBC, GBA, PCE, SMS, Sega 32X, NGP, NGPC, WS, WSC
 * 제작자 : 텐타클 팀
-* 최종수정 : August 8, 2020
+* 최종수정 : July 30, 2021
 * 카페 : http://cafe.naver.com/raspigamer
 * 레트로게임 롬 목록 한글화 자료는 오픈소스입니다. MIT 라이센스를 따르고 있으므로 라이센스와 출처(http://cafe.naver.com/raspigamer) 표시만 지켜주시면 자유롭게 사용하실 수 있습니다.
 -->
@@ -15,6 +15,7 @@
 		<image>./snap/Alchemist Marie &amp; Elie - Futari no Atelier (Japan).png</image>
 		<video>./video/Alchemist Marie &amp; Elie - Futari no Atelier (Japan).mp4</video>
 		<marquee>./marquee/Alchemist Marie &amp; Elie - Futari no Atelier (Japan).png</marquee>
+		<thumbnail>./box/Alchemist Marie &amp; Elie - Futari no Atelier (Japan).png</thumbnail>
 		<developer>거스트</developer>
 		<publisher>거스트</publisher>
 		<genre>롤플레잉</genre>
@@ -27,6 +28,7 @@
 		<image>./snap/Another Heaven - Memory of those Days (Japan).png</image>
 		<video>./video/Another Heaven - Memory of those Days (Japan).mp4</video>
 		<marquee>./marquee/Another Heaven - Memory of those Days (Japan).png</marquee>
+		<thumbnail>./box/Another Heaven - Memory of those Days (Japan).png</thumbnail>
 		<developer>오메가 미코트</developer>
 		<publisher>반다이</publisher>
 		<genre>어드벤처</genre>
@@ -39,6 +41,7 @@
 		<image>./snap/Arc the Lad - Kishin Fukkatsu (Japan).png</image>
 		<video>./video/Arc the Lad - Kishin Fukkatsu (Japan).mp4</video>
 		<marquee>./marquee/Arc the Lad - Kishin Fukkatsu (Japan).png</marquee>
+		<thumbnail>./box/Arc the Lad - Kishin Fukkatsu (Japan).png</thumbnail>
 		<developer>반다이</developer>
 		<publisher>반다이</publisher>
 		<genre>롤플레잉</genre>
@@ -51,6 +54,7 @@
 		<image>./snap/Battle Spirit - Digimon Frontier (Japan) (Rev 1).png</image>
 		<video>./video/Battle Spirit - Digimon Frontier (Japan) (Rev 1).mp4</video>
 		<marquee>./marquee/Battle Spirit - Digimon Frontier (Japan) (Rev 1).png</marquee>
+		<thumbnail>./box/Battle Spirit - Digimon Frontier (Japan) (Rev 1).png</thumbnail>
 		<developer>딤프</developer>
 		<publisher>반다이</publisher>
 		<genre>액션</genre>
@@ -63,6 +67,7 @@
 		<image>./snap/Blue Wing Blitz (Japan).png</image>
 		<video>./video/Blue Wing Blitz (Japan).mp4</video>
 		<marquee>./marquee/Blue Wing Blitz (Japan).png</marquee>
+		<thumbnail>./box/Blue Wing Blitz (Japan).png</thumbnail>
 		<developer>스퀘어 에닉스</developer>
 		<publisher>스퀘어 에닉스</publisher>
 		<genre>롤플레잉</genre>
@@ -75,6 +80,7 @@
 		<image>./snap/Dark Eyes - Battle Gate (Japan).png</image>
 		<video>./video/Dark Eyes - Battle Gate (Japan).mp4</video>
 		<marquee>./marquee/Dark Eyes - Battle Gate (Japan).png</marquee>
+		<thumbnail>./box/Dark Eyes - Battle Gate (Japan).png</thumbnail>
 		<developer>반다이</developer>
 		<publisher>반다이</publisher>
 		<genre>어드벤처</genre>
@@ -87,6 +93,7 @@
 		<image>./snap/Dicing Knight. (Japan).png</image>
 		<video>./video/Dicing Knight. (Japan).mp4</video>
 		<marquee>./marquee/Dicing Knight. (Japan).png</marquee>
+		<thumbnail>./box/Dicing Knight. (Japan).png</thumbnail>
 		<developer>플랜틴 디스포시티프</developer>
 		<publisher>큐트</publisher>
 		<genre>롤플레잉</genre>
@@ -99,6 +106,7 @@
 		<image>./snap/Digimon - Anode Tamer &amp; Cathode Tamer - Veedramon Version (Hong Kong).png</image>
 		<video>./video/Digimon - Anode Tamer &amp; Cathode Tamer - Veedramon Version (Hong Kong).mp4</video>
 		<marquee>./marquee/Digimon - Anode Tamer &amp; Cathode Tamer - Veedramon Version (Hong Kong).png</marquee>
+		<thumbnail>./box/Digimon - Anode Tamer &amp; Cathode Tamer - Veedramon Version (Hong Kong).png</thumbnail>
 		<developer>반다이</developer>
 		<publisher>반다이</publisher>
 		<genre>롤플레잉</genre>
@@ -111,6 +119,7 @@
 		<image>./snap/Digimon Adventure 02 - D1 Tamers (Japan) (Rev 1).png</image>
 		<video>./video/Digimon Adventure 02 - D1 Tamers (Japan) (Rev 1).mp4</video>
 		<marquee>./marquee/Digimon Adventure 02 - D1 Tamers (Japan) (Rev 1).png</marquee>
+		<thumbnail>./box/Digimon Adventure 02 - D1 Tamers (Japan) (Rev 1).png</thumbnail>
 		<developer>심즈</developer>
 		<publisher>반다이</publisher>
 		<genre>롤플레잉</genre>
@@ -123,6 +132,7 @@
 		<image>./snap/Digimon Adventure 02 - D1 Tamers (Japan).png</image>
 		<video>./video/Digimon Adventure 02 - D1 Tamers (Japan).mp4</video>
 		<marquee>./marquee/Digimon Adventure 02 - D1 Tamers (Japan).png</marquee>
+		<thumbnail>./box/Digimon Adventure 02 - D1 Tamers (Japan).png</thumbnail>
 		<developer>심즈</developer>
 		<publisher>반다이</publisher>
 		<genre>롤플레잉</genre>
@@ -135,6 +145,7 @@
 		<image>./snap/Digimon Tamers - Battle Spirit (Japan) (En,Ja).png</image>
 		<video>./video/Digimon Tamers - Battle Spirit (Japan) (En,Ja).mp4</video>
 		<marquee>./marquee/Digimon Tamers - Battle Spirit (Japan) (En,Ja).png</marquee>
+		<thumbnail>./box/Digimon Tamers - Battle Spirit (Japan) (En,Ja).png</thumbnail>
 		<developer>딤프</developer>
 		<publisher>반다이</publisher>
 		<genre>액션</genre>
@@ -147,6 +158,7 @@
 		<image>./snap/Digimon Tamers - Battle Spirit Ver. 1.5 (Japan).png</image>
 		<video>./video/Digimon Tamers - Battle Spirit Ver. 1.5 (Japan).mp4</video>
 		<marquee>./marquee/Digimon Tamers - Battle Spirit Ver. 1.5 (Japan).png</marquee>
+		<thumbnail>./box/Digimon Tamers - Battle Spirit Ver. 1.5 (Japan).png</thumbnail>
 		<developer>딤프</developer>
 		<publisher>반다이</publisher>
 		<genre>액션</genre>
@@ -159,6 +171,7 @@
 		<image>./snap/Digimon Tamers - Brave Tamer (Japan) (Rev 1).png</image>
 		<video>./video/Digimon Tamers - Brave Tamer (Japan) (Rev 1).mp4</video>
 		<marquee>./marquee/Digimon Tamers - Brave Tamer (Japan) (Rev 1).png</marquee>
+		<thumbnail>./box/Digimon Tamers - Brave Tamer (Japan) (Rev 1).png</thumbnail>
 		<developer>심즈</developer>
 		<publisher>반다이</publisher>
 		<genre>롤플레잉</genre>
@@ -171,6 +184,7 @@
 		<image>./snap/Digimon Tamers - Digimon Medley (Japan) (Rev 1).png</image>
 		<video>./video/Digimon Tamers - Digimon Medley (Japan) (Rev 1).mp4</video>
 		<marquee>./marquee/Digimon Tamers - Digimon Medley (Japan) (Rev 1).png</marquee>
+		<thumbnail>./box/Digimon Tamers - Digimon Medley (Japan) (Rev 1).png</thumbnail>
 		<developer>쉐이드</developer>
 		<publisher>반다이</publisher>
 		<genre>롤플레잉</genre>
@@ -183,6 +197,7 @@
 		<image>./snap/Digimon Tamers - Digimon Medley (Japan).png</image>
 		<video>./video/Digimon Tamers - Digimon Medley (Japan).mp4</video>
 		<marquee>./marquee/Digimon Tamers - Digimon Medley (Japan).png</marquee>
+		<thumbnail>./box/Digimon Tamers - Digimon Medley (Japan).png</thumbnail>
 		<developer>쉐이드</developer>
 		<publisher>반다이</publisher>
 		<genre>롤플레잉</genre>
@@ -195,6 +210,7 @@
 		<image>./snap/Digital Monster - D-Project (Japan) (Rev 1).png</image>
 		<video>./video/Digital Monster - D-Project (Japan) (Rev 1).mp4</video>
 		<marquee>./marquee/Digital Monster - D-Project (Japan) (Rev 1).png</marquee>
+		<thumbnail>./box/Digital Monster - D-Project (Japan) (Rev 1).png</thumbnail>
 		<developer>스팅</developer>
 		<publisher>반다이</publisher>
 		<genre>롤플레잉</genre>
@@ -207,6 +223,7 @@
 		<image>./snap/Digital Monster - D-Project (Japan).png</image>
 		<video>./video/Digital Monster - D-Project (Japan).mp4</video>
 		<marquee>./marquee/Digital Monster - D-Project (Japan).png</marquee>
+		<thumbnail>./box/Digital Monster - D-Project (Japan).png</thumbnail>
 		<developer>스팅</developer>
 		<publisher>반다이</publisher>
 		<genre>롤플레잉</genre>
@@ -219,6 +236,7 @@
 		<image>./snap/Digital Monster Card Game - Ver. WonderSwan Color (Japan) (Rev 2).png</image>
 		<video>./video/Digital Monster Card Game - Ver. WonderSwan Color (Japan) (Rev 2).mp4</video>
 		<marquee>./marquee/Digital Monster Card Game - Ver. WonderSwan Color (Japan) (Rev 2).png</marquee>
+		<thumbnail>./box/Digital Monster Card Game - Ver. WonderSwan Color (Japan) (Rev 2).png</thumbnail>
 		<developer>톰 크리에이트</developer>
 		<publisher>반다이</publisher>
 		<genre>전략</genre>
@@ -231,6 +249,7 @@
 		<image>./snap/Digital Monster Card Game - Ver. WonderSwan Color (Japan).png</image>
 		<video>./video/Digital Monster Card Game - Ver. WonderSwan Color (Japan).mp4</video>
 		<marquee>./marquee/Digital Monster Card Game - Ver. WonderSwan Color (Japan).png</marquee>
+		<thumbnail>./box/Digital Monster Card Game - Ver. WonderSwan Color (Japan).png</thumbnail>
 		<developer>톰 크리에이트</developer>
 		<publisher>반다이</publisher>
 		<genre>전략</genre>
@@ -243,6 +262,7 @@
 		<image>./snap/Dokodemo Hamster 3 - Odekake Saffron (Japan) (Rev 2).png</image>
 		<video>./video/Dokodemo Hamster 3 - Odekake Saffron (Japan) (Rev 2).mp4</video>
 		<marquee>./marquee/Dokodemo Hamster 3 - Odekake Saffron (Japan) (Rev 2).png</marquee>
+		<thumbnail>./box/Dokodemo Hamster 3 - Odekake Saffron (Japan) (Rev 2).png</thumbnail>
 		<developer>BEC</developer>
 		<publisher>반다이</publisher>
 		<genre>시뮬레이션</genre>
@@ -255,6 +275,7 @@
 		<image>./snap/Dragon Ball (Japan).png</image>
 		<video>./video/Dragon Ball (Japan).mp4</video>
 		<marquee>./marquee/Dragon Ball (Japan).png</marquee>
+		<thumbnail>./box/Dragon Ball (Japan).png</thumbnail>
 		<developer>반다이</developer>
 		<publisher>반다이</publisher>
 		<genre>롤플레잉</genre>
@@ -267,6 +288,7 @@
 		<image>./snap/Final Fantasy (Japan).png</image>
 		<video>./video/Final Fantasy (Japan).mp4</video>
 		<marquee>./marquee/Final Fantasy (Japan).png</marquee>
+		<thumbnail>./box/Final Fantasy (Japan).png</thumbnail>
 		<developer>스퀘어 에닉스</developer>
 		<publisher>스퀘어 에닉스</publisher>
 		<genre>롤플레잉</genre>
@@ -279,6 +301,7 @@
 		<image>./snap/Final Fantasy II (Japan).png</image>
 		<video>./video/Final Fantasy II (Japan).mp4</video>
 		<marquee>./marquee/Final Fantasy II (Japan).png</marquee>
+		<thumbnail>./box/Final Fantasy II (Japan).png</thumbnail>
 		<developer>스퀘어 에닉스</developer>
 		<publisher>스퀘어 에닉스</publisher>
 		<genre>롤플레잉</genre>
@@ -291,6 +314,7 @@
 		<image>./snap/Final Fantasy IV (Japan).png</image>
 		<video>./video/Final Fantasy IV (Japan).mp4</video>
 		<marquee>./marquee/Final Fantasy IV (Japan).png</marquee>
+		<thumbnail>./box/Final Fantasy IV (Japan).png</thumbnail>
 		<developer>스퀘어 에닉스</developer>
 		<publisher>스퀘어 에닉스</publisher>
 		<genre>롤플레잉</genre>
@@ -303,6 +327,7 @@
 		<image>./snap/Final Lap Special - GT &amp; Formula Machine (Japan).png</image>
 		<video>./video/Final Lap Special - GT &amp; Formula Machine (Japan).mp4</video>
 		<marquee>./marquee/Final Lap Special - GT &amp; Formula Machine (Japan).png</marquee>
+		<thumbnail>./box/Final Lap Special - GT &amp; Formula Machine (Japan).png</thumbnail>
 		<developer>반다이</developer>
 		<publisher>반다이</publisher>
 		<genre>운전</genre>
@@ -315,6 +340,7 @@
 		<image>./snap/Flash Koibito-kun (Japan).png</image>
 		<video>./video/Flash Koibito-kun (Japan).mp4</video>
 		<marquee>./marquee/Flash Koibito-kun (Japan).png</marquee>
+		<thumbnail>./box/Flash Koibito-kun (Japan).png</thumbnail>
 		<developer>코토 랩</developer>
 		<publisher>코분샤</publisher>
 		<genre>롤플레잉</genre>
@@ -327,6 +353,7 @@
 		<image>./snap/From TV Animation One Piece - Chopper no Daibouken (Japan).png</image>
 		<video>./video/From TV Animation One Piece - Chopper no Daibouken (Japan).mp4</video>
 		<marquee>./marquee/From TV Animation One Piece - Chopper no Daibouken (Japan).png</marquee>
+		<thumbnail>./box/From TV Animation One Piece - Chopper no Daibouken (Japan).png</thumbnail>
 		<developer>반다이</developer>
 		<publisher>반다이</publisher>
 		<genre>격투</genre>
@@ -339,6 +366,7 @@
 		<image>./snap/From TV Animation One Piece - Grand Battle Swan Colosseum (Japan).png</image>
 		<video>./video/From TV Animation One Piece - Grand Battle Swan Colosseum (Japan).mp4</video>
 		<marquee>./marquee/From TV Animation One Piece - Grand Battle Swan Colosseum (Japan).png</marquee>
+		<thumbnail>./box/From TV Animation One Piece - Grand Battle Swan Colosseum (Japan).png</thumbnail>
 		<developer>반다이</developer>
 		<publisher>반다이</publisher>
 		<genre>격투</genre>
@@ -351,6 +379,7 @@
 		<image>./snap/From TV Animation One Piece - Niji no Shima Densetsu (Japan).png</image>
 		<video>./video/From TV Animation One Piece - Niji no Shima Densetsu (Japan).mp4</video>
 		<marquee>./marquee/From TV Animation One Piece - Niji no Shima Densetsu (Japan).png</marquee>
+		<thumbnail>./box/From TV Animation One Piece - Niji no Shima Densetsu (Japan).png</thumbnail>
 		<developer>반다이</developer>
 		<publisher>반다이</publisher>
 		<genre/>
@@ -363,6 +392,7 @@
 		<image>./snap/From TV Animation One Piece - Treasure Wars (Japan) (Rev 1).png</image>
 		<video>./video/From TV Animation One Piece - Treasure Wars (Japan) (Rev 1).mp4</video>
 		<marquee>./marquee/From TV Animation One Piece - Treasure Wars (Japan) (Rev 1).png</marquee>
+		<thumbnail>./box/From TV Animation One Piece - Treasure Wars (Japan) (Rev 1).png</thumbnail>
 		<developer>반다이</developer>
 		<publisher>반다이</publisher>
 		<genre/>
@@ -375,6 +405,7 @@
 		<image>./snap/From TV Animation One Piece - Treasure Wars (Japan).png</image>
 		<video>./video/From TV Animation One Piece - Treasure Wars (Japan).mp4</video>
 		<marquee>./marquee/From TV Animation One Piece - Treasure Wars (Japan).png</marquee>
+		<thumbnail>./box/From TV Animation One Piece - Treasure Wars (Japan).png</thumbnail>
 		<developer>반다이</developer>
 		<publisher>반다이</publisher>
 		<genre/>
@@ -387,6 +418,7 @@
 		<image>./snap/From TV Animation One Piece - Treasure Wars 2 - Buggy Land e Youkoso (Japan).png</image>
 		<video>./video/From TV Animation One Piece - Treasure Wars 2 - Buggy Land e Youkoso (Japan).mp4</video>
 		<marquee>./marquee/From TV Animation One Piece - Treasure Wars 2 - Buggy Land e Youkoso (Japan).png</marquee>
+		<thumbnail>./box/From TV Animation One Piece - Treasure Wars 2 - Buggy Land e Youkoso (Japan).png</thumbnail>
 		<developer>반다이</developer>
 		<publisher>반다이</publisher>
 		<genre/>
@@ -399,6 +431,7 @@
 		<image>./snap/Front Mission (Japan).png</image>
 		<video>./video/Front Mission (Japan).mp4</video>
 		<marquee>./marquee/Front Mission (Japan).png</marquee>
+		<thumbnail>./box/Front Mission (Japan).png</thumbnail>
 		<developer>G-크래프트</developer>
 		<publisher>스퀘어 에닉스</publisher>
 		<genre>액션</genre>
@@ -411,6 +444,7 @@
 		<image>./snap/Gekitou! Crash Gear Turbo - Gear Champion League (Japan).png</image>
 		<video>./video/Gekitou! Crash Gear Turbo - Gear Champion League (Japan).mp4</video>
 		<marquee>./marquee/Gekitou! Crash Gear Turbo - Gear Champion League (Japan).png</marquee>
+		<thumbnail>./box/Gekitou! Crash Gear Turbo - Gear Champion League (Japan).png</thumbnail>
 		<developer>반다이</developer>
 		<publisher>반다이</publisher>
 		<genre/>
@@ -423,6 +457,7 @@
 		<image>./snap/Gensou Maden Saiyuuki Retribution - Hi no Ataru Basho de (Japan) (Rev 2).png</image>
 		<video>./video/Gensou Maden Saiyuuki Retribution - Hi no Ataru Basho de (Japan) (Rev 2).mp4</video>
 		<marquee>./marquee/Gensou Maden Saiyuuki Retribution - Hi no Ataru Basho de (Japan) (Rev 2).png</marquee>
+		<thumbnail>./box/Gensou Maden Saiyuuki Retribution - Hi no Ataru Basho de (Japan) (Rev 2).png</thumbnail>
 		<developer>픽팍-에어리얼</developer>
 		<publisher>무빅</publisher>
 		<genre/>
@@ -435,6 +470,7 @@
 		<image>./snap/Golden Axe (Japan).png</image>
 		<video>./video/Golden Axe (Japan).mp4</video>
 		<marquee>./marquee/Golden Axe (Japan).png</marquee>
+		<thumbnail>./box/Golden Axe (Japan).png</thumbnail>
 		<developer>세가</developer>
 		<publisher>반다이</publisher>
 		<genre>롤플레잉</genre>
@@ -447,6 +483,7 @@
 		<image>./snap/Gransta Chronicle (Japan).png</image>
 		<video>./video/Gransta Chronicle (Japan).mp4</video>
 		<marquee>./marquee/Gransta Chronicle (Japan).png</marquee>
+		<thumbnail>./box/Gransta Chronicle (Japan).png</thumbnail>
 		<developer>톰 크리에이트</developer>
 		<publisher>오메가 미코트</publisher>
 		<genre>롤플레잉</genre>
@@ -459,6 +496,7 @@
 		<image>./snap/Guilty Gear Petit (Japan).png</image>
 		<video>./video/Guilty Gear Petit (Japan).mp4</video>
 		<marquee>./marquee/Guilty Gear Petit (Japan).png</marquee>
+		<thumbnail>./box/Guilty Gear Petit (Japan).png</thumbnail>
 		<developer>아크 시스템 웍스</developer>
 		<publisher>새미</publisher>
 		<genre>격투</genre>
@@ -471,6 +509,7 @@
 		<image>./snap/Guilty Gear Petit 2 (Japan).png</image>
 		<video>./video/Guilty Gear Petit 2 (Japan).mp4</video>
 		<marquee>./marquee/Guilty Gear Petit 2 (Japan).png</marquee>
+		<thumbnail>./box/Guilty Gear Petit 2 (Japan).png</thumbnail>
 		<developer>아크 시스템 웍스</developer>
 		<publisher>새미</publisher>
 		<genre>격투</genre>
@@ -483,6 +522,7 @@
 		<image>./snap/GunPey EX (Japan).png</image>
 		<video>./video/GunPey EX (Japan).mp4</video>
 		<marquee>./marquee/GunPey EX (Japan).png</marquee>
+		<thumbnail>./box/GunPey EX (Japan).png</thumbnail>
 		<developer>코토 랩</developer>
 		<publisher>반다이</publisher>
 		<genre>시뮬레이션</genre>
@@ -495,6 +535,7 @@
 		<image>./snap/Hanjuku Hero - Ah, Sekai yo Hanjuku Nare...!! (Japan) (Rev 1).png</image>
 		<video>./video/Hanjuku Hero - Ah, Sekai yo Hanjuku Nare...!! (Japan) (Rev 1).mp4</video>
 		<marquee>./marquee/Hanjuku Hero - Ah, Sekai yo Hanjuku Nare...!! (Japan) (Rev 1).png</marquee>
+		<thumbnail>./box/Hanjuku Hero - Ah, Sekai yo Hanjuku Nare...!! (Japan) (Rev 1).png</thumbnail>
 		<developer>스퀘어 에닉스</developer>
 		<publisher>스퀘어 에닉스</publisher>
 		<genre>전략</genre>
@@ -507,6 +548,7 @@
 		<image>./snap/Hataraku Chocobo (Japan).png</image>
 		<video>./video/Hataraku Chocobo (Japan).mp4</video>
 		<marquee>./marquee/Hataraku Chocobo (Japan).png</marquee>
+		<thumbnail>./box/Hataraku Chocobo (Japan).png</thumbnail>
 		<developer>스퀘어 에닉스</developer>
 		<publisher>스퀘어 에닉스</publisher>
 		<genre>시뮬레이션</genre>
@@ -519,6 +561,7 @@
 		<image>./snap/Hunter X Hunter - Greed Island (Japan) (Rev 1).png</image>
 		<video>./video/Hunter X Hunter - Greed Island (Japan) (Rev 1).mp4</video>
 		<marquee>./marquee/Hunter X Hunter - Greed Island (Japan) (Rev 1).png</marquee>
+		<thumbnail>./box/Hunter X Hunter - Greed Island (Japan) (Rev 1).png</thumbnail>
 		<developer>반다이</developer>
 		<publisher>반다이</publisher>
 		<genre>롤플레잉</genre>
@@ -531,6 +574,7 @@
 		<image>./snap/Hunter X Hunter - Greed Island (Japan).png</image>
 		<video>./video/Hunter X Hunter - Greed Island (Japan).mp4</video>
 		<marquee>./marquee/Hunter X Hunter - Greed Island (Japan).png</marquee>
+		<thumbnail>./box/Hunter X Hunter - Greed Island (Japan).png</thumbnail>
 		<developer>반다이</developer>
 		<publisher>반다이</publisher>
 		<genre>롤플레잉</genre>
@@ -543,6 +587,7 @@
 		<image>./snap/Hunter X Hunter - Michibikareshi Mono (Japan).png</image>
 		<video>./video/Hunter X Hunter - Michibikareshi Mono (Japan).mp4</video>
 		<marquee>./marquee/Hunter X Hunter - Michibikareshi Mono (Japan).png</marquee>
+		<thumbnail>./box/Hunter X Hunter - Michibikareshi Mono (Japan).png</thumbnail>
 		<developer>반다이</developer>
 		<publisher>반다이</publisher>
 		<genre/>
@@ -555,6 +600,7 @@
 		<image>./snap/Hunter X Hunter - Sorezore no Ketsui (Japan).png</image>
 		<video>./video/Hunter X Hunter - Sorezore no Ketsui (Japan).mp4</video>
 		<marquee>./marquee/Hunter X Hunter - Sorezore no Ketsui (Japan).png</marquee>
+		<thumbnail>./box/Hunter X Hunter - Sorezore no Ketsui (Japan).png</thumbnail>
 		<developer>반다이</developer>
 		<publisher>반다이</publisher>
 		<genre/>
@@ -567,6 +613,7 @@
 		<image>./snap/Inuyasha - Fuuun Emaki (Japan).png</image>
 		<video>./video/Inuyasha - Fuuun Emaki (Japan).mp4</video>
 		<marquee>./marquee/Inuyasha - Fuuun Emaki (Japan).png</marquee>
+		<thumbnail>./box/Inuyasha - Fuuun Emaki (Japan).png</thumbnail>
 		<developer>반다이</developer>
 		<publisher>반다이</publisher>
 		<genre/>
@@ -579,6 +626,7 @@
 		<image>./snap/Inuyasha - Kagome no Sengoku Nikki (Japan).png</image>
 		<video>./video/Inuyasha - Kagome no Sengoku Nikki (Japan).mp4</video>
 		<marquee>./marquee/Inuyasha - Kagome no Sengoku Nikki (Japan).png</marquee>
+		<thumbnail>./box/Inuyasha - Kagome no Sengoku Nikki (Japan).png</thumbnail>
 		<developer>반다이</developer>
 		<publisher>반다이</publisher>
 		<genre/>
@@ -591,6 +639,7 @@
 		<image>./snap/Inuyasha - Kagome no Yume Nikki (Japan).png</image>
 		<video>./video/Inuyasha - Kagome no Yume Nikki (Japan).mp4</video>
 		<marquee>./marquee/Inuyasha - Kagome no Yume Nikki (Japan).png</marquee>
+		<thumbnail>./box/Inuyasha - Kagome no Yume Nikki (Japan).png</thumbnail>
 		<developer>반다이</developer>
 		<publisher>반다이</publisher>
 		<genre/>
@@ -603,6 +652,7 @@
 		<image>./snap/Judgement Silversword - Rebirth Edition (Japan) (Rev 4321).png</image>
 		<video>./video/Judgement Silversword - Rebirth Edition (Japan) (Rev 4321).mp4</video>
 		<marquee>./marquee/Judgement Silversword - Rebirth Edition (Japan) (Rev 4321).png</marquee>
+		<thumbnail>./box/Judgement Silversword - Rebirth Edition (Japan) (Rev 4321).png</thumbnail>
 		<developer>M-카이</developer>
 		<publisher>큐트</publisher>
 		<genre>액션</genre>
@@ -615,6 +665,7 @@
 		<image>./snap/Judgement Silversword - Rebirth Edition (Japan) (Rev 5C21).png</image>
 		<video>./video/Judgement Silversword - Rebirth Edition (Japan) (Rev 5C21).mp4</video>
 		<marquee>./marquee/Judgement Silversword - Rebirth Edition (Japan) (Rev 5C21).png</marquee>
+		<thumbnail>./box/Judgement Silversword - Rebirth Edition (Japan) (Rev 5C21).png</thumbnail>
 		<developer>M-카이</developer>
 		<publisher>큐트</publisher>
 		<genre>액션</genre>
@@ -627,6 +678,7 @@
 		<image>./snap/Kidou Senshi Gundam - Giren no Yabou - Tokubetsu Hen - Aoki Hoshi no Hasha (Japan).png</image>
 		<video>./video/Kidou Senshi Gundam - Giren no Yabou - Tokubetsu Hen - Aoki Hoshi no Hasha (Japan).mp4</video>
 		<marquee>./marquee/Kidou Senshi Gundam - Giren no Yabou - Tokubetsu Hen - Aoki Hoshi no Hasha (Japan).png</marquee>
+		<thumbnail>./box/Kidou Senshi Gundam - Giren no Yabou - Tokubetsu Hen - Aoki Hoshi no Hasha (Japan).png</thumbnail>
 		<developer>반다이</developer>
 		<publisher>반다이</publisher>
 		<genre/>
@@ -639,6 +691,7 @@
 		<image>./snap/Kidou Senshi Gundam Seed (Japan).png</image>
 		<video>./video/Kidou Senshi Gundam Seed (Japan).mp4</video>
 		<marquee>./marquee/Kidou Senshi Gundam Seed (Japan).png</marquee>
+		<thumbnail>./box/Kidou Senshi Gundam Seed (Japan).png</thumbnail>
 		<developer>반다이</developer>
 		<publisher>반다이</publisher>
 		<genre>액션</genre>
@@ -651,6 +704,7 @@
 		<image>./snap/Kidou Senshi Gundam Vol. 1 - Side 7 (Japan).png</image>
 		<video>./video/Kidou Senshi Gundam Vol. 1 - Side 7 (Japan).mp4</video>
 		<marquee>./marquee/Kidou Senshi Gundam Vol. 1 - Side 7 (Japan).png</marquee>
+		<thumbnail>./box/Kidou Senshi Gundam Vol. 1 - Side 7 (Japan).png</thumbnail>
 		<developer>반다이</developer>
 		<publisher>반다이</publisher>
 		<genre/>
@@ -663,6 +717,7 @@
 		<image>./snap/Kidou Senshi Gundam Vol. 2 - Jaburo (Japan).png</image>
 		<video>./video/Kidou Senshi Gundam Vol. 2 - Jaburo (Japan).mp4</video>
 		<marquee>./marquee/Kidou Senshi Gundam Vol. 2 - Jaburo (Japan).png</marquee>
+		<thumbnail>./box/Kidou Senshi Gundam Vol. 2 - Jaburo (Japan).png</thumbnail>
 		<developer>반다이</developer>
 		<publisher>반다이</publisher>
 		<genre/>
@@ -675,6 +730,7 @@
 		<image>./snap/Kidou Senshi Gundam Vol. 3 - A Baoa Qu (Japan).png</image>
 		<video>./video/Kidou Senshi Gundam Vol. 3 - A Baoa Qu (Japan).mp4</video>
 		<marquee>./marquee/Kidou Senshi Gundam Vol. 3 - A Baoa Qu (Japan).png</marquee>
+		<thumbnail>./box/Kidou Senshi Gundam Vol. 3 - A Baoa Qu (Japan).png</thumbnail>
 		<developer>반다이</developer>
 		<publisher>반다이</publisher>
 		<genre/>
@@ -687,6 +743,7 @@
 		<image>./snap/Kinnikuman II-Sei - Choujin Seisenshi (Japan).png</image>
 		<video>./video/Kinnikuman II-Sei - Choujin Seisenshi (Japan).mp4</video>
 		<marquee>./marquee/Kinnikuman II-Sei - Choujin Seisenshi (Japan).png</marquee>
+		<thumbnail>./box/Kinnikuman II-Sei - Choujin Seisenshi (Japan).png</thumbnail>
 		<developer>반다이</developer>
 		<publisher>반다이</publisher>
 		<genre/>
@@ -699,6 +756,7 @@
 		<image>./snap/Kinnikuman II-Sei - Dream Tag Match (Japan).png</image>
 		<video>./video/Kinnikuman II-Sei - Dream Tag Match (Japan).mp4</video>
 		<marquee>./marquee/Kinnikuman II-Sei - Dream Tag Match (Japan).png</marquee>
+		<thumbnail>./box/Kinnikuman II-Sei - Dream Tag Match (Japan).png</thumbnail>
 		<developer>토세</developer>
 		<publisher>반다이</publisher>
 		<genre>스포츠</genre>
@@ -711,6 +769,7 @@
 		<image>./snap/Kurupara! (Japan) (Rev 1).png</image>
 		<video>./video/Kurupara! (Japan) (Rev 1).mp4</video>
 		<marquee>./marquee/Kurupara! (Japan) (Rev 1).png</marquee>
+		<thumbnail>./box/Kurupara! (Japan) (Rev 1).png</thumbnail>
 		<developer>톰 크리에이트</developer>
 		<publisher>톰 크리에이트</publisher>
 		<genre>퍼즐게임</genre>
@@ -723,6 +782,7 @@
 		<image>./snap/Last Alive (Japan).png</image>
 		<video>./video/Last Alive (Japan).mp4</video>
 		<marquee>./marquee/Last Alive (Japan).png</marquee>
+		<thumbnail>./box/Last Alive (Japan).png</thumbnail>
 		<developer>반다이</developer>
 		<publisher>반다이</publisher>
 		<genre>어드벤처</genre>
@@ -735,6 +795,7 @@
 		<image>./snap/Makai Toushi Sa-Ga (Japan).png</image>
 		<video>./video/Makai Toushi Sa-Ga (Japan).mp4</video>
 		<marquee>./marquee/Makai Toushi Sa-Ga (Japan).png</marquee>
+		<thumbnail>./box/Makai Toushi Sa-Ga (Japan).png</thumbnail>
 		<developer>스퀘어 에닉스</developer>
 		<publisher>스퀘어 에닉스</publisher>
 		<genre/>
@@ -747,6 +808,7 @@
 		<image>./snap/mama Mitte (Japan) (Program).png</image>
 		<video>./video/mama Mitte (Japan) (Program).mp4</video>
 		<marquee>./marquee/mama Mitte (Japan) (Program).png</marquee>
+		<thumbnail>./box/mama Mitte (Japan) (Program).png</thumbnail>
 		<developer/>
 		<publisher/>
 		<genre/>
@@ -759,6 +821,7 @@
 		<image>./snap/Meitantei Conan - Yuugure no Oujo (Japan).png</image>
 		<video>./video/Meitantei Conan - Yuugure no Oujo (Japan).mp4</video>
 		<marquee>./marquee/Meitantei Conan - Yuugure no Oujo (Japan).png</marquee>
+		<thumbnail>./box/Meitantei Conan - Yuugure no Oujo (Japan).png</thumbnail>
 		<developer>반다이</developer>
 		<publisher>반다이</publisher>
 		<genre/>
@@ -771,6 +834,7 @@
 		<image>./snap/Memories Off - Festa (Japan).png</image>
 		<video>./video/Memories Off - Festa (Japan).mp4</video>
 		<marquee>./marquee/Memories Off - Festa (Japan).png</marquee>
+		<thumbnail>./box/Memories Off - Festa (Japan).png</thumbnail>
 		<developer>키드</developer>
 		<publisher>키드</publisher>
 		<genre/>
@@ -783,6 +847,7 @@
 		<image>./snap/Mikeneko Holmes - Ghost Panic (Japan).png</image>
 		<video>./video/Mikeneko Holmes - Ghost Panic (Japan).mp4</video>
 		<marquee>./marquee/Mikeneko Holmes - Ghost Panic (Japan).png</marquee>
+		<thumbnail>./box/Mikeneko Holmes - Ghost Panic (Japan).png</thumbnail>
 		<developer>민트줄렙</developer>
 		<publisher>코분샤</publisher>
 		<genre/>
@@ -795,6 +860,7 @@
 		<image>./snap/Mr. Driller (Japan).png</image>
 		<video>./video/Mr. Driller (Japan).mp4</video>
 		<marquee>./marquee/Mr. Driller (Japan).png</marquee>
+		<thumbnail>./box/Mr. Driller (Japan).png</thumbnail>
 		<developer>남코</developer>
 		<publisher>남코</publisher>
 		<genre>퍼즐게임</genre>
@@ -807,6 +873,7 @@
 		<image>./snap/Namco Super Wars (Japan).png</image>
 		<video>./video/Namco Super Wars (Japan).mp4</video>
 		<marquee>./marquee/Namco Super Wars (Japan).png</marquee>
+		<thumbnail>./box/Namco Super Wars (Japan).png</thumbnail>
 		<developer>남코</developer>
 		<publisher>반다이</publisher>
 		<genre>전략</genre>
@@ -819,6 +886,7 @@
 		<image>./snap/Naruto - Konoha Ninpouchou (Japan).png</image>
 		<video>./video/Naruto - Konoha Ninpouchou (Japan).mp4</video>
 		<marquee>./marquee/Naruto - Konoha Ninpouchou (Japan).png</marquee>
+		<thumbnail>./box/Naruto - Konoha Ninpouchou (Japan).png</thumbnail>
 		<developer>BEC</developer>
 		<publisher>반다이</publisher>
 		<genre>롤플레잉</genre>
@@ -831,6 +899,7 @@
 		<image>./snap/Pocket no Naka no Doraemon (Japan).png</image>
 		<video>./video/Pocket no Naka no Doraemon (Japan).mp4</video>
 		<marquee>./marquee/Pocket no Naka no Doraemon (Japan).png</marquee>
+		<thumbnail>./box/Pocket no Naka no Doraemon (Japan).png</thumbnail>
 		<developer>반다이</developer>
 		<publisher>반다이</publisher>
 		<genre>전략</genre>
@@ -843,6 +912,7 @@
 		<image>./snap/Raku Jongg (Japan).png</image>
 		<video>./video/Raku Jongg (Japan).mp4</video>
 		<marquee>./marquee/Raku Jongg (Japan).png</marquee>
+		<thumbnail>./box/Raku Jongg (Japan).png</thumbnail>
 		<developer>엔터브레인</developer>
 		<publisher>반다이</publisher>
 		<genre/>
@@ -855,6 +925,7 @@
 		<image>./snap/Rhyme Rider Kerorican (Japan).png</image>
 		<video>./video/Rhyme Rider Kerorican (Japan).mp4</video>
 		<marquee>./marquee/Rhyme Rider Kerorican (Japan).png</marquee>
+		<thumbnail>./box/Rhyme Rider Kerorican (Japan).png</thumbnail>
 		<developer>나나온샤</developer>
 		<publisher>반다이</publisher>
 		<genre>전략</genre>
@@ -867,6 +938,7 @@
 		<image>./snap/Riviera - Yakusoku no Chi Riviera (Japan).png</image>
 		<video>./video/Riviera - Yakusoku no Chi Riviera (Japan).mp4</video>
 		<marquee>./marquee/Riviera - Yakusoku no Chi Riviera (Japan).png</marquee>
+		<thumbnail>./box/Riviera - Yakusoku no Chi Riviera (Japan).png</thumbnail>
 		<developer>스팅</developer>
 		<publisher>반다이</publisher>
 		<genre>롤플레잉</genre>
@@ -879,6 +951,7 @@
 		<image>./snap/Rockman EXE - N1 Battle (Japan) (Rev 1).png</image>
 		<video>./video/Rockman EXE - N1 Battle (Japan) (Rev 1).mp4</video>
 		<marquee>./marquee/Rockman EXE - N1 Battle (Japan) (Rev 1).png</marquee>
+		<thumbnail>./box/Rockman EXE - N1 Battle (Japan) (Rev 1).png</thumbnail>
 		<developer>인티 크리에이트</developer>
 		<publisher>캡콤</publisher>
 		<genre>롤플레잉</genre>
@@ -891,6 +964,7 @@
 		<image>./snap/Rockman EXE WS (Japan).png</image>
 		<video>./video/Rockman EXE WS (Japan).mp4</video>
 		<marquee>./marquee/Rockman EXE WS (Japan).png</marquee>
+		<thumbnail>./box/Rockman EXE WS (Japan).png</thumbnail>
 		<developer>캡콤</developer>
 		<publisher>캡콤</publisher>
 		<genre/>
@@ -903,6 +977,7 @@
 		<image>./snap/Romancing Sa-Ga (Japan).png</image>
 		<video>./video/Romancing Sa-Ga (Japan).mp4</video>
 		<marquee>./marquee/Romancing Sa-Ga (Japan).png</marquee>
+		<thumbnail>./box/Romancing Sa-Ga (Japan).png</thumbnail>
 		<developer>스퀘어 에닉스</developer>
 		<publisher>스퀘어 에닉스</publisher>
 		<genre>롤플레잉</genre>
@@ -915,6 +990,7 @@
 		<image>./snap/RUN=DIM - Return to Earth (Japan).png</image>
 		<video>./video/RUN=DIM - Return to Earth (Japan).mp4</video>
 		<marquee>./marquee/RUN=DIM - Return to Earth (Japan).png</marquee>
+		<thumbnail>./box/RUN=DIM - Return to Earth (Japan).png</thumbnail>
 		<developer>디지털 드림즈</developer>
 		<publisher>디지털 드림즈</publisher>
 		<genre/>
@@ -927,6 +1003,7 @@
 		<image>./snap/Saint Seiya - Ougon Densetsu Hen - Perfect Edition (Japan).png</image>
 		<video>./video/Saint Seiya - Ougon Densetsu Hen - Perfect Edition (Japan).mp4</video>
 		<marquee>./marquee/Saint Seiya - Ougon Densetsu Hen - Perfect Edition (Japan).png</marquee>
+		<thumbnail>./box/Saint Seiya - Ougon Densetsu Hen - Perfect Edition (Japan).png</thumbnail>
 		<developer>토세</developer>
 		<publisher>반다이</publisher>
 		<genre>격투</genre>
@@ -939,6 +1016,7 @@
 		<image>./snap/SD Gundam - Operation U.C. (Japan).png</image>
 		<video>./video/SD Gundam - Operation U.C. (Japan).mp4</video>
 		<marquee>./marquee/SD Gundam - Operation U.C. (Japan).png</marquee>
+		<thumbnail>./box/SD Gundam - Operation U.C. (Japan).png</thumbnail>
 		<developer>반다이</developer>
 		<publisher>반다이</publisher>
 		<genre/>
@@ -951,6 +1029,7 @@
 		<image>./snap/SD Gundam Eiyuu Den - Kishi Densetsu (Japan).png</image>
 		<video>./video/SD Gundam Eiyuu Den - Kishi Densetsu (Japan).mp4</video>
 		<marquee>./marquee/SD Gundam Eiyuu Den - Kishi Densetsu (Japan).png</marquee>
+		<thumbnail>./box/SD Gundam Eiyuu Den - Kishi Densetsu (Japan).png</thumbnail>
 		<developer>반다이</developer>
 		<publisher>반다이</publisher>
 		<genre/>
@@ -963,6 +1042,7 @@
 		<image>./snap/SD Gundam Eiyuu Den - Musha Densetsu (Japan).png</image>
 		<video>./video/SD Gundam Eiyuu Den - Musha Densetsu (Japan).mp4</video>
 		<marquee>./marquee/SD Gundam Eiyuu Den - Musha Densetsu (Japan).png</marquee>
+		<thumbnail>./box/SD Gundam Eiyuu Den - Musha Densetsu (Japan).png</thumbnail>
 		<developer>반다이</developer>
 		<publisher>반다이</publisher>
 		<genre/>
@@ -975,6 +1055,7 @@
 		<image>./snap/SD Gundam G Generation - Gather Beat 2 (Japan).png</image>
 		<video>./video/SD Gundam G Generation - Gather Beat 2 (Japan).mp4</video>
 		<marquee>./marquee/SD Gundam G Generation - Gather Beat 2 (Japan).png</marquee>
+		<thumbnail>./box/SD Gundam G Generation - Gather Beat 2 (Japan).png</thumbnail>
 		<developer>반다이</developer>
 		<publisher>반다이</publisher>
 		<genre/>
@@ -987,6 +1068,7 @@
 		<image>./snap/SD Gundam G Generation - Mono-Eye Gundams (Japan).png</image>
 		<video>./video/SD Gundam G Generation - Mono-Eye Gundams (Japan).mp4</video>
 		<marquee>./marquee/SD Gundam G Generation - Mono-Eye Gundams (Japan).png</marquee>
+		<thumbnail>./box/SD Gundam G Generation - Mono-Eye Gundams (Japan).png</thumbnail>
 		<developer>반다이</developer>
 		<publisher>반다이</publisher>
 		<genre/>
@@ -999,6 +1081,7 @@
 		<image>./snap/Senkaiden Ni - TV Animation Senkaiden Houshin Engi Yori (Japan).png</image>
 		<video>./video/Senkaiden Ni - TV Animation Senkaiden Houshin Engi Yori (Japan).mp4</video>
 		<marquee>./marquee/Senkaiden Ni - TV Animation Senkaiden Houshin Engi Yori (Japan).png</marquee>
+		<thumbnail>./box/Senkaiden Ni - TV Animation Senkaiden Houshin Engi Yori (Japan).png</thumbnail>
 		<developer>반다이</developer>
 		<publisher>반다이</publisher>
 		<genre/>
@@ -1011,6 +1094,7 @@
 		<image>./snap/Shaman King - Asu e no Ishi (Japan) (Rev 1).png</image>
 		<video>./video/Shaman King - Asu e no Ishi (Japan) (Rev 1).mp4</video>
 		<marquee>./marquee/Shaman King - Asu e no Ishi (Japan) (Rev 1).png</marquee>
+		<thumbnail>./box/Shaman King - Asu e no Ishi (Japan) (Rev 1).png</thumbnail>
 		<developer>반다이</developer>
 		<publisher>반다이</publisher>
 		<genre/>
@@ -1023,6 +1107,7 @@
 		<image>./snap/Shaman King - Asu e no Ishi (Japan).png</image>
 		<video>./video/Shaman King - Asu e no Ishi (Japan).mp4</video>
 		<marquee>./marquee/Shaman King - Asu e no Ishi (Japan).png</marquee>
+		<thumbnail>./box/Shaman King - Asu e no Ishi (Japan).png</thumbnail>
 		<developer>반다이</developer>
 		<publisher>반다이</publisher>
 		<genre/>
@@ -1035,6 +1120,7 @@
 		<image>./snap/Sorobang (Japan) (Rev 1).png</image>
 		<video>./video/Sorobang (Japan) (Rev 1).mp4</video>
 		<marquee>./marquee/Sorobang (Japan) (Rev 1).png</marquee>
+		<thumbnail>./box/Sorobang (Japan) (Rev 1).png</thumbnail>
 		<developer>메카닉 암즈</developer>
 		<publisher>낙삿 소프트</publisher>
 		<genre/>
@@ -1047,6 +1133,7 @@
 		<image>./snap/Star Hearts - Hoshi to Daichi no Shisha (Japan).png</image>
 		<video>./video/Star Hearts - Hoshi to Daichi no Shisha (Japan).mp4</video>
 		<marquee>./marquee/Star Hearts - Hoshi to Daichi no Shisha (Japan).png</marquee>
+		<thumbnail>./box/Star Hearts - Hoshi to Daichi no Shisha (Japan).png</thumbnail>
 		<developer>반다이</developer>
 		<publisher>반다이</publisher>
 		<genre/>
@@ -1059,6 +1146,7 @@
 		<image>./snap/Star Hearts - Hoshi to Daichi no Shisha - Taikenban (Japan) (Not For Sale).png</image>
 		<video>./video/Star Hearts - Hoshi to Daichi no Shisha - Taikenban (Japan) (Not For Sale).mp4</video>
 		<marquee>./marquee/Star Hearts - Hoshi to Daichi no Shisha - Taikenban (Japan) (Not For Sale).png</marquee>
+		<thumbnail>./box/Star Hearts - Hoshi to Daichi no Shisha - Taikenban (Japan) (Not For Sale).png</thumbnail>
 		<developer>반다이</developer>
 		<publisher>반다이</publisher>
 		<genre/>
@@ -1071,6 +1159,7 @@
 		<image>./snap/Super Robot Taisen Compact 3 (Japan) (Rev 5).png</image>
 		<video>./video/Super Robot Taisen Compact 3 (Japan) (Rev 5).mp4</video>
 		<marquee>./marquee/Super Robot Taisen Compact 3 (Japan) (Rev 5).png</marquee>
+		<thumbnail>./box/Super Robot Taisen Compact 3 (Japan) (Rev 5).png</thumbnail>
 		<developer>반프레스토</developer>
 		<publisher>반프레스토</publisher>
 		<genre>전략</genre>
@@ -1083,6 +1172,7 @@
 		<image>./snap/Super Robot Taisen Compact 3 (Japan) (Rev 6).png</image>
 		<video>./video/Super Robot Taisen Compact 3 (Japan) (Rev 6).mp4</video>
 		<marquee>./marquee/Super Robot Taisen Compact 3 (Japan) (Rev 6).png</marquee>
+		<thumbnail>./box/Super Robot Taisen Compact 3 (Japan) (Rev 6).png</thumbnail>
 		<developer>반프레스토</developer>
 		<publisher>반프레스토</publisher>
 		<genre>전략</genre>
@@ -1095,6 +1185,7 @@
 		<image>./snap/Super Robot Taisen Compact for WonderSwan Color (Japan).png</image>
 		<video>./video/Super Robot Taisen Compact for WonderSwan Color (Japan).mp4</video>
 		<marquee>./marquee/Super Robot Taisen Compact for WonderSwan Color (Japan).png</marquee>
+		<thumbnail>./box/Super Robot Taisen Compact for WonderSwan Color (Japan).png</thumbnail>
 		<developer>반프레스토</developer>
 		<publisher>반프레스토</publisher>
 		<genre>전략</genre>
@@ -1107,6 +1198,7 @@
 		<image>./snap/Terrors 2 (Japan).png</image>
 		<video>./video/Terrors 2 (Japan).mp4</video>
 		<marquee>./marquee/Terrors 2 (Japan).png</marquee>
+		<thumbnail>./box/Terrors 2 (Japan).png</thumbnail>
 		<developer>테러2프로젝트</developer>
 		<publisher>반다이</publisher>
 		<genre>격투</genre>
@@ -1119,6 +1211,7 @@
 		<image>./snap/Tetris (Japan).png</image>
 		<video>./video/Tetris (Japan).mp4</video>
 		<marquee>./marquee/Tetris (Japan).png</marquee>
+		<thumbnail>./box/Tetris (Japan).png</thumbnail>
 		<developer>엘로그</developer>
 		<publisher>뱅가드 웍스</publisher>
 		<genre>퍼즐게임</genre>
@@ -1131,6 +1224,7 @@
 		<image>./snap/Tonpuusou (Japan).png</image>
 		<video>./video/Tonpuusou (Japan).mp4</video>
 		<marquee>./marquee/Tonpuusou (Japan).png</marquee>
+		<thumbnail>./box/Tonpuusou (Japan).png</thumbnail>
 		<developer>반다이</developer>
 		<publisher>반다이</publisher>
 		<genre/>
@@ -1143,6 +1237,7 @@
 		<image>./snap/Uchuu Senkan Yamato (Japan).png</image>
 		<video>./video/Uchuu Senkan Yamato (Japan).mp4</video>
 		<marquee>./marquee/Uchuu Senkan Yamato (Japan).png</marquee>
+		<thumbnail>./box/Uchuu Senkan Yamato (Japan).png</thumbnail>
 		<developer>톰 크리에이트</developer>
 		<publisher>반다이</publisher>
 		<genre/>
@@ -1155,6 +1250,7 @@
 		<image>./snap/Ultraman - Hikari no Kuni no Shisha (Japan).png</image>
 		<video>./video/Ultraman - Hikari no Kuni no Shisha (Japan).mp4</video>
 		<marquee>./marquee/Ultraman - Hikari no Kuni no Shisha (Japan).png</marquee>
+		<thumbnail>./box/Ultraman - Hikari no Kuni no Shisha (Japan).png</thumbnail>
 		<developer>반다이</developer>
 		<publisher>반다이</publisher>
 		<genre/>
@@ -1167,6 +1263,7 @@
 		<image>./snap/Wild Card (Japan).png</image>
 		<video>./video/Wild Card (Japan).mp4</video>
 		<marquee>./marquee/Wild Card (Japan).png</marquee>
+		<thumbnail>./box/Wild Card (Japan).png</thumbnail>
 		<developer>스퀘어 에닉스</developer>
 		<publisher>스퀘어 에닉스</publisher>
 		<genre>롤플레잉</genre>
@@ -1179,6 +1276,7 @@
 		<image>./snap/With You - Mitsumete Itai (Japan).png</image>
 		<video>./video/With You - Mitsumete Itai (Japan).mp4</video>
 		<marquee>./marquee/With You - Mitsumete Itai (Japan).png</marquee>
+		<thumbnail>./box/With You - Mitsumete Itai (Japan).png</thumbnail>
 		<developer>칵테일 소프트</developer>
 		<publisher>쉘 럭</publisher>
 		<genre>어드벤처</genre>
@@ -1191,6 +1289,7 @@
 		<image>./snap/Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (Japan).png</image>
 		<video>./video/Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (Japan).mp4</video>
 		<marquee>./marquee/Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (Japan).png</marquee>
+		<thumbnail>./box/Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (Japan).png</thumbnail>
 		<developer>서테크</developer>
 		<publisher>반다이</publisher>
 		<genre>롤플레잉</genre>
@@ -1203,6 +1302,7 @@
 		<image>./snap/Wonder Classic (Japan).png</image>
 		<video>./video/Wonder Classic (Japan).mp4</video>
 		<marquee>./marquee/Wonder Classic (Japan).png</marquee>
+		<thumbnail>./box/Wonder Classic (Japan).png</thumbnail>
 		<developer>남코</developer>
 		<publisher>반다이</publisher>
 		<genre>퍼즐게임</genre>
@@ -1215,6 +1315,7 @@
 		<image>./snap/X - Card of Fate (Japan).png</image>
 		<video>./video/X - Card of Fate (Japan).mp4</video>
 		<marquee>./marquee/X - Card of Fate (Japan).png</marquee>
+		<thumbnail>./box/X - Card of Fate (Japan).png</thumbnail>
 		<developer>엑세스 게임즈</developer>
 		<publisher>반다이</publisher>
 		<genre/>
@@ -1227,6 +1328,7 @@
 		<image>./snap/XI Little (Japan).png</image>
 		<video>./video/XI Little (Japan).mp4</video>
 		<marquee>./marquee/XI Little (Japan).png</marquee>
+		<thumbnail>./box/XI Little (Japan).png</thumbnail>
 		<developer>MBI</developer>
 		<publisher>남코</publisher>
 		<genre>퍼즐게임</genre>
@@ -1239,6 +1341,7 @@
 		<image>./snap/[BIOS] WonderSwan Color Boot ROM (Japan) (En).png</image>
 		<video>./video/[BIOS] WonderSwan Color Boot ROM (Japan) (En).mp4</video>
 		<marquee>./marquee/[BIOS] WonderSwan Color Boot ROM (Japan) (En).png</marquee>
+		<thumbnail>./box/[BIOS] WonderSwan Color Boot ROM (Japan) (En).png</thumbnail>
 		<developer/>
 		<publisher/>
 		<genre/>
