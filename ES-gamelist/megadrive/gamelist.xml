@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <!--
 * 제목 : 레트로게임 롬 목록 한글화 프로젝트
@@ -10216,7 +10216,7 @@
 	</game>
 	<game>
 		<path>./Grind Stormer (USA).zip</path>
-		<name>그리드 스토머</name>
+		<name>그라인드 스토머</name>
 		<image>./snap/Grind Stormer (USA).png</image>
 		<video>./video/Grind Stormer (USA).mp4</video>
 		<marquee>./marquee/Grind Stormer (USA).png</marquee>
