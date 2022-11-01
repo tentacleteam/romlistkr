@@ -2,10 +2,10 @@
 
 * 제목 : 레트로게임 롬 목록 한글화 프로젝트
 * 제작자 : 텐타클 팀
-* 최종수정 : Aug 08, 2020
+* 최종수정 : Nov 01, 2022
 * 이메일 : losernator@gmail.com
 * 카페 : http://cafe.naver.com/raspigamer
-* 지원프론트엔드 : RetroPie, Recalbox, Attract-Mode
+* 지원프론트엔드 : RetroPie, Recalbox, Attract-Mode, Batocera
 * 지원에뮬 : Arcade(MAME, AdvMAME, FBA), NES, SNES, Mega Drive, MSX, MSX2, NEOGEO, GBA, PCA, SMS, Sega 32X, NG, NGPC, WS, WSC
 * 레트로게임 롬 목록 한글화 자료는 오픈소스입니다. MIT 라이센스를 따르고 있으므로 라이센스와 출처(http://cafe.naver.com/raspigamer) 표시만 지켜주시면 자유롭게 사용하실 수 있습니다.
 
@@ -24,18 +24,18 @@ sudo ./install.sh</code></pre>
 
 
 ### Romset Reference
-* Microsoft - MSX (20190115-064810)
-* Microsoft - MSX2 (20190115-063003)
-* Sega - Master System - Mark III (20200429-062328)
-* Sega - Mega Drive - Genesis (20200720-221421)
-* Sega - 32X (20191204-183941)
-* Nintendo - Super Nintendo Entertainment System (20200802-011312)
-* Nintendo - Nintendo Entertainment System (20200727-154945)
+* Microsoft - MSX (20220906-125122)
+* Microsoft - MSX2 (20220826-221100)
+* Sega - 32X (20220501-212720)
+* Sega - Mega Drive - Genesis (20221005-040019)
+* Sega - Master System - Mark III (20220910-101117)
+* NEC - PC Engine SuperGrafx (20210905-042020)
+* NEC - PC Engine - TurboGrafx 16 (20220826-220704)
+* Nintendo - Nintendo Entertainment System (20221027-010229) [headered
+* Nintendo - Super Nintendo Entertainment System (20221013-105742)
 * Nintendo - Game Boy Advance (20200715-093546)
 * Nintendo - Game Boy Color (20200626-155317)
 * Nintendo - Game Boy (20200715-095243)
-* NEC - PC Engine - TurboGrafx 16 (20200628-105302)
-* NEC - PC Engine SuperGrafx (20191209-202241)
 * Bandai - WonderSwan (20200427-065439)
 * Bandai - WonderSwan Color (20200324-193106)
 * SNK - Neo Geo Pocket (20190930-190238)

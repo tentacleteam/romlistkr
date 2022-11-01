@@ -7,8 +7,6 @@
 		<video>./video/1943 Kai (Japan).mp4</video>
 		<marquee>./marquee/1943 Kai (Japan).png</marquee>
 		<thumbnail>./box/1943 Kai (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19910322T000000</releasedate>
 	</game>
 	<game>
 		<path>./21 Emon - Mezase Hotel Ou!! (Japan).zip</path>
@@ -17,8 +15,6 @@
 		<video>./video/21 Emon - Mezase Hotel Ou!! (Japan).mp4</video>
 		<marquee>./marquee/21 Emon - Mezase Hotel Ou!! (Japan).png</marquee>
 		<thumbnail>./box/21 Emon - Mezase Hotel Ou!! (Japan).png</thumbnail>
-		<players>4</players>
-		<releasedate>19941216T000000</releasedate>
 	</game>
 	<game>
 		<path>./Adventure Island (Japan).zip</path>
@@ -27,8 +23,6 @@
 		<video>./video/Dragon's Curse (USA).mp4</video>
 		<marquee>./marquee/Adventure Island (Japan).png</marquee>
 		<thumbnail>./box/Adventure Island (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19910419T000000</releasedate>
 	</game>
 	<game>
 		<path>./Aero Blasters (Japan).zip</path>
@@ -37,8 +31,6 @@
 		<video>./video/Aero Blasters (USA).mp4</video>
 		<marquee>./marquee/Aero Blasters (Japan).png</marquee>
 		<thumbnail>./box/Aero Blasters (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19901102T000000</releasedate>
 	</game>
 	<game>
 		<path>./Aero Blasters (USA).zip</path>
@@ -47,8 +39,6 @@
 		<video>./video/Aero Blasters (USA).mp4</video>
 		<marquee>./marquee/Aero Blasters (USA).png</marquee>
 		<thumbnail>./box/Aero Blasters (USA).png</thumbnail>
-		<players>2</players>
-		<releasedate>19901102T000000</releasedate>
 	</game>
 	<game>
 		<path>./After Burner II (Japan).zip</path>
@@ -57,8 +47,6 @@
 		<video>./video/After Burner II (Japan).mp4</video>
 		<marquee>./marquee/After Burner II (Japan).png</marquee>
 		<thumbnail>./box/After Burner II (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19900928T000000</releasedate>
 	</game>
 	<game>
 		<path>./Air Zonk (USA).zip</path>
@@ -67,8 +55,6 @@
 		<video>./video/Air Zonk (USA).mp4</video>
 		<marquee>./marquee/Air Zonk (USA).png</marquee>
 		<thumbnail>./box/Air Zonk (USA).png</thumbnail>
-		<players>1</players>
-		<releasedate>19920101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Alien Crush (Japan).zip</path>
@@ -77,8 +63,6 @@
 		<video>./video/Alien Crush (USA).mp4</video>
 		<marquee>./marquee/Alien Crush (Japan).png</marquee>
 		<thumbnail>./box/Alien Crush (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19880914T000000</releasedate>
 	</game>
 	<game>
 		<path>./Alien Crush (USA).zip</path>
@@ -87,8 +71,6 @@
 		<video>./video/Alien Crush (USA).mp4</video>
 		<marquee>./marquee/Alien Crush (USA).png</marquee>
 		<thumbnail>./box/Alien Crush (USA).png</thumbnail>
-		<players>1</players>
-		<releasedate>19880914T000000</releasedate>
 	</game>
 	<game>
 		<path>./All Star Power League (Japan).zip</path>
@@ -97,8 +79,6 @@
 		<video>./video/World Class Baseball (USA).mp4</video>
 		<marquee>./marquee/All Star Power League (Japan).png</marquee>
 		<thumbnail>./box/All Star Power League (Japan).png</thumbnail>
-		<players/>
-		<releasedate/>
 	</game>
 	<game>
 		<path>./Andre Panza Kick Boxing (USA).zip</path>
@@ -107,8 +87,6 @@
 		<video>./video/Andre Panza Kick Boxing (USA).mp4</video>
 		<marquee>./marquee/Andre Panza Kick Boxing (USA).png</marquee>
 		<thumbnail>./box/Andre Panza Kick Boxing (USA).png</thumbnail>
-		<players>2</players>
-		<releasedate>19910101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Ankoku Densetsu (Japan).zip</path>
@@ -117,8 +95,6 @@
 		<video>./video/Legendary Axe II (USA).mp4</video>
 		<marquee>./marquee/Ankoku Densetsu (Japan).png</marquee>
 		<thumbnail>./box/Ankoku Densetsu (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19900907T000000</releasedate>
 	</game>
 	<game>
 		<path>./Aoi Blink (Japan).zip</path>
@@ -127,8 +103,6 @@
 		<video>./video/Aoi Blink (Japan).mp4</video>
 		<marquee>./marquee/Aoi Blink (Japan).png</marquee>
 		<thumbnail>./box/Aoi Blink (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19900427T000000</releasedate>
 	</game>
 	<game>
 		<path>./Appare! Gateball (Japan).zip</path>
@@ -137,8 +111,6 @@
 		<video>./video/Appare! Gateball (Japan).mp4</video>
 		<marquee>./marquee/Appare! Gateball (Japan).png</marquee>
 		<thumbnail>./box/Appare! Gateball (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19881222T000000</releasedate>
 	</game>
 	<game>
 		<path>./Armed F (Japan).zip</path>
@@ -147,8 +119,6 @@
 		<video>./video/Armed F (Japan).mp4</video>
 		<marquee>./marquee/Armed F (Japan).png</marquee>
 		<thumbnail>./box/Armed F (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19900323T000000</releasedate>
 	</game>
 	<game>
 		<path>./Artist Tool (Japan).zip</path>
@@ -157,8 +127,6 @@
 		<video>./video/Artist Tool (Japan).mp4</video>
 		<marquee>./marquee/Artist Tool (Japan).png</marquee>
 		<thumbnail>./box/Artist Tool (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19890929T000000</releasedate>
 	</game>
 	<game>
 		<path>./Atomic Robo-Kid Special (Japan).zip</path>
@@ -167,8 +135,6 @@
 		<video>./video/Atomic Robo-Kid Special (Japan).mp4</video>
 		<marquee>./marquee/Atomic Robo-Kid Special (Japan).png</marquee>
 		<thumbnail>./box/Atomic Robo-Kid Special (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19900119T000000</releasedate>
 	</game>
 	<game>
 		<path>./AV Poker - World Gambler (Japan) (Unl).zip</path>
@@ -177,8 +143,6 @@
 		<video>./video/AV Poker - World Gambler (Japan) (Unl).mp4</video>
 		<marquee>./marquee/AV Poker - World Gambler (Japan) (Unl).png</marquee>
 		<thumbnail>./box/AV Poker - World Gambler (Japan) (Unl).png</thumbnail>
-		<players>4</players>
-		<releasedate>19920101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Ballistix (Japan).zip</path>
@@ -187,8 +151,6 @@
 		<video>./video/Ballistix (USA).mp4</video>
 		<marquee>./marquee/Ballistix (Japan).png</marquee>
 		<thumbnail>./box/Ballistix (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19911213T000000</releasedate>
 	</game>
 	<game>
 		<path>./Ballistix (USA).zip</path>
@@ -197,8 +159,6 @@
 		<video>./video/Ballistix (USA).mp4</video>
 		<marquee>./marquee/Ballistix (USA).png</marquee>
 		<thumbnail>./box/Ballistix (USA).png</thumbnail>
-		<players>2</players>
-		<releasedate>19911213T000000</releasedate>
 	</game>
 	<game>
 		<path>./Bari Bari Densetsu (Japan).zip</path>
@@ -207,8 +167,6 @@
 		<video>./video/Bari Bari Densetsu (Japan).mp4</video>
 		<marquee>./marquee/Bari Bari Densetsu (Japan).png</marquee>
 		<thumbnail>./box/Bari Bari Densetsu (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19891129T000000</releasedate>
 	</game>
 	<game>
 		<path>./Barunba (Japan).zip</path>
@@ -217,8 +175,6 @@
 		<video>./video/Barunba (Japan).mp4</video>
 		<marquee>./marquee/Barunba (Japan).png</marquee>
 		<thumbnail>./box/Barunba (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19900427T000000</releasedate>
 	</game>
 	<game>
 		<path>./Batman (Japan).zip</path>
@@ -227,8 +183,6 @@
 		<video>./video/Batman (Japan).mp4</video>
 		<marquee>./marquee/Batman (Japan).png</marquee>
 		<thumbnail>./box/Batman (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19901012T000000</releasedate>
 	</game>
 	<game>
 		<path>./Battle Lode Runner (Japan).zip</path>
@@ -237,8 +191,6 @@
 		<video>./video/Battle Lode Runner (Japan).mp4</video>
 		<marquee>./marquee/Battle Lode Runner (Japan).png</marquee>
 		<thumbnail>./box/Battle Lode Runner (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19930210T000000</releasedate>
 	</game>
 	<game>
 		<path>./Battle Royale (USA).zip</path>
@@ -247,8 +199,6 @@
 		<video>./video/Battle Royale (USA).mp4</video>
 		<marquee>./marquee/Battle Royale (USA).png</marquee>
 		<thumbnail>./box/Battle Royale (USA).png</thumbnail>
-		<players>4</players>
-		<releasedate>19900101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Be Ball (Japan).zip</path>
@@ -257,8 +207,6 @@
 		<video>./video/Chew-Man-Fu (USA).mp4</video>
 		<marquee>./marquee/Be Ball (Japan).png</marquee>
 		<thumbnail>./box/Be Ball (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19900330T000000</releasedate>
 	</game>
 	<game>
 		<path>./Benkei Gaiden (Japan).zip</path>
@@ -267,8 +215,6 @@
 		<video>./video/Benkei Gaiden (Japan).mp4</video>
 		<marquee>./marquee/Benkei Gaiden (Japan).png</marquee>
 		<thumbnail>./box/Benkei Gaiden (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19891222T000000</releasedate>
 	</game>
 	<game>
 		<path>./Bikkuriman World (Japan).zip</path>
@@ -277,8 +223,6 @@
 		<video>./video/Bikkuriman World (Japan).mp4</video>
 		<marquee>./marquee/Bikkuriman World (Japan).png</marquee>
 		<thumbnail>./box/Bikkuriman World (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19871030T000000</releasedate>
 	</game>
 	<game>
 		<path>./Blazing Lazers (USA).zip</path>
@@ -287,8 +231,6 @@
 		<video>./video/Blazing Lazers (USA).mp4</video>
 		<marquee>./marquee/Blazing Lazers (USA).png</marquee>
 		<thumbnail>./box/Blazing Lazers (USA).png</thumbnail>
-		<players>1</players>
-		<releasedate>19890101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Blodia (Japan).zip</path>
@@ -297,8 +239,6 @@
 		<video>./video/Timeball (USA).mp4</video>
 		<marquee>./marquee/Blodia (Japan).png</marquee>
 		<thumbnail>./box/Blodia (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19900223T000000</releasedate>
 	</game>
 	<game>
 		<path>./Bloody Wolf (USA).zip</path>
@@ -307,8 +247,6 @@
 		<video>./video/Bloody Wolf (USA).mp4</video>
 		<marquee>./marquee/Bloody Wolf (USA).png</marquee>
 		<thumbnail>./box/Bloody Wolf (USA).png</thumbnail>
-		<players>1</players>
-		<releasedate>19900101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Bodycon Quest II (Japan) (Unl).zip</path>
@@ -317,8 +255,6 @@
 		<video>./video/Bodycon Quest II (Japan) (Unl).mp4</video>
 		<marquee>./marquee/Bodycon Quest II (Japan) (Unl).png</marquee>
 		<thumbnail>./box/Bodycon Quest II (Japan) (Unl).png</thumbnail>
-		<players>1</players>
-		<releasedate>19930101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Bomber Man '93 (Japan).zip</path>
@@ -327,8 +263,6 @@
 		<video>./video/Bomber Man '93 (USA).mp4</video>
 		<marquee>./marquee/Bomber Man '93 (Japan).png</marquee>
 		<thumbnail>./box/Bomber Man '93 (Japan).png</thumbnail>
-		<players>5</players>
-		<releasedate>19921211T000000</releasedate>
 	</game>
 	<game>
 		<path>./Bomber Man '93 (USA).zip</path>
@@ -337,8 +271,6 @@
 		<video>./video/Bomber Man '93 (USA).mp4</video>
 		<marquee>./marquee/Bomber Man '93 (USA).png</marquee>
 		<thumbnail>./box/Bomber Man '93 (USA).png</thumbnail>
-		<players>5</players>
-		<releasedate>19921211T000000</releasedate>
 	</game>
 	<game>
 		<path>./Bomber Man '93 (USA, Europe) (Virtual Console).zip</path>
@@ -347,8 +279,6 @@
 		<video>./video/Bomber Man '93 (USA).mp4</video>
 		<marquee>./marquee/Bomber Man '93 (USA, Europe) (Virtual Console).png</marquee>
 		<thumbnail>./box/Bomber Man '93 (USA, Europe) (Virtual Console).png</thumbnail>
-		<players>5</players>
-		<releasedate>19921211T000000</releasedate>
 	</game>
 	<game>
 		<path>./Bomber Man '93 - Special Version (Japan).zip</path>
@@ -357,8 +287,6 @@
 		<video>./video/Bomber Man '93 - Special Version (Japan).mp4</video>
 		<marquee>./marquee/Bomber Man '93 - Special Version (Japan).png</marquee>
 		<thumbnail>./box/Bomber Man '93 - Special Version (Japan).png</thumbnail>
-		<players>5</players>
-		<releasedate>19921211T000000</releasedate>
 	</game>
 	<game>
 		<path>./Bomber Man '94 (Japan).zip</path>
@@ -367,8 +295,6 @@
 		<video>./video/Bomber Man '94 (Japan).mp4</video>
 		<marquee>./marquee/Bomber Man '94 (Japan).png</marquee>
 		<thumbnail>./box/Bomber Man '94 (Japan).png</thumbnail>
-		<players>5</players>
-		<releasedate>19931210T000000</releasedate>
 	</game>
 	<game>
 		<path>./Bomber Man (Japan).zip</path>
@@ -377,8 +303,6 @@
 		<video>./video/Bomber Man (USA).mp4</video>
 		<marquee>./marquee/Bomber Man (Japan).png</marquee>
 		<thumbnail>./box/Bomber Man (Japan).png</thumbnail>
-		<players>5</players>
-		<releasedate>19901207T000000</releasedate>
 	</game>
 	<game>
 		<path>./Bomber Man (USA).zip</path>
@@ -387,8 +311,6 @@
 		<video>./video/Bomber Man (USA).mp4</video>
 		<marquee>./marquee/Bomber Man (USA).png</marquee>
 		<thumbnail>./box/Bomber Man (USA).png</thumbnail>
-		<players>5</players>
-		<releasedate>19901207T000000</releasedate>
 	</game>
 	<game>
 		<path>./Bomber Man - Users Battle (Japan).zip</path>
@@ -397,8 +319,6 @@
 		<video>./video/Bomber Man - Users Battle (Japan).mp4</video>
 		<marquee>./marquee/Bomber Man - Users Battle (Japan).png</marquee>
 		<thumbnail>./box/Bomber Man - Users Battle (Japan).png</thumbnail>
-		<players>5</players>
-		<releasedate>19901207T000000</releasedate>
 	</game>
 	<game>
 		<path>./Bonk 3 - Bonk's Big Adventure (USA).zip</path>
@@ -407,8 +327,6 @@
 		<video>./video/Bonk 3 - Bonk's Big Adventure (USA).mp4</video>
 		<marquee>./marquee/Bonk 3 - Bonk's Big Adventure (USA).png</marquee>
 		<thumbnail>./box/Bonk 3 - Bonk's Big Adventure (USA).png</thumbnail>
-		<players>1</players>
-		<releasedate>19930101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Bonk's Adventure (USA).zip</path>
@@ -417,8 +335,6 @@
 		<video>./video/Bonk's Adventure (USA).mp4</video>
 		<marquee>./marquee/Bonk's Adventure (USA).png</marquee>
 		<thumbnail>./box/Bonk's Adventure (USA).png</thumbnail>
-		<players>1</players>
-		<releasedate>19900101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Bonk's Revenge (USA).zip</path>
@@ -427,8 +343,6 @@
 		<video>./video/Bonk's Revenge (USA).mp4</video>
 		<marquee>./marquee/Bonk's Revenge (USA).png</marquee>
 		<thumbnail>./box/Bonk's Revenge (USA).png</thumbnail>
-		<players>1</players>
-		<releasedate>19910101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Bonk's Revenge (USA, Europe) (Virtual Console).zip</path>
@@ -437,8 +351,6 @@
 		<video>./video/Bonk's Revenge (USA).mp4</video>
 		<marquee>./marquee/Bonk's Revenge (USA, Europe) (Virtual Console).png</marquee>
 		<thumbnail>./box/Bonk's Revenge (USA, Europe) (Virtual Console).png</thumbnail>
-		<players>1</players>
-		<releasedate>19910101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Bouken Danshaku Don - The Lost Sunheart (Japan).zip</path>
@@ -447,8 +359,6 @@
 		<video>./video/Bouken Danshaku Don - The Lost Sunheart (Japan).mp4</video>
 		<marquee>./marquee/Bouken Danshaku Don - The Lost Sunheart (Japan).png</marquee>
 		<thumbnail>./box/Bouken Danshaku Don - The Lost Sunheart (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19920104T000000</releasedate>
 	</game>
 	<game>
 		<path>./Boxyboy (USA).zip</path>
@@ -457,8 +367,6 @@
 		<video>./video/Boxyboy (USA).mp4</video>
 		<marquee>./marquee/Boxyboy (USA).png</marquee>
 		<thumbnail>./box/Boxyboy (USA).png</thumbnail>
-		<players>2</players>
-		<releasedate>19900101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Bravoman (USA).zip</path>
@@ -467,8 +375,6 @@
 		<video>./video/Bravoman (USA).mp4</video>
 		<marquee>./marquee/Bravoman (USA).png</marquee>
 		<thumbnail>./box/Bravoman (USA).png</thumbnail>
-		<players>1</players>
-		<releasedate>19900101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Break In (Japan).zip</path>
@@ -477,8 +383,6 @@
 		<video>./video/Break In (Japan).mp4</video>
 		<marquee>./marquee/Break In (Japan).png</marquee>
 		<thumbnail>./box/Break In (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19890810T000000</releasedate>
 	</game>
 	<game>
 		<path>./Bubblegum Crash! - Knight Sabers 2034 (Japan).zip</path>
@@ -487,8 +391,6 @@
 		<video>./video/Bubblegum Crash! - Knight Sabers 2034 (Japan).mp4</video>
 		<marquee>./marquee/Bubblegum Crash! - Knight Sabers 2034 (Japan).png</marquee>
 		<thumbnail>./box/Bubblegum Crash! - Knight Sabers 2034 (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19911206T000000</releasedate>
 	</game>
 	<game>
 		<path>./Bull Fight - Ring no Hasha (Japan).zip</path>
@@ -497,8 +399,6 @@
 		<video>./video/Bull Fight - Ring no Hasha (Japan).mp4</video>
 		<marquee>./marquee/Bull Fight - Ring no Hasha (Japan).png</marquee>
 		<thumbnail>./box/Bull Fight - Ring no Hasha (Japan).png</thumbnail>
-		<players>8</players>
-		<releasedate>19891208T000000</releasedate>
 	</game>
 	<game>
 		<path>./Burning Angels (Japan).zip</path>
@@ -507,8 +407,6 @@
 		<video>./video/Burning Angels (Japan).mp4</video>
 		<marquee>./marquee/Burning Angels (Japan).png</marquee>
 		<thumbnail>./box/Burning Angels (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19901207T000000</releasedate>
 	</game>
 	<game>
 		<path>./Busou Keiji - Cyber Cross (Japan).zip</path>
@@ -517,8 +415,6 @@
 		<video>./video/Busou Keiji - Cyber Cross (Japan).mp4</video>
 		<marquee>./marquee/Busou Keiji - Cyber Cross (Japan).png</marquee>
 		<thumbnail>./box/Busou Keiji - Cyber Cross (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19890623T000000</releasedate>
 	</game>
 	<game>
 		<path>./Cadash (Japan).zip</path>
@@ -527,8 +423,6 @@
 		<video>./video/Cadash (USA).mp4</video>
 		<marquee>./marquee/Cadash (Japan).png</marquee>
 		<thumbnail>./box/Cadash (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19910118T000000</releasedate>
 	</game>
 	<game>
 		<path>./Cadash (USA).zip</path>
@@ -537,8 +431,6 @@
 		<video>./video/Cadash (USA).mp4</video>
 		<marquee>./marquee/Cadash (USA).png</marquee>
 		<thumbnail>./box/Cadash (USA).png</thumbnail>
-		<players>2</players>
-		<releasedate>19910118T000000</releasedate>
 	</game>
 	<game>
 		<path>./Champion Wrestler (Japan).zip</path>
@@ -547,8 +439,6 @@
 		<video>./video/Champion Wrestler (Japan).mp4</video>
 		<marquee>./marquee/Champion Wrestler (Japan).png</marquee>
 		<thumbnail>./box/Champion Wrestler (Japan).png</thumbnail>
-		<players>4</players>
-		<releasedate>19901214T000000</releasedate>
 	</game>
 	<game>
 		<path>./Champions Forever Boxing (USA).zip</path>
@@ -557,8 +447,6 @@
 		<video>./video/Champions Forever Boxing (USA).mp4</video>
 		<marquee>./marquee/Champions Forever Boxing (USA).png</marquee>
 		<thumbnail>./box/Champions Forever Boxing (USA).png</thumbnail>
-		<players>2</players>
-		<releasedate>19910101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Chase H.Q. (USA).zip</path>
@@ -567,8 +455,6 @@
 		<video>./video/Chase H.Q. (USA).mp4</video>
 		<marquee>./marquee/Chase H.Q. (USA).png</marquee>
 		<thumbnail>./box/Chase H.Q. (USA).png</thumbnail>
-		<players/>
-		<releasedate/>
 	</game>
 	<game>
 		<path>./Chew-Man-Fu (USA).zip</path>
@@ -577,8 +463,6 @@
 		<video>./video/Chew-Man-Fu (USA).mp4</video>
 		<marquee>./marquee/Chew-Man-Fu (USA).png</marquee>
 		<thumbnail>./box/Chew-Man-Fu (USA).png</thumbnail>
-		<players>2</players>
-		<releasedate>19900101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Chibi Maruko-chan - Quiz de Piihyara (Japan).zip</path>
@@ -587,8 +471,6 @@
 		<video>./video/Chibi Maruko-chan - Quiz de Piihyara (Japan).mp4</video>
 		<marquee>./marquee/Chibi Maruko-chan - Quiz de Piihyara (Japan).png</marquee>
 		<thumbnail>./box/Chibi Maruko-chan - Quiz de Piihyara (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19920110T000000</releasedate>
 	</game>
 	<game>
 		<path>./Chikudenya Toubei - Kubikiri Yakata Yori (Japan).zip</path>
@@ -597,8 +479,6 @@
 		<video>./video/Chikudenya Toubei - Kubikiri Yakata Yori (Japan).mp4</video>
 		<marquee>./marquee/Chikudenya Toubei - Kubikiri Yakata Yori (Japan).png</marquee>
 		<thumbnail>./box/Chikudenya Toubei - Kubikiri Yakata Yori (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19900126T000000</releasedate>
 	</game>
 	<game>
 		<path>./China Warrior (USA).zip</path>
@@ -607,8 +487,6 @@
 		<video>./video/China Warrior (USA).mp4</video>
 		<marquee>./marquee/China Warrior (USA).png</marquee>
 		<thumbnail>./box/China Warrior (USA).png</thumbnail>
-		<players>2</players>
-		<releasedate>19890101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Chouzetsurinjin Bravoman (Japan).zip</path>
@@ -617,8 +495,6 @@
 		<video>./video/Bravoman (USA).mp4</video>
 		<marquee>./marquee/Chouzetsurinjin Bravoman (Japan).png</marquee>
 		<thumbnail>./box/Chouzetsurinjin Bravoman (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19900713T000000</releasedate>
 	</game>
 	<game>
 		<path>./Circus Lido (Japan).zip</path>
@@ -627,8 +503,6 @@
 		<video>./video/Circus Lido (Japan).mp4</video>
 		<marquee>./marquee/Circus Lido (Japan).png</marquee>
 		<thumbnail>./box/Circus Lido (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19910406T000000</releasedate>
 	</game>
 	<game>
 		<path>./City Hunter (Japan).zip</path>
@@ -637,8 +511,6 @@
 		<video>./video/City Hunter (Japan).mp4</video>
 		<marquee>./marquee/City Hunter (Japan).png</marquee>
 		<thumbnail>./box/City Hunter (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19900302T000000</releasedate>
 	</game>
 	<game>
 		<path>./Columns (Japan).zip</path>
@@ -647,8 +519,6 @@
 		<video>./video/Columns (Japan).mp4</video>
 		<marquee>./marquee/Columns (Japan).png</marquee>
 		<thumbnail>./box/Columns (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19910329T000000</releasedate>
 	</game>
 	<game>
 		<path>./Coryoon - Child of Dragon (Japan).zip</path>
@@ -657,8 +527,6 @@
 		<video>./video/Coryoon - Child of Dragon (Japan).mp4</video>
 		<marquee>./marquee/Coryoon - Child of Dragon (Japan).png</marquee>
 		<thumbnail>./box/Coryoon - Child of Dragon (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19911129T000000</releasedate>
 	</game>
 	<game>
 		<path>./Cratermaze (USA).zip</path>
@@ -667,8 +535,6 @@
 		<video>./video/Cratermaze (USA).mp4</video>
 		<marquee>./marquee/Cratermaze (USA).png</marquee>
 		<thumbnail>./box/Cratermaze (USA).png</thumbnail>
-		<players>1</players>
-		<releasedate>19900101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Cross Wiber - Cyber Combat Police (Japan).zip</path>
@@ -677,8 +543,6 @@
 		<video>./video/Cross Wiber - Cyber Combat Police (Japan).mp4</video>
 		<marquee>./marquee/Cross Wiber - Cyber Combat Police (Japan).png</marquee>
 		<thumbnail>./box/Cross Wiber - Cyber Combat Police (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19901221T000000</releasedate>
 	</game>
 	<game>
 		<path>./Cyber Core (Japan).zip</path>
@@ -687,8 +551,6 @@
 		<video>./video/Cyber Core (USA).mp4</video>
 		<marquee>./marquee/Cyber Core (Japan).png</marquee>
 		<thumbnail>./box/Cyber Core (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19900309T000000</releasedate>
 	</game>
 	<game>
 		<path>./Cyber Core (USA).zip</path>
@@ -697,8 +559,6 @@
 		<video>./video/Cyber Core (USA).mp4</video>
 		<marquee>./marquee/Cyber Core (USA).png</marquee>
 		<thumbnail>./box/Cyber Core (USA).png</thumbnail>
-		<players>1</players>
-		<releasedate>19900309T000000</releasedate>
 	</game>
 	<game>
 		<path>./Cyber Dodge (Japan).zip</path>
@@ -707,8 +567,6 @@
 		<video>./video/Cyber Dodge (Japan).mp4</video>
 		<marquee>./marquee/Cyber Dodge (Japan).png</marquee>
 		<thumbnail>./box/Cyber Dodge (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19920131T000000</releasedate>
 	</game>
 	<game>
 		<path>./Cyber Knight (Japan).zip</path>
@@ -717,8 +575,6 @@
 		<video>./video/Cyber Knight (Japan).mp4</video>
 		<marquee>./marquee/Cyber Knight (Japan).png</marquee>
 		<thumbnail>./box/Cyber Knight (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19901012T000000</releasedate>
 	</game>
 	<game>
 		<path>./Daichi-kun Crisis - Do Natural (Japan).zip</path>
@@ -727,8 +583,6 @@
 		<video>./video/Daichi-kun Crisis - Do Natural (Japan).mp4</video>
 		<marquee>./marquee/Daichi-kun Crisis - Do Natural (Japan).png</marquee>
 		<thumbnail>./box/Daichi-kun Crisis - Do Natural (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19891122T000000</releasedate>
 	</game>
 	<game>
 		<path>./Daisenpuu (Japan).zip</path>
@@ -737,8 +591,6 @@
 		<video>./video/Daisenpuu (Japan).mp4</video>
 		<marquee>./marquee/Daisenpuu (Japan).png</marquee>
 		<thumbnail>./box/Daisenpuu (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19901214T000000</releasedate>
 	</game>
 	<game>
 		<path>./Darius Alpha (Japan) (SG Enhanced).zip</path>
@@ -747,8 +599,6 @@
 		<video>./video/Darius Alpha (Japan) (SG Enhanced).mp4</video>
 		<marquee>./marquee/Darius Alpha (Japan) (SG Enhanced).png</marquee>
 		<thumbnail>./box/Darius Alpha (Japan) (SG Enhanced).png</thumbnail>
-		<players>1</players>
-		<releasedate>19900101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Darius Plus (Japan) (SG Enhanced).zip</path>
@@ -757,8 +607,6 @@
 		<video>./video/Darius Plus (Japan) (SG Enhanced).mp4</video>
 		<marquee>./marquee/Darius Plus (Japan) (SG Enhanced).png</marquee>
 		<thumbnail>./box/Darius Plus (Japan) (SG Enhanced).png</thumbnail>
-		<players>1</players>
-		<releasedate>19900921T000000</releasedate>
 	</game>
 	<game>
 		<path>./Darkwing Duck (USA).zip</path>
@@ -767,8 +615,6 @@
 		<video>./video/Darkwing Duck (USA).mp4</video>
 		<marquee>./marquee/Darkwing Duck (USA).png</marquee>
 		<thumbnail>./box/Darkwing Duck (USA).png</thumbnail>
-		<players>1</players>
-		<releasedate>19920101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Davis Cup Tennis (USA).zip</path>
@@ -777,8 +623,6 @@
 		<video>./video/Davis Cup Tennis (USA).mp4</video>
 		<marquee>./marquee/Davis Cup Tennis (USA).png</marquee>
 		<thumbnail>./box/Davis Cup Tennis (USA).png</thumbnail>
-		<players/>
-		<releasedate>19910101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Dead Moon (USA).zip</path>
@@ -787,8 +631,6 @@
 		<video>./video/Dead Moon (USA).mp4</video>
 		<marquee>./marquee/Dead Moon (USA).png</marquee>
 		<thumbnail>./box/Dead Moon (USA).png</thumbnail>
-		<players>1</players>
-		<releasedate>19920101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Dead Moon - Getsu Sekai no Akumu (Japan).zip</path>
@@ -797,8 +639,6 @@
 		<video>./video/Dead Moon (USA).mp4</video>
 		<marquee>./marquee/Dead Moon - Getsu Sekai no Akumu (Japan).png</marquee>
 		<thumbnail>./box/Dead Moon - Getsu Sekai no Akumu (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19910222T000000</releasedate>
 	</game>
 	<game>
 		<path>./Deep Blue (USA).zip</path>
@@ -807,8 +647,6 @@
 		<video>./video/Deep Blue (USA).mp4</video>
 		<marquee>./marquee/Deep Blue (USA).png</marquee>
 		<thumbnail>./box/Deep Blue (USA).png</thumbnail>
-		<players>1</players>
-		<releasedate>19900101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Deep Blue - Kaitei Shinwa (Japan).zip</path>
@@ -817,8 +655,6 @@
 		<video>./video/Deep Blue (USA).mp4</video>
 		<marquee>./marquee/Deep Blue - Kaitei Shinwa (Japan).png</marquee>
 		<thumbnail>./box/Deep Blue - Kaitei Shinwa (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19890331T000000</releasedate>
 	</game>
 	<game>
 		<path>./Detana!! TwinBee (Japan).zip</path>
@@ -827,8 +663,6 @@
 		<video>./video/Detana!! TwinBee (Japan).mp4</video>
 		<marquee>./marquee/Detana!! TwinBee (Japan).png</marquee>
 		<thumbnail>./box/Detana!! TwinBee (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19920228T000000</releasedate>
 	</game>
 	<game>
 		<path>./Devil Crash - Naxat Pinball (Japan).zip</path>
@@ -837,8 +671,6 @@
 		<video>./video/Devil's Crush (USA).mp4</video>
 		<marquee>./marquee/Devil Crash - Naxat Pinball (Japan).png</marquee>
 		<thumbnail>./box/Devil Crash - Naxat Pinball (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19900720T000000</releasedate>
 	</game>
 	<game>
 		<path>./Devil's Crush (USA).zip</path>
@@ -847,8 +679,6 @@
 		<video>./video/Devil's Crush (USA).mp4</video>
 		<marquee>./marquee/Devil's Crush (USA).png</marquee>
 		<thumbnail>./box/Devil's Crush (USA).png</thumbnail>
-		<players>2</players>
-		<releasedate>19900101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Die Hard (Japan).zip</path>
@@ -857,8 +687,6 @@
 		<video>./video/Die Hard (Japan).mp4</video>
 		<marquee>./marquee/Die Hard (Japan).png</marquee>
 		<thumbnail>./box/Die Hard (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19900928T000000</releasedate>
 	</game>
 	<game>
 		<path>./Digital Champ (Japan).zip</path>
@@ -867,8 +695,6 @@
 		<video>./video/Digital Champ (Japan).mp4</video>
 		<marquee>./marquee/Digital Champ (Japan).png</marquee>
 		<thumbnail>./box/Digital Champ (Japan).png</thumbnail>
-		<players/>
-		<releasedate>19891013T000000</releasedate>
 	</game>
 	<game>
 		<path>./Don Doko Don! (Japan).zip</path>
@@ -877,8 +703,6 @@
 		<video>./video/Don Doko Don! (Japan).mp4</video>
 		<marquee>./marquee/Don Doko Don! (Japan).png</marquee>
 		<thumbnail>./box/Don Doko Don! (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19900531T000000</releasedate>
 	</game>
 	<game>
 		<path>./Doraemon - Meikyuu Daisakusen (Japan).zip</path>
@@ -887,8 +711,6 @@
 		<video>./video/Cratermaze (USA).mp4</video>
 		<marquee>./marquee/Doraemon - Meikyuu Daisakusen (Japan).png</marquee>
 		<thumbnail>./box/Doraemon - Meikyuu Daisakusen (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19891031T000000</releasedate>
 	</game>
 	<game>
 		<path>./Doraemon - Nobita no Dorabian Night (Japan).zip</path>
@@ -897,8 +719,6 @@
 		<video>./video/Doraemon - Nobita no Dorabian Night (Japan).mp4</video>
 		<marquee>./marquee/Doraemon - Nobita no Dorabian Night (Japan).png</marquee>
 		<thumbnail>./box/Doraemon - Nobita no Dorabian Night (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19911206T000000</releasedate>
 	</game>
 	<game>
 		<path>./Double Dungeons (Japan).zip</path>
@@ -907,8 +727,6 @@
 		<video>./video/Double Dungeons (USA).mp4</video>
 		<marquee>./marquee/Double Dungeons (Japan).png</marquee>
 		<thumbnail>./box/Double Dungeons (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19890929T000000</releasedate>
 	</game>
 	<game>
 		<path>./Double Dungeons (USA).zip</path>
@@ -917,8 +735,6 @@
 		<video>./video/Double Dungeons (USA).mp4</video>
 		<marquee>./marquee/Double Dungeons (USA).png</marquee>
 		<thumbnail>./box/Double Dungeons (USA).png</thumbnail>
-		<players>1</players>
-		<releasedate>19890929T000000</releasedate>
 	</game>
 	<game>
 		<path>./Download (Japan).zip</path>
@@ -927,8 +743,6 @@
 		<video>./video/Download (Japan).mp4</video>
 		<marquee>./marquee/Download (Japan).png</marquee>
 		<thumbnail>./box/Download (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19900622T000000</releasedate>
 	</game>
 	<game>
 		<path>./Dragon Egg! (Japan).zip</path>
@@ -937,8 +751,6 @@
 		<video>./video/Dragon Egg! (Japan).mp4</video>
 		<marquee>./marquee/Dragon Egg! (Japan).png</marquee>
 		<thumbnail>./box/Dragon Egg! (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19910927T000000</releasedate>
 	</game>
 	<game>
 		<path>./Dragon Saber (Japan).zip</path>
@@ -947,8 +759,6 @@
 		<video>./video/Dragon Saber (Japan).mp4</video>
 		<marquee>./marquee/Dragon Saber (Japan).png</marquee>
 		<thumbnail>./box/Dragon Saber (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19911227T000000</releasedate>
 	</game>
 	<game>
 		<path>./Dragon Spirit (Japan).zip</path>
@@ -957,8 +767,6 @@
 		<video>./video/Dragon Spirit (USA).mp4</video>
 		<marquee>./marquee/Dragon Spirit (Japan).png</marquee>
 		<thumbnail>./box/Dragon Spirit (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19881226T000000</releasedate>
 	</game>
 	<game>
 		<path>./Dragon Spirit (USA).zip</path>
@@ -967,8 +775,6 @@
 		<video>./video/Dragon Spirit (USA).mp4</video>
 		<marquee>./marquee/Dragon Spirit (USA).png</marquee>
 		<thumbnail>./box/Dragon Spirit (USA).png</thumbnail>
-		<players>1</players>
-		<releasedate>19881226T000000</releasedate>
 	</game>
 	<game>
 		<path>./Dragon's Curse (USA).zip</path>
@@ -977,8 +783,6 @@
 		<video>./video/Dragon's Curse (USA).mp4</video>
 		<marquee>./marquee/Dragon's Curse (USA).png</marquee>
 		<thumbnail>./box/Dragon's Curse (USA).png</thumbnail>
-		<players>1</players>
-		<releasedate>19901231T000000</releasedate>
 	</game>
 	<game>
 		<path>./Drop Off (USA).zip</path>
@@ -987,8 +791,6 @@
 		<video>./video/Drop Off (USA).mp4</video>
 		<marquee>./marquee/Drop Off (USA).png</marquee>
 		<thumbnail>./box/Drop Off (USA).png</thumbnail>
-		<players>2</players>
-		<releasedate>19900101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Drop Rock Hora Hora (Japan).zip</path>
@@ -997,8 +799,6 @@
 		<video>./video/Drop Off (USA).mp4</video>
 		<marquee>./marquee/Drop Rock Hora Hora (Japan).png</marquee>
 		<thumbnail>./box/Drop Rock Hora Hora (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19900330T000000</releasedate>
 	</game>
 	<game>
 		<path>./Dungeon Explorer (Japan).zip</path>
@@ -1007,8 +807,6 @@
 		<video>./video/Dungeon Explorer (USA).mp4</video>
 		<marquee>./marquee/Dungeon Explorer (Japan).png</marquee>
 		<thumbnail>./box/Dungeon Explorer (Japan).png</thumbnail>
-		<players>5</players>
-		<releasedate>19890304T000000</releasedate>
 	</game>
 	<game>
 		<path>./Dungeon Explorer (USA).zip</path>
@@ -1017,8 +815,6 @@
 		<video>./video/Dungeon Explorer (USA).mp4</video>
 		<marquee>./marquee/Dungeon Explorer (USA).png</marquee>
 		<thumbnail>./box/Dungeon Explorer (USA).png</thumbnail>
-		<players>5</players>
-		<releasedate>19890304T000000</releasedate>
 	</game>
 	<game>
 		<path>./Dungeons &amp; Dragons - Order of the Griffon (USA).zip</path>
@@ -1027,8 +823,6 @@
 		<video>./video/Dungeons &amp; Dragons - Order of the Griffon (USA).mp4</video>
 		<marquee>./marquee/Dungeons &amp; Dragons - Order of the Griffon (USA).png</marquee>
 		<thumbnail>./box/Dungeons &amp; Dragons - Order of the Griffon (USA).png</thumbnail>
-		<players/>
-		<releasedate/>
 	</game>
 	<game>
 		<path>./Energy (Japan).zip</path>
@@ -1037,8 +831,6 @@
 		<video>./video/Energy (Japan).mp4</video>
 		<marquee>./marquee/Energy (Japan).png</marquee>
 		<thumbnail>./box/Energy (Japan).png</thumbnail>
-		<players>5</players>
-		<releasedate>19890419T000000</releasedate>
 	</game>
 	<game>
 		<path>./Eternal City - Toshi Tensou Keikaku (Japan).zip</path>
@@ -1047,8 +839,6 @@
 		<video>./video/Eternal City - Toshi Tensou Keikaku (Japan).mp4</video>
 		<marquee>./marquee/Eternal City - Toshi Tensou Keikaku (Japan).png</marquee>
 		<thumbnail>./box/Eternal City - Toshi Tensou Keikaku (Japan).png</thumbnail>
-		<players/>
-		<releasedate>19910412T000000</releasedate>
 	</game>
 	<game>
 		<path>./F-1 Dream (Japan).zip</path>
@@ -1057,8 +847,6 @@
 		<video>./video/F-1 Dream (Japan).mp4</video>
 		<marquee>./marquee/F-1 Dream (Japan).png</marquee>
 		<thumbnail>./box/F-1 Dream (Japan).png</thumbnail>
-		<players/>
-		<releasedate>19890825T000000</releasedate>
 	</game>
 	<game>
 		<path>./F-1 Pilot - You're King of Kings (Japan).zip</path>
@@ -1067,8 +855,6 @@
 		<video>./video/F-1 Pilot - You're King of Kings (Japan).mp4</video>
 		<marquee>./marquee/F-1 Pilot - You're King of Kings (Japan).png</marquee>
 		<thumbnail>./box/F-1 Pilot - You're King of Kings (Japan).png</thumbnail>
-		<players/>
-		<releasedate>19890323T000000</releasedate>
 	</game>
 	<game>
 		<path>./F1 Circus '91 (Japan).zip</path>
@@ -1077,8 +863,6 @@
 		<video>./video/F1 Circus '91 (Japan).mp4</video>
 		<marquee>./marquee/F1 Circus '91 (Japan).png</marquee>
 		<thumbnail>./box/F1 Circus '91 (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19910712T000000</releasedate>
 	</game>
 	<game>
 		<path>./F1 Circus '92 - The Speed of Sound (Japan).zip</path>
@@ -1087,8 +871,6 @@
 		<video>./video/F1 Circus '92 - The Speed of Sound (Japan).mp4</video>
 		<marquee>./marquee/F1 Circus '92 - The Speed of Sound (Japan).png</marquee>
 		<thumbnail>./box/F1 Circus '92 - The Speed of Sound (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19921218T000000</releasedate>
 	</game>
 	<game>
 		<path>./F1 Circus (Japan).zip</path>
@@ -1097,8 +879,6 @@
 		<video>./video/F1 Circus (Japan).mp4</video>
 		<marquee>./marquee/F1 Circus (Japan).png</marquee>
 		<thumbnail>./box/F1 Circus (Japan).png</thumbnail>
-		<players>5</players>
-		<releasedate>19900914T000000</releasedate>
 	</game>
 	<game>
 		<path>./F1 Triple Battle (Japan).zip</path>
@@ -1107,8 +887,6 @@
 		<video>./video/F1 Triple Battle (Japan).mp4</video>
 		<marquee>./marquee/F1 Triple Battle (Japan).png</marquee>
 		<thumbnail>./box/F1 Triple Battle (Japan).png</thumbnail>
-		<players>3</players>
-		<releasedate>19891227T000000</releasedate>
 	</game>
 	<game>
 		<path>./Falcon (USA).zip</path>
@@ -1117,8 +895,6 @@
 		<video>./video/Falcon (USA).mp4</video>
 		<marquee>./marquee/Falcon (USA).png</marquee>
 		<thumbnail>./box/Falcon (USA).png</thumbnail>
-		<players/>
-		<releasedate>19920101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Fantasy Zone (Japan).zip</path>
@@ -1127,8 +903,6 @@
 		<video>./video/Fantasy Zone (USA).mp4</video>
 		<marquee>./marquee/Fantasy Zone (Japan).png</marquee>
 		<thumbnail>./box/Fantasy Zone (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19881014T000000</releasedate>
 	</game>
 	<game>
 		<path>./Fantasy Zone (USA).zip</path>
@@ -1137,8 +911,6 @@
 		<video>./video/Fantasy Zone (USA).mp4</video>
 		<marquee>./marquee/Fantasy Zone (USA).png</marquee>
 		<thumbnail>./box/Fantasy Zone (USA).png</thumbnail>
-		<players>2</players>
-		<releasedate>19881014T000000</releasedate>
 	</game>
 	<game>
 		<path>./Fighting Run (Japan).zip</path>
@@ -1147,8 +919,6 @@
 		<video>./video/Fighting Run (Japan).mp4</video>
 		<marquee>./marquee/Fighting Run (Japan).png</marquee>
 		<thumbnail>./box/Fighting Run (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19911129T000000</releasedate>
 	</game>
 	<game>
 		<path>./Final Blaster (Japan).zip</path>
@@ -1157,8 +927,6 @@
 		<video>./video/Final Blaster (Japan).mp4</video>
 		<marquee>./marquee/Final Blaster (Japan).png</marquee>
 		<thumbnail>./box/Final Blaster (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19900928T000000</releasedate>
 	</game>
 	<game>
 		<path>./Final Lap Twin (Japan).zip</path>
@@ -1167,8 +935,6 @@
 		<video>./video/Final Lap Twin (USA).mp4</video>
 		<marquee>./marquee/Final Lap Twin (Japan).png</marquee>
 		<thumbnail>./box/Final Lap Twin (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19890707T000000</releasedate>
 	</game>
 	<game>
 		<path>./Final Lap Twin (USA).zip</path>
@@ -1177,8 +943,6 @@
 		<video>./video/Final Lap Twin (USA).mp4</video>
 		<marquee>./marquee/Final Lap Twin (USA).png</marquee>
 		<thumbnail>./box/Final Lap Twin (USA).png</thumbnail>
-		<players>2</players>
-		<releasedate>19890707T000000</releasedate>
 	</game>
 	<game>
 		<path>./Final Match Tennis (Japan).zip</path>
@@ -1187,8 +951,6 @@
 		<video>./video/Final Match Tennis (Japan).mp4</video>
 		<marquee>./marquee/Final Match Tennis (Japan).png</marquee>
 		<thumbnail>./box/Final Match Tennis (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19910301T000000</releasedate>
 	</game>
 	<game>
 		<path>./Final Soldier (Japan) (En).zip</path>
@@ -1197,8 +959,6 @@
 		<video>./video/Final Soldier (Japan) (En).mp4</video>
 		<marquee>./marquee/Final Soldier (Japan) (En).png</marquee>
 		<thumbnail>./box/Final Soldier (Japan) (En).png</thumbnail>
-		<players>1</players>
-		<releasedate>19910705T000000</releasedate>
 	</game>
 	<game>
 		<path>./Final Soldier - Special Version (Japan) (En).zip</path>
@@ -1207,8 +967,6 @@
 		<video>./video/Final Soldier - Special Version (Japan) (En).mp4</video>
 		<marquee>./marquee/Final Soldier - Special Version (Japan) (En).png</marquee>
 		<thumbnail>./box/Final Soldier - Special Version (Japan) (En).png</thumbnail>
-		<players>1</players>
-		<releasedate>19910705T000000</releasedate>
 	</game>
 	<game>
 		<path>./Fire Pro Wrestling - Combination Tag (Japan).zip</path>
@@ -1217,8 +975,6 @@
 		<video>./video/Fire Pro Wrestling - Combination Tag (Japan).mp4</video>
 		<marquee>./marquee/Fire Pro Wrestling - Combination Tag (Japan).png</marquee>
 		<thumbnail>./box/Fire Pro Wrestling - Combination Tag (Japan).png</thumbnail>
-		<players>4</players>
-		<releasedate>19890622T000000</releasedate>
 	</game>
 	<game>
 		<path>./Fire Pro Wrestling 2 - 2nd Bout (Japan).zip</path>
@@ -1227,8 +983,6 @@
 		<video>./video/Fire Pro Wrestling 2 - 2nd Bout (Japan).mp4</video>
 		<marquee>./marquee/Fire Pro Wrestling 2 - 2nd Bout (Japan).png</marquee>
 		<thumbnail>./box/Fire Pro Wrestling 2 - 2nd Bout (Japan).png</thumbnail>
-		<players>4</players>
-		<releasedate>19910830T000000</releasedate>
 	</game>
 	<game>
 		<path>./Fire Pro Wrestling 3 - Legend Bout (Japan).zip</path>
@@ -1237,8 +991,6 @@
 		<video>./video/Fire Pro Wrestling 3 - Legend Bout (Japan).mp4</video>
 		<marquee>./marquee/Fire Pro Wrestling 3 - Legend Bout (Japan).png</marquee>
 		<thumbnail>./box/Fire Pro Wrestling 3 - Legend Bout (Japan).png</thumbnail>
-		<players>4</players>
-		<releasedate>19921113T000000</releasedate>
 	</game>
 	<game>
 		<path>./Formation Soccer - Human Cup '90 (Japan).zip</path>
@@ -1247,8 +999,6 @@
 		<video>./video/Formation Soccer - Human Cup '90 (Japan).mp4</video>
 		<marquee>./marquee/Formation Soccer - Human Cup '90 (Japan).png</marquee>
 		<thumbnail>./box/Formation Soccer - Human Cup '90 (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19900427T000000</releasedate>
 	</game>
 	<game>
 		<path>./Formation Soccer - On J League (Japan).zip</path>
@@ -1257,8 +1007,6 @@
 		<video>./video/Formation Soccer - On J League (Japan).mp4</video>
 		<marquee>./marquee/Formation Soccer - On J League (Japan).png</marquee>
 		<thumbnail>./box/Formation Soccer - On J League (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19940115T000000</releasedate>
 	</game>
 	<game>
 		<path>./Fushigi no Yume no Alice (Japan).zip</path>
@@ -1267,8 +1015,6 @@
 		<video>./video/Fushigi no Yume no Alice (Japan).mp4</video>
 		<marquee>./marquee/Fushigi no Yume no Alice (Japan).png</marquee>
 		<thumbnail>./box/Fushigi no Yume no Alice (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19901207T000000</releasedate>
 	</game>
 	<game>
 		<path>./Gai Flame (Japan).zip</path>
@@ -1277,8 +1023,6 @@
 		<video>./video/Gai Flame (Japan).mp4</video>
 		<marquee>./marquee/Gai Flame (Japan).png</marquee>
 		<thumbnail>./box/Gai Flame (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19900126T000000</releasedate>
 	</game>
 	<game>
 		<path>./Gaia no Monshou (Japan).zip</path>
@@ -1287,8 +1031,6 @@
 		<video>./video/Gaia no Monshou (Japan).mp4</video>
 		<marquee>./marquee/Gaia no Monshou (Japan).png</marquee>
 		<thumbnail>./box/Gaia no Monshou (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19880923T000000</releasedate>
 	</game>
 	<game>
 		<path>./Galaga '88 (Japan).zip</path>
@@ -1297,8 +1039,6 @@
 		<video>./video/Galaga '90 (USA).mp4</video>
 		<marquee>./marquee/Galaga '88 (Japan).png</marquee>
 		<thumbnail>./box/Galaga '88 (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19880715T000000</releasedate>
 	</game>
 	<game>
 		<path>./Galaga '90 (USA).zip</path>
@@ -1307,8 +1047,6 @@
 		<video>./video/Galaga '90 (USA).mp4</video>
 		<marquee>./marquee/Galaga '90 (USA).png</marquee>
 		<thumbnail>./box/Galaga '90 (USA).png</thumbnail>
-		<players>1</players>
-		<releasedate>19890101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Ganbare! Golf Boys (Japan).zip</path>
@@ -1317,8 +1055,6 @@
 		<video>./video/Ganbare! Golf Boys (Japan).mp4</video>
 		<marquee>./marquee/Ganbare! Golf Boys (Japan).png</marquee>
 		<thumbnail>./box/Ganbare! Golf Boys (Japan).png</thumbnail>
-		<players>4</players>
-		<releasedate>19890328T000000</releasedate>
 	</game>
 	<game>
 		<path>./Gekisha Boy (Japan).zip</path>
@@ -1327,8 +1063,6 @@
 		<video>./video/Gekisha Boy (Japan).mp4</video>
 		<marquee>./marquee/Gekisha Boy (Japan).png</marquee>
 		<thumbnail>./box/Gekisha Boy (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19921002T000000</releasedate>
 	</game>
 	<game>
 		<path>./Genji Tsuushin Agedama (Japan).zip</path>
@@ -1337,8 +1071,6 @@
 		<video>./video/Genji Tsuushin Agedama (Japan).mp4</video>
 		<marquee>./marquee/Genji Tsuushin Agedama (Japan).png</marquee>
 		<thumbnail>./box/Genji Tsuushin Agedama (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19911213T000000</releasedate>
 	</game>
 	<game>
 		<path>./Genpei Toumaden (Japan).zip</path>
@@ -1347,8 +1079,6 @@
 		<video>./video/Genpei Toumaden (Japan).mp4</video>
 		<marquee>./marquee/Genpei Toumaden (Japan).png</marquee>
 		<thumbnail>./box/Genpei Toumaden (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19920407T000000</releasedate>
 	</game>
 	<game>
 		<path>./Genpei Toumaden - Kan no Ni (Japan).zip</path>
@@ -1357,8 +1087,6 @@
 		<video>./video/Samurai-Ghost (USA).mp4</video>
 		<marquee>./marquee/Genpei Toumaden - Kan no Ni (Japan).png</marquee>
 		<thumbnail>./box/Genpei Toumaden - Kan no Ni (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19920407T000000</releasedate>
 	</game>
 	<game>
 		<path>./Ghost Manor (USA).zip</path>
@@ -1367,8 +1095,6 @@
 		<video>./video/Ghost Manor (USA).mp4</video>
 		<marquee>./marquee/Ghost Manor (USA).png</marquee>
 		<thumbnail>./box/Ghost Manor (USA).png</thumbnail>
-		<players/>
-		<releasedate>19920101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Gokuraku! Chuuka Taisen (Japan).zip</path>
@@ -1377,8 +1103,6 @@
 		<video>./video/Gokuraku! Chuuka Taisen (Japan).mp4</video>
 		<marquee>./marquee/Gokuraku! Chuuka Taisen (Japan).png</marquee>
 		<thumbnail>./box/Gokuraku! Chuuka Taisen (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19920313T000000</releasedate>
 	</game>
 	<game>
 		<path>./Gomola Speed (Japan).zip</path>
@@ -1387,8 +1111,6 @@
 		<video>./video/Gomola Speed (Japan).mp4</video>
 		<marquee>./marquee/Gomola Speed (Japan).png</marquee>
 		<thumbnail>./box/Gomola Speed (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19900928T000000</releasedate>
 	</game>
 	<game>
 		<path>./Gradius (Japan).zip</path>
@@ -1397,8 +1119,6 @@
 		<video>./video/Gradius (Japan).mp4</video>
 		<marquee>./marquee/Gradius (Japan).png</marquee>
 		<thumbnail>./box/Gradius (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19911115T000000</releasedate>
 	</game>
 	<game>
 		<path>./Gunboat (USA).zip</path>
@@ -1407,8 +1127,6 @@
 		<video>./video/Gunboat (USA).mp4</video>
 		<marquee>./marquee/Gunboat (USA).png</marquee>
 		<thumbnail>./box/Gunboat (USA).png</thumbnail>
-		<players/>
-		<releasedate>19920101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Gunhed (Japan).zip</path>
@@ -1417,8 +1135,6 @@
 		<video>./video/Blazing Lazers (USA).mp4</video>
 		<marquee>./marquee/Gunhed (Japan).png</marquee>
 		<thumbnail>./box/Gunhed (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19890707T000000</releasedate>
 	</game>
 	<game>
 		<path>./Gunhed - Special Version (Japan).zip</path>
@@ -1427,8 +1143,6 @@
 		<video>./video/Gunhed - Special Version (Japan).mp4</video>
 		<marquee>./marquee/Gunhed - Special Version (Japan).png</marquee>
 		<thumbnail>./box/Gunhed - Special Version (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19890707T000000</releasedate>
 	</game>
 	<game>
 		<path>./Hana Taaka Daka! (Japan).zip</path>
@@ -1437,8 +1151,6 @@
 		<video>./video/Hana Taaka Daka! (Japan).mp4</video>
 		<marquee>./marquee/Hana Taaka Daka! (Japan).png</marquee>
 		<thumbnail>./box/Hana Taaka Daka! (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19910809T000000</releasedate>
 	</game>
 	<game>
 		<path>./Hanii in the Sky (Japan).zip</path>
@@ -1447,8 +1159,6 @@
 		<video>./video/Hanii in the Sky (Japan).mp4</video>
 		<marquee>./marquee/Hanii in the Sky (Japan).png</marquee>
 		<thumbnail>./box/Hanii in the Sky (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19890301T000000</releasedate>
 	</game>
 	<game>
 		<path>./Hanii on the Road (Japan).zip</path>
@@ -1457,8 +1167,6 @@
 		<video>./video/Hanii on the Road (Japan).mp4</video>
 		<marquee>./marquee/Hanii on the Road (Japan).png</marquee>
 		<thumbnail>./box/Hanii on the Road (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19900914T000000</releasedate>
 	</game>
 	<game>
 		<path>./Hatris (Japan).zip</path>
@@ -1467,8 +1175,6 @@
 		<video>./video/Hatris (Japan).mp4</video>
 		<marquee>./marquee/Hatris (Japan).png</marquee>
 		<thumbnail>./box/Hatris (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19910524T000000</releasedate>
 	</game>
 	<game>
 		<path>./Heavy Unit (Japan).zip</path>
@@ -1477,8 +1183,6 @@
 		<video>./video/Heavy Unit (Japan).mp4</video>
 		<marquee>./marquee/Heavy Unit (Japan).png</marquee>
 		<thumbnail>./box/Heavy Unit (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19891222T000000</releasedate>
 	</game>
 	<game>
 		<path>./Hisou Kihei X-Serd (Japan).zip</path>
@@ -1487,8 +1191,6 @@
 		<video>./video/Hisou Kihei X-Serd (Japan).mp4</video>
 		<marquee>./marquee/Hisou Kihei X-Serd (Japan).png</marquee>
 		<thumbnail>./box/Hisou Kihei X-Serd (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19900223T000000</releasedate>
 	</game>
 	<game>
 		<path>./Hit the Ice - VHL - The Official Video Hockey League (USA).zip</path>
@@ -1497,8 +1199,6 @@
 		<video>./video/Hit the Ice - VHL - The Official Video Hockey League (USA).mp4</video>
 		<marquee>./marquee/Hit the Ice - VHL - The Official Video Hockey League (USA).png</marquee>
 		<thumbnail>./box/Hit the Ice - VHL - The Official Video Hockey League (USA).png</thumbnail>
-		<players>2</players>
-		<releasedate>19910920T000000</releasedate>
 	</game>
 	<game>
 		<path>./Hit the Ice - VHL - The Video Hockey League (Japan).zip</path>
@@ -1507,8 +1207,6 @@
 		<video>./video/Hit the Ice - VHL - The Official Video Hockey League (USA).mp4</video>
 		<marquee>./marquee/Hit the Ice - VHL - The Video Hockey League (Japan).png</marquee>
 		<thumbnail>./box/Hit the Ice - VHL - The Video Hockey League (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19920101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Honoo no Toukyuuji - Dodge Danpei (Japan).zip</path>
@@ -1517,8 +1215,6 @@
 		<video>./video/Honoo no Toukyuuji - Dodge Danpei (Japan).mp4</video>
 		<marquee>./marquee/Honoo no Toukyuuji - Dodge Danpei (Japan).png</marquee>
 		<thumbnail>./box/Honoo no Toukyuuji - Dodge Danpei (Japan).png</thumbnail>
-		<players/>
-		<releasedate>19920925T000000</releasedate>
 	</game>
 	<game>
 		<path>./Idol Hanafuda Fan Club (Japan) (Unl).zip</path>
@@ -1527,8 +1223,6 @@
 		<video>./video/Idol Hanafuda Fan Club (Japan) (Unl).mp4</video>
 		<marquee>./marquee/Idol Hanafuda Fan Club (Japan) (Unl).png</marquee>
 		<thumbnail>./box/Idol Hanafuda Fan Club (Japan) (Unl).png</thumbnail>
-		<players>1</players>
-		<releasedate>19910101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Image Fight (Japan).zip</path>
@@ -1537,8 +1231,6 @@
 		<video>./video/Image Fight (Japan).mp4</video>
 		<marquee>./marquee/Image Fight (Japan).png</marquee>
 		<thumbnail>./box/Image Fight (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19900727T000000</releasedate>
 	</game>
 	<game>
 		<path>./Impossamole (USA).zip</path>
@@ -1547,8 +1239,6 @@
 		<video>./video/Impossamole (USA).mp4</video>
 		<marquee>./marquee/Impossamole (USA).png</marquee>
 		<thumbnail>./box/Impossamole (USA).png</thumbnail>
-		<players>1</players>
-		<releasedate>19910101T000000</releasedate>
 	</game>
 	<game>
 		<path>./J.J. &amp; Jeff (USA).zip</path>
@@ -1557,8 +1247,6 @@
 		<video>./video/J.J. &amp; Jeff (USA).mp4</video>
 		<marquee>./marquee/J.J. &amp; Jeff (USA).png</marquee>
 		<thumbnail>./box/J.J. &amp; Jeff (USA).png</thumbnail>
-		<players>1</players>
-		<releasedate>19900101T000000</releasedate>
 	</game>
 	<game>
 		<path>./J.League Greatest Eleven (Japan).zip</path>
@@ -1567,8 +1255,6 @@
 		<video>./video/J.League Greatest Eleven (Japan).mp4</video>
 		<marquee>./marquee/J.League Greatest Eleven (Japan).png</marquee>
 		<thumbnail>./box/J.League Greatest Eleven (Japan).png</thumbnail>
-		<players/>
-		<releasedate>19930514T000000</releasedate>
 	</game>
 	<game>
 		<path>./Jack Nicklaus - Championship Golf (Japan).zip</path>
@@ -1577,8 +1263,6 @@
 		<video>./video/Jack Nicklaus' Turbo Golf (USA).mp4</video>
 		<marquee>./marquee/Jack Nicklaus - Championship Golf (Japan).png</marquee>
 		<thumbnail>./box/Jack Nicklaus - Championship Golf (Japan).png</thumbnail>
-		<players>4</players>
-		<releasedate>19891124T000000</releasedate>
 	</game>
 	<game>
 		<path>./Jack Nicklaus' Turbo Golf (USA).zip</path>
@@ -1587,8 +1271,6 @@
 		<video>./video/Jack Nicklaus' Turbo Golf (USA).mp4</video>
 		<marquee>./marquee/Jack Nicklaus' Turbo Golf (USA).png</marquee>
 		<thumbnail>./box/Jack Nicklaus' Turbo Golf (USA).png</thumbnail>
-		<players>4</players>
-		<releasedate>19900101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Jackie Chan (Japan).zip</path>
@@ -1597,8 +1279,6 @@
 		<video>./video/Jackie Chan's Action Kung Fu (USA).mp4</video>
 		<marquee>./marquee/Jackie Chan (Japan).png</marquee>
 		<thumbnail>./box/Jackie Chan (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19910118T000000</releasedate>
 	</game>
 	<game>
 		<path>./Jackie Chan's Action Kung Fu (USA).zip</path>
@@ -1607,8 +1287,6 @@
 		<video>./video/Jackie Chan's Action Kung Fu (USA).mp4</video>
 		<marquee>./marquee/Jackie Chan's Action Kung Fu (USA).png</marquee>
 		<thumbnail>./box/Jackie Chan's Action Kung Fu (USA).png</thumbnail>
-		<players>1</players>
-		<releasedate>19920101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Jaseiken Necromancer (Japan) (Virtual Console).zip</path>
@@ -1617,8 +1295,6 @@
 		<video>./video/Jaseiken Necromancer (Japan).mp4</video>
 		<marquee>./marquee/Jaseiken Necromancer (Japan) (Virtual Console).png</marquee>
 		<thumbnail>./box/Jaseiken Necromancer (Japan) (Virtual Console).png</thumbnail>
-		<players>1</players>
-		<releasedate>19880122T000000</releasedate>
 	</game>
 	<game>
 		<path>./Jaseiken Necromancer (Japan).zip</path>
@@ -1627,8 +1303,6 @@
 		<video>./video/Jaseiken Necromancer (Japan).mp4</video>
 		<marquee>./marquee/Jaseiken Necromancer (Japan).png</marquee>
 		<thumbnail>./box/Jaseiken Necromancer (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19880122T000000</releasedate>
 	</game>
 	<game>
 		<path>./Jigoku Meguri (Japan).zip</path>
@@ -1637,8 +1311,6 @@
 		<video>./video/Jigoku Meguri (Japan).mp4</video>
 		<marquee>./marquee/Jigoku Meguri (Japan).png</marquee>
 		<thumbnail>./box/Jigoku Meguri (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19900803T000000</releasedate>
 	</game>
 	<game>
 		<path>./Jinmu Denshou (Japan).zip</path>
@@ -1647,8 +1319,6 @@
 		<video>./video/Jinmu Denshou (Japan).mp4</video>
 		<marquee>./marquee/Jinmu Denshou (Japan).png</marquee>
 		<thumbnail>./box/Jinmu Denshou (Japan).png</thumbnail>
-		<players/>
-		<releasedate>19890623T000000</releasedate>
 	</game>
 	<game>
 		<path>./Juuouki (Japan).zip</path>
@@ -1657,8 +1327,6 @@
 		<video>./video/Juuouki (Japan).mp4</video>
 		<marquee>./marquee/Juuouki (Japan).png</marquee>
 		<thumbnail>./box/Juuouki (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19890929T000000</releasedate>
 	</game>
 	<game>
 		<path>./Kaizou Choujin Shubibinman (Japan).zip</path>
@@ -1667,8 +1335,6 @@
 		<video>./video/Kaizou Choujin Shubibinman (Japan).mp4</video>
 		<marquee>./marquee/Kaizou Choujin Shubibinman (Japan).png</marquee>
 		<thumbnail>./box/Kaizou Choujin Shubibinman (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19890318T000000</releasedate>
 	</game>
 	<game>
 		<path>./Kaizou Choujin Shubibinman 2 - Aratanaru Teki (Japan).zip</path>
@@ -1677,8 +1343,6 @@
 		<video>./video/Shockman (USA).mp4</video>
 		<marquee>./marquee/Kaizou Choujin Shubibinman 2 - Aratanaru Teki (Japan).png</marquee>
 		<thumbnail>./box/Kaizou Choujin Shubibinman 2 - Aratanaru Teki (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19910426T000000</releasedate>
 	</game>
 	<game>
 		<path>./Kato-chan Ken-chan (Japan).zip</path>
@@ -1687,8 +1351,6 @@
 		<video>./video/J.J. &amp; Jeff (USA).mp4</video>
 		<marquee>./marquee/Kato-chan Ken-chan (Japan).png</marquee>
 		<thumbnail>./box/Kato-chan Ken-chan (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19871130T000000</releasedate>
 	</game>
 	<game>
 		<path>./Kattobi! Takuhai-kun (Japan).zip</path>
@@ -1697,8 +1359,6 @@
 		<video>./video/Kattobi! Takuhai-kun (Japan).mp4</video>
 		<marquee>./marquee/Kattobi! Takuhai-kun (Japan).png</marquee>
 		<thumbnail>./box/Kattobi! Takuhai-kun (Japan).png</thumbnail>
-		<players/>
-		<releasedate>19901109T000000</releasedate>
 	</game>
 	<game>
 		<path>./Keith Courage in Alpha Zones (USA).zip</path>
@@ -1707,8 +1367,6 @@
 		<video>./video/Keith Courage in Alpha Zones (USA).mp4</video>
 		<marquee>./marquee/Keith Courage in Alpha Zones (USA).png</marquee>
 		<thumbnail>./box/Keith Courage in Alpha Zones (USA).png</thumbnail>
-		<players>1</players>
-		<releasedate>19890101T000000</releasedate>
 	</game>
 	<game>
 		<path>./KickBall (Japan).zip</path>
@@ -1717,8 +1375,6 @@
 		<video>./video/KickBall (Japan).mp4</video>
 		<marquee>./marquee/KickBall (Japan).png</marquee>
 		<thumbnail>./box/KickBall (Japan).png</thumbnail>
-		<players/>
-		<releasedate>19901124T000000</releasedate>
 	</game>
 	<game>
 		<path>./Kiki Kaikai (Japan).zip</path>
@@ -1727,8 +1383,6 @@
 		<video>./video/Kiki Kaikai (Japan).mp4</video>
 		<marquee>./marquee/Kiki Kaikai (Japan).png</marquee>
 		<thumbnail>./box/Kiki Kaikai (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19900327T000000</releasedate>
 	</game>
 	<game>
 		<path>./King of Casino (Japan).zip</path>
@@ -1737,8 +1391,6 @@
 		<video>./video/King of Casino (USA).mp4</video>
 		<marquee>./marquee/King of Casino (Japan).png</marquee>
 		<thumbnail>./box/King of Casino (Japan).png</thumbnail>
-		<players>5</players>
-		<releasedate>19900330T000000</releasedate>
 	</game>
 	<game>
 		<path>./King of Casino (USA).zip</path>
@@ -1747,8 +1399,6 @@
 		<video>./video/King of Casino (USA).mp4</video>
 		<marquee>./marquee/King of Casino (USA).png</marquee>
 		<thumbnail>./box/King of Casino (USA).png</thumbnail>
-		<players>5</players>
-		<releasedate>19900330T000000</releasedate>
 	</game>
 	<game>
 		<path>./Klax (Japan).zip</path>
@@ -1757,8 +1407,6 @@
 		<video>./video/Klax (USA).mp4</video>
 		<marquee>./marquee/Klax (Japan).png</marquee>
 		<thumbnail>./box/Klax (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19900810T000000</releasedate>
 	</game>
 	<game>
 		<path>./Klax (USA).zip</path>
@@ -1767,8 +1415,6 @@
 		<video>./video/Klax (USA).mp4</video>
 		<marquee>./marquee/Klax (USA).png</marquee>
 		<thumbnail>./box/Klax (USA).png</thumbnail>
-		<players>1</players>
-		<releasedate>19900810T000000</releasedate>
 	</game>
 	<game>
 		<path>./Knight Rider Special (Japan).zip</path>
@@ -1777,8 +1423,6 @@
 		<video>./video/Knight Rider Special (Japan).mp4</video>
 		<marquee>./marquee/Knight Rider Special (Japan).png</marquee>
 		<thumbnail>./box/Knight Rider Special (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19891222T000000</releasedate>
 	</game>
 	<game>
 		<path>./Kore ga Pro Yakyuu '89 (Japan).zip</path>
@@ -1787,8 +1431,6 @@
 		<video>./video/Kore ga Pro Yakyuu '89 (Japan).mp4</video>
 		<marquee>./marquee/Kore ga Pro Yakyuu '89 (Japan).png</marquee>
 		<thumbnail>./box/Kore ga Pro Yakyuu '89 (Japan).png</thumbnail>
-		<players/>
-		<releasedate>19891220T000000</releasedate>
 	</game>
 	<game>
 		<path>./Kore ga Pro Yakyuu '90 (Japan).zip</path>
@@ -1797,8 +1439,6 @@
 		<video>./video/Kore ga Pro Yakyuu '90 (Japan).mp4</video>
 		<marquee>./marquee/Kore ga Pro Yakyuu '90 (Japan).png</marquee>
 		<thumbnail>./box/Kore ga Pro Yakyuu '90 (Japan).png</thumbnail>
-		<players/>
-		<releasedate>19900629T000000</releasedate>
 	</game>
 	<game>
 		<path>./Kung Fu, The (Japan) (Virtual Console).zip</path>
@@ -1807,8 +1447,6 @@
 		<video>./video/China Warrior (USA).mp4</video>
 		<marquee>./marquee/Kung Fu, The (Japan) (Virtual Console).png</marquee>
 		<thumbnail>./box/Kung Fu, The (Japan) (Virtual Console).png</thumbnail>
-		<players>2</players>
-		<releasedate>19871121T000000</releasedate>
 	</game>
 	<game>
 		<path>./Kung Fu, The (Japan).zip</path>
@@ -1817,8 +1455,6 @@
 		<video>./video/China Warrior (USA).mp4</video>
 		<marquee>./marquee/Kung Fu, The (Japan).png</marquee>
 		<thumbnail>./box/Kung Fu, The (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19871121T000000</releasedate>
 	</game>
 	<game>
 		<path>./Kyuukyoku Mahjong - Idol Graphics (Japan) (Unl).zip</path>
@@ -1827,8 +1463,6 @@
 		<video>./video/Kyuukyoku Mahjong - Idol Graphics (Japan) (Unl).mp4</video>
 		<marquee>./marquee/Kyuukyoku Mahjong - Idol Graphics (Japan) (Unl).png</marquee>
 		<thumbnail>./box/Kyuukyoku Mahjong - Idol Graphics (Japan) (Unl).png</thumbnail>
-		<players/>
-		<releasedate/>
 	</game>
 	<game>
 		<path>./Kyuukyoku Mahjong II (Japan) (Unl).zip</path>
@@ -1837,8 +1471,6 @@
 		<video>./video/Kyuukyoku Mahjong II (Japan) (Unl).mp4</video>
 		<marquee>./marquee/Kyuukyoku Mahjong II (Japan) (Unl).png</marquee>
 		<thumbnail>./box/Kyuukyoku Mahjong II (Japan) (Unl).png</thumbnail>
-		<players/>
-		<releasedate/>
 	</game>
 	<game>
 		<path>./Kyuukyoku Tiger (Japan).zip</path>
@@ -1847,8 +1479,6 @@
 		<video>./video/Kyuukyoku Tiger (Japan).mp4</video>
 		<marquee>./marquee/Kyuukyoku Tiger (Japan).png</marquee>
 		<thumbnail>./box/Kyuukyoku Tiger (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19890331T000000</releasedate>
 	</game>
 	<game>
 		<path>./Lady Sword - Ryakudatsu Sareta 10-nin no Otome (Japan) (Unl).zip</path>
@@ -1857,8 +1487,6 @@
 		<video>./video/Lady Sword - Ryakudatsu Sareta 10-nin no Otome (Japan) (Unl).mp4</video>
 		<marquee>./marquee/Lady Sword - Ryakudatsu Sareta 10-nin no Otome (Japan) (Unl).png</marquee>
 		<thumbnail>./box/Lady Sword - Ryakudatsu Sareta 10-nin no Otome (Japan) (Unl).png</thumbnail>
-		<players>1</players>
-		<releasedate>19920101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Legend of Hero Tonma (Japan).zip</path>
@@ -1867,8 +1495,6 @@
 		<video>./video/Legend of Hero Tonma (USA).mp4</video>
 		<marquee>./marquee/Legend of Hero Tonma (Japan).png</marquee>
 		<thumbnail>./box/Legend of Hero Tonma (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19910313T000000</releasedate>
 	</game>
 	<game>
 		<path>./Legend of Hero Tonma (USA).zip</path>
@@ -1877,8 +1503,6 @@
 		<video>./video/Legend of Hero Tonma (USA).mp4</video>
 		<marquee>./marquee/Legend of Hero Tonma (USA).png</marquee>
 		<thumbnail>./box/Legend of Hero Tonma (USA).png</thumbnail>
-		<players>2</players>
-		<releasedate>19910313T000000</releasedate>
 	</game>
 	<game>
 		<path>./Legendary Axe II (USA).zip</path>
@@ -1887,8 +1511,6 @@
 		<video>./video/Legendary Axe II (USA).mp4</video>
 		<marquee>./marquee/Legendary Axe II (USA).png</marquee>
 		<thumbnail>./box/Legendary Axe II (USA).png</thumbnail>
-		<players>1</players>
-		<releasedate>19900101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Legendary Axe, The (USA).zip</path>
@@ -1897,8 +1519,6 @@
 		<video>./video/Legendary Axe, The (USA).mp4</video>
 		<marquee>./marquee/Legendary Axe, The (USA).png</marquee>
 		<thumbnail>./box/Legendary Axe, The (USA).png</thumbnail>
-		<players>1</players>
-		<releasedate>19890101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Lode Runner - Lost Labyrinth (Japan).zip</path>
@@ -1907,8 +1527,6 @@
 		<video>./video/Lode Runner - Lost Labyrinth (Japan).mp4</video>
 		<marquee>./marquee/Lode Runner - Lost Labyrinth (Japan).png</marquee>
 		<thumbnail>./box/Lode Runner - Lost Labyrinth (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19900727T000000</releasedate>
 	</game>
 	<game>
 		<path>./Maerchen Maze (Japan).zip</path>
@@ -1917,8 +1535,6 @@
 		<video>./video/Maerchen Maze (Japan).mp4</video>
 		<marquee>./marquee/Maerchen Maze (Japan).png</marquee>
 		<thumbnail>./box/Maerchen Maze (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19901211T000000</releasedate>
 	</game>
 	<game>
 		<path>./Magical Chase (Japan).zip</path>
@@ -1927,8 +1543,6 @@
 		<video>./video/Magical Chase (USA).mp4</video>
 		<marquee>./marquee/Magical Chase (Japan).png</marquee>
 		<thumbnail>./box/Magical Chase (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19911115T000000</releasedate>
 	</game>
 	<game>
 		<path>./Magical Chase (USA).zip</path>
@@ -1937,8 +1551,6 @@
 		<video>./video/Magical Chase (USA).mp4</video>
 		<marquee>./marquee/Magical Chase (USA).png</marquee>
 		<thumbnail>./box/Magical Chase (USA).png</thumbnail>
-		<players>1</players>
-		<releasedate>19911115T000000</releasedate>
 	</game>
 	<game>
 		<path>./Mahjong Gakuen - Touma Soushirou Toujou (Japan).zip</path>
@@ -1947,8 +1559,6 @@
 		<video>./video/Mahjong Gakuen - Touma Soushirou Toujou (Japan).mp4</video>
 		<marquee>./marquee/Mahjong Gakuen - Touma Soushirou Toujou (Japan).png</marquee>
 		<thumbnail>./box/Mahjong Gakuen - Touma Soushirou Toujou (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19891124T000000</releasedate>
 	</game>
 	<game>
 		<path>./Mahjong Gakuen Mild - Touma Soushirou Toujou (Japan).zip</path>
@@ -1957,8 +1567,6 @@
 		<video>./video/Mahjong Gakuen Mild - Touma Soushirou Toujou (Japan).mp4</video>
 		<marquee>./marquee/Mahjong Gakuen Mild - Touma Soushirou Toujou (Japan).png</marquee>
 		<thumbnail>./box/Mahjong Gakuen Mild - Touma Soushirou Toujou (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19900629T000000</releasedate>
 	</game>
 	<game>
 		<path>./Mahjong Gokuu Special (Japan).zip</path>
@@ -1967,8 +1575,6 @@
 		<video>./video/Mahjong Gokuu Special (Japan).mp4</video>
 		<marquee>./marquee/Mahjong Gokuu Special (Japan).png</marquee>
 		<thumbnail>./box/Mahjong Gokuu Special (Japan).png</thumbnail>
-		<players/>
-		<releasedate>19900810T000000</releasedate>
 	</game>
 	<game>
 		<path>./Mahjong Haouden - Kaiser's Quest (Japan).zip</path>
@@ -1977,8 +1583,6 @@
 		<video>./video/Mahjong Haouden - Kaiser's Quest (Japan).mp4</video>
 		<marquee>./marquee/Mahjong Haouden - Kaiser's Quest (Japan).png</marquee>
 		<thumbnail>./box/Mahjong Haouden - Kaiser's Quest (Japan).png</thumbnail>
-		<players/>
-		<releasedate>19920228T000000</releasedate>
 	</game>
 	<game>
 		<path>./Mahjong Shikaku Retsuden - Mahjong Wars (Japan).zip</path>
@@ -1987,8 +1591,6 @@
 		<video>./video/Mahjong Shikaku Retsuden - Mahjong Wars (Japan).mp4</video>
 		<marquee>./marquee/Mahjong Shikaku Retsuden - Mahjong Wars (Japan).png</marquee>
 		<thumbnail>./box/Mahjong Shikaku Retsuden - Mahjong Wars (Japan).png</thumbnail>
-		<players/>
-		<releasedate>19900201T000000</releasedate>
 	</game>
 	<game>
 		<path>./Maison Ikkoku (Japan).zip</path>
@@ -1997,8 +1599,6 @@
 		<video>./video/Maison Ikkoku (Japan).mp4</video>
 		<marquee>./marquee/Maison Ikkoku (Japan).png</marquee>
 		<thumbnail>./box/Maison Ikkoku (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19890804T000000</releasedate>
 	</game>
 	<game>
 		<path>./Makai Hakkenden Shada (Japan).zip</path>
@@ -2007,8 +1607,6 @@
 		<video>./video/Makai Hakkenden Shada (Japan).mp4</video>
 		<marquee>./marquee/Makai Hakkenden Shada (Japan).png</marquee>
 		<thumbnail>./box/Makai Hakkenden Shada (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19890401T000000</releasedate>
 	</game>
 	<game>
 		<path>./Makai Prince Dorabocchan (Japan).zip</path>
@@ -2017,8 +1615,6 @@
 		<video>./video/Makai Prince Dorabocchan (Japan).mp4</video>
 		<marquee>./marquee/Makai Prince Dorabocchan (Japan).png</marquee>
 		<thumbnail>./box/Makai Prince Dorabocchan (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19901221T000000</releasedate>
 	</game>
 	<game>
 		<path>./Makyou Densetsu (Japan).zip</path>
@@ -2027,8 +1623,6 @@
 		<video>./video/Legendary Axe, The (USA).mp4</video>
 		<marquee>./marquee/Makyou Densetsu (Japan).png</marquee>
 		<thumbnail>./box/Makyou Densetsu (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19880923T000000</releasedate>
 	</game>
 	<game>
 		<path>./Maniac Pro Wres - Asu e no Tatakai (Japan).zip</path>
@@ -2037,8 +1631,6 @@
 		<video>./video/Maniac Pro Wres - Asu e no Tatakai (Japan).mp4</video>
 		<marquee>./marquee/Maniac Pro Wres - Asu e no Tatakai (Japan).png</marquee>
 		<thumbnail>./box/Maniac Pro Wres - Asu e no Tatakai (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19900525T000000</releasedate>
 	</game>
 	<game>
 		<path>./Mashin Eiyuuden Wataru (Japan).zip</path>
@@ -2047,8 +1639,6 @@
 		<video>./video/Keith Courage in Alpha Zones (USA).mp4</video>
 		<marquee>./marquee/Mashin Eiyuuden Wataru (Japan).png</marquee>
 		<thumbnail>./box/Mashin Eiyuuden Wataru (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19880830T000000</releasedate>
 	</game>
 	<game>
 		<path>./Mesopotamia (Japan).zip</path>
@@ -2057,8 +1647,6 @@
 		<video>./video/Somer Assault (USA).mp4</video>
 		<marquee>./marquee/Mesopotamia (Japan).png</marquee>
 		<thumbnail>./box/Mesopotamia (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19911004T000000</releasedate>
 	</game>
 	<game>
 		<path>./Metal Stoker (Japan).zip</path>
@@ -2067,8 +1655,6 @@
 		<video>./video/Metal Stoker (Japan).mp4</video>
 		<marquee>./marquee/Metal Stoker (Japan).png</marquee>
 		<thumbnail>./box/Metal Stoker (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19910712T000000</releasedate>
 	</game>
 	<game>
 		<path>./Military Madness (USA).zip</path>
@@ -2077,8 +1663,6 @@
 		<video>./video/Military Madness (USA).mp4</video>
 		<marquee>./marquee/Military Madness (USA).png</marquee>
 		<thumbnail>./box/Military Madness (USA).png</thumbnail>
-		<players>2</players>
-		<releasedate>19890101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Mizubaku Daibouken (Japan).zip</path>
@@ -2087,8 +1671,6 @@
 		<video>./video/Mizubaku Daibouken (Japan).mp4</video>
 		<marquee>./marquee/Mizubaku Daibouken (Japan).png</marquee>
 		<thumbnail>./box/Mizubaku Daibouken (Japan).png</thumbnail>
-		<players/>
-		<releasedate/>
 	</game>
 	<game>
 		<path>./Momotarou Densetsu Gaiden - Dai-1-shuu (Japan).zip</path>
@@ -2097,8 +1679,6 @@
 		<video>./video/Momotarou Densetsu Gaiden - Dai-1-shuu (Japan).mp4</video>
 		<marquee>./marquee/Momotarou Densetsu Gaiden - Dai-1-shuu (Japan).png</marquee>
 		<thumbnail>./box/Momotarou Densetsu Gaiden - Dai-1-shuu (Japan).png</thumbnail>
-		<players/>
-		<releasedate>19921204T000000</releasedate>
 	</game>
 	<game>
 		<path>./Momotarou Densetsu II (Japan).zip</path>
@@ -2107,8 +1687,6 @@
 		<video>./video/Momotarou Densetsu II (Japan).mp4</video>
 		<marquee>./marquee/Momotarou Densetsu II (Japan).png</marquee>
 		<thumbnail>./box/Momotarou Densetsu II (Japan).png</thumbnail>
-		<players/>
-		<releasedate>19901222T000000</releasedate>
 	</game>
 	<game>
 		<path>./Momotarou Densetsu Turbo (Japan).zip</path>
@@ -2117,8 +1695,6 @@
 		<video>./video/Momotarou Densetsu Turbo (Japan).mp4</video>
 		<marquee>./marquee/Momotarou Densetsu Turbo (Japan).png</marquee>
 		<thumbnail>./box/Momotarou Densetsu Turbo (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19900720T000000</releasedate>
 	</game>
 	<game>
 		<path>./Momotarou Katsugeki (Japan).zip</path>
@@ -2127,8 +1703,6 @@
 		<video>./video/Momotarou Katsugeki (Japan).mp4</video>
 		<marquee>./marquee/Momotarou Katsugeki (Japan).png</marquee>
 		<thumbnail>./box/Momotarou Katsugeki (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19900921T000000</releasedate>
 	</game>
 	<game>
 		<path>./Monster Pro Wres (Japan).zip</path>
@@ -2137,8 +1711,6 @@
 		<video>./video/Monster Pro Wres (Japan).mp4</video>
 		<marquee>./marquee/Monster Pro Wres (Japan).png</marquee>
 		<thumbnail>./box/Monster Pro Wres (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19911122T000000</releasedate>
 	</game>
 	<game>
 		<path>./Morita Shougi PC (Japan).zip</path>
@@ -2147,8 +1719,6 @@
 		<video>./video/Morita Shougi PC (Japan).mp4</video>
 		<marquee>./marquee/Morita Shougi PC (Japan).png</marquee>
 		<thumbnail>./box/Morita Shougi PC (Japan).png</thumbnail>
-		<players/>
-		<releasedate>19910927T000000</releasedate>
 	</game>
 	<game>
 		<path>./Moto Roader (Japan).zip</path>
@@ -2157,8 +1727,6 @@
 		<video>./video/Moto Roader (USA).mp4</video>
 		<marquee>./marquee/Moto Roader (Japan).png</marquee>
 		<thumbnail>./box/Moto Roader (Japan).png</thumbnail>
-		<players>5</players>
-		<releasedate>19890223T000000</releasedate>
 	</game>
 	<game>
 		<path>./Moto Roader (USA).zip</path>
@@ -2167,8 +1735,6 @@
 		<video>./video/Moto Roader (USA).mp4</video>
 		<marquee>./marquee/Moto Roader (USA).png</marquee>
 		<thumbnail>./box/Moto Roader (USA).png</thumbnail>
-		<players>5</players>
-		<releasedate>19890223T000000</releasedate>
 	</game>
 	<game>
 		<path>./Moto Roader II (Japan).zip</path>
@@ -2177,8 +1743,6 @@
 		<video>./video/Moto Roader II (Japan).mp4</video>
 		<marquee>./marquee/Moto Roader II (Japan).png</marquee>
 		<thumbnail>./box/Moto Roader II (Japan).png</thumbnail>
-		<players/>
-		<releasedate>19910329T000000</releasedate>
 	</game>
 	<game>
 		<path>./Mr. Heli no Daibouken (Japan).zip</path>
@@ -2187,8 +1751,6 @@
 		<video>./video/Mr. Heli no Daibouken (Japan).mp4</video>
 		<marquee>./marquee/Mr. Heli no Daibouken (Japan).png</marquee>
 		<thumbnail>./box/Mr. Heli no Daibouken (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19891201T000000</releasedate>
 	</game>
 	<game>
 		<path>./Narazumono Sentou Butai - Bloody Wolf (Japan).zip</path>
@@ -2197,8 +1759,6 @@
 		<video>./video/Bloody Wolf (USA).mp4</video>
 		<marquee>./marquee/Narazumono Sentou Butai - Bloody Wolf (Japan).png</marquee>
 		<thumbnail>./box/Narazumono Sentou Butai - Bloody Wolf (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19890901T000000</releasedate>
 	</game>
 	<game>
 		<path>./Naxat Open (Japan).zip</path>
@@ -2207,8 +1767,6 @@
 		<video>./video/Naxat Open (Japan).mp4</video>
 		<marquee>./marquee/Naxat Open (Japan).png</marquee>
 		<thumbnail>./box/Naxat Open (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19890530T000000</releasedate>
 	</game>
 	<game>
 		<path>./Naxat Stadium (Japan).zip</path>
@@ -2217,8 +1775,6 @@
 		<video>./video/Naxat Stadium (Japan).mp4</video>
 		<marquee>./marquee/Naxat Stadium (Japan).png</marquee>
 		<thumbnail>./box/Naxat Stadium (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19901026T000000</releasedate>
 	</game>
 	<game>
 		<path>./Nazo no Mascarade (Japan).zip</path>
@@ -2227,8 +1783,6 @@
 		<video>./video/Nazo no Mascarade (Japan).mp4</video>
 		<marquee>./marquee/Nazo no Mascarade (Japan).png</marquee>
 		<thumbnail>./box/Nazo no Mascarade (Japan).png</thumbnail>
-		<players/>
-		<releasedate>19900302T000000</releasedate>
 	</game>
 	<game>
 		<path>./Necros no Yousai (Japan).zip</path>
@@ -2237,8 +1791,6 @@
 		<video>./video/Necros no Yousai (Japan).mp4</video>
 		<marquee>./marquee/Necros no Yousai (Japan).png</marquee>
 		<thumbnail>./box/Necros no Yousai (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19900420T000000</releasedate>
 	</game>
 	<game>
 		<path>./Nectaris (Japan).zip</path>
@@ -2247,8 +1799,6 @@
 		<video>./video/Military Madness (USA).mp4</video>
 		<marquee>./marquee/Nectaris (Japan).png</marquee>
 		<thumbnail>./box/Nectaris (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19890209T000000</releasedate>
 	</game>
 	<game>
 		<path>./Nekketsu Koukou Dodgeball-bu - PC Bangai Hen (Japan).zip</path>
@@ -2257,8 +1807,6 @@
 		<video>./video/Nekketsu Koukou Dodgeball-bu - PC Bangai Hen (Japan).mp4</video>
 		<marquee>./marquee/Nekketsu Koukou Dodgeball-bu - PC Bangai Hen (Japan).png</marquee>
 		<thumbnail>./box/Nekketsu Koukou Dodgeball-bu - PC Bangai Hen (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19900330T000000</releasedate>
 	</game>
 	<game>
 		<path>./Nekketsu Koukou Dodgeball-bu - PC Soccer Hen (Japan).zip</path>
@@ -2267,8 +1815,6 @@
 		<video>./video/Nekketsu Koukou Dodgeball-bu - PC Soccer Hen (Japan).mp4</video>
 		<marquee>./marquee/Nekketsu Koukou Dodgeball-bu - PC Soccer Hen (Japan).png</marquee>
 		<thumbnail>./box/Nekketsu Koukou Dodgeball-bu - PC Soccer Hen (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19900330T000000</releasedate>
 	</game>
 	<game>
 		<path>./Neutopia (Japan).zip</path>
@@ -2277,8 +1823,6 @@
 		<video>./video/Neutopia (USA).mp4</video>
 		<marquee>./marquee/Neutopia (Japan).png</marquee>
 		<thumbnail>./box/Neutopia (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19891117T000000</releasedate>
 	</game>
 	<game>
 		<path>./Neutopia (USA).zip</path>
@@ -2287,8 +1831,6 @@
 		<video>./video/Neutopia (USA).mp4</video>
 		<marquee>./marquee/Neutopia (USA).png</marquee>
 		<thumbnail>./box/Neutopia (USA).png</thumbnail>
-		<players>1</players>
-		<releasedate>19891117T000000</releasedate>
 	</game>
 	<game>
 		<path>./Neutopia II (Japan).zip</path>
@@ -2297,8 +1839,6 @@
 		<video>./video/Neutopia II (USA).mp4</video>
 		<marquee>./marquee/Neutopia II (Japan).png</marquee>
 		<thumbnail>./box/Neutopia II (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19910927T000000</releasedate>
 	</game>
 	<game>
 		<path>./Neutopia II (USA).zip</path>
@@ -2307,8 +1847,6 @@
 		<video>./video/Neutopia II (USA).mp4</video>
 		<marquee>./marquee/Neutopia II (USA).png</marquee>
 		<thumbnail>./box/Neutopia II (USA).png</thumbnail>
-		<players>1</players>
-		<releasedate>19910927T000000</releasedate>
 	</game>
 	<game>
 		<path>./New Adventure Island (USA).zip</path>
@@ -2317,8 +1855,6 @@
 		<video>./video/New Adventure Island (USA).mp4</video>
 		<marquee>./marquee/New Adventure Island (USA).png</marquee>
 		<thumbnail>./box/New Adventure Island (USA).png</thumbnail>
-		<players>1</players>
-		<releasedate>19920101T000000</releasedate>
 	</game>
 	<game>
 		<path>./NewZealand Story, The (Japan).zip</path>
@@ -2327,8 +1863,6 @@
 		<video>./video/NewZealand Story, The (Japan).mp4</video>
 		<marquee>./marquee/NewZealand Story, The (Japan).png</marquee>
 		<thumbnail>./box/NewZealand Story, The (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19900223T000000</releasedate>
 	</game>
 	<game>
 		<path>./NHK Taiga Drama - Taiheiki (Japan).zip</path>
@@ -2337,8 +1871,6 @@
 		<video>./video/NHK Taiga Drama - Taiheiki (Japan).mp4</video>
 		<marquee>./marquee/NHK Taiga Drama - Taiheiki (Japan).png</marquee>
 		<thumbnail>./box/NHK Taiga Drama - Taiheiki (Japan).png</thumbnail>
-		<players/>
-		<releasedate>19920131T000000</releasedate>
 	</game>
 	<game>
 		<path>./Night Creatures (USA).zip</path>
@@ -2347,8 +1879,6 @@
 		<video>./video/Night Creatures (USA).mp4</video>
 		<marquee>./marquee/Night Creatures (USA).png</marquee>
 		<thumbnail>./box/Night Creatures (USA).png</thumbnail>
-		<players>1</players>
-		<releasedate>19910101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Niko Niko Pun (Japan).zip</path>
@@ -2357,8 +1887,6 @@
 		<video>./video/Niko Niko Pun (Japan).mp4</video>
 		<marquee>./marquee/Niko Niko Pun (Japan).png</marquee>
 		<thumbnail>./box/Niko Niko Pun (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19911213T000000</releasedate>
 	</game>
 	<game>
 		<path>./Ninja Ryuukenden (Japan) (En,Ja,Zh).zip</path>
@@ -2367,8 +1895,6 @@
 		<video>./video/Ninja Ryuukenden (Japan) (En,Ja,Zh).mp4</video>
 		<marquee>./marquee/Ninja Ryuukenden (Japan) (En,Ja,Zh).png</marquee>
 		<thumbnail>./box/Ninja Ryuukenden (Japan) (En,Ja,Zh).png</thumbnail>
-		<players>1</players>
-		<releasedate>19920124T000000</releasedate>
 	</game>
 	<game>
 		<path>./Ninja Spirit (USA).zip</path>
@@ -2377,8 +1903,6 @@
 		<video>./video/Ninja Spirit (USA).mp4</video>
 		<marquee>./marquee/Ninja Spirit (USA).png</marquee>
 		<thumbnail>./box/Ninja Spirit (USA).png</thumbnail>
-		<players>2</players>
-		<releasedate>19900101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Ninja Warriors, The (Japan).zip</path>
@@ -2387,8 +1911,6 @@
 		<video>./video/Ninja Warriors, The (Japan).mp4</video>
 		<marquee>./marquee/Ninja Warriors, The (Japan).png</marquee>
 		<thumbnail>./box/Ninja Warriors, The (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19890630T000000</releasedate>
 	</game>
 	<game>
 		<path>./Obocchama-kun (Japan).zip</path>
@@ -2397,8 +1919,6 @@
 		<video>./video/Obocchama-kun (Japan).mp4</video>
 		<marquee>./marquee/Obocchama-kun (Japan).png</marquee>
 		<thumbnail>./box/Obocchama-kun (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19910315T000000</releasedate>
 	</game>
 	<game>
 		<path>./Off the Wall (USA) (Proto).zip</path>
@@ -2407,8 +1927,6 @@
 		<video>./video/Off the Wall (USA) (Proto).mp4</video>
 		<marquee>./marquee/Off the Wall (USA) (Proto).png</marquee>
 		<thumbnail>./box/Off the Wall (USA) (Proto).png</thumbnail>
-		<players/>
-		<releasedate/>
 	</game>
 	<game>
 		<path>./Operation Wolf (Japan).zip</path>
@@ -2417,8 +1935,6 @@
 		<video>./video/Operation Wolf (Japan).mp4</video>
 		<marquee>./marquee/Operation Wolf (Japan).png</marquee>
 		<thumbnail>./box/Operation Wolf (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19900831T000000</releasedate>
 	</game>
 	<game>
 		<path>./Ordyne (Japan).zip</path>
@@ -2427,8 +1943,6 @@
 		<video>./video/Ordyne (USA).mp4</video>
 		<marquee>./marquee/Ordyne (Japan).png</marquee>
 		<thumbnail>./box/Ordyne (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19890908T000000</releasedate>
 	</game>
 	<game>
 		<path>./Ordyne (USA).zip</path>
@@ -2437,8 +1951,6 @@
 		<video>./video/Ordyne (USA).mp4</video>
 		<marquee>./marquee/Ordyne (USA).png</marquee>
 		<thumbnail>./box/Ordyne (USA).png</thumbnail>
-		<players>2</players>
-		<releasedate>19890908T000000</releasedate>
 	</game>
 	<game>
 		<path>./Out Live (Japan).zip</path>
@@ -2447,8 +1959,6 @@
 		<video>./video/Out Live (Japan).mp4</video>
 		<marquee>./marquee/Out Live (Japan).png</marquee>
 		<thumbnail>./box/Out Live (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19890317T000000</releasedate>
 	</game>
 	<game>
 		<path>./Out Run (Japan).zip</path>
@@ -2457,8 +1967,6 @@
 		<video>./video/Out Run (Japan).mp4</video>
 		<marquee>./marquee/Out Run (Japan).png</marquee>
 		<thumbnail>./box/Out Run (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19901221T000000</releasedate>
 	</game>
 	<game>
 		<path>./Override (Japan).zip</path>
@@ -2467,8 +1975,6 @@
 		<video>./video/Override (Japan).mp4</video>
 		<marquee>./marquee/Override (Japan).png</marquee>
 		<thumbnail>./box/Override (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19910108T000000</releasedate>
 	</game>
 	<game>
 		<path>./P-47 - The Freedom Fighter (Japan).zip</path>
@@ -2477,8 +1983,6 @@
 		<video>./video/P-47 - The Freedom Fighter (Japan).mp4</video>
 		<marquee>./marquee/P-47 - The Freedom Fighter (Japan).png</marquee>
 		<thumbnail>./box/P-47 - The Freedom Fighter (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19890320T000000</releasedate>
 	</game>
 	<game>
 		<path>./Pac-Land (Japan).zip</path>
@@ -2487,8 +1991,6 @@
 		<video>./video/Pac-Land (USA).mp4</video>
 		<marquee>./marquee/Pac-Land (Japan).png</marquee>
 		<thumbnail>./box/Pac-Land (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19890601T000000</releasedate>
 	</game>
 	<game>
 		<path>./Pac-Land (USA).zip</path>
@@ -2497,8 +1999,6 @@
 		<video>./video/Pac-Land (USA).mp4</video>
 		<marquee>./marquee/Pac-Land (USA).png</marquee>
 		<thumbnail>./box/Pac-Land (USA).png</thumbnail>
-		<players>2</players>
-		<releasedate>19890601T000000</releasedate>
 	</game>
 	<game>
 		<path>./Pachio-kun - Juuban Shoubu (Japan).zip</path>
@@ -2507,8 +2007,6 @@
 		<video>./video/Pachio-kun - Juuban Shoubu (Japan).mp4</video>
 		<marquee>./marquee/Pachio-kun - Juuban Shoubu (Japan).png</marquee>
 		<thumbnail>./box/Pachio-kun - Juuban Shoubu (Japan).png</thumbnail>
-		<players/>
-		<releasedate>19920313T000000</releasedate>
 	</game>
 	<game>
 		<path>./Paranoia (Japan).zip</path>
@@ -2517,8 +2015,6 @@
 		<video>./video/Psychosis (USA).mp4</video>
 		<marquee>./marquee/Paranoia (Japan).png</marquee>
 		<thumbnail>./box/Paranoia (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19900301T000000</releasedate>
 	</game>
 	<game>
 		<path>./Parasol Stars - The Story of Bubble Bobble III (Japan).zip</path>
@@ -2527,8 +2023,6 @@
 		<video>./video/Parasol Stars - The Story of Bubble Bobble III (USA).mp4</video>
 		<marquee>./marquee/Parasol Stars - The Story of Bubble Bobble III (Japan).png</marquee>
 		<thumbnail>./box/Parasol Stars - The Story of Bubble Bobble III (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19910502T000000</releasedate>
 	</game>
 	<game>
 		<path>./Parasol Stars - The Story of Bubble Bobble III (USA).zip</path>
@@ -2537,8 +2031,6 @@
 		<video>./video/Parasol Stars - The Story of Bubble Bobble III (USA).mp4</video>
 		<marquee>./marquee/Parasol Stars - The Story of Bubble Bobble III (USA).png</marquee>
 		<thumbnail>./box/Parasol Stars - The Story of Bubble Bobble III (USA).png</thumbnail>
-		<players>2</players>
-		<releasedate>19910502T000000</releasedate>
 	</game>
 	<game>
 		<path>./Parodius Da! - Shinwa kara Owarai e (Japan).zip</path>
@@ -2547,8 +2039,6 @@
 		<video>./video/Parodius Da! - Shinwa kara Owarai e (Japan).mp4</video>
 		<marquee>./marquee/Parodius Da! - Shinwa kara Owarai e (Japan).png</marquee>
 		<thumbnail>./box/Parodius Da! - Shinwa kara Owarai e (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19920221T000000</releasedate>
 	</game>
 	<game>
 		<path>./PC Denjin - Punkic Cyborgs (Japan).zip</path>
@@ -2557,8 +2047,6 @@
 		<video>./video/Air Zonk (USA).mp4</video>
 		<marquee>./marquee/PC Denjin - Punkic Cyborgs (Japan).png</marquee>
 		<thumbnail>./box/PC Denjin - Punkic Cyborgs (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19921212T000000</releasedate>
 	</game>
 	<game>
 		<path>./PC Genjin - Pithecanthropus Computerurus (Japan).zip</path>
@@ -2567,8 +2055,6 @@
 		<video>./video/Bonk's Adventure (USA).mp4</video>
 		<marquee>./marquee/PC Genjin - Pithecanthropus Computerurus (Japan).png</marquee>
 		<thumbnail>./box/PC Genjin - Pithecanthropus Computerurus (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19891215T000000</releasedate>
 	</game>
 	<game>
 		<path>./PC Genjin 2 - Pithecanthropus Computerurus (Japan) (Virtual Console).zip</path>
@@ -2577,8 +2063,6 @@
 		<video>./video/Bonk's Revenge (USA).mp4</video>
 		<marquee>./marquee/PC Genjin 2 - Pithecanthropus Computerurus (Japan) (Virtual Console).png</marquee>
 		<thumbnail>./box/PC Genjin 2 - Pithecanthropus Computerurus (Japan) (Virtual Console).png</thumbnail>
-		<players>1</players>
-		<releasedate>19910719T000000</releasedate>
 	</game>
 	<game>
 		<path>./PC Genjin 2 - Pithecanthropus Computerurus (Japan).zip</path>
@@ -2587,8 +2071,6 @@
 		<video>./video/Bonk's Revenge (USA).mp4</video>
 		<marquee>./marquee/PC Genjin 2 - Pithecanthropus Computerurus (Japan).png</marquee>
 		<thumbnail>./box/PC Genjin 2 - Pithecanthropus Computerurus (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19910719T000000</releasedate>
 	</game>
 	<game>
 		<path>./PC Genjin 3 - Pithecanthropus Computerurus (Japan) (Sample).zip</path>
@@ -2597,8 +2079,6 @@
 		<video>./video/Bonk 3 - Bonk's Big Adventure (USA).mp4</video>
 		<marquee>./marquee/PC Genjin 3 - Pithecanthropus Computerurus (Japan) (Sample).png</marquee>
 		<thumbnail>./box/PC Genjin 3 - Pithecanthropus Computerurus (Japan) (Sample).png</thumbnail>
-		<players>1</players>
-		<releasedate>19930402T000000</releasedate>
 	</game>
 	<game>
 		<path>./PC Genjin 3 - Pithecanthropus Computerurus (Japan).zip</path>
@@ -2607,8 +2087,6 @@
 		<video>./video/Bonk 3 - Bonk's Big Adventure (USA).mp4</video>
 		<marquee>./marquee/PC Genjin 3 - Pithecanthropus Computerurus (Japan).png</marquee>
 		<thumbnail>./box/PC Genjin 3 - Pithecanthropus Computerurus (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19930402T000000</releasedate>
 	</game>
 	<game>
 		<path>./PC Pachi-Slot - Idol Gambler (Japan) (Unl).zip</path>
@@ -2617,8 +2095,6 @@
 		<video>./video/PC Pachi-Slot - Idol Gambler (Japan) (Unl).mp4</video>
 		<marquee>./marquee/PC Pachi-Slot - Idol Gambler (Japan) (Unl).png</marquee>
 		<thumbnail>./box/PC Pachi-Slot - Idol Gambler (Japan) (Unl).png</thumbnail>
-		<players>1</players>
-		<releasedate>19920101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Populous (Japan).zip</path>
@@ -2627,8 +2103,6 @@
 		<video>./video/Populous (Japan).mp4</video>
 		<marquee>./marquee/Populous (Japan).png</marquee>
 		<thumbnail>./box/Populous (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19910405T000000</releasedate>
 	</game>
 	<game>
 		<path>./Power Drift (Japan).zip</path>
@@ -2637,8 +2111,6 @@
 		<video>./video/Power Drift (Japan).mp4</video>
 		<marquee>./marquee/Power Drift (Japan).png</marquee>
 		<thumbnail>./box/Power Drift (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19900413T000000</releasedate>
 	</game>
 	<game>
 		<path>./Power Eleven (Japan).zip</path>
@@ -2647,8 +2119,6 @@
 		<video>./video/Power Eleven (Japan).mp4</video>
 		<marquee>./marquee/Power Eleven (Japan).png</marquee>
 		<thumbnail>./box/Power Eleven (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19910621T000000</releasedate>
 	</game>
 	<game>
 		<path>./Power Gate (Japan).zip</path>
@@ -2657,8 +2127,6 @@
 		<video>./video/Power Gate (Japan).mp4</video>
 		<marquee>./marquee/Power Gate (Japan).png</marquee>
 		<thumbnail>./box/Power Gate (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19910830T000000</releasedate>
 	</game>
 	<game>
 		<path>./Power Golf (Japan).zip</path>
@@ -2667,8 +2135,6 @@
 		<video>./video/Power Golf (USA).mp4</video>
 		<marquee>./marquee/Power Golf (Japan).png</marquee>
 		<thumbnail>./box/Power Golf (Japan).png</thumbnail>
-		<players>3</players>
-		<releasedate>19890525T000000</releasedate>
 	</game>
 	<game>
 		<path>./Power Golf (USA).zip</path>
@@ -2677,8 +2143,6 @@
 		<video>./video/Power Golf (USA).mp4</video>
 		<marquee>./marquee/Power Golf (USA).png</marquee>
 		<thumbnail>./box/Power Golf (USA).png</thumbnail>
-		<players>3</players>
-		<releasedate>19890525T000000</releasedate>
 	</game>
 	<game>
 		<path>./Power League '93 (Japan).zip</path>
@@ -2687,8 +2151,6 @@
 		<video>./video/Power League '93 (Japan).mp4</video>
 		<marquee>./marquee/Power League '93 (Japan).png</marquee>
 		<thumbnail>./box/Power League '93 (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19931015T000000</releasedate>
 	</game>
 	<game>
 		<path>./Power League (Japan).zip</path>
@@ -2697,8 +2159,6 @@
 		<video>./video/World Class Baseball (USA).mp4</video>
 		<marquee>./marquee/Power League (Japan).png</marquee>
 		<thumbnail>./box/Power League (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19880624T000000</releasedate>
 	</game>
 	<game>
 		<path>./Power League 4 (Japan).zip</path>
@@ -2707,8 +2167,6 @@
 		<video>./video/Power League 4 (Japan).mp4</video>
 		<marquee>./marquee/Power League 4 (Japan).png</marquee>
 		<thumbnail>./box/Power League 4 (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19910809T000000</releasedate>
 	</game>
 	<game>
 		<path>./Power League 5 (Japan).zip</path>
@@ -2717,8 +2175,6 @@
 		<video>./video/Power League 5 (Japan).mp4</video>
 		<marquee>./marquee/Power League 5 (Japan).png</marquee>
 		<thumbnail>./box/Power League 5 (Japan).png</thumbnail>
-		<players/>
-		<releasedate>19920807T000000</releasedate>
 	</game>
 	<game>
 		<path>./Power League II (Japan).zip</path>
@@ -2727,8 +2183,6 @@
 		<video>./video/Power League II (Japan).mp4</video>
 		<marquee>./marquee/Power League II (Japan).png</marquee>
 		<thumbnail>./box/Power League II (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19890808T000000</releasedate>
 	</game>
 	<game>
 		<path>./Power League III (Japan).zip</path>
@@ -2737,8 +2191,6 @@
 		<video>./video/Power League III (Japan).mp4</video>
 		<marquee>./marquee/Power League III (Japan).png</marquee>
 		<thumbnail>./box/Power League III (Japan).png</thumbnail>
-		<players/>
-		<releasedate>19900810T000000</releasedate>
 	</game>
 	<game>
 		<path>./Power Sports (Japan).zip</path>
@@ -2747,8 +2199,6 @@
 		<video>./video/World Sports Competition (USA).mp4</video>
 		<marquee>./marquee/Power Sports (Japan).png</marquee>
 		<thumbnail>./box/Power Sports (Japan).png</thumbnail>
-		<players>5</players>
-		<releasedate>19921010T000000</releasedate>
 	</game>
 	<game>
 		<path>./Power Tennis (Japan).zip</path>
@@ -2757,8 +2207,6 @@
 		<video>./video/Power Tennis (Japan).mp4</video>
 		<marquee>./marquee/Power Tennis (Japan).png</marquee>
 		<thumbnail>./box/Power Tennis (Japan).png</thumbnail>
-		<players>4</players>
-		<releasedate>19930625T000000</releasedate>
 	</game>
 	<game>
 		<path>./Pro Tennis - World Court (Japan).zip</path>
@@ -2767,8 +2215,6 @@
 		<video>./video/World Court Tennis (USA).mp4</video>
 		<marquee>./marquee/Pro Tennis - World Court (Japan).png</marquee>
 		<thumbnail>./box/Pro Tennis - World Court (Japan).png</thumbnail>
-		<players>4</players>
-		<releasedate>19880811T000000</releasedate>
 	</game>
 	<game>
 		<path>./Pro Yakyuu World Stadium '91 (Japan).zip</path>
@@ -2777,8 +2223,6 @@
 		<video>./video/Pro Yakyuu World Stadium '91 (Japan).mp4</video>
 		<marquee>./marquee/Pro Yakyuu World Stadium '91 (Japan).png</marquee>
 		<thumbnail>./box/Pro Yakyuu World Stadium '91 (Japan).png</thumbnail>
-		<players/>
-		<releasedate>19910321T000000</releasedate>
 	</game>
 	<game>
 		<path>./Pro Yakyuu World Stadium (Japan).zip</path>
@@ -2787,8 +2231,6 @@
 		<video>./video/Pro Yakyuu World Stadium (Japan).mp4</video>
 		<marquee>./marquee/Pro Yakyuu World Stadium (Japan).png</marquee>
 		<thumbnail>./box/Pro Yakyuu World Stadium (Japan).png</thumbnail>
-		<players/>
-		<releasedate>19880520T000000</releasedate>
 	</game>
 	<game>
 		<path>./Psycho Chaser (Japan).zip</path>
@@ -2797,8 +2239,6 @@
 		<video>./video/Psycho Chaser (Japan).mp4</video>
 		<marquee>./marquee/Psycho Chaser (Japan).png</marquee>
 		<thumbnail>./box/Psycho Chaser (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19900406T000000</releasedate>
 	</game>
 	<game>
 		<path>./Psychosis (USA).zip</path>
@@ -2807,8 +2247,6 @@
 		<video>./video/Psychosis (USA).mp4</video>
 		<marquee>./marquee/Psychosis (USA).png</marquee>
 		<thumbnail>./box/Psychosis (USA).png</thumbnail>
-		<players>1</players>
-		<releasedate>19900101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Puzzle Boy (Japan).zip</path>
@@ -2817,8 +2255,6 @@
 		<video>./video/Puzzle Boy (Japan).mp4</video>
 		<marquee>./marquee/Puzzle Boy (Japan).png</marquee>
 		<thumbnail>./box/Puzzle Boy (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19910222T000000</releasedate>
 	</game>
 	<game>
 		<path>./Puzznic (Japan).zip</path>
@@ -2827,8 +2263,6 @@
 		<video>./video/Puzznic (Japan).mp4</video>
 		<marquee>./marquee/Puzznic (Japan).png</marquee>
 		<thumbnail>./box/Puzznic (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19900629T000000</releasedate>
 	</game>
 	<game>
 		<path>./Quiz Toukou Shashin (Japan) (Unl).zip</path>
@@ -2837,8 +2271,6 @@
 		<video>./video/Quiz Toukou Shashin (Japan) (Unl).mp4</video>
 		<marquee>./marquee/Quiz Toukou Shashin (Japan) (Unl).png</marquee>
 		<thumbnail>./box/Quiz Toukou Shashin (Japan) (Unl).png</thumbnail>
-		<players>1</players>
-		<releasedate>19920101T000000</releasedate>
 	</game>
 	<game>
 		<path>./R-Type (USA).zip</path>
@@ -2847,8 +2279,6 @@
 		<video>./video/R-Type (USA).mp4</video>
 		<marquee>./marquee/R-Type (USA).png</marquee>
 		<thumbnail>./box/R-Type (USA).png</thumbnail>
-		<players>1</players>
-		<releasedate>19890101T000000</releasedate>
 	</game>
 	<game>
 		<path>./R-Type I (Japan).zip</path>
@@ -2857,8 +2287,6 @@
 		<video>./video/R-Type I (Japan).mp4</video>
 		<marquee>./marquee/R-Type I (Japan).png</marquee>
 		<thumbnail>./box/R-Type I (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19880325T000000</releasedate>
 	</game>
 	<game>
 		<path>./R-Type II (Japan) (v1.1).zip</path>
@@ -2867,8 +2295,6 @@
 		<video>./video/R-Type II (Japan) (v1.1).mp4</video>
 		<marquee>./marquee/R-Type II (Japan) (v1.1).png</marquee>
 		<thumbnail>./box/R-Type II (Japan) (v1.1).png</thumbnail>
-		<players>1</players>
-		<releasedate>19880603T000000</releasedate>
 	</game>
 	<game>
 		<path>./R-Type II (Japan).zip</path>
@@ -2877,8 +2303,6 @@
 		<video>./video/R-Type II (Japan) (v1.1).mp4</video>
 		<marquee>./marquee/R-Type II (Japan).png</marquee>
 		<thumbnail>./box/R-Type II (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19880603T000000</releasedate>
 	</game>
 	<game>
 		<path>./Rabio Lepus Special (Japan).zip</path>
@@ -2887,8 +2311,6 @@
 		<video>./video/Rabio Lepus Special (Japan).mp4</video>
 		<marquee>./marquee/Rabio Lepus Special (Japan).png</marquee>
 		<thumbnail>./box/Rabio Lepus Special (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19901019T000000</releasedate>
 	</game>
 	<game>
 		<path>./Racing Damashii (Japan).zip</path>
@@ -2897,8 +2319,6 @@
 		<video>./video/Racing Damashii (Japan).mp4</video>
 		<marquee>./marquee/Racing Damashii (Japan).png</marquee>
 		<thumbnail>./box/Racing Damashii (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19910719T000000</releasedate>
 	</game>
 	<game>
 		<path>./Raiden (Japan).zip</path>
@@ -2907,8 +2327,6 @@
 		<video>./video/Raiden (USA).mp4</video>
 		<marquee>./marquee/Raiden (Japan).png</marquee>
 		<thumbnail>./box/Raiden (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19911122T000000</releasedate>
 	</game>
 	<game>
 		<path>./Raiden (USA).zip</path>
@@ -2917,8 +2335,6 @@
 		<video>./video/Raiden (USA).mp4</video>
 		<marquee>./marquee/Raiden (USA).png</marquee>
 		<thumbnail>./box/Raiden (USA).png</thumbnail>
-		<players>1</players>
-		<releasedate>19911122T000000</releasedate>
 	</game>
 	<game>
 		<path>./Rastan Saga II (Japan).zip</path>
@@ -2927,8 +2343,6 @@
 		<video>./video/Rastan Saga II (Japan).mp4</video>
 		<marquee>./marquee/Rastan Saga II (Japan).png</marquee>
 		<thumbnail>./box/Rastan Saga II (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19900706T000000</releasedate>
 	</game>
 	<game>
 		<path>./Rock-On (Japan).zip</path>
@@ -2937,8 +2351,6 @@
 		<video>./video/Rock-On (Japan).mp4</video>
 		<marquee>./marquee/Rock-On (Japan).png</marquee>
 		<thumbnail>./box/Rock-On (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19890825T000000</releasedate>
 	</game>
 	<game>
 		<path>./Ryuukyuu (Japan).zip</path>
@@ -2947,8 +2359,6 @@
 		<video>./video/Ryuukyuu (Japan).mp4</video>
 		<marquee>./marquee/Ryuukyuu (Japan).png</marquee>
 		<thumbnail>./box/Ryuukyuu (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19901026T000000</releasedate>
 	</game>
 	<game>
 		<path>./S.C.I. - Special Criminal Investigation (Japan).zip</path>
@@ -2957,8 +2367,6 @@
 		<video>./video/S.C.I. - Special Criminal Investigation (Japan).mp4</video>
 		<marquee>./marquee/S.C.I. - Special Criminal Investigation (Japan).png</marquee>
 		<thumbnail>./box/S.C.I. - Special Criminal Investigation (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19910125T000000</releasedate>
 	</game>
 	<game>
 		<path>./Sadakichi Seven - Hideyoshi no Ougon (Japan).zip</path>
@@ -2967,8 +2375,6 @@
 		<video>./video/Sadakichi Seven - Hideyoshi no Ougon (Japan).mp4</video>
 		<marquee>./marquee/Sadakichi Seven - Hideyoshi no Ougon (Japan).png</marquee>
 		<thumbnail>./box/Sadakichi Seven - Hideyoshi no Ougon (Japan).png</thumbnail>
-		<players/>
-		<releasedate>19881118T000000</releasedate>
 	</game>
 	<game>
 		<path>./Saigo no Nindou - Ninja Spirit (Japan).zip</path>
@@ -2977,8 +2383,6 @@
 		<video>./video/Ninja Spirit (USA).mp4</video>
 		<marquee>./marquee/Saigo no Nindou - Ninja Spirit (Japan).png</marquee>
 		<thumbnail>./box/Saigo no Nindou - Ninja Spirit (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19900706T000000</releasedate>
 	</game>
 	<game>
 		<path>./Salamander (Japan).zip</path>
@@ -2987,8 +2391,6 @@
 		<video>./video/Salamander (Japan).mp4</video>
 		<marquee>./marquee/Salamander (Japan).png</marquee>
 		<thumbnail>./box/Salamander (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19911206T000000</releasedate>
 	</game>
 	<game>
 		<path>./Samurai-Ghost (USA).zip</path>
@@ -2997,8 +2399,6 @@
 		<video>./video/Samurai-Ghost (USA).mp4</video>
 		<marquee>./marquee/Samurai-Ghost (USA).png</marquee>
 		<thumbnail>./box/Samurai-Ghost (USA).png</thumbnail>
-		<players>1</players>
-		<releasedate>19920101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Sekigahara (Japan).zip</path>
@@ -3007,8 +2407,6 @@
 		<video>./video/Sekigahara (Japan).mp4</video>
 		<marquee>./marquee/Sekigahara (Japan).png</marquee>
 		<thumbnail>./box/Sekigahara (Japan).png</thumbnail>
-		<players/>
-		<releasedate>19900914T000000</releasedate>
 	</game>
 	<game>
 		<path>./Sengoku Mahjong (Japan).zip</path>
@@ -3017,8 +2415,6 @@
 		<video>./video/Sengoku Mahjong (Japan).mp4</video>
 		<marquee>./marquee/Sengoku Mahjong (Japan).png</marquee>
 		<thumbnail>./box/Sengoku Mahjong (Japan).png</thumbnail>
-		<players/>
-		<releasedate>19880708T000000</releasedate>
 	</game>
 	<game>
 		<path>./Shanghai (Japan).zip</path>
@@ -3027,8 +2423,6 @@
 		<video>./video/Shanghai (Japan).mp4</video>
 		<marquee>./marquee/Shanghai (Japan).png</marquee>
 		<thumbnail>./box/Shanghai (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19871030T000000</releasedate>
 	</game>
 	<game>
 		<path>./Shinobi (Japan).zip</path>
@@ -3037,8 +2431,6 @@
 		<video>./video/Shinobi (Japan).mp4</video>
 		<marquee>./marquee/Shinobi (Japan).png</marquee>
 		<thumbnail>./box/Shinobi (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19891208T000000</releasedate>
 	</game>
 	<game>
 		<path>./Shiryou Sensen - War of the Dead (Japan).zip</path>
@@ -3047,8 +2439,6 @@
 		<video>./video/Shiryou Sensen - War of the Dead (Japan).mp4</video>
 		<marquee>./marquee/Shiryou Sensen - War of the Dead (Japan).png</marquee>
 		<thumbnail>./box/Shiryou Sensen - War of the Dead (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19890324T000000</releasedate>
 	</game>
 	<game>
 		<path>./Shockman (USA).zip</path>
@@ -3057,8 +2447,6 @@
 		<video>./video/Shockman (USA).mp4</video>
 		<marquee>./marquee/Shockman (USA).png</marquee>
 		<thumbnail>./box/Shockman (USA).png</thumbnail>
-		<players>2</players>
-		<releasedate>19920101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Shougi Shodan Icchokusen (Japan).zip</path>
@@ -3067,8 +2455,6 @@
 		<video>./video/Shougi Shodan Icchokusen (Japan).mp4</video>
 		<marquee>./marquee/Shougi Shodan Icchokusen (Japan).png</marquee>
 		<thumbnail>./box/Shougi Shodan Icchokusen (Japan).png</thumbnail>
-		<players/>
-		<releasedate>19900810T000000</releasedate>
 	</game>
 	<game>
 		<path>./Shougi Shoshinsha Muyou (Japan).zip</path>
@@ -3077,8 +2463,6 @@
 		<video>./video/Shougi Shoshinsha Muyou (Japan).mp4</video>
 		<marquee>./marquee/Shougi Shoshinsha Muyou (Japan).png</marquee>
 		<thumbnail>./box/Shougi Shoshinsha Muyou (Japan).png</thumbnail>
-		<players/>
-		<releasedate>19911129T000000</releasedate>
 	</game>
 	<game>
 		<path>./SideArms (USA).zip</path>
@@ -3087,8 +2471,6 @@
 		<video>./video/SideArms (USA).mp4</video>
 		<marquee>./marquee/SideArms (USA).png</marquee>
 		<thumbnail>./box/SideArms (USA).png</thumbnail>
-		<players>1</players>
-		<releasedate>19890101T000000</releasedate>
 	</game>
 	<game>
 		<path>./SideArms - Hyper Dyne (Japan).zip</path>
@@ -3097,8 +2479,6 @@
 		<video>./video/SideArms (USA).mp4</video>
 		<marquee>./marquee/SideArms - Hyper Dyne (Japan).png</marquee>
 		<thumbnail>./box/SideArms - Hyper Dyne (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19890714T000000</releasedate>
 	</game>
 	<game>
 		<path>./Silent Debuggers (Japan).zip</path>
@@ -3107,8 +2487,6 @@
 		<video>./video/Silent Debuggers (USA).mp4</video>
 		<marquee>./marquee/Silent Debuggers (Japan).png</marquee>
 		<thumbnail>./box/Silent Debuggers (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19910329T000000</releasedate>
 	</game>
 	<game>
 		<path>./Silent Debuggers (USA).zip</path>
@@ -3117,8 +2495,6 @@
 		<video>./video/Silent Debuggers (USA).mp4</video>
 		<marquee>./marquee/Silent Debuggers (USA).png</marquee>
 		<thumbnail>./box/Silent Debuggers (USA).png</thumbnail>
-		<players>1</players>
-		<releasedate>19910329T000000</releasedate>
 	</game>
 	<game>
 		<path>./Sindibad - Chitei no Daimakyuu (Japan).zip</path>
@@ -3127,8 +2503,6 @@
 		<video>./video/Sindibad - Chitei no Daimakyuu (Japan).mp4</video>
 		<marquee>./marquee/Sindibad - Chitei no Daimakyuu (Japan).png</marquee>
 		<thumbnail>./box/Sindibad - Chitei no Daimakyuu (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19900602T000000</releasedate>
 	</game>
 	<game>
 		<path>./Sinistron (USA).zip</path>
@@ -3137,8 +2511,6 @@
 		<video>./video/Sinistron (USA).mp4</video>
 		<marquee>./marquee/Sinistron (USA).png</marquee>
 		<thumbnail>./box/Sinistron (USA).png</thumbnail>
-		<players>1</players>
-		<releasedate>19910101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Skweek (Japan).zip</path>
@@ -3147,8 +2519,6 @@
 		<video>./video/Skweek (Japan).mp4</video>
 		<marquee>./marquee/Skweek (Japan).png</marquee>
 		<thumbnail>./box/Skweek (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19910802T000000</releasedate>
 	</game>
 	<game>
 		<path>./Soldier Blade (Japan).zip</path>
@@ -3157,8 +2527,6 @@
 		<video>./video/Soldier Blade (USA).mp4</video>
 		<marquee>./marquee/Soldier Blade (Japan).png</marquee>
 		<thumbnail>./box/Soldier Blade (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19920710T000000</releasedate>
 	</game>
 	<game>
 		<path>./Soldier Blade (USA).zip</path>
@@ -3167,8 +2535,6 @@
 		<video>./video/Soldier Blade (USA).mp4</video>
 		<marquee>./marquee/Soldier Blade (USA).png</marquee>
 		<thumbnail>./box/Soldier Blade (USA).png</thumbnail>
-		<players>1</players>
-		<releasedate>19920710T000000</releasedate>
 	</game>
 	<game>
 		<path>./Soldier Blade - Special Version (Japan).zip</path>
@@ -3177,8 +2543,6 @@
 		<video>./video/Soldier Blade - Special Version (Japan).mp4</video>
 		<marquee>./marquee/Soldier Blade - Special Version (Japan).png</marquee>
 		<thumbnail>./box/Soldier Blade - Special Version (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19920710T000000</releasedate>
 	</game>
 	<game>
 		<path>./Somer Assault (USA).zip</path>
@@ -3187,8 +2551,6 @@
 		<video>./video/Somer Assault (USA).mp4</video>
 		<marquee>./marquee/Somer Assault (USA).png</marquee>
 		<thumbnail>./box/Somer Assault (USA).png</thumbnail>
-		<players>1</players>
-		<releasedate>19920101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Son Son II (Japan).zip</path>
@@ -3197,8 +2559,6 @@
 		<video>./video/Son Son II (Japan).mp4</video>
 		<marquee>./marquee/Son Son II (Japan).png</marquee>
 		<thumbnail>./box/Son Son II (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19890127T000000</releasedate>
 	</game>
 	<game>
 		<path>./Sonic Spike - World Championship Beach Volleyball (USA).zip</path>
@@ -3207,8 +2567,6 @@
 		<video>./video/Sonic Spike - World Championship Beach Volleyball (USA).mp4</video>
 		<marquee>./marquee/Sonic Spike - World Championship Beach Volleyball (USA).png</marquee>
 		<thumbnail>./box/Sonic Spike - World Championship Beach Volleyball (USA).png</thumbnail>
-		<players>2</players>
-		<releasedate>19900101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Soukoban World (Japan).zip</path>
@@ -3217,8 +2575,6 @@
 		<video>./video/Boxyboy (USA).mp4</video>
 		<marquee>./marquee/Soukoban World (Japan).png</marquee>
 		<thumbnail>./box/Soukoban World (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19900316T000000</releasedate>
 	</game>
 	<game>
 		<path>./Space Harrier (Japan).zip</path>
@@ -3227,8 +2583,6 @@
 		<video>./video/Space Harrier (USA).mp4</video>
 		<marquee>./marquee/Space Harrier (Japan).png</marquee>
 		<thumbnail>./box/Space Harrier (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19881209T000000</releasedate>
 	</game>
 	<game>
 		<path>./Space Harrier (USA).zip</path>
@@ -3237,8 +2591,6 @@
 		<video>./video/Space Harrier (USA).mp4</video>
 		<marquee>./marquee/Space Harrier (USA).png</marquee>
 		<thumbnail>./box/Space Harrier (USA).png</thumbnail>
-		<players>1</players>
-		<releasedate>19881209T000000</releasedate>
 	</game>
 	<game>
 		<path>./Space Invaders - Fukkatsu no Hi (Japan).zip</path>
@@ -3247,8 +2599,6 @@
 		<video>./video/Space Invaders - Fukkatsu no Hi (Japan).mp4</video>
 		<marquee>./marquee/Space Invaders - Fukkatsu no Hi (Japan).png</marquee>
 		<thumbnail>./box/Space Invaders - Fukkatsu no Hi (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19900302T000000</releasedate>
 	</game>
 	<game>
 		<path>./Spin Pair (Japan).zip</path>
@@ -3257,8 +2607,6 @@
 		<video>./video/Spin Pair (Japan).mp4</video>
 		<marquee>./marquee/Spin Pair (Japan).png</marquee>
 		<thumbnail>./box/Spin Pair (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19901214T000000</releasedate>
 	</game>
 	<game>
 		<path>./Spiral Wave (Japan).zip</path>
@@ -3267,8 +2615,6 @@
 		<video>./video/Spiral Wave (Japan).mp4</video>
 		<marquee>./marquee/Spiral Wave (Japan).png</marquee>
 		<thumbnail>./box/Spiral Wave (Japan).png</thumbnail>
-		<players/>
-		<releasedate>19911213T000000</releasedate>
 	</game>
 	<game>
 		<path>./Splatterhouse (Japan) (En).zip</path>
@@ -3277,8 +2623,6 @@
 		<video>./video/Splatterhouse (USA).mp4</video>
 		<marquee>./marquee/Splatterhouse (Japan) (En).png</marquee>
 		<thumbnail>./box/Splatterhouse (Japan) (En).png</thumbnail>
-		<players>1</players>
-		<releasedate>19900403T000000</releasedate>
 	</game>
 	<game>
 		<path>./Splatterhouse (USA).zip</path>
@@ -3287,8 +2631,6 @@
 		<video>./video/Splatterhouse (USA).mp4</video>
 		<marquee>./marquee/Splatterhouse (USA).png</marquee>
 		<thumbnail>./box/Splatterhouse (USA).png</thumbnail>
-		<players>1</players>
-		<releasedate>19900403T000000</releasedate>
 	</game>
 	<game>
 		<path>./Stratego (Japan).zip</path>
@@ -3297,8 +2639,6 @@
 		<video>./video/Stratego (Japan).mp4</video>
 		<marquee>./marquee/Stratego (Japan).png</marquee>
 		<thumbnail>./box/Stratego (Japan).png</thumbnail>
-		<players/>
-		<releasedate>19920724T000000</releasedate>
 	</game>
 	<game>
 		<path>./Street Fighter II' - Champion Edition (Japan).zip</path>
@@ -3307,8 +2647,6 @@
 		<video>./video/Street Fighter II' - Champion Edition (Japan).mp4</video>
 		<marquee>./marquee/Street Fighter II' - Champion Edition (Japan).png</marquee>
 		<thumbnail>./box/Street Fighter II' - Champion Edition (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19930612T000000</releasedate>
 	</game>
 	<game>
 		<path>./Strip Fighter II (Japan) (Unl).zip</path>
@@ -3317,8 +2655,6 @@
 		<video>./video/Strip Fighter II (Japan) (Unl).mp4</video>
 		<marquee>./marquee/Strip Fighter II (Japan) (Unl).png</marquee>
 		<thumbnail>./box/Strip Fighter II (Japan) (Unl).png</thumbnail>
-		<players>2</players>
-		<releasedate>19930101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Super Metal Crusher (Japan).zip</path>
@@ -3327,8 +2663,6 @@
 		<video>./video/Super Metal Crusher (Japan).mp4</video>
 		<marquee>./marquee/Super Metal Crusher (Japan).png</marquee>
 		<thumbnail>./box/Super Metal Crusher (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19911129T000000</releasedate>
 	</game>
 	<game>
 		<path>./Super Momotarou Dentetsu (Japan).zip</path>
@@ -3337,8 +2671,6 @@
 		<video>./video/Super Momotarou Dentetsu (Japan).mp4</video>
 		<marquee>./marquee/Super Momotarou Dentetsu (Japan).png</marquee>
 		<thumbnail>./box/Super Momotarou Dentetsu (Japan).png</thumbnail>
-		<players/>
-		<releasedate>19890915T000000</releasedate>
 	</game>
 	<game>
 		<path>./Super Momotarou Dentetsu II (Japan).zip</path>
@@ -3347,8 +2679,6 @@
 		<video>./video/Super Momotarou Dentetsu II (Japan).mp4</video>
 		<marquee>./marquee/Super Momotarou Dentetsu II (Japan).png</marquee>
 		<thumbnail>./box/Super Momotarou Dentetsu II (Japan).png</thumbnail>
-		<players/>
-		<releasedate>19911220T000000</releasedate>
 	</game>
 	<game>
 		<path>./Super Star Soldier (Japan).zip</path>
@@ -3357,8 +2687,6 @@
 		<video>./video/Super Star Soldier (USA).mp4</video>
 		<marquee>./marquee/Super Star Soldier (Japan).png</marquee>
 		<thumbnail>./box/Super Star Soldier (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19900706T000000</releasedate>
 	</game>
 	<game>
 		<path>./Super Star Soldier (USA).zip</path>
@@ -3367,8 +2695,6 @@
 		<video>./video/Super Star Soldier (USA).mp4</video>
 		<marquee>./marquee/Super Star Soldier (USA).png</marquee>
 		<thumbnail>./box/Super Star Soldier (USA).png</thumbnail>
-		<players>1</players>
-		<releasedate>19900706T000000</releasedate>
 	</game>
 	<game>
 		<path>./Super Volley Ball (Japan).zip</path>
@@ -3377,8 +2703,6 @@
 		<video>./video/Super Volleyball (USA).mp4</video>
 		<marquee>./marquee/Super Volley Ball (Japan).png</marquee>
 		<thumbnail>./box/Super Volley Ball (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19900207T000000</releasedate>
 	</game>
 	<game>
 		<path>./Super Volleyball (USA).zip</path>
@@ -3387,8 +2711,6 @@
 		<video>./video/Super Volleyball (USA).mp4</video>
 		<marquee>./marquee/Super Volleyball (USA).png</marquee>
 		<thumbnail>./box/Super Volleyball (USA).png</thumbnail>
-		<players>2</players>
-		<releasedate>19900207T000000</releasedate>
 	</game>
 	<game>
 		<path>./Susanoou Densetsu (Japan).zip</path>
@@ -3397,8 +2719,6 @@
 		<video>./video/Susanoou Densetsu (Japan).mp4</video>
 		<marquee>./marquee/Susanoou Densetsu (Japan).png</marquee>
 		<thumbnail>./box/Susanoou Densetsu (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19890427T000000</releasedate>
 	</game>
 	<game>
 		<path>./Taito Chase H.Q. (Japan).zip</path>
@@ -3407,8 +2727,6 @@
 		<video>./video/Chase H.Q. (USA).mp4</video>
 		<marquee>./marquee/Taito Chase H.Q. (Japan).png</marquee>
 		<thumbnail>./box/Taito Chase H.Q. (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19900126T000000</releasedate>
 	</game>
 	<game>
 		<path>./Takahashi Meijin no Shin Bouken-jima (Japan).zip</path>
@@ -3417,8 +2735,6 @@
 		<video>./video/New Adventure Island (USA).mp4</video>
 		<marquee>./marquee/Takahashi Meijin no Shin Bouken-jima (Japan).png</marquee>
 		<thumbnail>./box/Takahashi Meijin no Shin Bouken-jima (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19920626T000000</releasedate>
 	</game>
 	<game>
 		<path>./Takeda Shingen (Japan).zip</path>
@@ -3427,8 +2743,6 @@
 		<video>./video/Takeda Shingen (Japan).mp4</video>
 		<marquee>./marquee/Takeda Shingen (Japan).png</marquee>
 		<thumbnail>./box/Takeda Shingen (Japan).png</thumbnail>
-		<players/>
-		<releasedate>19890728T000000</releasedate>
 	</game>
 	<game>
 		<path>./Takin' It to the Hoop (USA).zip</path>
@@ -3437,8 +2751,6 @@
 		<video>./video/Takin' It to the Hoop (USA).mp4</video>
 		<marquee>./marquee/Takin' It to the Hoop (USA).png</marquee>
 		<thumbnail>./box/Takin' It to the Hoop (USA).png</thumbnail>
-		<players/>
-		<releasedate>19900101T000000</releasedate>
 	</game>
 	<game>
 		<path>./TaleSpin (USA).zip</path>
@@ -3447,8 +2759,6 @@
 		<video>./video/TaleSpin (USA).mp4</video>
 		<marquee>./marquee/TaleSpin (USA).png</marquee>
 		<thumbnail>./box/TaleSpin (USA).png</thumbnail>
-		<players>1</players>
-		<releasedate>19910101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Tatsujin (Japan) (Beta).zip</path>
@@ -3457,8 +2767,6 @@
 		<video>./video/Tatsujin (Japan).mp4</video>
 		<marquee>./marquee/Tatsujin (Japan) (Beta).png</marquee>
 		<thumbnail>./box/Tatsujin (Japan) (Beta).png</thumbnail>
-		<players>1</players>
-		<releasedate>19920724T000000</releasedate>
 	</game>
 	<game>
 		<path>./Tatsujin (Japan).zip</path>
@@ -3467,8 +2775,6 @@
 		<video>./video/Tatsujin (Japan).mp4</video>
 		<marquee>./marquee/Tatsujin (Japan).png</marquee>
 		<thumbnail>./box/Tatsujin (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19920724T000000</releasedate>
 	</game>
 	<game>
 		<path>./Tatsunoko Fighter (Japan).zip</path>
@@ -3477,8 +2783,6 @@
 		<video>./video/Tatsunoko Fighter (Japan).mp4</video>
 		<marquee>./marquee/Tatsunoko Fighter (Japan).png</marquee>
 		<thumbnail>./box/Tatsunoko Fighter (Japan).png</thumbnail>
-		<players/>
-		<releasedate>19891020T000000</releasedate>
 	</game>
 	<game>
 		<path>./Ten no Koe Bank (Japan).zip</path>
@@ -3487,8 +2791,6 @@
 		<video>./video/Ten no Koe Bank (Japan).mp4</video>
 		<marquee>./marquee/Ten no Koe Bank (Japan).png</marquee>
 		<thumbnail>./box/Ten no Koe Bank (Japan).png</thumbnail>
-		<players/>
-		<releasedate/>
 	</game>
 	<game>
 		<path>./Tenseiryuu - Saint Dragon (Japan).zip</path>
@@ -3497,8 +2799,6 @@
 		<video>./video/Tenseiryuu - Saint Dragon (Japan).mp4</video>
 		<marquee>./marquee/Tenseiryuu - Saint Dragon (Japan).png</marquee>
 		<thumbnail>./box/Tenseiryuu - Saint Dragon (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19901221T000000</releasedate>
 	</game>
 	<game>
 		<path>./Terra Cresta II - Mandoler no Gyakushuu (Japan).zip</path>
@@ -3507,8 +2807,6 @@
 		<video>./video/Terra Cresta II - Mandoler no Gyakushuu (Japan).mp4</video>
 		<marquee>./marquee/Terra Cresta II - Mandoler no Gyakushuu (Japan).png</marquee>
 		<thumbnail>./box/Terra Cresta II - Mandoler no Gyakushuu (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19921127T000000</releasedate>
 	</game>
 	<game>
 		<path>./Thunder Blade (Japan).zip</path>
@@ -3517,8 +2815,6 @@
 		<video>./video/Thunder Blade (Japan).mp4</video>
 		<marquee>./marquee/Thunder Blade (Japan).png</marquee>
 		<thumbnail>./box/Thunder Blade (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19901207T000000</releasedate>
 	</game>
 	<game>
 		<path>./Tiger Road (USA).zip</path>
@@ -3527,8 +2823,6 @@
 		<video>./video/Tiger Road (USA).mp4</video>
 		<marquee>./marquee/Tiger Road (USA).png</marquee>
 		<thumbnail>./box/Tiger Road (USA).png</thumbnail>
-		<players>1</players>
-		<releasedate>19900101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Time Cruise (USA).zip</path>
@@ -3537,8 +2831,6 @@
 		<video>./video/Time Cruise (USA).mp4</video>
 		<marquee>./marquee/Time Cruise (USA).png</marquee>
 		<thumbnail>./box/Time Cruise (USA).png</thumbnail>
-		<players>1</players>
-		<releasedate>19920101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Time Cruise II (Japan).zip</path>
@@ -3547,8 +2839,6 @@
 		<video>./video/Time Cruise (USA).mp4</video>
 		<marquee>./marquee/Time Cruise II (Japan).png</marquee>
 		<thumbnail>./box/Time Cruise II (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19911108T000000</releasedate>
 	</game>
 	<game>
 		<path>./Timeball (USA).zip</path>
@@ -3557,8 +2847,6 @@
 		<video>./video/Timeball (USA).mp4</video>
 		<marquee>./marquee/Timeball (USA).png</marquee>
 		<thumbnail>./box/Timeball (USA).png</thumbnail>
-		<players>2</players>
-		<releasedate>19900223T000000</releasedate>
 	</game>
 	<game>
 		<path>./Titan (Japan).zip</path>
@@ -3567,8 +2855,6 @@
 		<video>./video/Titan (Japan).mp4</video>
 		<marquee>./marquee/Titan (Japan).png</marquee>
 		<thumbnail>./box/Titan (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19910315T000000</releasedate>
 	</game>
 	<game>
 		<path>./Toilet Kids (Japan).zip</path>
@@ -3577,8 +2863,6 @@
 		<video>./video/Toilet Kids (Japan).mp4</video>
 		<marquee>./marquee/Toilet Kids (Japan).png</marquee>
 		<thumbnail>./box/Toilet Kids (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19920306T000000</releasedate>
 	</game>
 	<game>
 		<path>./Tora e no Michi (Japan).zip</path>
@@ -3587,8 +2871,6 @@
 		<video>./video/Tiger Road (USA).mp4</video>
 		<marquee>./marquee/Tora e no Michi (Japan).png</marquee>
 		<thumbnail>./box/Tora e no Michi (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19900223T000000</releasedate>
 	</game>
 	<game>
 		<path>./Tower of Druaga, The (Japan).zip</path>
@@ -3597,8 +2879,6 @@
 		<video>./video/Tower of Druaga, The (Japan).mp4</video>
 		<marquee>./marquee/Tower of Druaga, The (Japan).png</marquee>
 		<thumbnail>./box/Tower of Druaga, The (Japan).png</thumbnail>
-		<players/>
-		<releasedate/>
 	</game>
 	<game>
 		<path>./Toy Shop Boys (Japan).zip</path>
@@ -3607,8 +2887,6 @@
 		<video>./video/Toy Shop Boys (Japan).mp4</video>
 		<marquee>./marquee/Toy Shop Boys (Japan).png</marquee>
 		<thumbnail>./box/Toy Shop Boys (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19901214T000000</releasedate>
 	</game>
 	<game>
 		<path>./Tricky (Japan).zip</path>
@@ -3617,8 +2895,6 @@
 		<video>./video/Tricky Kick (USA).mp4</video>
 		<marquee>./marquee/Tricky (Japan).png</marquee>
 		<thumbnail>./box/Tricky (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19910706T000000</releasedate>
 	</game>
 	<game>
 		<path>./Tricky Kick (USA).zip</path>
@@ -3627,8 +2903,6 @@
 		<video>./video/Tricky Kick (USA).mp4</video>
 		<marquee>./marquee/Tricky Kick (USA).png</marquee>
 		<thumbnail>./box/Tricky Kick (USA).png</thumbnail>
-		<players>1</players>
-		<releasedate>19900101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Tsuppari Oozumou - Heisei Ban (Japan).zip</path>
@@ -3637,8 +2911,6 @@
 		<video>./video/Tsuppari Oozumou - Heisei Ban (Japan).mp4</video>
 		<marquee>./marquee/Tsuppari Oozumou - Heisei Ban (Japan).png</marquee>
 		<thumbnail>./box/Tsuppari Oozumou - Heisei Ban (Japan).png</thumbnail>
-		<players/>
-		<releasedate>19930219T000000</releasedate>
 	</game>
 	<game>
 		<path>./Tsuru Teruhito no Jissen Kabushiki Bai Bai Game (Japan).zip</path>
@@ -3647,8 +2919,6 @@
 		<video>./video/Tsuru Teruhito no Jissen Kabushiki Bai Bai Game (Japan).mp4</video>
 		<marquee>./marquee/Tsuru Teruhito no Jissen Kabushiki Bai Bai Game (Japan).png</marquee>
 		<thumbnail>./box/Tsuru Teruhito no Jissen Kabushiki Bai Bai Game (Japan).png</thumbnail>
-		<players/>
-		<releasedate>19891101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Turrican (USA).zip</path>
@@ -3657,8 +2927,6 @@
 		<video>./video/Turrican (USA).mp4</video>
 		<marquee>./marquee/Turrican (USA).png</marquee>
 		<thumbnail>./box/Turrican (USA).png</thumbnail>
-		<players>1</players>
-		<releasedate>19910801T000000</releasedate>
 	</game>
 	<game>
 		<path>./TV Sports Basketball (Japan).zip</path>
@@ -3667,8 +2935,6 @@
 		<video>./video/TV Sports Basketball (USA).mp4</video>
 		<marquee>./marquee/TV Sports Basketball (Japan).png</marquee>
 		<thumbnail>./box/TV Sports Basketball (Japan).png</thumbnail>
-		<players>5</players>
-		<releasedate>19910101T000000</releasedate>
 	</game>
 	<game>
 		<path>./TV Sports Basketball (USA).zip</path>
@@ -3677,8 +2943,6 @@
 		<video>./video/TV Sports Basketball (USA).mp4</video>
 		<marquee>./marquee/TV Sports Basketball (USA).png</marquee>
 		<thumbnail>./box/TV Sports Basketball (USA).png</thumbnail>
-		<players>5</players>
-		<releasedate>19910101T000000</releasedate>
 	</game>
 	<game>
 		<path>./TV Sports Football (Japan).zip</path>
@@ -3687,8 +2951,6 @@
 		<video>./video/TV Sports Football (USA).mp4</video>
 		<marquee>./marquee/TV Sports Football (Japan).png</marquee>
 		<thumbnail>./box/TV Sports Football (Japan).png</thumbnail>
-		<players>5</players>
-		<releasedate>19910329T000000</releasedate>
 	</game>
 	<game>
 		<path>./TV Sports Football (USA).zip</path>
@@ -3697,8 +2959,6 @@
 		<video>./video/TV Sports Football (USA).mp4</video>
 		<marquee>./marquee/TV Sports Football (USA).png</marquee>
 		<thumbnail>./box/TV Sports Football (USA).png</thumbnail>
-		<players>5</players>
-		<releasedate>19910329T000000</releasedate>
 	</game>
 	<game>
 		<path>./TV Sports Hockey (Japan).zip</path>
@@ -3707,8 +2967,6 @@
 		<video>./video/TV Sports Hockey (USA).mp4</video>
 		<marquee>./marquee/TV Sports Hockey (Japan).png</marquee>
 		<thumbnail>./box/TV Sports Hockey (Japan).png</thumbnail>
-		<players>5</players>
-		<releasedate>19930429T000000</releasedate>
 	</game>
 	<game>
 		<path>./TV Sports Hockey (USA).zip</path>
@@ -3717,8 +2975,6 @@
 		<video>./video/TV Sports Hockey (USA).mp4</video>
 		<marquee>./marquee/TV Sports Hockey (USA).png</marquee>
 		<thumbnail>./box/TV Sports Hockey (USA).png</thumbnail>
-		<players>5</players>
-		<releasedate>19930429T000000</releasedate>
 	</game>
 	<game>
 		<path>./USA Pro Basketball (Japan).zip</path>
@@ -3727,8 +2983,6 @@
 		<video>./video/Takin' It to the Hoop (USA).mp4</video>
 		<marquee>./marquee/USA Pro Basketball (Japan).png</marquee>
 		<thumbnail>./box/USA Pro Basketball (Japan).png</thumbnail>
-		<players/>
-		<releasedate>19891201T000000</releasedate>
 	</game>
 	<game>
 		<path>./Valkyrie no Densetsu (Japan).zip</path>
@@ -3737,8 +2991,6 @@
 		<video>./video/Valkyrie no Densetsu (Japan).mp4</video>
 		<marquee>./marquee/Valkyrie no Densetsu (Japan).png</marquee>
 		<thumbnail>./box/Valkyrie no Densetsu (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19900809T000000</releasedate>
 	</game>
 	<game>
 		<path>./Veigues - Tactical Gladiator (Japan).zip</path>
@@ -3747,8 +2999,6 @@
 		<video>./video/Veigues - Tactical Gladiator (USA).mp4</video>
 		<marquee>./marquee/Veigues - Tactical Gladiator (Japan).png</marquee>
 		<thumbnail>./box/Veigues - Tactical Gladiator (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19900629T000000</releasedate>
 	</game>
 	<game>
 		<path>./Veigues - Tactical Gladiator (USA).zip</path>
@@ -3757,8 +3007,6 @@
 		<video>./video/Veigues - Tactical Gladiator (USA).mp4</video>
 		<marquee>./marquee/Veigues - Tactical Gladiator (USA).png</marquee>
 		<thumbnail>./box/Veigues - Tactical Gladiator (USA).png</thumbnail>
-		<players>1</players>
-		<releasedate>19900629T000000</releasedate>
 	</game>
 	<game>
 		<path>./Victory Run (USA).zip</path>
@@ -3767,8 +3015,6 @@
 		<video>./video/Victory Run (USA).mp4</video>
 		<marquee>./marquee/Victory Run (USA).png</marquee>
 		<thumbnail>./box/Victory Run (USA).png</thumbnail>
-		<players>1</players>
-		<releasedate>19871228T000000</releasedate>
 	</game>
 	<game>
 		<path>./Victory Run - Eikou no 13,000km (Japan).zip</path>
@@ -3777,8 +3023,6 @@
 		<video>./video/Victory Run (USA).mp4</video>
 		<marquee>./marquee/Victory Run - Eikou no 13,000km (Japan).png</marquee>
 		<thumbnail>./box/Victory Run - Eikou no 13,000km (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19871228T000000</releasedate>
 	</game>
 	<game>
 		<path>./Vigilante (Japan).zip</path>
@@ -3787,8 +3031,6 @@
 		<video>./video/Vigilante (USA).mp4</video>
 		<marquee>./marquee/Vigilante (Japan).png</marquee>
 		<thumbnail>./box/Vigilante (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19890114T000000</releasedate>
 	</game>
 	<game>
 		<path>./Vigilante (USA).zip</path>
@@ -3797,8 +3039,6 @@
 		<video>./video/Vigilante (USA).mp4</video>
 		<marquee>./marquee/Vigilante (USA).png</marquee>
 		<thumbnail>./box/Vigilante (USA).png</thumbnail>
-		<players>1</players>
-		<releasedate>19890114T000000</releasedate>
 	</game>
 	<game>
 		<path>./Violent Soldier (Japan).zip</path>
@@ -3807,8 +3047,6 @@
 		<video>./video/Sinistron (USA).mp4</video>
 		<marquee>./marquee/Violent Soldier (Japan).png</marquee>
 		<thumbnail>./box/Violent Soldier (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19901214T000000</releasedate>
 	</game>
 	<game>
 		<path>./Volfied (Japan).zip</path>
@@ -3817,8 +3055,6 @@
 		<video>./video/Volfied (Japan).mp4</video>
 		<marquee>./marquee/Volfied (Japan).png</marquee>
 		<thumbnail>./box/Volfied (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19891227T000000</releasedate>
 	</game>
 	<game>
 		<path>./W-Ring - The Double Rings (Japan).zip</path>
@@ -3827,8 +3063,6 @@
 		<video>./video/W-Ring - The Double Rings (Japan).mp4</video>
 		<marquee>./marquee/W-Ring - The Double Rings (Japan).png</marquee>
 		<thumbnail>./box/W-Ring - The Double Rings (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19900928T000000</releasedate>
 	</game>
 	<game>
 		<path>./Wai Wai Mahjong - Yukai na Janyuu-tachi (Japan).zip</path>
@@ -3837,8 +3071,6 @@
 		<video>./video/Wai Wai Mahjong - Yukai na Janyuu-tachi (Japan).mp4</video>
 		<marquee>./marquee/Wai Wai Mahjong - Yukai na Janyuu-tachi (Japan).png</marquee>
 		<thumbnail>./box/Wai Wai Mahjong - Yukai na Janyuu-tachi (Japan).png</thumbnail>
-		<players/>
-		<releasedate>19890619T000000</releasedate>
 	</game>
 	<game>
 		<path>./Wallaby!! - Usagi no Kuni no Kangaroo Race (Japan).zip</path>
@@ -3847,8 +3079,6 @@
 		<video>./video/Wallaby!! - Usagi no Kuni no Kangaroo Race (Japan).mp4</video>
 		<marquee>./marquee/Wallaby!! - Usagi no Kuni no Kangaroo Race (Japan).png</marquee>
 		<thumbnail>./box/Wallaby!! - Usagi no Kuni no Kangaroo Race (Japan).png</thumbnail>
-		<players/>
-		<releasedate>19901214T000000</releasedate>
 	</game>
 	<game>
 		<path>./Winning Shot (Japan).zip</path>
@@ -3857,8 +3087,6 @@
 		<video>./video/Winning Shot (Japan).mp4</video>
 		<marquee>./marquee/Winning Shot (Japan).png</marquee>
 		<thumbnail>./box/Winning Shot (Japan).png</thumbnail>
-		<players/>
-		<releasedate>19890303T000000</releasedate>
 	</game>
 	<game>
 		<path>./Wonder Momo (Japan).zip</path>
@@ -3867,8 +3095,6 @@
 		<video>./video/Wonder Momo (Japan).mp4</video>
 		<marquee>./marquee/Wonder Momo (Japan).png</marquee>
 		<thumbnail>./box/Wonder Momo (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19890421T000000</releasedate>
 	</game>
 	<game>
 		<path>./World Beach Volley (Japan).zip</path>
@@ -3877,8 +3103,6 @@
 		<video>./video/Sonic Spike - World Championship Beach Volleyball (USA).mp4</video>
 		<marquee>./marquee/World Beach Volley (Japan).png</marquee>
 		<thumbnail>./box/World Beach Volley (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19900727T000000</releasedate>
 	</game>
 	<game>
 		<path>./World Circuit (Japan).zip</path>
@@ -3887,8 +3111,6 @@
 		<video>./video/World Circuit (Japan).mp4</video>
 		<marquee>./marquee/World Circuit (Japan).png</marquee>
 		<thumbnail>./box/World Circuit (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19911018T000000</releasedate>
 	</game>
 	<game>
 		<path>./World Class Baseball (USA).zip</path>
@@ -3897,8 +3119,6 @@
 		<video>./video/World Class Baseball (USA).mp4</video>
 		<marquee>./marquee/World Class Baseball (USA).png</marquee>
 		<thumbnail>./box/World Class Baseball (USA).png</thumbnail>
-		<players>2</players>
-		<releasedate>19890101T000000</releasedate>
 	</game>
 	<game>
 		<path>./World Class Baseball (USA, Europe) (Virtual Console).zip</path>
@@ -3907,8 +3127,6 @@
 		<video>./video/World Class Baseball (USA).mp4</video>
 		<marquee>./marquee/World Class Baseball (USA, Europe) (Virtual Console).png</marquee>
 		<thumbnail>./box/World Class Baseball (USA, Europe) (Virtual Console).png</thumbnail>
-		<players>2</players>
-		<releasedate>19890101T000000</releasedate>
 	</game>
 	<game>
 		<path>./World Court Tennis (USA).zip</path>
@@ -3917,8 +3135,6 @@
 		<video>./video/World Court Tennis (USA).mp4</video>
 		<marquee>./marquee/World Court Tennis (USA).png</marquee>
 		<thumbnail>./box/World Court Tennis (USA).png</thumbnail>
-		<players>4</players>
-		<releasedate>19890101T000000</releasedate>
 	</game>
 	<game>
 		<path>./World Jockey (Japan).zip</path>
@@ -3927,8 +3143,6 @@
 		<video>./video/World Jockey (Japan).mp4</video>
 		<marquee>./marquee/World Jockey (Japan).png</marquee>
 		<thumbnail>./box/World Jockey (Japan).png</thumbnail>
-		<players>4</players>
-		<releasedate>19910920T000000</releasedate>
 	</game>
 	<game>
 		<path>./World Sports Competition (USA).zip</path>
@@ -3937,8 +3151,6 @@
 		<video>./video/World Sports Competition (USA).mp4</video>
 		<marquee>./marquee/World Sports Competition (USA).png</marquee>
 		<thumbnail>./box/World Sports Competition (USA).png</thumbnail>
-		<players>5</players>
-		<releasedate>19930101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Xevious - Fardraut Saga (Japan).zip</path>
@@ -3947,8 +3159,6 @@
 		<video>./video/Xevious - Fardraut Saga (Japan).mp4</video>
 		<marquee>./marquee/Xevious - Fardraut Saga (Japan).png</marquee>
 		<thumbnail>./box/Xevious - Fardraut Saga (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19900629T000000</releasedate>
 	</game>
 	<game>
 		<path>./Yo, Bro (USA).zip</path>
@@ -3957,8 +3167,6 @@
 		<video>./video/Yo, Bro (USA).mp4</video>
 		<marquee>./marquee/Yo, Bro (USA).png</marquee>
 		<thumbnail>./box/Yo, Bro (USA).png</thumbnail>
-		<players>2</players>
-		<releasedate>19910101T000000</releasedate>
 	</game>
 	<game>
 		<path>./You-You Jinsei (Japan).zip</path>
@@ -3967,8 +3175,6 @@
 		<video>./video/You-You Jinsei (Japan).mp4</video>
 		<marquee>./marquee/You-You Jinsei (Japan).png</marquee>
 		<thumbnail>./box/You-You Jinsei (Japan).png</thumbnail>
-		<players/>
-		<releasedate>19880422T000000</releasedate>
 	</game>
 	<game>
 		<path>./Youkai Douchuuki (Japan) (Virtual Console).zip</path>
@@ -3977,8 +3183,6 @@
 		<video>./video/Youkai Douchuuki (Japan).mp4</video>
 		<marquee>./marquee/Youkai Douchuuki (Japan) (Virtual Console).png</marquee>
 		<thumbnail>./box/Youkai Douchuuki (Japan) (Virtual Console).png</thumbnail>
-		<players>1</players>
-		<releasedate>19880205T000000</releasedate>
 	</game>
 	<game>
 		<path>./Youkai Douchuuki (Japan).zip</path>
@@ -3987,8 +3191,6 @@
 		<video>./video/Youkai Douchuuki (Japan).mp4</video>
 		<marquee>./marquee/Youkai Douchuuki (Japan).png</marquee>
 		<thumbnail>./box/Youkai Douchuuki (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19880205T000000</releasedate>
 	</game>
 	<game>
 		<path>./Zero4 Champ (Japan) (v1.5).zip</path>
@@ -3997,8 +3199,6 @@
 		<video>./video/Zero4 Champ (Japan) (v1.5).mp4</video>
 		<marquee>./marquee/Zero4 Champ (Japan) (v1.5).png</marquee>
 		<thumbnail>./box/Zero4 Champ (Japan) (v1.5).png</thumbnail>
-		<players>1</players>
-		<releasedate>19910308T000000</releasedate>
 	</game>
 	<game>
 		<path>./Zero4 Champ (Japan).zip</path>
@@ -4007,8 +3207,6 @@
 		<video>./video/Zero4 Champ (Japan) (v1.5).mp4</video>
 		<marquee>./marquee/Zero4 Champ (Japan).png</marquee>
 		<thumbnail>./box/Zero4 Champ (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19910308T000000</releasedate>
 	</game>
 	<game>
 		<path>./Zipang (Japan).zip</path>
@@ -4017,8 +3215,6 @@
 		<video>./video/Zipang (Japan).mp4</video>
 		<marquee>./marquee/Zipang (Japan).png</marquee>
 		<thumbnail>./box/Zipang (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19901214T000000</releasedate>
 	</game>
 	<game>
 		<path>./[BIOS] CD-ROM System (Japan) (v1.0).zip</path>
@@ -4027,8 +3223,6 @@
 		<video>./video/[BIOS] TurboGrafx CD Super System Card (USA) (v3.0).mp4</video>
 		<marquee>./marquee/[BIOS] CD-ROM System (Japan) (v1.0).png</marquee>
 		<thumbnail>./box/[BIOS] CD-ROM System (Japan) (v1.0).png</thumbnail>
-		<players/>
-		<releasedate/>
 	</game>
 	<game>
 		<path>./[BIOS] CD-ROM System (Japan) (v2.0).zip</path>
@@ -4037,8 +3231,6 @@
 		<video>./video/[BIOS] TurboGrafx CD Super System Card (USA) (v3.0).mp4</video>
 		<marquee>./marquee/[BIOS] CD-ROM System (Japan) (v2.0).png</marquee>
 		<thumbnail>./box/[BIOS] CD-ROM System (Japan) (v2.0).png</thumbnail>
-		<players/>
-		<releasedate/>
 	</game>
 	<game>
 		<path>./[BIOS] CD-ROM System (Japan) (v2.1).zip</path>
@@ -4047,8 +3239,6 @@
 		<video>./video/[BIOS] TurboGrafx CD Super System Card (USA) (v3.0).mp4</video>
 		<marquee>./marquee/[BIOS] CD-ROM System (Japan) (v2.1).png</marquee>
 		<thumbnail>./box/[BIOS] CD-ROM System (Japan) (v2.1).png</thumbnail>
-		<players/>
-		<releasedate/>
 	</game>
 	<game>
 		<path>./[BIOS] Games Express CD Card (Japan) (Blue Version).zip</path>
@@ -4057,8 +3247,6 @@
 		<video>./video/[BIOS] Games Express CD Card (Japan) (Green Version).mp4</video>
 		<marquee>./marquee/[BIOS] Games Express CD Card (Japan) (Blue Version).png</marquee>
 		<thumbnail>./box/[BIOS] Games Express CD Card (Japan) (Blue Version).png</thumbnail>
-		<players/>
-		<releasedate/>
 	</game>
 	<game>
 		<path>./[BIOS] Games Express CD Card (Japan) (Green Version).zip</path>
@@ -4067,8 +3255,6 @@
 		<video>./video/[BIOS] Games Express CD Card (Japan) (Green Version).mp4</video>
 		<marquee>./marquee/[BIOS] Games Express CD Card (Japan) (Green Version).png</marquee>
 		<thumbnail>./box/[BIOS] Games Express CD Card (Japan) (Green Version).png</thumbnail>
-		<players/>
-		<releasedate/>
 	</game>
 	<game>
 		<path>./[BIOS] Super CD-ROM System (Japan) (v3.0).zip</path>
@@ -4077,8 +3263,6 @@
 		<video>./video/[BIOS] TurboGrafx CD Super System Card (USA) (v3.0).mp4</video>
 		<marquee>./marquee/[BIOS] Super CD-ROM System (Japan) (v3.0).png</marquee>
 		<thumbnail>./box/[BIOS] Super CD-ROM System (Japan) (v3.0).png</thumbnail>
-		<players/>
-		<releasedate/>
 	</game>
 	<game>
 		<path>./[BIOS] TurboGrafx CD Super System Card (USA) (v3.0).zip</path>
@@ -4087,8 +3271,6 @@
 		<video>./video/[BIOS] TurboGrafx CD Super System Card (USA) (v3.0).mp4</video>
 		<marquee>./marquee/[BIOS] TurboGrafx CD Super System Card (USA) (v3.0).png</marquee>
 		<thumbnail>./box/[BIOS] TurboGrafx CD Super System Card (USA) (v3.0).png</thumbnail>
-		<players/>
-		<releasedate/>
 	</game>
 	<game>
 		<path>./[BIOS] TurboGrafx CD System Card (USA) (v2.0).zip</path>
@@ -4097,8 +3279,6 @@
 		<video>./video/[BIOS] TurboGrafx CD Super System Card (USA) (v3.0).mp4</video>
 		<marquee>./marquee/[BIOS] TurboGrafx CD System Card (USA) (v2.0).png</marquee>
 		<thumbnail>./box/[BIOS] TurboGrafx CD System Card (USA) (v2.0).png</thumbnail>
-		<players/>
-		<releasedate/>
 	</game>
 	<game>
 		<path>./1941 - Counter Attack (Japan).zip</path>
@@ -4107,8 +3287,6 @@
 		<video>./video/1941 - Counter Attack (Japan).mp4</video>
 		<marquee>./marquee/1941 - Counter Attack (Japan).png</marquee>
 		<thumbnail>./box/1941 - Counter Attack (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19910823T000000</releasedate>
 	</game>
 	<game>
 		<path>./Aldynes - The Misson Code for Rage Crisis (Japan).zip</path>
@@ -4117,8 +3295,6 @@
 		<video>./video/Aldynes - The Misson Code for Rage Crisis (Japan).mp4</video>
 		<marquee>./marquee/Aldynes - The Misson Code for Rage Crisis (Japan).png</marquee>
 		<thumbnail>./box/Aldynes - The Misson Code for Rage Crisis (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19910222T000000</releasedate>
 	</game>
 	<game>
 		<path>./Battle Ace (Japan).zip</path>
@@ -4127,8 +3303,6 @@
 		<video>./video/Battle Ace (Japan).mp4</video>
 		<marquee>./marquee/Battle Ace (Japan).png</marquee>
 		<thumbnail>./box/Battle Ace (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19891130T000000</releasedate>
 	</game>
 	<game>
 		<path>./Daimakaimura (Japan).zip</path>
@@ -4137,8 +3311,6 @@
 		<video>./video/Daimakaimura (Japan).mp4</video>
 		<marquee>./marquee/Daimakaimura (Japan).png</marquee>
 		<thumbnail>./box/Daimakaimura (Japan).png</thumbnail>
-		<players>2</players>
-		<releasedate>19900727T000000</releasedate>
 	</game>
 	<game>
 		<path>./Madou King Granzort (Japan).zip</path>
@@ -4147,7 +3319,5 @@
 		<video>./video/Madou King Granzort (Japan).mp4</video>
 		<marquee>./marquee/Madou King Granzort (Japan).png</marquee>
 		<thumbnail>./box/Madou King Granzort (Japan).png</thumbnail>
-		<players>1</players>
-		<releasedate>19900406T000000</releasedate>
 	</game>
 </gameList>
