@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<game>
+		<path>./19yyo.zip</path>
+		<name>19YY</name>
+		<image>./../arcade/snap/19yyo.png</image>
+		<video>./../arcade/video/19yy.mp4</video>
+		<marquee>./../arcade/marquee/19yyo.png</marquee>
+		<developer>ADK</developer>
+		<publisher>ADK</publisher>
+		<genre>슈팅 / 수평 비행</genre>
+		<players/>
+		<releasedate/>
+		<desc/>
+	</game>
+	<game>
+		<path>./19yy.zip</path>
+		<name>19YY</name>
+		<image>./../arcade/snap/19yy.png</image>
+		<video>./../arcade/video/19yy.mp4</video>
+		<marquee>./../arcade/marquee/19yy.png</marquee>
+		<developer>ADK</developer>
+		<publisher>ADK</publisher>
+		<genre>슈팅 / 수평 비행</genre>
+		<players/>
+		<releasedate/>
+		<desc/>
+	</game>
+	<game>
 		<path>./2020bb.zip</path>
 		<name>2020 슈퍼 베이스볼</name>
 		<image>./../arcade/snap/2020bb.png</image>
@@ -711,7 +737,7 @@ SNK Neo-Geo MVS 기판으로 출시된 최초의 야구 게임이다.</desc>
 		<genre/>
 		<players/>
 		<releasedate/>
-		<desc>0</desc>
+		<desc/>
 	</game>
 	<game>
 		<path>./ctomaday.zip</path>
@@ -1747,6 +1773,19 @@ SNK 에서 라이센스를 얻은 한국의 "이오리스" 에서 제작한 게�
 구루린은 "페이스 (Face)社"  최초의 네오지오 MVS 하드웨어 작품으로 가정용 콘솔인 AES 용으로는 출시되지 않았다.</desc>
 	</game>
 	<game>
+		<path>./hypernoid.zip</path>
+		<name>하이퍼노이드</name>
+		<image>./../arcade/snap/hypernoid.png</image>
+		<video>./../arcade/video/hypernoid.mp4</video>
+		<marquee>./../arcade/marquee/hypernoid.png</marquee>
+		<developer/>
+		<publisher/>
+		<genre/>
+		<players/>
+		<releasedate>2021</releasedate>
+		<desc/>
+	</game>
+	<game>
 		<path>./froman2b.zip</path>
 		<name>아이돌 마작 - 파이널 로맨스 2</name>
 		<image>./../arcade/snap/froman2b.png</image>
@@ -1783,6 +1822,19 @@ SNK 에서 라이센스를 얻은 한국의 "이오리스" 에서 제작한 게�
 		<genre>카지노 / 경마</genre>
 		<players>2</players>
 		<releasedate>2001</releasedate>
+		<desc/>
+	</game>
+	<game>
+		<path>./ltorb.zip</path>
+		<name>조나스 인디아나 - 잃어버린 라의 사원</name>
+		<image>./../arcade/snap/ltorb.png</image>
+		<video>./../arcade/video/ltorb.mp4</video>
+		<marquee>./../arcade/marquee/ltorb.png</marquee>
+		<developer>blastar@gmx.net</developer>
+		<publisher>blastar@gmx.net</publisher>
+		<genre/>
+		<players/>
+		<releasedate>2005</releasedate>
 		<desc/>
 	</game>
 	<game>
@@ -2130,7 +2182,7 @@ SNK 에서 라이센스를 얻은 한국의 "이오리스" 에서 제작한 게�
 		<genre>퍼즐 / 던지기</genre>
 		<players>2</players>
 		<releasedate/>
-		<desc>0</desc>
+		<desc/>
 	</game>
 	<game>
 		<path>./magdrop3.zip</path>
@@ -2425,11 +2477,11 @@ SNK가 SNK Playmore로 부활한 이후에는 SNKP 에서 제작하고 있다.</
 이러한 버그들은 후속작인 "메탈슬러그 X" 에서 수정되어, 난이도가 좀 높아졌다는 소리를 듣는데에 공헌했다.</desc>
 	</game>
 	<game>
-		<path>./mslug2fm.zip</path>
+		<path>./mslug2eg.zip</path>
 		<name>메탈 슬러그 2 - 슈퍼 비히클 -001/II</name>
-		<image>./../arcade/snap/mslug2fm.png</image>
+		<image>./../arcade/snap/mslug2eg.png</image>
 		<video>./../arcade/video/mslug2.mp4</video>
-		<marquee>./../arcade/marquee/mslug2fm.png</marquee>
+		<marquee>./../arcade/marquee/mslug2eg.png</marquee>
 		<developer>SNK</developer>
 		<publisher>SNK</publisher>
 		<genre>플랫폼 / 슈팅</genre>
@@ -2468,11 +2520,11 @@ SNK가 SNK Playmore로 부활한 이후에는 SNKP 에서 제작하고 있다.</
 이러한 버그들은 후속작인 "메탈슬러그 X" 에서 수정되어, 난이도가 좀 높아졌다는 소리를 듣는데에 공헌했다.</desc>
 	</game>
 	<game>
-		<path>./mslug2p.zip</path>
+		<path>./mslug2fm.zip</path>
 		<name>메탈 슬러그 2 - 슈퍼 비히클 -001/II</name>
-		<image>./../arcade/snap/mslug2p.png</image>
+		<image>./../arcade/snap/mslug2fm.png</image>
 		<video>./../arcade/video/mslug2.mp4</video>
-		<marquee>./../arcade/marquee/mslug2p.png</marquee>
+		<marquee>./../arcade/marquee/mslug2fm.png</marquee>
 		<developer>SNK</developer>
 		<publisher>SNK</publisher>
 		<genre>플랫폼 / 슈팅</genre>
@@ -2683,6 +2735,49 @@ SNK가 SNK Playmore로 부활한 이후에는 SNKP 에서 제작하고 있다.</
 이러한 버그들은 후속작인 "메탈슬러그 X" 에서 수정되어, 난이도가 좀 높아졌다는 소리를 듣는데에 공헌했다.</desc>
 	</game>
 	<game>
+		<path>./mslug2p.zip</path>
+		<name>메탈 슬러그 2 - 슈퍼 비히클 -001/II</name>
+		<image>./../arcade/snap/mslug2p.png</image>
+		<video>./../arcade/video/mslug2.mp4</video>
+		<marquee>./../arcade/marquee/mslug2p.png</marquee>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>플랫폼 / 슈팅</genre>
+		<players>2</players>
+		<releasedate>1998</releasedate>
+		<desc>대전 종결로부터 2년....
+세계를 파괴와 혼란의 소용돌이에 몰아넣었던 전쟁은 정규군의 반공 작전에 의해서 진압되었다.
+자신들이 가져온 평화를 만끽하던 중, 정규군 참모부에 소환을 받는다.
+정보에 의하면 전쟁의 원수는 아직 살아 있고 쿠데타를 계획하고 있다고 한다.
+제 2의 쿠데타를 미연에 막는다는 새로운 임무로 메탈 슬러그의 속편이다.
+
+
+전작이 비교적 현실적인 분위기였다면 2탄은 이를 탈피하여, 
+각종 비현실적인 적(미라, 화성인, 거대보스)이라던가 미래형 병기(레이저 건)이 등장하기 시작했다.
+게다가 전작에서는 반란군의 보스로서의 카리스마를 여지없이 보여주던 로널드 모덴이 철저히 망가지게 되었다.
+
+
+본작부터 팻 캐릭이라는 시스템이 추가되었다. 어느 특정 지역(스테이지4)에서 음식물 아이템을 많이 먹으면 뚱뚱해진다. 
+그러면 이동 속도는 느려지고 총기에서 나가는 장탄의 모양이 바뀐다. 이 경우 데미지는 그대로지만 
+헤비 머신건의 경우 공격 판정이 넓어지는 효과가 있기는 하지만 돌려쏘기가 안 된다.
+(메탈슬러그X 이후는 팻 캐릭 상태에서도 돌려쏘기가 된다.) 
+로켓 런처의 경우는 비록 느리기는 해도 유도 기능이 생긴다.
+팻 캐릭이 풀리는 아이템을 먹으면 풀려서 본래 모습으로 돌아오게 되어 있다. 
+하지만 굳이 팻 캐릭이 풀리는 아이템을 먹지 않더라도 음식물 아이템을 오랫동안 안 먹거나 
+팻 캐릭이 될 수 있는 지역 밖으로 벗어나면(메X부터 해당) 자동으로 풀린다. 
+또, 팻 캐릭 상태에서 죽으면 배가 터지며 죽고 다시 나올 때 정상 캐릭으로 나온다.
+
+
+메탈슬러그2 는 전 시리즈 중에서도 상당히 낮은 난이도를 자랑한다.
+
+
+이는 보스전에서 쓸수있는 꼼수가 상당히 많기 때문인데, 
+스테이지 2 보스 "애시 - 네로" 는 슬러그 노이드 점프 꼼수로 무력화가 가능하고, 
+스테이지 3 보스 "드래곤 노스케" 는 서있을 경우에는 바로 밑에서, 
+앉아있을 경우에는 최대로 근접한 상태에서 공격하면 아무 피해없이 보스전을 끝낼 수 있다.
+이러한 버그들은 후속작인 "메탈슬러그 X" 에서 수정되어, 난이도가 좀 높아졌다는 소리를 듣는데에 공헌했다.</desc>
+	</game>
+	<game>
 		<path>./mslug2unity.zip</path>
 		<name>메탈 슬러그 2 - 슈퍼 비히클 -001/II 유니티 (타이머 추가버전 2021-01-22)</name>
 		<image>./../arcade/snap/mslug2unity.png</image>
@@ -2693,7 +2788,7 @@ SNK가 SNK Playmore로 부활한 이후에는 SNKP 에서 제작하고 있다.</
 		<genre>플랫폼 / 슈팅</genre>
 		<players>2</players>
 		<releasedate>2021</releasedate>
-		<desc>0</desc>
+		<desc/>
 	</game>
 	<game>
 		<path>./mslug31v2.zip</path>
@@ -2701,6 +2796,31 @@ SNK가 SNK Playmore로 부활한 이후에는 SNKP 에서 제작하고 있다.</
 		<image>./../arcade/snap/mslug31v2.png</image>
 		<video>./../arcade/video/mslug3.mp4</video>
 		<marquee>./../arcade/marquee/mslug31v2.png</marquee>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>플랫폼 / 슈팅</genre>
+		<players>2</players>
+		<releasedate>2000</releasedate>
+		<desc>"메탈슬러그" 시리즈사상 최고의 평가를 받는 4번째 작품이다.
+화성인 이야기를 끝내기에 부족함이 없는 작품이며, 스토리와 그에 따른 구성등이 후기작품에 비교했을때 
+너무나도 치밀하다는 점에서 메탈슬러그 최고의 작품이라고 해도 과언이 아니다. 708MB(MVS롬셋)이란 
+용량에 그렇게 많은 것들이 들어있나? 라고 생각하면 SNK가 위대해 보이기까지 한다. 
+
+
+3탄 부터 메탈슬러그는 현실성과는 거리가 멀다. 이미 "메탈슬러그 2" , "메탈슬러그 X" 에서도 그러한 것은 보였지만, 
+3탄에 들어와서는 사람 몸만한(그것보다 큰) 게, 
+날아다니는 식인 거대 피라니아, 좀비, 2족 보행병기(레벨 아머), 거대한 식인메뚜기, 식인식물(맨 이터), 
+거대 달팽이, 초거대 애벌레(??)등등 또한 이것들은 메탈슬러그 시리즈의 난이도를 급상승 시키는 요인이 되었다. 
+게다가 슬러그 탈출 무적시간이 줄어들어서 X까지 가능했던 '슬러그 내렸다가 도로 탑승'이라는 무적의 패턴이 사라졌다. 
+그러나 꼼수를 쓰면 되긴 한다.(미션3 슬러그마리너, 레벨아머) 
+시리즈 최초로 여성 캐릭터들의 누드가 나오는 작품이기도하다.</desc>
+	</game>
+	<game>
+		<path>./mslug3eb.zip</path>
+		<name>메탈 슬러그 3</name>
+		<image>./../arcade/snap/mslug3eb.png</image>
+		<video>./../arcade/video/mslug3.mp4</video>
+		<marquee>./../arcade/marquee/mslug3eb.png</marquee>
 		<developer>SNK</developer>
 		<publisher>SNK</publisher>
 		<genre>플랫폼 / 슈팅</genre>
@@ -2751,31 +2871,6 @@ SNK가 SNK Playmore로 부활한 이후에는 SNKP 에서 제작하고 있다.</
 		<image>./../arcade/snap/mslug3c.png</image>
 		<video>./../arcade/video/mslug3.mp4</video>
 		<marquee>./../arcade/marquee/mslug3c.png</marquee>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>플랫폼 / 슈팅</genre>
-		<players>2</players>
-		<releasedate>2000</releasedate>
-		<desc>"메탈슬러그" 시리즈사상 최고의 평가를 받는 4번째 작품이다.
-화성인 이야기를 끝내기에 부족함이 없는 작품이며, 스토리와 그에 따른 구성등이 후기작품에 비교했을때 
-너무나도 치밀하다는 점에서 메탈슬러그 최고의 작품이라고 해도 과언이 아니다. 708MB(MVS롬셋)이란 
-용량에 그렇게 많은 것들이 들어있나? 라고 생각하면 SNK가 위대해 보이기까지 한다. 
-
-
-3탄 부터 메탈슬러그는 현실성과는 거리가 멀다. 이미 "메탈슬러그 2" , "메탈슬러그 X" 에서도 그러한 것은 보였지만, 
-3탄에 들어와서는 사람 몸만한(그것보다 큰) 게, 
-날아다니는 식인 거대 피라니아, 좀비, 2족 보행병기(레벨 아머), 거대한 식인메뚜기, 식인식물(맨 이터), 
-거대 달팽이, 초거대 애벌레(??)등등 또한 이것들은 메탈슬러그 시리즈의 난이도를 급상승 시키는 요인이 되었다. 
-게다가 슬러그 탈출 무적시간이 줄어들어서 X까지 가능했던 '슬러그 내렸다가 도로 탑승'이라는 무적의 패턴이 사라졌다. 
-그러나 꼼수를 쓰면 되긴 한다.(미션3 슬러그마리너, 레벨아머) 
-시리즈 최초로 여성 캐릭터들의 누드가 나오는 작품이기도하다.</desc>
-	</game>
-	<game>
-		<path>./mslug3eb.zip</path>
-		<name>메탈 슬러그 3</name>
-		<image>./../arcade/snap/mslug3eb.png</image>
-		<video>./../arcade/video/mslug3.mp4</video>
-		<marquee>./../arcade/marquee/mslug3eb.png</marquee>
 		<developer>SNK</developer>
 		<publisher>SNK</publisher>
 		<genre>플랫폼 / 슈팅</genre>
@@ -3106,7 +3201,20 @@ SNK가 SNK Playmore로 부활한 이후에는 SNKP 에서 제작하고 있다.</
 		<genre>플랫폼 / 슈팅</genre>
 		<players/>
 		<releasedate>2021</releasedate>
-		<desc>0</desc>
+		<desc/>
+	</game>
+	<game>
+		<path>./mslug3x.zip</path>
+		<name>메탈 슬러그 3X</name>
+		<image>./../arcade/snap/mslug3x.png</image>
+		<video>./../arcade/video/mslug3x.mp4</video>
+		<marquee>./../arcade/marquee/mslug3x.png</marquee>
+		<developer>홈브류</developer>
+		<publisher>홈브류</publisher>
+		<genre/>
+		<players/>
+		<releasedate>2022</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./mslug41v2.zip</path>
@@ -3205,6 +3313,22 @@ SNK社의 도산 이후, 메탈슬러그의 인기에 편승하여 "메가 엔�
 판권을 산 다음에 제작했다.</desc>
 	</game>
 	<game>
+		<path>./mslug4lwq.zip</path>
+		<name>메탈 슬러그 4</name>
+		<image>./../arcade/snap/mslug4lwq.png</image>
+		<video>./../arcade/video/mslug4.mp4</video>
+		<marquee>./../arcade/marquee/mslug4lwq.png</marquee>
+		<developer>메가</developer>
+		<publisher>메가</publisher>
+		<genre>플랫폼 / 슈팅</genre>
+		<players>2</players>
+		<releasedate>2002</releasedate>
+		<desc>메탈슬러그 시리즈중 유일하게 한국 회사인 "메가 엔터프라이즈" 가 제작한 작품. 
+전작이 매우 위대했기 때문일까? 이 작품의 평판은 그다지 좋은 것이 아니었다. 
+SNK社의 도산 이후, 메탈슬러그의 인기에 편승하여 "메가 엔터프라이즈" 에서 
+판권을 산 다음에 제작했다.</desc>
+	</game>
+	<game>
 		<path>./mslug4dg.zip</path>
 		<name>메탈 슬러그 4</name>
 		<image>./../arcade/snap/mslug4dg.png</image>
@@ -3285,22 +3409,6 @@ SNK社의 도산 이후, 메탈슬러그의 인기에 편승하여 "메가 엔�
 판권을 산 다음에 제작했다.</desc>
 	</game>
 	<game>
-		<path>./mslug4lwq.zip</path>
-		<name>메탈 슬러그 4</name>
-		<image>./../arcade/snap/mslug4lwq.png</image>
-		<video>./../arcade/video/mslug4.mp4</video>
-		<marquee>./../arcade/marquee/mslug4lwq.png</marquee>
-		<developer>메가</developer>
-		<publisher>메가</publisher>
-		<genre>플랫폼 / 슈팅</genre>
-		<players>2</players>
-		<releasedate>2002</releasedate>
-		<desc>메탈슬러그 시리즈중 유일하게 한국 회사인 "메가 엔터프라이즈" 가 제작한 작품. 
-전작이 매우 위대했기 때문일까? 이 작품의 평판은 그다지 좋은 것이 아니었다. 
-SNK社의 도산 이후, 메탈슬러그의 인기에 편승하여 "메가 엔터프라이즈" 에서 
-판권을 산 다음에 제작했다.</desc>
-	</game>
-	<game>
 		<path>./ms4plus.zip</path>
 		<name>메탈 슬러그 4 플러스 (해적판)</name>
 		<image>./../arcade/snap/ms4plus.png</image>
@@ -3327,7 +3435,7 @@ SNK社의 도산 이후, 메탈슬러그의 인기에 편승하여 "메가 엔�
 		<genre>플랫폼 / 슈팅</genre>
 		<players/>
 		<releasedate>2021</releasedate>
-		<desc>0</desc>
+		<desc/>
 	</game>
 	<game>
 		<path>./mslug51v2.zip</path>
@@ -3369,37 +3477,24 @@ SNK社의 도산 이후, 메탈슬러그의 인기에 편승하여 "메가 엔�
 		<desc/>
 	</game>
 	<game>
-		<path>./mslug5dd.zip</path>
-		<name>메탈 슬러그 5</name>
-		<image>./../arcade/snap/mslug5dd.png</image>
-		<video>./../arcade/video/mslug5.mp4</video>
-		<marquee>./../arcade/marquee/mslug5dd.png</marquee>
-		<developer>SNK 플레이모어</developer>
-		<publisher>SNK 플레이모어</publisher>
-		<genre>플랫폼 / 슈팅</genre>
-		<players>2</players>
-		<releasedate>2003</releasedate>
-		<desc/>
-	</game>
-	<game>
-		<path>./mslug5c.zip</path>
-		<name>메탈 슬러그 5</name>
-		<image>./../arcade/snap/mslug5c.png</image>
-		<video>./../arcade/video/mslug5.mp4</video>
-		<marquee>./../arcade/marquee/mslug5c.png</marquee>
-		<developer>SNK 플레이모어</developer>
-		<publisher>SNK 플레이모어</publisher>
-		<genre>플랫폼 / 슈팅</genre>
-		<players>2</players>
-		<releasedate>2003</releasedate>
-		<desc/>
-	</game>
-	<game>
 		<path>./mslug5mg.zip</path>
 		<name>메탈 슬러그 5</name>
 		<image>./../arcade/snap/mslug5mg.png</image>
 		<video>./../arcade/video/mslug5.mp4</video>
 		<marquee>./../arcade/marquee/mslug5mg.png</marquee>
+		<developer>SNK 플레이모어</developer>
+		<publisher>SNK 플레이모어</publisher>
+		<genre>플랫폼 / 슈팅</genre>
+		<players>2</players>
+		<releasedate>2003</releasedate>
+		<desc/>
+	</game>
+	<game>
+		<path>./mslug5dd.zip</path>
+		<name>메탈 슬러그 5</name>
+		<image>./../arcade/snap/mslug5dd.png</image>
+		<video>./../arcade/video/mslug5.mp4</video>
+		<marquee>./../arcade/marquee/mslug5dd.png</marquee>
 		<developer>SNK 플레이모어</developer>
 		<publisher>SNK 플레이모어</publisher>
 		<genre>플랫폼 / 슈팅</genre>
@@ -3421,11 +3516,11 @@ SNK社의 도산 이후, 메탈슬러그의 인기에 편승하여 "메가 엔�
 		<desc/>
 	</game>
 	<game>
-		<path>./mslug5ex.zip</path>
+		<path>./mslug5c.zip</path>
 		<name>메탈 슬러그 5</name>
-		<image>./../arcade/snap/mslug5ex.png</image>
+		<image>./../arcade/snap/mslug5c.png</image>
 		<video>./../arcade/video/mslug5.mp4</video>
-		<marquee>./../arcade/marquee/mslug5ex.png</marquee>
+		<marquee>./../arcade/marquee/mslug5c.png</marquee>
 		<developer>SNK 플레이모어</developer>
 		<publisher>SNK 플레이모어</publisher>
 		<genre>플랫폼 / 슈팅</genre>
@@ -3434,11 +3529,11 @@ SNK社의 도산 이후, 메탈슬러그의 인기에 편승하여 "메가 엔�
 		<desc/>
 	</game>
 	<game>
-		<path>./mslug5es.zip</path>
+		<path>./mslug5ex.zip</path>
 		<name>메탈 슬러그 5</name>
-		<image>./../arcade/snap/mslug5es.png</image>
+		<image>./../arcade/snap/mslug5ex.png</image>
 		<video>./../arcade/video/mslug5.mp4</video>
-		<marquee>./../arcade/marquee/mslug5es.png</marquee>
+		<marquee>./../arcade/marquee/mslug5ex.png</marquee>
 		<developer>SNK 플레이모어</developer>
 		<publisher>SNK 플레이모어</publisher>
 		<genre>플랫폼 / 슈팅</genre>
@@ -3478,6 +3573,19 @@ SNK社의 도산 이후, 메탈슬러그의 인기에 편승하여 "메가 엔�
 		<image>./../arcade/snap/mslug5d.png</image>
 		<video>./../arcade/video/mslug5.mp4</video>
 		<marquee>./../arcade/marquee/mslug5d.png</marquee>
+		<developer>SNK 플레이모어</developer>
+		<publisher>SNK 플레이모어</publisher>
+		<genre>플랫폼 / 슈팅</genre>
+		<players>2</players>
+		<releasedate>2003</releasedate>
+		<desc/>
+	</game>
+	<game>
+		<path>./mslug5w.zip</path>
+		<name>메탈 슬러그 5</name>
+		<image>./../arcade/snap/mslug5w.png</image>
+		<video>./../arcade/video/mslug5.mp4</video>
+		<marquee>./../arcade/marquee/mslug5w.png</marquee>
 		<developer>SNK 플레이모어</developer>
 		<publisher>SNK 플레이모어</publisher>
 		<genre>플랫폼 / 슈팅</genre>
@@ -3538,11 +3646,11 @@ SNK社의 도산 이후, 메탈슬러그의 인기에 편승하여 "메가 엔�
 		<desc/>
 	</game>
 	<game>
-		<path>./mslug5w.zip</path>
+		<path>./mslug5es.zip</path>
 		<name>메탈 슬러그 5</name>
-		<image>./../arcade/snap/mslug5w.png</image>
+		<image>./../arcade/snap/mslug5es.png</image>
 		<video>./../arcade/video/mslug5.mp4</video>
-		<marquee>./../arcade/marquee/mslug5w.png</marquee>
+		<marquee>./../arcade/marquee/mslug5es.png</marquee>
 		<developer>SNK 플레이모어</developer>
 		<publisher>SNK 플레이모어</publisher>
 		<genre>플랫폼 / 슈팅</genre>
@@ -3600,7 +3708,7 @@ SNK社의 도산 이후, 메탈슬러그의 인기에 편승하여 "메가 엔�
 		<genre>플랫폼 / 슈팅</genre>
 		<players/>
 		<releasedate>2021</releasedate>
-		<desc>0</desc>
+		<desc/>
 	</game>
 	<game>
 		<path>./mslug3b6.zip</path>
@@ -3638,7 +3746,7 @@ SNK社의 도산 이후, 메탈슬러그의 인기에 편승하여 "메가 엔�
 		<genre>플랫폼 / 슈팅</genre>
 		<players/>
 		<releasedate>2021</releasedate>
-		<desc>0</desc>
+		<desc/>
 	</game>
 	<game>
 		<path>./mslugx1v2.zip</path>
@@ -3766,6 +3874,31 @@ SNK社의 도산 이후, 메탈슬러그의 인기에 편승하여 "메가 엔�
 전 6 스테이지.</desc>
 	</game>
 	<game>
+		<path>./mslugxeb.zip</path>
+		<name>메탈 슬러그 X - 슈퍼 비히클-001</name>
+		<image>./../arcade/snap/mslugxeb.png</image>
+		<video>./../arcade/video/mslugx.mp4</video>
+		<marquee>./../arcade/marquee/mslugxeb.png</marquee>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>플랫폼 / 슈팅</genre>
+		<players>2</players>
+		<releasedate>1999</releasedate>
+		<desc>시대상 점점 사라져가는 액션 게임이라는 장르에 있어 고군분투하는 "메탈슬러그" 시리즈 제 3탄.
+이번 작품은 탈것과 무기, 아이템의 종류가 대량으로 증가한 것이 변경 사항이지만, 
+기초적으로는 '메탈슬러그 2'의 리메이크 판이다.
+그 밖의 나레이션이 변경되거나 보이스의 종류가 증가.
+
+
+적 병력이 강화되고 보스전 꽁수 몇가지가 차단됨으로 인해 전반적인 난이도가 올라갔다는 이야기도 있지만, 
+아군에게 주어지는 화력이 대폭 강화되어 있기 때문에 "메탈슬러그 2" 보단 무기를 펑펑 쏴갈기는 진행이 가능하다. 
+게다가 슬러그에서 내리면 도로 탑승할때까지 무적시간이 주어지는 것 또한 전혀 변하지 않아서 보스전에서 
+슬러그만 끌고 오면 만사장땡이었던 점은 똑같다.
+
+
+전 6 스테이지.</desc>
+	</game>
+	<game>
 		<path>./mslugxc2.zip</path>
 		<name>메탈 슬러그 X - 슈퍼 비히클-001</name>
 		<image>./../arcade/snap/mslugxc2.png</image>
@@ -3796,31 +3929,6 @@ SNK社의 도산 이후, 메탈슬러그의 인기에 편승하여 "메가 엔�
 		<image>./../arcade/snap/mslugxlb.png</image>
 		<video>./../arcade/video/mslugx.mp4</video>
 		<marquee>./../arcade/marquee/mslugxlb.png</marquee>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>플랫폼 / 슈팅</genre>
-		<players>2</players>
-		<releasedate>1999</releasedate>
-		<desc>시대상 점점 사라져가는 액션 게임이라는 장르에 있어 고군분투하는 "메탈슬러그" 시리즈 제 3탄.
-이번 작품은 탈것과 무기, 아이템의 종류가 대량으로 증가한 것이 변경 사항이지만, 
-기초적으로는 '메탈슬러그 2'의 리메이크 판이다.
-그 밖의 나레이션이 변경되거나 보이스의 종류가 증가.
-
-
-적 병력이 강화되고 보스전 꽁수 몇가지가 차단됨으로 인해 전반적인 난이도가 올라갔다는 이야기도 있지만, 
-아군에게 주어지는 화력이 대폭 강화되어 있기 때문에 "메탈슬러그 2" 보단 무기를 펑펑 쏴갈기는 진행이 가능하다. 
-게다가 슬러그에서 내리면 도로 탑승할때까지 무적시간이 주어지는 것 또한 전혀 변하지 않아서 보스전에서 
-슬러그만 끌고 오면 만사장땡이었던 점은 똑같다.
-
-
-전 6 스테이지.</desc>
-	</game>
-	<game>
-		<path>./mslugxeb.zip</path>
-		<name>메탈 슬러그 X - 슈퍼 비히클-001</name>
-		<image>./../arcade/snap/mslugxeb.png</image>
-		<video>./../arcade/video/mslugx.mp4</video>
-		<marquee>./../arcade/marquee/mslugxeb.png</marquee>
 		<developer>SNK</developer>
 		<publisher>SNK</publisher>
 		<genre>플랫폼 / 슈팅</genre>
@@ -3926,7 +4034,7 @@ SNK社의 도산 이후, 메탈슬러그의 인기에 편승하여 "메가 엔�
 		<genre>플랫폼 / 슈팅</genre>
 		<players/>
 		<releasedate>2021</releasedate>
-		<desc>0</desc>
+		<desc/>
 	</game>
 	<game>
 		<path>./minasan.zip</path>
@@ -3959,6 +4067,19 @@ SNK社의 도산 이후, 메탈슬러그의 인기에 편승하여 "메가 엔�
 게임 내용은 화면에 나타나는 돈을 이동하여, 5원짜리 2장을 10원짜리로, 50원짜리 2장을 100 원짜리로 바꾸는 것과 같이 환전하여 지워 나가는 액션 퍼즐 게임.
 플레이 중에는 동전 이외에도 아이템등이 등장한다.
 CPU 대전 외에 연습모드나 대전모드도 존재한다. 캐릭터 디자인은 "이시다 아쓰코(石田敦子)" 에 의한것.</desc>
+	</game>
+	<game>
+		<path>./ngmontst.zip</path>
+		<name>모니터 테스트 패턴 툴</name>
+		<image>./../arcade/snap/ngmontst.png</image>
+		<video>./../arcade/video/ngmontst.mp4</video>
+		<marquee>./../arcade/marquee/ngmontst.png</marquee>
+		<developer/>
+		<publisher/>
+		<genre/>
+		<players/>
+		<releasedate>2022</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./mutnat.zip</path>
@@ -4111,6 +4232,19 @@ CPU 대전 외에 연습모드나 대전모드도 존재한다. 캐릭터 디자
 		<marquee>./../arcade/marquee/neonopon.png</marquee>
 		<developer>blastar@gmx.net</developer>
 		<publisher>blastar@gmx.net</publisher>
+		<genre/>
+		<players/>
+		<releasedate/>
+		<desc/>
+	</game>
+	<game>
+		<path>./neopang.zip</path>
+		<name>네오 팡</name>
+		<image>./../arcade/snap/neopang.png</image>
+		<video>./../arcade/video/neopang.mp4</video>
+		<marquee>./../arcade/marquee/neopang.png</marquee>
+		<developer/>
+		<publisher/>
 		<genre/>
 		<players/>
 		<releasedate/>
@@ -4672,7 +4806,7 @@ CPU 대전 외에 연습모드나 대전모드도 존재한다. 캐릭터 디자
 		<path>./puzzldpr.zip</path>
 		<name>퍼즐 드 퐁! R!</name>
 		<image>./../arcade/snap/puzzldpr.png</image>
-		<video>./../arcade/video/puzzledp.mp4</video>
+		<video>./../arcade/video/puzzldpr.mp4</video>
 		<marquee>./../arcade/marquee/puzzldpr.png</marquee>
 		<developer>타이토</developer>
 		<publisher>타이토</publisher>
@@ -5266,6 +5400,25 @@ SNK社 에서 발매한 또 다른 느낌의 대전 액션 게임.
 상대의 무기를 파괴하는 강력한 기법「무기파괴 필살기법」을 사용할 수 있게 된다.</desc>
 	</game>
 	<game>
+		<path>./samsho2new.zip</path>
+		<name>사무라이 쇼다운 2 / 진 사무라이 스피리츠 - 하오마루 지옥변</name>
+		<image>./../arcade/snap/samsho2new.png</image>
+		<video>./../arcade/video/samsho2.mp4</video>
+		<marquee>./../arcade/marquee/samsho2new.png</marquee>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>격투 / 대전</genre>
+		<players>2</players>
+		<releasedate>1994</releasedate>
+		<desc>"사무라이 스피리츠" 의 후속 작품, 
+새로운 캐릭터 4명이 추가 되어 전 15명의 검사들이 서로 부딪힌다.
+시스템의 큰 변화는 없고 그래픽과 사운드가 보강이 되었다.
+
+게임 시스템은 전작과 같지만 특수동작이나 특징이었던「분노 시스템」이 더 보완되었고, 
+게이지가 가득 채워지면 공격력이 올라갈뿐 아니라, 
+상대의 무기를 파괴하는 강력한 기법「무기파괴 필살기법」을 사용할 수 있게 된다.</desc>
+	</game>
+	<game>
 		<path>./samsho2sp.zip</path>
 		<name>사무라이 쇼다운 2 / 진 사무라이 스피리츠 - 하오마루 지옥변 (해킹판)</name>
 		<image>./../arcade/snap/samsho2sp.png</image>
@@ -5508,6 +5661,19 @@ SNK社 에서 발매한 또 다른 느낌의 대전 액션 게임.
 		<genre>격투 / 대전</genre>
 		<players>2</players>
 		<releasedate>2004</releasedate>
+		<desc/>
+	</game>
+	<game>
+		<path>./santaball.zip</path>
+		<name>산타볼 - 크리스마스 테니스 게임</name>
+		<image>./../arcade/snap/santaball.png</image>
+		<video>./../arcade/video/santaball.mp4</video>
+		<marquee>./../arcade/marquee/santaball.png</marquee>
+		<developer/>
+		<publisher/>
+		<genre/>
+		<players/>
+		<releasedate>2012</releasedate>
 		<desc/>
 	</game>
 	<game>
@@ -6464,9 +6630,9 @@ SNK의 3번째 징크스도 그럭저럭 돌파해냈다. 하지만 커맨드 �
 		<developer>해킹판</developer>
 		<publisher>해킹판</publisher>
 		<genre>격투 / 대전</genre>
-		<players/>
+		<players>2</players>
 		<releasedate/>
-		<desc>0</desc>
+		<desc/>
 	</game>
 	<game>
 		<path>./kof96rss.zip</path>
@@ -6477,9 +6643,9 @@ SNK의 3번째 징크스도 그럭저럭 돌파해냈다. 하지만 커맨드 �
 		<developer>해킹판</developer>
 		<publisher>해킹판</publisher>
 		<genre>격투 / 대전</genre>
-		<players/>
+		<players>2</players>
 		<releasedate/>
-		<desc>0</desc>
+		<desc/>
 	</game>
 	<game>
 		<path>./kof97cn.zip</path>
@@ -6762,9 +6928,9 @@ SNK의 3번째 징크스도 그럭저럭 돌파해냈다. 하지만 커맨드 �
 		<developer>해킹판</developer>
 		<publisher>해킹판</publisher>
 		<genre>격투 / 대전</genre>
-		<players/>
+		<players>2</players>
 		<releasedate/>
-		<desc>0</desc>
+		<desc/>
 	</game>
 	<game>
 		<path>./kof97oro.zip</path>
@@ -6841,9 +7007,9 @@ SNK의 3번째 징크스도 그럭저럭 돌파해냈다. 하지만 커맨드 �
 		<developer>해킹판</developer>
 		<publisher>해킹판</publisher>
 		<genre>격투 / 대전</genre>
-		<players/>
+		<players>2</players>
 		<releasedate/>
-		<desc>0</desc>
+		<desc/>
 	</game>
 	<game>
 		<path>./kof98ae2016.zip</path>
@@ -7096,7 +7262,7 @@ SNK의 3번째 징크스도 그럭저럭 돌파해냈다. 하지만 커맨드 �
 		<genre>격투 / 대전</genre>
 		<players>2</players>
 		<releasedate/>
-		<desc>0</desc>
+		<desc/>
 	</game>
 	<game>
 		<path>./kof98bc2k2.zip</path>
@@ -7107,9 +7273,9 @@ SNK의 3번째 징크스도 그럭저럭 돌파해냈다. 하지만 커맨드 �
 		<developer>해킹판</developer>
 		<publisher>해킹판</publisher>
 		<genre>격투 / 대전</genre>
-		<players/>
+		<players>2</players>
 		<releasedate/>
-		<desc>0</desc>
+		<desc/>
 	</game>
 	<game>
 		<path>./kof98eckg.zip</path>
@@ -7148,6 +7314,32 @@ SNK의 3번째 징크스도 그럭저럭 돌파해냈다. 하지만 커맨드 �
 		<genre>격투 / 대전</genre>
 		<players>2</players>
 		<releasedate>2011</releasedate>
+		<desc/>
+	</game>
+	<game>
+		<path>./kof99jh.zip</path>
+		<name>킹 오브 파이터즈 99 에볼루션</name>
+		<image>./../arcade/snap/kof99jh.png</image>
+		<video>./../arcade/video/kof99.mp4</video>
+		<marquee>./../arcade/marquee/kof99jh.png</marquee>
+		<developer>해킹판</developer>
+		<publisher>해킹판</publisher>
+		<genre>격투 / 대전</genre>
+		<players>2</players>
+		<releasedate>2023</releasedate>
+		<desc/>
+	</game>
+	<game>
+		<path>./kof99sk.zip</path>
+		<name>킹 오브 파이터즈 99 플루언트 앤 리프레싱</name>
+		<image>./../arcade/snap/kof99sk.png</image>
+		<video>./../arcade/video/kof99.mp4</video>
+		<marquee>./../arcade/marquee/kof99sk.png</marquee>
+		<developer>해킹판</developer>
+		<publisher>해킹판</publisher>
+		<genre>격투 / 대전</genre>
+		<players>2</players>
+		<releasedate>2023</releasedate>
 		<desc/>
 	</game>
 	<game>
@@ -7314,7 +7506,7 @@ SNK社 의 역사에서 보기 드믄 빼어난 이식도를 보여주고 있다
 		<genre>격투 / 대전</genre>
 		<players>2</players>
 		<releasedate>2015</releasedate>
-		<desc>0</desc>
+		<desc/>
 	</game>
 	<game>
 		<path>./kof99rp.zip</path>
@@ -7325,9 +7517,9 @@ SNK社 의 역사에서 보기 드믄 빼어난 이식도를 보여주고 있다
 		<developer>해킹판</developer>
 		<publisher>해킹판</publisher>
 		<genre>격투 / 대전</genre>
-		<players/>
+		<players>2</players>
 		<releasedate/>
-		<desc>0</desc>
+		<desc/>
 	</game>
 	<game>
 		<path>./kof99sr.zip</path>
@@ -7431,7 +7623,7 @@ SNK社 의 역사에서 보기 드믄 빼어난 이식도를 보여주고 있다
 		<genre/>
 		<players>2</players>
 		<releasedate/>
-		<desc>0</desc>
+		<desc/>
 	</game>
 	<game>
 		<path>./kf10thep.zip</path>
@@ -7518,35 +7710,6 @@ SNK는 2001년 재정 악화로 인해 영업정지 및 파산에 이르게 된�
 SNK는 2001년 재정 악화로 인해 영업정지 및 파산에 이르게 된다.</desc>
 	</game>
 	<game>
-		<path>./kof2000otc.zip</path>
-		<name>킹 오브 파이터즈 2000</name>
-		<image>./../arcade/snap/kof2000otc.png</image>
-		<video>./../arcade/video/kof2000.mp4</video>
-		<marquee>./../arcade/marquee/kof2000otc.png</marquee>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>격투 / 대전</genre>
-		<players>2</players>
-		<releasedate>2000</releasedate>
-		<desc>SNK社 가 발표한 "킹 오브 파이터즈" 시리즈의 일곱 번째 작품이다. 
-스트라이커 시스템을 더욱 활용성있게 발전시켰다. 
-전작에서 유저들에게 지적된 구르기 시스템을 원래대로 돌려놓았고 "카운터 모드" 와 "아머 모드" 를 한층 강화시켰다. 
-하지만 아머 모드의 경우에 심하다 싶을 정도로 강화시켜 게임 플레이를 좁혀놓은 상황이 발생했다. 
-구 SNK社 의 마지막 작품으로 일반 팬들도 알지못하는 SNK의 다양한 캐릭터들을 스트라이커로 넣어 
-드림매치라는 컨셉을 제대로 보여줬다.
-
-"KOF 99" 를 기본으로 긴급 회피 동작의 부활시키고 스트라이커 시스템을 개량한 점이 특징이다.
-상황에 따라 자유롭게 스트라이커를 호출하는 '액티브 스트라이커 시스템'이 적용되었고 스트라이커 전용의 캐릭터를 
-설정한 '어나더 스트라이커'가 등장했다.
-하지만 스트라이커 발동 조건이 느슨해 지는 영향으로 무한 콤보등의 문제가 생기기도 해 플레이어 사이에 
-찬반양론이 격렬하게 이야기 되기도 했다.
-아나더 스트라이커로 'KOF' 본래의 테마인 'SNK 올스타 등장' 이 이루어지게 되어 SNK 작품의 집대성이다.
-
-
-"SNK社" 이름으로 만들어진 마지막 KOF 시리즈 이다. 
-SNK는 2001년 재정 악화로 인해 영업정지 및 파산에 이르게 된다.</desc>
-	</game>
-	<game>
 		<path>./kof2000ps2.zip</path>
 		<name>킹 오브 파이터즈 2000</name>
 		<image>./../arcade/snap/kof2000ps2.png</image>
@@ -7584,21 +7747,34 @@ SNK는 2001년 재정 악화로 인해 영업정지 및 파산에 이르게 된�
 		<developer>해킹판</developer>
 		<publisher>해킹판</publisher>
 		<genre>격투 / 대전</genre>
-		<players/>
+		<players>2</players>
 		<releasedate/>
-		<desc>0</desc>
+		<desc/>
 	</game>
 	<game>
-		<path>./kof2000sp.zip</path>
-		<name>킹 오브 파이터즈 2000 특별판</name>
-		<image>./../arcade/snap/kof2000sp.png</image>
+		<path>./kof2000otc.zip</path>
+		<name>킹 오브 파이터즈 2000 OTC</name>
+		<image>./../arcade/snap/kof2000otc.png</image>
 		<video>./../arcade/video/kof2000.mp4</video>
-		<marquee>./../arcade/marquee/kof2000sp.png</marquee>
+		<marquee>./../arcade/marquee/kof2000otc.png</marquee>
 		<developer>해킹판</developer>
 		<publisher>해킹판</publisher>
 		<genre>격투 / 대전</genre>
 		<players>2</players>
-		<releasedate/>
+		<releasedate>2022</releasedate>
+		<desc/>
+	</game>
+	<game>
+		<path>./kof2000pls.zip</path>
+		<name>킹 오브 파이터즈 2000 플러스</name>
+		<image>./../arcade/snap/kof2000pls.png</image>
+		<video>./../arcade/video/kof2000.mp4</video>
+		<marquee>./../arcade/marquee/kof2000pls.png</marquee>
+		<developer>해킹판</developer>
+		<publisher>해킹판</publisher>
+		<genre>격투 / 대전</genre>
+		<players>2</players>
+		<releasedate>2018</releasedate>
 		<desc/>
 	</game>
 	<game>
@@ -7612,7 +7788,20 @@ SNK는 2001년 재정 악화로 인해 영업정지 및 파산에 이르게 된�
 		<genre>격투 / 대전</genre>
 		<players>2</players>
 		<releasedate/>
-		<desc>0</desc>
+		<desc/>
+	</game>
+	<game>
+		<path>./kof2000sp.zip</path>
+		<name>킹 오브 파이터즈 2000 스페셜</name>
+		<image>./../arcade/snap/kof2000sp.png</image>
+		<video>./../arcade/video/kof2000.mp4</video>
+		<marquee>./../arcade/marquee/kof2000sp.png</marquee>
+		<developer>해킹판</developer>
+		<publisher>해킹판</publisher>
+		<genre>격투 / 대전</genre>
+		<players>2</players>
+		<releasedate>2021</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./kof2001h.zip</path>
@@ -7641,11 +7830,24 @@ SNK는 2001년 재정 악화로 인해 영업정지 및 파산에 이르게 된�
 		<desc/>
 	</game>
 	<game>
-		<path>./kf2k1pkz.zip</path>
+		<path>./kof2001pkz.zip</path>
 		<name>킹 오브 파이터즈 2001</name>
-		<image>./../arcade/snap/kf2k1pkz.png</image>
+		<image>./../arcade/snap/kof2001pkz.png</image>
 		<video>./../arcade/video/kof2001.mp4</video>
-		<marquee>./../arcade/marquee/kf2k1pkz.png</marquee>
+		<marquee>./../arcade/marquee/kof2001pkz.png</marquee>
+		<developer>해킹판</developer>
+		<publisher>해킹판</publisher>
+		<genre>격투 / 대전</genre>
+		<players>2</players>
+		<releasedate/>
+		<desc/>
+	</game>
+	<game>
+		<path>./kof2001ult.zip</path>
+		<name>킹 오브 파이터즈 2001</name>
+		<image>./../arcade/snap/kof2001ult.png</image>
+		<video>./../arcade/video/kof2001.mp4</video>
+		<marquee>./../arcade/marquee/kof2001ult.png</marquee>
 		<developer>해킹판</developer>
 		<publisher>해킹판</publisher>
 		<genre>격투 / 대전</genre>
@@ -7680,32 +7882,6 @@ SNK 에서 라이센스를 얻은 한국의 "이오리스" 에서 제작한 게�
 "KOF 2001" 의 중국판 해킹 버전으로 "와호장룡 2003" 이 등장하기도 했다.</desc>
 	</game>
 	<game>
-		<path>./kf2k1pa.zip</path>
-		<name>킹 오브 파이터즈 2001 플러스</name>
-		<image>./../arcade/snap/kf2k1pa.png</image>
-		<video>./../arcade/video/kof2001.mp4</video>
-		<marquee>./../arcade/marquee/kf2k1pa.png</marquee>
-		<developer>해적판</developer>
-		<publisher>해적판</publisher>
-		<genre>격투 / 대전</genre>
-		<players>2</players>
-		<releasedate>2002</releasedate>
-		<desc>SNK社 가 발표한 "킹 오브 파이터즈" 시리즈의 일곱 번째 작품으로, 
-SNK 에서 라이센스를 얻은 한국의 "이오리스" 에서 제작한 게임.
-네스츠편 3부작의 완결편으로 기존 스트라이커 시스템에서 변형된 4 대 4 택티컬 오더 시스템이 등장하였다.
-'와이어 데미지' 라는 이름으로 벽에 튕겨온 적을 한번더 공격하는 시스템이 추가된 점이 특징.
-
-
-2001년 10월 30일, SNK의 부도로 인한 영업 종료&amp;파산 선고와 함께 소유하고 있던 게임의 라이센스를 
-자회사였던 플레이모어에 양도하게 되었다. 
-하지만 국내 업체인 "이오리스" 에서 KOF의 개발/판매 판권을 구입해서 2001 , 2002 를 제작하게 되었다.
-개발사의 변경으로 인해 네오지오 MVS 기판내에 한국어 설정이 추가되고 한국판 설정에 한해 어색했던 한국팀 음성이 
-국내 성우로 교체되었다. 또한 "이진주" 캐릭터의 이름이 해외판과 다르게 변경되었다.
-"이오리스社" 에 의해 2001부터 추가된 K9999, 앤젤, 이진주 등의 신 캐릭터는 "KOF 2003" 이후로 시리즈가 다시 
-"SNK社" 로 넘어가게 되면서 "이오리스社" 와의 라이센스 문제로 이후에는 등장하지 않게 된다.
-"KOF 2001" 의 중국판 해킹 버전으로 "와호장룡 2003" 이 등장하기도 했다.</desc>
-	</game>
-	<game>
 		<path>./kof2k1rp.zip</path>
 		<name>킹 오브 파이터즈 2001 리믹스 프로 (해킹판)</name>
 		<image>./../arcade/snap/kof2k1rp.png</image>
@@ -7716,7 +7892,7 @@ SNK 에서 라이센스를 얻은 한국의 "이오리스" 에서 제작한 게�
 		<genre>격투 / 대전</genre>
 		<players>2</players>
 		<releasedate/>
-		<desc>0</desc>
+		<desc/>
 	</game>
 	<game>
 		<path>./kof2001ru.zip</path>
@@ -7729,7 +7905,7 @@ SNK 에서 라이센스를 얻은 한국의 "이오리스" 에서 제작한 게�
 		<genre>격투 / 대전</genre>
 		<players>2</players>
 		<releasedate/>
-		<desc>0</desc>
+		<desc/>
 	</game>
 	<game>
 		<path>./kof2002b.zip</path>
@@ -8236,7 +8412,7 @@ SNK 에서 라이센스를 얻은 한국의 "이오리스" 에서 제작한 게�
 		<genre>격투 / 대전</genre>
 		<players>2</players>
 		<releasedate/>
-		<desc>0</desc>
+		<desc/>
 	</game>
 	<game>
 		<path>./kf2k3ps2.zip</path>
@@ -8553,6 +8729,19 @@ SNK 에서 라이센스를 얻은 한국의 "이오리스" 에서 제작한 게�
 		<image>./../arcade/snap/timesupd.png</image>
 		<video>./../arcade/video/timesupd.mp4</video>
 		<marquee>./../arcade/marquee/timesupd.png</marquee>
+		<developer>NGF 데브</developer>
+		<publisher>NGF 데브</publisher>
+		<genre/>
+		<players/>
+		<releasedate>2012</releasedate>
+		<desc/>
+	</game>
+	<game>
+		<path>./timesup.zip</path>
+		<name>타임 업</name>
+		<image>./../arcade/snap/timesup.png</image>
+		<video>./../arcade/video/timesup.mp4</video>
+		<marquee>./../arcade/marquee/timesup.png</marquee>
 		<developer>NGF 데브</developer>
 		<publisher>NGF 데브</publisher>
 		<genre/>
@@ -9050,6 +9239,19 @@ CPU : 68000, Z80
 		<desc/>
 	</game>
 	<game>
+		<path>./xeviousng.zip</path>
+		<name>제비우스</name>
+		<image>./../arcade/snap/xeviousng.png</image>
+		<video>./../arcade/video/xeviousng.mp4</video>
+		<marquee>./../arcade/marquee/xeviousng.png</marquee>
+		<developer>해적판</developer>
+		<publisher>해적판</publisher>
+		<genre>슈팅 / 수직 비행</genre>
+		<players>2</players>
+		<releasedate>1982</releasedate>
+		<desc/>
+	</game>
+	<game>
 		<path>./zedblade.zip</path>
 		<name>제드 블레이드 / 오퍼레이션 라그나로크</name>
 		<image>./../arcade/snap/zedblade.png</image>
@@ -9106,6 +9308,182 @@ NMK 가 개발한 횡스크롤 슈팅작품.</desc>
 		<players>2</players>
 		<releasedate>2001</releasedate>
 		<desc/>
+	</game>
+	<game>
+		<path>./mslug5g.zip</path>
+		<name>메탈 슬러그 5</name>
+		<image>./../arcade/snap/mslug5g.png</image>
+		<video>./../arcade/video/mslug5.mp4</video>
+		<marquee>./../arcade/marquee/mslug5g.png</marquee>
+		<developer>SNK 플레이모어</developer>
+		<publisher>SNK 플레이모어</publisher>
+		<genre>플랫폼 / 슈팅</genre>
+		<players>2</players>
+		<releasedate>2003</releasedate>
+		<desc/>
+	</game>
+	<game>
+		<path>./mslug5wd.zip</path>
+		<name>메탈 슬러그 5</name>
+		<image>./../arcade/snap/mslug5wd.png</image>
+		<video>./../arcade/video/mslug5.mp4</video>
+		<marquee>./../arcade/marquee/mslug5wd.png</marquee>
+		<developer>SNK 플레이모어</developer>
+		<publisher>SNK 플레이모어</publisher>
+		<genre>플랫폼 / 슈팅</genre>
+		<players>2</players>
+		<releasedate>2003</releasedate>
+		<desc/>
+	</game>
+	<game>
+		<path>./kof98cps.zip</path>
+		<name>킹 오브 파이터즈 98</name>
+		<image>./../arcade/snap/kof98cps.png</image>
+		<video>./../arcade/video/kof98.mp4</video>
+		<marquee>./../arcade/marquee/kof98cps.png</marquee>
+		<developer>해킹판</developer>
+		<publisher>해킹판</publisher>
+		<genre>격투 / 대전</genre>
+		<players>2</players>
+		<releasedate>2007</releasedate>
+		<desc>"KOF 94" 부터 시작된 "KOF 시리즈" 의 집대성으로 등장한 게임.
+3년간 진행된 오로치편을 끝내고 차기작을 발매하기 전 1년간의 휴식기를 갖기 위해 스토리를 없앤 초기 KOF 시리즈의 컨셉을 살려 발매되었다. 
+드림매치라는 컨셉답게 기존에 삭제된 팀까지 포함하였다. 시리즈 중에서도 가장 안정적인 밸런스를 가지고 있다고 평가되며 현재까지 가장 많이 플레이되고 있는 시리즈. 
+이 게임을 끝으로 "킹 오브 파이터즈" 는 몰락의 기로에 서있게 된다. 이 이후 KOF98 10주년을 맞이하여 "킹 오브 파이터즈 98UM" 이 발매되었다. 
+이 게임에는 94년부터 97년까지 KOF에 한 번이라도 등장했던 캐릭터들이 모두 등장 전체 38인에서 선택 플레이 할 수 있다. 보스 역시 오메가루갈, 게닛츠, 오로치 중에 한 명이 등장한다.
+
+
+'어드벤스 모드' 에서 MVS의 캘린더 기능으로 휴일에는 캐릭트의 기분이 변화해 파워 게이지가 변화하는 '필링 바리에이션 시스템' 이 포함되어 있다.</desc>
+	</game>
+	<game>
+		<path>./kof98eck20.zip</path>
+		<name>킹 오브 파이터즈 98 - 이지 콤보킹</name>
+		<image>./../arcade/snap/kof98eck20.png</image>
+		<video>./../arcade/video/kof98.mp4</video>
+		<marquee>./../arcade/marquee/kof98eck20.png</marquee>
+		<developer>해킹판</developer>
+		<publisher>해킹판</publisher>
+		<genre>격투 / 대전</genre>
+		<players>2</players>
+		<releasedate/>
+		<desc/>
+	</game>
+	<game>
+		<path>./kof98eckvs.zip</path>
+		<name>킹 오브 파이터즈 98 - 이지 콤보킹 2014</name>
+		<image>./../arcade/snap/kof98eckvs.png</image>
+		<video>./../arcade/video/kof98.mp4</video>
+		<marquee>./../arcade/marquee/kof98eckvs.png</marquee>
+		<developer>해킹판</developer>
+		<publisher>해킹판</publisher>
+		<genre>격투 / 대전</genre>
+		<players>2</players>
+		<releasedate/>
+		<desc/>
+	</game>
+	<game>
+		<path>./kof99rp2f.zip</path>
+		<name>킹 오브 파이터즈 99 - 리믹스 프로 v2.0파이널</name>
+		<image>./../arcade/snap/kof99rp2f.png</image>
+		<video>./../arcade/video/kof99.mp4</video>
+		<marquee>./../arcade/marquee/kof99rp2f.png</marquee>
+		<developer>해킹판</developer>
+		<publisher>해킹판</publisher>
+		<genre>격투 / 대전</genre>
+		<players>2</players>
+		<releasedate/>
+		<desc/>
+	</game>
+	<game>
+		<path>./kf2k1pkz.zip</path>
+		<name>킹 오브 파이터즈 2001</name>
+		<image>./../arcade/snap/kf2k1pkz.png</image>
+		<video>./../arcade/video/kof2001.mp4</video>
+		<marquee>./../arcade/marquee/kf2k1pkz.png</marquee>
+		<developer>해킹판</developer>
+		<publisher>해킹판</publisher>
+		<genre>격투 / 대전</genre>
+		<players>2</players>
+		<releasedate/>
+		<desc/>
+	</game>
+	<game>
+		<path>./kf2k1pa.zip</path>
+		<name>킹 오브 파이터즈 2001 플러스</name>
+		<image>./../arcade/snap/kf2k1pa.png</image>
+		<video>./../arcade/video/kof2001.mp4</video>
+		<marquee>./../arcade/marquee/kf2k1pa.png</marquee>
+		<developer>해적판</developer>
+		<publisher>해적판</publisher>
+		<genre>격투 / 대전</genre>
+		<players>2</players>
+		<releasedate>2002</releasedate>
+		<desc>SNK社 가 발표한 "킹 오브 파이터즈" 시리즈의 일곱 번째 작품으로, 
+SNK 에서 라이센스를 얻은 한국의 "이오리스" 에서 제작한 게임.
+네스츠편 3부작의 완결편으로 기존 스트라이커 시스템에서 변형된 4 대 4 택티컬 오더 시스템이 등장하였다.
+'와이어 데미지' 라는 이름으로 벽에 튕겨온 적을 한번더 공격하는 시스템이 추가된 점이 특징.
+
+
+2001년 10월 30일, SNK의 부도로 인한 영업 종료&amp;파산 선고와 함께 소유하고 있던 게임의 라이센스를 
+자회사였던 플레이모어에 양도하게 되었다. 
+하지만 국내 업체인 "이오리스" 에서 KOF의 개발/판매 판권을 구입해서 2001 , 2002 를 제작하게 되었다.
+개발사의 변경으로 인해 네오지오 MVS 기판내에 한국어 설정이 추가되고 한국판 설정에 한해 어색했던 한국팀 음성이 
+국내 성우로 교체되었다. 또한 "이진주" 캐릭터의 이름이 해외판과 다르게 변경되었다.
+"이오리스社" 에 의해 2001부터 추가된 K9999, 앤젤, 이진주 등의 신 캐릭터는 "KOF 2003" 이후로 시리즈가 다시 
+"SNK社" 로 넘어가게 되면서 "이오리스社" 와의 라이센스 문제로 이후에는 등장하지 않게 된다.
+"KOF 2001" 의 중국판 해킹 버전으로 "와호장룡 2003" 이 등장하기도 했다.</desc>
+	</game>
+	<game>
+		<path>./kf2k2ps2re1.zip</path>
+		<name>킹 오브 파이터즈 2002</name>
+		<image>./../arcade/snap/kf2k2ps2re1.png</image>
+		<video>./../arcade/video/kof2002.mp4</video>
+		<marquee>./../arcade/marquee/kf2k2ps2re1.png</marquee>
+		<developer>해킹판</developer>
+		<publisher>해킹판</publisher>
+		<genre>격투 / 대전</genre>
+		<players>2</players>
+		<releasedate>2007</releasedate>
+		<desc>"SNK社" 파산 이후 판권을 이어 받은 "플레이모어社" 와 "KOF" 라이센스를 획득한 "이오리스社" 에 의해 개발된 
+"킹 오브 파이터즈" 의 9번째 시리즈.
+초창기 KOF 때의 원점으로 돌아가서 스트라이커 시스템 폐지 및 3 대 3 배틀의 부활이 이루어 졌다.
+또한 파워 게이지 사용으로 파워업하는 MAX 발동 시스템에 및 언제나 가능한 캔슬기능, 
+체력 감소시에만 사용가능한 MAX2 초필살기술의 새로운 시스템이 도입되었다.
+하지만 스토리 라인이 없는 외전 격의 게임으로 새로운 캐릭터의 추가가 없는 점이 아쉬움으로 남는 게임.
+
+
+시리즈 최초로 일본에서 전국 대회가 이루어지기도 하는등 이전의 KOF 인기를 만회한 작품이다.
+"이오리스社" 에서 출시된 두 번째이자 마지막 KOF 게임. 이후에는 SNK/Playmore에 의해 시리즈가 계속되게 된다.
+이오리스에 의해 2001부터 추가된 K9999, 앤젤, 이진주 등의 신 캐릭터는 시리즈가 다시 SNK로 넘어가게 되면서 
+이오리스와의 라이센스 문제로 이후에는 등장하지 않게된다.
+네오지오 MVS 기판내에 한국어 설정이 추가되었으며 한국판 설정에 한해 어색했던 한국팀 음성이 국내 성우로 
+교체되었다.</desc>
+	</game>
+	<game>
+		<path>./kf2k2ps2b.zip</path>
+		<name>킹 오브 파이터즈 2002</name>
+		<image>./../arcade/snap/kf2k2ps2b.png</image>
+		<video>./../arcade/video/kof2002.mp4</video>
+		<marquee>./../arcade/marquee/kf2k2ps2b.png</marquee>
+		<developer>해킹판</developer>
+		<publisher>해킹판</publisher>
+		<genre>격투 / 대전</genre>
+		<players>2</players>
+		<releasedate>2007</releasedate>
+		<desc>"SNK社" 파산 이후 판권을 이어 받은 "플레이모어社" 와 "KOF" 라이센스를 획득한 "이오리스社" 에 의해 개발된 
+"킹 오브 파이터즈" 의 9번째 시리즈.
+초창기 KOF 때의 원점으로 돌아가서 스트라이커 시스템 폐지 및 3 대 3 배틀의 부활이 이루어 졌다.
+또한 파워 게이지 사용으로 파워업하는 MAX 발동 시스템에 및 언제나 가능한 캔슬기능, 
+체력 감소시에만 사용가능한 MAX2 초필살기술의 새로운 시스템이 도입되었다.
+하지만 스토리 라인이 없는 외전 격의 게임으로 새로운 캐릭터의 추가가 없는 점이 아쉬움으로 남는 게임.
+
+
+시리즈 최초로 일본에서 전국 대회가 이루어지기도 하는등 이전의 KOF 인기를 만회한 작품이다.
+"이오리스社" 에서 출시된 두 번째이자 마지막 KOF 게임. 이후에는 SNK/Playmore에 의해 시리즈가 계속되게 된다.
+이오리스에 의해 2001부터 추가된 K9999, 앤젤, 이진주 등의 신 캐릭터는 시리즈가 다시 SNK로 넘어가게 되면서 
+이오리스와의 라이센스 문제로 이후에는 등장하지 않게된다.
+네오지오 MVS 기판내에 한국어 설정이 추가되었으며 한국판 설정에 한해 어색했던 한국팀 음성이 국내 성우로 
+교체되었다.</desc>
 	</game>
 	<game>
 		<path>./aofb.zip</path>
@@ -9535,32 +9913,6 @@ SNK社의 도산 이후, 메탈슬러그의 인기에 편승하여 "메가 엔�
 		<image>./../arcade/snap/mslug5nd.png</image>
 		<video>./../arcade/video/mslug5.mp4</video>
 		<marquee>./../arcade/marquee/mslug5nd.png</marquee>
-		<developer>SNK 플레이모어</developer>
-		<publisher>SNK 플레이모어</publisher>
-		<genre>플랫폼 / 슈팅</genre>
-		<players>2</players>
-		<releasedate>2003</releasedate>
-		<desc/>
-	</game>
-	<game>
-		<path>./mslug5g.zip</path>
-		<name>메탈 슬러그 5</name>
-		<image>./../arcade/snap/mslug5g.png</image>
-		<video>./../arcade/video/mslug5.mp4</video>
-		<marquee>./../arcade/marquee/mslug5g.png</marquee>
-		<developer>SNK 플레이모어</developer>
-		<publisher>SNK 플레이모어</publisher>
-		<genre>플랫폼 / 슈팅</genre>
-		<players>2</players>
-		<releasedate>2003</releasedate>
-		<desc/>
-	</game>
-	<game>
-		<path>./mslug5wd.zip</path>
-		<name>메탈 슬러그 5</name>
-		<image>./../arcade/snap/mslug5wd.png</image>
-		<video>./../arcade/video/mslug5.mp4</video>
-		<marquee>./../arcade/marquee/mslug5wd.png</marquee>
 		<developer>SNK 플레이모어</developer>
 		<publisher>SNK 플레이모어</publisher>
 		<genre>플랫폼 / 슈팅</genre>
@@ -10125,26 +10477,6 @@ SNK의 3번째 징크스도 그럭저럭 돌파해냈다. 하지만 커맨드 �
 		<desc/>
 	</game>
 	<game>
-		<path>./kof98cps.zip</path>
-		<name>킹 오브 파이터즈 98</name>
-		<image>./../arcade/snap/kof98cps.png</image>
-		<video>./../arcade/video/kof98.mp4</video>
-		<marquee>./../arcade/marquee/kof98cps.png</marquee>
-		<developer>해킹판</developer>
-		<publisher>해킹판</publisher>
-		<genre>격투 / 대전</genre>
-		<players>2</players>
-		<releasedate>2007</releasedate>
-		<desc>"KOF 94" 부터 시작된 "KOF 시리즈" 의 집대성으로 등장한 게임.
-3년간 진행된 오로치편을 끝내고 차기작을 발매하기 전 1년간의 휴식기를 갖기 위해 스토리를 없앤 초기 KOF 시리즈의 컨셉을 살려 발매되었다. 
-드림매치라는 컨셉답게 기존에 삭제된 팀까지 포함하였다. 시리즈 중에서도 가장 안정적인 밸런스를 가지고 있다고 평가되며 현재까지 가장 많이 플레이되고 있는 시리즈. 
-이 게임을 끝으로 "킹 오브 파이터즈" 는 몰락의 기로에 서있게 된다. 이 이후 KOF98 10주년을 맞이하여 "킹 오브 파이터즈 98UM" 이 발매되었다. 
-이 게임에는 94년부터 97년까지 KOF에 한 번이라도 등장했던 캐릭터들이 모두 등장 전체 38인에서 선택 플레이 할 수 있다. 보스 역시 오메가루갈, 게닛츠, 오로치 중에 한 명이 등장한다.
-
-
-'어드벤스 모드' 에서 MVS의 캘린더 기능으로 휴일에는 캐릭트의 기분이 변화해 파워 게이지가 변화하는 '필링 바리에이션 시스템' 이 포함되어 있다.</desc>
-	</game>
-	<game>
 		<path>./kof98kr.zip</path>
 		<name>킹 오브 파이터즈 98</name>
 		<image>./../arcade/snap/kof98kr.png</image>
@@ -10205,32 +10537,6 @@ SNK의 3번째 징크스도 그럭저럭 돌파해냈다. 하지만 커맨드 �
 '어드벤스 모드' 에서 MVS의 캘린더 기능으로 휴일에는 캐릭트의 기분이 변화해 파워 게이지가 변화하는 '필링 바리에이션 시스템' 이 포함되어 있다.</desc>
 	</game>
 	<game>
-		<path>./kof98eck20.zip</path>
-		<name>킹 오브 파이터즈 98 - 이지 콤보킹</name>
-		<image>./../arcade/snap/kof98eck20.png</image>
-		<video>./../arcade/video/kof98.mp4</video>
-		<marquee>./../arcade/marquee/kof98eck20.png</marquee>
-		<developer>해킹판</developer>
-		<publisher>해킹판</publisher>
-		<genre>격투 / 대전</genre>
-		<players>2</players>
-		<releasedate/>
-		<desc/>
-	</game>
-	<game>
-		<path>./kof98eckvs.zip</path>
-		<name>킹 오브 파이터즈 98 - 이지 콤보킹 2014</name>
-		<image>./../arcade/snap/kof98eckvs.png</image>
-		<video>./../arcade/video/kof98.mp4</video>
-		<marquee>./../arcade/marquee/kof98eckvs.png</marquee>
-		<developer>해킹판</developer>
-		<publisher>해킹판</publisher>
-		<genre>격투 / 대전</genre>
-		<players>2</players>
-		<releasedate/>
-		<desc/>
-	</game>
-	<game>
 		<path>./kof99ae2016.zip</path>
 		<name>킹 오브 파이터즈 99</name>
 		<image>./../arcade/snap/kof99ae2016.png</image>
@@ -10282,19 +10588,6 @@ SNK社 의 역사에서 보기 드믄 빼어난 이식도를 보여주고 있다
 하지만 이전과 다른 시스템으로 기존 유저들에게 외면을 받았고 시도는 좋았지만 스트라이커 시스템의 불균형과 벨런싱 문제. 
 지나칠정도의 급진적인 변화등으로 많은 유저들이 이탈했다. 가정용에서는 드림캐스트용으로 발매된 KOF'99 에볼루션은 안정적인 3D 배경, 추가 스트라이커등으로 
 SNK社 의 역사에서 보기 드믄 빼어난 이식도를 보여주고 있다. 스토리면에서도 주인공 교체등의 새로운 전개로  화제를 부르기도 했다.</desc>
-	</game>
-	<game>
-		<path>./kof99rp2f.zip</path>
-		<name>킹 오브 파이터즈 99 - 리믹스 프로 v2.0파이널</name>
-		<image>./../arcade/snap/kof99rp2f.png</image>
-		<video>./../arcade/video/kof99.mp4</video>
-		<marquee>./../arcade/marquee/kof99rp2f.png</marquee>
-		<developer>해킹판</developer>
-		<publisher>해킹판</publisher>
-		<genre>격투 / 대전</genre>
-		<players>2</players>
-		<releasedate/>
-		<desc/>
 	</game>
 	<game>
 		<path>./kof2knd.zip</path>
@@ -10412,58 +10705,6 @@ SNK는 2001년 재정 악화로 인해 영업정지 및 파산에 이르게 된�
 		<image>./../arcade/snap/kof2k2kh.png</image>
 		<video>./../arcade/video/kof2002.mp4</video>
 		<marquee>./../arcade/marquee/kof2k2kh.png</marquee>
-		<developer>해킹판</developer>
-		<publisher>해킹판</publisher>
-		<genre>격투 / 대전</genre>
-		<players>2</players>
-		<releasedate>2007</releasedate>
-		<desc>"SNK社" 파산 이후 판권을 이어 받은 "플레이모어社" 와 "KOF" 라이센스를 획득한 "이오리스社" 에 의해 개발된 
-"킹 오브 파이터즈" 의 9번째 시리즈.
-초창기 KOF 때의 원점으로 돌아가서 스트라이커 시스템 폐지 및 3 대 3 배틀의 부활이 이루어 졌다.
-또한 파워 게이지 사용으로 파워업하는 MAX 발동 시스템에 및 언제나 가능한 캔슬기능, 
-체력 감소시에만 사용가능한 MAX2 초필살기술의 새로운 시스템이 도입되었다.
-하지만 스토리 라인이 없는 외전 격의 게임으로 새로운 캐릭터의 추가가 없는 점이 아쉬움으로 남는 게임.
-
-
-시리즈 최초로 일본에서 전국 대회가 이루어지기도 하는등 이전의 KOF 인기를 만회한 작품이다.
-"이오리스社" 에서 출시된 두 번째이자 마지막 KOF 게임. 이후에는 SNK/Playmore에 의해 시리즈가 계속되게 된다.
-이오리스에 의해 2001부터 추가된 K9999, 앤젤, 이진주 등의 신 캐릭터는 시리즈가 다시 SNK로 넘어가게 되면서 
-이오리스와의 라이센스 문제로 이후에는 등장하지 않게된다.
-네오지오 MVS 기판내에 한국어 설정이 추가되었으며 한국판 설정에 한해 어색했던 한국팀 음성이 국내 성우로 
-교체되었다.</desc>
-	</game>
-	<game>
-		<path>./kf2k2ps2re1.zip</path>
-		<name>킹 오브 파이터즈 2002</name>
-		<image>./../arcade/snap/kf2k2ps2re1.png</image>
-		<video>./../arcade/video/kof2002.mp4</video>
-		<marquee>./../arcade/marquee/kf2k2ps2re1.png</marquee>
-		<developer>해킹판</developer>
-		<publisher>해킹판</publisher>
-		<genre>격투 / 대전</genre>
-		<players>2</players>
-		<releasedate>2007</releasedate>
-		<desc>"SNK社" 파산 이후 판권을 이어 받은 "플레이모어社" 와 "KOF" 라이센스를 획득한 "이오리스社" 에 의해 개발된 
-"킹 오브 파이터즈" 의 9번째 시리즈.
-초창기 KOF 때의 원점으로 돌아가서 스트라이커 시스템 폐지 및 3 대 3 배틀의 부활이 이루어 졌다.
-또한 파워 게이지 사용으로 파워업하는 MAX 발동 시스템에 및 언제나 가능한 캔슬기능, 
-체력 감소시에만 사용가능한 MAX2 초필살기술의 새로운 시스템이 도입되었다.
-하지만 스토리 라인이 없는 외전 격의 게임으로 새로운 캐릭터의 추가가 없는 점이 아쉬움으로 남는 게임.
-
-
-시리즈 최초로 일본에서 전국 대회가 이루어지기도 하는등 이전의 KOF 인기를 만회한 작품이다.
-"이오리스社" 에서 출시된 두 번째이자 마지막 KOF 게임. 이후에는 SNK/Playmore에 의해 시리즈가 계속되게 된다.
-이오리스에 의해 2001부터 추가된 K9999, 앤젤, 이진주 등의 신 캐릭터는 시리즈가 다시 SNK로 넘어가게 되면서 
-이오리스와의 라이센스 문제로 이후에는 등장하지 않게된다.
-네오지오 MVS 기판내에 한국어 설정이 추가되었으며 한국판 설정에 한해 어색했던 한국팀 음성이 국내 성우로 
-교체되었다.</desc>
-	</game>
-	<game>
-		<path>./kf2k2ps2b.zip</path>
-		<name>킹 오브 파이터즈 2002</name>
-		<image>./../arcade/snap/kf2k2ps2b.png</image>
-		<video>./../arcade/video/kof2002.mp4</video>
-		<marquee>./../arcade/marquee/kf2k2ps2b.png</marquee>
 		<developer>해킹판</developer>
 		<publisher>해킹판</publisher>
 		<genre>격투 / 대전</genre>

@@ -12,6 +12,7 @@
 		<genre>시스템 / 바이오스</genre>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./awbios.zip</path>
@@ -25,6 +26,7 @@
 		<genre>시스템 / 바이오스</genre>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./naomi2.zip</path>
@@ -38,6 +40,7 @@
 		<genre>시스템 / 바이오스</genre>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./airlbios.zip</path>
@@ -51,6 +54,7 @@
 		<genre>시스템 / 바이오스</genre>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./f355bios.zip</path>
@@ -64,6 +68,7 @@
 		<genre>시스템 / 바이오스</genre>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./f355dlx.zip</path>
@@ -77,6 +82,7 @@
 		<genre>시스템 / 바이오스</genre>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./hod2bios.zip</path>
@@ -90,6 +96,7 @@
 		<genre>시스템 / 바이오스</genre>
 		<players/>
 		<releasedate>1998</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./naomi.zip</path>
@@ -103,6 +110,7 @@
 		<genre>시스템 / 바이오스</genre>
 		<players/>
 		<releasedate>1998</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./azumanga.zip</path>
@@ -116,6 +124,7 @@
 		<genre>퍼즐 / 던지기</genre>
 		<players/>
 		<releasedate>2002</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./bdrdown.zip</path>
@@ -129,6 +138,7 @@
 		<genre>슈팅 / 수평 비행</genre>
 		<players/>
 		<releasedate>2004</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./cfield.zip</path>
@@ -142,6 +152,7 @@
 		<genre>슈팅 / 수직 비행</genre>
 		<players/>
 		<releasedate>2004</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./chocomk.zip</path>
@@ -155,6 +166,7 @@
 		<genre>퍼즐 / 맞추기</genre>
 		<players/>
 		<releasedate>2002</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./cleoftp.zip</path>
@@ -168,6 +180,7 @@
 		<genre>퍼즐 / 맞추기</genre>
 		<players/>
 		<releasedate>2002</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./confmiss.zip</path>
@@ -181,6 +194,7 @@
 		<genre>슈팅 / 총</genre>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./cvs2.zip</path>
@@ -194,6 +208,7 @@
 		<genre>격투 / 대전</genre>
 		<players/>
 		<releasedate>2000</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./cvsgd.zip</path>
@@ -207,6 +222,7 @@
 		<genre>격투 / 대전</genre>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./dragntr.zip</path>
@@ -220,6 +236,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2000</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./dragntr2.zip</path>
@@ -233,6 +250,7 @@
 		<genre/>
 		<players/>
 		<releasedate>1999</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./dragntr3.zip</path>
@@ -246,6 +264,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./dygolf.zip</path>
@@ -259,6 +278,7 @@
 		<genre>스포츠 / 골프</genre>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./ggxx.zip</path>
@@ -272,6 +292,7 @@
 		<genre>격투 / 대전</genre>
 		<players/>
 		<releasedate>2002</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./ggxxac.zip</path>
@@ -285,6 +306,7 @@
 		<genre>격투 / 대전</genre>
 		<players/>
 		<releasedate>2006</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./ggxxrl.zip</path>
@@ -298,6 +320,7 @@
 		<genre>격투 / 대전</genre>
 		<players/>
 		<releasedate>2003</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./ggxxsla.zip</path>
@@ -311,6 +334,7 @@
 		<genre>격투 / 대전</genre>
 		<players/>
 		<releasedate>2005</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./gundmgd.zip</path>
@@ -324,6 +348,7 @@
 		<genre>슈팅 / 3인칭</genre>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./gundmxgd.zip</path>
@@ -337,6 +362,7 @@
 		<genre>슈팅 / 3인칭</genre>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./ikaruga.zip</path>
@@ -350,6 +376,7 @@
 		<genre>슈팅 / 수직 비행</genre>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./jingystm.zip</path>
@@ -363,6 +390,7 @@
 		<genre>격투 / 대전</genre>
 		<players/>
 		<releasedate>2005</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./karous.zip</path>
@@ -376,6 +404,7 @@
 		<genre>슈팅 / 수직 비행</genre>
 		<players/>
 		<releasedate>2006</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./keyboard.zip</path>
@@ -389,6 +418,7 @@
 		<genre/>
 		<players/>
 		<releasedate>1999</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./kurucham.zip</path>
@@ -402,6 +432,7 @@
 		<genre>퍼즐 / 맞추기</genre>
 		<players/>
 		<releasedate>2006</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./lupinsho.zip</path>
@@ -415,6 +446,7 @@
 		<genre>슈팅 / 총</genre>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./luptype.zip</path>
@@ -428,6 +460,7 @@
 		<genre>슈팅 / 기타</genre>
 		<players/>
 		<releasedate>2002</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./meltyb.zip</path>
@@ -441,6 +474,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2000</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./meltybld.zip</path>
@@ -454,6 +488,7 @@
 		<genre>격투 / 대전</genre>
 		<players/>
 		<releasedate>2005</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./mj1.zip</path>
@@ -467,6 +502,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./moeru.zip</path>
@@ -480,6 +516,7 @@
 		<genre>카지노 / 카드</genre>
 		<players/>
 		<releasedate>2002</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./mok.zip</path>
@@ -493,6 +530,7 @@
 		<genre>슈팅 / 총</genre>
 		<players/>
 		<releasedate>2002</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./monkeyba.zip</path>
@@ -506,6 +544,7 @@
 		<genre>퍼즐 / 미로</genre>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./ndcfboxa.zip</path>
@@ -519,6 +558,7 @@
 		<genre>유틸리티 / 업데이트</genre>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./ngdup23a.zip</path>
@@ -532,6 +572,7 @@
 		<genre>유틸리티 / 업데이트</genre>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./ngdup23c.zip</path>
@@ -545,6 +586,7 @@
 		<genre>유틸리티 / 업데이트</genre>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./ngdup23e.zip</path>
@@ -558,6 +600,7 @@
 		<genre>유틸리티 / 업데이트</genre>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./psyvar2.zip</path>
@@ -571,6 +614,7 @@
 		<genre>슈팅 / 수직 비행</genre>
 		<players/>
 		<releasedate>2003</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./puyofev.zip</path>
@@ -584,6 +628,7 @@
 		<genre>퍼즐 / 낙하</genre>
 		<players/>
 		<releasedate>2003</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./quizqgd.zip</path>
@@ -597,6 +642,7 @@
 		<genre>퀴즈 / 일본어</genre>
 		<players/>
 		<releasedate>2002</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./radirgy.zip</path>
@@ -610,6 +656,7 @@
 		<genre>슈팅 / 수직 비행</genre>
 		<players/>
 		<releasedate>2005</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./senko.zip</path>
@@ -623,6 +670,7 @@
 		<genre>슈팅 / 대전</genre>
 		<players/>
 		<releasedate>2005</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./senkosp.zip</path>
@@ -636,6 +684,7 @@
 		<genre>슈팅 / 수평 비행</genre>
 		<players/>
 		<releasedate>2006</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./sfz3ugd.zip</path>
@@ -649,6 +698,27 @@
 		<genre>격투 / 대전</genre>
 		<players>2</players>
 		<releasedate>1998</releasedate>
+		<desc>제로 시리즈의 제 3탄이자 종결작. 
+이번은 'ISM 셀렉트' 라고 하는 새로운 시스템을 탑재해,
+1명의 캐릭터에 대해 3종류의 슈퍼콤보가 선택 가능해졌다.
+위력이 크며 게이지도 모이기 쉬운 'X-ISM'이나, 3단계의 레벨을 버튼으로 구분하여 사용가능한 'Z-ISM',
+3명의 잔상과 함께 오리지날 콤보가 작렬하는 'V-ISM'의 3 종류.
+또 '가드 크래쉬'나 '공중 콤보' 등의 신시스템도 추가되고 있다.
+
+캐릭터 구성은 제로 시리즈에 등장하지 않았던 
+기존의 캐릭터 바이슨, 발록, 블랑카, 혼다등이 새롭게 참전했으며 여기에 행방이 묘연했던 
+파이널 파이트의 주인공 코디가 첫 참전. 
+
+하지만 충격적이게도 죄수로 등장하여 많은 올드팬을 
+놀라움에 빠지게 되었는데 게임상에서 코디를 고를 시 그 원인을 알 수 있는데 평화로운 삶에 
+적응하지 못하여 방황하는 내용을 담고있다. 특히 시나리오적인 부분역시 보강되어 
+중간보스 시스템을 도입했는데 플레이어가 선택한 캐릭터에 따라 중간보스가 달라졌다. 
+특히 마지막 보스 베가와 깊은 원한이 있는 캐릭터일 경우 중간보스는 유리&amp;유니로서 
+2 대1 로 싸워야 하지만 유리와 유니가 약체인 캐미의 복사판인 관계로 난이도는 그렇게 높지 않았다. 
+
+게임자체는 결정판이라는 평가에 걸맞게 오랜시간 인기를 끌었고 2D 대전액션으로는 
+최후의 밀리언 셀러 (PS용)를 찍으면서 2D 대전액션의 마지막 투혼을 보여주었다. 
+현재 이 제로 3 이후로 정통 2D 대전액션이 100만장이 넘은 사례는 '더 킹 오브 파이터즈' 시리즈가 유일하다.</desc>
 	</game>
 	<game>
 		<path>./shaktam.zip</path>
@@ -662,6 +732,7 @@
 		<genre/>
 		<players/>
 		<releasedate>1999</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./shaktamb.zip</path>
@@ -675,6 +746,7 @@
 		<genre/>
 		<players/>
 		<releasedate>1999</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./shaktmsp.zip</path>
@@ -688,6 +760,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2004</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./shikgam2.zip</path>
@@ -701,6 +774,7 @@
 		<genre>슈팅 / 수직 비행</genre>
 		<players/>
 		<releasedate>2003</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./slashout.zip</path>
@@ -714,6 +788,7 @@
 		<genre>격투 / 아케이드</genre>
 		<players/>
 		<releasedate>2000</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./spkrbtl.zip</path>
@@ -727,6 +802,7 @@
 		<genre>격투 / 아케이드</genre>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./sprtjam.zip</path>
@@ -740,6 +816,7 @@
 		<genre>스포츠 / 멀티플래이</genre>
 		<players/>
 		<releasedate>2000</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./ss2005.zip</path>
@@ -753,6 +830,7 @@
 		<genre>퍼즐 / 맞추기 *성인*</genre>
 		<players/>
 		<releasedate>2005</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./starseek.zip</path>
@@ -766,6 +844,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2009</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./takoron.zip</path>
@@ -779,6 +858,7 @@
 		<genre>퍼즐 / 기타</genre>
 		<players/>
 		<releasedate>2006</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./tetkiwam.zip</path>
@@ -792,6 +872,7 @@
 		<genre>퍼즐 / 낙하</genre>
 		<players/>
 		<releasedate>2004</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./trgheart.zip</path>
@@ -805,6 +886,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2003</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./trizeal.zip</path>
@@ -818,6 +900,7 @@
 		<genre>슈팅 / 수직 비행</genre>
 		<players/>
 		<releasedate>2004</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./undefeat.zip</path>
@@ -831,6 +914,7 @@
 		<genre>슈팅 / 수직 비행</genre>
 		<players/>
 		<releasedate>2005</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./usagiym.zip</path>
@@ -844,6 +928,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2003</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./vathlete.zip</path>
@@ -857,6 +942,7 @@
 		<genre>스포츠 / 육상</genre>
 		<players/>
 		<releasedate>2002</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./vtennis2.zip</path>
@@ -870,6 +956,7 @@
 		<genre>스포츠 / 테니스</genre>
 		<players/>
 		<releasedate>2000</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./vtennisg.zip</path>
@@ -883,6 +970,7 @@
 		<genre>스포츠 / 테니스</genre>
 		<players/>
 		<releasedate>1999</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./wccf116.zip</path>
@@ -896,6 +984,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2000</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./wccf1dup.zip</path>
@@ -909,6 +998,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2000</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./wccf212e.zip</path>
@@ -922,6 +1012,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./wccf234j.zip</path>
@@ -935,6 +1026,7 @@
 		<genre/>
 		<players/>
 		<releasedate>1999</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./wccf2chk.zip</path>
@@ -948,6 +1040,7 @@
 		<genre/>
 		<players/>
 		<releasedate>1999</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./wccf310j.zip</path>
@@ -961,6 +1054,7 @@
 		<genre/>
 		<players/>
 		<releasedate>1999</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./wccf322e.zip</path>
@@ -974,6 +1068,7 @@
 		<genre/>
 		<players/>
 		<releasedate>1999</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./wccf420e.zip</path>
@@ -987,6 +1082,7 @@
 		<genre/>
 		<players/>
 		<releasedate>1998</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./wsbbgd.zip</path>
@@ -1000,6 +1096,7 @@
 		<genre>스포츠 / 야구</genre>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./cvs2mf.zip</path>
@@ -1013,6 +1110,7 @@
 		<genre>격투 / 대전</genre>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./dragntra.zip</path>
@@ -1026,6 +1124,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2000</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./ggxxrlo.zip</path>
@@ -1039,6 +1138,7 @@
 		<genre>격투 / 대전</genre>
 		<players/>
 		<releasedate>2003</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./lupinshoo.zip</path>
@@ -1052,6 +1152,7 @@
 		<genre>슈팅 / 총</genre>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./meltyblo.zip</path>
@@ -1065,6 +1166,7 @@
 		<genre/>
 		<players/>
 		<releasedate>1999</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./meltybo.zip</path>
@@ -1078,6 +1180,7 @@
 		<genre>격투 / 대전</genre>
 		<players/>
 		<releasedate>2006</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./puyofevj.zip</path>
@@ -1091,6 +1194,7 @@
 		<genre>퍼즐 / 낙하</genre>
 		<players/>
 		<releasedate>2003</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./puyofevp.zip</path>
@@ -1104,6 +1208,7 @@
 		<genre>퍼즐 / 낙하</genre>
 		<players/>
 		<releasedate>2003</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./radirgyo.zip</path>
@@ -1117,6 +1222,7 @@
 		<genre>슈팅 / 수직 비행</genre>
 		<players/>
 		<releasedate>2005</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./senkoo.zip</path>
@@ -1130,6 +1236,7 @@
 		<genre>슈팅 / 대전</genre>
 		<players/>
 		<releasedate>2005</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./ss2005o.zip</path>
@@ -1143,6 +1250,7 @@
 		<genre>퍼즐 / 맞추기 *성인*</genre>
 		<players/>
 		<releasedate>2005</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./trghearto.zip</path>
@@ -1156,6 +1264,7 @@
 		<genre>슈팅 / 수직 비행</genre>
 		<players/>
 		<releasedate>2005</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./vathletep.zip</path>
@@ -1169,6 +1278,7 @@
 		<genre>스포츠 / 육상</genre>
 		<players/>
 		<releasedate>2002</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./wccf331e.zip</path>
@@ -1182,6 +1292,7 @@
 		<genre/>
 		<players/>
 		<releasedate>1998</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./anmlbskt.zip</path>
@@ -1195,6 +1306,7 @@
 		<genre>스포츠 / 농구</genre>
 		<players/>
 		<releasedate>2003</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./basschal.zip</path>
@@ -1208,6 +1320,7 @@
 		<genre>스포츠 / 낚시</genre>
 		<players/>
 		<releasedate>2002</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./blokpong.zip</path>
@@ -1221,6 +1334,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2000</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./claychal.zip</path>
@@ -1234,6 +1348,7 @@
 		<genre>슈터 / 라이트건</genre>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./demofist.zip</path>
@@ -1247,6 +1362,7 @@
 		<genre>격투 / 대전</genre>
 		<players/>
 		<releasedate>2003</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./dirtypig.zip</path>
@@ -1260,6 +1376,7 @@
 		<genre>스포츠 / 풋볼</genre>
 		<players/>
 		<releasedate>2003</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./dolphin.zip</path>
@@ -1273,6 +1390,7 @@
 		<genre>플랫폼 / 사격</genre>
 		<players/>
 		<releasedate>2003</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./fotns.zip</path>
@@ -1286,6 +1404,7 @@
 		<genre>격투 / 대전</genre>
 		<players>2</players>
 		<releasedate>2005</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./ftspeed.zip</path>
@@ -1299,6 +1418,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./ggisuka.zip</path>
@@ -1312,19 +1432,21 @@
 		<genre>격투 / 대전</genre>
 		<players/>
 		<releasedate>2003</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./ggx15.zip</path>
-		<name>길티기어 X</name>
+		<name>길티 기어 X</name>
 		<image>./../arcade/snap/ggx15.png</image>
 		<video>./../arcade/video/ggx15.mp4</video>
 		<marquee>./../arcade/marquee/ggx15.png</marquee>
 		<thumbnail>./../arcade/box/ggx15.png</thumbnail>
-		<developer/>
-		<publisher/>
-		<genre/>
+		<developer>아크 시스템 웍스</developer>
+		<publisher>아크 시스템 웍스</publisher>
+		<genre>격투 / 대전</genre>
 		<players/>
-		<releasedate/>
+		<releasedate>2000</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./kofnw.zip</path>
@@ -1338,6 +1460,7 @@
 		<genre>격투 / 대전</genre>
 		<players>2</players>
 		<releasedate>2005</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./kofxi.zip</path>
@@ -1351,6 +1474,7 @@
 		<genre>격투 / 대전</genre>
 		<players>2</players>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./kov7sprt.zip</path>
@@ -1364,6 +1488,7 @@
 		<genre>격투 / 아케이드</genre>
 		<players>4</players>
 		<releasedate>2004</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./maxspeed.zip</path>
@@ -1377,6 +1502,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./mslug6.zip</path>
@@ -1390,6 +1516,19 @@
 		<genre>플랫폼 / 사격</genre>
 		<players>2</players>
 		<releasedate>2000</releasedate>
+		<desc>"메탈슬러그" 시리즈사상 최고의 평가를 받는 4번째 작품이다.
+화성인 이야기를 끝내기에 부족함이 없는 작품이며, 스토리와 그에 따른 구성등이 후기작품에 비교했을때 
+너무나도 치밀하다는 점에서 메탈슬러그 최고의 작품이라고 해도 과언이 아니다. 708MB(MVS롬셋)이란 
+용량에 그렇게 많은 것들이 들어있나? 라고 생각하면 SNK가 위대해 보이기까지 한다. 
+
+
+3탄 부터 메탈슬러그는 현실성과는 거리가 멀다. 이미 "메탈슬러그 2" , "메탈슬러그 X" 에서도 그러한 것은 보였지만, 
+3탄에 들어와서는 사람 몸만한(그것보다 큰) 게, 
+날아다니는 식인 거대 피라니아, 좀비, 2족 보행병기(레벨 아머), 거대한 식인메뚜기, 식인식물(맨 이터), 
+거대 달팽이, 초거대 애벌레(??)등등 또한 이것들은 메탈슬러그 시리즈의 난이도를 급상승 시키는 요인이 되었다. 
+게다가 슬러그 탈출 무적시간이 줄어들어서 X까지 가능했던 '슬러그 내렸다가 도로 탑승'이라는 무적의 패턴이 사라졌다. 
+그러나 꼼수를 쓰면 되긴 한다.(미션3 슬러그마리너, 레벨아머) 
+시리즈 최초로 여성 캐릭터들의 누드가 나오는 작품이기도하다.</desc>
 	</game>
 	<game>
 		<path>./ngbc.zip</path>
@@ -1403,6 +1542,7 @@
 		<genre>격투 / 대전</genre>
 		<players/>
 		<releasedate>2005</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./rangrmsn.zip</path>
@@ -1416,6 +1556,7 @@
 		<genre>슈팅 / 총</genre>
 		<players/>
 		<releasedate>2004</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./rumblef.zip</path>
@@ -1429,6 +1570,7 @@
 		<genre>격투 / 대전</genre>
 		<players/>
 		<releasedate>2004</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./rumblef2.zip</path>
@@ -1442,6 +1584,7 @@
 		<genre>격투 / 대전</genre>
 		<players/>
 		<releasedate>2002</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./salmankt.zip</path>
@@ -1455,6 +1598,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2002</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./samsptk.zip</path>
@@ -1468,6 +1612,7 @@
 		<genre>격투 / 대전</genre>
 		<players/>
 		<releasedate>2002</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./sprtshot.zip</path>
@@ -1481,6 +1626,7 @@
 		<genre>슈팅 / 총</genre>
 		<players/>
 		<releasedate>2002</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./sushibar.zip</path>
@@ -1494,6 +1640,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./vfurlong.zip</path>
@@ -1507,6 +1654,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2009</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./waidrive.zip</path>
@@ -1520,6 +1668,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./xtrmhnt2.zip</path>
@@ -1533,6 +1682,7 @@
 		<genre>슈팅 / 총</genre>
 		<players/>
 		<releasedate>2006</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./xtrmhunt.zip</path>
@@ -1546,6 +1696,7 @@
 		<genre>슈팅 / 총</genre>
 		<players/>
 		<releasedate>2005</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./anmlbskta.zip</path>
@@ -1559,6 +1710,7 @@
 		<genre>스포츠 / 농구</genre>
 		<players/>
 		<releasedate>2003</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./basschalo.zip</path>
@@ -1572,6 +1724,7 @@
 		<genre>스포츠 / 낚시</genre>
 		<players/>
 		<releasedate>2002</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./kofnwj.zip</path>
@@ -1585,6 +1738,7 @@
 		<genre>격투 / 대전</genre>
 		<players>2</players>
 		<releasedate>2005</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./ngbcj.zip</path>
@@ -1598,6 +1752,7 @@
 		<genre>격투 / 대전</genre>
 		<players/>
 		<releasedate>2005</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./rumblefp.zip</path>
@@ -1611,6 +1766,7 @@
 		<genre>격투 / 대전</genre>
 		<players/>
 		<releasedate>2004</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./rumblf2p.zip</path>
@@ -1624,6 +1780,7 @@
 		<genre>격투 / 대전</genre>
 		<players/>
 		<releasedate>2002</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./beachspi.zip</path>
@@ -1637,6 +1794,7 @@
 		<genre>스포츠 / 배구</genre>
 		<players/>
 		<releasedate>2002</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./clubk2k3.zip</path>
@@ -1650,6 +1808,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2002</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./clubkcyc.zip</path>
@@ -1663,6 +1822,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2008</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./clubkprz.zip</path>
@@ -1676,6 +1836,7 @@
 		<genre/>
 		<players/>
 		<releasedate>1999</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./clubkpzb.zip</path>
@@ -1689,6 +1850,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2002</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./clubkrt.zip</path>
@@ -1702,6 +1864,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2002</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./inidv3cy.zip</path>
@@ -1715,6 +1878,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2007</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./initd.zip</path>
@@ -1728,6 +1892,7 @@
 		<genre>레이싱 / 3인칭</genre>
 		<players/>
 		<releasedate>2002</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./initdexp.zip</path>
@@ -1741,6 +1906,7 @@
 		<genre>레이싱 / 3인칭</genre>
 		<players/>
 		<releasedate>2002</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./initdv2j.zip</path>
@@ -1754,6 +1920,7 @@
 		<genre>레이싱 / 3인칭</genre>
 		<players/>
 		<releasedate>2002</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./initdv3e.zip</path>
@@ -1767,6 +1934,7 @@
 		<genre>레이싱 / 3인칭</genre>
 		<players/>
 		<releasedate>2004</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./initdv3j.zip</path>
@@ -1780,6 +1948,7 @@
 		<genre>레이싱 / 3인칭</genre>
 		<players/>
 		<releasedate>2004</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./kingrt66.zip</path>
@@ -1793,6 +1962,7 @@
 		<genre/>
 		<players/>
 		<releasedate>1999</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./soulsurf.zip</path>
@@ -1806,6 +1976,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2000</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./vf4.zip</path>
@@ -1819,6 +1990,7 @@
 		<genre>격투 / 대전</genre>
 		<players>2</players>
 		<releasedate>1999</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./vf4cart.zip</path>
@@ -1832,6 +2004,7 @@
 		<genre>격투 / 대전</genre>
 		<players>2</players>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./vf4evo.zip</path>
@@ -1845,6 +2018,7 @@
 		<genre>격투 / 대전</genre>
 		<players>2</players>
 		<releasedate>2002</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./vf4evoct.zip</path>
@@ -1858,6 +2032,7 @@
 		<genre>격투 / 대전</genre>
 		<players>2</players>
 		<releasedate>2002</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./vf4tuned.zip</path>
@@ -1871,6 +2046,7 @@
 		<genre>격투 / 대전</genre>
 		<players>2</players>
 		<releasedate>2004</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./vstrik3.zip</path>
@@ -1884,6 +2060,7 @@
 		<genre>스포츠 / 축구</genre>
 		<players>1</players>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./vstrik3c.zip</path>
@@ -1897,6 +2074,7 @@
 		<genre>스포츠 / 축구</genre>
 		<players>1</players>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./wldrider.zip</path>
@@ -1910,6 +2088,7 @@
 		<genre>레이싱 / 3인칭</genre>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./clubk2kp.zip</path>
@@ -1923,6 +2102,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2002</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./clubk2kpa.zip</path>
@@ -1936,6 +2116,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2002</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./clubkcyco.zip</path>
@@ -1949,6 +2130,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2008</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./clubkrta.zip</path>
@@ -1962,6 +2144,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2002</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./clubkrtc.zip</path>
@@ -1975,6 +2158,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2002</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./clubkrto.zip</path>
@@ -1988,6 +2172,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2002</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./inidv3ca.zip</path>
@@ -2001,6 +2186,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2007</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./initdexpo.zip</path>
@@ -2014,6 +2200,7 @@
 		<genre>레이싱 / 3인칭</genre>
 		<players/>
 		<releasedate>2002</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./initdo.zip</path>
@@ -2027,6 +2214,7 @@
 		<genre>레이싱 / 3인칭</genre>
 		<players/>
 		<releasedate>2002</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./initdv2e.zip</path>
@@ -2040,6 +2228,7 @@
 		<genre>레이싱 / 3인칭</genre>
 		<players/>
 		<releasedate>2002</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./initdv2ja.zip</path>
@@ -2053,6 +2242,7 @@
 		<genre>레이싱 / 3인칭</genre>
 		<players/>
 		<releasedate>2002</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./initdv2jo.zip</path>
@@ -2066,6 +2256,7 @@
 		<genre>레이싱 / 3인칭</genre>
 		<players/>
 		<releasedate>2002</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./initdv3jb.zip</path>
@@ -2079,6 +2270,7 @@
 		<genre>레이싱 / 3인칭</genre>
 		<players/>
 		<releasedate>2004</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./kingrt66p.zip</path>
@@ -2092,6 +2284,7 @@
 		<genre/>
 		<players/>
 		<releasedate>1999</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./vf4b.zip</path>
@@ -2105,6 +2298,7 @@
 		<genre>격투 / 대전</genre>
 		<players>2</players>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./vf4evoa.zip</path>
@@ -2118,6 +2312,7 @@
 		<genre>격투 / 대전</genre>
 		<players>2</players>
 		<releasedate>2002</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./vf4evob.zip</path>
@@ -2131,6 +2326,7 @@
 		<genre>격투 / 대전</genre>
 		<players>2</players>
 		<releasedate>2002</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./vf4o.zip</path>
@@ -2144,6 +2340,7 @@
 		<genre>격투 / 대전</genre>
 		<players>2</players>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./vf4tuneda.zip</path>
@@ -2157,6 +2354,7 @@
 		<genre>격투 / 대전</genre>
 		<players>2</players>
 		<releasedate>2004</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./vf4tunedd.zip</path>
@@ -2170,6 +2368,7 @@
 		<genre>격투 / 대전</genre>
 		<players>2</players>
 		<releasedate>2004</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./vstrik3co.zip</path>
@@ -2183,6 +2382,7 @@
 		<genre>스포츠 / 축구</genre>
 		<players>1</players>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./18wheelr.zip</path>
@@ -2196,6 +2396,7 @@
 		<genre>레이싱</genre>
 		<players/>
 		<releasedate>2000</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./alienfnt.zip</path>
@@ -2209,6 +2410,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2005</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./alpilotj.zip</path>
@@ -2222,6 +2424,7 @@
 		<genre>레이싱 / 비행기</genre>
 		<players/>
 		<releasedate>1999</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./asndynmt.zip</path>
@@ -2235,6 +2438,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2004</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./ausfache.zip</path>
@@ -2248,6 +2452,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2004</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./capsnk.zip</path>
@@ -2261,6 +2466,7 @@
 		<genre>격투 / 대전</genre>
 		<players/>
 		<releasedate>2000</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./crackndj.zip</path>
@@ -2274,6 +2480,7 @@
 		<genre>리듬 / 악기</genre>
 		<players/>
 		<releasedate>2000</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./crakndj2.zip</path>
@@ -2287,6 +2494,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./crzytaxi.zip</path>
@@ -2300,6 +2508,7 @@
 		<genre>레이싱 / 3인칭</genre>
 		<players/>
 		<releasedate>1999</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./csmash.zip</path>
@@ -2313,6 +2522,7 @@
 		<genre>스포츠 / 테니스</genre>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./cspike.zip</path>
@@ -2326,6 +2536,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2004</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./deathcox.zip</path>
@@ -2339,6 +2550,7 @@
 		<genre>슈팅 / 총</genre>
 		<players/>
 		<releasedate>2000</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./derbyo2k.zip</path>
@@ -2352,6 +2564,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2005</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./derbyoc.zip</path>
@@ -2365,6 +2578,7 @@
 		<genre>스포츠 / 경마</genre>
 		<players/>
 		<releasedate>1999</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./derbyoc2.zip</path>
@@ -2378,6 +2592,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./derbyocw.zip</path>
@@ -2391,6 +2606,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./doa2m.zip</path>
@@ -2404,6 +2620,7 @@
 		<genre>격투 / 대전</genre>
 		<players/>
 		<releasedate>2000</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./dybb99.zip</path>
@@ -2417,6 +2634,7 @@
 		<genre>스포츠 / 야구</genre>
 		<players/>
 		<releasedate>1999</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./dybbnao.zip</path>
@@ -2430,6 +2648,7 @@
 		<genre>스포츠 / 야구</genre>
 		<players/>
 		<releasedate>1998</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./ggram2.zip</path>
@@ -2443,6 +2662,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2005</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./ggx.zip</path>
@@ -2456,6 +2676,7 @@
 		<genre>격투 / 대전</genre>
 		<players/>
 		<releasedate>2000</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./gram2000.zip</path>
@@ -2469,6 +2690,7 @@
 		<genre>스포츠 / 레슬링</genre>
 		<players/>
 		<releasedate>2000</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./gundmct.zip</path>
@@ -2482,6 +2704,7 @@
 		<genre>슈팅 / 3인칭</genre>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./gunsur2.zip</path>
@@ -2495,6 +2718,7 @@
 		<genre>슈팅 / 총</genre>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./gwing2.zip</path>
@@ -2508,6 +2732,7 @@
 		<genre>슈팅 / 수직 비행</genre>
 		<players/>
 		<releasedate>2000</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./hmgeo.zip</path>
@@ -2521,6 +2746,7 @@
 		<genre>격투 / 아케이드</genre>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./hopper.zip</path>
@@ -2534,6 +2760,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2008</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./illvelo.zip</path>
@@ -2547,6 +2774,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2003</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./inunoos.zip</path>
@@ -2560,6 +2788,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2006</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./jambo.zip</path>
@@ -2573,6 +2802,7 @@
 		<genre>레이싱</genre>
 		<players/>
 		<releasedate>1999</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./kick4csh.zip</path>
@@ -2586,6 +2816,7 @@
 		<genre>스포츠 / 축구</genre>
 		<players/>
 		<releasedate>2004</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./mamonoro.zip</path>
@@ -2599,6 +2830,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2004</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./manicpnc.zip</path>
@@ -2612,6 +2844,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2004</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./marstv.zip</path>
@@ -2625,6 +2858,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2003</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./mazan.zip</path>
@@ -2638,6 +2872,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2004</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./mbaa.zip</path>
@@ -2651,6 +2886,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2003</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./mushi2k4.zip</path>
@@ -2664,6 +2900,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2005</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./mushi2k5.zip</path>
@@ -2677,6 +2914,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2004</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./mushik2e.zip</path>
@@ -2690,6 +2928,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2006</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./mushik4e.zip</path>
@@ -2703,6 +2942,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2005</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./mushike.zip</path>
@@ -2716,6 +2956,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2004</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./mvsc2.zip</path>
@@ -2729,6 +2970,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2003</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./ninjaslt.zip</path>
@@ -2742,6 +2984,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2005</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./oinori.zip</path>
@@ -2755,6 +2998,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2009</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./otrigger.zip</path>
@@ -2768,6 +3012,7 @@
 		<genre>슈팅 / 1인칭</genre>
 		<players/>
 		<releasedate>1999</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./pjustic.zip</path>
@@ -2781,6 +3026,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2005</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./pstone.zip</path>
@@ -2794,6 +3040,7 @@
 		<genre>격투 / 아케이드</genre>
 		<players/>
 		<releasedate>1999</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./pstone2.zip</path>
@@ -2807,6 +3054,7 @@
 		<genre>격투 / 아케이드</genre>
 		<players/>
 		<releasedate>2000</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./puyoda.zip</path>
@@ -2820,6 +3068,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2003</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./qmegamis.zip</path>
@@ -2833,6 +3082,7 @@
 		<genre>퀴즈 / 일본어</genre>
 		<players>2</players>
 		<releasedate>2000</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./radirgyn.zip</path>
@@ -2846,6 +3096,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2004</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./rhytngk.zip</path>
@@ -2859,6 +3110,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./ringout.zip</path>
@@ -2872,6 +3124,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2006</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./samba.zip</path>
@@ -2885,6 +3138,7 @@
 		<genre>리듬 / 악기</genre>
 		<players/>
 		<releasedate>1999</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./samba2k.zip</path>
@@ -2898,6 +3152,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2003</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./sgtetris.zip</path>
@@ -2911,6 +3166,7 @@
 		<genre>퍼즐 / 낙하</genre>
 		<players/>
 		<releasedate>1999</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./shangril.zip</path>
@@ -2924,6 +3180,7 @@
 		<genre>보드게임 / 마작</genre>
 		<players/>
 		<releasedate>1999</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./shootopl.zip</path>
@@ -2937,6 +3194,7 @@
 		<genre>스포츠 / 당구</genre>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./shootpl.zip</path>
@@ -2950,6 +3208,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2002</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./shootplm.zip</path>
@@ -2963,6 +3222,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2002</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./shors2k1.zip</path>
@@ -2976,6 +3236,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2004</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./shors2k2.zip</path>
@@ -2989,6 +3250,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./shorse.zip</path>
@@ -3002,6 +3264,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./shorsep.zip</path>
@@ -3015,6 +3278,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2003</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./shorsepr.zip</path>
@@ -3028,6 +3292,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./sl2007.zip</path>
@@ -3041,6 +3306,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2002</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./slasho.zip</path>
@@ -3054,6 +3320,7 @@
 		<genre>격투 / 아케이드</genre>
 		<players/>
 		<releasedate>2000</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./smarinef.zip</path>
@@ -3067,6 +3334,7 @@
 		<genre>스포츠 / 낚시</genre>
 		<players/>
 		<releasedate>2000</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./smlg99.zip</path>
@@ -3080,6 +3348,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./spawn.zip</path>
@@ -3093,6 +3362,7 @@
 		<genre>슈팅 / 3인칭</genre>
 		<players/>
 		<releasedate>1999</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./sstrkfgt.zip</path>
@@ -3106,6 +3376,7 @@
 		<genre>슈팅 / 1인칭 비행</genre>
 		<players/>
 		<releasedate>2000</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./suchie3.zip</path>
@@ -3119,6 +3390,7 @@
 		<genre>보드게임 / 마작 *성인*</genre>
 		<players/>
 		<releasedate>1999</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./tduno.zip</path>
@@ -3132,6 +3404,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2004</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./tduno2.zip</path>
@@ -3145,6 +3418,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./tokyobus.zip</path>
@@ -3158,6 +3432,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2000</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./totd.zip</path>
@@ -3171,6 +3446,7 @@
 		<genre>슈팅 / 기타</genre>
 		<players/>
 		<releasedate>2000</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./toukon4.zip</path>
@@ -3184,6 +3460,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2007</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./toyfight.zip</path>
@@ -3197,6 +3474,7 @@
 		<genre>격투 / 대전</genre>
 		<players/>
 		<releasedate>1999</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./virnba.zip</path>
@@ -3210,6 +3488,7 @@
 		<genre>스포츠 / 농구</genre>
 		<players/>
 		<releasedate>2000</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./vonot.zip</path>
@@ -3223,6 +3502,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2000</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./vs2_2k.zip</path>
@@ -3236,6 +3516,7 @@
 		<genre>스포츠 / 축구</genre>
 		<players>1</players>
 		<releasedate>1999</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./vtenis2c.zip</path>
@@ -3249,6 +3530,7 @@
 		<genre>스포츠 / 테니스</genre>
 		<players/>
 		<releasedate>2000</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./vtennis.zip</path>
@@ -3262,6 +3544,7 @@
 		<genre>스포츠 / 테니스</genre>
 		<players/>
 		<releasedate>1999</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./wldkicks.zip</path>
@@ -3275,6 +3558,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./wrungp.zip</path>
@@ -3288,6 +3572,7 @@
 		<genre/>
 		<players/>
 		<releasedate>1999</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./wwfroyal.zip</path>
@@ -3301,6 +3586,7 @@
 		<genre>스포츠 / 레슬링</genre>
 		<players/>
 		<releasedate>2000</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./zerogu2.zip</path>
@@ -3314,6 +3600,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./zombrvn.zip</path>
@@ -3327,6 +3614,7 @@
 		<genre>격투 / 아케이드</genre>
 		<players/>
 		<releasedate>1999</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./zunou.zip</path>
@@ -3340,6 +3628,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2002</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./18wheelro.zip</path>
@@ -3353,6 +3642,7 @@
 		<genre>레이싱</genre>
 		<players/>
 		<releasedate>2000</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./18wheelrt.zip</path>
@@ -3366,6 +3656,7 @@
 		<genre>레이싱</genre>
 		<players/>
 		<releasedate>2000</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./18wheels.zip</path>
@@ -3379,6 +3670,7 @@
 		<genre>레이싱</genre>
 		<players/>
 		<releasedate>2000</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./18wheelu.zip</path>
@@ -3392,6 +3684,7 @@
 		<genre>레이싱</genre>
 		<players/>
 		<releasedate>2000</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./alienfnta.zip</path>
@@ -3405,6 +3698,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2005</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./alpilot.zip</path>
@@ -3418,6 +3712,7 @@
 		<genre>레이싱 / 비행기</genre>
 		<players/>
 		<releasedate>1999</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./asndynmto.zip</path>
@@ -3431,6 +3726,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2004</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./capsnka.zip</path>
@@ -3444,6 +3740,7 @@
 		<genre>격투 / 대전</genre>
 		<players/>
 		<releasedate>2000</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./capsnkb.zip</path>
@@ -3457,6 +3754,7 @@
 		<genre>격투 / 대전</genre>
 		<players/>
 		<releasedate>2000</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./csmasho.zip</path>
@@ -3470,6 +3768,7 @@
 		<genre>스포츠 / 테니스</genre>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./deathcoxo.zip</path>
@@ -3483,6 +3782,7 @@
 		<genre>슈팅 / 총</genre>
 		<players/>
 		<releasedate>2000</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./doa2.zip</path>
@@ -3496,6 +3796,7 @@
 		<genre>격투 / 아케이드</genre>
 		<players/>
 		<releasedate>1999</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./doa2a.zip</path>
@@ -3509,6 +3810,7 @@
 		<genre>격투 / 아케이드</genre>
 		<players/>
 		<releasedate>1999</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./drbyocwa.zip</path>
@@ -3522,6 +3824,7 @@
 		<genre>스포츠 / 경마</genre>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./drbyocwb.zip</path>
@@ -3535,6 +3838,7 @@
 		<genre>스포츠 / 경마</genre>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./drbyocwc.zip</path>
@@ -3548,6 +3852,7 @@
 		<genre>스포츠 / 경마</genre>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./f355.zip</path>
@@ -3561,6 +3866,7 @@
 		<genre>레이싱 / 1인칭</genre>
 		<players/>
 		<releasedate>1999</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./f355twin.zip</path>
@@ -3574,6 +3880,7 @@
 		<genre>레이싱 / 1인칭</genre>
 		<players/>
 		<releasedate>1999</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./f355twn2.zip</path>
@@ -3587,6 +3894,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2002</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./gunsur2j.zip</path>
@@ -3600,6 +3908,7 @@
 		<genre>슈팅 / 총</genre>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./hotd2.zip</path>
@@ -3613,6 +3922,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2006</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./mazanu.zip</path>
@@ -3626,6 +3936,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2004</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./mbaao.zip</path>
@@ -3639,6 +3950,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2003</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./mushi2eo.zip</path>
@@ -3652,6 +3964,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2006</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./mushikeo.zip</path>
@@ -3665,6 +3978,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2004</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./mushikep.zip</path>
@@ -3678,6 +3992,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2004</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./mvsc2u.zip</path>
@@ -3691,6 +4006,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2003</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./ninjaslta.zip</path>
@@ -3704,6 +4020,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2005</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./ninjasltj.zip</path>
@@ -3717,6 +4034,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2005</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./ninjasltu.zip</path>
@@ -3730,6 +4048,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2005</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./pokasuka.zip</path>
@@ -3743,6 +4062,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2004</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./pstone2b.zip</path>
@@ -3756,6 +4076,7 @@
 		<genre>격투 / 아케이드</genre>
 		<players/>
 		<releasedate>2000</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./ringouto.zip</path>
@@ -3769,6 +4090,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2006</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./sambaa.zip</path>
@@ -3782,6 +4104,7 @@
 		<genre>리듬 / 악기</genre>
 		<players/>
 		<releasedate>1999</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./sambap.zip</path>
@@ -3795,6 +4118,7 @@
 		<genre>리듬 / 악기</genre>
 		<players/>
 		<releasedate>1999</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./shootplmp.zip</path>
@@ -3808,6 +4132,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2002</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./shorsel.zip</path>
@@ -3821,6 +4146,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./shorsem.zip</path>
@@ -3834,6 +4160,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./shorsepb.zip</path>
@@ -3847,6 +4174,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2003</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./shorsepl.zip</path>
@@ -3860,6 +4188,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2003</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./shorsepm.zip</path>
@@ -3873,6 +4202,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2003</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./shorseprl.zip</path>
@@ -3886,6 +4216,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./shorseprs.zip</path>
@@ -3899,6 +4230,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./shorseprvl.zip</path>
@@ -3912,6 +4244,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./shorseprvr.zip</path>
@@ -3925,6 +4258,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./shorseps.zip</path>
@@ -3938,6 +4272,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2003</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./sstrkfgta.zip</path>
@@ -3951,6 +4286,7 @@
 		<genre>슈팅 / 1인칭 비행</genre>
 		<players/>
 		<releasedate>2000</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./totdo.zip</path>
@@ -3964,6 +4300,7 @@
 		<genre>슈팅 / 기타</genre>
 		<players/>
 		<releasedate>2000</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./virnbao.zip</path>
@@ -3977,6 +4314,7 @@
 		<genre>스포츠 / 농구</genre>
 		<players/>
 		<releasedate>2000</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./virnbap.zip</path>
@@ -3990,6 +4328,7 @@
 		<genre>스포츠 / 농구</genre>
 		<players/>
 		<releasedate>2000</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./virnbapa.zip</path>
@@ -4003,6 +4342,7 @@
 		<genre>스포츠 / 농구</genre>
 		<players/>
 		<releasedate>2000</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./vs2_2ko.zip</path>
@@ -4016,6 +4356,7 @@
 		<genre>스포츠 / 축구</genre>
 		<players>1</players>
 		<releasedate>1999</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./wldkicksj.zip</path>
@@ -4029,6 +4370,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./wldkickspj.zip</path>
@@ -4042,6 +4384,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2000</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./wldkickspw.zip</path>
@@ -4055,6 +4398,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2000</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./wldkicksu.zip</path>
@@ -4068,6 +4412,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2001</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./wrungpo.zip</path>
@@ -4081,6 +4426,7 @@
 		<genre/>
 		<players/>
 		<releasedate>1999</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./zombrvne.zip</path>
@@ -4094,6 +4440,7 @@
 		<genre>격투 / 아케이드</genre>
 		<players/>
 		<releasedate>1999</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./zombrvno.zip</path>
@@ -4107,6 +4454,7 @@
 		<genre>격투 / 아케이드</genre>
 		<players/>
 		<releasedate>1999</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./f355p.zip</path>
@@ -4120,6 +4468,7 @@
 		<genre>레이싱 / 1인칭</genre>
 		<players/>
 		<releasedate>1999</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./f355twinp.zip</path>
@@ -4133,6 +4482,7 @@
 		<genre>레이싱 / 1인칭</genre>
 		<players/>
 		<releasedate>1999</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./hotd2e.zip</path>
@@ -4146,6 +4496,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2006</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./hotd2o.zip</path>
@@ -4159,6 +4510,7 @@
 		<genre/>
 		<players/>
 		<releasedate>2006</releasedate>
+		<desc/>
 	</game>
 	<game>
 		<path>./hotd2p.zip</path>
@@ -4172,5 +4524,6 @@
 		<genre/>
 		<players/>
 		<releasedate>2006</releasedate>
+		<desc/>
 	</game>
 </gameList>

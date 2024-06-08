@@ -2,10 +2,10 @@
 
 * 제목 : 레트로게임 롬 목록 한글화 프로젝트
 * 제작자 : 텐타클 팀
-* 최종수정 : Nov 01, 2022
+* 최종수정 : Jun 08, 2024
 * 이메일 : losernator@gmail.com
 * 카페 : http://cafe.naver.com/raspigamer
-* 지원프론트엔드 : RetroPie, Recalbox, Attract-Mode, Batocera
+* 지원프론트엔드 : RetroPie, Recalbox, Batocera
 * 지원에뮬 : Arcade(MAME, AdvMAME, FBA), NES, SNES, Mega Drive, MSX, MSX2, NEOGEO, GBA, PCA, SMS, Sega 32X, NG, NGPC, WS, WSC
 * 레트로게임 롬 목록 한글화 자료는 오픈소스입니다. MIT 라이센스를 따르고 있으므로 라이센스와 출처(http://cafe.naver.com/raspigamer) 표시만 지켜주시면 자유롭게 사용하실 수 있습니다.
 
