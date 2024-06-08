@@ -1,0 +1,2569 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<!--
+* 제목 : 레트로게임 롬 목록 한글화 프로젝트
+* 제작자 : 텐타클 팀
+* 최종수정 : Nov 01, 2022
+* 이메일 : losernator@gmail.com
+* 카페 : http://cafe.naver.com/raspigamer
+* 지원프론트엔드 : RetroPie, Recalbox, Attract-Mode, Batocera
+* 지원에뮬 : Arcade(MAME, AdvMAME, FBA), NES, SNES, Mega Drive, MSX, MSX2, NEOGEO, GBA, PCA, SMS, Sega 32X, NG, NGPC, WS, WSC
+* 레트로게임 롬 목록 한글화 자료는 오픈소스입니다. MIT 라이센스를 따르고 있으므로 라이센스와 출처(http://cafe.naver.com/raspigamer) 표시만 지켜주시면 자유롭게 사용하실 수 있습니다.
+-->
+	<game>
+		<path>./[BIOS] 32X M68000 (USA).zip</path>
+		<name>[바이오스] 32X M68000</name>
+		<image>./snap/[BIOS] 32X M68000 (USA).png</image>
+		<video>./video/[BIOS] 32X M68000 (USA).mp4</video>
+		<marquee>./marquee/[BIOS] 32X M68000 (USA).png</marquee>
+		<developer/>
+		<publisher/>
+		<genre/>
+		<players/>
+		<releasedate/>
+	</game>
+	<game>
+		<path>./[BIOS] 32X SH-2 Slave (USA).zip</path>
+		<name>[바이오스] 32X SH-2 슬레이브</name>
+		<image>./snap/[BIOS] 32X SH-2 Slave (USA).png</image>
+		<video>./video/[BIOS] 32X SH-2 Slave (USA).mp4</video>
+		<marquee>./marquee/[BIOS] 32X SH-2 Slave (USA).png</marquee>
+		<developer/>
+		<publisher/>
+		<genre/>
+		<players/>
+		<releasedate/>
+	</game>
+	<game>
+		<path>./After Burner Complete (Europe).zip</path>
+		<name>애프터 버너 컴플리트</name>
+		<image>./snap/After Burner Complete (Europe).png</image>
+		<video>./video/After Burner Complete (Europe).mp4</video>
+		<marquee>./marquee/After Burner Complete (Europe).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>슈팅</genre>
+		<players>1</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./[BIOS] 32X SH-2 Master (USA).zip</path>
+		<name>[바이오스] 32X SH-2 마스터</name>
+		<image>./snap/[BIOS] 32X SH-2 Master (USA).png</image>
+		<video>./video/[BIOS] 32X SH-2 Master (USA).mp4</video>
+		<marquee>./marquee/[BIOS] 32X SH-2 Master (USA).png</marquee>
+		<developer/>
+		<publisher/>
+		<genre/>
+		<players/>
+		<releasedate/>
+	</game>
+	<game>
+		<path>./BC Racers (USA).zip</path>
+		<name>BC 레이서</name>
+		<image>./snap/BC Racers (USA).png</image>
+		<video>./video/BC Racers (USA).mp4</video>
+		<marquee>./marquee/BC Racers (USA).png</marquee>
+		<developer>코어 디자인</developer>
+		<publisher>코어 디자인</publisher>
+		<genre>레이싱</genre>
+		<players>2</players>
+		<releasedate>19950601T000000</releasedate>
+	</game>
+	<game>
+		<path>./After Burner Complete (Japan, USA) (En).zip</path>
+		<name>애프터 버너 컴플리트 (일본,미국판)(영어)</name>
+		<image>./snap/After Burner Complete (Japan, USA) (En).png</image>
+		<video>./video/After Burner Complete (Europe).mp4</video>
+		<marquee>./marquee/After Burner Complete (Japan, USA) (En).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>슈팅</genre>
+		<players>1</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Amazing Spider-Man, The - Web of Fire (USA).zip</path>
+		<name>어메이징 스파이더맨 - 웹 오브 파이어</name>
+		<image>./snap/Amazing Spider-Man, The - Web of Fire (USA).png</image>
+		<video>./video/Amazing Spider-Man, The - Web of Fire (USA).mp4</video>
+		<marquee>./marquee/Amazing Spider-Man, The - Web of Fire (USA).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>액션</genre>
+		<players>1</players>
+		<releasedate>19960000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Blackthorne (USA).zip</path>
+		<name>블랙쓰론</name>
+		<image>./snap/Blackthorne (USA).png</image>
+		<video>./video/Blackthorne (USA).mp4</video>
+		<marquee>./marquee/Blackthorne (USA).png</marquee>
+		<developer>블리자드 엔터테인먼트</developer>
+		<publisher>인터플레이</publisher>
+		<genre>플랫폼</genre>
+		<players>1</players>
+		<releasedate>00000000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Brutal - Above the Claw (USA).zip</path>
+		<name>브루털 - 발톱너머</name>
+		<image>./snap/Brutal - Above the Claw (USA).png</image>
+		<video>./video/Brutal - Above the Claw (USA).mp4</video>
+		<marquee>./marquee/Brutal - Above the Claw (USA).png</marquee>
+		<developer>겜텍</developer>
+		<publisher>얼터너티브</publisher>
+		<genre>격투</genre>
+		<players>2</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./ClayFighter 2 (USA) (Proto) (1995-04-28).zip</path>
+		<name>클레이파이터 2</name>
+		<image>./snap/ClayFighter 2 (USA) (Proto) (1995-04-28).png</image>
+		<video>./video/ClayFighter 2 (USA) (Proto) (1995-04-28).mp4</video>
+		<marquee>./marquee/ClayFighter 2 (USA) (Proto) (1995-04-28).png</marquee>
+		<developer/>
+		<publisher/>
+		<genre/>
+		<players/>
+		<releasedate/>
+	</game>
+	<game>
+		<path>./Cosmic Carnage (Europe).zip</path>
+		<name>코스믹 카니지</name>
+		<image>./snap/Cosmic Carnage (Europe).png</image>
+		<video>./video/Cosmic Carnage (Europe).mp4</video>
+		<marquee>./marquee/Cosmic Carnage (Europe).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>격투</genre>
+		<players>2</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./32X Sample Program - PWM Sound Demo (Unknown) (SDK Build).zip</path>
+		<name>32X 샘플 프로그램 - PWM 사운드 데모</name>
+		<image>./snap/32X Sample Program - PWM Sound Demo (Unknown) (SDK Build).png</image>
+		<video>./video/32X Sample Program - PWM Sound Demo (Unknown) (SDK Build).mp4</video>
+		<marquee>./marquee/32X Sample Program - PWM Sound Demo (Unknown) (SDK Build).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>데모</genre>
+		<players/>
+		<releasedate/>
+	</game>
+	<game>
+		<path>./Cosmic Carnage (Japan, USA) (En) (Beta) (1994-09-06).zip</path>
+		<name>코스믹 카니지 (일본,미국판)(영어)(베타)(1994-09-06)</name>
+		<image>./snap/Cosmic Carnage (Japan, USA) (En) (Beta) (1994-09-06).png</image>
+		<video>./video/Cosmic Carnage (Europe).mp4</video>
+		<marquee>./marquee/Cosmic Carnage (Japan, USA) (En) (Beta) (1994-09-06).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>격투</genre>
+		<players>2</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Cosmic Carnage (Japan, USA) (En) (Beta) (1994-09-21).zip</path>
+		<name>코스믹 카니지 (일본,미국판)(영어)(베타)(1994-09-21)</name>
+		<image>./snap/Cosmic Carnage (Japan, USA) (En) (Beta) (1994-09-21).png</image>
+		<video>./video/Cosmic Carnage (Europe).mp4</video>
+		<marquee>./marquee/Cosmic Carnage (Japan, USA) (En) (Beta) (1994-09-21).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>격투</genre>
+		<players>2</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Cosmic Carnage (Japan, USA) (En) (Beta) (1994-09-26).zip</path>
+		<name>코스믹 카니지 (일본,미국판)(영어)(베타)(1994-09-26)</name>
+		<image>./snap/Cosmic Carnage (Japan, USA) (En) (Beta) (1994-09-26).png</image>
+		<video>./video/Cosmic Carnage (Europe).mp4</video>
+		<marquee>./marquee/Cosmic Carnage (Japan, USA) (En) (Beta) (1994-09-26).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>격투</genre>
+		<players>2</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Cosmic Carnage (Japan, USA) (En) (Beta) (1994-09-28).zip</path>
+		<name>코스믹 카니지 (일본,미국판)(영어)(베타)(1994-09-28)</name>
+		<image>./snap/Cosmic Carnage (Japan, USA) (En) (Beta) (1994-09-28).png</image>
+		<video>./video/Cosmic Carnage (Europe).mp4</video>
+		<marquee>./marquee/Cosmic Carnage (Japan, USA) (En) (Beta) (1994-09-28).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>격투</genre>
+		<players>2</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Cosmic Carnage (Japan, USA) (En) (Beta) (1994-10-04).zip</path>
+		<name>코스믹 카니지 (일본,미국판)(영어)(베타)(1994-10-04)</name>
+		<image>./snap/Cosmic Carnage (Japan, USA) (En) (Beta) (1994-10-04).png</image>
+		<video>./video/Cosmic Carnage (Europe).mp4</video>
+		<marquee>./marquee/Cosmic Carnage (Japan, USA) (En) (Beta) (1994-10-04).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>격투</genre>
+		<players>2</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Cosmic Carnage (Japan, USA) (En) (Beta) (1994-10-05).zip</path>
+		<name>코스믹 카니지 (일본,미국판)(영어)(베타)(1994-10-05)</name>
+		<image>./snap/Cosmic Carnage (Japan, USA) (En) (Beta) (1994-10-05).png</image>
+		<video>./video/Cosmic Carnage (Europe).mp4</video>
+		<marquee>./marquee/Cosmic Carnage (Japan, USA) (En) (Beta) (1994-10-05).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>격투</genre>
+		<players>2</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Cosmic Carnage (Japan, USA) (En) (Beta) (1994-10-11).zip</path>
+		<name>코스믹 카니지 (일본,미국판)(영어)(베타)(1994-10-11)</name>
+		<image>./snap/Cosmic Carnage (Japan, USA) (En) (Beta) (1994-10-11).png</image>
+		<video>./video/Cosmic Carnage (Europe).mp4</video>
+		<marquee>./marquee/Cosmic Carnage (Japan, USA) (En) (Beta) (1994-10-11).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>격투</genre>
+		<players>2</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Cosmic Carnage (Japan, USA) (En).zip</path>
+		<name>코스믹 카니지 (일본,미국판)(영어)</name>
+		<image>./snap/Cosmic Carnage (Japan, USA) (En).png</image>
+		<video>./video/Cosmic Carnage (Europe).mp4</video>
+		<marquee>./marquee/Cosmic Carnage (Japan, USA) (En).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>격투</genre>
+		<players>2</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Cosmic Carnage (Japan, USA) (En) (Beta) (1994-10-07).zip</path>
+		<name>코스믹 카니지 (일본,미국판)(영어)(베타)(1994-10-07)</name>
+		<image>./snap/Cosmic Carnage (Japan, USA) (En) (Beta) (1994-10-07).png</image>
+		<video>./video/Cosmic Carnage (Europe).mp4</video>
+		<marquee>./marquee/Cosmic Carnage (Japan, USA) (En) (Beta) (1994-10-07).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>격투</genre>
+		<players>2</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Darxide (Europe) (En,Fr,De,Es).zip</path>
+		<name>다사이드</name>
+		<image>./snap/Darxide (Europe) (En,Fr,De,Es).png</image>
+		<video>./video/Darxide (Europe) (En,Fr,De,Es).mp4</video>
+		<marquee>./marquee/Darxide (Europe) (En,Fr,De,Es).png</marquee>
+		<developer>프론티어 디벨롭먼트</developer>
+		<publisher>세가</publisher>
+		<genre>라이트건</genre>
+		<players>1</players>
+		<releasedate>19960000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Doom (Europe).zip</path>
+		<name>둠</name>
+		<image>./snap/Doom (Europe).png</image>
+		<video>./video/Doom (Europe).mp4</video>
+		<marquee>./marquee/Doom (Europe).png</marquee>
+		<developer>세가</developer>
+		<publisher>id 소프트웨어</publisher>
+		<genre>액션</genre>
+		<players>1</players>
+		<releasedate/>
+	</game>
+	<game>
+		<path>./Doom (Europe) (Beta) (1994-10-02).zip</path>
+		<name>둠 (유럽판)(베타)(1994-10-02)</name>
+		<image>./snap/Doom (Europe) (Beta) (1994-10-02).png</image>
+		<video>./video/Doom (Europe).mp4</video>
+		<marquee>./marquee/Doom (Europe) (Beta) (1994-10-02).png</marquee>
+		<developer>세가</developer>
+		<publisher>id 소프트웨어</publisher>
+		<genre>액션</genre>
+		<players>1</players>
+		<releasedate/>
+	</game>
+	<game>
+		<path>./Doom (Japan, USA) (En) (Beta) (1994-09-06).zip</path>
+		<name>둠 (일본,미국판)(영어)(베타)(1994-09-06)</name>
+		<image>./snap/Doom (Japan, USA) (En) (Beta) (1994-09-06).png</image>
+		<video>./video/Doom (Europe).mp4</video>
+		<marquee>./marquee/Doom (Japan, USA) (En) (Beta) (1994-09-06).png</marquee>
+		<developer>세가</developer>
+		<publisher>id 소프트웨어</publisher>
+		<genre>액션</genre>
+		<players>1</players>
+		<releasedate/>
+	</game>
+	<game>
+		<path>./Doom (Japan, USA) (En) (Beta) (1994-09-14).zip</path>
+		<name>둠 (일본,미국판)(영어)(베타)(1994-09-14)</name>
+		<image>./snap/Doom (Japan, USA) (En) (Beta) (1994-09-14).png</image>
+		<video>./video/Doom (Europe).mp4</video>
+		<marquee>./marquee/Doom (Japan, USA) (En) (Beta) (1994-09-14).png</marquee>
+		<developer>세가</developer>
+		<publisher>id 소프트웨어</publisher>
+		<genre>액션</genre>
+		<players>1</players>
+		<releasedate/>
+	</game>
+	<game>
+		<path>./Doom (Japan, USA) (En) (Beta) (1994-09-09).zip</path>
+		<name>둠 (일본,미국판)(영어)(베타)(1994-09-09)</name>
+		<image>./snap/Doom (Japan, USA) (En) (Beta) (1994-09-09).png</image>
+		<video>./video/Doom (Europe).mp4</video>
+		<marquee>./marquee/Doom (Japan, USA) (En) (Beta) (1994-09-09).png</marquee>
+		<developer>세가</developer>
+		<publisher>id 소프트웨어</publisher>
+		<genre>액션</genre>
+		<players>1</players>
+		<releasedate/>
+	</game>
+	<game>
+		<path>./Doom (Japan, USA) (En) (Beta) (1994-09-16).zip</path>
+		<name>둠 (일본,미국판)(영어)(베타)(1994-09-16)</name>
+		<image>./snap/Doom (Japan, USA) (En) (Beta) (1994-09-16).png</image>
+		<video>./video/Doom (Europe).mp4</video>
+		<marquee>./marquee/Doom (Japan, USA) (En) (Beta) (1994-09-16).png</marquee>
+		<developer>세가</developer>
+		<publisher>id 소프트웨어</publisher>
+		<genre>액션</genre>
+		<players>1</players>
+		<releasedate/>
+	</game>
+	<game>
+		<path>./Doom (Japan, USA) (En) (Beta) (1994-09-21).zip</path>
+		<name>둠 (일본,미국판)(영어)(베타)(1994-09-21)</name>
+		<image>./snap/Doom (Japan, USA) (En) (Beta) (1994-09-21).png</image>
+		<video>./video/Doom (Europe).mp4</video>
+		<marquee>./marquee/Doom (Japan, USA) (En) (Beta) (1994-09-21).png</marquee>
+		<developer>세가</developer>
+		<publisher>id 소프트웨어</publisher>
+		<genre>액션</genre>
+		<players>1</players>
+		<releasedate/>
+	</game>
+	<game>
+		<path>./Doom (Japan, USA) (En) (Beta) (1994-09-23).zip</path>
+		<name>둠 (일본,미국판)(영어)(베타)(1994-09-23)</name>
+		<image>./snap/Doom (Japan, USA) (En) (Beta) (1994-09-23).png</image>
+		<video>./video/Doom (Europe).mp4</video>
+		<marquee>./marquee/Doom (Japan, USA) (En) (Beta) (1994-09-23).png</marquee>
+		<developer>세가</developer>
+		<publisher>id 소프트웨어</publisher>
+		<genre>액션</genre>
+		<players>1</players>
+		<releasedate/>
+	</game>
+	<game>
+		<path>./Doom (Japan, USA) (En) (Beta) (1994-12-01).zip</path>
+		<name>둠 (일본,미국판)(영어)(베타)(1994-12-01)</name>
+		<image>./snap/Doom (Japan, USA) (En) (Beta) (1994-12-01).png</image>
+		<video>./video/Doom (Europe).mp4</video>
+		<marquee>./marquee/Doom (Japan, USA) (En) (Beta) (1994-12-01).png</marquee>
+		<developer>세가</developer>
+		<publisher>id 소프트웨어</publisher>
+		<genre>액션</genre>
+		<players>1</players>
+		<releasedate/>
+	</game>
+	<game>
+		<path>./Doom (Japan, USA) (En) (Beta) (1994-09-25).zip</path>
+		<name>둠 (일본,미국판)(영어)(베타)(1994-09-25)</name>
+		<image>./snap/Doom (Japan, USA) (En) (Beta) (1994-09-25).png</image>
+		<video>./video/Doom (Europe).mp4</video>
+		<marquee>./marquee/Doom (Japan, USA) (En) (Beta) (1994-09-25).png</marquee>
+		<developer>세가</developer>
+		<publisher>id 소프트웨어</publisher>
+		<genre>액션</genre>
+		<players>1</players>
+		<releasedate/>
+	</game>
+	<game>
+		<path>./Doom (Japan, USA) (En) (Beta) (1994-09-27).zip</path>
+		<name>둠 (일본,미국판)(영어)(베타)(1994-09-27)</name>
+		<image>./snap/Doom (Japan, USA) (En) (Beta) (1994-09-27).png</image>
+		<video>./video/Doom (Europe).mp4</video>
+		<marquee>./marquee/Doom (Japan, USA) (En) (Beta) (1994-09-27).png</marquee>
+		<developer>세가</developer>
+		<publisher>id 소프트웨어</publisher>
+		<genre>액션</genre>
+		<players>1</players>
+		<releasedate/>
+	</game>
+	<game>
+		<path>./Doom (Japan, USA) (En).zip</path>
+		<name>둠 (일본,미국판)(영어)</name>
+		<image>./snap/Doom (Japan, USA) (En).png</image>
+		<video>./video/Doom (Europe).mp4</video>
+		<marquee>./marquee/Doom (Japan, USA) (En).png</marquee>
+		<developer>세가</developer>
+		<publisher>id 소프트웨어</publisher>
+		<genre>액션</genre>
+		<players>1</players>
+		<releasedate/>
+	</game>
+	<game>
+		<path>./Doom RR (Japan, USA) (En) (Beta) (1995-02-15).zip</path>
+		<name>둠 RR (일본,미국판)(영어)(베타)(1995-02-15)</name>
+		<image>./snap/Doom RR (Japan, USA) (En) (Beta) (1995-02-15).png</image>
+		<video>./video/Doom (Europe).mp4</video>
+		<marquee>./marquee/Doom RR (Japan, USA) (En) (Beta) (1995-02-15).png</marquee>
+		<developer>세가</developer>
+		<publisher>id 소프트웨어</publisher>
+		<genre>액션</genre>
+		<players>1</players>
+		<releasedate/>
+	</game>
+	<game>
+		<path>./Doom RR (Japan, USA) (En) (Beta) (1995-02-21).zip</path>
+		<name>둠 RR (일본,미국판)(영어)(베타)(1995-02-21)</name>
+		<image>./snap/Doom RR (Japan, USA) (En) (Beta) (1995-02-21).png</image>
+		<video>./video/Doom (Europe).mp4</video>
+		<marquee>./marquee/Doom RR (Japan, USA) (En) (Beta) (1995-02-21).png</marquee>
+		<developer>세가</developer>
+		<publisher>id 소프트웨어</publisher>
+		<genre>액션</genre>
+		<players>1</players>
+		<releasedate/>
+	</game>
+	<game>
+		<path>./Doom RR (Japan, USA) (En) (Beta) (1995-03-07).zip</path>
+		<name>둠 RR (일본,미국판)(영어)(베타)(1995-03-07)</name>
+		<image>./snap/Doom RR (Japan, USA) (En) (Beta) (1995-03-07).png</image>
+		<video>./video/Doom (Europe).mp4</video>
+		<marquee>./marquee/Doom RR (Japan, USA) (En) (Beta) (1995-03-07).png</marquee>
+		<developer>세가</developer>
+		<publisher>id 소프트웨어</publisher>
+		<genre>액션</genre>
+		<players>1</players>
+		<releasedate/>
+	</game>
+	<game>
+		<path>./Ecco the Dolphin (USA) (Demo) (Developer Cart).zip</path>
+		<name>에고 더 돌핀</name>
+		<image>./snap/Ecco the Dolphin (USA) (Demo) (Developer Cart).png</image>
+		<video>./video/Ecco the Dolphin (USA) (Demo) (Developer Cart).mp4</video>
+		<marquee>./marquee/Ecco the Dolphin (USA) (Demo) (Developer Cart).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>데모</genre>
+		<players>1</players>
+		<releasedate/>
+	</game>
+	<game>
+		<path>./FIFA Soccer 96 (Europe) (En,Fr,De,Es,It,Sv).zip</path>
+		<name>피파 96</name>
+		<image>./snap/FIFA Soccer 96 (Europe) (En,Fr,De,Es,It,Sv).png</image>
+		<video>./video/FIFA Soccer 96 (Europe) (En,Fr,De,Es,It,Sv).mp4</video>
+		<marquee>./marquee/FIFA Soccer 96 (Europe) (En,Fr,De,Es,It,Sv).png</marquee>
+		<developer>프로브</developer>
+		<publisher>일렉트로닉 아츠</publisher>
+		<genre>스포츠</genre>
+		<players>4</players>
+		<releasedate/>
+	</game>
+	<game>
+		<path>./Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe) (Beta) (1994-12-14).zip</path>
+		<name>골프 매거진 제공 - 프레드 커플스의 36 그레이트 홀 (유럽판)(베타)(1994-12-14)</name>
+		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe) (Beta) (1994-12-14).png</image>
+		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
+		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe) (Beta) (1994-12-14).png</marquee>
+		<developer>플래시포인트 프로덕션</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠</genre>
+		<players>8</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe) (Beta) (1994-12-21).zip</path>
+		<name>골프 매거진 제공 - 프레드 커플스의 36 그레이트 홀 (유럽판)(베타)(1994-12-21)</name>
+		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe) (Beta) (1994-12-21).png</image>
+		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
+		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe) (Beta) (1994-12-21).png</marquee>
+		<developer>플래시포인트 프로덕션</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠</genre>
+		<players>8</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).zip</path>
+		<name>골프 매거진 제공 - 프레드 커플스의 36 그레이트 홀</name>
+		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).png</image>
+		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
+		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).png</marquee>
+		<developer>플래시포인트 프로덕션</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠</genre>
+		<players>8</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-07-06).zip</path>
+		<name>골프 매거진 제공 - 프레드 커플스의 36 그레이트 홀 (일본,미국판)(영어)(베타)(1994-07-06)</name>
+		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-07-06).png</image>
+		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
+		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-07-06).png</marquee>
+		<developer>플래시포인트 프로덕션</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠</genre>
+		<players>8</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-10-11).zip</path>
+		<name>골프 매거진 제공 - 프레드 커플스의 36 그레이트 홀 (일본,미국판)(영어)(베타)(1994-10-11)</name>
+		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-10-11).png</image>
+		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
+		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-10-11).png</marquee>
+		<developer>플래시포인트 프로덕션</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠</genre>
+		<players>8</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-10-17).zip</path>
+		<name>골프 매거진 제공 - 프레드 커플스의 36 그레이트 홀 (일본,미국판)(영어)(베타)(1994-10-17)</name>
+		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-10-17).png</image>
+		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
+		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-10-17).png</marquee>
+		<developer>플래시포인트 프로덕션</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠</genre>
+		<players>8</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-10-18).zip</path>
+		<name>골프 매거진 제공 - 프레드 커플스의 36 그레이트 홀 (일본,미국판)(영어)(베타)(1994-10-18)</name>
+		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-10-18).png</image>
+		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
+		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-10-18).png</marquee>
+		<developer>플래시포인트 프로덕션</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠</genre>
+		<players>8</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-10-24).zip</path>
+		<name>골프 매거진 제공 - 프레드 커플스의 36 그레이트 홀 (일본,미국판)(영어)(베타)(1994-10-24)</name>
+		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-10-24).png</image>
+		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
+		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-10-24).png</marquee>
+		<developer>플래시포인트 프로덕션</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠</genre>
+		<players>8</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-10-26).zip</path>
+		<name>골프 매거진 제공 - 프레드 커플스의 36 그레이트 홀 (일본,미국판)(영어)(베타)(1994-10-26)</name>
+		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-10-26).png</image>
+		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
+		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-10-26).png</marquee>
+		<developer>플래시포인트 프로덕션</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠</genre>
+		<players>8</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-03).zip</path>
+		<name>골프 매거진 제공 - 프레드 커플스의 36 그레이트 홀 (일본,미국판)(영어)(베타)(1994-11-03)</name>
+		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-03).png</image>
+		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
+		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-03).png</marquee>
+		<developer>플래시포인트 프로덕션</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠</genre>
+		<players>8</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-01).zip</path>
+		<name>골프 매거진 제공 - 프레드 커플스의 36 그레이트 홀 (일본,미국판)(영어)(베타)(1994-11-01)</name>
+		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-01).png</image>
+		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
+		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-01).png</marquee>
+		<developer>플래시포인트 프로덕션</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠</genre>
+		<players>8</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-05).zip</path>
+		<name>골프 매거진 제공 - 프레드 커플스의 36 그레이트 홀 (일본,미국판)(영어)(베타)(1994-11-05)</name>
+		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-05).png</image>
+		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
+		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-05).png</marquee>
+		<developer>플래시포인트 프로덕션</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠</genre>
+		<players>8</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-07).zip</path>
+		<name>골프 매거진 제공 - 프레드 커플스의 36 그레이트 홀 (일본,미국판)(영어)(베타)(1994-11-07)</name>
+		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-07).png</image>
+		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
+		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-07).png</marquee>
+		<developer>플래시포인트 프로덕션</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠</genre>
+		<players>8</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-09).zip</path>
+		<name>골프 매거진 제공 - 프레드 커플스의 36 그레이트 홀 (일본,미국판)(영어)(베타)(1994-11-09)</name>
+		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-09).png</image>
+		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
+		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-09).png</marquee>
+		<developer>플래시포인트 프로덕션</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠</genre>
+		<players>8</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-08).zip</path>
+		<name>골프 매거진 제공 - 프레드 커플스의 36 그레이트 홀 (일본,미국판)(영어)(베타)(1994-11-08)</name>
+		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-08).png</image>
+		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
+		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-08).png</marquee>
+		<developer>플래시포인트 프로덕션</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠</genre>
+		<players>8</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-18).zip</path>
+		<name>골프 매거진 제공 - 프레드 커플스의 36 그레이트 홀 (일본,미국판)(영어)(베타)(1994-11-18)</name>
+		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-18).png</image>
+		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
+		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-18).png</marquee>
+		<developer>플래시포인트 프로덕션</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠</genre>
+		<players>8</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-16).zip</path>
+		<name>골프 매거진 제공 - 프레드 커플스의 36 그레이트 홀 (일본,미국판)(영어)(베타)(1994-11-16)</name>
+		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-16).png</image>
+		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
+		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-16).png</marquee>
+		<developer>플래시포인트 프로덕션</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠</genre>
+		<players>8</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-19) (Alt).zip</path>
+		<name>골프 매거진 제공 - 프레드 커플스의 36 그레이트 홀 (일본,미국판)(영어)(베타)(1994-11-19)(대체)</name>
+		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-19) (Alt).png</image>
+		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
+		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-19) (Alt).png</marquee>
+		<developer>플래시포인트 프로덕션</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠</genre>
+		<players>8</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-19).zip</path>
+		<name>골프 매거진 제공 - 프레드 커플스의 36 그레이트 홀 (일본,미국판)(영어)(베타)(1994-11-19)</name>
+		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-19).png</image>
+		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
+		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-19).png</marquee>
+		<developer>플래시포인트 프로덕션</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠</genre>
+		<players>8</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-21).zip</path>
+		<name>골프 매거진 제공 - 프레드 커플스의 36 그레이트 홀 (일본,미국판)(영어)(베타)(1994-11-21)</name>
+		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-21).png</image>
+		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
+		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-21).png</marquee>
+		<developer>플래시포인트 프로덕션</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠</genre>
+		<players>8</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-22) (Alt).zip</path>
+		<name>골프 매거진 제공 - 프레드 커플스의 36 그레이트 홀 (일본,미국판)(영어)(베타)(1994-11-22)(대체)</name>
+		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-22) (Alt).png</image>
+		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
+		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-22) (Alt).png</marquee>
+		<developer>플래시포인트 프로덕션</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠</genre>
+		<players>8</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-22).zip</path>
+		<name>골프 매거진 제공 - 프레드 커플스의 36 그레이트 홀 (일본,미국판)(영어)(베타)(1994-11-22)</name>
+		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-22).png</image>
+		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
+		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-22).png</marquee>
+		<developer>플래시포인트 프로덕션</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠</genre>
+		<players>8</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-23).zip</path>
+		<name>골프 매거진 제공 - 프레드 커플스의 36 그레이트 홀 (일본,미국판)(영어)(베타)(1994-11-23)</name>
+		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-23).png</image>
+		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
+		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-23).png</marquee>
+		<developer>플래시포인트 프로덕션</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠</genre>
+		<players>8</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-26).zip</path>
+		<name>골프 매거진 제공 - 프레드 커플스의 36 그레이트 홀 (일본,미국판)(영어)(베타)(1994-11-26)</name>
+		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-26).png</image>
+		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
+		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-26).png</marquee>
+		<developer>플래시포인트 프로덕션</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠</genre>
+		<players>8</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-27).zip</path>
+		<name>골프 매거진 제공 - 프레드 커플스의 36 그레이트 홀 (일본,미국판)(영어)(베타)(1994-11-27)</name>
+		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-27).png</image>
+		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
+		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-27).png</marquee>
+		<developer>플래시포인트 프로덕션</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠</genre>
+		<players>8</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-28) (Alt).zip</path>
+		<name>골프 매거진 제공 - 프레드 커플스의 36 그레이트 홀 (일본,미국판)(영어)(베타)(1994-11-28)(대체)</name>
+		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-28) (Alt).png</image>
+		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
+		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-28) (Alt).png</marquee>
+		<developer>플래시포인트 프로덕션</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠</genre>
+		<players>8</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-28).zip</path>
+		<name>골프 매거진 제공 - 프레드 커플스의 36 그레이트 홀 (일본,미국판)(영어)(베타)(1994-11-28)</name>
+		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-28).png</image>
+		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
+		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-28).png</marquee>
+		<developer>플래시포인트 프로덕션</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠</genre>
+		<players>8</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-29).zip</path>
+		<name>골프 매거진 제공 - 프레드 커플스의 36 그레이트 홀 (일본,미국판)(영어)(베타)(1994-11-29)</name>
+		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-29).png</image>
+		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
+		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-29).png</marquee>
+		<developer>플래시포인트 프로덕션</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠</genre>
+		<players>8</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-30).zip</path>
+		<name>골프 매거진 제공 - 프레드 커플스의 36 그레이트 홀 (일본,미국판)(영어)(베타)(1994-11-30)</name>
+		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-30).png</image>
+		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
+		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-30).png</marquee>
+		<developer>플래시포인트 프로덕션</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠</genre>
+		<players>8</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-12-02).zip</path>
+		<name>골프 매거진 제공 - 프레드 커플스의 36 그레이트 홀 (일본,미국판)(영어)(베타)(1994-12-02)</name>
+		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-12-02).png</image>
+		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
+		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-12-02).png</marquee>
+		<developer>플래시포인트 프로덕션</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠</genre>
+		<players>8</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-12-03).zip</path>
+		<name>골프 매거진 제공 - 프레드 커플스의 36 그레이트 홀 (일본,미국판)(영어)(베타)(1994-12-03)</name>
+		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-12-03).png</image>
+		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
+		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-12-03).png</marquee>
+		<developer>플래시포인트 프로덕션</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠</genre>
+		<players>8</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-12-06).zip</path>
+		<name>골프 매거진 제공 - 프레드 커플스의 36 그레이트 홀 (일본,미국판)(영어)(베타)(1994-12-06)</name>
+		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-12-06).png</image>
+		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
+		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-12-06).png</marquee>
+		<developer>플래시포인트 프로덕션</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠</genre>
+		<players>8</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-12-13).zip</path>
+		<name>골프 매거진 제공 - 프레드 커플스의 36 그레이트 홀 (일본,미국판)(영어)(베타)(1994-12-13)</name>
+		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-12-13).png</image>
+		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
+		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-12-13).png</marquee>
+		<developer>플래시포인트 프로덕션</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠</genre>
+		<players>8</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-12-19).zip</path>
+		<name>골프 매거진 제공 - 프레드 커플스의 36 그레이트 홀 (일본,미국판)(영어)(베타)(1994-12-19)</name>
+		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-12-19).png</image>
+		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
+		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-12-19).png</marquee>
+		<developer>플래시포인트 프로덕션</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠</genre>
+		<players>8</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-12-21).zip</path>
+		<name>골프 매거진 제공 - 프레드 커플스의 36 그레이트 홀 (일본,미국판)(영어)(베타)(1994-12-21)</name>
+		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-12-21).png</image>
+		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
+		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-12-21).png</marquee>
+		<developer>플래시포인트 프로덕션</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠</genre>
+		<players>8</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En).zip</path>
+		<name>골프 매거진 제공 - 프레드 커플스의 36 그레이트 홀 (일본,미국판)(영어)</name>
+		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En).png</image>
+		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
+		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En).png</marquee>
+		<developer>플래시포인트 프로덕션</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠</genre>
+		<players>8</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Knuckles' Chaotix (Europe).zip</path>
+		<name>너클스 카오틱스</name>
+		<image>./snap/Knuckles' Chaotix (Europe).png</image>
+		<video>./video/Knuckles' Chaotix (Europe).mp4</video>
+		<marquee>./marquee/Knuckles' Chaotix (Europe).png</marquee>
+		<developer>소닉팀</developer>
+		<publisher>세가</publisher>
+		<genre>플랫폼</genre>
+		<players>2</players>
+		<releasedate>19950420T000000</releasedate>
+	</game>
+	<game>
+		<path>./Knuckles' Chaotix (Japan, USA) (En) (Beta) (1994-12-07).zip</path>
+		<name>너클스 카오틱스 (일본,미국판)(영어)(베타)(1994-12-07)</name>
+		<image>./snap/Knuckles' Chaotix (Japan, USA) (En) (Beta) (1994-12-07).png</image>
+		<video>./video/Knuckles' Chaotix (Europe).mp4</video>
+		<marquee>./marquee/Knuckles' Chaotix (Japan, USA) (En) (Beta) (1994-12-07).png</marquee>
+		<developer>소닉팀</developer>
+		<publisher>세가</publisher>
+		<genre>플랫폼</genre>
+		<players>2</players>
+		<releasedate>19950420T000000</releasedate>
+	</game>
+	<game>
+		<path>./Knuckles' Chaotix (Japan, USA) (En) (Beta) (1994-12-27).zip</path>
+		<name>너클스 카오틱스 (일본,미국판)(영어)(베타)(1994-12-27)</name>
+		<image>./snap/Knuckles' Chaotix (Japan, USA) (En) (Beta) (1994-12-27).png</image>
+		<video>./video/Knuckles' Chaotix (Europe).mp4</video>
+		<marquee>./marquee/Knuckles' Chaotix (Japan, USA) (En) (Beta) (1994-12-27).png</marquee>
+		<developer>소닉팀</developer>
+		<publisher>세가</publisher>
+		<genre>플랫폼</genre>
+		<players>2</players>
+		<releasedate>19950420T000000</releasedate>
+	</game>
+	<game>
+		<path>./Knuckles' Chaotix (Japan, USA) (En) (Beta) (1994-12-30).zip</path>
+		<name>너클스 카오틱스 (일본,미국판)(영어)(베타)(1994-12-30)</name>
+		<image>./snap/Knuckles' Chaotix (Japan, USA) (En) (Beta) (1994-12-30).png</image>
+		<video>./video/Knuckles' Chaotix (Europe).mp4</video>
+		<marquee>./marquee/Knuckles' Chaotix (Japan, USA) (En) (Beta) (1994-12-30).png</marquee>
+		<developer>소닉팀</developer>
+		<publisher>세가</publisher>
+		<genre>플랫폼</genre>
+		<players>2</players>
+		<releasedate>19950420T000000</releasedate>
+	</game>
+	<game>
+		<path>./Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-01-12).zip</path>
+		<name>너클스 카오틱스 (일본,미국판)(영어)(베타)(1995-01-12)</name>
+		<image>./snap/Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-01-12).png</image>
+		<video>./video/Knuckles' Chaotix (Europe).mp4</video>
+		<marquee>./marquee/Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-01-12).png</marquee>
+		<developer>소닉팀</developer>
+		<publisher>세가</publisher>
+		<genre>플랫폼</genre>
+		<players>2</players>
+		<releasedate>19950420T000000</releasedate>
+	</game>
+	<game>
+		<path>./Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-01-19).zip</path>
+		<name>너클스 카오틱스 (일본,미국판)(영어)(베타)(1995-01-19)</name>
+		<image>./snap/Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-01-19).png</image>
+		<video>./video/Knuckles' Chaotix (Europe).mp4</video>
+		<marquee>./marquee/Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-01-19).png</marquee>
+		<developer>소닉팀</developer>
+		<publisher>세가</publisher>
+		<genre>플랫폼</genre>
+		<players>2</players>
+		<releasedate>19950420T000000</releasedate>
+	</game>
+	<game>
+		<path>./Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-07).zip</path>
+		<name>너클스 카오틱스 (일본,미국판)(영어)(베타)(1995-02-07)</name>
+		<image>./snap/Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-07).png</image>
+		<video>./video/Knuckles' Chaotix (Europe).mp4</video>
+		<marquee>./marquee/Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-07).png</marquee>
+		<developer>소닉팀</developer>
+		<publisher>세가</publisher>
+		<genre>플랫폼</genre>
+		<players>2</players>
+		<releasedate>19950420T000000</releasedate>
+	</game>
+	<game>
+		<path>./Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-08).zip</path>
+		<name>너클스 카오틱스 (일본,미국판)(영어)(베타)(1995-02-08)</name>
+		<image>./snap/Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-08).png</image>
+		<video>./video/Knuckles' Chaotix (Europe).mp4</video>
+		<marquee>./marquee/Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-08).png</marquee>
+		<developer>소닉팀</developer>
+		<publisher>세가</publisher>
+		<genre>플랫폼</genre>
+		<players>2</players>
+		<releasedate>19950420T000000</releasedate>
+	</game>
+	<game>
+		<path>./Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-09).zip</path>
+		<name>너클스 카오틱스 (일본,미국판)(영어)(베타)(1995-02-09)</name>
+		<image>./snap/Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-09).png</image>
+		<video>./video/Knuckles' Chaotix (Europe).mp4</video>
+		<marquee>./marquee/Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-09).png</marquee>
+		<developer>소닉팀</developer>
+		<publisher>세가</publisher>
+		<genre>플랫폼</genre>
+		<players>2</players>
+		<releasedate>19950420T000000</releasedate>
+	</game>
+	<game>
+		<path>./Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-10).zip</path>
+		<name>너클스 카오틱스 (일본,미국판)(영어)(베타)(1995-02-10)</name>
+		<image>./snap/Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-10).png</image>
+		<video>./video/Knuckles' Chaotix (Europe).mp4</video>
+		<marquee>./marquee/Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-10).png</marquee>
+		<developer>소닉팀</developer>
+		<publisher>세가</publisher>
+		<genre>플랫폼</genre>
+		<players>2</players>
+		<releasedate>19950420T000000</releasedate>
+	</game>
+	<game>
+		<path>./Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-13) (Alt).zip</path>
+		<name>너클스 카오틱스 (일본,미국판)(영어)(베타)(1995-02-13)(대체)</name>
+		<image>./snap/Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-13) (Alt).png</image>
+		<video>./video/Knuckles' Chaotix (Europe).mp4</video>
+		<marquee>./marquee/Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-13) (Alt).png</marquee>
+		<developer>소닉팀</developer>
+		<publisher>세가</publisher>
+		<genre>플랫폼</genre>
+		<players>2</players>
+		<releasedate>19950420T000000</releasedate>
+	</game>
+	<game>
+		<path>./Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-13).zip</path>
+		<name>너클스 카오틱스 (일본,미국판)(영어)(베타)(1995-02-13)</name>
+		<image>./snap/Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-13).png</image>
+		<video>./video/Knuckles' Chaotix (Europe).mp4</video>
+		<marquee>./marquee/Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-13).png</marquee>
+		<developer>소닉팀</developer>
+		<publisher>세가</publisher>
+		<genre>플랫폼</genre>
+		<players>2</players>
+		<releasedate>19950420T000000</releasedate>
+	</game>
+	<game>
+		<path>./Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-14).zip</path>
+		<name>너클스 카오틱스 (일본,미국판)(영어)(베타)(1995-02-14)</name>
+		<image>./snap/Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-14).png</image>
+		<video>./video/Knuckles' Chaotix (Europe).mp4</video>
+		<marquee>./marquee/Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-14).png</marquee>
+		<developer>소닉팀</developer>
+		<publisher>세가</publisher>
+		<genre>플랫폼</genre>
+		<players>2</players>
+		<releasedate>19950420T000000</releasedate>
+	</game>
+	<game>
+		<path>./Knuckles' Chaotix (Japan, USA) (En).zip</path>
+		<name>너클스 카오틱스 (일본,미국판)(영어)</name>
+		<image>./snap/Knuckles' Chaotix (Japan, USA) (En).png</image>
+		<video>./video/Knuckles' Chaotix (Europe).mp4</video>
+		<marquee>./marquee/Knuckles' Chaotix (Japan, USA) (En).png</marquee>
+		<developer>소닉팀</developer>
+		<publisher>세가</publisher>
+		<genre>플랫폼</genre>
+		<players>2</players>
+		<releasedate>19950420T000000</releasedate>
+	</game>
+	<game>
+		<path>./Kolibri (USA, Europe).zip</path>
+		<name>코리브리</name>
+		<image>./snap/Kolibri (USA, Europe).png</image>
+		<video>./video/Kolibri (USA, Europe).mp4</video>
+		<marquee>./marquee/Kolibri (USA, Europe).png</marquee>
+		<developer>노보트레이드</developer>
+		<publisher>세가</publisher>
+		<genre>슈팅</genre>
+		<players>2</players>
+		<releasedate>19951001T000000</releasedate>
+	</game>
+	<game>
+		<path>./Mars Check Program Version 1.0 (Unknown) (SDK Build) (Set 1).zip</path>
+		<name>마즈 체크 프로그램 v1.0</name>
+		<image>./snap/Mars Check Program Version 1.0 (Unknown) (SDK Build) (Set 1).png</image>
+		<video>./video/Mars Check Program Version 1.0 (Unknown) (SDK Build) (Set 1).mp4</video>
+		<marquee>./marquee/Mars Check Program Version 1.0 (Unknown) (SDK Build) (Set 1).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>데모</genre>
+		<players>1</players>
+		<releasedate/>
+	</game>
+	<game>
+		<path>./Mars Check Program Version 1.0 (Unknown) (SDK Build) (Set 2).zip</path>
+		<name>마즈 체크 프로그램 v1.0</name>
+		<image>./snap/Mars Check Program Version 1.0 (Unknown) (SDK Build) (Set 2).png</image>
+		<video>./video/Mars Check Program Version 1.0 (Unknown) (SDK Build) (Set 2).mp4</video>
+		<marquee>./marquee/Mars Check Program Version 1.0 (Unknown) (SDK Build) (Set 2).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>데모</genre>
+		<players>1</players>
+		<releasedate/>
+	</game>
+	<game>
+		<path>./Mars Sample Program - Gnu Sierra (Unknown) (SDK Build).zip</path>
+		<name>마즈 샘플 프로그램 - 그누 시에라</name>
+		<image>./snap/Mars Sample Program - Gnu Sierra (Unknown) (SDK Build).png</image>
+		<video>./video/Mars Sample Program - Gnu Sierra (Unknown) (SDK Build).mp4</video>
+		<marquee>./marquee/Mars Sample Program - Gnu Sierra (Unknown) (SDK Build).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>데모</genre>
+		<players>1</players>
+		<releasedate/>
+	</game>
+	<game>
+		<path>./Mars Sample Program - Pharaoh (Unknown) (SDK Build).zip</path>
+		<name>마즈 샘플 프로그램 - 파라오</name>
+		<image>./snap/Mars Sample Program - Pharaoh (Unknown) (SDK Build).png</image>
+		<video>./video/Mars Sample Program - Pharaoh (Unknown) (SDK Build).mp4</video>
+		<marquee>./marquee/Mars Sample Program - Pharaoh (Unknown) (SDK Build).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>데모</genre>
+		<players>1</players>
+		<releasedate/>
+	</game>
+	<game>
+		<path>./Mars Sample Program - Runlength Mode Test (Unknown) (SDK Build).zip</path>
+		<name>마즈 샘플 프로그램 - 런렝스 모드 테스트</name>
+		<image>./snap/Mars Sample Program - Runlength Mode Test (Unknown) (SDK Build).png</image>
+		<video>./video/Mars Sample Program - Runlength Mode Test (Unknown) (SDK Build).mp4</video>
+		<marquee>./marquee/Mars Sample Program - Runlength Mode Test (Unknown) (SDK Build).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>데모</genre>
+		<players>1</players>
+		<releasedate/>
+	</game>
+	<game>
+		<path>./Metal Head (Europe) (En,Ja).zip</path>
+		<name>메탈 헤드</name>
+		<image>./snap/Metal Head (Europe) (En,Ja).png</image>
+		<video>./video/Metal Head (Europe) (En,Ja).mp4</video>
+		<marquee>./marquee/Metal Head (Europe) (En,Ja).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>시뮬레이션</genre>
+		<players>1</players>
+		<releasedate>19950201T000000</releasedate>
+	</game>
+	<game>
+		<path>./Mars Sample Program - Texture Test (Unknown) (SDK Build).zip</path>
+		<name>마즈 샘플 프로그램 - 텍스쳐 테스트</name>
+		<image>./snap/Mars Sample Program - Texture Test (Unknown) (SDK Build).png</image>
+		<video>./video/Mars Sample Program - Texture Test (Unknown) (SDK Build).mp4</video>
+		<marquee>./marquee/Mars Sample Program - Texture Test (Unknown) (SDK Build).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>데모</genre>
+		<players>1</players>
+		<releasedate/>
+	</game>
+	<game>
+		<path>./Metal Head (Japan, USA) (En) (Beta) (1994-11-14).zip</path>
+		<name>메탈 헤드 (일본,미국판)(영어)(베타)(1994-11-14)</name>
+		<image>./snap/Metal Head (Japan, USA) (En) (Beta) (1994-11-14).png</image>
+		<video>./video/Metal Head (Europe) (En,Ja).mp4</video>
+		<marquee>./marquee/Metal Head (Japan, USA) (En) (Beta) (1994-11-14).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>시뮬레이션</genre>
+		<players>1</players>
+		<releasedate>19950201T000000</releasedate>
+	</game>
+	<game>
+		<path>./Metal Head (Japan, USA) (En) (Beta) (1994-11-18).zip</path>
+		<name>메탈 헤드 (일본,미국판)(영어)(베타)(1994-11-18)</name>
+		<image>./snap/Metal Head (Japan, USA) (En) (Beta) (1994-11-18).png</image>
+		<video>./video/Metal Head (Europe) (En,Ja).mp4</video>
+		<marquee>./marquee/Metal Head (Japan, USA) (En) (Beta) (1994-11-18).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>시뮬레이션</genre>
+		<players>1</players>
+		<releasedate>19950201T000000</releasedate>
+	</game>
+	<game>
+		<path>./Metal Head (Japan, USA) (En) (Beta) (1994-11-21).zip</path>
+		<name>메탈 헤드 (일본,미국판)(영어)(베타)(1994-11-21)</name>
+		<image>./snap/Metal Head (Japan, USA) (En) (Beta) (1994-11-21).png</image>
+		<video>./video/Metal Head (Europe) (En,Ja).mp4</video>
+		<marquee>./marquee/Metal Head (Japan, USA) (En) (Beta) (1994-11-21).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>시뮬레이션</genre>
+		<players>1</players>
+		<releasedate>19950201T000000</releasedate>
+	</game>
+	<game>
+		<path>./Metal Head (Japan, USA) (En) (Beta) (1994-12-02).zip</path>
+		<name>메탈 헤드 (일본,미국판)(영어)(베타)(1994-12-02)</name>
+		<image>./snap/Metal Head (Japan, USA) (En) (Beta) (1994-12-02).png</image>
+		<video>./video/Metal Head (Europe) (En,Ja).mp4</video>
+		<marquee>./marquee/Metal Head (Japan, USA) (En) (Beta) (1994-12-02).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>시뮬레이션</genre>
+		<players>1</players>
+		<releasedate>19950201T000000</releasedate>
+	</game>
+	<game>
+		<path>./Metal Head (Japan, USA) (En) (Beta) (1994-12-07) (Alt).zip</path>
+		<name>메탈 헤드 (일본,미국판)(영어)(베타)(1994-12-07)(대체)</name>
+		<image>./snap/Metal Head (Japan, USA) (En) (Beta) (1994-12-07) (Alt).png</image>
+		<video>./video/Metal Head (Europe) (En,Ja).mp4</video>
+		<marquee>./marquee/Metal Head (Japan, USA) (En) (Beta) (1994-12-07) (Alt).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>시뮬레이션</genre>
+		<players>1</players>
+		<releasedate>19950201T000000</releasedate>
+	</game>
+	<game>
+		<path>./Metal Head (Japan, USA) (En) (Beta) (1994-12-07).zip</path>
+		<name>메탈 헤드 (일본,미국판)(영어)(베타)(1994-12-07)</name>
+		<image>./snap/Metal Head (Japan, USA) (En) (Beta) (1994-12-07).png</image>
+		<video>./video/Metal Head (Europe) (En,Ja).mp4</video>
+		<marquee>./marquee/Metal Head (Japan, USA) (En) (Beta) (1994-12-07).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>시뮬레이션</genre>
+		<players>1</players>
+		<releasedate>19950201T000000</releasedate>
+	</game>
+	<game>
+		<path>./Metal Head (Japan, USA) (En) (Beta) (1994-12-09).zip</path>
+		<name>메탈 헤드 (일본,미국판)(영어)(베타)(1994-12-09)</name>
+		<image>./snap/Metal Head (Japan, USA) (En) (Beta) (1994-12-09).png</image>
+		<video>./video/Metal Head (Europe) (En,Ja).mp4</video>
+		<marquee>./marquee/Metal Head (Japan, USA) (En) (Beta) (1994-12-09).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>시뮬레이션</genre>
+		<players>1</players>
+		<releasedate>19950201T000000</releasedate>
+	</game>
+	<game>
+		<path>./Metal Head (Japan, USA) (En) (Beta) (1994-12-20).zip</path>
+		<name>메탈 헤드 (일본,미국판)(영어)(베타)(1994-12-20)</name>
+		<image>./snap/Metal Head (Japan, USA) (En) (Beta) (1994-12-20).png</image>
+		<video>./video/Metal Head (Europe) (En,Ja).mp4</video>
+		<marquee>./marquee/Metal Head (Japan, USA) (En) (Beta) (1994-12-20).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>시뮬레이션</genre>
+		<players>1</players>
+		<releasedate>19950201T000000</releasedate>
+	</game>
+	<game>
+		<path>./Metal Head (Japan, USA) (En) (Beta) (1994-12-13).zip</path>
+		<name>메탈 헤드 (일본,미국판)(영어)(베타)(1994-12-13)</name>
+		<image>./snap/Metal Head (Japan, USA) (En) (Beta) (1994-12-13).png</image>
+		<video>./video/Metal Head (Europe) (En,Ja).mp4</video>
+		<marquee>./marquee/Metal Head (Japan, USA) (En) (Beta) (1994-12-13).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>시뮬레이션</genre>
+		<players>1</players>
+		<releasedate>19950201T000000</releasedate>
+	</game>
+	<game>
+		<path>./Metal Head (Japan, USA) (En,Ja).zip</path>
+		<name>메탈 헤드 (일본,미국판)(영어)</name>
+		<image>./snap/Metal Head (Japan, USA) (En,Ja).png</image>
+		<video>./video/Metal Head (Europe) (En,Ja).mp4</video>
+		<marquee>./marquee/Metal Head (Japan, USA) (En,Ja).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>시뮬레이션</genre>
+		<players>1</players>
+		<releasedate>19950201T000000</releasedate>
+	</game>
+	<game>
+		<path>./Mortal Kombat II (Europe).zip</path>
+		<name>모탈 컴뱃 2</name>
+		<image>./snap/Mortal Kombat II (Europe).png</image>
+		<video>./video/Mortal Kombat II (Europe).mp4</video>
+		<marquee>./marquee/Mortal Kombat II (Europe).png</marquee>
+		<developer>프로브</developer>
+		<publisher>어클레임 엔터테인먼트</publisher>
+		<genre>격투</genre>
+		<players>2</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Mortal Kombat II (Japan, USA) (En).zip</path>
+		<name>모탈 컴뱃 2 (일본,미국판)(영어)</name>
+		<image>./snap/Mortal Kombat II (Japan, USA) (En).png</image>
+		<video>./video/Mortal Kombat II (Europe).mp4</video>
+		<marquee>./marquee/Mortal Kombat II (Japan, USA) (En).png</marquee>
+		<developer>프로브</developer>
+		<publisher>어클레임 엔터테인먼트</publisher>
+		<genre>격투</genre>
+		<players>2</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Motherbase (Europe) (Sample).zip</path>
+		<name>마더베이스 (유럽판)(샘플)</name>
+		<image>./snap/Motherbase (Europe) (Sample).png</image>
+		<video>./video/Motherbase (Europe).mp4</video>
+		<marquee>./marquee/Motherbase (Europe) (Sample).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>슈팅</genre>
+		<players>2</players>
+		<releasedate>19950601T000000</releasedate>
+	</game>
+	<game>
+		<path>./Motherbase (Europe).zip</path>
+		<name>마더베이스</name>
+		<image>./snap/Motherbase (Europe).png</image>
+		<video>./video/Motherbase (Europe).mp4</video>
+		<marquee>./marquee/Motherbase (Europe).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>슈팅</genre>
+		<players>2</players>
+		<releasedate>19950601T000000</releasedate>
+	</game>
+	<game>
+		<path>./Motocross Championship (Europe).zip</path>
+		<name>모토크로스 챔피언십</name>
+		<image>./snap/Motocross Championship (Europe).png</image>
+		<video>./video/Motocross Championship (Europe).mp4</video>
+		<marquee>./marquee/Motocross Championship (Europe).png</marquee>
+		<developer>아트텍 스튜디오</developer>
+		<publisher>세가</publisher>
+		<genre>레이싱</genre>
+		<players>2</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Motocross Championship (Japan, USA) (En) (Beta) (1994-10-12).zip</path>
+		<name>모토크로스 챔피언십 (일본,미국판)(영어)(베타)(1994-10-12)</name>
+		<image>./snap/Motocross Championship (Japan, USA) (En) (Beta) (1994-10-12).png</image>
+		<video>./video/Motocross Championship (Europe).mp4</video>
+		<marquee>./marquee/Motocross Championship (Japan, USA) (En) (Beta) (1994-10-12).png</marquee>
+		<developer>아트텍 스튜디오</developer>
+		<publisher>세가</publisher>
+		<genre>레이싱</genre>
+		<players>2</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Motocross Championship (Japan, USA) (En) (Beta) (1994-10-17).zip</path>
+		<name>모토크로스 챔피언십 (일본,미국판)(영어)(베타)(1994-10-17)</name>
+		<image>./snap/Motocross Championship (Japan, USA) (En) (Beta) (1994-10-17).png</image>
+		<video>./video/Motocross Championship (Europe).mp4</video>
+		<marquee>./marquee/Motocross Championship (Japan, USA) (En) (Beta) (1994-10-17).png</marquee>
+		<developer>아트텍 스튜디오</developer>
+		<publisher>세가</publisher>
+		<genre>레이싱</genre>
+		<players>2</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Motocross Championship (Japan, USA) (En) (Beta) (1994-10-18).zip</path>
+		<name>모토크로스 챔피언십 (일본,미국판)(영어)(베타)(1994-10-18)</name>
+		<image>./snap/Motocross Championship (Japan, USA) (En) (Beta) (1994-10-18).png</image>
+		<video>./video/Motocross Championship (Europe).mp4</video>
+		<marquee>./marquee/Motocross Championship (Japan, USA) (En) (Beta) (1994-10-18).png</marquee>
+		<developer>아트텍 스튜디오</developer>
+		<publisher>세가</publisher>
+		<genre>레이싱</genre>
+		<players>2</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Motocross Championship (Japan, USA) (En) (Beta) (1994-10-19).zip</path>
+		<name>모토크로스 챔피언십 (일본,미국판)(영어)(베타)(1994-10-19)</name>
+		<image>./snap/Motocross Championship (Japan, USA) (En) (Beta) (1994-10-19).png</image>
+		<video>./video/Motocross Championship (Europe).mp4</video>
+		<marquee>./marquee/Motocross Championship (Japan, USA) (En) (Beta) (1994-10-19).png</marquee>
+		<developer>아트텍 스튜디오</developer>
+		<publisher>세가</publisher>
+		<genre>레이싱</genre>
+		<players>2</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Motocross Championship (Japan, USA) (En) (Beta) (1994-10-20).zip</path>
+		<name>모토크로스 챔피언십 (일본,미국판)(영어)(베타)(1994-10-20)</name>
+		<image>./snap/Motocross Championship (Japan, USA) (En) (Beta) (1994-10-20).png</image>
+		<video>./video/Motocross Championship (Europe).mp4</video>
+		<marquee>./marquee/Motocross Championship (Japan, USA) (En) (Beta) (1994-10-20).png</marquee>
+		<developer>아트텍 스튜디오</developer>
+		<publisher>세가</publisher>
+		<genre>레이싱</genre>
+		<players>2</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Motocross Championship (Japan, USA) (En) (Beta) (1994-10-24).zip</path>
+		<name>모토크로스 챔피언십 (일본,미국판)(영어)(베타)(1994-10-24)</name>
+		<image>./snap/Motocross Championship (Japan, USA) (En) (Beta) (1994-10-24).png</image>
+		<video>./video/Motocross Championship (Europe).mp4</video>
+		<marquee>./marquee/Motocross Championship (Japan, USA) (En) (Beta) (1994-10-24).png</marquee>
+		<developer>아트텍 스튜디오</developer>
+		<publisher>세가</publisher>
+		<genre>레이싱</genre>
+		<players>2</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Motocross Championship (Japan, USA) (En) (Beta) (1994-10-28).zip</path>
+		<name>모토크로스 챔피언십 (일본,미국판)(영어)(베타)(1994-10-28)</name>
+		<image>./snap/Motocross Championship (Japan, USA) (En) (Beta) (1994-10-28).png</image>
+		<video>./video/Motocross Championship (Europe).mp4</video>
+		<marquee>./marquee/Motocross Championship (Japan, USA) (En) (Beta) (1994-10-28).png</marquee>
+		<developer>아트텍 스튜디오</developer>
+		<publisher>세가</publisher>
+		<genre>레이싱</genre>
+		<players>2</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Motocross Championship (Japan, USA) (En) (Beta) (1994-11-01).zip</path>
+		<name>모토크로스 챔피언십 (일본,미국판)(영어)(베타)(1994-11-01)</name>
+		<image>./snap/Motocross Championship (Japan, USA) (En) (Beta) (1994-11-01).png</image>
+		<video>./video/Motocross Championship (Europe).mp4</video>
+		<marquee>./marquee/Motocross Championship (Japan, USA) (En) (Beta) (1994-11-01).png</marquee>
+		<developer>아트텍 스튜디오</developer>
+		<publisher>세가</publisher>
+		<genre>레이싱</genre>
+		<players>2</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Motocross Championship (Japan, USA) (En) (Beta) (1994-11-02) (Alt).zip</path>
+		<name>모토크로스 챔피언십 (일본,미국판)(영어)(베타)(1994-11-02)(대체)</name>
+		<image>./snap/Motocross Championship (Japan, USA) (En) (Beta) (1994-11-02) (Alt).png</image>
+		<video>./video/Motocross Championship (Europe).mp4</video>
+		<marquee>./marquee/Motocross Championship (Japan, USA) (En) (Beta) (1994-11-02) (Alt).png</marquee>
+		<developer>아트텍 스튜디오</developer>
+		<publisher>세가</publisher>
+		<genre>레이싱</genre>
+		<players>2</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Motocross Championship (Japan, USA) (En) (Beta) (1994-11-02).zip</path>
+		<name>모토크로스 챔피언십 (일본,미국판)(영어)(베타)(1994-11-02)</name>
+		<image>./snap/Motocross Championship (Japan, USA) (En) (Beta) (1994-11-02).png</image>
+		<video>./video/Motocross Championship (Europe).mp4</video>
+		<marquee>./marquee/Motocross Championship (Japan, USA) (En) (Beta) (1994-11-02).png</marquee>
+		<developer>아트텍 스튜디오</developer>
+		<publisher>세가</publisher>
+		<genre>레이싱</genre>
+		<players>2</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Motocross Championship (Japan, USA) (En) (Beta) (1994-11-03).zip</path>
+		<name>모토크로스 챔피언십 (일본,미국판)(영어)(베타)(1994-11-03)</name>
+		<image>./snap/Motocross Championship (Japan, USA) (En) (Beta) (1994-11-03).png</image>
+		<video>./video/Motocross Championship (Europe).mp4</video>
+		<marquee>./marquee/Motocross Championship (Japan, USA) (En) (Beta) (1994-11-03).png</marquee>
+		<developer>아트텍 스튜디오</developer>
+		<publisher>세가</publisher>
+		<genre>레이싱</genre>
+		<players>2</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Motocross Championship (Japan, USA) (En) (Beta) (1994-11-04).zip</path>
+		<name>모토크로스 챔피언십 (일본,미국판)(영어)(베타)(1994-11-04)</name>
+		<image>./snap/Motocross Championship (Japan, USA) (En) (Beta) (1994-11-04).png</image>
+		<video>./video/Motocross Championship (Europe).mp4</video>
+		<marquee>./marquee/Motocross Championship (Japan, USA) (En) (Beta) (1994-11-04).png</marquee>
+		<developer>아트텍 스튜디오</developer>
+		<publisher>세가</publisher>
+		<genre>레이싱</genre>
+		<players>2</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Motocross Championship (Japan, USA) (En) (Beta) (1994-11-07).zip</path>
+		<name>모토크로스 챔피언십 (일본,미국판)(영어)(베타)(1994-11-07)</name>
+		<image>./snap/Motocross Championship (Japan, USA) (En) (Beta) (1994-11-07).png</image>
+		<video>./video/Motocross Championship (Europe).mp4</video>
+		<marquee>./marquee/Motocross Championship (Japan, USA) (En) (Beta) (1994-11-07).png</marquee>
+		<developer>아트텍 스튜디오</developer>
+		<publisher>세가</publisher>
+		<genre>레이싱</genre>
+		<players>2</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Motocross Championship (Japan, USA) (En) (Beta) (1994-11-08).zip</path>
+		<name>모토크로스 챔피언십 (일본,미국판)(영어)(베타)(1994-11-08)</name>
+		<image>./snap/Motocross Championship (Japan, USA) (En) (Beta) (1994-11-08).png</image>
+		<video>./video/Motocross Championship (Europe).mp4</video>
+		<marquee>./marquee/Motocross Championship (Japan, USA) (En) (Beta) (1994-11-08).png</marquee>
+		<developer>아트텍 스튜디오</developer>
+		<publisher>세가</publisher>
+		<genre>레이싱</genre>
+		<players>2</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Motocross Championship (Japan, USA) (En) (Beta) (1994-11-11).zip</path>
+		<name>모토크로스 챔피언십 (일본,미국판)(영어)(베타)(1994-11-11)</name>
+		<image>./snap/Motocross Championship (Japan, USA) (En) (Beta) (1994-11-11).png</image>
+		<video>./video/Motocross Championship (Europe).mp4</video>
+		<marquee>./marquee/Motocross Championship (Japan, USA) (En) (Beta) (1994-11-11).png</marquee>
+		<developer>아트텍 스튜디오</developer>
+		<publisher>세가</publisher>
+		<genre>레이싱</genre>
+		<players>2</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Motocross Championship (USA).zip</path>
+		<name>모토크로스 챔피언십</name>
+		<image>./snap/Motocross Championship (USA).png</image>
+		<video>./video/Motocross Championship (Europe).mp4</video>
+		<marquee>./marquee/Motocross Championship (USA).png</marquee>
+		<developer>아트텍 스튜디오</developer>
+		<publisher>세가</publisher>
+		<genre>레이싱</genre>
+		<players>2</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./NBA Jam - Tournament Edition (World).zip</path>
+		<name>NBA 잼 - 토너먼트 에디션</name>
+		<image>./snap/NBA Jam - Tournament Edition (World).png</image>
+		<video>./video/NBA Jam - Tournament Edition (World).mp4</video>
+		<marquee>./marquee/NBA Jam - Tournament Edition (World).png</marquee>
+		<developer>이구아나 엔터테인먼트</developer>
+		<publisher>어클레임 엔터테인먼트</publisher>
+		<genre>스포츠</genre>
+		<players>4</players>
+		<releasedate>00000000T000000</releasedate>
+	</game>
+	<game>
+		<path>./NFL Quarterback Club (World).zip</path>
+		<name>NFL 쿼터백 클럽</name>
+		<image>./snap/NFL Quarterback Club (World).png</image>
+		<video>./video/NFL Quarterback Club (World).mp4</video>
+		<marquee>./marquee/NFL Quarterback Club (World).png</marquee>
+		<developer>이구아나 엔터테인먼트</developer>
+		<publisher>어클레임 엔터테인먼트</publisher>
+		<genre>스포츠</genre>
+		<players>4</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Pinocchio (Europe) (Proto) (1995-06-12).zip</path>
+		<name>피노키오</name>
+		<image>./snap/Pinocchio (Europe) (Proto) (1995-06-12).png</image>
+		<video>./video/Pinocchio (Europe) (Proto) (1995-06-12).mp4</video>
+		<marquee>./marquee/Pinocchio (Europe) (Proto) (1995-06-12).png</marquee>
+		<developer/>
+		<publisher/>
+		<genre/>
+		<players/>
+		<releasedate/>
+	</game>
+	<game>
+		<path>./Pitfall - The Mayan Adventure (USA).zip</path>
+		<name>핏폴 - 마야 어드벤처</name>
+		<image>./snap/Pitfall - The Mayan Adventure (USA).png</image>
+		<video>./video/Pitfall - The Mayan Adventure (USA).mp4</video>
+		<marquee>./marquee/Pitfall - The Mayan Adventure (USA).png</marquee>
+		<developer>액티비젼</developer>
+		<publisher>액티비젼</publisher>
+		<genre>플랫폼</genre>
+		<players>1</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Primal Rage (USA, Europe).zip</path>
+		<name>프라이멀 레이지</name>
+		<image>./snap/Primal Rage (USA, Europe).png</image>
+		<video>./video/Primal Rage (USA, Europe).mp4</video>
+		<marquee>./marquee/Primal Rage (USA, Europe).png</marquee>
+		<developer>타임워너 인터렉티브</developer>
+		<publisher>프로브</publisher>
+		<genre>격투</genre>
+		<players>2</players>
+		<releasedate>19951114T000000</releasedate>
+	</game>
+	<game>
+		<path>./RBI Baseball '95 (USA).zip</path>
+		<name>RBI 베이스볼 95</name>
+		<image>./snap/RBI Baseball '95 (USA).png</image>
+		<video>./video/RBI Baseball '95 (USA).mp4</video>
+		<marquee>./marquee/RBI Baseball '95 (USA).png</marquee>
+		<developer>타임워너 인터렉티브</developer>
+		<publisher>타임워너 인터렉티브</publisher>
+		<genre>스포츠</genre>
+		<players>2</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Sangokushi IV (Japan).zip</path>
+		<name>삼국지 4</name>
+		<image>./snap/Sangokushi IV (Japan).png</image>
+		<video>./video/Sangokushi IV (Japan).mp4</video>
+		<marquee>./marquee/Sangokushi IV (Japan).png</marquee>
+		<developer>세가</developer>
+		<publisher>코에이</publisher>
+		<genre>시뮬레이션</genre>
+		<players>1</players>
+		<releasedate>19950707T000000</releasedate>
+	</game>
+	<game>
+		<path>./Soulstar X (USA) (Proto).zip</path>
+		<name>소울스타 X</name>
+		<image>./snap/Soulstar X (USA) (Proto).png</image>
+		<video>./video/Soulstar X (USA) (Proto).mp4</video>
+		<marquee>./marquee/Soulstar X (USA) (Proto).png</marquee>
+		<developer>코어 디자인 Limited</developer>
+		<publisher>에이도스</publisher>
+		<genre>슈팅</genre>
+		<players>1</players>
+		<releasedate>00000000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Space Harrier (Europe).zip</path>
+		<name>스페이스 해리어</name>
+		<image>./snap/Space Harrier (Europe).png</image>
+		<video>./video/Space Harrier (Europe).mp4</video>
+		<marquee>./marquee/Space Harrier (Europe).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>슈팅</genre>
+		<players>1</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Space Harrier (Japan, USA) (En) (Beta) (1994-09-20).zip</path>
+		<name>스페이스 해리어 (일본,미국판)(영어)(베타)(1994-09-20)</name>
+		<image>./snap/Space Harrier (Japan, USA) (En) (Beta) (1994-09-20).png</image>
+		<video>./video/Space Harrier (Europe).mp4</video>
+		<marquee>./marquee/Space Harrier (Japan, USA) (En) (Beta) (1994-09-20).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>슈팅</genre>
+		<players>1</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Spot Goes to Hollywood (USA) (Proto).zip</path>
+		<name>스팟 할리우드에 가다</name>
+		<image>./snap/Spot Goes to Hollywood (USA) (Proto).png</image>
+		<video>./video/Spot Goes to Hollywood (USA) (Proto).mp4</video>
+		<marquee>./marquee/Spot Goes to Hollywood (USA) (Proto).png</marquee>
+		<developer/>
+		<publisher/>
+		<genre/>
+		<players/>
+		<releasedate/>
+	</game>
+	<game>
+		<path>./Space Harrier (Japan, USA) (En).zip</path>
+		<name>스페이스 해리어 (일본,미국판)(영어)</name>
+		<image>./snap/Space Harrier (Japan, USA) (En).png</image>
+		<video>./video/Space Harrier (Europe).mp4</video>
+		<marquee>./marquee/Space Harrier (Japan, USA) (En).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>슈팅</genre>
+		<players>1</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Star Trek - Starfleet Academy - Starship Bridge Simulator (USA).zip</path>
+		<name>스타 트랙 - 스타플릿 아카데미 스타쉽 브릿지 시뮬레이터</name>
+		<image>./snap/Star Trek - Starfleet Academy - Starship Bridge Simulator (USA).png</image>
+		<video>./video/Star Trek - Starfleet Academy - Starship Bridge Simulator (USA).mp4</video>
+		<marquee>./marquee/Star Trek - Starfleet Academy - Starship Bridge Simulator (USA).png</marquee>
+		<developer>하이볼티지</developer>
+		<publisher>인터플레이</publisher>
+		<genre>라이트건</genre>
+		<players>2</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Star Wars Arcade (Europe) (Beta) (1994-09-23).zip</path>
+		<name>스타 워즈 아케이드 (유럽판)(베타)(1994-09-23)</name>
+		<image>./snap/Star Wars Arcade (Europe) (Beta) (1994-09-23).png</image>
+		<video>./video/Star Wars Arcade (Europe).mp4</video>
+		<marquee>./marquee/Star Wars Arcade (Europe) (Beta) (1994-09-23).png</marquee>
+		<developer>루카스아츠</developer>
+		<publisher>루카스아츠</publisher>
+		<genre>액션</genre>
+		<players>2</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Star Wars Arcade (Europe) (Beta) (1994-09-29).zip</path>
+		<name>스타 워즈 아케이드 (유럽판)(베타)(1994-09-29)</name>
+		<image>./snap/Star Wars Arcade (Europe) (Beta) (1994-09-29).png</image>
+		<video>./video/Star Wars Arcade (Europe).mp4</video>
+		<marquee>./marquee/Star Wars Arcade (Europe) (Beta) (1994-09-29).png</marquee>
+		<developer>루카스아츠</developer>
+		<publisher>루카스아츠</publisher>
+		<genre>액션</genre>
+		<players>2</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Star Wars Arcade (Europe) (Beta) (1994-10-06).zip</path>
+		<name>스타 워즈 아케이드 (유럽판)(베타)(1994-10-06)</name>
+		<image>./snap/Star Wars Arcade (Europe) (Beta) (1994-10-06).png</image>
+		<video>./video/Star Wars Arcade (Europe).mp4</video>
+		<marquee>./marquee/Star Wars Arcade (Europe) (Beta) (1994-10-06).png</marquee>
+		<developer>루카스아츠</developer>
+		<publisher>루카스아츠</publisher>
+		<genre>액션</genre>
+		<players>2</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Star Wars Arcade (Europe) (Beta) (1994-10-07).zip</path>
+		<name>스타 워즈 아케이드 (유럽판)(베타)(1994-10-07)</name>
+		<image>./snap/Star Wars Arcade (Europe) (Beta) (1994-10-07).png</image>
+		<video>./video/Star Wars Arcade (Europe).mp4</video>
+		<marquee>./marquee/Star Wars Arcade (Europe) (Beta) (1994-10-07).png</marquee>
+		<developer>루카스아츠</developer>
+		<publisher>루카스아츠</publisher>
+		<genre>액션</genre>
+		<players>2</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Star Wars Arcade (Europe).zip</path>
+		<name>스타 워즈 아케이드</name>
+		<image>./snap/Star Wars Arcade (Europe).png</image>
+		<video>./video/Star Wars Arcade (Europe).mp4</video>
+		<marquee>./marquee/Star Wars Arcade (Europe).png</marquee>
+		<developer>루카스아츠</developer>
+		<publisher>루카스아츠</publisher>
+		<genre>액션</genre>
+		<players>2</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Star Wars Arcade (Japan) (Beta) (1994-09-30).zip</path>
+		<name>스타 워즈 아케이드 (일본판)(베타)(1994-09-30)</name>
+		<image>./snap/Star Wars Arcade (Japan) (Beta) (1994-09-30).png</image>
+		<video>./video/Star Wars Arcade (Europe).mp4</video>
+		<marquee>./marquee/Star Wars Arcade (Japan) (Beta) (1994-09-30).png</marquee>
+		<developer>루카스아츠</developer>
+		<publisher>루카스아츠</publisher>
+		<genre>액션</genre>
+		<players>2</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Star Wars Arcade (Japan) (Beta) (1994-10-03).zip</path>
+		<name>스타 워즈 아케이드 (일본판)(베타)(1994-10-03)</name>
+		<image>./snap/Star Wars Arcade (Japan) (Beta) (1994-10-03).png</image>
+		<video>./video/Star Wars Arcade (Europe).mp4</video>
+		<marquee>./marquee/Star Wars Arcade (Japan) (Beta) (1994-10-03).png</marquee>
+		<developer>루카스아츠</developer>
+		<publisher>루카스아츠</publisher>
+		<genre>액션</genre>
+		<players>2</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Star Wars Arcade (Japan) (Beta) (1994-10-05).zip</path>
+		<name>스타 워즈 아케이드 (일본판)(베타)(1994-10-05)</name>
+		<image>./snap/Star Wars Arcade (Japan) (Beta) (1994-10-05).png</image>
+		<video>./video/Star Wars Arcade (Europe).mp4</video>
+		<marquee>./marquee/Star Wars Arcade (Japan) (Beta) (1994-10-05).png</marquee>
+		<developer>루카스아츠</developer>
+		<publisher>루카스아츠</publisher>
+		<genre>액션</genre>
+		<players>2</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Star Wars Arcade (Japan).zip</path>
+		<name>스타 워즈 아케이드 (일본판)</name>
+		<image>./snap/Star Wars Arcade (Japan).png</image>
+		<video>./video/Star Wars Arcade (Europe).mp4</video>
+		<marquee>./marquee/Star Wars Arcade (Japan).png</marquee>
+		<developer>루카스아츠</developer>
+		<publisher>루카스아츠</publisher>
+		<genre>액션</genre>
+		<players>2</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Star Wars Arcade (USA) (Beta) (1994-08-30).zip</path>
+		<name>스타 워즈 아케이드 (베타)(1994-08-30)</name>
+		<image>./snap/Star Wars Arcade (USA) (Beta) (1994-08-30).png</image>
+		<video>./video/Star Wars Arcade (Europe).mp4</video>
+		<marquee>./marquee/Star Wars Arcade (USA) (Beta) (1994-08-30).png</marquee>
+		<developer>루카스아츠</developer>
+		<publisher>루카스아츠</publisher>
+		<genre>액션</genre>
+		<players>2</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Star Wars Arcade (USA) (Beta) (1994-09-01).zip</path>
+		<name>스타 워즈 아케이드 (베타)(1994-09-01)</name>
+		<image>./snap/Star Wars Arcade (USA) (Beta) (1994-09-01).png</image>
+		<video>./video/Star Wars Arcade (Europe).mp4</video>
+		<marquee>./marquee/Star Wars Arcade (USA) (Beta) (1994-09-01).png</marquee>
+		<developer>루카스아츠</developer>
+		<publisher>루카스아츠</publisher>
+		<genre>액션</genre>
+		<players>2</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Star Wars Arcade (USA) (Beta) (1994-09-06).zip</path>
+		<name>스타 워즈 아케이드 (베타)(1994-09-06)</name>
+		<image>./snap/Star Wars Arcade (USA) (Beta) (1994-09-06).png</image>
+		<video>./video/Star Wars Arcade (Europe).mp4</video>
+		<marquee>./marquee/Star Wars Arcade (USA) (Beta) (1994-09-06).png</marquee>
+		<developer>루카스아츠</developer>
+		<publisher>루카스아츠</publisher>
+		<genre>액션</genre>
+		<players>2</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Star Wars Arcade (USA) (Beta) (1994-09-07).zip</path>
+		<name>스타 워즈 아케이드 (베타)(1994-09-07)</name>
+		<image>./snap/Star Wars Arcade (USA) (Beta) (1994-09-07).png</image>
+		<video>./video/Star Wars Arcade (Europe).mp4</video>
+		<marquee>./marquee/Star Wars Arcade (USA) (Beta) (1994-09-07).png</marquee>
+		<developer>루카스아츠</developer>
+		<publisher>루카스아츠</publisher>
+		<genre>액션</genre>
+		<players>2</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Star Wars Arcade (USA) (Beta) (1994-09-09).zip</path>
+		<name>스타 워즈 아케이드 (베타)(1994-09-09)</name>
+		<image>./snap/Star Wars Arcade (USA) (Beta) (1994-09-09).png</image>
+		<video>./video/Star Wars Arcade (Europe).mp4</video>
+		<marquee>./marquee/Star Wars Arcade (USA) (Beta) (1994-09-09).png</marquee>
+		<developer>루카스아츠</developer>
+		<publisher>루카스아츠</publisher>
+		<genre>액션</genre>
+		<players>2</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Star Wars Arcade (USA) (Beta) (1994-09-12).zip</path>
+		<name>스타 워즈 아케이드 (베타)(1994-09-12)</name>
+		<image>./snap/Star Wars Arcade (USA) (Beta) (1994-09-12).png</image>
+		<video>./video/Star Wars Arcade (Europe).mp4</video>
+		<marquee>./marquee/Star Wars Arcade (USA) (Beta) (1994-09-12).png</marquee>
+		<developer>루카스아츠</developer>
+		<publisher>루카스아츠</publisher>
+		<genre>액션</genre>
+		<players>2</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Star Wars Arcade (USA) (Beta) (1994-09-13).zip</path>
+		<name>스타 워즈 아케이드 (베타)(1994-09-13)</name>
+		<image>./snap/Star Wars Arcade (USA) (Beta) (1994-09-13).png</image>
+		<video>./video/Star Wars Arcade (Europe).mp4</video>
+		<marquee>./marquee/Star Wars Arcade (USA) (Beta) (1994-09-13).png</marquee>
+		<developer>루카스아츠</developer>
+		<publisher>루카스아츠</publisher>
+		<genre>액션</genre>
+		<players>2</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Star Wars Arcade (USA) (Beta) (1994-09-14).zip</path>
+		<name>스타 워즈 아케이드 (베타)(1994-09-14)</name>
+		<image>./snap/Star Wars Arcade (USA) (Beta) (1994-09-14).png</image>
+		<video>./video/Star Wars Arcade (Europe).mp4</video>
+		<marquee>./marquee/Star Wars Arcade (USA) (Beta) (1994-09-14).png</marquee>
+		<developer>루카스아츠</developer>
+		<publisher>루카스아츠</publisher>
+		<genre>액션</genre>
+		<players>2</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Star Wars Arcade (USA) (Beta) (1994-09-15).zip</path>
+		<name>스타 워즈 아케이드 (베타)(1994-09-15)</name>
+		<image>./snap/Star Wars Arcade (USA) (Beta) (1994-09-15).png</image>
+		<video>./video/Star Wars Arcade (Europe).mp4</video>
+		<marquee>./marquee/Star Wars Arcade (USA) (Beta) (1994-09-15).png</marquee>
+		<developer>루카스아츠</developer>
+		<publisher>루카스아츠</publisher>
+		<genre>액션</genre>
+		<players>2</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Star Wars Arcade (USA) (Beta) (1994-09-16).zip</path>
+		<name>스타 워즈 아케이드 (베타)(1994-09-16)</name>
+		<image>./snap/Star Wars Arcade (USA) (Beta) (1994-09-16).png</image>
+		<video>./video/Star Wars Arcade (Europe).mp4</video>
+		<marquee>./marquee/Star Wars Arcade (USA) (Beta) (1994-09-16).png</marquee>
+		<developer>루카스아츠</developer>
+		<publisher>루카스아츠</publisher>
+		<genre>액션</genre>
+		<players>2</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Star Wars Arcade (USA) (Beta) (1994-09-18).zip</path>
+		<name>스타 워즈 아케이드 (베타)(1994-09-18)</name>
+		<image>./snap/Star Wars Arcade (USA) (Beta) (1994-09-18).png</image>
+		<video>./video/Star Wars Arcade (Europe).mp4</video>
+		<marquee>./marquee/Star Wars Arcade (USA) (Beta) (1994-09-18).png</marquee>
+		<developer>루카스아츠</developer>
+		<publisher>루카스아츠</publisher>
+		<genre>액션</genre>
+		<players>2</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Star Wars Arcade (USA).zip</path>
+		<name>스타 워즈 아케이드</name>
+		<image>./snap/Star Wars Arcade (USA).png</image>
+		<video>./video/Star Wars Arcade (Europe).mp4</video>
+		<marquee>./marquee/Star Wars Arcade (USA).png</marquee>
+		<developer>루카스아츠</developer>
+		<publisher>루카스아츠</publisher>
+		<genre>액션</genre>
+		<players>2</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Stellar Assault (Japan) (En) (Beta) (1995-02-06).zip</path>
+		<name>스텔라 어설트 (일본판)(영어)(베타)(1995-02-06)</name>
+		<image>./snap/Stellar Assault (Japan) (En) (Beta) (1995-02-06).png</image>
+		<video>./video/Stellar Assault (USA, Europe).mp4</video>
+		<marquee>./marquee/Stellar Assault (Japan) (En) (Beta) (1995-02-06).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>슈팅</genre>
+		<players>2</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Stellar Assault (Japan) (En) (Beta) (1995-02-13).zip</path>
+		<name>스텔라 어설트 (일본판)(영어)(베타)(1995-02-13)</name>
+		<image>./snap/Stellar Assault (Japan) (En) (Beta) (1995-02-13).png</image>
+		<video>./video/Stellar Assault (USA, Europe).mp4</video>
+		<marquee>./marquee/Stellar Assault (Japan) (En) (Beta) (1995-02-13).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>슈팅</genre>
+		<players>2</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Stellar Assault (Japan).zip</path>
+		<name>스텔라 어설트 (일본판)</name>
+		<image>./snap/Stellar Assault (Japan).png</image>
+		<video>./video/Stellar Assault (USA, Europe).mp4</video>
+		<marquee>./marquee/Stellar Assault (Japan).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>슈팅</genre>
+		<players>2</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Stellar Assault (USA, Europe) (Beta) (1995-02-22).zip</path>
+		<name>스텔라 어설트 (미국,유럽판)(베타)(1995-02-22)</name>
+		<image>./snap/Stellar Assault (USA, Europe) (Beta) (1995-02-22).png</image>
+		<video>./video/Stellar Assault (USA, Europe).mp4</video>
+		<marquee>./marquee/Stellar Assault (USA, Europe) (Beta) (1995-02-22).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>슈팅</genre>
+		<players>2</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Stellar Assault (USA, Europe) (Beta) (1995-03-02).zip</path>
+		<name>스텔라 어설트 (미국,유럽판)(베타)(1995-03-02)</name>
+		<image>./snap/Stellar Assault (USA, Europe) (Beta) (1995-03-02).png</image>
+		<video>./video/Stellar Assault (USA, Europe).mp4</video>
+		<marquee>./marquee/Stellar Assault (USA, Europe) (Beta) (1995-03-02).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>슈팅</genre>
+		<players>2</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Stellar Assault (USA, Europe) (Beta) (1995-03-06).zip</path>
+		<name>스텔라 어설트 (미국,유럽판)(베타)(1995-03-06)</name>
+		<image>./snap/Stellar Assault (USA, Europe) (Beta) (1995-03-06).png</image>
+		<video>./video/Stellar Assault (USA, Europe).mp4</video>
+		<marquee>./marquee/Stellar Assault (USA, Europe) (Beta) (1995-03-06).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>슈팅</genre>
+		<players>2</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Stellar Assault (USA, Europe) (Beta) (1995-03-13) (Alt).zip</path>
+		<name>스텔라 어설트 (미국,유럽판)(베타)(1995-03-13)(대체)</name>
+		<image>./snap/Stellar Assault (USA, Europe) (Beta) (1995-03-13) (Alt).png</image>
+		<video>./video/Stellar Assault (USA, Europe).mp4</video>
+		<marquee>./marquee/Stellar Assault (USA, Europe) (Beta) (1995-03-13) (Alt).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>슈팅</genre>
+		<players>2</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Stellar Assault (USA, Europe) (Beta) (1995-03-13).zip</path>
+		<name>스텔라 어설트 (미국,유럽판)(베타)(1995-03-13)</name>
+		<image>./snap/Stellar Assault (USA, Europe) (Beta) (1995-03-13).png</image>
+		<video>./video/Stellar Assault (USA, Europe).mp4</video>
+		<marquee>./marquee/Stellar Assault (USA, Europe) (Beta) (1995-03-13).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>슈팅</genre>
+		<players>2</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./T-MEK (USA, Europe).zip</path>
+		<name>티 멕</name>
+		<image>./snap/T-MEK (USA, Europe).png</image>
+		<video>./video/T-MEK (USA, Europe).mp4</video>
+		<marquee>./marquee/T-MEK (USA, Europe).png</marquee>
+		<developer>타임워너 인터렉티브</developer>
+		<publisher>비츠 소프트</publisher>
+		<genre>액션</genre>
+		<players>2</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Stellar Assault (USA, Europe).zip</path>
+		<name>스텔라 어설트</name>
+		<image>./snap/Stellar Assault (USA, Europe).png</image>
+		<video>./video/Stellar Assault (USA, Europe).mp4</video>
+		<marquee>./marquee/Stellar Assault (USA, Europe).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>슈팅</genre>
+		<players>2</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Tempo (Japan, USA) (En) (Beta) (1994-12-21).zip</path>
+		<name>템포 (일본,미국판)(영어)(베타)(1994-12-21)</name>
+		<image>./snap/Tempo (Japan, USA) (En) (Beta) (1994-12-21).png</image>
+		<video>./video/Tempo (Japan, USA) (En).mp4</video>
+		<marquee>./marquee/Tempo (Japan, USA) (En) (Beta) (1994-12-21).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>플랫폼</genre>
+		<players>1</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Tempo (Japan, USA) (En) (Beta) (1995-01-19).zip</path>
+		<name>템포 (일본,미국판)(영어)(베타)(1995-01-19)</name>
+		<image>./snap/Tempo (Japan, USA) (En) (Beta) (1995-01-19).png</image>
+		<video>./video/Tempo (Japan, USA) (En).mp4</video>
+		<marquee>./marquee/Tempo (Japan, USA) (En) (Beta) (1995-01-19).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>플랫폼</genre>
+		<players>1</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Tempo (Japan, USA) (En) (Beta) (1995-01-24).zip</path>
+		<name>템포 (일본,미국판)(영어)(베타)(1995-01-24)</name>
+		<image>./snap/Tempo (Japan, USA) (En) (Beta) (1995-01-24).png</image>
+		<video>./video/Tempo (Japan, USA) (En).mp4</video>
+		<marquee>./marquee/Tempo (Japan, USA) (En) (Beta) (1995-01-24).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>플랫폼</genre>
+		<players>1</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Tempo (Japan, USA) (En) (Beta) (1995-01-26).zip</path>
+		<name>템포 (일본,미국판)(영어)(베타)(1995-01-26)</name>
+		<image>./snap/Tempo (Japan, USA) (En) (Beta) (1995-01-26).png</image>
+		<video>./video/Tempo (Japan, USA) (En).mp4</video>
+		<marquee>./marquee/Tempo (Japan, USA) (En) (Beta) (1995-01-26).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>플랫폼</genre>
+		<players>1</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Tempo (Japan, USA) (En) (Beta) (1995-02-04).zip</path>
+		<name>템포 (일본,미국판)(영어)(베타)(1995-02-04)</name>
+		<image>./snap/Tempo (Japan, USA) (En) (Beta) (1995-02-04).png</image>
+		<video>./video/Tempo (Japan, USA) (En).mp4</video>
+		<marquee>./marquee/Tempo (Japan, USA) (En) (Beta) (1995-02-04).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>플랫폼</genre>
+		<players>1</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Tempo (Japan, USA) (En) (Beta) (1995-02-06) (Alt).zip</path>
+		<name>템포 (일본,미국판)(영어)(베타)(1995-02-06)(대체)</name>
+		<image>./snap/Tempo (Japan, USA) (En) (Beta) (1995-02-06) (Alt).png</image>
+		<video>./video/Tempo (Japan, USA) (En).mp4</video>
+		<marquee>./marquee/Tempo (Japan, USA) (En) (Beta) (1995-02-06) (Alt).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>플랫폼</genre>
+		<players>1</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Tempo (Japan, USA) (En) (Beta) (1995-02-06).zip</path>
+		<name>템포 (일본,미국판)(영어)(베타)(1995-02-06)</name>
+		<image>./snap/Tempo (Japan, USA) (En) (Beta) (1995-02-06).png</image>
+		<video>./video/Tempo (Japan, USA) (En).mp4</video>
+		<marquee>./marquee/Tempo (Japan, USA) (En) (Beta) (1995-02-06).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>플랫폼</genre>
+		<players>1</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Time Warner 32X CMD Download Cartridge (USA) (Program).zip</path>
+		<name>타임워너 32X CMD 다운로드 카트리지</name>
+		<image>./snap/Time Warner 32X CMD Download Cartridge (USA) (Program).png</image>
+		<video>./video/Time Warner 32X CMD Download Cartridge (USA) (Program).mp4</video>
+		<marquee>./marquee/Time Warner 32X CMD Download Cartridge (USA) (Program).png</marquee>
+		<developer/>
+		<publisher/>
+		<genre/>
+		<players/>
+		<releasedate/>
+	</game>
+	<game>
+		<path>./Tempo (Japan, USA) (En) (Beta) (1995-02-07).zip</path>
+		<name>템포 (일본,미국판)(영어)(베타)(1995-02-07)</name>
+		<image>./snap/Tempo (Japan, USA) (En) (Beta) (1995-02-07).png</image>
+		<video>./video/Tempo (Japan, USA) (En).mp4</video>
+		<marquee>./marquee/Tempo (Japan, USA) (En) (Beta) (1995-02-07).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>플랫폼</genre>
+		<players>1</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Tempo (Japan, USA) (En).zip</path>
+		<name>템포</name>
+		<image>./snap/Tempo (Japan, USA) (En).png</image>
+		<video>./video/Tempo (Japan, USA) (En).mp4</video>
+		<marquee>./marquee/Tempo (Japan, USA) (En).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>플랫폼</genre>
+		<players>1</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Toughman Contest (USA, Europe).zip</path>
+		<name>터프맨 콘텟트</name>
+		<image>./snap/Toughman Contest (USA, Europe).png</image>
+		<video>./video/Toughman Contest (USA, Europe).mp4</video>
+		<marquee>./marquee/Toughman Contest (USA, Europe).png</marquee>
+		<developer>비쥬얼 컨셉</developer>
+		<publisher>비쥬얼 컨셉</publisher>
+		<genre>격투</genre>
+		<players>8</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Virtua Fighter (Europe).zip</path>
+		<name>버추어 파이터</name>
+		<image>./snap/Virtua Fighter (Europe).png</image>
+		<video>./video/Virtua Fighter (Europe).mp4</video>
+		<marquee>./marquee/Virtua Fighter (Europe).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>격투</genre>
+		<players>2</players>
+		<releasedate>19951020T000000</releasedate>
+	</game>
+	<game>
+		<path>./Virtua Fighter (Japan, USA) (En) (Beta) (1995-05-30).zip</path>
+		<name>버추어 파이터 (일본,미국판)(영어)(베타)(1995-05-30)</name>
+		<image>./snap/Virtua Fighter (Japan, USA) (En) (Beta) (1995-05-30).png</image>
+		<video>./video/Virtua Fighter (Europe).mp4</video>
+		<marquee>./marquee/Virtua Fighter (Japan, USA) (En) (Beta) (1995-05-30).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>격투</genre>
+		<players>2</players>
+		<releasedate>19951020T000000</releasedate>
+	</game>
+	<game>
+		<path>./Virtua Fighter (Japan, USA) (En) (Beta) (1995-06-15).zip</path>
+		<name>버추어 파이터 (일본,미국판)(영어)(베타)(1995-06-15)</name>
+		<image>./snap/Virtua Fighter (Japan, USA) (En) (Beta) (1995-06-15).png</image>
+		<video>./video/Virtua Fighter (Europe).mp4</video>
+		<marquee>./marquee/Virtua Fighter (Japan, USA) (En) (Beta) (1995-06-15).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>격투</genre>
+		<players>2</players>
+		<releasedate>19951020T000000</releasedate>
+	</game>
+	<game>
+		<path>./Virtua Fighter (Japan, USA) (En) (Beta) (1995-06-30).zip</path>
+		<name>버추어 파이터 (일본,미국판)(영어)(베타)(1995-06-30)</name>
+		<image>./snap/Virtua Fighter (Japan, USA) (En) (Beta) (1995-06-30).png</image>
+		<video>./video/Virtua Fighter (Europe).mp4</video>
+		<marquee>./marquee/Virtua Fighter (Japan, USA) (En) (Beta) (1995-06-30).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>격투</genre>
+		<players>2</players>
+		<releasedate>19951020T000000</releasedate>
+	</game>
+	<game>
+		<path>./Virtua Fighter (Japan, USA) (En) (Beta) (1995-07-17).zip</path>
+		<name>버추어 파이터 (일본,미국판)(영어)(베타)(1995-07-17)</name>
+		<image>./snap/Virtua Fighter (Japan, USA) (En) (Beta) (1995-07-17).png</image>
+		<video>./video/Virtua Fighter (Europe).mp4</video>
+		<marquee>./marquee/Virtua Fighter (Japan, USA) (En) (Beta) (1995-07-17).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>격투</genre>
+		<players>2</players>
+		<releasedate>19951020T000000</releasedate>
+	</game>
+	<game>
+		<path>./Virtua Fighter (Japan, USA) (En) (Beta) (1995-07-21).zip</path>
+		<name>버추어 파이터 (일본,미국판)(영어)(베타)(1995-07-21)</name>
+		<image>./snap/Virtua Fighter (Japan, USA) (En) (Beta) (1995-07-21).png</image>
+		<video>./video/Virtua Fighter (Europe).mp4</video>
+		<marquee>./marquee/Virtua Fighter (Japan, USA) (En) (Beta) (1995-07-21).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>격투</genre>
+		<players>2</players>
+		<releasedate>19951020T000000</releasedate>
+	</game>
+	<game>
+		<path>./Virtua Fighter (Japan, USA) (En) (Beta) (1995-07-24).zip</path>
+		<name>버추어 파이터 (일본,미국판)(영어)(베타)(1995-07-24)</name>
+		<image>./snap/Virtua Fighter (Japan, USA) (En) (Beta) (1995-07-24).png</image>
+		<video>./video/Virtua Fighter (Europe).mp4</video>
+		<marquee>./marquee/Virtua Fighter (Japan, USA) (En) (Beta) (1995-07-24).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>격투</genre>
+		<players>2</players>
+		<releasedate>19951020T000000</releasedate>
+	</game>
+	<game>
+		<path>./Virtua Fighter (Japan, USA) (En) (Beta) (1995-07-25).zip</path>
+		<name>버추어 파이터 (일본,미국판)(영어)(베타)(1995-07-25)</name>
+		<image>./snap/Virtua Fighter (Japan, USA) (En) (Beta) (1995-07-25).png</image>
+		<video>./video/Virtua Fighter (Europe).mp4</video>
+		<marquee>./marquee/Virtua Fighter (Japan, USA) (En) (Beta) (1995-07-25).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>격투</genre>
+		<players>2</players>
+		<releasedate>19951020T000000</releasedate>
+	</game>
+	<game>
+		<path>./Virtua Fighter (Japan, USA) (En).zip</path>
+		<name>버추어 파이터 (일본,미국판)(영어)</name>
+		<image>./snap/Virtua Fighter (Japan, USA) (En).png</image>
+		<video>./video/Virtua Fighter (Europe).mp4</video>
+		<marquee>./marquee/Virtua Fighter (Japan, USA) (En).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>격투</genre>
+		<players>2</players>
+		<releasedate>19951020T000000</releasedate>
+	</game>
+	<game>
+		<path>./Virtua Hamster (USA) (Proto).zip</path>
+		<name>버추어 햄스터</name>
+		<image>./snap/Virtua Hamster (USA) (Proto).png</image>
+		<video>./video/Virtua Hamster (USA) (Proto).mp4</video>
+		<marquee>./marquee/Virtua Hamster (USA) (Proto).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>레이싱</genre>
+		<players>1</players>
+		<releasedate>00000000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Virtua Racing Deluxe (Europe).zip</path>
+		<name>버추어 레이싱 디럭스</name>
+		<image>./snap/Virtua Racing Deluxe (Europe).png</image>
+		<video>./video/Virtua Racing Deluxe (Europe).mp4</video>
+		<marquee>./marquee/Virtua Racing Deluxe (Europe).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>레이싱</genre>
+		<players>2</players>
+		<releasedate>19941121T000000</releasedate>
+	</game>
+	<game>
+		<path>./Virtua Racing Deluxe (Japan).zip</path>
+		<name>버추어 레이싱 디럭스 (일본판)</name>
+		<image>./snap/Virtua Racing Deluxe (Japan).png</image>
+		<video>./video/Virtua Racing Deluxe (Europe).mp4</video>
+		<marquee>./marquee/Virtua Racing Deluxe (Japan).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>레이싱</genre>
+		<players>2</players>
+		<releasedate>19941121T000000</releasedate>
+	</game>
+	<game>
+		<path>./Virtua Racing Deluxe (USA) (Beta) (1994-08-22).zip</path>
+		<name>버추어 레이싱 디럭스 (베타)(1994-08-22)</name>
+		<image>./snap/Virtua Racing Deluxe (USA) (Beta) (1994-08-22).png</image>
+		<video>./video/Virtua Racing Deluxe (Europe).mp4</video>
+		<marquee>./marquee/Virtua Racing Deluxe (USA) (Beta) (1994-08-22).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>레이싱</genre>
+		<players>2</players>
+		<releasedate>19941121T000000</releasedate>
+	</game>
+	<game>
+		<path>./Virtua Racing Deluxe (USA) (Beta) (1994-08-29).zip</path>
+		<name>버추어 레이싱 디럭스 (베타)(1994-08-29)</name>
+		<image>./snap/Virtua Racing Deluxe (USA) (Beta) (1994-08-29).png</image>
+		<video>./video/Virtua Racing Deluxe (Europe).mp4</video>
+		<marquee>./marquee/Virtua Racing Deluxe (USA) (Beta) (1994-08-29).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>레이싱</genre>
+		<players>2</players>
+		<releasedate>19941121T000000</releasedate>
+	</game>
+	<game>
+		<path>./Virtua Racing Deluxe (USA) (Beta) (1994-09-05).zip</path>
+		<name>버추어 레이싱 디럭스 (베타)(1994-09-05)</name>
+		<image>./snap/Virtua Racing Deluxe (USA) (Beta) (1994-09-05).png</image>
+		<video>./video/Virtua Racing Deluxe (Europe).mp4</video>
+		<marquee>./marquee/Virtua Racing Deluxe (USA) (Beta) (1994-09-05).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>레이싱</genre>
+		<players>2</players>
+		<releasedate>19941121T000000</releasedate>
+	</game>
+	<game>
+		<path>./Virtua Racing Deluxe (USA).zip</path>
+		<name>버추어 레이싱 디럭스</name>
+		<image>./snap/Virtua Racing Deluxe (USA).png</image>
+		<video>./video/Virtua Racing Deluxe (Europe).mp4</video>
+		<marquee>./marquee/Virtua Racing Deluxe (USA).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>레이싱</genre>
+		<players>2</players>
+		<releasedate>19941121T000000</releasedate>
+	</game>
+	<game>
+		<path>./World Series Baseball Starring Deion Sanders (USA).zip</path>
+		<name>월드 시리즈 베이스볼 - 디온 센더스</name>
+		<image>./snap/World Series Baseball Starring Deion Sanders (USA).png</image>
+		<video>./video/World Series Baseball Starring Deion Sanders (USA).mp4</video>
+		<marquee>./marquee/World Series Baseball Starring Deion Sanders (USA).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠</genre>
+		<players>2</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./WWF Raw (World).zip</path>
+		<name>WWF Raw</name>
+		<image>./snap/WWF Raw (World).png</image>
+		<video>./video/WWF Raw (World).mp4</video>
+		<marquee>./marquee/WWF Raw (World).png</marquee>
+		<developer>스컬프쳐드</developer>
+		<publisher>어클레임 엔터테인먼트</publisher>
+		<genre>격투</genre>
+		<players>4</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./WWF WrestleMania - The Arcade Game (USA).zip</path>
+		<name>WWF 레슬매니아 - 아케이드게임</name>
+		<image>./snap/WWF WrestleMania - The Arcade Game (USA).png</image>
+		<video>./video/WWF WrestleMania - The Arcade Game (USA).mp4</video>
+		<marquee>./marquee/WWF WrestleMania - The Arcade Game (USA).png</marquee>
+		<developer>스컬프쳐드</developer>
+		<publisher>어클레임 엔터테인먼트</publisher>
+		<genre>격투</genre>
+		<players>2</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./X-Men (USA) (Proto).zip</path>
+		<name>엑스맨</name>
+		<image>./snap/X-Men (USA) (Proto).png</image>
+		<video>./video/X-Men (USA) (Proto).mp4</video>
+		<marquee>./marquee/X-Men (USA) (Proto).png</marquee>
+		<developer>웨스턴 테크놀리지</developer>
+		<publisher>세가</publisher>
+		<genre>액션</genre>
+		<players/>
+		<releasedate>00000000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-02-10).zip</path>
+		<name>잭슨 마더베이스 (일본,미국판)(영어)(베타)(1995-02-10)</name>
+		<image>./snap/Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-02-10).png</image>
+		<video>./video/Motherbase (Europe).mp4</video>
+		<marquee>./marquee/Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-02-10).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>슈팅</genre>
+		<players>2</players>
+		<releasedate>19950601T000000</releasedate>
+	</game>
+	<game>
+		<path>./Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-02-21).zip</path>
+		<name>잭슨 마더베이스 (일본,미국판)(영어)(베타)(1995-02-21)</name>
+		<image>./snap/Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-02-21).png</image>
+		<video>./video/Motherbase (Europe).mp4</video>
+		<marquee>./marquee/Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-02-21).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>슈팅</genre>
+		<players>2</players>
+		<releasedate>19950601T000000</releasedate>
+	</game>
+	<game>
+		<path>./Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-02-23).zip</path>
+		<name>잭슨 마더베이스 (일본,미국판)(영어)(베타)(1995-02-23)</name>
+		<image>./snap/Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-02-23).png</image>
+		<video>./video/Motherbase (Europe).mp4</video>
+		<marquee>./marquee/Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-02-23).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>슈팅</genre>
+		<players>2</players>
+		<releasedate>19950601T000000</releasedate>
+	</game>
+	<game>
+		<path>./Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-02-27).zip</path>
+		<name>잭슨 마더베이스 (일본,미국판)(영어)(베타)(1995-02-27)</name>
+		<image>./snap/Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-02-27).png</image>
+		<video>./video/Motherbase (Europe).mp4</video>
+		<marquee>./marquee/Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-02-27).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>슈팅</genre>
+		<players>2</players>
+		<releasedate>19950601T000000</releasedate>
+	</game>
+	<game>
+		<path>./Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-03-03).zip</path>
+		<name>잭슨 마더베이스 (일본,미국판)(영어)(베타)(1995-03-03)</name>
+		<image>./snap/Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-03-03).png</image>
+		<video>./video/Motherbase (Europe).mp4</video>
+		<marquee>./marquee/Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-03-03).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>슈팅</genre>
+		<players>2</players>
+		<releasedate>19950601T000000</releasedate>
+	</game>
+	<game>
+		<path>./Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-03-06).zip</path>
+		<name>잭슨 마더베이스 (일본,미국판)(영어)(베타)(1995-03-06)</name>
+		<image>./snap/Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-03-06).png</image>
+		<video>./video/Motherbase (Europe).mp4</video>
+		<marquee>./marquee/Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-03-06).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>슈팅</genre>
+		<players>2</players>
+		<releasedate>19950601T000000</releasedate>
+	</game>
+	<game>
+		<path>./Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-03-10).zip</path>
+		<name>잭슨 마더베이스 (일본,미국판)(영어)(베타)(1995-03-10)</name>
+		<image>./snap/Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-03-10).png</image>
+		<video>./video/Motherbase (Europe).mp4</video>
+		<marquee>./marquee/Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-03-10).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>슈팅</genre>
+		<players>2</players>
+		<releasedate>19950601T000000</releasedate>
+	</game>
+	<game>
+		<path>./Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-03-15).zip</path>
+		<name>잭슨 마더베이스 (일본,미국판)(영어)(베타)(1995-03-15)</name>
+		<image>./snap/Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-03-15).png</image>
+		<video>./video/Motherbase (Europe).mp4</video>
+		<marquee>./marquee/Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-03-15).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>슈팅</genre>
+		<players>2</players>
+		<releasedate>19950601T000000</releasedate>
+	</game>
+	<game>
+		<path>./Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-03-31).zip</path>
+		<name>잭슨 마더베이스 (일본,미국판)(영어)(베타)(1995-03-31)</name>
+		<image>./snap/Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-03-31).png</image>
+		<video>./video/Motherbase (Europe).mp4</video>
+		<marquee>./marquee/Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-03-31).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>슈팅</genre>
+		<players>2</players>
+		<releasedate>19950601T000000</releasedate>
+	</game>
+	<game>
+		<path>./Zaxxon's Motherbase 2000 (Japan, USA) (En).zip</path>
+		<name>잭슨 마더베이스 2000 (일본,미국판)(영어)</name>
+		<image>./snap/Zaxxon's Motherbase 2000 (Japan, USA) (En).png</image>
+		<video>./video/Motherbase (Europe).mp4</video>
+		<marquee>./marquee/Zaxxon's Motherbase 2000 (Japan, USA) (En).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>슈팅</genre>
+		<players>2</players>
+		<releasedate>19950601T000000</releasedate>
+	</game>
+</gameList>

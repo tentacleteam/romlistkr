@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<!--
+* 제목 : 레트로게임 롬 목록 한글화 프로젝트
+* 제작자 : 텐타클 팀
+* 최종수정 : Nov 01, 2022
+* 이메일 : losernator@gmail.com
+* 카페 : http://cafe.naver.com/raspigamer
+* 지원프론트엔드 : RetroPie, Recalbox, Attract-Mode, Batocera
+* 지원에뮬 : Arcade(MAME, AdvMAME, FBA), NES, SNES, Mega Drive, MSX, MSX2, NEOGEO, GBA, PCA, SMS, Sega 32X, NG, NGPC, WS, WSC
+* 레트로게임 롬 목록 한글화 자료는 오픈소스입니다. MIT 라이센스를 따르고 있으므로 라이센스와 출처(http://cafe.naver.com/raspigamer) 표시만 지켜주시면 자유롭게 사용하실 수 있습니다.
+-->
+	<game>
+		<path>./[BIOS] CD-ROM System (Japan) (v1.0).zip</path>
+		<name>[바이오스] CD-ROM 시스템 (일본판)(v1.0)</name>
+		<image>./snap/[BIOS] CD-ROM System (Japan) (v1.0).png</image>
+		<video>./video/[BIOS] TurboGrafx CD Super System Card (USA) (v3.0).mp4</video>
+		<marquee>./marquee/[BIOS] CD-ROM System (Japan) (v1.0).png</marquee>
+		<developer>NEC</developer>
+		<publisher>NEC</publisher>
+		<genre/>
+		<players/>
+		<releasedate/>
+	</game>
 	<game>
 		<path>./1943 Kai (Japan).zip</path>
 		<name>1943 카이</name>
@@ -11,6 +33,30 @@
 		<genre/>
 		<players>2</players>
 		<releasedate>19910322T000000</releasedate>
+	</game>
+	<game>
+		<path>./[BIOS] CD-ROM System (Japan) (v2.1).zip</path>
+		<name>[바이오스] CD-ROM 시스템 (일본판)(v2.1)</name>
+		<image>./snap/[BIOS] CD-ROM System (Japan) (v2.1).png</image>
+		<video>./video/[BIOS] TurboGrafx CD Super System Card (USA) (v3.0).mp4</video>
+		<marquee>./marquee/[BIOS] CD-ROM System (Japan) (v2.1).png</marquee>
+		<developer>NEC</developer>
+		<publisher>NEC</publisher>
+		<genre/>
+		<players/>
+		<releasedate/>
+	</game>
+	<game>
+		<path>./[BIOS] CD-ROM System (Japan) (v2.0).zip</path>
+		<name>[바이오스] CD-ROM 시스템 (일본판)(v2.0)</name>
+		<image>./snap/[BIOS] CD-ROM System (Japan) (v2.0).png</image>
+		<video>./video/[BIOS] TurboGrafx CD Super System Card (USA) (v3.0).mp4</video>
+		<marquee>./marquee/[BIOS] CD-ROM System (Japan) (v2.0).png</marquee>
+		<developer>NEC</developer>
+		<publisher>NEC</publisher>
+		<genre/>
+		<players/>
+		<releasedate/>
 	</game>
 	<game>
 		<path>./21 Emon - Mezase Hotel Ou!! (Japan).zip</path>
@@ -25,16 +71,52 @@
 		<releasedate>19941216T000000</releasedate>
 	</game>
 	<game>
-		<path>./Adventure Island (Japan).zip</path>
-		<name>고교 명인의 모험도 (일본판)</name>
-		<image>./snap/Adventure Island (Japan).png</image>
-		<video>./video/Dragon's Curse (USA).mp4</video>
-		<marquee>./marquee/Adventure Island (Japan).png</marquee>
-		<developer>웨스톤</developer>
+		<path>./[BIOS] Games Express CD Card (Japan) (Blue Version).zip</path>
+		<name>[바이오스] 게임익스프레스 CD 카드 (일본판)(블루 버전)</name>
+		<image>./snap/[BIOS] Games Express CD Card (Japan) (Blue Version).png</image>
+		<video>./video/[BIOS] Games Express CD Card (Japan) (Green Version).mp4</video>
+		<marquee>./marquee/[BIOS] Games Express CD Card (Japan) (Blue Version).png</marquee>
+		<developer>NEC</developer>
 		<publisher>NEC</publisher>
 		<genre/>
-		<players>1</players>
-		<releasedate>19910419T000000</releasedate>
+		<players/>
+		<releasedate/>
+	</game>
+	<game>
+		<path>./[BIOS] Games Express CD Card (Japan) (Green Version).zip</path>
+		<name>[바이오스] 게임익스프레스 CD 카드</name>
+		<image>./snap/[BIOS] Games Express CD Card (Japan) (Green Version).png</image>
+		<video>./video/[BIOS] Games Express CD Card (Japan) (Green Version).mp4</video>
+		<marquee>./marquee/[BIOS] Games Express CD Card (Japan) (Green Version).png</marquee>
+		<developer>NEC</developer>
+		<publisher>NEC</publisher>
+		<genre/>
+		<players/>
+		<releasedate/>
+	</game>
+	<game>
+		<path>./[BIOS] Super CD-ROM System (Japan) (v3.0).zip</path>
+		<name>[바이오스] 슈퍼 CD-ROM 시스템 (일본판)(v3.0)</name>
+		<image>./snap/[BIOS] Super CD-ROM System (Japan) (v3.0).png</image>
+		<video>./video/[BIOS] TurboGrafx CD Super System Card (USA) (v3.0).mp4</video>
+		<marquee>./marquee/[BIOS] Super CD-ROM System (Japan) (v3.0).png</marquee>
+		<developer>NEC</developer>
+		<publisher>NEC</publisher>
+		<genre/>
+		<players/>
+		<releasedate/>
+	</game>
+	<game>
+		<path>./[BIOS] TurboGrafx CD System Card (USA) (v2.0).zip</path>
+		<name>[바이오스] 터보그라픽스 CD 시스템 카드 (v2.0)</name>
+		<image>./snap/[BIOS] TurboGrafx CD System Card (USA) (v2.0).png</image>
+		<video>./video/[BIOS] TurboGrafx CD Super System Card (USA) (v3.0).mp4</video>
+		<marquee>./marquee/[BIOS] TurboGrafx CD System Card (USA) (v2.0).png</marquee>
+		<developer>NEC</developer>
+		<publisher>NEC</publisher>
+		<genre/>
+		<players/>
+		<releasedate/>
 	</game>
 	<game>
 		<path>./Aero Blasters (Japan).zip</path>
@@ -47,6 +129,30 @@
 		<genre/>
 		<players>2</players>
 		<releasedate>19901102T000000</releasedate>
+	</game>
+	<game>
+		<path>./Adventure Island (Japan).zip</path>
+		<name>고교 명인의 모험도 (일본판)</name>
+		<image>./snap/Adventure Island (Japan).png</image>
+		<video>./video/Dragon's Curse (USA).mp4</video>
+		<marquee>./marquee/Adventure Island (Japan).png</marquee>
+		<developer>웨스톤</developer>
+		<publisher>NEC</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>19910419T000000</releasedate>
+	</game>
+	<game>
+		<path>./[BIOS] TurboGrafx CD Super System Card (USA) (v3.0).zip</path>
+		<name>[바이오스] 터보그라픽스 CD 슈퍼 시스템 카드</name>
+		<image>./snap/[BIOS] TurboGrafx CD Super System Card (USA) (v3.0).png</image>
+		<video>./video/[BIOS] TurboGrafx CD Super System Card (USA) (v3.0).mp4</video>
+		<marquee>./marquee/[BIOS] TurboGrafx CD Super System Card (USA) (v3.0).png</marquee>
+		<developer>NEC</developer>
+		<publisher>NEC</publisher>
+		<genre/>
+		<players/>
+		<releasedate/>
 	</game>
 	<game>
 		<path>./Aero Blasters (USA).zip</path>
@@ -85,6 +191,18 @@
 		<releasedate>19920101T000000</releasedate>
 	</game>
 	<game>
+		<path>./Air Zonk (USA, Europe) (Wii U Virtual Console).zip</path>
+		<name>에어 종크 (미국,유럽판)(Wii U 버추얼 콘솔)</name>
+		<image>./snap/Air Zonk (USA, Europe) (Wii U Virtual Console).png</image>
+		<video>./video/Air Zonk (USA).mp4</video>
+		<marquee>./marquee/Air Zonk (USA, Europe) (Wii U Virtual Console).png</marquee>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>19920101T000000</releasedate>
+	</game>
+	<game>
 		<path>./Alien Crush (Japan).zip</path>
 		<name>에일리언 크래쉬 (일본판)</name>
 		<image>./snap/Alien Crush (Japan).png</image>
@@ -110,9 +228,9 @@
 	</game>
 	<game>
 		<path>./All Star Power League (Japan).zip</path>
-		<name>올스타 파워리그 (일본판)</name>
+		<name>올스타 파워리그</name>
 		<image>./snap/All Star Power League (Japan).png</image>
-		<video>./video/World Class Baseball (USA).mp4</video>
+		<video>./video/All Star Power League (Japan).mp4</video>
 		<marquee>./marquee/All Star Power League (Japan).png</marquee>
 		<developer/>
 		<publisher/>
@@ -179,6 +297,18 @@
 		<genre/>
 		<players>2</players>
 		<releasedate>19900323T000000</releasedate>
+	</game>
+	<game>
+		<path>./Atlantean (World) (Aftermarket) (Homebrew).zip</path>
+		<name>아틀란디안</name>
+		<image>./snap/Atlantean (World) (Aftermarket) (Homebrew).png</image>
+		<video>./video/Atlantean (World) (Aftermarket) (Homebrew).mp4</video>
+		<marquee>./marquee/Atlantean (World) (Aftermarket) (Homebrew).png</marquee>
+		<developer/>
+		<publisher/>
+		<genre/>
+		<players/>
+		<releasedate/>
 	</game>
 	<game>
 		<path>./Artist Tool (Japan).zip</path>
@@ -277,6 +407,18 @@
 		<releasedate>19901012T000000</releasedate>
 	</game>
 	<game>
+		<path>./Battle Chopper (Japan).zip</path>
+		<name>배틀 초퍼</name>
+		<image>./snap/Battle Chopper (Japan).png</image>
+		<video>./video/Battle Chopper (Japan).mp4</video>
+		<marquee>./marquee/Battle Chopper (Japan).png</marquee>
+		<developer/>
+		<publisher/>
+		<genre/>
+		<players/>
+		<releasedate/>
+	</game>
+	<game>
 		<path>./Battle Lode Runner (Japan).zip</path>
 		<name>배틀 로드 런너</name>
 		<image>./snap/Battle Lode Runner (Japan).png</image>
@@ -325,6 +467,18 @@
 		<releasedate>19891222T000000</releasedate>
 	</game>
 	<game>
+		<path>./Benkei Gaiden (Japan) (Wii Virtual Console).zip</path>
+		<name>벤케이 외전 - 모래의 장 (일본판)(Wii 버추얼 콘솔)</name>
+		<image>./snap/Benkei Gaiden (Japan) (Wii Virtual Console).png</image>
+		<video>./video/Benkei Gaiden (Japan).mp4</video>
+		<marquee>./marquee/Benkei Gaiden (Japan) (Wii Virtual Console).png</marquee>
+		<developer>선소프트</developer>
+		<publisher>선소프트</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>19891222T000000</releasedate>
+	</game>
+	<game>
 		<path>./Bikkuriman World (Japan).zip</path>
 		<name>비쿠리맨 월드</name>
 		<image>./snap/Bikkuriman World (Japan).png</image>
@@ -349,6 +503,18 @@
 		<releasedate>19890101T000000</releasedate>
 	</game>
 	<game>
+		<path>./Blazing Lazers (World) (Wii U Virtual Console).zip</path>
+		<name>블레이징 레이져스 (세계판)(Wii U 버추얼 콘솔)</name>
+		<image>./snap/Blazing Lazers (World) (Wii U Virtual Console).png</image>
+		<video>./video/Blazing Lazers (USA).mp4</video>
+		<marquee>./marquee/Blazing Lazers (World) (Wii U Virtual Console).png</marquee>
+		<developer>컴파일</developer>
+		<publisher>NEC</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>19890101T000000</releasedate>
+	</game>
+	<game>
 		<path>./Blodia (Japan).zip</path>
 		<name>블로디아 (일본판)</name>
 		<image>./snap/Blodia (Japan).png</image>
@@ -359,18 +525,6 @@
 		<genre/>
 		<players>2</players>
 		<releasedate>19900223T000000</releasedate>
-	</game>
-	<game>
-		<path>./Bloody Wolf (USA).zip</path>
-		<name>블러디 울프</name>
-		<image>./snap/Bloody Wolf (USA).png</image>
-		<video>./video/Bloody Wolf (USA).mp4</video>
-		<marquee>./marquee/Bloody Wolf (USA).png</marquee>
-		<developer>데이터 이스트</developer>
-		<publisher>데이터 이스트</publisher>
-		<genre/>
-		<players>1</players>
-		<releasedate>19900101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Bodycon Quest II (Japan) (Unl).zip</path>
@@ -385,59 +539,83 @@
 		<releasedate>19930101T000000</releasedate>
 	</game>
 	<game>
-		<path>./Bomber Man '93 (Japan).zip</path>
-		<name>봄버맨 93 (일본판)</name>
-		<image>./snap/Bomber Man '93 (Japan).png</image>
-		<video>./video/Bomber Man '93 (USA).mp4</video>
-		<marquee>./marquee/Bomber Man '93 (Japan).png</marquee>
+		<path>./Bloody Wolf (USA).zip</path>
+		<name>블러디 울프</name>
+		<image>./snap/Bloody Wolf (USA).png</image>
+		<video>./video/Bloody Wolf (USA).mp4</video>
+		<marquee>./marquee/Bloody Wolf (USA).png</marquee>
+		<developer>데이터 이스트</developer>
+		<publisher>데이터 이스트</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>19900101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Bomberman '93 (Japan) (Wii U Virtual Console).zip</path>
+		<name>봄버맨 93 (일본판)(Wii U 버추얼 콘솔)</name>
+		<image>./snap/Bomberman '93 (Japan) (Wii U Virtual Console).png</image>
+		<video>./video/Bomberman '93 (USA).mp4</video>
+		<marquee>./marquee/Bomberman '93 (Japan) (Wii U Virtual Console).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
 		<genre/>
-		<players>5</players>
+		<players>2</players>
 		<releasedate>19921211T000000</releasedate>
 	</game>
 	<game>
-		<path>./Bomber Man '93 (USA).zip</path>
+		<path>./Bomberman '93 (USA).zip</path>
 		<name>봄버맨 93</name>
-		<image>./snap/Bomber Man '93 (USA).png</image>
-		<video>./video/Bomber Man '93 (USA).mp4</video>
-		<marquee>./marquee/Bomber Man '93 (USA).png</marquee>
+		<image>./snap/Bomberman '93 (USA).png</image>
+		<video>./video/Bomberman '93 (USA).mp4</video>
+		<marquee>./marquee/Bomberman '93 (USA).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
 		<genre/>
-		<players>5</players>
+		<players>2</players>
 		<releasedate>19921211T000000</releasedate>
 	</game>
 	<game>
-		<path>./Bomber Man '93 (USA, Europe) (Virtual Console).zip</path>
-		<name>봄버맨 93 (미국,유럽판)(버추얼 콘솔)</name>
-		<image>./snap/Bomber Man '93 (USA, Europe) (Virtual Console).png</image>
-		<video>./video/Bomber Man '93 (USA).mp4</video>
-		<marquee>./marquee/Bomber Man '93 (USA, Europe) (Virtual Console).png</marquee>
+		<path>./Bomberman '93 (Japan).zip</path>
+		<name>봄버맨 93 (일본판)</name>
+		<image>./snap/Bomberman '93 (Japan).png</image>
+		<video>./video/Bomberman '93 (USA).mp4</video>
+		<marquee>./marquee/Bomberman '93 (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
 		<genre/>
-		<players>5</players>
+		<players>2</players>
 		<releasedate>19921211T000000</releasedate>
 	</game>
 	<game>
-		<path>./Bomber Man '93 - Special Version (Japan).zip</path>
+		<path>./Bomberman '93 (USA, Europe) (Wii U Virtual Console).zip</path>
+		<name>봄버맨 93 (미국,유럽판)(Wii U 버추얼 콘솔)</name>
+		<image>./snap/Bomberman '93 (USA, Europe) (Wii U Virtual Console).png</image>
+		<video>./video/Bomberman '93 (USA).mp4</video>
+		<marquee>./marquee/Bomberman '93 (USA, Europe) (Wii U Virtual Console).png</marquee>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<genre/>
+		<players>2</players>
+		<releasedate>19921211T000000</releasedate>
+	</game>
+	<game>
+		<path>./Bomberman '93 - Special Version (Japan).zip</path>
 		<name>봄버맨 93 - 스페셜 버전</name>
-		<image>./snap/Bomber Man '93 - Special Version (Japan).png</image>
-		<video>./video/Bomber Man '93 - Special Version (Japan).mp4</video>
-		<marquee>./marquee/Bomber Man '93 - Special Version (Japan).png</marquee>
+		<image>./snap/Bomberman '93 - Special Version (Japan).png</image>
+		<video>./video/Bomberman '93 - Special Version (Japan).mp4</video>
+		<marquee>./marquee/Bomberman '93 - Special Version (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
 		<genre/>
-		<players>5</players>
+		<players>2</players>
 		<releasedate>19921211T000000</releasedate>
 	</game>
 	<game>
-		<path>./Bomber Man '94 (Japan).zip</path>
-		<name>봄버맨 94</name>
-		<image>./snap/Bomber Man '94 (Japan).png</image>
-		<video>./video/Bomber Man '94 (Japan).mp4</video>
-		<marquee>./marquee/Bomber Man '94 (Japan).png</marquee>
+		<path>./Bomberman '94 (World) (Wii U Virtual Console).zip</path>
+		<name>봄버맨 94 (세계판)(Wii U 버추얼 콘솔)</name>
+		<image>./snap/Bomberman '94 (World) (Wii U Virtual Console).png</image>
+		<video>./video/Bomberman '94 (Japan).mp4</video>
+		<marquee>./marquee/Bomberman '94 (World) (Wii U Virtual Console).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
 		<genre/>
@@ -445,11 +623,23 @@
 		<releasedate>19931210T000000</releasedate>
 	</game>
 	<game>
-		<path>./Bomber Man (Japan).zip</path>
+		<path>./Bomberman '94 (Japan).zip</path>
+		<name>봄버맨 94</name>
+		<image>./snap/Bomberman '94 (Japan).png</image>
+		<video>./video/Bomberman '94 (Japan).mp4</video>
+		<marquee>./marquee/Bomberman '94 (Japan).png</marquee>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<genre/>
+		<players>5</players>
+		<releasedate>19931210T000000</releasedate>
+	</game>
+	<game>
+		<path>./Bomberman (Japan).zip</path>
 		<name>봄버맨 (일본판)</name>
-		<image>./snap/Bomber Man (Japan).png</image>
-		<video>./video/Bomber Man (USA).mp4</video>
-		<marquee>./marquee/Bomber Man (Japan).png</marquee>
+		<image>./snap/Bomberman (Japan).png</image>
+		<video>./video/Bomberman (USA).mp4</video>
+		<marquee>./marquee/Bomberman (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>터보 테크놀리지</publisher>
 		<genre/>
@@ -457,11 +647,11 @@
 		<releasedate>19901207T000000</releasedate>
 	</game>
 	<game>
-		<path>./Bomber Man (USA).zip</path>
+		<path>./Bomberman (USA) (Bomberman Collection).zip</path>
 		<name>봄버맨</name>
-		<image>./snap/Bomber Man (USA).png</image>
-		<video>./video/Bomber Man (USA).mp4</video>
-		<marquee>./marquee/Bomber Man (USA).png</marquee>
+		<image>./snap/Bomberman (USA) (Bomberman Collection).png</image>
+		<video>./video/Bomberman (USA).mp4</video>
+		<marquee>./marquee/Bomberman (USA) (Bomberman Collection).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>터보 테크놀리지</publisher>
 		<genre/>
@@ -469,16 +659,28 @@
 		<releasedate>19901207T000000</releasedate>
 	</game>
 	<game>
-		<path>./Bomber Man - Users Battle (Japan).zip</path>
+		<path>./Bomberman (USA).zip</path>
 		<name>봄버맨</name>
-		<image>./snap/Bomber Man - Users Battle (Japan).png</image>
-		<video>./video/Bomber Man - Users Battle (Japan).mp4</video>
-		<marquee>./marquee/Bomber Man - Users Battle (Japan).png</marquee>
+		<image>./snap/Bomberman (USA).png</image>
+		<video>./video/Bomberman (USA).mp4</video>
+		<marquee>./marquee/Bomberman (USA).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>터보 테크놀리지</publisher>
 		<genre/>
 		<players>5</players>
 		<releasedate>19901207T000000</releasedate>
+	</game>
+	<game>
+		<path>./Bomberman - Users Battle (Japan).zip</path>
+		<name>봄버맨 유저 배틀</name>
+		<image>./snap/Bomberman - Users Battle (Japan).png</image>
+		<video>./video/Bomberman - Users Battle (Japan).mp4</video>
+		<marquee>./marquee/Bomberman - Users Battle (Japan).png</marquee>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<genre/>
+		<players>5</players>
+		<releasedate>19900101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Bonk 3 - Bonk's Big Adventure (USA).zip</path>
@@ -486,6 +688,18 @@
 		<image>./snap/Bonk 3 - Bonk's Big Adventure (USA).png</image>
 		<video>./video/Bonk 3 - Bonk's Big Adventure (USA).mp4</video>
 		<marquee>./marquee/Bonk 3 - Bonk's Big Adventure (USA).png</marquee>
+		<developer>허드슨</developer>
+		<publisher>터보 테크놀리지</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>19930101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Bonk 3 - Bonk's Big Adventure (USA, Europe) (Wii U Virtual Console).zip</path>
+		<name>봉크 3 -봉크의 대모험 (미국,유럽판)(Wii U 버추얼 콘솔)</name>
+		<image>./snap/Bonk 3 - Bonk's Big Adventure (USA, Europe) (Wii U Virtual Console).png</image>
+		<video>./video/Bonk 3 - Bonk's Big Adventure (USA).mp4</video>
+		<marquee>./marquee/Bonk 3 - Bonk's Big Adventure (USA, Europe) (Wii U Virtual Console).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>터보 테크놀리지</publisher>
 		<genre/>
@@ -505,6 +719,18 @@
 		<releasedate>19900101T000000</releasedate>
 	</game>
 	<game>
+		<path>./Bonk's Adventure (USA, Europe) (Wii U Virtual Console).zip</path>
+		<name>봉크의 모험 (미국,유럽판)(Wii U 버추얼 콘솔)</name>
+		<image>./snap/Bonk's Adventure (USA, Europe) (Wii U Virtual Console).png</image>
+		<video>./video/Bonk's Adventure (USA).mp4</video>
+		<marquee>./marquee/Bonk's Adventure (USA, Europe) (Wii U Virtual Console).png</marquee>
+		<developer>아틀러스</developer>
+		<publisher>허드슨</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>19900101T000000</releasedate>
+	</game>
+	<game>
 		<path>./Bonk's Revenge (USA).zip</path>
 		<name>봉크의 복수</name>
 		<image>./snap/Bonk's Revenge (USA).png</image>
@@ -517,11 +743,11 @@
 		<releasedate>19910101T000000</releasedate>
 	</game>
 	<game>
-		<path>./Bonk's Revenge (USA, Europe) (Virtual Console).zip</path>
-		<name>봉크의 복수 (미국,유럽판)(버추얼 콘솔)</name>
-		<image>./snap/Bonk's Revenge (USA, Europe) (Virtual Console).png</image>
+		<path>./Bonk's Revenge (USA, Europe) (Wii U Virtual Console).zip</path>
+		<name>봉크의 복수 (미국,유럽판)(Wii U 버추얼 콘솔)</name>
+		<image>./snap/Bonk's Revenge (USA, Europe) (Wii U Virtual Console).png</image>
 		<video>./video/Bonk's Revenge (USA).mp4</video>
-		<marquee>./marquee/Bonk's Revenge (USA, Europe) (Virtual Console).png</marquee>
+		<marquee>./marquee/Bonk's Revenge (USA, Europe) (Wii U Virtual Console).png</marquee>
 		<developer>레드 컴퍼니</developer>
 		<publisher>NEC</publisher>
 		<genre/>
@@ -529,16 +755,16 @@
 		<releasedate>19910101T000000</releasedate>
 	</game>
 	<game>
-		<path>./Bouken Danshaku Don - The Lost Sunheart (Japan).zip</path>
-		<name>모험 남작 돈 - 태양가슴편</name>
-		<image>./snap/Bouken Danshaku Don - The Lost Sunheart (Japan).png</image>
-		<video>./video/Bouken Danshaku Don - The Lost Sunheart (Japan).mp4</video>
-		<marquee>./marquee/Bouken Danshaku Don - The Lost Sunheart (Japan).png</marquee>
-		<developer>만청당</developer>
-		<publisher>아이맥스</publisher>
+		<path>./Bonk's Revenge (USA, Europe) (Wii Virtual Console).zip</path>
+		<name>봉크의 복수 (미국,유럽판)(Wii 버추얼 콘솔)</name>
+		<image>./snap/Bonk's Revenge (USA, Europe) (Wii Virtual Console).png</image>
+		<video>./video/Bonk's Revenge (USA).mp4</video>
+		<marquee>./marquee/Bonk's Revenge (USA, Europe) (Wii Virtual Console).png</marquee>
+		<developer>레드 컴퍼니</developer>
+		<publisher>NEC</publisher>
 		<genre/>
-		<players>2</players>
-		<releasedate>19920104T000000</releasedate>
+		<players>1</players>
+		<releasedate>19910101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Boxyboy (USA).zip</path>
@@ -551,6 +777,18 @@
 		<genre/>
 		<players>2</players>
 		<releasedate>19900101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Bouken Danshaku Don - The Lost Sunheart (Japan).zip</path>
+		<name>모험 남작 돈 - 태양가슴편</name>
+		<image>./snap/Bouken Danshaku Don - The Lost Sunheart (Japan).png</image>
+		<video>./video/Bouken Danshaku Don - The Lost Sunheart (Japan).mp4</video>
+		<marquee>./marquee/Bouken Danshaku Don - The Lost Sunheart (Japan).png</marquee>
+		<developer>만청당</developer>
+		<publisher>아이맥스</publisher>
+		<genre/>
+		<players>2</players>
+		<releasedate>19920104T000000</releasedate>
 	</game>
 	<game>
 		<path>./Bravoman (USA).zip</path>
@@ -697,18 +935,6 @@
 		<releasedate>19900101T000000</releasedate>
 	</game>
 	<game>
-		<path>./Chibi Maruko-chan - Quiz de Piihyara (Japan).zip</path>
-		<name>치비 마루코짱 - 퀴즈 데 피햐라</name>
-		<image>./snap/Chibi Maruko-chan - Quiz de Piihyara (Japan).png</image>
-		<video>./video/Chibi Maruko-chan - Quiz de Piihyara (Japan).mp4</video>
-		<marquee>./marquee/Chibi Maruko-chan - Quiz de Piihyara (Japan).png</marquee>
-		<developer>남코</developer>
-		<publisher>남코</publisher>
-		<genre/>
-		<players>2</players>
-		<releasedate>19920110T000000</releasedate>
-	</game>
-	<game>
 		<path>./Chikudenya Toubei - Kubikiri Yakata Yori (Japan).zip</path>
 		<name>축전옥 토우베이</name>
 		<image>./snap/Chikudenya Toubei - Kubikiri Yakata Yori (Japan).png</image>
@@ -719,6 +945,18 @@
 		<genre/>
 		<players>1</players>
 		<releasedate>19900126T000000</releasedate>
+	</game>
+	<game>
+		<path>./Chibi Maruko-chan - Quiz de Piihyara (Japan).zip</path>
+		<name>꼬마 마루코짱 - 퀴즈 데 피햐라</name>
+		<image>./snap/Chibi Maruko-chan - Quiz de Piihyara (Japan).png</image>
+		<video>./video/Chibi Maruko-chan - Quiz de Piihyara (Japan).mp4</video>
+		<marquee>./marquee/Chibi Maruko-chan - Quiz de Piihyara (Japan).png</marquee>
+		<developer>남코</developer>
+		<publisher>남코</publisher>
+		<genre/>
+		<players>2</players>
+		<releasedate>19920110T000000</releasedate>
 	</game>
 	<game>
 		<path>./China Warrior (USA).zip</path>
@@ -781,6 +1019,18 @@
 		<releasedate>19910329T000000</releasedate>
 	</game>
 	<game>
+		<path>./Cross Wiber - Cyber Combat Police (Japan).zip</path>
+		<name>크로스 위버 - 컴뱃 폴리스</name>
+		<image>./snap/Cross Wiber - Cyber Combat Police (Japan).png</image>
+		<video>./video/Cross Wiber - Cyber Combat Police (Japan).mp4</video>
+		<marquee>./marquee/Cross Wiber - Cyber Combat Police (Japan).png</marquee>
+		<developer>참근도</developer>
+		<publisher>페이스</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>19901221T000000</releasedate>
+	</game>
+	<game>
 		<path>./Coryoon - Child of Dragon (Japan).zip</path>
 		<name>코륜 - 차일드 오브 드래곤</name>
 		<image>./snap/Coryoon - Child of Dragon (Japan).png</image>
@@ -805,35 +1055,11 @@
 		<releasedate>19900101T000000</releasedate>
 	</game>
 	<game>
-		<path>./Cross Wiber - Cyber Combat Police (Japan).zip</path>
-		<name>크로스 위버 - 컴뱃 폴리스</name>
-		<image>./snap/Cross Wiber - Cyber Combat Police (Japan).png</image>
-		<video>./video/Cross Wiber - Cyber Combat Police (Japan).mp4</video>
-		<marquee>./marquee/Cross Wiber - Cyber Combat Police (Japan).png</marquee>
-		<developer>참근도</developer>
-		<publisher>페이스</publisher>
-		<genre/>
-		<players>1</players>
-		<releasedate>19901221T000000</releasedate>
-	</game>
-	<game>
 		<path>./Cyber Core (Japan).zip</path>
 		<name>사이버 코어 (일본판)</name>
 		<image>./snap/Cyber Core (Japan).png</image>
 		<video>./video/Cyber Core (USA).mp4</video>
 		<marquee>./marquee/Cyber Core (Japan).png</marquee>
-		<developer>알파 시스템</developer>
-		<publisher>NEC</publisher>
-		<genre/>
-		<players>1</players>
-		<releasedate>19900309T000000</releasedate>
-	</game>
-	<game>
-		<path>./Cyber Core (USA).zip</path>
-		<name>사이버 코어</name>
-		<image>./snap/Cyber Core (USA).png</image>
-		<video>./video/Cyber Core (USA).mp4</video>
-		<marquee>./marquee/Cyber Core (USA).png</marquee>
 		<developer>알파 시스템</developer>
 		<publisher>NEC</publisher>
 		<genre/>
@@ -853,6 +1079,18 @@
 		<releasedate>19920131T000000</releasedate>
 	</game>
 	<game>
+		<path>./Cyber Core (USA).zip</path>
+		<name>사이버 코어</name>
+		<image>./snap/Cyber Core (USA).png</image>
+		<video>./video/Cyber Core (USA).mp4</video>
+		<marquee>./marquee/Cyber Core (USA).png</marquee>
+		<developer>알파 시스템</developer>
+		<publisher>NEC</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>19900309T000000</releasedate>
+	</game>
+	<game>
 		<path>./Cyber Knight (Japan).zip</path>
 		<name>사이버 나이트</name>
 		<image>./snap/Cyber Knight (Japan).png</image>
@@ -865,18 +1103,6 @@
 		<releasedate>19901012T000000</releasedate>
 	</game>
 	<game>
-		<path>./Daichi-kun Crisis - Do Natural (Japan).zip</path>
-		<name>대지의 대위기 - 자연으로</name>
-		<image>./snap/Daichi-kun Crisis - Do Natural (Japan).png</image>
-		<video>./video/Daichi-kun Crisis - Do Natural (Japan).mp4</video>
-		<marquee>./marquee/Daichi-kun Crisis - Do Natural (Japan).png</marquee>
-		<developer>살리오</developer>
-		<publisher>살리오</publisher>
-		<genre/>
-		<players>1</players>
-		<releasedate>19891122T000000</releasedate>
-	</game>
-	<game>
 		<path>./Daisenpuu (Japan).zip</path>
 		<name>대선풍</name>
 		<image>./snap/Daisenpuu (Japan).png</image>
@@ -887,6 +1113,18 @@
 		<genre/>
 		<players>2</players>
 		<releasedate>19901214T000000</releasedate>
+	</game>
+	<game>
+		<path>./Daichi-kun Crisis - Do Natural (Japan).zip</path>
+		<name>대지의 대위기 - 자연으로</name>
+		<image>./snap/Daichi-kun Crisis - Do Natural (Japan).png</image>
+		<video>./video/Daichi-kun Crisis - Do Natural (Japan).mp4</video>
+		<marquee>./marquee/Daichi-kun Crisis - Do Natural (Japan).png</marquee>
+		<developer>살리오</developer>
+		<publisher>살리오</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>19891122T000000</releasedate>
 	</game>
 	<game>
 		<path>./Darius Alpha (Japan) (SG Enhanced).zip</path>
@@ -913,6 +1151,30 @@
 		<releasedate>19900921T000000</releasedate>
 	</game>
 	<game>
+		<path>./Darius Alpha (World) (SG Enhanced) (Darius Cozmic Collection).zip</path>
+		<name>다리우스 알파 (세계판)</name>
+		<image>./snap/Darius Alpha (World) (SG Enhanced) (Darius Cozmic Collection).png</image>
+		<video>./video/Darius Alpha (Japan) (SG Enhanced).mp4</video>
+		<marquee>./marquee/Darius Alpha (World) (SG Enhanced) (Darius Cozmic Collection).png</marquee>
+		<developer>비츠 랩</developer>
+		<publisher>NEC 인터채널</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>19900101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Dead Moon (USA).zip</path>
+		<name>데드문 - 달세계의 악몽</name>
+		<image>./snap/Dead Moon (USA).png</image>
+		<video>./video/Dead Moon (USA).mp4</video>
+		<marquee>./marquee/Dead Moon (USA).png</marquee>
+		<developer>스튜디오 덕스</developer>
+		<publisher>나츠메</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>19920101T000000</releasedate>
+	</game>
+	<game>
 		<path>./Darkwing Duck (USA).zip</path>
 		<name>다크윙 덕</name>
 		<image>./snap/Darkwing Duck (USA).png</image>
@@ -935,18 +1197,6 @@
 		<genre/>
 		<players/>
 		<releasedate>19910101T000000</releasedate>
-	</game>
-	<game>
-		<path>./Dead Moon (USA).zip</path>
-		<name>데드문 - 달세계의 악몽</name>
-		<image>./snap/Dead Moon (USA).png</image>
-		<video>./video/Dead Moon (USA).mp4</video>
-		<marquee>./marquee/Dead Moon (USA).png</marquee>
-		<developer>스튜디오 덕스</developer>
-		<publisher>나츠메</publisher>
-		<genre/>
-		<players>1</players>
-		<releasedate>19920101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Dead Moon - Getsu Sekai no Akumu (Japan).zip</path>
@@ -997,6 +1247,18 @@
 		<releasedate>19920228T000000</releasedate>
 	</game>
 	<game>
+		<path>./Devil Crash - Naxat Pinball (Japan) (Wii U Virtual Console).zip</path>
+		<name>데빌 크래쉬 (일본판)(Wii U 버추얼 콘솔)</name>
+		<image>./snap/Devil Crash - Naxat Pinball (Japan) (Wii U Virtual Console).png</image>
+		<video>./video/Devil's Crush (USA).mp4</video>
+		<marquee>./marquee/Devil Crash - Naxat Pinball (Japan) (Wii U Virtual Console).png</marquee>
+		<developer>컴파일</developer>
+		<publisher>NEC</publisher>
+		<genre/>
+		<players>2</players>
+		<releasedate>19900720T000000</releasedate>
+	</game>
+	<game>
 		<path>./Devil Crash - Naxat Pinball (Japan).zip</path>
 		<name>데빌 크래쉬 (일본판)</name>
 		<image>./snap/Devil Crash - Naxat Pinball (Japan).png</image>
@@ -1021,16 +1283,16 @@
 		<releasedate>19900101T000000</releasedate>
 	</game>
 	<game>
-		<path>./Die Hard (Japan).zip</path>
-		<name>다이하드</name>
-		<image>./snap/Die Hard (Japan).png</image>
-		<video>./video/Die Hard (Japan).mp4</video>
-		<marquee>./marquee/Die Hard (Japan).png</marquee>
-		<developer>팩인 비디오</developer>
-		<publisher>NEC 인터채널</publisher>
+		<path>./Devil's Crush (USA, Europe) (Wii U Virtual Console).zip</path>
+		<name>데빌 크러시 (미국,유럽판)(Wii U 버추얼 콘솔)</name>
+		<image>./snap/Devil's Crush (USA, Europe) (Wii U Virtual Console).png</image>
+		<video>./video/Devil's Crush (USA).mp4</video>
+		<marquee>./marquee/Devil's Crush (USA, Europe) (Wii U Virtual Console).png</marquee>
+		<developer>컴파일</developer>
+		<publisher>NEC</publisher>
 		<genre/>
-		<players>1</players>
-		<releasedate>19900928T000000</releasedate>
+		<players>2</players>
+		<releasedate>19900101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Digital Champ (Japan).zip</path>
@@ -1045,16 +1307,16 @@
 		<releasedate>19891013T000000</releasedate>
 	</game>
 	<game>
-		<path>./Don Doko Don! (Japan).zip</path>
-		<name>돈 도코 돈</name>
-		<image>./snap/Don Doko Don! (Japan).png</image>
-		<video>./video/Don Doko Don! (Japan).mp4</video>
-		<marquee>./marquee/Don Doko Don! (Japan).png</marquee>
-		<developer>타이토</developer>
-		<publisher>타이토</publisher>
+		<path>./Die Hard (Japan).zip</path>
+		<name>다이하드</name>
+		<image>./snap/Die Hard (Japan).png</image>
+		<video>./video/Die Hard (Japan).mp4</video>
+		<marquee>./marquee/Die Hard (Japan).png</marquee>
+		<developer>팩인 비디오</developer>
+		<publisher>NEC 인터채널</publisher>
 		<genre/>
-		<players>2</players>
-		<releasedate>19900531T000000</releasedate>
+		<players>1</players>
+		<releasedate>19900928T000000</releasedate>
 	</game>
 	<game>
 		<path>./Doraemon - Meikyuu Daisakusen (Japan).zip</path>
@@ -1081,6 +1343,18 @@
 		<releasedate>19911206T000000</releasedate>
 	</game>
 	<game>
+		<path>./Don Doko Don! (Japan).zip</path>
+		<name>돈 도코 돈</name>
+		<image>./snap/Don Doko Don! (Japan).png</image>
+		<video>./video/Don Doko Don! (Japan).mp4</video>
+		<marquee>./marquee/Don Doko Don! (Japan).png</marquee>
+		<developer>타이토</developer>
+		<publisher>타이토</publisher>
+		<genre/>
+		<players>2</players>
+		<releasedate>19900531T000000</releasedate>
+	</game>
+	<game>
 		<path>./Double Dungeons (Japan).zip</path>
 		<name>더블 던젼스 (일본판)</name>
 		<image>./snap/Double Dungeons (Japan).png</image>
@@ -1098,6 +1372,30 @@
 		<image>./snap/Double Dungeons (USA).png</image>
 		<video>./video/Double Dungeons (USA).mp4</video>
 		<marquee>./marquee/Double Dungeons (USA).png</marquee>
+		<developer>NCS</developer>
+		<publisher>마사야</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>19890929T000000</releasedate>
+	</game>
+	<game>
+		<path>./Double Dungeons (Japan) (Wii U Virtual Console).zip</path>
+		<name>더블 던젼스 (일본판)(Wii U 버추얼 콘솔)</name>
+		<image>./snap/Double Dungeons (Japan) (Wii U Virtual Console).png</image>
+		<video>./video/Double Dungeons (USA).mp4</video>
+		<marquee>./marquee/Double Dungeons (Japan) (Wii U Virtual Console).png</marquee>
+		<developer>NCS</developer>
+		<publisher>마사야</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>19890929T000000</releasedate>
+	</game>
+	<game>
+		<path>./Double Dungeons (USA, Europe) (Wii U Virtual Console).zip</path>
+		<name>더블 던젼스 (미국,유럽판)(Wii U 버추얼 콘솔)</name>
+		<image>./snap/Double Dungeons (USA, Europe) (Wii U Virtual Console).png</image>
+		<video>./video/Double Dungeons (USA).mp4</video>
+		<marquee>./marquee/Double Dungeons (USA, Europe) (Wii U Virtual Console).png</marquee>
 		<developer>NCS</developer>
 		<publisher>마사야</publisher>
 		<genre/>
@@ -1213,18 +1511,6 @@
 		<releasedate>19890304T000000</releasedate>
 	</game>
 	<game>
-		<path>./Dungeon Explorer (USA).zip</path>
-		<name>던전 익스플로러</name>
-		<image>./snap/Dungeon Explorer (USA).png</image>
-		<video>./video/Dungeon Explorer (USA).mp4</video>
-		<marquee>./marquee/Dungeon Explorer (USA).png</marquee>
-		<developer>아틀러스</developer>
-		<publisher>NEC</publisher>
-		<genre/>
-		<players>5</players>
-		<releasedate>19890304T000000</releasedate>
-	</game>
-	<game>
 		<path>./Dungeons &amp; Dragons - Order of the Griffon (USA).zip</path>
 		<name>던전 앤 드래곤 - 오더 오브 그리폰</name>
 		<image>./snap/Dungeons &amp; Dragons - Order of the Griffon (USA).png</image>
@@ -1235,6 +1521,18 @@
 		<genre/>
 		<players/>
 		<releasedate/>
+	</game>
+	<game>
+		<path>./Dungeon Explorer (USA).zip</path>
+		<name>던전 익스플로러</name>
+		<image>./snap/Dungeon Explorer (USA).png</image>
+		<video>./video/Dungeon Explorer (USA).mp4</video>
+		<marquee>./marquee/Dungeon Explorer (USA).png</marquee>
+		<developer>아틀러스</developer>
+		<publisher>NEC</publisher>
+		<genre/>
+		<players>5</players>
+		<releasedate>19890304T000000</releasedate>
 	</game>
 	<game>
 		<path>./Energy (Japan).zip</path>
@@ -1321,18 +1619,6 @@
 		<releasedate>19900914T000000</releasedate>
 	</game>
 	<game>
-		<path>./F1 Triple Battle (Japan).zip</path>
-		<name>F1 트리플 배틀</name>
-		<image>./snap/F1 Triple Battle (Japan).png</image>
-		<video>./video/F1 Triple Battle (Japan).mp4</video>
-		<marquee>./marquee/F1 Triple Battle (Japan).png</marquee>
-		<developer>휴먼</developer>
-		<publisher>휴먼</publisher>
-		<genre/>
-		<players>3</players>
-		<releasedate>19891227T000000</releasedate>
-	</game>
-	<game>
 		<path>./Falcon (USA).zip</path>
 		<name>팔콘</name>
 		<image>./snap/Falcon (USA).png</image>
@@ -1343,6 +1629,18 @@
 		<genre/>
 		<players/>
 		<releasedate>19920101T000000</releasedate>
+	</game>
+	<game>
+		<path>./F1 Triple Battle (Japan).zip</path>
+		<name>F1 트리플 배틀</name>
+		<image>./snap/F1 Triple Battle (Japan).png</image>
+		<video>./video/F1 Triple Battle (Japan).mp4</video>
+		<marquee>./marquee/F1 Triple Battle (Japan).png</marquee>
+		<developer>휴먼</developer>
+		<publisher>휴먼</publisher>
+		<genre/>
+		<players>3</players>
+		<releasedate>19891227T000000</releasedate>
 	</game>
 	<game>
 		<path>./Fantasy Zone (Japan).zip</path>
@@ -1434,6 +1732,18 @@
 		<image>./snap/Final Soldier (Japan) (En).png</image>
 		<video>./video/Final Soldier (Japan) (En).mp4</video>
 		<marquee>./marquee/Final Soldier (Japan) (En).png</marquee>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>19910705T000000</releasedate>
+	</game>
+	<game>
+		<path>./Final Soldier (World) (Wii U Virtual Console).zip</path>
+		<name>파이널 솔져 (세계판)(Wii U 버추얼 콘솔)</name>
+		<image>./snap/Final Soldier (World) (Wii U Virtual Console).png</image>
+		<video>./video/Final Soldier (Japan) (En).mp4</video>
+		<marquee>./marquee/Final Soldier (World) (Wii U Virtual Console).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
 		<genre/>
@@ -1561,16 +1871,16 @@
 		<releasedate>19880715T000000</releasedate>
 	</game>
 	<game>
-		<path>./Galaga '90 (USA).zip</path>
-		<name>갤러그 90</name>
-		<image>./snap/Galaga '90 (USA).png</image>
-		<video>./video/Galaga '90 (USA).mp4</video>
-		<marquee>./marquee/Galaga '90 (USA).png</marquee>
-		<developer>남코</developer>
-		<publisher>NEC</publisher>
+		<path>./Gai Flame (Japan) (Wii U Virtual Console).zip</path>
+		<name>가이 프레임 (일본판)(Wii U 버추얼 콘솔)</name>
+		<image>./snap/Gai Flame (Japan) (Wii U Virtual Console).png</image>
+		<video>./video/Gai Flame (Japan).mp4</video>
+		<marquee>./marquee/Gai Flame (Japan) (Wii U Virtual Console).png</marquee>
+		<developer>마사야</developer>
+		<publisher/>
 		<genre/>
 		<players>1</players>
-		<releasedate>19890101T000000</releasedate>
+		<releasedate>19900126T000000</releasedate>
 	</game>
 	<game>
 		<path>./Ganbare! Golf Boys (Japan).zip</path>
@@ -1583,6 +1893,18 @@
 		<genre/>
 		<players>4</players>
 		<releasedate>19890328T000000</releasedate>
+	</game>
+	<game>
+		<path>./Galaga '90 (USA).zip</path>
+		<name>갤러그 90</name>
+		<image>./snap/Galaga '90 (USA).png</image>
+		<video>./video/Galaga '90 (USA).mp4</video>
+		<marquee>./marquee/Galaga '90 (USA).png</marquee>
+		<developer>남코</developer>
+		<publisher>NEC</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>19890101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Gekisha Boy (Japan).zip</path>
@@ -1681,6 +2003,18 @@
 		<releasedate>19911115T000000</releasedate>
 	</game>
 	<game>
+		<path>./Gradius (World) (Wii U Virtual Console).zip</path>
+		<name>그라디우스 (세계판)(Wii U 버추얼 콘솔)</name>
+		<image>./snap/Gradius (World) (Wii U Virtual Console).png</image>
+		<video>./video/Gradius (Japan).mp4</video>
+		<marquee>./marquee/Gradius (World) (Wii U Virtual Console).png</marquee>
+		<developer>코나미</developer>
+		<publisher>코나미</publisher>
+		<genre/>
+		<players>2</players>
+		<releasedate>19911115T000000</releasedate>
+	</game>
+	<game>
 		<path>./Gunboat (USA).zip</path>
 		<name>건보트</name>
 		<image>./snap/Gunboat (USA).png</image>
@@ -1729,18 +2063,6 @@
 		<releasedate>19910809T000000</releasedate>
 	</game>
 	<game>
-		<path>./Hanii in the Sky (Japan).zip</path>
-		<name>하나이 인더 스카이</name>
-		<image>./snap/Hanii in the Sky (Japan).png</image>
-		<video>./video/Hanii in the Sky (Japan).mp4</video>
-		<marquee>./marquee/Hanii in the Sky (Japan).png</marquee>
-		<developer>페이스</developer>
-		<publisher>페이스</publisher>
-		<genre/>
-		<players>1</players>
-		<releasedate>19890301T000000</releasedate>
-	</game>
-	<game>
 		<path>./Hanii on the Road (Japan).zip</path>
 		<name>하나이 온더 로드</name>
 		<image>./snap/Hanii on the Road (Japan).png</image>
@@ -1751,6 +2073,18 @@
 		<genre/>
 		<players>2</players>
 		<releasedate>19900914T000000</releasedate>
+	</game>
+	<game>
+		<path>./Hanii in the Sky (Japan).zip</path>
+		<name>하나이 인더 스카이</name>
+		<image>./snap/Hanii in the Sky (Japan).png</image>
+		<video>./video/Hanii in the Sky (Japan).mp4</video>
+		<marquee>./marquee/Hanii in the Sky (Japan).png</marquee>
+		<developer>페이스</developer>
+		<publisher>페이스</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>19890301T000000</releasedate>
 	</game>
 	<game>
 		<path>./Hatris (Japan).zip</path>
@@ -1777,11 +2111,11 @@
 		<releasedate>19891222T000000</releasedate>
 	</game>
 	<game>
-		<path>./Hisou Kihei X-Serd (Japan).zip</path>
+		<path>./Hisou Kihei X-SERD (Japan).zip</path>
 		<name>비장기병 가이자드</name>
-		<image>./snap/Hisou Kihei X-Serd (Japan).png</image>
-		<video>./video/Hisou Kihei X-Serd (Japan).mp4</video>
-		<marquee>./marquee/Hisou Kihei X-Serd (Japan).png</marquee>
+		<image>./snap/Hisou Kihei X-SERD (Japan).png</image>
+		<video>./video/Hisou Kihei X-SERD (Japan).mp4</video>
+		<marquee>./marquee/Hisou Kihei X-SERD (Japan).png</marquee>
 		<developer>NCS</developer>
 		<publisher>NCS</publisher>
 		<genre/>
@@ -1801,18 +2135,6 @@
 		<releasedate>19910920T000000</releasedate>
 	</game>
 	<game>
-		<path>./Hit the Ice - VHL - The Video Hockey League (Japan).zip</path>
-		<name>히트 더 아이스 - 비디오 하키 리그 (일본판)</name>
-		<image>./snap/Hit the Ice - VHL - The Video Hockey League (Japan).png</image>
-		<video>./video/Hit the Ice - VHL - The Official Video Hockey League (USA).mp4</video>
-		<marquee>./marquee/Hit the Ice - VHL - The Video Hockey League (Japan).png</marquee>
-		<developer>타이토</developer>
-		<publisher>타이토</publisher>
-		<genre/>
-		<players>2</players>
-		<releasedate>19920101T000000</releasedate>
-	</game>
-	<game>
 		<path>./Honoo no Toukyuuji - Dodge Danpei (Japan).zip</path>
 		<name>피구왕 통키</name>
 		<image>./snap/Honoo no Toukyuuji - Dodge Danpei (Japan).png</image>
@@ -1823,6 +2145,18 @@
 		<genre/>
 		<players/>
 		<releasedate>19920925T000000</releasedate>
+	</game>
+	<game>
+		<path>./Hit the Ice - VHL - The Video Hockey League (Japan).zip</path>
+		<name>히트 더 아이스 - 비디오 하키 리그 (일본판)</name>
+		<image>./snap/Hit the Ice - VHL - The Video Hockey League (Japan).png</image>
+		<video>./video/Hit the Ice - VHL - The Official Video Hockey League (USA).mp4</video>
+		<marquee>./marquee/Hit the Ice - VHL - The Video Hockey League (Japan).png</marquee>
+		<developer>타이토</developer>
+		<publisher>타이토</publisher>
+		<genre/>
+		<players>2</players>
+		<releasedate>19920101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Idol Hanafuda Fan Club (Japan) (Unl).zip</path>
@@ -1873,18 +2207,6 @@
 		<releasedate>19900101T000000</releasedate>
 	</game>
 	<game>
-		<path>./J.League Greatest Eleven (Japan).zip</path>
-		<name>J리그 그레이티스트 일레븐</name>
-		<image>./snap/J.League Greatest Eleven (Japan).png</image>
-		<video>./video/J.League Greatest Eleven (Japan).mp4</video>
-		<marquee>./marquee/J.League Greatest Eleven (Japan).png</marquee>
-		<developer>크림</developer>
-		<publisher>일본물산</publisher>
-		<genre/>
-		<players/>
-		<releasedate>19930514T000000</releasedate>
-	</game>
-	<game>
 		<path>./Jack Nicklaus - Championship Golf (Japan).zip</path>
 		<name>잭 니클라우스 - 챔피언십 골프 (일본판)</name>
 		<image>./snap/Jack Nicklaus - Championship Golf (Japan).png</image>
@@ -1897,16 +2219,16 @@
 		<releasedate>19891124T000000</releasedate>
 	</game>
 	<game>
-		<path>./Jack Nicklaus' Turbo Golf (USA).zip</path>
-		<name>잭 니클라우스 - 터보 골프</name>
-		<image>./snap/Jack Nicklaus' Turbo Golf (USA).png</image>
-		<video>./video/Jack Nicklaus' Turbo Golf (USA).mp4</video>
-		<marquee>./marquee/Jack Nicklaus' Turbo Golf (USA).png</marquee>
-		<developer/>
-		<publisher/>
+		<path>./J.League Greatest Eleven (Japan).zip</path>
+		<name>J리그 그레이티스트 일레븐</name>
+		<image>./snap/J.League Greatest Eleven (Japan).png</image>
+		<video>./video/J.League Greatest Eleven (Japan).mp4</video>
+		<marquee>./marquee/J.League Greatest Eleven (Japan).png</marquee>
+		<developer>크림</developer>
+		<publisher>일본물산</publisher>
 		<genre/>
-		<players>4</players>
-		<releasedate>19900101T000000</releasedate>
+		<players/>
+		<releasedate>19930514T000000</releasedate>
 	</game>
 	<game>
 		<path>./Jackie Chan (Japan).zip</path>
@@ -1933,16 +2255,16 @@
 		<releasedate>19920101T000000</releasedate>
 	</game>
 	<game>
-		<path>./Jaseiken Necromancer (Japan) (Virtual Console).zip</path>
-		<name>사사성검 네크로맨서 (일본판)(버추얼 콘솔)</name>
-		<image>./snap/Jaseiken Necromancer (Japan) (Virtual Console).png</image>
-		<video>./video/Jaseiken Necromancer (Japan).mp4</video>
-		<marquee>./marquee/Jaseiken Necromancer (Japan) (Virtual Console).png</marquee>
-		<developer>허드슨</developer>
-		<publisher>허드슨</publisher>
+		<path>./Jack Nicklaus' Turbo Golf (USA).zip</path>
+		<name>잭 니클라우스 - 터보 골프</name>
+		<image>./snap/Jack Nicklaus' Turbo Golf (USA).png</image>
+		<video>./video/Jack Nicklaus' Turbo Golf (USA).mp4</video>
+		<marquee>./marquee/Jack Nicklaus' Turbo Golf (USA).png</marquee>
+		<developer/>
+		<publisher/>
 		<genre/>
-		<players>1</players>
-		<releasedate>19880122T000000</releasedate>
+		<players>4</players>
+		<releasedate>19900101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Jaseiken Necromancer (Japan).zip</path>
@@ -1950,6 +2272,30 @@
 		<image>./snap/Jaseiken Necromancer (Japan).png</image>
 		<video>./video/Jaseiken Necromancer (Japan).mp4</video>
 		<marquee>./marquee/Jaseiken Necromancer (Japan).png</marquee>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>19880122T000000</releasedate>
+	</game>
+	<game>
+		<path>./Jaseiken Necromancer (Japan) (Wii Virtual Console).zip</path>
+		<name>사사성검 네크로맨서 (일본판)(Wii 버추얼 콘솔)</name>
+		<image>./snap/Jaseiken Necromancer (Japan) (Wii Virtual Console).png</image>
+		<video>./video/Jaseiken Necromancer (Japan).mp4</video>
+		<marquee>./marquee/Jaseiken Necromancer (Japan) (Wii Virtual Console).png</marquee>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>19880122T000000</releasedate>
+	</game>
+	<game>
+		<path>./Jaseiken Necromancer (World) (Wii U Virtual Console).zip</path>
+		<name>사사성검 네크로맨서 (세계판)(Wii U 버추얼 콘솔)</name>
+		<image>./snap/Jaseiken Necromancer (World) (Wii U Virtual Console).png</image>
+		<video>./video/Jaseiken Necromancer (Japan).mp4</video>
+		<marquee>./marquee/Jaseiken Necromancer (World) (Wii U Virtual Console).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
 		<genre/>
@@ -2041,18 +2387,6 @@
 		<releasedate>19901109T000000</releasedate>
 	</game>
 	<game>
-		<path>./Keith Courage in Alpha Zones (USA).zip</path>
-		<name>마신 영웅전 와타루</name>
-		<image>./snap/Keith Courage in Alpha Zones (USA).png</image>
-		<video>./video/Keith Courage in Alpha Zones (USA).mp4</video>
-		<marquee>./marquee/Keith Courage in Alpha Zones (USA).png</marquee>
-		<developer>허드슨</developer>
-		<publisher>NEC</publisher>
-		<genre/>
-		<players>1</players>
-		<releasedate>19890101T000000</releasedate>
-	</game>
-	<game>
 		<path>./KickBall (Japan).zip</path>
 		<name>킥볼</name>
 		<image>./snap/KickBall (Japan).png</image>
@@ -2063,6 +2397,18 @@
 		<genre/>
 		<players/>
 		<releasedate>19901124T000000</releasedate>
+	</game>
+	<game>
+		<path>./Keith Courage in Alpha Zones (USA).zip</path>
+		<name>마신 영웅전 와타루</name>
+		<image>./snap/Keith Courage in Alpha Zones (USA).png</image>
+		<video>./video/Keith Courage in Alpha Zones (USA).mp4</video>
+		<marquee>./marquee/Keith Courage in Alpha Zones (USA).png</marquee>
+		<developer>허드슨</developer>
+		<publisher>NEC</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>19890101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Kiki Kaikai (Japan).zip</path>
@@ -2161,11 +2507,11 @@
 		<releasedate>19900629T000000</releasedate>
 	</game>
 	<game>
-		<path>./Kung Fu, The (Japan) (Virtual Console).zip</path>
-		<name>쿵후 (일본판)(버추얼 콘솔)</name>
-		<image>./snap/Kung Fu, The (Japan) (Virtual Console).png</image>
+		<path>./Kung Fu, The (Japan).zip</path>
+		<name>쿵후 (일본판)</name>
+		<image>./snap/Kung Fu, The (Japan).png</image>
 		<video>./video/China Warrior (USA).mp4</video>
-		<marquee>./marquee/Kung Fu, The (Japan) (Virtual Console).png</marquee>
+		<marquee>./marquee/Kung Fu, The (Japan).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>NEC</publisher>
 		<genre/>
@@ -2173,11 +2519,11 @@
 		<releasedate>19871121T000000</releasedate>
 	</game>
 	<game>
-		<path>./Kung Fu, The (Japan).zip</path>
-		<name>쿵후 (일본판)</name>
-		<image>./snap/Kung Fu, The (Japan).png</image>
+		<path>./Kung Fu, The (Japan) (Wii Virtual Console).zip</path>
+		<name>쿵후 (일본판)(Wii 버추얼 콘솔)</name>
+		<image>./snap/Kung Fu, The (Japan) (Wii Virtual Console).png</image>
 		<video>./video/China Warrior (USA).mp4</video>
-		<marquee>./marquee/Kung Fu, The (Japan).png</marquee>
+		<marquee>./marquee/Kung Fu, The (Japan) (Wii Virtual Console).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>NEC</publisher>
 		<genre/>
@@ -2221,16 +2567,16 @@
 		<releasedate>19890331T000000</releasedate>
 	</game>
 	<game>
-		<path>./Lady Sword - Ryakudatsu Sareta 10-nin no Otome (Japan) (Unl).zip</path>
-		<name>레이디 소드</name>
-		<image>./snap/Lady Sword - Ryakudatsu Sareta 10-nin no Otome (Japan) (Unl).png</image>
-		<video>./video/Lady Sword - Ryakudatsu Sareta 10-nin no Otome (Japan) (Unl).mp4</video>
-		<marquee>./marquee/Lady Sword - Ryakudatsu Sareta 10-nin no Otome (Japan) (Unl).png</marquee>
-		<developer>해커 인터네셔널</developer>
-		<publisher>게임익스프레스</publisher>
+		<path>./Legendary Axe II (USA).zip</path>
+		<name>암흑전설</name>
+		<image>./snap/Legendary Axe II (USA).png</image>
+		<video>./video/Legendary Axe II (USA).mp4</video>
+		<marquee>./marquee/Legendary Axe II (USA).png</marquee>
+		<developer>아틀러스</developer>
+		<publisher>NEC</publisher>
 		<genre/>
 		<players>1</players>
-		<releasedate>19920101T000000</releasedate>
+		<releasedate>19900101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Legend of Hero Tonma (Japan).zip</path>
@@ -2245,6 +2591,18 @@
 		<releasedate>19910313T000000</releasedate>
 	</game>
 	<game>
+		<path>./Lady Sword - Ryakudatsu Sareta 10-nin no Otome (Japan) (Unl).zip</path>
+		<name>레이디 소드</name>
+		<image>./snap/Lady Sword - Ryakudatsu Sareta 10-nin no Otome (Japan) (Unl).png</image>
+		<video>./video/Lady Sword - Ryakudatsu Sareta 10-nin no Otome (Japan) (Unl).mp4</video>
+		<marquee>./marquee/Lady Sword - Ryakudatsu Sareta 10-nin no Otome (Japan) (Unl).png</marquee>
+		<developer>해커 인터네셔널</developer>
+		<publisher>게임익스프레스</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>19920101T000000</releasedate>
+	</game>
+	<game>
 		<path>./Legend of Hero Tonma (USA).zip</path>
 		<name>영웅 톤마의 전설</name>
 		<image>./snap/Legend of Hero Tonma (USA).png</image>
@@ -2255,18 +2613,6 @@
 		<genre/>
 		<players>2</players>
 		<releasedate>19910313T000000</releasedate>
-	</game>
-	<game>
-		<path>./Legendary Axe II (USA).zip</path>
-		<name>암흑전설</name>
-		<image>./snap/Legendary Axe II (USA).png</image>
-		<video>./video/Legendary Axe II (USA).mp4</video>
-		<marquee>./marquee/Legendary Axe II (USA).png</marquee>
-		<developer>아틀러스</developer>
-		<publisher>NEC</publisher>
-		<genre/>
-		<players>1</players>
-		<releasedate>19900101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Legendary Axe, The (USA).zip</path>
@@ -2293,18 +2639,6 @@
 		<releasedate>19900727T000000</releasedate>
 	</game>
 	<game>
-		<path>./Maerchen Maze (Japan).zip</path>
-		<name>메르헨 메이즈 - 동화미로</name>
-		<image>./snap/Maerchen Maze (Japan).png</image>
-		<video>./video/Maerchen Maze (Japan).mp4</video>
-		<marquee>./marquee/Maerchen Maze (Japan).png</marquee>
-		<developer/>
-		<publisher/>
-		<genre/>
-		<players>1</players>
-		<releasedate>19901211T000000</releasedate>
-	</game>
-	<game>
 		<path>./Magical Chase (Japan).zip</path>
 		<name>매지컬 체이스 (일본판)</name>
 		<image>./snap/Magical Chase (Japan).png</image>
@@ -2317,16 +2651,16 @@
 		<releasedate>19911115T000000</releasedate>
 	</game>
 	<game>
-		<path>./Magical Chase (USA).zip</path>
-		<name>매지컬 체이스</name>
-		<image>./snap/Magical Chase (USA).png</image>
-		<video>./video/Magical Chase (USA).mp4</video>
-		<marquee>./marquee/Magical Chase (USA).png</marquee>
-		<developer>퀘스트</developer>
-		<publisher>NEC</publisher>
+		<path>./Mahjong Gakuen Mild - Touma Soushirou Toujou (Japan).zip</path>
+		<name>마작학원 MILD - 아즈마종시로 등장</name>
+		<image>./snap/Mahjong Gakuen Mild - Touma Soushirou Toujou (Japan).png</image>
+		<video>./video/Mahjong Gakuen Mild - Touma Soushirou Toujou (Japan).mp4</video>
+		<marquee>./marquee/Mahjong Gakuen Mild - Touma Soushirou Toujou (Japan).png</marquee>
+		<developer>참근도</developer>
+		<publisher>페이스</publisher>
 		<genre/>
 		<players>1</players>
-		<releasedate>19911115T000000</releasedate>
+		<releasedate>19900629T000000</releasedate>
 	</game>
 	<game>
 		<path>./Mahjong Gakuen - Touma Soushirou Toujou (Japan).zip</path>
@@ -2341,16 +2675,28 @@
 		<releasedate>19891124T000000</releasedate>
 	</game>
 	<game>
-		<path>./Mahjong Gakuen Mild - Touma Soushirou Toujou (Japan).zip</path>
-		<name>마작학원 MILD - 아즈마종시로 등장</name>
-		<image>./snap/Mahjong Gakuen Mild - Touma Soushirou Toujou (Japan).png</image>
-		<video>./video/Mahjong Gakuen Mild - Touma Soushirou Toujou (Japan).mp4</video>
-		<marquee>./marquee/Mahjong Gakuen Mild - Touma Soushirou Toujou (Japan).png</marquee>
-		<developer>참근도</developer>
-		<publisher>페이스</publisher>
+		<path>./Maerchen Maze (Japan).zip</path>
+		<name>메르헨 메이즈 - 동화미로</name>
+		<image>./snap/Maerchen Maze (Japan).png</image>
+		<video>./video/Maerchen Maze (Japan).mp4</video>
+		<marquee>./marquee/Maerchen Maze (Japan).png</marquee>
+		<developer/>
+		<publisher/>
 		<genre/>
 		<players>1</players>
-		<releasedate>19900629T000000</releasedate>
+		<releasedate>19901211T000000</releasedate>
+	</game>
+	<game>
+		<path>./Magical Chase (USA).zip</path>
+		<name>매지컬 체이스</name>
+		<image>./snap/Magical Chase (USA).png</image>
+		<video>./video/Magical Chase (USA).mp4</video>
+		<marquee>./marquee/Magical Chase (USA).png</marquee>
+		<developer>퀘스트</developer>
+		<publisher>NEC</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>19911115T000000</releasedate>
 	</game>
 	<game>
 		<path>./Mahjong Gokuu Special (Japan).zip</path>
@@ -2473,18 +2819,6 @@
 		<releasedate>19911004T000000</releasedate>
 	</game>
 	<game>
-		<path>./Metal Stoker (Japan).zip</path>
-		<name>메탈 스토커</name>
-		<image>./snap/Metal Stoker (Japan).png</image>
-		<video>./video/Metal Stoker (Japan).mp4</video>
-		<marquee>./marquee/Metal Stoker (Japan).png</marquee>
-		<developer>참근도</developer>
-		<publisher>페이스</publisher>
-		<genre/>
-		<players>1</players>
-		<releasedate>19910712T000000</releasedate>
-	</game>
-	<game>
 		<path>./Military Madness (USA).zip</path>
 		<name>밀리터리 매드니스</name>
 		<image>./snap/Military Madness (USA).png</image>
@@ -2507,6 +2841,18 @@
 		<genre/>
 		<players/>
 		<releasedate/>
+	</game>
+	<game>
+		<path>./Metal Stoker (Japan).zip</path>
+		<name>메탈 스토커</name>
+		<image>./snap/Metal Stoker (Japan).png</image>
+		<video>./video/Metal Stoker (Japan).mp4</video>
+		<marquee>./marquee/Metal Stoker (Japan).png</marquee>
+		<developer>참근도</developer>
+		<publisher>페이스</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>19910712T000000</releasedate>
 	</game>
 	<game>
 		<path>./Momotarou Densetsu Gaiden - Dai-1-shuu (Japan).zip</path>
@@ -2617,18 +2963,6 @@
 		<releasedate>19910329T000000</releasedate>
 	</game>
 	<game>
-		<path>./Mr. Heli no Daibouken (Japan).zip</path>
-		<name>미스터 헬리의 대모험</name>
-		<image>./snap/Mr. Heli no Daibouken (Japan).png</image>
-		<video>./video/Mr. Heli no Daibouken (Japan).mp4</video>
-		<marquee>./marquee/Mr. Heli no Daibouken (Japan).png</marquee>
-		<developer>아이렘</developer>
-		<publisher>아이렘</publisher>
-		<genre/>
-		<players>1</players>
-		<releasedate>19891201T000000</releasedate>
-	</game>
-	<game>
 		<path>./Narazumono Sentou Butai - Bloody Wolf (Japan).zip</path>
 		<name>깡패 전투부대 블러디 울프 (일본판)</name>
 		<image>./snap/Narazumono Sentou Butai - Bloody Wolf (Japan).png</image>
@@ -2713,6 +3047,18 @@
 		<releasedate>19900330T000000</releasedate>
 	</game>
 	<game>
+		<path>./Neutopia (Japan) (Wii U Virtual Console).zip</path>
+		<name>뉴토피아 (일본판)(Wii U 버추얼 콘솔)</name>
+		<image>./snap/Neutopia (Japan) (Wii U Virtual Console).png</image>
+		<video>./video/Neutopia (USA).mp4</video>
+		<marquee>./marquee/Neutopia (Japan) (Wii U Virtual Console).png</marquee>
+		<developer>허드슨</developer>
+		<publisher>NEC</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>19891117T000000</releasedate>
+	</game>
+	<game>
 		<path>./Nekketsu Koukou Dodgeball-bu - PC Soccer Hen (Japan).zip</path>
 		<name>열혈고교 피구부 - PC 축구편</name>
 		<image>./snap/Nekketsu Koukou Dodgeball-bu - PC Soccer Hen (Japan).png</image>
@@ -2749,6 +3095,30 @@
 		<releasedate>19891117T000000</releasedate>
 	</game>
 	<game>
+		<path>./Neutopia (USA, Europe) (Wii U Virtual Console).zip</path>
+		<name>뉴토피아 (미국,유럽판)(Wii U 버추얼 콘솔)</name>
+		<image>./snap/Neutopia (USA, Europe) (Wii U Virtual Console).png</image>
+		<video>./video/Neutopia (USA).mp4</video>
+		<marquee>./marquee/Neutopia (USA, Europe) (Wii U Virtual Console).png</marquee>
+		<developer>허드슨</developer>
+		<publisher>NEC</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>19891117T000000</releasedate>
+	</game>
+	<game>
+		<path>./Neutopia II (Japan) (Wii U Virtual Console).zip</path>
+		<name>뉴토피아 2 (일본판)(Wii U 버추얼 콘솔)</name>
+		<image>./snap/Neutopia II (Japan) (Wii U Virtual Console).png</image>
+		<video>./video/Neutopia II (USA).mp4</video>
+		<marquee>./marquee/Neutopia II (Japan) (Wii U Virtual Console).png</marquee>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>19910927T000000</releasedate>
+	</game>
+	<game>
 		<path>./Neutopia II (Japan).zip</path>
 		<name>뉴토피아 2 (일본판)</name>
 		<image>./snap/Neutopia II (Japan).png</image>
@@ -2773,11 +3143,35 @@
 		<releasedate>19910927T000000</releasedate>
 	</game>
 	<game>
+		<path>./Neutopia II (USA, Europe) (Wii U Virtual Console).zip</path>
+		<name>뉴토피아 2 (미국,유럽판)(Wii U 버추얼 콘솔)</name>
+		<image>./snap/Neutopia II (USA, Europe) (Wii U Virtual Console).png</image>
+		<video>./video/Neutopia II (USA).mp4</video>
+		<marquee>./marquee/Neutopia II (USA, Europe) (Wii U Virtual Console).png</marquee>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>19910927T000000</releasedate>
+	</game>
+	<game>
 		<path>./New Adventure Island (USA).zip</path>
 		<name>신모험도</name>
 		<image>./snap/New Adventure Island (USA).png</image>
 		<video>./video/New Adventure Island (USA).mp4</video>
 		<marquee>./marquee/New Adventure Island (USA).png</marquee>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>19920101T000000</releasedate>
+	</game>
+	<game>
+		<path>./New Adventure Island (USA, Europe) (Wii U Virtual Console).zip</path>
+		<name>신모험도 (미국,유럽판)(Wii U 버추얼 콘솔)</name>
+		<image>./snap/New Adventure Island (USA, Europe) (Wii U Virtual Console).png</image>
+		<video>./video/New Adventure Island (USA).mp4</video>
+		<marquee>./marquee/New Adventure Island (USA, Europe) (Wii U Virtual Console).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
 		<genre/>
@@ -2809,16 +3203,16 @@
 		<releasedate>19920131T000000</releasedate>
 	</game>
 	<game>
-		<path>./Night Creatures (USA).zip</path>
-		<name>나이트 크리쳐스</name>
-		<image>./snap/Night Creatures (USA).png</image>
-		<video>./video/Night Creatures (USA).mp4</video>
-		<marquee>./marquee/Night Creatures (USA).png</marquee>
-		<developer>만리 &amp; 어소시에이트</developer>
-		<publisher>NEC 인터채널</publisher>
+		<path>./Ninja Ryuukenden (Japan).zip</path>
+		<name>닌자용검전</name>
+		<image>./snap/Ninja Ryuukenden (Japan).png</image>
+		<video>./video/Ninja Ryuukenden (Japan).mp4</video>
+		<marquee>./marquee/Ninja Ryuukenden (Japan).png</marquee>
+		<developer>테크모</developer>
+		<publisher>허드슨</publisher>
 		<genre/>
 		<players>1</players>
-		<releasedate>19910101T000000</releasedate>
+		<releasedate>19920124T000000</releasedate>
 	</game>
 	<game>
 		<path>./Niko Niko Pun (Japan).zip</path>
@@ -2833,16 +3227,16 @@
 		<releasedate>19911213T000000</releasedate>
 	</game>
 	<game>
-		<path>./Ninja Ryuukenden (Japan) (En,Ja,Zh).zip</path>
-		<name>닌자용검전</name>
-		<image>./snap/Ninja Ryuukenden (Japan) (En,Ja,Zh).png</image>
-		<video>./video/Ninja Ryuukenden (Japan) (En,Ja,Zh).mp4</video>
-		<marquee>./marquee/Ninja Ryuukenden (Japan) (En,Ja,Zh).png</marquee>
-		<developer>테크모</developer>
-		<publisher>허드슨</publisher>
+		<path>./Night Creatures (USA).zip</path>
+		<name>나이트 크리쳐스</name>
+		<image>./snap/Night Creatures (USA).png</image>
+		<video>./video/Night Creatures (USA).mp4</video>
+		<marquee>./marquee/Night Creatures (USA).png</marquee>
+		<developer>만리 &amp; 어소시에이트</developer>
+		<publisher>NEC 인터채널</publisher>
 		<genre/>
 		<players>1</players>
-		<releasedate>19920124T000000</releasedate>
+		<releasedate>19910101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Ninja Spirit (USA).zip</path>
@@ -2850,6 +3244,18 @@
 		<image>./snap/Ninja Spirit (USA).png</image>
 		<video>./video/Ninja Spirit (USA).mp4</video>
 		<marquee>./marquee/Ninja Spirit (USA).png</marquee>
+		<developer>아이렘</developer>
+		<publisher>아이렘</publisher>
+		<genre/>
+		<players>2</players>
+		<releasedate>19900101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Ninja Spirit (USA, Europe) (Wii U Virtual Console).zip</path>
+		<name>닌자 스피리츠 / 최후의 인도 (미국,유럽판)(Wii U 버추얼 콘솔)</name>
+		<image>./snap/Ninja Spirit (USA, Europe) (Wii U Virtual Console).png</image>
+		<video>./video/Ninja Spirit (USA).mp4</video>
+		<marquee>./marquee/Ninja Spirit (USA, Europe) (Wii U Virtual Console).png</marquee>
 		<developer>아이렘</developer>
 		<publisher>아이렘</publisher>
 		<genre/>
@@ -2929,6 +3335,30 @@
 		<releasedate>19890908T000000</releasedate>
 	</game>
 	<game>
+		<path>./Pac-Land (Japan).zip</path>
+		<name>팩 랜드 (일본판)</name>
+		<image>./snap/Pac-Land (Japan).png</image>
+		<video>./video/Pac-Land (USA).mp4</video>
+		<marquee>./marquee/Pac-Land (Japan).png</marquee>
+		<developer>남코</developer>
+		<publisher>NEC</publisher>
+		<genre/>
+		<players>2</players>
+		<releasedate>19890601T000000</releasedate>
+	</game>
+	<game>
+		<path>./Override (Japan).zip</path>
+		<name>오버라이드</name>
+		<image>./snap/Override (Japan).png</image>
+		<video>./video/Override (Japan).mp4</video>
+		<marquee>./marquee/Override (Japan).png</marquee>
+		<developer>스팅</developer>
+		<publisher>데이터 이스트</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>19910108T000000</releasedate>
+	</game>
+	<game>
 		<path>./Out Live (Japan).zip</path>
 		<name>아웃 라이브</name>
 		<image>./snap/Out Live (Japan).png</image>
@@ -2953,18 +3383,6 @@
 		<releasedate>19901221T000000</releasedate>
 	</game>
 	<game>
-		<path>./Override (Japan).zip</path>
-		<name>오버라이드</name>
-		<image>./snap/Override (Japan).png</image>
-		<video>./video/Override (Japan).mp4</video>
-		<marquee>./marquee/Override (Japan).png</marquee>
-		<developer>스팅</developer>
-		<publisher>데이터 이스트</publisher>
-		<genre/>
-		<players>1</players>
-		<releasedate>19910108T000000</releasedate>
-	</game>
-	<game>
 		<path>./P-47 - The Freedom Fighter (Japan).zip</path>
 		<name>P-47 - 프리덤 파이터</name>
 		<image>./snap/P-47 - The Freedom Fighter (Japan).png</image>
@@ -2975,18 +3393,6 @@
 		<genre/>
 		<players>1</players>
 		<releasedate>19890320T000000</releasedate>
-	</game>
-	<game>
-		<path>./Pac-Land (Japan).zip</path>
-		<name>팩 랜드 (일본판)</name>
-		<image>./snap/Pac-Land (Japan).png</image>
-		<video>./video/Pac-Land (USA).mp4</video>
-		<marquee>./marquee/Pac-Land (Japan).png</marquee>
-		<developer>남코</developer>
-		<publisher>NEC</publisher>
-		<genre/>
-		<players>2</players>
-		<releasedate>19890601T000000</releasedate>
 	</game>
 	<game>
 		<path>./Pac-Land (USA).zip</path>
@@ -3061,6 +3467,18 @@
 		<releasedate>19920221T000000</releasedate>
 	</game>
 	<game>
+		<path>./PC Denjin - Punkic Cyborgs (Japan) (Beta).zip</path>
+		<name>PC전인 - 펑킥 사이보그스 (일본판)(베타)</name>
+		<image>./snap/PC Denjin - Punkic Cyborgs (Japan) (Beta).png</image>
+		<video>./video/Air Zonk (USA).mp4</video>
+		<marquee>./marquee/PC Denjin - Punkic Cyborgs (Japan) (Beta).png</marquee>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>19921212T000000</releasedate>
+	</game>
+	<game>
 		<path>./PC Denjin - Punkic Cyborgs (Japan).zip</path>
 		<name>PC전인 - 펑킥 사이보그스 (일본판)</name>
 		<image>./snap/PC Denjin - Punkic Cyborgs (Japan).png</image>
@@ -3071,6 +3489,30 @@
 		<genre/>
 		<players>1</players>
 		<releasedate>19921212T000000</releasedate>
+	</game>
+	<game>
+		<path>./PC Denjin - Punkic Cyborgs (Japan) (Wii U Virtual Console).zip</path>
+		<name>PC전인 - 펑킥 사이보그스 (일본판)(Wii U 버추얼 콘솔)</name>
+		<image>./snap/PC Denjin - Punkic Cyborgs (Japan) (Wii U Virtual Console).png</image>
+		<video>./video/Air Zonk (USA).mp4</video>
+		<marquee>./marquee/PC Denjin - Punkic Cyborgs (Japan) (Wii U Virtual Console).png</marquee>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>19921212T000000</releasedate>
+	</game>
+	<game>
+		<path>./PC Genjin - Pithecanthropus Computerurus (Japan) (Wii U Virtual Console).zip</path>
+		<name>PC원인 (일본판)(Wii U 버추얼 콘솔)</name>
+		<image>./snap/PC Genjin - Pithecanthropus Computerurus (Japan) (Wii U Virtual Console).png</image>
+		<video>./video/Bonk's Adventure (USA).mp4</video>
+		<marquee>./marquee/PC Genjin - Pithecanthropus Computerurus (Japan) (Wii U Virtual Console).png</marquee>
+		<developer>아틀러스</developer>
+		<publisher>허드슨</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>19891215T000000</releasedate>
 	</game>
 	<game>
 		<path>./PC Genjin - Pithecanthropus Computerurus (Japan).zip</path>
@@ -3085,11 +3527,11 @@
 		<releasedate>19891215T000000</releasedate>
 	</game>
 	<game>
-		<path>./PC Genjin 2 - Pithecanthropus Computerurus (Japan) (Virtual Console).zip</path>
-		<name>PC원인 2 - 봉크의 복수 (일본판)(버추얼 콘솔)</name>
-		<image>./snap/PC Genjin 2 - Pithecanthropus Computerurus (Japan) (Virtual Console).png</image>
+		<path>./PC Genjin 2 - Pithecanthropus Computerurus (Japan) (Wii U Virtual Console).zip</path>
+		<name>PC원인 2 - 봉크의 복수 (일본판)(Wii U 버추얼 콘솔)</name>
+		<image>./snap/PC Genjin 2 - Pithecanthropus Computerurus (Japan) (Wii U Virtual Console).png</image>
 		<video>./video/Bonk's Revenge (USA).mp4</video>
-		<marquee>./marquee/PC Genjin 2 - Pithecanthropus Computerurus (Japan) (Virtual Console).png</marquee>
+		<marquee>./marquee/PC Genjin 2 - Pithecanthropus Computerurus (Japan) (Wii U Virtual Console).png</marquee>
 		<developer>레드 컴퍼니</developer>
 		<publisher>NEC</publisher>
 		<genre/>
@@ -3097,11 +3539,11 @@
 		<releasedate>19910719T000000</releasedate>
 	</game>
 	<game>
-		<path>./PC Genjin 2 - Pithecanthropus Computerurus (Japan).zip</path>
-		<name>PC원인 2 - 봉크의 복수 (일본판)</name>
-		<image>./snap/PC Genjin 2 - Pithecanthropus Computerurus (Japan).png</image>
+		<path>./PC Genjin 2 - Pithecanthropus Computerurus (Japan) (Wii Virtual Console).zip</path>
+		<name>PC원인 2 - 봉크의 복수 (일본판)(Wii 버추얼 콘솔)</name>
+		<image>./snap/PC Genjin 2 - Pithecanthropus Computerurus (Japan) (Wii Virtual Console).png</image>
 		<video>./video/Bonk's Revenge (USA).mp4</video>
-		<marquee>./marquee/PC Genjin 2 - Pithecanthropus Computerurus (Japan).png</marquee>
+		<marquee>./marquee/PC Genjin 2 - Pithecanthropus Computerurus (Japan) (Wii Virtual Console).png</marquee>
 		<developer>레드 컴퍼니</developer>
 		<publisher>NEC</publisher>
 		<genre/>
@@ -3121,11 +3563,35 @@
 		<releasedate>19930402T000000</releasedate>
 	</game>
 	<game>
+		<path>./PC Genjin 2 - Pithecanthropus Computerurus (Japan).zip</path>
+		<name>PC원인 2 - 봉크의 복수 (일본판)</name>
+		<image>./snap/PC Genjin 2 - Pithecanthropus Computerurus (Japan).png</image>
+		<video>./video/Bonk's Revenge (USA).mp4</video>
+		<marquee>./marquee/PC Genjin 2 - Pithecanthropus Computerurus (Japan).png</marquee>
+		<developer>레드 컴퍼니</developer>
+		<publisher>NEC</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>19910719T000000</releasedate>
+	</game>
+	<game>
 		<path>./PC Genjin 3 - Pithecanthropus Computerurus (Japan).zip</path>
 		<name>PC원인 3 - 봉크의 대모험 (일본판)</name>
 		<image>./snap/PC Genjin 3 - Pithecanthropus Computerurus (Japan).png</image>
 		<video>./video/Bonk 3 - Bonk's Big Adventure (USA).mp4</video>
 		<marquee>./marquee/PC Genjin 3 - Pithecanthropus Computerurus (Japan).png</marquee>
+		<developer>허드슨</developer>
+		<publisher>터보 테크놀리지</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>19930402T000000</releasedate>
+	</game>
+	<game>
+		<path>./PC Genjin 3 - Pithecanthropus Computerurus (Japan) (Wii U Virtual Console).zip</path>
+		<name>PC원인 3 - 봉크의 대모험 (일본판)(Wii U 버추얼 콘솔)</name>
+		<image>./snap/PC Genjin 3 - Pithecanthropus Computerurus (Japan) (Wii U Virtual Console).png</image>
+		<video>./video/Bonk 3 - Bonk's Big Adventure (USA).mp4</video>
+		<marquee>./marquee/PC Genjin 3 - Pithecanthropus Computerurus (Japan) (Wii U Virtual Console).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>터보 테크놀리지</publisher>
 		<genre/>
@@ -3289,6 +3755,18 @@
 		<releasedate>19900810T000000</releasedate>
 	</game>
 	<game>
+		<path>./Power Sports (Japan) (Wii U Virtual Console).zip</path>
+		<name>파워 스포츠 (일본판)(Wii U 버추얼 콘솔)</name>
+		<image>./snap/Power Sports (Japan) (Wii U Virtual Console).png</image>
+		<video>./video/World Sports Competition (USA).mp4</video>
+		<marquee>./marquee/Power Sports (Japan) (Wii U Virtual Console).png</marquee>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<genre/>
+		<players>5</players>
+		<releasedate>19921010T000000</releasedate>
+	</game>
+	<game>
 		<path>./Power Sports (Japan).zip</path>
 		<name>파워 스포츠 (일본판)</name>
 		<image>./snap/Power Sports (Japan).png</image>
@@ -3337,18 +3815,6 @@
 		<releasedate>19910321T000000</releasedate>
 	</game>
 	<game>
-		<path>./Pro Yakyuu World Stadium (Japan).zip</path>
-		<name>프로 야구 월드 스타디움</name>
-		<image>./snap/Pro Yakyuu World Stadium (Japan).png</image>
-		<video>./video/Pro Yakyuu World Stadium (Japan).mp4</video>
-		<marquee>./marquee/Pro Yakyuu World Stadium (Japan).png</marquee>
-		<developer>남코</developer>
-		<publisher>남코</publisher>
-		<genre/>
-		<players/>
-		<releasedate>19880520T000000</releasedate>
-	</game>
-	<game>
 		<path>./Psycho Chaser (Japan).zip</path>
 		<name>사이코 체이서</name>
 		<image>./snap/Psycho Chaser (Japan).png</image>
@@ -3359,6 +3825,18 @@
 		<genre/>
 		<players>1</players>
 		<releasedate>19900406T000000</releasedate>
+	</game>
+	<game>
+		<path>./Pro Yakyuu World Stadium (Japan).zip</path>
+		<name>프로 야구 월드 스타디움</name>
+		<image>./snap/Pro Yakyuu World Stadium (Japan).png</image>
+		<video>./video/Pro Yakyuu World Stadium (Japan).mp4</video>
+		<marquee>./marquee/Pro Yakyuu World Stadium (Japan).png</marquee>
+		<developer>남코</developer>
+		<publisher>남코</publisher>
+		<genre/>
+		<players/>
+		<releasedate>19880520T000000</releasedate>
 	</game>
 	<game>
 		<path>./Psychosis (USA).zip</path>
@@ -3385,18 +3863,6 @@
 		<releasedate>19910222T000000</releasedate>
 	</game>
 	<game>
-		<path>./Puzznic (Japan).zip</path>
-		<name>퍼즈닉</name>
-		<image>./snap/Puzznic (Japan).png</image>
-		<video>./video/Puzznic (Japan).mp4</video>
-		<marquee>./marquee/Puzznic (Japan).png</marquee>
-		<developer>타이토</developer>
-		<publisher>타이토</publisher>
-		<genre/>
-		<players>1</players>
-		<releasedate>19900629T000000</releasedate>
-	</game>
-	<game>
 		<path>./Quiz Toukou Shashin (Japan) (Unl).zip</path>
 		<name>퀴즈 투고사진</name>
 		<image>./snap/Quiz Toukou Shashin (Japan) (Unl).png</image>
@@ -3409,28 +3875,16 @@
 		<releasedate>19920101T000000</releasedate>
 	</game>
 	<game>
-		<path>./R-Type (USA).zip</path>
-		<name>R - 타입</name>
-		<image>./snap/R-Type (USA).png</image>
-		<video>./video/R-Type (USA).mp4</video>
-		<marquee>./marquee/R-Type (USA).png</marquee>
-		<developer>아이렘</developer>
-		<publisher>NEC</publisher>
+		<path>./Puzznic (Japan).zip</path>
+		<name>퍼즈닉</name>
+		<image>./snap/Puzznic (Japan).png</image>
+		<video>./video/Puzznic (Japan).mp4</video>
+		<marquee>./marquee/Puzznic (Japan).png</marquee>
+		<developer>타이토</developer>
+		<publisher>타이토</publisher>
 		<genre/>
 		<players>1</players>
-		<releasedate>19890101T000000</releasedate>
-	</game>
-	<game>
-		<path>./R-Type I (Japan).zip</path>
-		<name>R - 타입</name>
-		<image>./snap/R-Type I (Japan).png</image>
-		<video>./video/R-Type I (Japan).mp4</video>
-		<marquee>./marquee/R-Type I (Japan).png</marquee>
-		<developer>아이렘</developer>
-		<publisher>NEC</publisher>
-		<genre/>
-		<players>1</players>
-		<releasedate>19880325T000000</releasedate>
+		<releasedate>19900629T000000</releasedate>
 	</game>
 	<game>
 		<path>./R-Type II (Japan) (v1.1).zip</path>
@@ -3445,6 +3899,18 @@
 		<releasedate>19880603T000000</releasedate>
 	</game>
 	<game>
+		<path>./R-Type (USA).zip</path>
+		<name>R - 타입</name>
+		<image>./snap/R-Type (USA).png</image>
+		<video>./video/R-Type (USA).mp4</video>
+		<marquee>./marquee/R-Type (USA).png</marquee>
+		<developer>아이렘</developer>
+		<publisher>NEC</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>19890101T000000</releasedate>
+	</game>
+	<game>
 		<path>./R-Type II (Japan).zip</path>
 		<name>R - 타입 2 (일본판)</name>
 		<image>./snap/R-Type II (Japan).png</image>
@@ -3455,6 +3921,18 @@
 		<genre/>
 		<players>1</players>
 		<releasedate>19880603T000000</releasedate>
+	</game>
+	<game>
+		<path>./R-Type I (Japan).zip</path>
+		<name>R - 타입</name>
+		<image>./snap/R-Type I (Japan).png</image>
+		<video>./video/R-Type I (Japan).mp4</video>
+		<marquee>./marquee/R-Type I (Japan).png</marquee>
+		<developer>아이렘</developer>
+		<publisher>NEC</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>19880325T000000</releasedate>
 	</game>
 	<game>
 		<path>./Rabio Lepus Special (Japan).zip</path>
@@ -3565,6 +4043,18 @@
 		<releasedate>19881118T000000</releasedate>
 	</game>
 	<game>
+		<path>./Saigo no Nindou - Ninja Spirit (Japan) (Wii U Virtual Console).zip</path>
+		<name>닌자 스피리츠 - 최후의 인도 (일본판)(Wii U 버추얼 콘솔)</name>
+		<image>./snap/Saigo no Nindou - Ninja Spirit (Japan) (Wii U Virtual Console).png</image>
+		<video>./video/Ninja Spirit (USA).mp4</video>
+		<marquee>./marquee/Saigo no Nindou - Ninja Spirit (Japan) (Wii U Virtual Console).png</marquee>
+		<developer>아이렘</developer>
+		<publisher>아이렘</publisher>
+		<genre/>
+		<players>2</players>
+		<releasedate>19900706T000000</releasedate>
+	</game>
+	<game>
 		<path>./Saigo no Nindou - Ninja Spirit (Japan).zip</path>
 		<name>닌자 스피리츠 - 최후의 인도 (일본판)</name>
 		<image>./snap/Saigo no Nindou - Ninja Spirit (Japan).png</image>
@@ -3589,6 +4079,18 @@
 		<releasedate>19911206T000000</releasedate>
 	</game>
 	<game>
+		<path>./Salamander (World) (Wii U Virtual Console).zip</path>
+		<name>사라만다 (세계판)(Wii U 버추얼 콘솔)</name>
+		<image>./snap/Salamander (World) (Wii U Virtual Console).png</image>
+		<video>./video/Salamander (Japan).mp4</video>
+		<marquee>./marquee/Salamander (World) (Wii U Virtual Console).png</marquee>
+		<developer>코나미</developer>
+		<publisher>코나미</publisher>
+		<genre/>
+		<players>2</players>
+		<releasedate>19911206T000000</releasedate>
+	</game>
+	<game>
 		<path>./Samurai-Ghost (USA).zip</path>
 		<name>사무라이 고스트</name>
 		<image>./snap/Samurai-Ghost (USA).png</image>
@@ -3599,6 +4101,18 @@
 		<genre/>
 		<players>1</players>
 		<releasedate>19920101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Santatlantean (World) (Aftermarket) (Homebrew).zip</path>
+		<name>산타란티안</name>
+		<image>./snap/Santatlantean (World) (Aftermarket) (Homebrew).png</image>
+		<video>./video/Santatlantean (World) (Aftermarket) (Homebrew).mp4</video>
+		<marquee>./marquee/Santatlantean (World) (Aftermarket) (Homebrew).png</marquee>
+		<developer/>
+		<publisher/>
+		<genre/>
+		<players/>
+		<releasedate/>
 	</game>
 	<game>
 		<path>./Sekigahara (Japan).zip</path>
@@ -3781,6 +4295,18 @@
 		<releasedate>19910802T000000</releasedate>
 	</game>
 	<game>
+		<path>./Soldier Blade (Japan) (Wii U Virtual Console).zip</path>
+		<name>솔져 블레이드 (일본판)(Wii U 버추얼 콘솔)</name>
+		<image>./snap/Soldier Blade (Japan) (Wii U Virtual Console).png</image>
+		<video>./video/Soldier Blade (USA).mp4</video>
+		<marquee>./marquee/Soldier Blade (Japan) (Wii U Virtual Console).png</marquee>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>19920710T000000</releasedate>
+	</game>
+	<game>
 		<path>./Soldier Blade (Japan).zip</path>
 		<name>솔져 블레이드 (일본판)</name>
 		<image>./snap/Soldier Blade (Japan).png</image>
@@ -3805,6 +4331,18 @@
 		<releasedate>19920710T000000</releasedate>
 	</game>
 	<game>
+		<path>./Soldier Blade (USA, Europe) (Wii U Virtual Console).zip</path>
+		<name>솔져 블레이드 (미국,유럽판)(Wii U 버추얼 콘솔)</name>
+		<image>./snap/Soldier Blade (USA, Europe) (Wii U Virtual Console).png</image>
+		<video>./video/Soldier Blade (USA).mp4</video>
+		<marquee>./marquee/Soldier Blade (USA, Europe) (Wii U Virtual Console).png</marquee>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>19920710T000000</releasedate>
+	</game>
+	<game>
 		<path>./Soldier Blade - Special Version (Japan).zip</path>
 		<name>솔쳐 블레이드 - 스페셜 버젼</name>
 		<image>./snap/Soldier Blade - Special Version (Japan).png</image>
@@ -3817,16 +4355,16 @@
 		<releasedate>19920710T000000</releasedate>
 	</game>
 	<game>
-		<path>./Somer Assault (USA).zip</path>
-		<name>소머 어썰트</name>
-		<image>./snap/Somer Assault (USA).png</image>
-		<video>./video/Somer Assault (USA).mp4</video>
-		<marquee>./marquee/Somer Assault (USA).png</marquee>
-		<developer>아틀러스</developer>
-		<publisher>아틀러스</publisher>
+		<path>./Sonic Spike - World Championship Beach Volleyball (USA).zip</path>
+		<name>소닉 스파이크</name>
+		<image>./snap/Sonic Spike - World Championship Beach Volleyball (USA).png</image>
+		<video>./video/Sonic Spike - World Championship Beach Volleyball (USA).mp4</video>
+		<marquee>./marquee/Sonic Spike - World Championship Beach Volleyball (USA).png</marquee>
+		<developer>인포메이션 글로벌 서비스</developer>
+		<publisher>인포메이션 글로벌 서비스</publisher>
 		<genre/>
-		<players>1</players>
-		<releasedate>19920101T000000</releasedate>
+		<players>2</players>
+		<releasedate>19900101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Son Son II (Japan).zip</path>
@@ -3841,16 +4379,16 @@
 		<releasedate>19890127T000000</releasedate>
 	</game>
 	<game>
-		<path>./Sonic Spike - World Championship Beach Volleyball (USA).zip</path>
-		<name>소닉 스파이크</name>
-		<image>./snap/Sonic Spike - World Championship Beach Volleyball (USA).png</image>
-		<video>./video/Sonic Spike - World Championship Beach Volleyball (USA).mp4</video>
-		<marquee>./marquee/Sonic Spike - World Championship Beach Volleyball (USA).png</marquee>
-		<developer>인포메이션 글로벌 서비스</developer>
-		<publisher>인포메이션 글로벌 서비스</publisher>
+		<path>./Somer Assault (USA).zip</path>
+		<name>소머 어썰트</name>
+		<image>./snap/Somer Assault (USA).png</image>
+		<video>./video/Somer Assault (USA).mp4</video>
+		<marquee>./marquee/Somer Assault (USA).png</marquee>
+		<developer>아틀러스</developer>
+		<publisher>아틀러스</publisher>
 		<genre/>
-		<players>2</players>
-		<releasedate>19900101T000000</releasedate>
+		<players>1</players>
+		<releasedate>19920101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Soukoban World (Japan).zip</path>
@@ -3973,6 +4511,18 @@
 		<releasedate>19930612T000000</releasedate>
 	</game>
 	<game>
+		<path>./Super Metal Crusher (Japan).zip</path>
+		<name>슈퍼 메탈 크러셔</name>
+		<image>./snap/Super Metal Crusher (Japan).png</image>
+		<video>./video/Super Metal Crusher (Japan).mp4</video>
+		<marquee>./marquee/Super Metal Crusher (Japan).png</marquee>
+		<developer>메이크</developer>
+		<publisher>팩인 비디오</publisher>
+		<genre/>
+		<players>2</players>
+		<releasedate>19911129T000000</releasedate>
+	</game>
+	<game>
 		<path>./Strip Fighter II (Japan) (Unl).zip</path>
 		<name>스트립 파이터 2</name>
 		<image>./snap/Strip Fighter II (Japan) (Unl).png</image>
@@ -3985,16 +4535,16 @@
 		<releasedate>19930101T000000</releasedate>
 	</game>
 	<game>
-		<path>./Super Metal Crusher (Japan).zip</path>
-		<name>슈퍼 메탈 크러셔</name>
-		<image>./snap/Super Metal Crusher (Japan).png</image>
-		<video>./video/Super Metal Crusher (Japan).mp4</video>
-		<marquee>./marquee/Super Metal Crusher (Japan).png</marquee>
-		<developer>메이크</developer>
-		<publisher>팩인 비디오</publisher>
+		<path>./Super Momotarou Dentetsu (Japan) (Alt).zip</path>
+		<name>슈퍼 도태랑 전철 (일본판)(대체)</name>
+		<image>./snap/Super Momotarou Dentetsu (Japan) (Alt).png</image>
+		<video>./video/Super Momotarou Dentetsu (Japan).mp4</video>
+		<marquee>./marquee/Super Momotarou Dentetsu (Japan) (Alt).png</marquee>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
 		<genre/>
-		<players>2</players>
-		<releasedate>19911129T000000</releasedate>
+		<players/>
+		<releasedate>19890915T000000</releasedate>
 	</game>
 	<game>
 		<path>./Super Momotarou Dentetsu (Japan).zip</path>
@@ -4033,11 +4583,35 @@
 		<releasedate>19900706T000000</releasedate>
 	</game>
 	<game>
+		<path>./Super Star Soldier (Japan) (Wii U Virtual Console).zip</path>
+		<name>슈퍼 스타 솔져 (일본판)(Wii U 버추얼 콘솔)</name>
+		<image>./snap/Super Star Soldier (Japan) (Wii U Virtual Console).png</image>
+		<video>./video/Super Star Soldier (USA).mp4</video>
+		<marquee>./marquee/Super Star Soldier (Japan) (Wii U Virtual Console).png</marquee>
+		<developer>인터스테이트</developer>
+		<publisher>허드슨</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>19900706T000000</releasedate>
+	</game>
+	<game>
 		<path>./Super Star Soldier (USA).zip</path>
 		<name>슈퍼 스타 솔져</name>
 		<image>./snap/Super Star Soldier (USA).png</image>
 		<video>./video/Super Star Soldier (USA).mp4</video>
 		<marquee>./marquee/Super Star Soldier (USA).png</marquee>
+		<developer>인터스테이트</developer>
+		<publisher>허드슨</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>19900706T000000</releasedate>
+	</game>
+	<game>
+		<path>./Super Star Soldier (USA, Europe) (Wii U Virtual Console).zip</path>
+		<name>슈퍼 스타 솔져 (미국,유럽판)(Wii U 버추얼 콘솔)</name>
+		<image>./snap/Super Star Soldier (USA, Europe) (Wii U Virtual Console).png</image>
+		<video>./video/Super Star Soldier (USA).mp4</video>
+		<marquee>./marquee/Super Star Soldier (USA, Europe) (Wii U Virtual Console).png</marquee>
 		<developer>인터스테이트</developer>
 		<publisher>허드슨</publisher>
 		<genre/>
@@ -4079,6 +4653,18 @@
 		<genre/>
 		<players>2</players>
 		<releasedate>19890427T000000</releasedate>
+	</game>
+	<game>
+		<path>./Takahashi Meijin no Shin Bouken-jima (Japan) (Wii U Virtual Console).zip</path>
+		<name>타카하시 명인의 신 모험도 (일본판)(Wii U 버추얼 콘솔)</name>
+		<image>./snap/Takahashi Meijin no Shin Bouken-jima (Japan) (Wii U Virtual Console).png</image>
+		<video>./video/New Adventure Island (USA).mp4</video>
+		<marquee>./marquee/Takahashi Meijin no Shin Bouken-jima (Japan) (Wii U Virtual Console).png</marquee>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>19920626T000000</releasedate>
 	</game>
 	<game>
 		<path>./Taito Chase H.Q. (Japan).zip</path>
@@ -4237,18 +4823,6 @@
 		<releasedate>19900101T000000</releasedate>
 	</game>
 	<game>
-		<path>./Time Cruise (USA).zip</path>
-		<name>타임 크루즈</name>
-		<image>./snap/Time Cruise (USA).png</image>
-		<video>./video/Time Cruise (USA).mp4</video>
-		<marquee>./marquee/Time Cruise (USA).png</marquee>
-		<developer>페이스</developer>
-		<publisher>NEC</publisher>
-		<genre/>
-		<players>1</players>
-		<releasedate>19920101T000000</releasedate>
-	</game>
-	<game>
 		<path>./Time Cruise II (Japan).zip</path>
 		<name>타임 크루즈 2 (일본판)</name>
 		<image>./snap/Time Cruise II (Japan).png</image>
@@ -4259,6 +4833,18 @@
 		<genre/>
 		<players>1</players>
 		<releasedate>19911108T000000</releasedate>
+	</game>
+	<game>
+		<path>./Time Cruise (USA).zip</path>
+		<name>타임 크루즈</name>
+		<image>./snap/Time Cruise (USA).png</image>
+		<video>./video/Time Cruise (USA).mp4</video>
+		<marquee>./marquee/Time Cruise (USA).png</marquee>
+		<developer>페이스</developer>
+		<publisher>NEC</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>19920101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Timeball (USA).zip</path>
@@ -4297,16 +4883,16 @@
 		<releasedate>19920306T000000</releasedate>
 	</game>
 	<game>
-		<path>./Tora e no Michi (Japan).zip</path>
-		<name>호랑이의 길 / 타이거 로드 (일본판)</name>
-		<image>./snap/Tora e no Michi (Japan).png</image>
-		<video>./video/Tiger Road (USA).mp4</video>
-		<marquee>./marquee/Tora e no Michi (Japan).png</marquee>
-		<developer>고</developer>
-		<publisher>캡콤</publisher>
+		<path>./Tongueman's Logic (World) (Aftermarket) (Homebrew).zip</path>
+		<name>텅맨스 로직</name>
+		<image>./snap/Tongueman's Logic (World) (Aftermarket) (Homebrew).png</image>
+		<video>./video/Tongueman's Logic (World) (Aftermarket) (Homebrew).mp4</video>
+		<marquee>./marquee/Tongueman's Logic (World) (Aftermarket) (Homebrew).png</marquee>
+		<developer/>
+		<publisher/>
 		<genre/>
-		<players>1</players>
-		<releasedate>19900223T000000</releasedate>
+		<players/>
+		<releasedate/>
 	</game>
 	<game>
 		<path>./Tower of Druaga, The (Japan).zip</path>
@@ -4319,6 +4905,18 @@
 		<genre/>
 		<players/>
 		<releasedate/>
+	</game>
+	<game>
+		<path>./Tora e no Michi (Japan).zip</path>
+		<name>호랑이의 길 / 타이거 로드 (일본판)</name>
+		<image>./snap/Tora e no Michi (Japan).png</image>
+		<video>./video/Tiger Road (USA).mp4</video>
+		<marquee>./marquee/Tora e no Michi (Japan).png</marquee>
+		<developer>고</developer>
+		<publisher>캡콤</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>19900223T000000</releasedate>
 	</game>
 	<game>
 		<path>./Toy Shop Boys (Japan).zip</path>
@@ -4391,6 +4989,18 @@
 		<genre/>
 		<players>1</players>
 		<releasedate>19910801T000000</releasedate>
+	</game>
+	<game>
+		<path>./TV Sports Baseball (USA) (Proto).zip</path>
+		<name>TV 스포츠 야구</name>
+		<image>./snap/TV Sports Baseball (USA) (Proto).png</image>
+		<video>./video/TV Sports Baseball (USA) (Proto).mp4</video>
+		<marquee>./marquee/TV Sports Baseball (USA) (Proto).png</marquee>
+		<developer/>
+		<publisher/>
+		<genre/>
+		<players/>
+		<releasedate/>
 	</game>
 	<game>
 		<path>./TV Sports Basketball (Japan).zip</path>
@@ -4525,6 +5135,30 @@
 		<releasedate>19871228T000000</releasedate>
 	</game>
 	<game>
+		<path>./Victory Run (USA, Europe) (Wii U Virtual Console).zip</path>
+		<name>빅토리 런 (미국,유럽판)(Wii U 버추얼 콘솔)</name>
+		<image>./snap/Victory Run (USA, Europe) (Wii U Virtual Console).png</image>
+		<video>./video/Victory Run (USA).mp4</video>
+		<marquee>./marquee/Victory Run (USA, Europe) (Wii U Virtual Console).png</marquee>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>19871228T000000</releasedate>
+	</game>
+	<game>
+		<path>./Victory Run - Eikou no 13,000km (Japan) (Wii U Virtual Console).zip</path>
+		<name>빅토리 런 (일본판)(Wii U 버추얼 콘솔)</name>
+		<image>./snap/Victory Run - Eikou no 13,000km (Japan) (Wii U Virtual Console).png</image>
+		<video>./video/Victory Run (USA).mp4</video>
+		<marquee>./marquee/Victory Run - Eikou no 13,000km (Japan) (Wii U Virtual Console).png</marquee>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>19871228T000000</releasedate>
+	</game>
+	<game>
 		<path>./Victory Run - Eikou no 13,000km (Japan).zip</path>
 		<name>빅토리 런 (일본판)</name>
 		<image>./snap/Victory Run - Eikou no 13,000km (Japan).png</image>
@@ -4609,6 +5243,18 @@
 		<releasedate>19890619T000000</releasedate>
 	</game>
 	<game>
+		<path>./Wallaby!! - Usagi no Kuni no Kangaroo Race (Japan) (Wii U Virtual Console).zip</path>
+		<name>왈라비!! 토끼 나라의 캥거루 레이스 (일본판)(Wii U 버추얼 콘솔)</name>
+		<image>./snap/Wallaby!! - Usagi no Kuni no Kangaroo Race (Japan) (Wii U Virtual Console).png</image>
+		<video>./video/Wallaby!! - Usagi no Kuni no Kangaroo Race (Japan).mp4</video>
+		<marquee>./marquee/Wallaby!! - Usagi no Kuni no Kangaroo Race (Japan) (Wii U Virtual Console).png</marquee>
+		<developer>텐키</developer>
+		<publisher>NCS</publisher>
+		<genre/>
+		<players/>
+		<releasedate>19901214T000000</releasedate>
+	</game>
+	<game>
 		<path>./Wallaby!! - Usagi no Kuni no Kangaroo Race (Japan).zip</path>
 		<name>왈라비!! 토끼 나라의 캥거루 레이스</name>
 		<image>./snap/Wallaby!! - Usagi no Kuni no Kangaroo Race (Japan).png</image>
@@ -4681,11 +5327,11 @@
 		<releasedate>19890101T000000</releasedate>
 	</game>
 	<game>
-		<path>./World Class Baseball (USA, Europe) (Virtual Console).zip</path>
-		<name>월드 클래스 베이스볼 (미국,유럽판)(버추얼 콘솔)</name>
-		<image>./snap/World Class Baseball (USA, Europe) (Virtual Console).png</image>
+		<path>./World Class Baseball (USA, Europe) (Wii Virtual Console).zip</path>
+		<name>월드 클래스 베이스볼 (미국,유럽판)(Wii 버추얼 콘솔)</name>
+		<image>./snap/World Class Baseball (USA, Europe) (Wii Virtual Console).png</image>
 		<video>./video/World Class Baseball (USA).mp4</video>
-		<marquee>./marquee/World Class Baseball (USA, Europe) (Virtual Console).png</marquee>
+		<marquee>./marquee/World Class Baseball (USA, Europe) (Wii Virtual Console).png</marquee>
 		<developer>허드슨</developer>
 		<publisher>NEC 인터채널</publisher>
 		<genre/>
@@ -4729,6 +5375,18 @@
 		<releasedate>19930101T000000</releasedate>
 	</game>
 	<game>
+		<path>./World Sports Competition (USA, Europe) (Wii U Virtual Console).zip</path>
+		<name>월드 스포츠 컴페티션 (미국,유럽판)(Wii U 버추얼 콘솔)</name>
+		<image>./snap/World Sports Competition (USA, Europe) (Wii U Virtual Console).png</image>
+		<video>./video/World Sports Competition (USA).mp4</video>
+		<marquee>./marquee/World Sports Competition (USA, Europe) (Wii U Virtual Console).png</marquee>
+		<developer>허드슨</developer>
+		<publisher>허드슨</publisher>
+		<genre/>
+		<players>5</players>
+		<releasedate>19930101T000000</releasedate>
+	</game>
+	<game>
 		<path>./Xevious - Fardraut Saga (Japan).zip</path>
 		<name>제비우스 - 파드라우트 전설</name>
 		<image>./snap/Xevious - Fardraut Saga (Japan).png</image>
@@ -4765,16 +5423,16 @@
 		<releasedate>19880422T000000</releasedate>
 	</game>
 	<game>
-		<path>./Youkai Douchuuki (Japan) (Virtual Console).zip</path>
-		<name>요괴 도중기 (일본판)(버추얼 콘솔)</name>
-		<image>./snap/Youkai Douchuuki (Japan) (Virtual Console).png</image>
-		<video>./video/Youkai Douchuuki (Japan).mp4</video>
-		<marquee>./marquee/Youkai Douchuuki (Japan) (Virtual Console).png</marquee>
-		<developer>남코</developer>
-		<publisher>남코</publisher>
+		<path>./Zero4 Champ (Japan) (Alt).zip</path>
+		<name>제로4 챔프 (일본판)(대체)</name>
+		<image>./snap/Zero4 Champ (Japan) (Alt).png</image>
+		<video>./video/Zero4 Champ (Japan).mp4</video>
+		<marquee>./marquee/Zero4 Champ (Japan) (Alt).png</marquee>
+		<developer>미디어링</developer>
+		<publisher>미디어링</publisher>
 		<genre/>
 		<players>1</players>
-		<releasedate>19880205T000000</releasedate>
+		<releasedate>19910308T000000</releasedate>
 	</game>
 	<game>
 		<path>./Youkai Douchuuki (Japan).zip</path>
@@ -4789,22 +5447,10 @@
 		<releasedate>19880205T000000</releasedate>
 	</game>
 	<game>
-		<path>./Zero4 Champ (Japan) (v1.5).zip</path>
-		<name>제로4 챔프</name>
-		<image>./snap/Zero4 Champ (Japan) (v1.5).png</image>
-		<video>./video/Zero4 Champ (Japan) (v1.5).mp4</video>
-		<marquee>./marquee/Zero4 Champ (Japan) (v1.5).png</marquee>
-		<developer>미디어링</developer>
-		<publisher>미디어링</publisher>
-		<genre/>
-		<players>1</players>
-		<releasedate>19910308T000000</releasedate>
-	</game>
-	<game>
 		<path>./Zero4 Champ (Japan).zip</path>
-		<name>제로4 챔프 (일본판)</name>
+		<name>제로4 챔프</name>
 		<image>./snap/Zero4 Champ (Japan).png</image>
-		<video>./video/Zero4 Champ (Japan) (v1.5).mp4</video>
+		<video>./video/Zero4 Champ (Japan).mp4</video>
 		<marquee>./marquee/Zero4 Champ (Japan).png</marquee>
 		<developer>미디어링</developer>
 		<publisher>미디어링</publisher>
@@ -4825,112 +5471,16 @@
 		<releasedate>19901214T000000</releasedate>
 	</game>
 	<game>
-		<path>./[BIOS] CD-ROM System (Japan) (v1.0).zip</path>
-		<name>[바이오스] CD-ROM 시스템 (일본판)(v1.0)</name>
-		<image>./snap/[BIOS] CD-ROM System (Japan) (v1.0).png</image>
-		<video>./video/[BIOS] TurboGrafx CD Super System Card (USA) (v3.0).mp4</video>
-		<marquee>./marquee/[BIOS] CD-ROM System (Japan) (v1.0).png</marquee>
-		<developer>NEC</developer>
-		<publisher>NEC</publisher>
+		<path>./Madou King Granzort (Japan).zip</path>
+		<name>마동왕 슈퍼 그랑죠</name>
+		<image>./snap/Madou King Granzort (Japan).png</image>
+		<video>./video/Madou King Granzort (Japan).mp4</video>
+		<marquee>./marquee/Madou King Granzort (Japan).png</marquee>
+		<developer>선라이즈</developer>
+		<publisher>허드슨</publisher>
 		<genre/>
-		<players/>
-		<releasedate/>
-	</game>
-	<game>
-		<path>./[BIOS] CD-ROM System (Japan) (v2.0).zip</path>
-		<name>[바이오스] CD-ROM 시스템 (일본판)(v2.0)</name>
-		<image>./snap/[BIOS] CD-ROM System (Japan) (v2.0).png</image>
-		<video>./video/[BIOS] TurboGrafx CD Super System Card (USA) (v3.0).mp4</video>
-		<marquee>./marquee/[BIOS] CD-ROM System (Japan) (v2.0).png</marquee>
-		<developer>NEC</developer>
-		<publisher>NEC</publisher>
-		<genre/>
-		<players/>
-		<releasedate/>
-	</game>
-	<game>
-		<path>./[BIOS] CD-ROM System (Japan) (v2.1).zip</path>
-		<name>[바이오스] CD-ROM 시스템 (일본판)(v2.1)</name>
-		<image>./snap/[BIOS] CD-ROM System (Japan) (v2.1).png</image>
-		<video>./video/[BIOS] TurboGrafx CD Super System Card (USA) (v3.0).mp4</video>
-		<marquee>./marquee/[BIOS] CD-ROM System (Japan) (v2.1).png</marquee>
-		<developer>NEC</developer>
-		<publisher>NEC</publisher>
-		<genre/>
-		<players/>
-		<releasedate/>
-	</game>
-	<game>
-		<path>./[BIOS] Games Express CD Card (Japan) (Blue Version).zip</path>
-		<name>[바이오스] 게임익스프레스 CD 카드 (일본판)(블루 버전)</name>
-		<image>./snap/[BIOS] Games Express CD Card (Japan) (Blue Version).png</image>
-		<video>./video/[BIOS] Games Express CD Card (Japan) (Green Version).mp4</video>
-		<marquee>./marquee/[BIOS] Games Express CD Card (Japan) (Blue Version).png</marquee>
-		<developer>NEC</developer>
-		<publisher>NEC</publisher>
-		<genre/>
-		<players/>
-		<releasedate/>
-	</game>
-	<game>
-		<path>./[BIOS] Games Express CD Card (Japan) (Green Version).zip</path>
-		<name>[바이오스] 게임익스프레스 CD 카드</name>
-		<image>./snap/[BIOS] Games Express CD Card (Japan) (Green Version).png</image>
-		<video>./video/[BIOS] Games Express CD Card (Japan) (Green Version).mp4</video>
-		<marquee>./marquee/[BIOS] Games Express CD Card (Japan) (Green Version).png</marquee>
-		<developer>NEC</developer>
-		<publisher>NEC</publisher>
-		<genre/>
-		<players/>
-		<releasedate/>
-	</game>
-	<game>
-		<path>./[BIOS] Super CD-ROM System (Japan) (v3.0).zip</path>
-		<name>[바이오스] 슈퍼 CD-ROM 시스템 (일본판)(v3.0)</name>
-		<image>./snap/[BIOS] Super CD-ROM System (Japan) (v3.0).png</image>
-		<video>./video/[BIOS] TurboGrafx CD Super System Card (USA) (v3.0).mp4</video>
-		<marquee>./marquee/[BIOS] Super CD-ROM System (Japan) (v3.0).png</marquee>
-		<developer>NEC</developer>
-		<publisher>NEC</publisher>
-		<genre/>
-		<players/>
-		<releasedate/>
-	</game>
-	<game>
-		<path>./[BIOS] TurboGrafx CD Super System Card (USA) (v3.0).zip</path>
-		<name>[바이오스] 터보그라픽스 CD 슈퍼 시스템 카드</name>
-		<image>./snap/[BIOS] TurboGrafx CD Super System Card (USA) (v3.0).png</image>
-		<video>./video/[BIOS] TurboGrafx CD Super System Card (USA) (v3.0).mp4</video>
-		<marquee>./marquee/[BIOS] TurboGrafx CD Super System Card (USA) (v3.0).png</marquee>
-		<developer>NEC</developer>
-		<publisher>NEC</publisher>
-		<genre/>
-		<players/>
-		<releasedate/>
-	</game>
-	<game>
-		<path>./[BIOS] TurboGrafx CD System Card (USA) (v2.0).zip</path>
-		<name>[바이오스] 터보그라픽스 CD 시스템 카드 (v2.0)</name>
-		<image>./snap/[BIOS] TurboGrafx CD System Card (USA) (v2.0).png</image>
-		<video>./video/[BIOS] TurboGrafx CD Super System Card (USA) (v3.0).mp4</video>
-		<marquee>./marquee/[BIOS] TurboGrafx CD System Card (USA) (v2.0).png</marquee>
-		<developer>NEC</developer>
-		<publisher>NEC</publisher>
-		<genre/>
-		<players/>
-		<releasedate/>
-	</game>
-	<game>
-		<path>./1941 - Counter Attack (Japan).zip</path>
-		<name>1941 - 카운터 어택</name>
-		<image>./snap/1941 - Counter Attack (Japan).png</image>
-		<video>./video/1941 - Counter Attack (Japan).mp4</video>
-		<marquee>./marquee/1941 - Counter Attack (Japan).png</marquee>
-		<developer>캡콤</developer>
-		<publisher>캡콤</publisher>
-		<genre/>
-		<players>2</players>
-		<releasedate>19910823T000000</releasedate>
+		<players>1</players>
+		<releasedate>19900406T000000</releasedate>
 	</game>
 	<game>
 		<path>./Aldynes - The Misson Code for Rage Crisis (Japan).zip</path>
@@ -4945,18 +5495,6 @@
 		<releasedate>19910222T000000</releasedate>
 	</game>
 	<game>
-		<path>./Battle Ace (Japan).zip</path>
-		<name>배틀 에이스</name>
-		<image>./snap/Battle Ace (Japan).png</image>
-		<video>./video/Battle Ace (Japan).mp4</video>
-		<marquee>./marquee/Battle Ace (Japan).png</marquee>
-		<developer>허드슨</developer>
-		<publisher>허드슨</publisher>
-		<genre/>
-		<players>1</players>
-		<releasedate>19891130T000000</releasedate>
-	</game>
-	<game>
 		<path>./Daimakaimura (Japan).zip</path>
 		<name>대마계촌</name>
 		<image>./snap/Daimakaimura (Japan).png</image>
@@ -4969,15 +5507,27 @@
 		<releasedate>19900727T000000</releasedate>
 	</game>
 	<game>
-		<path>./Madou King Granzort (Japan).zip</path>
-		<name>마동왕 슈퍼 그랑죠</name>
-		<image>./snap/Madou King Granzort (Japan).png</image>
-		<video>./video/Madou King Granzort (Japan).mp4</video>
-		<marquee>./marquee/Madou King Granzort (Japan).png</marquee>
-		<developer>선라이즈</developer>
+		<path>./Battle Ace (Japan).zip</path>
+		<name>배틀 에이스</name>
+		<image>./snap/Battle Ace (Japan).png</image>
+		<video>./video/Battle Ace (Japan).mp4</video>
+		<marquee>./marquee/Battle Ace (Japan).png</marquee>
+		<developer>허드슨</developer>
 		<publisher>허드슨</publisher>
 		<genre/>
 		<players>1</players>
-		<releasedate>19900406T000000</releasedate>
+		<releasedate>19891130T000000</releasedate>
+	</game>
+	<game>
+		<path>./1941 - Counter Attack (Japan).zip</path>
+		<name>1941 - 카운터 어택</name>
+		<image>./snap/1941 - Counter Attack (Japan).png</image>
+		<video>./video/1941 - Counter Attack (Japan).mp4</video>
+		<marquee>./marquee/1941 - Counter Attack (Japan).png</marquee>
+		<developer>캡콤</developer>
+		<publisher>캡콤</publisher>
+		<genre/>
+		<players>2</players>
+		<releasedate>19910823T000000</releasedate>
 	</game>
 </gameList>

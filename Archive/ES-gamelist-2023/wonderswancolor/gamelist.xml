@@ -1,0 +1,1351 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<!--
+* 제목 : 레트로게임 롬 목록 한글화 프로젝트
+* 지원프론트엔드 : RetroPie, Recalbox, Attract-Mode
+* 지원에뮬 : Arcade(MAME, AdvMAME, FBNeo), NES, SNES, MD, GB, GBC, GBA, PCE, SMS, Sega 32X, NGP, NGPC, WS, WSC
+* 제작자 : 텐타클 팀
+* 최종수정 : July 30, 2021
+* 카페 : http://cafe.naver.com/raspigamer
+* 레트로게임 롬 목록 한글화 자료는 오픈소스입니다. MIT 라이센스를 따르고 있으므로 라이센스와 출처(http://cafe.naver.com/raspigamer) 표시만 지켜주시면 자유롭게 사용하실 수 있습니다.
+-->
+	<game>
+		<path>./Alchemist Marie &amp; Elie - Futari no Atelier (Japan).zip</path>
+		<name>알케미스트 마리 &amp; 엘리 - 두 사람의 아틀리에 (일본판)</name>
+		<image>./snap/Alchemist Marie &amp; Elie - Futari no Atelier (Japan).png</image>
+		<video>./video/Alchemist Marie &amp; Elie - Futari no Atelier (Japan).mp4</video>
+		<marquee>./marquee/Alchemist Marie &amp; Elie - Futari no Atelier (Japan).png</marquee>
+		<thumbnail>./box/Alchemist Marie &amp; Elie - Futari no Atelier (Japan).png</thumbnail>
+		<developer>거스트</developer>
+		<publisher>거스트</publisher>
+		<genre>롤플레잉</genre>
+		<players>43,832</players>
+		<releasedate>20011025T000000</releasedate>
+	</game>
+	<game>
+		<path>./Another Heaven - Memory of those Days (Japan).zip</path>
+		<name>어나더 헤븐 - 그때의 기억 (일본판)</name>
+		<image>./snap/Another Heaven - Memory of those Days (Japan).png</image>
+		<video>./video/Another Heaven - Memory of those Days (Japan).mp4</video>
+		<marquee>./marquee/Another Heaven - Memory of those Days (Japan).png</marquee>
+		<thumbnail>./box/Another Heaven - Memory of those Days (Japan).png</thumbnail>
+		<developer>오메가 미코트</developer>
+		<publisher>반다이</publisher>
+		<genre>어드벤처</genre>
+		<players>1</players>
+		<releasedate>20001221T000000</releasedate>
+	</game>
+	<game>
+		<path>./Arc the Lad - Kishin Fukkatsu (Japan).zip</path>
+		<name>아크 더 라드 - 기신부활 (일본판)</name>
+		<image>./snap/Arc the Lad - Kishin Fukkatsu (Japan).png</image>
+		<video>./video/Arc the Lad - Kishin Fukkatsu (Japan).mp4</video>
+		<marquee>./marquee/Arc the Lad - Kishin Fukkatsu (Japan).png</marquee>
+		<thumbnail>./box/Arc the Lad - Kishin Fukkatsu (Japan).png</thumbnail>
+		<developer>반다이</developer>
+		<publisher>반다이</publisher>
+		<genre>롤플레잉</genre>
+		<players>1</players>
+		<releasedate>20020704T000000</releasedate>
+	</game>
+	<game>
+		<path>./Battle Spirit - Digimon Frontier (Japan) (Rev 1).zip</path>
+		<name>배틀 스피릿 - 디지몬 프론티어 (일본판)(개정판 1)</name>
+		<image>./snap/Battle Spirit - Digimon Frontier (Japan) (Rev 1).png</image>
+		<video>./video/Battle Spirit - Digimon Frontier (Japan) (Rev 1).mp4</video>
+		<marquee>./marquee/Battle Spirit - Digimon Frontier (Japan) (Rev 1).png</marquee>
+		<thumbnail>./box/Battle Spirit - Digimon Frontier (Japan) (Rev 1).png</thumbnail>
+		<developer>딤프</developer>
+		<publisher>반다이</publisher>
+		<genre>액션</genre>
+		<players>43,832</players>
+		<releasedate>20021207T000000</releasedate>
+	</game>
+	<game>
+		<path>./Blue Wing Blitz (Japan).zip</path>
+		<name>블루 윙 블리츠 (일본판)</name>
+		<image>./snap/Blue Wing Blitz (Japan).png</image>
+		<video>./video/Blue Wing Blitz (Japan).mp4</video>
+		<marquee>./marquee/Blue Wing Blitz (Japan).png</marquee>
+		<thumbnail>./box/Blue Wing Blitz (Japan).png</thumbnail>
+		<developer>스퀘어 에닉스</developer>
+		<publisher>스퀘어 에닉스</publisher>
+		<genre>롤플레잉</genre>
+		<players>1</players>
+		<releasedate>20010705T000000</releasedate>
+	</game>
+	<game>
+		<path>./Dark Eyes - Battle Gate (Japan).zip</path>
+		<name>다크 아이즈 - 배틀 게이트 (일본판)</name>
+		<image>./snap/Dark Eyes - Battle Gate (Japan).png</image>
+		<video>./video/Dark Eyes - Battle Gate (Japan).mp4</video>
+		<marquee>./marquee/Dark Eyes - Battle Gate (Japan).png</marquee>
+		<thumbnail>./box/Dark Eyes - Battle Gate (Japan).png</thumbnail>
+		<developer>반다이</developer>
+		<publisher>반다이</publisher>
+		<genre>어드벤처</genre>
+		<players>1</players>
+		<releasedate>20010508T000000</releasedate>
+	</game>
+	<game>
+		<path>./Dicing Knight. (Japan).zip</path>
+		<name>다이싱 나이트 (일본판)</name>
+		<image>./snap/Dicing Knight. (Japan).png</image>
+		<video>./video/Dicing Knight. (Japan).mp4</video>
+		<marquee>./marquee/Dicing Knight. (Japan).png</marquee>
+		<thumbnail>./box/Dicing Knight. (Japan).png</thumbnail>
+		<developer>플랜틴 디스포시티프</developer>
+		<publisher>큐트</publisher>
+		<genre>롤플레잉</genre>
+		<players>1</players>
+		<releasedate>20040531T000000</releasedate>
+	</game>
+	<game>
+		<path>./Digimon - Anode Tamer &amp; Cathode Tamer - Veedramon Version (Hong Kong).zip</path>
+		<name>디지몬 - 양극 태머 &amp; 음극 태머 (홍콩판)</name>
+		<image>./snap/Digimon - Anode Tamer &amp; Cathode Tamer - Veedramon Version (Hong Kong).png</image>
+		<video>./video/Digimon - Anode Tamer &amp; Cathode Tamer - Veedramon Version (Hong Kong).mp4</video>
+		<marquee>./marquee/Digimon - Anode Tamer &amp; Cathode Tamer - Veedramon Version (Hong Kong).png</marquee>
+		<thumbnail>./box/Digimon - Anode Tamer &amp; Cathode Tamer - Veedramon Version (Hong Kong).png</thumbnail>
+		<developer>반다이</developer>
+		<publisher>반다이</publisher>
+		<genre>롤플레잉</genre>
+		<players>43,832</players>
+		<releasedate>01010101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Digimon Adventure 02 - D1 Tamers (Japan) (Rev 1).zip</path>
+		<name>디지몬 어드벤쳐 2 - D1 태머 (일본판)(개정판 1)</name>
+		<image>./snap/Digimon Adventure 02 - D1 Tamers (Japan) (Rev 1).png</image>
+		<video>./video/Digimon Adventure 02 - D1 Tamers (Japan) (Rev 1).mp4</video>
+		<marquee>./marquee/Digimon Adventure 02 - D1 Tamers (Japan) (Rev 1).png</marquee>
+		<thumbnail>./box/Digimon Adventure 02 - D1 Tamers (Japan) (Rev 1).png</thumbnail>
+		<developer>심즈</developer>
+		<publisher>반다이</publisher>
+		<genre>롤플레잉</genre>
+		<players>43,832</players>
+		<releasedate>20001209T000000</releasedate>
+	</game>
+	<game>
+		<path>./Digimon Adventure 02 - D1 Tamers (Japan).zip</path>
+		<name>디지몬 어드벤쳐 2 - D1 태머 (일본판)</name>
+		<image>./snap/Digimon Adventure 02 - D1 Tamers (Japan).png</image>
+		<video>./video/Digimon Adventure 02 - D1 Tamers (Japan).mp4</video>
+		<marquee>./marquee/Digimon Adventure 02 - D1 Tamers (Japan).png</marquee>
+		<thumbnail>./box/Digimon Adventure 02 - D1 Tamers (Japan).png</thumbnail>
+		<developer>심즈</developer>
+		<publisher>반다이</publisher>
+		<genre>롤플레잉</genre>
+		<players>43,832</players>
+		<releasedate>20001209T000000</releasedate>
+	</game>
+	<game>
+		<path>./Digimon Tamers - Battle Spirit (Japan) (En,Ja).zip</path>
+		<name>디지몬 태머즈 - 배틀 스피릿 (일본판)(영어)</name>
+		<image>./snap/Digimon Tamers - Battle Spirit (Japan) (En,Ja).png</image>
+		<video>./video/Digimon Tamers - Battle Spirit (Japan) (En,Ja).mp4</video>
+		<marquee>./marquee/Digimon Tamers - Battle Spirit (Japan) (En,Ja).png</marquee>
+		<thumbnail>./box/Digimon Tamers - Battle Spirit (Japan) (En,Ja).png</thumbnail>
+		<developer>딤프</developer>
+		<publisher>반다이</publisher>
+		<genre>액션</genre>
+		<players>43,832</players>
+		<releasedate>20021207T000000</releasedate>
+	</game>
+	<game>
+		<path>./Digimon Tamers - Battle Spirit Ver. 1.5 (Japan).zip</path>
+		<name>디지몬 태머즈 - 배틀 스피릿 V 1.5 (일본판)</name>
+		<image>./snap/Digimon Tamers - Battle Spirit Ver. 1.5 (Japan).png</image>
+		<video>./video/Digimon Tamers - Battle Spirit Ver. 1.5 (Japan).mp4</video>
+		<marquee>./marquee/Digimon Tamers - Battle Spirit Ver. 1.5 (Japan).png</marquee>
+		<thumbnail>./box/Digimon Tamers - Battle Spirit Ver. 1.5 (Japan).png</thumbnail>
+		<developer>딤프</developer>
+		<publisher>반다이</publisher>
+		<genre>액션</genre>
+		<players>43,832</players>
+		<releasedate>20021207T000000</releasedate>
+	</game>
+	<game>
+		<path>./Digimon Tamers - Brave Tamer (Japan) (Rev 1).zip</path>
+		<name>디지몬 태머즈 - 브레이브 태머 (일본판)(개정판 1)</name>
+		<image>./snap/Digimon Tamers - Brave Tamer (Japan) (Rev 1).png</image>
+		<video>./video/Digimon Tamers - Brave Tamer (Japan) (Rev 1).mp4</video>
+		<marquee>./marquee/Digimon Tamers - Brave Tamer (Japan) (Rev 1).png</marquee>
+		<thumbnail>./box/Digimon Tamers - Brave Tamer (Japan) (Rev 1).png</thumbnail>
+		<developer>심즈</developer>
+		<publisher>반다이</publisher>
+		<genre>롤플레잉</genre>
+		<players>43,832</players>
+		<releasedate>20011229T000000</releasedate>
+	</game>
+	<game>
+		<path>./Digimon Tamers - Digimon Medley (Japan) (Rev 1).zip</path>
+		<name>디지몬 태머즈 - 디지몬 메들리 (일본판)(개정판 1)</name>
+		<image>./snap/Digimon Tamers - Digimon Medley (Japan) (Rev 1).png</image>
+		<video>./video/Digimon Tamers - Digimon Medley (Japan) (Rev 1).mp4</video>
+		<marquee>./marquee/Digimon Tamers - Digimon Medley (Japan) (Rev 1).png</marquee>
+		<thumbnail>./box/Digimon Tamers - Digimon Medley (Japan) (Rev 1).png</thumbnail>
+		<developer>쉐이드</developer>
+		<publisher>반다이</publisher>
+		<genre>롤플레잉</genre>
+		<players>43,832</players>
+		<releasedate>20010712T000000</releasedate>
+	</game>
+	<game>
+		<path>./Digimon Tamers - Digimon Medley (Japan).zip</path>
+		<name>디지몬 태머즈 - 디지몬 메들리 (일본판)</name>
+		<image>./snap/Digimon Tamers - Digimon Medley (Japan).png</image>
+		<video>./video/Digimon Tamers - Digimon Medley (Japan).mp4</video>
+		<marquee>./marquee/Digimon Tamers - Digimon Medley (Japan).png</marquee>
+		<thumbnail>./box/Digimon Tamers - Digimon Medley (Japan).png</thumbnail>
+		<developer>쉐이드</developer>
+		<publisher>반다이</publisher>
+		<genre>롤플레잉</genre>
+		<players>43,832</players>
+		<releasedate>20010712T000000</releasedate>
+	</game>
+	<game>
+		<path>./Digital Monster - D-Project (Japan) (Rev 1).zip</path>
+		<name>디지털 몬스터 - D프로젝트 (일본판)(개정판 1)</name>
+		<image>./snap/Digital Monster - D-Project (Japan) (Rev 1).png</image>
+		<video>./video/Digital Monster - D-Project (Japan) (Rev 1).mp4</video>
+		<marquee>./marquee/Digital Monster - D-Project (Japan) (Rev 1).png</marquee>
+		<thumbnail>./box/Digital Monster - D-Project (Japan) (Rev 1).png</thumbnail>
+		<developer>스팅</developer>
+		<publisher>반다이</publisher>
+		<genre>롤플레잉</genre>
+		<players>1</players>
+		<releasedate>20020803T000000</releasedate>
+	</game>
+	<game>
+		<path>./Digital Monster - D-Project (Japan).zip</path>
+		<name>디지털 몬스터 - D프로젝트 (일본판)</name>
+		<image>./snap/Digital Monster - D-Project (Japan).png</image>
+		<video>./video/Digital Monster - D-Project (Japan).mp4</video>
+		<marquee>./marquee/Digital Monster - D-Project (Japan).png</marquee>
+		<thumbnail>./box/Digital Monster - D-Project (Japan).png</thumbnail>
+		<developer>스팅</developer>
+		<publisher>반다이</publisher>
+		<genre>롤플레잉</genre>
+		<players>1</players>
+		<releasedate>20020803T000000</releasedate>
+	</game>
+	<game>
+		<path>./Digital Monster Card Game - Ver. WonderSwan Color (Japan) (Rev 2).zip</path>
+		<name>디지털 몬스터 카드 게임 원더스완 컬러 (일본판)(개정판 2)</name>
+		<image>./snap/Digital Monster Card Game - Ver. WonderSwan Color (Japan) (Rev 2).png</image>
+		<video>./video/Digital Monster Card Game - Ver. WonderSwan Color (Japan) (Rev 2).mp4</video>
+		<marquee>./marquee/Digital Monster Card Game - Ver. WonderSwan Color (Japan) (Rev 2).png</marquee>
+		<thumbnail>./box/Digital Monster Card Game - Ver. WonderSwan Color (Japan) (Rev 2).png</thumbnail>
+		<developer>톰 크리에이트</developer>
+		<publisher>반다이</publisher>
+		<genre>전략</genre>
+		<players>43,832</players>
+		<releasedate>20020316T000000</releasedate>
+	</game>
+	<game>
+		<path>./Digital Monster Card Game - Ver. WonderSwan Color (Japan).zip</path>
+		<name>디지털 몬스터 카드 게임 원더스완 컬러 (일본판)</name>
+		<image>./snap/Digital Monster Card Game - Ver. WonderSwan Color (Japan).png</image>
+		<video>./video/Digital Monster Card Game - Ver. WonderSwan Color (Japan).mp4</video>
+		<marquee>./marquee/Digital Monster Card Game - Ver. WonderSwan Color (Japan).png</marquee>
+		<thumbnail>./box/Digital Monster Card Game - Ver. WonderSwan Color (Japan).png</thumbnail>
+		<developer>톰 크리에이트</developer>
+		<publisher>반다이</publisher>
+		<genre>전략</genre>
+		<players>43,832</players>
+		<releasedate>20020316T000000</releasedate>
+	</game>
+	<game>
+		<path>./Dokodemo Hamster 3 - Odekake Saffron (Japan) (Rev 2).zip</path>
+		<name>어디서나 햄스터 3 (일본판)(개정판 2)</name>
+		<image>./snap/Dokodemo Hamster 3 - Odekake Saffron (Japan) (Rev 2).png</image>
+		<video>./video/Dokodemo Hamster 3 - Odekake Saffron (Japan) (Rev 2).mp4</video>
+		<marquee>./marquee/Dokodemo Hamster 3 - Odekake Saffron (Japan) (Rev 2).png</marquee>
+		<thumbnail>./box/Dokodemo Hamster 3 - Odekake Saffron (Japan) (Rev 2).png</thumbnail>
+		<developer>BEC</developer>
+		<publisher>반다이</publisher>
+		<genre>시뮬레이션</genre>
+		<players>1</players>
+		<releasedate>20001214T000000</releasedate>
+	</game>
+	<game>
+		<path>./Dragon Ball (Japan).zip</path>
+		<name>드래곤 볼 (일본판)</name>
+		<image>./snap/Dragon Ball (Japan).png</image>
+		<video>./video/Dragon Ball (Japan).mp4</video>
+		<marquee>./marquee/Dragon Ball (Japan).png</marquee>
+		<thumbnail>./box/Dragon Ball (Japan).png</thumbnail>
+		<developer>반다이</developer>
+		<publisher>반다이</publisher>
+		<genre>롤플레잉</genre>
+		<players>1</players>
+		<releasedate>20031120T000000</releasedate>
+	</game>
+	<game>
+		<path>./Final Fantasy (Japan).zip</path>
+		<name>파이널 판타지 (일본판)</name>
+		<image>./snap/Final Fantasy (Japan).png</image>
+		<video>./video/Final Fantasy (Japan).mp4</video>
+		<marquee>./marquee/Final Fantasy (Japan).png</marquee>
+		<thumbnail>./box/Final Fantasy (Japan).png</thumbnail>
+		<developer>스퀘어 에닉스</developer>
+		<publisher>스퀘어 에닉스</publisher>
+		<genre>롤플레잉</genre>
+		<players>1</players>
+		<releasedate>20001209T000000</releasedate>
+	</game>
+	<game>
+		<path>./Final Fantasy II (Japan).zip</path>
+		<name>파이널 판타지 2 (일본판)</name>
+		<image>./snap/Final Fantasy II (Japan).png</image>
+		<video>./video/Final Fantasy II (Japan).mp4</video>
+		<marquee>./marquee/Final Fantasy II (Japan).png</marquee>
+		<thumbnail>./box/Final Fantasy II (Japan).png</thumbnail>
+		<developer>스퀘어 에닉스</developer>
+		<publisher>스퀘어 에닉스</publisher>
+		<genre>롤플레잉</genre>
+		<players>1</players>
+		<releasedate>20010503T000000</releasedate>
+	</game>
+	<game>
+		<path>./Final Fantasy IV (Japan).zip</path>
+		<name>파이널 판타지 4 (일본판)</name>
+		<image>./snap/Final Fantasy IV (Japan).png</image>
+		<video>./video/Final Fantasy IV (Japan).mp4</video>
+		<marquee>./marquee/Final Fantasy IV (Japan).png</marquee>
+		<thumbnail>./box/Final Fantasy IV (Japan).png</thumbnail>
+		<developer>스퀘어 에닉스</developer>
+		<publisher>스퀘어 에닉스</publisher>
+		<genre>롤플레잉</genre>
+		<players>1</players>
+		<releasedate>20020328T000000</releasedate>
+	</game>
+	<game>
+		<path>./Final Lap Special - GT &amp; Formula Machine (Japan).zip</path>
+		<name>파이널 랩 스페셜 - GT &amp; 포뮬러 머신 (일본판)</name>
+		<image>./snap/Final Lap Special - GT &amp; Formula Machine (Japan).png</image>
+		<video>./video/Final Lap Special - GT &amp; Formula Machine (Japan).mp4</video>
+		<marquee>./marquee/Final Lap Special - GT &amp; Formula Machine (Japan).png</marquee>
+		<thumbnail>./box/Final Lap Special - GT &amp; Formula Machine (Japan).png</thumbnail>
+		<developer>반다이</developer>
+		<publisher>반다이</publisher>
+		<genre>운전</genre>
+		<players>43,832</players>
+		<releasedate>20011115T000000</releasedate>
+	</game>
+	<game>
+		<path>./Flash Koibito-kun (Japan).zip</path>
+		<name>플래시 연인군 (일본판)</name>
+		<image>./snap/Flash Koibito-kun (Japan).png</image>
+		<video>./video/Flash Koibito-kun (Japan).mp4</video>
+		<marquee>./marquee/Flash Koibito-kun (Japan).png</marquee>
+		<thumbnail>./box/Flash Koibito-kun (Japan).png</thumbnail>
+		<developer>코토 랩</developer>
+		<publisher>코분샤</publisher>
+		<genre>롤플레잉</genre>
+		<players>1</players>
+		<releasedate>20001228T000000</releasedate>
+	</game>
+	<game>
+		<path>./From TV Animation One Piece - Chopper no Daibouken (Japan).zip</path>
+		<name>TV 애니메이션 원피스 - 초퍼의 대모험 (일본판)</name>
+		<image>./snap/From TV Animation One Piece - Chopper no Daibouken (Japan).png</image>
+		<video>./video/From TV Animation One Piece - Chopper no Daibouken (Japan).mp4</video>
+		<marquee>./marquee/From TV Animation One Piece - Chopper no Daibouken (Japan).png</marquee>
+		<thumbnail>./box/From TV Animation One Piece - Chopper no Daibouken (Japan).png</thumbnail>
+		<developer>반다이</developer>
+		<publisher>반다이</publisher>
+		<genre>격투</genre>
+		<players>43,832</players>
+		<releasedate>20031016T000000</releasedate>
+	</game>
+	<game>
+		<path>./From TV Animation One Piece - Grand Battle Swan Colosseum (Japan).zip</path>
+		<name>TV 애니메이션 원피스 - 그랜드 배틀 스완 콜로세움 (일본판)</name>
+		<image>./snap/From TV Animation One Piece - Grand Battle Swan Colosseum (Japan).png</image>
+		<video>./video/From TV Animation One Piece - Grand Battle Swan Colosseum (Japan).mp4</video>
+		<marquee>./marquee/From TV Animation One Piece - Grand Battle Swan Colosseum (Japan).png</marquee>
+		<thumbnail>./box/From TV Animation One Piece - Grand Battle Swan Colosseum (Japan).png</thumbnail>
+		<developer>반다이</developer>
+		<publisher>반다이</publisher>
+		<genre>격투</genre>
+		<players>43,832</players>
+		<releasedate>20020712T000000</releasedate>
+	</game>
+	<game>
+		<path>./From TV Animation One Piece - Niji no Shima Densetsu (Japan).zip</path>
+		<name>TV 애니메이션 원피스 - 무지개 섬의 전설 (일본판)</name>
+		<image>./snap/From TV Animation One Piece - Niji no Shima Densetsu (Japan).png</image>
+		<video>./video/From TV Animation One Piece - Niji no Shima Densetsu (Japan).mp4</video>
+		<marquee>./marquee/From TV Animation One Piece - Niji no Shima Densetsu (Japan).png</marquee>
+		<thumbnail>./box/From TV Animation One Piece - Niji no Shima Densetsu (Japan).png</thumbnail>
+		<developer>반다이</developer>
+		<publisher>반다이</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>20010913T000000</releasedate>
+	</game>
+	<game>
+		<path>./From TV Animation One Piece - Treasure Wars (Japan) (Rev 1).zip</path>
+		<name>TV 애니메이션 원피스 - 트레져 워즈 (일본판)(개정판 1)</name>
+		<image>./snap/From TV Animation One Piece - Treasure Wars (Japan) (Rev 1).png</image>
+		<video>./video/From TV Animation One Piece - Treasure Wars (Japan) (Rev 1).mp4</video>
+		<marquee>./marquee/From TV Animation One Piece - Treasure Wars (Japan) (Rev 1).png</marquee>
+		<thumbnail>./box/From TV Animation One Piece - Treasure Wars (Japan) (Rev 1).png</thumbnail>
+		<developer>반다이</developer>
+		<publisher>반다이</publisher>
+		<genre/>
+		<players>43,832</players>
+		<releasedate>20020103T000000</releasedate>
+	</game>
+	<game>
+		<path>./From TV Animation One Piece - Treasure Wars (Japan).zip</path>
+		<name>TV 애니메이션 원피스 - 트레져 워즈 (일본판)</name>
+		<image>./snap/From TV Animation One Piece - Treasure Wars (Japan).png</image>
+		<video>./video/From TV Animation One Piece - Treasure Wars (Japan).mp4</video>
+		<marquee>./marquee/From TV Animation One Piece - Treasure Wars (Japan).png</marquee>
+		<thumbnail>./box/From TV Animation One Piece - Treasure Wars (Japan).png</thumbnail>
+		<developer>반다이</developer>
+		<publisher>반다이</publisher>
+		<genre/>
+		<players>43,832</players>
+		<releasedate>20020103T000000</releasedate>
+	</game>
+	<game>
+		<path>./From TV Animation One Piece - Treasure Wars 2 - Buggy Land e Youkoso (Japan).zip</path>
+		<name>TV 애니메이션 원피스 - 트레져 워즈 2 (일본판)</name>
+		<image>./snap/From TV Animation One Piece - Treasure Wars 2 - Buggy Land e Youkoso (Japan).png</image>
+		<video>./video/From TV Animation One Piece - Treasure Wars 2 - Buggy Land e Youkoso (Japan).mp4</video>
+		<marquee>./marquee/From TV Animation One Piece - Treasure Wars 2 - Buggy Land e Youkoso (Japan).png</marquee>
+		<thumbnail>./box/From TV Animation One Piece - Treasure Wars 2 - Buggy Land e Youkoso (Japan).png</thumbnail>
+		<developer>반다이</developer>
+		<publisher>반다이</publisher>
+		<genre/>
+		<players>43,832</players>
+		<releasedate>20021220T000000</releasedate>
+	</game>
+	<game>
+		<path>./Front Mission (Japan).zip</path>
+		<name>프론트 미션 (일본판)</name>
+		<image>./snap/Front Mission (Japan).png</image>
+		<video>./video/Front Mission (Japan).mp4</video>
+		<marquee>./marquee/Front Mission (Japan).png</marquee>
+		<thumbnail>./box/Front Mission (Japan).png</thumbnail>
+		<developer>G-크래프트</developer>
+		<publisher>스퀘어 에닉스</publisher>
+		<genre>액션</genre>
+		<players>43,832</players>
+		<releasedate>20020712T000000</releasedate>
+	</game>
+	<game>
+		<path>./Gekitou! Crash Gear Turbo - Gear Champion League (Japan).zip</path>
+		<name>격투! 크래시 기어 터보 - 기어 챔피언 리그 (일본판)</name>
+		<image>./snap/Gekitou! Crash Gear Turbo - Gear Champion League (Japan).png</image>
+		<video>./video/Gekitou! Crash Gear Turbo - Gear Champion League (Japan).mp4</video>
+		<marquee>./marquee/Gekitou! Crash Gear Turbo - Gear Champion League (Japan).png</marquee>
+		<thumbnail>./box/Gekitou! Crash Gear Turbo - Gear Champion League (Japan).png</thumbnail>
+		<developer>반다이</developer>
+		<publisher>반다이</publisher>
+		<genre/>
+		<players>43,832</players>
+		<releasedate>20020810T000000</releasedate>
+	</game>
+	<game>
+		<path>./Gensou Maden Saiyuuki Retribution - Hi no Ataru Basho de (Japan) (Rev 2).zip</path>
+		<name>환상마전 최유기 리트리뷰션 - 햇빛이 닿는 장소에서 (일본판)(개정판 2)</name>
+		<image>./snap/Gensou Maden Saiyuuki Retribution - Hi no Ataru Basho de (Japan) (Rev 2).png</image>
+		<video>./video/Gensou Maden Saiyuuki Retribution - Hi no Ataru Basho de (Japan) (Rev 2).mp4</video>
+		<marquee>./marquee/Gensou Maden Saiyuuki Retribution - Hi no Ataru Basho de (Japan) (Rev 2).png</marquee>
+		<thumbnail>./box/Gensou Maden Saiyuuki Retribution - Hi no Ataru Basho de (Japan) (Rev 2).png</thumbnail>
+		<developer>픽팍-에어리얼</developer>
+		<publisher>무빅</publisher>
+		<genre/>
+		<players>43,832</players>
+		<releasedate>20010607T000000</releasedate>
+	</game>
+	<game>
+		<path>./Golden Axe (Japan).zip</path>
+		<name>황금 도끼 / 골든 엑스 (일본판)</name>
+		<image>./snap/Golden Axe (Japan).png</image>
+		<video>./video/Golden Axe (Japan).mp4</video>
+		<marquee>./marquee/Golden Axe (Japan).png</marquee>
+		<thumbnail>./box/Golden Axe (Japan).png</thumbnail>
+		<developer>세가</developer>
+		<publisher>반다이</publisher>
+		<genre>롤플레잉</genre>
+		<players>43,832</players>
+		<releasedate>20020228T000000</releasedate>
+	</game>
+	<game>
+		<path>./Gransta Chronicle (Japan).zip</path>
+		<name>그랜스타 클로니클 (일본판)</name>
+		<image>./snap/Gransta Chronicle (Japan).png</image>
+		<video>./video/Gransta Chronicle (Japan).mp4</video>
+		<marquee>./marquee/Gransta Chronicle (Japan).png</marquee>
+		<thumbnail>./box/Gransta Chronicle (Japan).png</thumbnail>
+		<developer>톰 크리에이트</developer>
+		<publisher>오메가 미코트</publisher>
+		<genre>롤플레잉</genre>
+		<players>43,832</players>
+		<releasedate>20020613T000000</releasedate>
+	</game>
+	<game>
+		<path>./Guilty Gear Petit (Japan).zip</path>
+		<name>길티 기어 피팃 (일본판)</name>
+		<image>./snap/Guilty Gear Petit (Japan).png</image>
+		<video>./video/Guilty Gear Petit (Japan).mp4</video>
+		<marquee>./marquee/Guilty Gear Petit (Japan).png</marquee>
+		<thumbnail>./box/Guilty Gear Petit (Japan).png</thumbnail>
+		<developer>아크 시스템 웍스</developer>
+		<publisher>새미</publisher>
+		<genre>격투</genre>
+		<players>43,832</players>
+		<releasedate>20010125T000000</releasedate>
+	</game>
+	<game>
+		<path>./Guilty Gear Petit 2 (Japan).zip</path>
+		<name>길티 기어 피팃 2 (일본판)</name>
+		<image>./snap/Guilty Gear Petit 2 (Japan).png</image>
+		<video>./video/Guilty Gear Petit 2 (Japan).mp4</video>
+		<marquee>./marquee/Guilty Gear Petit 2 (Japan).png</marquee>
+		<thumbnail>./box/Guilty Gear Petit 2 (Japan).png</thumbnail>
+		<developer>아크 시스템 웍스</developer>
+		<publisher>새미</publisher>
+		<genre>격투</genre>
+		<players>43,832</players>
+		<releasedate>20010927T000000</releasedate>
+	</game>
+	<game>
+		<path>./GunPey EX (Japan).zip</path>
+		<name>건피 EX (일본판)</name>
+		<image>./snap/GunPey EX (Japan).png</image>
+		<video>./video/GunPey EX (Japan).mp4</video>
+		<marquee>./marquee/GunPey EX (Japan).png</marquee>
+		<thumbnail>./box/GunPey EX (Japan).png</thumbnail>
+		<developer>코토 랩</developer>
+		<publisher>반다이</publisher>
+		<genre>시뮬레이션</genre>
+		<players>43,832</players>
+		<releasedate>20001209T000000</releasedate>
+	</game>
+	<game>
+		<path>./Hanjuku Hero - Ah, Sekai yo Hanjuku Nare...!! (Japan) (Rev 1).zip</path>
+		<name>반숙 영웅 - 아, 세계여 반숙이 되어라!! (일본판)(개정판 1)</name>
+		<image>./snap/Hanjuku Hero - Ah, Sekai yo Hanjuku Nare...!! (Japan) (Rev 1).png</image>
+		<video>./video/Hanjuku Hero - Ah, Sekai yo Hanjuku Nare...!! (Japan) (Rev 1).mp4</video>
+		<marquee>./marquee/Hanjuku Hero - Ah, Sekai yo Hanjuku Nare...!! (Japan) (Rev 1).png</marquee>
+		<thumbnail>./box/Hanjuku Hero - Ah, Sekai yo Hanjuku Nare...!! (Japan) (Rev 1).png</thumbnail>
+		<developer>스퀘어 에닉스</developer>
+		<publisher>스퀘어 에닉스</publisher>
+		<genre>전략</genre>
+		<players>43,832</players>
+		<releasedate>20020214T000000</releasedate>
+	</game>
+	<game>
+		<path>./Hataraku Chocobo (Japan).zip</path>
+		<name>움직이다 초코보 (일본판)</name>
+		<image>./snap/Hataraku Chocobo (Japan).png</image>
+		<video>./video/Hataraku Chocobo (Japan).mp4</video>
+		<marquee>./marquee/Hataraku Chocobo (Japan).png</marquee>
+		<thumbnail>./box/Hataraku Chocobo (Japan).png</thumbnail>
+		<developer>스퀘어 에닉스</developer>
+		<publisher>스퀘어 에닉스</publisher>
+		<genre>시뮬레이션</genre>
+		<players>1</players>
+		<releasedate>20000921T000000</releasedate>
+	</game>
+	<game>
+		<path>./Hunter X Hunter - Greed Island (Japan) (Rev 1).zip</path>
+		<name>헌터 X 헌터 - 그리드 아일랜드 (일본판)(개정판 1)</name>
+		<image>./snap/Hunter X Hunter - Greed Island (Japan) (Rev 1).png</image>
+		<video>./video/Hunter X Hunter - Greed Island (Japan) (Rev 1).mp4</video>
+		<marquee>./marquee/Hunter X Hunter - Greed Island (Japan) (Rev 1).png</marquee>
+		<thumbnail>./box/Hunter X Hunter - Greed Island (Japan) (Rev 1).png</thumbnail>
+		<developer>반다이</developer>
+		<publisher>반다이</publisher>
+		<genre>롤플레잉</genre>
+		<players>1</players>
+		<releasedate>20030424T000000</releasedate>
+	</game>
+	<game>
+		<path>./Hunter X Hunter - Greed Island (Japan).zip</path>
+		<name>헌터 X 헌터 - 그리드 아일랜드 (일본판)</name>
+		<image>./snap/Hunter X Hunter - Greed Island (Japan).png</image>
+		<video>./video/Hunter X Hunter - Greed Island (Japan).mp4</video>
+		<marquee>./marquee/Hunter X Hunter - Greed Island (Japan).png</marquee>
+		<thumbnail>./box/Hunter X Hunter - Greed Island (Japan).png</thumbnail>
+		<developer>반다이</developer>
+		<publisher>반다이</publisher>
+		<genre>롤플레잉</genre>
+		<players>1</players>
+		<releasedate>20030424T000000</releasedate>
+	</game>
+	<game>
+		<path>./Hunter X Hunter - Michibikareshi Mono (Japan).zip</path>
+		<name>헌터 X 헌터 - 인도받는 자 (일본판)</name>
+		<image>./snap/Hunter X Hunter - Michibikareshi Mono (Japan).png</image>
+		<video>./video/Hunter X Hunter - Michibikareshi Mono (Japan).mp4</video>
+		<marquee>./marquee/Hunter X Hunter - Michibikareshi Mono (Japan).png</marquee>
+		<thumbnail>./box/Hunter X Hunter - Michibikareshi Mono (Japan).png</thumbnail>
+		<developer>반다이</developer>
+		<publisher>반다이</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>20010823T000000</releasedate>
+	</game>
+	<game>
+		<path>./Hunter X Hunter - Sorezore no Ketsui (Japan).zip</path>
+		<name>헌터 X 헌터 - 각자의 결의 (일본판)</name>
+		<image>./snap/Hunter X Hunter - Sorezore no Ketsui (Japan).png</image>
+		<video>./video/Hunter X Hunter - Sorezore no Ketsui (Japan).mp4</video>
+		<marquee>./marquee/Hunter X Hunter - Sorezore no Ketsui (Japan).png</marquee>
+		<thumbnail>./box/Hunter X Hunter - Sorezore no Ketsui (Japan).png</thumbnail>
+		<developer>반다이</developer>
+		<publisher>반다이</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>20010426T000000</releasedate>
+	</game>
+	<game>
+		<path>./Inuyasha - Fuuun Emaki (Japan).zip</path>
+		<name>이누야샤 - 풍운회권 (일본판)</name>
+		<image>./snap/Inuyasha - Fuuun Emaki (Japan).png</image>
+		<video>./video/Inuyasha - Fuuun Emaki (Japan).mp4</video>
+		<marquee>./marquee/Inuyasha - Fuuun Emaki (Japan).png</marquee>
+		<thumbnail>./box/Inuyasha - Fuuun Emaki (Japan).png</thumbnail>
+		<developer>반다이</developer>
+		<publisher>반다이</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>20020727T000000</releasedate>
+	</game>
+	<game>
+		<path>./Inuyasha - Kagome no Sengoku Nikki (Japan).zip</path>
+		<name>이누야샤 - 카고메의 전국 일기 (일본판)</name>
+		<image>./snap/Inuyasha - Kagome no Sengoku Nikki (Japan).png</image>
+		<video>./video/Inuyasha - Kagome no Sengoku Nikki (Japan).mp4</video>
+		<marquee>./marquee/Inuyasha - Kagome no Sengoku Nikki (Japan).png</marquee>
+		<thumbnail>./box/Inuyasha - Kagome no Sengoku Nikki (Japan).png</thumbnail>
+		<developer>반다이</developer>
+		<publisher>반다이</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>20011102T000000</releasedate>
+	</game>
+	<game>
+		<path>./Inuyasha - Kagome no Yume Nikki (Japan).zip</path>
+		<name>이누야샤 - 카고메의 꿈의 일기 (일본판)</name>
+		<image>./snap/Inuyasha - Kagome no Yume Nikki (Japan).png</image>
+		<video>./video/Inuyasha - Kagome no Yume Nikki (Japan).mp4</video>
+		<marquee>./marquee/Inuyasha - Kagome no Yume Nikki (Japan).png</marquee>
+		<thumbnail>./box/Inuyasha - Kagome no Yume Nikki (Japan).png</thumbnail>
+		<developer>반다이</developer>
+		<publisher>반다이</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>20021116T000000</releasedate>
+	</game>
+	<game>
+		<path>./Judgement Silversword - Rebirth Edition (Japan) (Rev 4321).zip</path>
+		<name>저지먼트 실버소드 - 리버스 에디션 (일본판)</name>
+		<image>./snap/Judgement Silversword - Rebirth Edition (Japan) (Rev 4321).png</image>
+		<video>./video/Judgement Silversword - Rebirth Edition (Japan) (Rev 4321).mp4</video>
+		<marquee>./marquee/Judgement Silversword - Rebirth Edition (Japan) (Rev 4321).png</marquee>
+		<thumbnail>./box/Judgement Silversword - Rebirth Edition (Japan) (Rev 4321).png</thumbnail>
+		<developer>M-카이</developer>
+		<publisher>큐트</publisher>
+		<genre>액션</genre>
+		<players>1</players>
+		<releasedate>20040205T000000</releasedate>
+	</game>
+	<game>
+		<path>./Judgement Silversword - Rebirth Edition (Japan) (Rev 5C21).zip</path>
+		<name>저지먼트 실버소드 - 리버스 에디션 (일본판)</name>
+		<image>./snap/Judgement Silversword - Rebirth Edition (Japan) (Rev 5C21).png</image>
+		<video>./video/Judgement Silversword - Rebirth Edition (Japan) (Rev 5C21).mp4</video>
+		<marquee>./marquee/Judgement Silversword - Rebirth Edition (Japan) (Rev 5C21).png</marquee>
+		<thumbnail>./box/Judgement Silversword - Rebirth Edition (Japan) (Rev 5C21).png</thumbnail>
+		<developer>M-카이</developer>
+		<publisher>큐트</publisher>
+		<genre>액션</genre>
+		<players>1</players>
+		<releasedate>20040205T000000</releasedate>
+	</game>
+	<game>
+		<path>./Kidou Senshi Gundam - Giren no Yabou - Tokubetsu Hen - Aoki Hoshi no Hasha (Japan).zip</path>
+		<name>기동전사 건담 - 기렌의 야망 - 특별편 - 푸른별의 패자 (일본판)</name>
+		<image>./snap/Kidou Senshi Gundam - Giren no Yabou - Tokubetsu Hen - Aoki Hoshi no Hasha (Japan).png</image>
+		<video>./video/Kidou Senshi Gundam - Giren no Yabou - Tokubetsu Hen - Aoki Hoshi no Hasha (Japan).mp4</video>
+		<marquee>./marquee/Kidou Senshi Gundam - Giren no Yabou - Tokubetsu Hen - Aoki Hoshi no Hasha (Japan).png</marquee>
+		<thumbnail>./box/Kidou Senshi Gundam - Giren no Yabou - Tokubetsu Hen - Aoki Hoshi no Hasha (Japan).png</thumbnail>
+		<developer>반다이</developer>
+		<publisher>반다이</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>20030502T000000</releasedate>
+	</game>
+	<game>
+		<path>./Kidou Senshi Gundam Seed (Japan).zip</path>
+		<name>기동전사 건담 SEED (일본판)</name>
+		<image>./snap/Kidou Senshi Gundam Seed (Japan).png</image>
+		<video>./video/Kidou Senshi Gundam Seed (Japan).mp4</video>
+		<marquee>./marquee/Kidou Senshi Gundam Seed (Japan).png</marquee>
+		<thumbnail>./box/Kidou Senshi Gundam Seed (Japan).png</thumbnail>
+		<developer>반다이</developer>
+		<publisher>반다이</publisher>
+		<genre>액션</genre>
+		<players>1</players>
+		<releasedate>20030315T000000</releasedate>
+	</game>
+	<game>
+		<path>./Kidou Senshi Gundam Vol. 1 - Side 7 (Japan).zip</path>
+		<name>기동전사 건담 Vol.1 - 사이드 7 (일본판)</name>
+		<image>./snap/Kidou Senshi Gundam Vol. 1 - Side 7 (Japan).png</image>
+		<video>./video/Kidou Senshi Gundam Vol. 1 - Side 7 (Japan).mp4</video>
+		<marquee>./marquee/Kidou Senshi Gundam Vol. 1 - Side 7 (Japan).png</marquee>
+		<thumbnail>./box/Kidou Senshi Gundam Vol. 1 - Side 7 (Japan).png</thumbnail>
+		<developer>반다이</developer>
+		<publisher>반다이</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>20010201T000000</releasedate>
+	</game>
+	<game>
+		<path>./Kidou Senshi Gundam Vol. 2 - Jaburo (Japan).zip</path>
+		<name>기동전사 건담 Vol.2 - 자브로 (일본판)</name>
+		<image>./snap/Kidou Senshi Gundam Vol. 2 - Jaburo (Japan).png</image>
+		<video>./video/Kidou Senshi Gundam Vol. 2 - Jaburo (Japan).mp4</video>
+		<marquee>./marquee/Kidou Senshi Gundam Vol. 2 - Jaburo (Japan).png</marquee>
+		<thumbnail>./box/Kidou Senshi Gundam Vol. 2 - Jaburo (Japan).png</thumbnail>
+		<developer>반다이</developer>
+		<publisher>반다이</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>20010816T000000</releasedate>
+	</game>
+	<game>
+		<path>./Kidou Senshi Gundam Vol. 3 - A Baoa Qu (Japan).zip</path>
+		<name>기동전사 건담 Vol.3 - 아보아큐 (일본판)</name>
+		<image>./snap/Kidou Senshi Gundam Vol. 3 - A Baoa Qu (Japan).png</image>
+		<video>./video/Kidou Senshi Gundam Vol. 3 - A Baoa Qu (Japan).mp4</video>
+		<marquee>./marquee/Kidou Senshi Gundam Vol. 3 - A Baoa Qu (Japan).png</marquee>
+		<thumbnail>./box/Kidou Senshi Gundam Vol. 3 - A Baoa Qu (Japan).png</thumbnail>
+		<developer>반다이</developer>
+		<publisher>반다이</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>20020508T000000</releasedate>
+	</game>
+	<game>
+		<path>./Kinnikuman II-Sei - Choujin Seisenshi (Japan).zip</path>
+		<name>근육맨 2세 - 초인성전사 (일본판)</name>
+		<image>./snap/Kinnikuman II-Sei - Choujin Seisenshi (Japan).png</image>
+		<video>./video/Kinnikuman II-Sei - Choujin Seisenshi (Japan).mp4</video>
+		<marquee>./marquee/Kinnikuman II-Sei - Choujin Seisenshi (Japan).png</marquee>
+		<thumbnail>./box/Kinnikuman II-Sei - Choujin Seisenshi (Japan).png</thumbnail>
+		<developer>반다이</developer>
+		<publisher>반다이</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>20030130T000000</releasedate>
+	</game>
+	<game>
+		<path>./Kinnikuman II-Sei - Dream Tag Match (Japan).zip</path>
+		<name>근육맨 2세 - 드림 태그매치 (일본판)</name>
+		<image>./snap/Kinnikuman II-Sei - Dream Tag Match (Japan).png</image>
+		<video>./video/Kinnikuman II-Sei - Dream Tag Match (Japan).mp4</video>
+		<marquee>./marquee/Kinnikuman II-Sei - Dream Tag Match (Japan).png</marquee>
+		<thumbnail>./box/Kinnikuman II-Sei - Dream Tag Match (Japan).png</thumbnail>
+		<developer>토세</developer>
+		<publisher>반다이</publisher>
+		<genre>스포츠</genre>
+		<players>1</players>
+		<releasedate>20020302T000000</releasedate>
+	</game>
+	<game>
+		<path>./Kurupara! (Japan) (Rev 1).zip</path>
+		<name>쿠루파라! (일본판)(개정판 1)</name>
+		<image>./snap/Kurupara! (Japan) (Rev 1).png</image>
+		<video>./video/Kurupara! (Japan) (Rev 1).mp4</video>
+		<marquee>./marquee/Kurupara! (Japan) (Rev 1).png</marquee>
+		<thumbnail>./box/Kurupara! (Japan) (Rev 1).png</thumbnail>
+		<developer>톰 크리에이트</developer>
+		<publisher>톰 크리에이트</publisher>
+		<genre>퍼즐게임</genre>
+		<players>1</players>
+		<releasedate>20010614T000000</releasedate>
+	</game>
+	<game>
+		<path>./Last Alive (Japan).zip</path>
+		<name>라스트 얼라이브 (일본판)</name>
+		<image>./snap/Last Alive (Japan).png</image>
+		<video>./video/Last Alive (Japan).mp4</video>
+		<marquee>./marquee/Last Alive (Japan).png</marquee>
+		<thumbnail>./box/Last Alive (Japan).png</thumbnail>
+		<developer>반다이</developer>
+		<publisher>반다이</publisher>
+		<genre>어드벤처</genre>
+		<players>1</players>
+		<releasedate>20010726T000000</releasedate>
+	</game>
+	<game>
+		<path>./Makai Toushi Sa-Ga (Japan).zip</path>
+		<name>마계탑사 사가 (일본판)</name>
+		<image>./snap/Makai Toushi Sa-Ga (Japan).png</image>
+		<video>./video/Makai Toushi Sa-Ga (Japan).mp4</video>
+		<marquee>./marquee/Makai Toushi Sa-Ga (Japan).png</marquee>
+		<thumbnail>./box/Makai Toushi Sa-Ga (Japan).png</thumbnail>
+		<developer>스퀘어 에닉스</developer>
+		<publisher>스퀘어 에닉스</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>20020320T000000</releasedate>
+	</game>
+	<game>
+		<path>./mama Mitte (Japan) (Program).zip</path>
+		<name>맘마 미테 (일본판)(프로그램)</name>
+		<image>./snap/mama Mitte (Japan) (Program).png</image>
+		<video>./video/mama Mitte (Japan) (Program).mp4</video>
+		<marquee>./marquee/mama Mitte (Japan) (Program).png</marquee>
+		<thumbnail>./box/mama Mitte (Japan) (Program).png</thumbnail>
+		<developer/>
+		<publisher/>
+		<genre/>
+		<players/>
+		<releasedate/>
+	</game>
+	<game>
+		<path>./Meitantei Conan - Yuugure no Oujo (Japan).zip</path>
+		<name>명탐정 코난 - 황혼의 황녀 (일본판)</name>
+		<image>./snap/Meitantei Conan - Yuugure no Oujo (Japan).png</image>
+		<video>./video/Meitantei Conan - Yuugure no Oujo (Japan).mp4</video>
+		<marquee>./marquee/Meitantei Conan - Yuugure no Oujo (Japan).png</marquee>
+		<thumbnail>./box/Meitantei Conan - Yuugure no Oujo (Japan).png</thumbnail>
+		<developer>반다이</developer>
+		<publisher>반다이</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>20010405T000000</releasedate>
+	</game>
+	<game>
+		<path>./Memories Off - Festa (Japan).zip</path>
+		<name>메모리즈 오프 - 페스타 (일본판)</name>
+		<image>./snap/Memories Off - Festa (Japan).png</image>
+		<video>./video/Memories Off - Festa (Japan).mp4</video>
+		<marquee>./marquee/Memories Off - Festa (Japan).png</marquee>
+		<thumbnail>./box/Memories Off - Festa (Japan).png</thumbnail>
+		<developer>키드</developer>
+		<publisher>키드</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>20010308T000000</releasedate>
+	</game>
+	<game>
+		<path>./Mikeneko Holmes - Ghost Panic (Japan).zip</path>
+		<name>고양이 홈스 - 고스트 패닉 (일본판)</name>
+		<image>./snap/Mikeneko Holmes - Ghost Panic (Japan).png</image>
+		<video>./video/Mikeneko Holmes - Ghost Panic (Japan).mp4</video>
+		<marquee>./marquee/Mikeneko Holmes - Ghost Panic (Japan).png</marquee>
+		<thumbnail>./box/Mikeneko Holmes - Ghost Panic (Japan).png</thumbnail>
+		<developer>민트줄렙</developer>
+		<publisher>코분샤</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>20010426T000000</releasedate>
+	</game>
+	<game>
+		<path>./Mr. Driller (Japan).zip</path>
+		<name>미스터 드릴러 (일본판)</name>
+		<image>./snap/Mr. Driller (Japan).png</image>
+		<video>./video/Mr. Driller (Japan).mp4</video>
+		<marquee>./marquee/Mr. Driller (Japan).png</marquee>
+		<thumbnail>./box/Mr. Driller (Japan).png</thumbnail>
+		<developer>남코</developer>
+		<publisher>남코</publisher>
+		<genre>퍼즐게임</genre>
+		<players>1</players>
+		<releasedate>20010405T000000</releasedate>
+	</game>
+	<game>
+		<path>./Namco Super Wars (Japan).zip</path>
+		<name>남코 슈퍼 워즈 (일본판)</name>
+		<image>./snap/Namco Super Wars (Japan).png</image>
+		<video>./video/Namco Super Wars (Japan).mp4</video>
+		<marquee>./marquee/Namco Super Wars (Japan).png</marquee>
+		<thumbnail>./box/Namco Super Wars (Japan).png</thumbnail>
+		<developer>남코</developer>
+		<publisher>반다이</publisher>
+		<genre>전략</genre>
+		<players>1</players>
+		<releasedate>20021031T000000</releasedate>
+	</game>
+	<game>
+		<path>./Naruto - Konoha Ninpouchou (Japan).zip</path>
+		<name>나루토 - 나뭇입 인법체 (일본판)</name>
+		<image>./snap/Naruto - Konoha Ninpouchou (Japan).png</image>
+		<video>./video/Naruto - Konoha Ninpouchou (Japan).mp4</video>
+		<marquee>./marquee/Naruto - Konoha Ninpouchou (Japan).png</marquee>
+		<thumbnail>./box/Naruto - Konoha Ninpouchou (Japan).png</thumbnail>
+		<developer>BEC</developer>
+		<publisher>반다이</publisher>
+		<genre>롤플레잉</genre>
+		<players>1</players>
+		<releasedate>20030327T000000</releasedate>
+	</game>
+	<game>
+		<path>./Pocket no Naka no Doraemon (Japan).zip</path>
+		<name>포켓 속 도라에몽 (일본판)</name>
+		<image>./snap/Pocket no Naka no Doraemon (Japan).png</image>
+		<video>./video/Pocket no Naka no Doraemon (Japan).mp4</video>
+		<marquee>./marquee/Pocket no Naka no Doraemon (Japan).png</marquee>
+		<thumbnail>./box/Pocket no Naka no Doraemon (Japan).png</thumbnail>
+		<developer>반다이</developer>
+		<publisher>반다이</publisher>
+		<genre>전략</genre>
+		<players>1</players>
+		<releasedate>20010524T000000</releasedate>
+	</game>
+	<game>
+		<path>./Raku Jongg (Japan).zip</path>
+		<name>락작 (일본판)</name>
+		<image>./snap/Raku Jongg (Japan).png</image>
+		<video>./video/Raku Jongg (Japan).mp4</video>
+		<marquee>./marquee/Raku Jongg (Japan).png</marquee>
+		<thumbnail>./box/Raku Jongg (Japan).png</thumbnail>
+		<developer>엔터브레인</developer>
+		<publisher>반다이</publisher>
+		<genre/>
+		<players>43,832</players>
+		<releasedate>20010531T000000</releasedate>
+	</game>
+	<game>
+		<path>./Rhyme Rider Kerorican (Japan).zip</path>
+		<name>리듬 라이더 케로리켄 (일본판)</name>
+		<image>./snap/Rhyme Rider Kerorican (Japan).png</image>
+		<video>./video/Rhyme Rider Kerorican (Japan).mp4</video>
+		<marquee>./marquee/Rhyme Rider Kerorican (Japan).png</marquee>
+		<thumbnail>./box/Rhyme Rider Kerorican (Japan).png</thumbnail>
+		<developer>나나온샤</developer>
+		<publisher>반다이</publisher>
+		<genre>전략</genre>
+		<players>1</players>
+		<releasedate>20001209T000000</releasedate>
+	</game>
+	<game>
+		<path>./Riviera - Yakusoku no Chi Riviera (Japan).zip</path>
+		<name>리비에라 - 약속의 땅 리비에라 (일본판)</name>
+		<image>./snap/Riviera - Yakusoku no Chi Riviera (Japan).png</image>
+		<video>./video/Riviera - Yakusoku no Chi Riviera (Japan).mp4</video>
+		<marquee>./marquee/Riviera - Yakusoku no Chi Riviera (Japan).png</marquee>
+		<thumbnail>./box/Riviera - Yakusoku no Chi Riviera (Japan).png</thumbnail>
+		<developer>스팅</developer>
+		<publisher>반다이</publisher>
+		<genre>롤플레잉</genre>
+		<players>1</players>
+		<releasedate>20020712T000000</releasedate>
+	</game>
+	<game>
+		<path>./Rockman EXE - N1 Battle (Japan) (Rev 1).zip</path>
+		<name>록맨 에그제 - N1 배틀 (일본판)(개정판 1)</name>
+		<image>./snap/Rockman EXE - N1 Battle (Japan) (Rev 1).png</image>
+		<video>./video/Rockman EXE - N1 Battle (Japan) (Rev 1).mp4</video>
+		<marquee>./marquee/Rockman EXE - N1 Battle (Japan) (Rev 1).png</marquee>
+		<thumbnail>./box/Rockman EXE - N1 Battle (Japan) (Rev 1).png</thumbnail>
+		<developer>인티 크리에이트</developer>
+		<publisher>캡콤</publisher>
+		<genre>롤플레잉</genre>
+		<players>1</players>
+		<releasedate>20030101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Rockman EXE WS (Japan).zip</path>
+		<name>록맨 에그제 배틀 칩 GP (일본판)</name>
+		<image>./snap/Rockman EXE WS (Japan).png</image>
+		<video>./video/Rockman EXE WS (Japan).mp4</video>
+		<marquee>./marquee/Rockman EXE WS (Japan).png</marquee>
+		<thumbnail>./box/Rockman EXE WS (Japan).png</thumbnail>
+		<developer>캡콤</developer>
+		<publisher>캡콤</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>20030208T000000</releasedate>
+	</game>
+	<game>
+		<path>./Romancing Sa-Ga (Japan).zip</path>
+		<name>로맨싱 사가 (일본판)</name>
+		<image>./snap/Romancing Sa-Ga (Japan).png</image>
+		<video>./video/Romancing Sa-Ga (Japan).mp4</video>
+		<marquee>./marquee/Romancing Sa-Ga (Japan).png</marquee>
+		<thumbnail>./box/Romancing Sa-Ga (Japan).png</thumbnail>
+		<developer>스퀘어 에닉스</developer>
+		<publisher>스퀘어 에닉스</publisher>
+		<genre>롤플레잉</genre>
+		<players>1</players>
+		<releasedate>20011220T000000</releasedate>
+	</game>
+	<game>
+		<path>./RUN=DIM - Return to Earth (Japan).zip</path>
+		<name>런딤 - 리턴 투 어스 (일본판)</name>
+		<image>./snap/RUN=DIM - Return to Earth (Japan).png</image>
+		<video>./video/RUN=DIM - Return to Earth (Japan).mp4</video>
+		<marquee>./marquee/RUN=DIM - Return to Earth (Japan).png</marquee>
+		<thumbnail>./box/RUN=DIM - Return to Earth (Japan).png</thumbnail>
+		<developer>디지털 드림즈</developer>
+		<publisher>디지털 드림즈</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>20020207T000000</releasedate>
+	</game>
+	<game>
+		<path>./Saint Seiya - Ougon Densetsu Hen - Perfect Edition (Japan).zip</path>
+		<name>세인트 세이야 - 황금 전설편 - 퍼펙트 에디션 (일본판)</name>
+		<image>./snap/Saint Seiya - Ougon Densetsu Hen - Perfect Edition (Japan).png</image>
+		<video>./video/Saint Seiya - Ougon Densetsu Hen - Perfect Edition (Japan).mp4</video>
+		<marquee>./marquee/Saint Seiya - Ougon Densetsu Hen - Perfect Edition (Japan).png</marquee>
+		<thumbnail>./box/Saint Seiya - Ougon Densetsu Hen - Perfect Edition (Japan).png</thumbnail>
+		<developer>토세</developer>
+		<publisher>반다이</publisher>
+		<genre>격투</genre>
+		<players>1</players>
+		<releasedate>20030731T000000</releasedate>
+	</game>
+	<game>
+		<path>./SD Gundam - Operation U.C. (Japan).zip</path>
+		<name>SD 건담 - 오퍼레이션 UC (일본판)</name>
+		<image>./snap/SD Gundam - Operation U.C. (Japan).png</image>
+		<video>./video/SD Gundam - Operation U.C. (Japan).mp4</video>
+		<marquee>./marquee/SD Gundam - Operation U.C. (Japan).png</marquee>
+		<thumbnail>./box/SD Gundam - Operation U.C. (Japan).png</thumbnail>
+		<developer>반다이</developer>
+		<publisher>반다이</publisher>
+		<genre/>
+		<players>43,832</players>
+		<releasedate>20020216T000000</releasedate>
+	</game>
+	<game>
+		<path>./SD Gundam Eiyuu Den - Kishi Densetsu (Japan).zip</path>
+		<name>SD 건담 영웅전 - 기사 건담 (일본판)</name>
+		<image>./snap/SD Gundam Eiyuu Den - Kishi Densetsu (Japan).png</image>
+		<video>./video/SD Gundam Eiyuu Den - Kishi Densetsu (Japan).mp4</video>
+		<marquee>./marquee/SD Gundam Eiyuu Den - Kishi Densetsu (Japan).png</marquee>
+		<thumbnail>./box/SD Gundam Eiyuu Den - Kishi Densetsu (Japan).png</thumbnail>
+		<developer>반다이</developer>
+		<publisher>반다이</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>20010315T000000</releasedate>
+	</game>
+	<game>
+		<path>./SD Gundam Eiyuu Den - Musha Densetsu (Japan).zip</path>
+		<name>SD 건담 영웅전 - 무사 건담 (일본판)</name>
+		<image>./snap/SD Gundam Eiyuu Den - Musha Densetsu (Japan).png</image>
+		<video>./video/SD Gundam Eiyuu Den - Musha Densetsu (Japan).mp4</video>
+		<marquee>./marquee/SD Gundam Eiyuu Den - Musha Densetsu (Japan).png</marquee>
+		<thumbnail>./box/SD Gundam Eiyuu Den - Musha Densetsu (Japan).png</thumbnail>
+		<developer>반다이</developer>
+		<publisher>반다이</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>20010315T000000</releasedate>
+	</game>
+	<game>
+		<path>./SD Gundam G Generation - Gather Beat 2 (Japan).zip</path>
+		<name>SD 건담 G 제너레이션 - 게더 비트 2 (일본판)</name>
+		<image>./snap/SD Gundam G Generation - Gather Beat 2 (Japan).png</image>
+		<video>./video/SD Gundam G Generation - Gather Beat 2 (Japan).mp4</video>
+		<marquee>./marquee/SD Gundam G Generation - Gather Beat 2 (Japan).png</marquee>
+		<thumbnail>./box/SD Gundam G Generation - Gather Beat 2 (Japan).png</thumbnail>
+		<developer>반다이</developer>
+		<publisher>반다이</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>20010614T000000</releasedate>
+	</game>
+	<game>
+		<path>./SD Gundam G Generation - Mono-Eye Gundams (Japan).zip</path>
+		<name>SD 건담 G 제너레이션 - 모노아이 건담 (일본판)</name>
+		<image>./snap/SD Gundam G Generation - Mono-Eye Gundams (Japan).png</image>
+		<video>./video/SD Gundam G Generation - Mono-Eye Gundams (Japan).mp4</video>
+		<marquee>./marquee/SD Gundam G Generation - Mono-Eye Gundams (Japan).png</marquee>
+		<thumbnail>./box/SD Gundam G Generation - Mono-Eye Gundams (Japan).png</thumbnail>
+		<developer>반다이</developer>
+		<publisher>반다이</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>20020926T000000</releasedate>
+	</game>
+	<game>
+		<path>./Senkaiden Ni - TV Animation Senkaiden Houshin Engi Yori (Japan).zip</path>
+		<name>선계전이 - TV 애니메이션 신계전 봉신연희 (일본판)</name>
+		<image>./snap/Senkaiden Ni - TV Animation Senkaiden Houshin Engi Yori (Japan).png</image>
+		<video>./video/Senkaiden Ni - TV Animation Senkaiden Houshin Engi Yori (Japan).mp4</video>
+		<marquee>./marquee/Senkaiden Ni - TV Animation Senkaiden Houshin Engi Yori (Japan).png</marquee>
+		<thumbnail>./box/Senkaiden Ni - TV Animation Senkaiden Houshin Engi Yori (Japan).png</thumbnail>
+		<developer>반다이</developer>
+		<publisher>반다이</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>20001221T000000</releasedate>
+	</game>
+	<game>
+		<path>./Shaman King - Asu e no Ishi (Japan) (Rev 1).zip</path>
+		<name>샤먼 킹 - 미래의 의지 (일본판)(개정판 1)</name>
+		<image>./snap/Shaman King - Asu e no Ishi (Japan) (Rev 1).png</image>
+		<video>./video/Shaman King - Asu e no Ishi (Japan) (Rev 1).mp4</video>
+		<marquee>./marquee/Shaman King - Asu e no Ishi (Japan) (Rev 1).png</marquee>
+		<thumbnail>./box/Shaman King - Asu e no Ishi (Japan) (Rev 1).png</thumbnail>
+		<developer>반다이</developer>
+		<publisher>반다이</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>20020829T000000</releasedate>
+	</game>
+	<game>
+		<path>./Shaman King - Asu e no Ishi (Japan).zip</path>
+		<name>샤먼 킹 - 미래의 의지 (일본판)</name>
+		<image>./snap/Shaman King - Asu e no Ishi (Japan).png</image>
+		<video>./video/Shaman King - Asu e no Ishi (Japan).mp4</video>
+		<marquee>./marquee/Shaman King - Asu e no Ishi (Japan).png</marquee>
+		<thumbnail>./box/Shaman King - Asu e no Ishi (Japan).png</thumbnail>
+		<developer>반다이</developer>
+		<publisher>반다이</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>20020829T000000</releasedate>
+	</game>
+	<game>
+		<path>./Sorobang (Japan) (Rev 1).zip</path>
+		<name>주판하다 (일본판)(개정판 1)</name>
+		<image>./snap/Sorobang (Japan) (Rev 1).png</image>
+		<video>./video/Sorobang (Japan) (Rev 1).mp4</video>
+		<marquee>./marquee/Sorobang (Japan) (Rev 1).png</marquee>
+		<thumbnail>./box/Sorobang (Japan) (Rev 1).png</thumbnail>
+		<developer>메카닉 암즈</developer>
+		<publisher>낙삿 소프트</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>20000912T000000</releasedate>
+	</game>
+	<game>
+		<path>./Star Hearts - Hoshi to Daichi no Shisha (Japan).zip</path>
+		<name>스타 하트- 별과 대지의 사자 (일본판)</name>
+		<image>./snap/Star Hearts - Hoshi to Daichi no Shisha (Japan).png</image>
+		<video>./video/Star Hearts - Hoshi to Daichi no Shisha (Japan).mp4</video>
+		<marquee>./marquee/Star Hearts - Hoshi to Daichi no Shisha (Japan).png</marquee>
+		<thumbnail>./box/Star Hearts - Hoshi to Daichi no Shisha (Japan).png</thumbnail>
+		<developer>반다이</developer>
+		<publisher>반다이</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>20010927T000000</releasedate>
+	</game>
+	<game>
+		<path>./Star Hearts - Hoshi to Daichi no Shisha - Taikenban (Japan) (Not For Sale).zip</path>
+		<name>스타 하트- 별과 대지의 사자 - 체험판 (일본판)</name>
+		<image>./snap/Star Hearts - Hoshi to Daichi no Shisha - Taikenban (Japan) (Not For Sale).png</image>
+		<video>./video/Star Hearts - Hoshi to Daichi no Shisha - Taikenban (Japan) (Not For Sale).mp4</video>
+		<marquee>./marquee/Star Hearts - Hoshi to Daichi no Shisha - Taikenban (Japan) (Not For Sale).png</marquee>
+		<thumbnail>./box/Star Hearts - Hoshi to Daichi no Shisha - Taikenban (Japan) (Not For Sale).png</thumbnail>
+		<developer>반다이</developer>
+		<publisher>반다이</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>20010101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Super Robot Taisen Compact 3 (Japan) (Rev 5).zip</path>
+		<name>슈퍼 로봇 대전 콤팩트 3 (일본판)(개정판 5)</name>
+		<image>./snap/Super Robot Taisen Compact 3 (Japan) (Rev 5).png</image>
+		<video>./video/Super Robot Taisen Compact 3 (Japan) (Rev 5).mp4</video>
+		<marquee>./marquee/Super Robot Taisen Compact 3 (Japan) (Rev 5).png</marquee>
+		<thumbnail>./box/Super Robot Taisen Compact 3 (Japan) (Rev 5).png</thumbnail>
+		<developer>반프레스토</developer>
+		<publisher>반프레스토</publisher>
+		<genre>전략</genre>
+		<players>1</players>
+		<releasedate>20030717T000000</releasedate>
+	</game>
+	<game>
+		<path>./Super Robot Taisen Compact 3 (Japan) (Rev 6).zip</path>
+		<name>슈퍼 로봇 대전 콤팩트 3 (일본판)(개정판 6)</name>
+		<image>./snap/Super Robot Taisen Compact 3 (Japan) (Rev 6).png</image>
+		<video>./video/Super Robot Taisen Compact 3 (Japan) (Rev 6).mp4</video>
+		<marquee>./marquee/Super Robot Taisen Compact 3 (Japan) (Rev 6).png</marquee>
+		<thumbnail>./box/Super Robot Taisen Compact 3 (Japan) (Rev 6).png</thumbnail>
+		<developer>반프레스토</developer>
+		<publisher>반프레스토</publisher>
+		<genre>전략</genre>
+		<players>1</players>
+		<releasedate>20030717T000000</releasedate>
+	</game>
+	<game>
+		<path>./Super Robot Taisen Compact for WonderSwan Color (Japan).zip</path>
+		<name>슈퍼 로봇 대전 콤팩트 원더스완 컬러 (일본판)</name>
+		<image>./snap/Super Robot Taisen Compact for WonderSwan Color (Japan).png</image>
+		<video>./video/Super Robot Taisen Compact for WonderSwan Color (Japan).mp4</video>
+		<marquee>./marquee/Super Robot Taisen Compact for WonderSwan Color (Japan).png</marquee>
+		<thumbnail>./box/Super Robot Taisen Compact for WonderSwan Color (Japan).png</thumbnail>
+		<developer>반프레스토</developer>
+		<publisher>반프레스토</publisher>
+		<genre>전략</genre>
+		<players>1</players>
+		<releasedate>20011213T000000</releasedate>
+	</game>
+	<game>
+		<path>./Terrors 2 (Japan).zip</path>
+		<name>테러 2 (일본판)</name>
+		<image>./snap/Terrors 2 (Japan).png</image>
+		<video>./video/Terrors 2 (Japan).mp4</video>
+		<marquee>./marquee/Terrors 2 (Japan).png</marquee>
+		<thumbnail>./box/Terrors 2 (Japan).png</thumbnail>
+		<developer>테러2프로젝트</developer>
+		<publisher>반다이</publisher>
+		<genre>격투</genre>
+		<players>1</players>
+		<releasedate>20001221T000000</releasedate>
+	</game>
+	<game>
+		<path>./Tetris (Japan).zip</path>
+		<name>테트리스 (일본판)</name>
+		<image>./snap/Tetris (Japan).png</image>
+		<video>./video/Tetris (Japan).mp4</video>
+		<marquee>./marquee/Tetris (Japan).png</marquee>
+		<thumbnail>./box/Tetris (Japan).png</thumbnail>
+		<developer>엘로그</developer>
+		<publisher>뱅가드 웍스</publisher>
+		<genre>퍼즐게임</genre>
+		<players>43,832</players>
+		<releasedate>20020418T000000</releasedate>
+	</game>
+	<game>
+		<path>./Tonpuusou (Japan).zip</path>
+		<name>동풍장 (일본판)</name>
+		<image>./snap/Tonpuusou (Japan).png</image>
+		<video>./video/Tonpuusou (Japan).mp4</video>
+		<marquee>./marquee/Tonpuusou (Japan).png</marquee>
+		<thumbnail>./box/Tonpuusou (Japan).png</thumbnail>
+		<developer>반다이</developer>
+		<publisher>반다이</publisher>
+		<genre/>
+		<players>43,832</players>
+		<releasedate>20010628T000000</releasedate>
+	</game>
+	<game>
+		<path>./Uchuu Senkan Yamato (Japan).zip</path>
+		<name>우주 전함 야마토 (일본판)</name>
+		<image>./snap/Uchuu Senkan Yamato (Japan).png</image>
+		<video>./video/Uchuu Senkan Yamato (Japan).mp4</video>
+		<marquee>./marquee/Uchuu Senkan Yamato (Japan).png</marquee>
+		<thumbnail>./box/Uchuu Senkan Yamato (Japan).png</thumbnail>
+		<developer>톰 크리에이트</developer>
+		<publisher>반다이</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>20010208T000000</releasedate>
+	</game>
+	<game>
+		<path>./Ultraman - Hikari no Kuni no Shisha (Japan).zip</path>
+		<name>울트라맨 - 빛의 나라의 사자 (일본판)</name>
+		<image>./snap/Ultraman - Hikari no Kuni no Shisha (Japan).png</image>
+		<video>./video/Ultraman - Hikari no Kuni no Shisha (Japan).mp4</video>
+		<marquee>./marquee/Ultraman - Hikari no Kuni no Shisha (Japan).png</marquee>
+		<thumbnail>./box/Ultraman - Hikari no Kuni no Shisha (Japan).png</thumbnail>
+		<developer>반다이</developer>
+		<publisher>반다이</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>20010621T000000</releasedate>
+	</game>
+	<game>
+		<path>./Wild Card (Japan).zip</path>
+		<name>와일드 카드 (일본판)</name>
+		<image>./snap/Wild Card (Japan).png</image>
+		<video>./video/Wild Card (Japan).mp4</video>
+		<marquee>./marquee/Wild Card (Japan).png</marquee>
+		<thumbnail>./box/Wild Card (Japan).png</thumbnail>
+		<developer>스퀘어 에닉스</developer>
+		<publisher>스퀘어 에닉스</publisher>
+		<genre>롤플레잉</genre>
+		<players>1</players>
+		<releasedate>20010329T000000</releasedate>
+	</game>
+	<game>
+		<path>./With You - Mitsumete Itai (Japan).zip</path>
+		<name>위드 유 - 바라보고 싶어 (일본판)</name>
+		<image>./snap/With You - Mitsumete Itai (Japan).png</image>
+		<video>./video/With You - Mitsumete Itai (Japan).mp4</video>
+		<marquee>./marquee/With You - Mitsumete Itai (Japan).png</marquee>
+		<thumbnail>./box/With You - Mitsumete Itai (Japan).png</thumbnail>
+		<developer>칵테일 소프트</developer>
+		<publisher>쉘 럭</publisher>
+		<genre>어드벤처</genre>
+		<players>1</players>
+		<releasedate>20010125T000000</releasedate>
+	</game>
+	<game>
+		<path>./Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (Japan).zip</path>
+		<name>위저드라 시나리오1 - 광란의 시련 (일본판)</name>
+		<image>./snap/Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (Japan).png</image>
+		<video>./video/Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (Japan).mp4</video>
+		<marquee>./marquee/Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (Japan).png</marquee>
+		<thumbnail>./box/Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (Japan).png</thumbnail>
+		<developer>서테크</developer>
+		<publisher>반다이</publisher>
+		<genre>롤플레잉</genre>
+		<players>1</players>
+		<releasedate>20010301T000000</releasedate>
+	</game>
+	<game>
+		<path>./Wonder Classic (Japan).zip</path>
+		<name>원더 클래식 (일본판)</name>
+		<image>./snap/Wonder Classic (Japan).png</image>
+		<video>./video/Wonder Classic (Japan).mp4</video>
+		<marquee>./marquee/Wonder Classic (Japan).png</marquee>
+		<thumbnail>./box/Wonder Classic (Japan).png</thumbnail>
+		<developer>남코</developer>
+		<publisher>반다이</publisher>
+		<genre>퍼즐게임</genre>
+		<players>1</players>
+		<releasedate>20010118T000000</releasedate>
+	</game>
+	<game>
+		<path>./X - Card of Fate (Japan).zip</path>
+		<name>X - 카드 오브 페이트 (일본판)</name>
+		<image>./snap/X - Card of Fate (Japan).png</image>
+		<video>./video/X - Card of Fate (Japan).mp4</video>
+		<marquee>./marquee/X - Card of Fate (Japan).png</marquee>
+		<thumbnail>./box/X - Card of Fate (Japan).png</thumbnail>
+		<developer>엑세스 게임즈</developer>
+		<publisher>반다이</publisher>
+		<genre/>
+		<players>1</players>
+		<releasedate>20020627T000000</releasedate>
+	</game>
+	<game>
+		<path>./XI Little (Japan).zip</path>
+		<name>사이 리틀 (일본판)</name>
+		<image>./snap/XI Little (Japan).png</image>
+		<video>./video/XI Little (Japan).mp4</video>
+		<marquee>./marquee/XI Little (Japan).png</marquee>
+		<thumbnail>./box/XI Little (Japan).png</thumbnail>
+		<developer>MBI</developer>
+		<publisher>남코</publisher>
+		<genre>퍼즐게임</genre>
+		<players>43,832</players>
+		<releasedate>20011220T000000</releasedate>
+	</game>
+	<game>
+		<path>./[BIOS] WonderSwan Color Boot ROM (Japan) (En).zip</path>
+		<name>[바이오스] 원더스완 컬러 부트 롬 (일본판)(영어)</name>
+		<image>./snap/[BIOS] WonderSwan Color Boot ROM (Japan) (En).png</image>
+		<video>./video/[BIOS] WonderSwan Color Boot ROM (Japan) (En).mp4</video>
+		<marquee>./marquee/[BIOS] WonderSwan Color Boot ROM (Japan) (En).png</marquee>
+		<thumbnail>./box/[BIOS] WonderSwan Color Boot ROM (Japan) (En).png</thumbnail>
+		<developer/>
+		<publisher/>
+		<genre/>
+		<players/>
+		<releasedate/>
+	</game>
+</gameList>

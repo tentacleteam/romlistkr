@@ -5,7 +5,7 @@
 * 지원프론트엔드 : RetroPie, Recalbox, Attract-Mode
 * 지원에뮬 : Arcade(MAME, AdvMAME, FBNeo), NES, SNES, MD, GB, GBC, GBA, PCE, SMS, Sega 32X, NGP, NGPC, WS, WSC
 * 제작자 : 텐타클 팀
-* 최종수정 : August 8, 2020
+* 최종수정 : July 30, 2021
 * 카페 : http://cafe.naver.com/raspigamer
 * 레트로게임 롬 목록 한글화 자료는 오픈소스입니다. MIT 라이센스를 따르고 있으므로 라이센스와 출처(http://cafe.naver.com/raspigamer) 표시만 지켜주시면 자유롭게 사용하실 수 있습니다.
 -->
@@ -15,6 +15,7 @@
 		<image>./snap/Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja).png</image>
 		<video>./video/Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja).mp4</video>
 		<marquee>./marquee/Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja).png</marquee>
+		<thumbnail>./box/Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja).png</thumbnail>
 		<developer>사우루스</developer>
 		<publisher>SNK</publisher>
 		<genre/>
@@ -27,6 +28,7 @@
 		<image>./snap/King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja).png</image>
 		<video>./video/King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja).mp4</video>
 		<marquee>./marquee/King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja).png</marquee>
+		<thumbnail>./box/King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja).png</thumbnail>
 		<developer>SNK</developer>
 		<publisher>SNK</publisher>
 		<genre/>
@@ -39,6 +41,7 @@
 		<image>./snap/King of Fighters R-1 - Pocket Kakutou Series &amp; Melon-chan no Seichou Nikki (Japan) (Demo).png</image>
 		<video>./video/King of Fighters R-1 - Pocket Kakutou Series &amp; Melon-chan no Seichou Nikki (Japan) (Demo).mp4</video>
 		<marquee>./marquee/King of Fighters R-1 - Pocket Kakutou Series &amp; Melon-chan no Seichou Nikki (Japan) (Demo).png</marquee>
+		<thumbnail>./box/King of Fighters R-1 - Pocket Kakutou Series &amp; Melon-chan no Seichou Nikki (Japan) (Demo).png</thumbnail>
 		<developer>SNK</developer>
 		<publisher>SNK</publisher>
 		<genre/>
@@ -51,6 +54,7 @@
 		<image>./snap/Melon-chan no Seichou Nikki (Japan).png</image>
 		<video>./video/Melon-chan no Seichou Nikki (Japan).mp4</video>
 		<marquee>./marquee/Melon-chan no Seichou Nikki (Japan).png</marquee>
+		<thumbnail>./box/Melon-chan no Seichou Nikki (Japan).png</thumbnail>
 		<developer>ADK</developer>
 		<publisher>ADK</publisher>
 		<genre/>
@@ -63,6 +67,7 @@
 		<image>./snap/Neo Cherry Master - Real Casino Series (Japan) (En,Ja).png</image>
 		<video>./video/Neo Cherry Master - Real Casino Series (Japan) (En,Ja).mp4</video>
 		<marquee>./marquee/Neo Cherry Master - Real Casino Series (Japan) (En,Ja).png</marquee>
+		<thumbnail>./box/Neo Cherry Master - Real Casino Series (Japan) (En,Ja).png</thumbnail>
 		<developer/>
 		<publisher>Dyna</publisher>
 		<genre/>
@@ -75,6 +80,7 @@
 		<image>./snap/Neo Geo Cup '98 (Japan, Europe) (En,Ja).png</image>
 		<video>./video/Neo Geo Cup '98 (Japan, Europe) (En,Ja).mp4</video>
 		<marquee>./marquee/Neo Geo Cup '98 (Japan, Europe) (En,Ja).png</marquee>
+		<thumbnail>./box/Neo Geo Cup '98 (Japan, Europe) (En,Ja).png</thumbnail>
 		<developer/>
 		<publisher>SNK</publisher>
 		<genre/>
@@ -87,6 +93,7 @@
 		<image>./snap/Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja).png</image>
 		<video>./video/Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja).mp4</video>
 		<marquee>./marquee/Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja).png</marquee>
+		<thumbnail>./box/Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja).png</thumbnail>
 		<developer/>
 		<publisher>유메코보</publisher>
 		<genre/>
@@ -99,6 +106,7 @@
 		<image>./snap/Renketsu Puzzle Tsunagete Pon! (Japan).png</image>
 		<video>./video/Renketsu Puzzle Tsunagete Pon! (Japan).mp4</video>
 		<marquee>./marquee/Renketsu Puzzle Tsunagete Pon! (Japan).png</marquee>
+		<thumbnail>./box/Renketsu Puzzle Tsunagete Pon! (Japan).png</thumbnail>
 		<developer>유메코보</developer>
 		<publisher>SNK</publisher>
 		<genre/>
@@ -111,6 +119,7 @@
 		<image>./snap/Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja).png</image>
 		<video>./video/Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja).mp4</video>
 		<marquee>./marquee/Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja).png</marquee>
+		<thumbnail>./box/Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja).png</thumbnail>
 		<developer>SNK</developer>
 		<publisher>SNK</publisher>
 		<genre/>
@@ -123,6 +132,7 @@
 		<image>./snap/Shougi no Tatsujin (Japan).png</image>
 		<video>./video/Shougi no Tatsujin (Japan).mp4</video>
 		<marquee>./marquee/Shougi no Tatsujin (Japan).png</marquee>
+		<thumbnail>./box/Shougi no Tatsujin (Japan).png</thumbnail>
 		<developer/>
 		<publisher>SNK</publisher>
 		<genre/>
@@ -135,6 +145,7 @@
 		<image>./snap/[BIOS] SNK Neo Geo Pocket (Japan, Europe).png</image>
 		<video>./video/[BIOS] SNK Neo Geo Pocket (Japan, Europe).mp4</video>
 		<marquee>./marquee/[BIOS] SNK Neo Geo Pocket (Japan, Europe).png</marquee>
+		<thumbnail>./box/[BIOS] SNK Neo Geo Pocket (Japan, Europe).png</thumbnail>
 		<developer/>
 		<publisher/>
 		<genre/>
