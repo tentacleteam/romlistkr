@@ -2,7 +2,7 @@
 
 * 제목 : 레트로게임 롬 목록 한글화 프로젝트
 * 제작자 : 텐타클 팀
-* 최종수정 : Jun 08, 2024
+* 최종수정 : 2024-08-03
 * 이메일 : losernator@gmail.com
 * 카페 : http://cafe.naver.com/raspigamer
 * 지원프론트엔드 : RetroPie, Recalbox, Batocera
@@ -24,11 +24,12 @@ sudo ./install.sh</code></pre>
 
 
 ### Romset Reference
-* Microsoft - MSX (20220906-125122)
-* Microsoft - MSX2 (20220826-221100)
-* Sega - 32X (20220501-212720)
-* Sega - Mega Drive - Genesis (20221005-040019)
-* Sega - Master System - Mark III (20220910-101117)
+* Sega - Mega Drive - Genesis (20240502-021812)
+* Sega - Master System - Mark III (20240308-010656)
+* Sega - 32X (20231229-101939)
+* Microsoft - MSX (20231222-131915)
+* Microsoft - MSX2 (20231015-143336)
+
 * NEC - PC Engine SuperGrafx (20210905-042020)
 * NEC - PC Engine - TurboGrafx 16 (20220826-220704)
 * Nintendo - Nintendo Entertainment System (20221027-010229) [headered

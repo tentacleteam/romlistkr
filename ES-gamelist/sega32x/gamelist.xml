@@ -1,36 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<!--
-* 제목 : 레트로게임 롬 목록 한글화 프로젝트
-* 제작자 : 텐타클 팀
-* 최종수정 : Nov 01, 2022
-* 이메일 : losernator@gmail.com
-* 카페 : http://cafe.naver.com/raspigamer
-* 지원프론트엔드 : RetroPie, Recalbox, Attract-Mode, Batocera
-* 지원에뮬 : Arcade(MAME, AdvMAME, FBA), NES, SNES, Mega Drive, MSX, MSX2, NEOGEO, GBA, PCA, SMS, Sega 32X, NG, NGPC, WS, WSC
-* 레트로게임 롬 목록 한글화 자료는 오픈소스입니다. MIT 라이센스를 따르고 있으므로 라이센스와 출처(http://cafe.naver.com/raspigamer) 표시만 지켜주시면 자유롭게 사용하실 수 있습니다.
--->
 	<game>
-		<path>./[BIOS] 32X M68000 (USA).zip</path>
-		<name>[바이오스] 32X M68000</name>
-		<image>./snap/[BIOS] 32X M68000 (USA).png</image>
-		<video>./video/[BIOS] 32X M68000 (USA).mp4</video>
-		<marquee>./marquee/[BIOS] 32X M68000 (USA).png</marquee>
-		<developer/>
-		<publisher/>
-		<genre/>
-		<players/>
-		<releasedate/>
-	</game>
-	<game>
-		<path>./[BIOS] 32X SH-2 Slave (USA).zip</path>
-		<name>[바이오스] 32X SH-2 슬레이브</name>
-		<image>./snap/[BIOS] 32X SH-2 Slave (USA).png</image>
-		<video>./video/[BIOS] 32X SH-2 Slave (USA).mp4</video>
-		<marquee>./marquee/[BIOS] 32X SH-2 Slave (USA).png</marquee>
-		<developer/>
-		<publisher/>
-		<genre/>
+		<path>./32X Sample Program - PWM Sound Demo (Unknown) (SDK Build).zip</path>
+		<name>32X 샘플 프로그램 - PWM 사운드 데모</name>
+		<image>./snap/32X Sample Program - PWM Sound Demo (Unknown) (SDK Build).png</image>
+		<video>./video/32X Sample Program - PWM Sound Demo (Unknown) (SDK Build).mp4</video>
+		<marquee>./marquee/32X Sample Program - PWM Sound Demo (Unknown) (SDK Build).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>데모</genre>
 		<players/>
 		<releasedate/>
 	</game>
@@ -45,30 +23,6 @@
 		<genre>슈팅</genre>
 		<players>1</players>
 		<releasedate>19940000T000000</releasedate>
-	</game>
-	<game>
-		<path>./[BIOS] 32X SH-2 Master (USA).zip</path>
-		<name>[바이오스] 32X SH-2 마스터</name>
-		<image>./snap/[BIOS] 32X SH-2 Master (USA).png</image>
-		<video>./video/[BIOS] 32X SH-2 Master (USA).mp4</video>
-		<marquee>./marquee/[BIOS] 32X SH-2 Master (USA).png</marquee>
-		<developer/>
-		<publisher/>
-		<genre/>
-		<players/>
-		<releasedate/>
-	</game>
-	<game>
-		<path>./BC Racers (USA).zip</path>
-		<name>BC 레이서</name>
-		<image>./snap/BC Racers (USA).png</image>
-		<video>./video/BC Racers (USA).mp4</video>
-		<marquee>./marquee/BC Racers (USA).png</marquee>
-		<developer>코어 디자인</developer>
-		<publisher>코어 디자인</publisher>
-		<genre>레이싱</genre>
-		<players>2</players>
-		<releasedate>19950601T000000</releasedate>
 	</game>
 	<game>
 		<path>./After Burner Complete (Japan, USA) (En).zip</path>
@@ -93,6 +47,18 @@
 		<genre>액션</genre>
 		<players>1</players>
 		<releasedate>19960000T000000</releasedate>
+	</game>
+	<game>
+		<path>./BC Racers (USA).zip</path>
+		<name>BC 레이서</name>
+		<image>./snap/BC Racers (USA).png</image>
+		<video>./video/BC Racers (USA).mp4</video>
+		<marquee>./marquee/BC Racers (USA).png</marquee>
+		<developer>코어 디자인</developer>
+		<publisher>코어 디자인</publisher>
+		<genre>레이싱</genre>
+		<players>2</players>
+		<releasedate>19950601T000000</releasedate>
 	</game>
 	<game>
 		<path>./Blackthorne (USA).zip</path>
@@ -141,18 +107,6 @@
 		<genre>격투</genre>
 		<players>2</players>
 		<releasedate>19940000T000000</releasedate>
-	</game>
-	<game>
-		<path>./32X Sample Program - PWM Sound Demo (Unknown) (SDK Build).zip</path>
-		<name>32X 샘플 프로그램 - PWM 사운드 데모</name>
-		<image>./snap/32X Sample Program - PWM Sound Demo (Unknown) (SDK Build).png</image>
-		<video>./video/32X Sample Program - PWM Sound Demo (Unknown) (SDK Build).mp4</video>
-		<marquee>./marquee/32X Sample Program - PWM Sound Demo (Unknown) (SDK Build).png</marquee>
-		<developer>세가</developer>
-		<publisher>세가</publisher>
-		<genre>데모</genre>
-		<players/>
-		<releasedate/>
 	</game>
 	<game>
 		<path>./Cosmic Carnage (Japan, USA) (En) (Beta) (1994-09-06).zip</path>
@@ -227,6 +181,18 @@
 		<releasedate>19940000T000000</releasedate>
 	</game>
 	<game>
+		<path>./Cosmic Carnage (Japan, USA) (En) (Beta) (1994-10-07).zip</path>
+		<name>코스믹 카니지 (일본,미국판)(영어)(베타)(1994-10-07)</name>
+		<image>./snap/Cosmic Carnage (Japan, USA) (En) (Beta) (1994-10-07).png</image>
+		<video>./video/Cosmic Carnage (Europe).mp4</video>
+		<marquee>./marquee/Cosmic Carnage (Japan, USA) (En) (Beta) (1994-10-07).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>격투</genre>
+		<players>2</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
 		<path>./Cosmic Carnage (Japan, USA) (En) (Beta) (1994-10-11).zip</path>
 		<name>코스믹 카니지 (일본,미국판)(영어)(베타)(1994-10-11)</name>
 		<image>./snap/Cosmic Carnage (Japan, USA) (En) (Beta) (1994-10-11).png</image>
@@ -251,18 +217,6 @@
 		<releasedate>19940000T000000</releasedate>
 	</game>
 	<game>
-		<path>./Cosmic Carnage (Japan, USA) (En) (Beta) (1994-10-07).zip</path>
-		<name>코스믹 카니지 (일본,미국판)(영어)(베타)(1994-10-07)</name>
-		<image>./snap/Cosmic Carnage (Japan, USA) (En) (Beta) (1994-10-07).png</image>
-		<video>./video/Cosmic Carnage (Europe).mp4</video>
-		<marquee>./marquee/Cosmic Carnage (Japan, USA) (En) (Beta) (1994-10-07).png</marquee>
-		<developer>세가</developer>
-		<publisher>세가</publisher>
-		<genre>격투</genre>
-		<players>2</players>
-		<releasedate>19940000T000000</releasedate>
-	</game>
-	<game>
 		<path>./Darxide (Europe) (En,Fr,De,Es).zip</path>
 		<name>다사이드</name>
 		<image>./snap/Darxide (Europe) (En,Fr,De,Es).png</image>
@@ -275,11 +229,11 @@
 		<releasedate>19960000T000000</releasedate>
 	</game>
 	<game>
-		<path>./Doom (Europe).zip</path>
-		<name>둠</name>
-		<image>./snap/Doom (Europe).png</image>
+		<path>./Doom (Europe) (Beta) (1994-10-02).zip</path>
+		<name>둠 (유럽판)(베타)(1994-10-02)</name>
+		<image>./snap/Doom (Europe) (Beta) (1994-10-02).png</image>
 		<video>./video/Doom (Europe).mp4</video>
-		<marquee>./marquee/Doom (Europe).png</marquee>
+		<marquee>./marquee/Doom (Europe) (Beta) (1994-10-02).png</marquee>
 		<developer>세가</developer>
 		<publisher>id 소프트웨어</publisher>
 		<genre>액션</genre>
@@ -287,11 +241,11 @@
 		<releasedate/>
 	</game>
 	<game>
-		<path>./Doom (Europe) (Beta) (1994-10-02).zip</path>
-		<name>둠 (유럽판)(베타)(1994-10-02)</name>
-		<image>./snap/Doom (Europe) (Beta) (1994-10-02).png</image>
+		<path>./Doom (Europe).zip</path>
+		<name>둠</name>
+		<image>./snap/Doom (Europe).png</image>
 		<video>./video/Doom (Europe).mp4</video>
-		<marquee>./marquee/Doom (Europe) (Beta) (1994-10-02).png</marquee>
+		<marquee>./marquee/Doom (Europe).png</marquee>
 		<developer>세가</developer>
 		<publisher>id 소프트웨어</publisher>
 		<genre>액션</genre>
@@ -311,11 +265,11 @@
 		<releasedate/>
 	</game>
 	<game>
-		<path>./Doom (Japan, USA) (En) (Beta) (1994-09-14).zip</path>
-		<name>둠 (일본,미국판)(영어)(베타)(1994-09-14)</name>
-		<image>./snap/Doom (Japan, USA) (En) (Beta) (1994-09-14).png</image>
+		<path>./Doom (Japan, USA) (En) (Beta) (1994-09-09).zip</path>
+		<name>둠 (일본,미국판)(영어)(베타)(1994-09-09)</name>
+		<image>./snap/Doom (Japan, USA) (En) (Beta) (1994-09-09).png</image>
 		<video>./video/Doom (Europe).mp4</video>
-		<marquee>./marquee/Doom (Japan, USA) (En) (Beta) (1994-09-14).png</marquee>
+		<marquee>./marquee/Doom (Japan, USA) (En) (Beta) (1994-09-09).png</marquee>
 		<developer>세가</developer>
 		<publisher>id 소프트웨어</publisher>
 		<genre>액션</genre>
@@ -323,11 +277,11 @@
 		<releasedate/>
 	</game>
 	<game>
-		<path>./Doom (Japan, USA) (En) (Beta) (1994-09-09).zip</path>
-		<name>둠 (일본,미국판)(영어)(베타)(1994-09-09)</name>
-		<image>./snap/Doom (Japan, USA) (En) (Beta) (1994-09-09).png</image>
+		<path>./Doom (Japan, USA) (En) (Beta) (1994-09-14).zip</path>
+		<name>둠 (일본,미국판)(영어)(베타)(1994-09-14)</name>
+		<image>./snap/Doom (Japan, USA) (En) (Beta) (1994-09-14).png</image>
 		<video>./video/Doom (Europe).mp4</video>
-		<marquee>./marquee/Doom (Japan, USA) (En) (Beta) (1994-09-09).png</marquee>
+		<marquee>./marquee/Doom (Japan, USA) (En) (Beta) (1994-09-14).png</marquee>
 		<developer>세가</developer>
 		<publisher>id 소프트웨어</publisher>
 		<genre>액션</genre>
@@ -371,18 +325,6 @@
 		<releasedate/>
 	</game>
 	<game>
-		<path>./Doom (Japan, USA) (En) (Beta) (1994-12-01).zip</path>
-		<name>둠 (일본,미국판)(영어)(베타)(1994-12-01)</name>
-		<image>./snap/Doom (Japan, USA) (En) (Beta) (1994-12-01).png</image>
-		<video>./video/Doom (Europe).mp4</video>
-		<marquee>./marquee/Doom (Japan, USA) (En) (Beta) (1994-12-01).png</marquee>
-		<developer>세가</developer>
-		<publisher>id 소프트웨어</publisher>
-		<genre>액션</genre>
-		<players>1</players>
-		<releasedate/>
-	</game>
-	<game>
 		<path>./Doom (Japan, USA) (En) (Beta) (1994-09-25).zip</path>
 		<name>둠 (일본,미국판)(영어)(베타)(1994-09-25)</name>
 		<image>./snap/Doom (Japan, USA) (En) (Beta) (1994-09-25).png</image>
@@ -400,6 +342,18 @@
 		<image>./snap/Doom (Japan, USA) (En) (Beta) (1994-09-27).png</image>
 		<video>./video/Doom (Europe).mp4</video>
 		<marquee>./marquee/Doom (Japan, USA) (En) (Beta) (1994-09-27).png</marquee>
+		<developer>세가</developer>
+		<publisher>id 소프트웨어</publisher>
+		<genre>액션</genre>
+		<players>1</players>
+		<releasedate/>
+	</game>
+	<game>
+		<path>./Doom (Japan, USA) (En) (Beta) (1994-12-01).zip</path>
+		<name>둠 (일본,미국판)(영어)(베타)(1994-12-01)</name>
+		<image>./snap/Doom (Japan, USA) (En) (Beta) (1994-12-01).png</image>
+		<video>./video/Doom (Europe).mp4</video>
+		<marquee>./marquee/Doom (Japan, USA) (En) (Beta) (1994-12-01).png</marquee>
 		<developer>세가</developer>
 		<publisher>id 소프트웨어</publisher>
 		<genre>액션</genre>
@@ -587,11 +541,11 @@
 		<releasedate>19940000T000000</releasedate>
 	</game>
 	<game>
-		<path>./Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-03).zip</path>
-		<name>골프 매거진 제공 - 프레드 커플스의 36 그레이트 홀 (일본,미국판)(영어)(베타)(1994-11-03)</name>
-		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-03).png</image>
+		<path>./Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-01).zip</path>
+		<name>골프 매거진 제공 - 프레드 커플스의 36 그레이트 홀 (일본,미국판)(영어)(베타)(1994-11-01)</name>
+		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-01).png</image>
 		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
-		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-03).png</marquee>
+		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-01).png</marquee>
 		<developer>플래시포인트 프로덕션</developer>
 		<publisher>세가</publisher>
 		<genre>스포츠</genre>
@@ -599,11 +553,11 @@
 		<releasedate>19940000T000000</releasedate>
 	</game>
 	<game>
-		<path>./Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-01).zip</path>
-		<name>골프 매거진 제공 - 프레드 커플스의 36 그레이트 홀 (일본,미국판)(영어)(베타)(1994-11-01)</name>
-		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-01).png</image>
+		<path>./Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-03).zip</path>
+		<name>골프 매거진 제공 - 프레드 커플스의 36 그레이트 홀 (일본,미국판)(영어)(베타)(1994-11-03)</name>
+		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-03).png</image>
 		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
-		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-01).png</marquee>
+		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-03).png</marquee>
 		<developer>플래시포인트 프로덕션</developer>
 		<publisher>세가</publisher>
 		<genre>스포츠</genre>
@@ -635,18 +589,6 @@
 		<releasedate>19940000T000000</releasedate>
 	</game>
 	<game>
-		<path>./Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-09).zip</path>
-		<name>골프 매거진 제공 - 프레드 커플스의 36 그레이트 홀 (일본,미국판)(영어)(베타)(1994-11-09)</name>
-		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-09).png</image>
-		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
-		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-09).png</marquee>
-		<developer>플래시포인트 프로덕션</developer>
-		<publisher>세가</publisher>
-		<genre>스포츠</genre>
-		<players>8</players>
-		<releasedate>19940000T000000</releasedate>
-	</game>
-	<game>
 		<path>./Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-08).zip</path>
 		<name>골프 매거진 제공 - 프레드 커플스의 36 그레이트 홀 (일본,미국판)(영어)(베타)(1994-11-08)</name>
 		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-08).png</image>
@@ -659,11 +601,11 @@
 		<releasedate>19940000T000000</releasedate>
 	</game>
 	<game>
-		<path>./Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-18).zip</path>
-		<name>골프 매거진 제공 - 프레드 커플스의 36 그레이트 홀 (일본,미국판)(영어)(베타)(1994-11-18)</name>
-		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-18).png</image>
+		<path>./Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-09).zip</path>
+		<name>골프 매거진 제공 - 프레드 커플스의 36 그레이트 홀 (일본,미국판)(영어)(베타)(1994-11-09)</name>
+		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-09).png</image>
 		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
-		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-18).png</marquee>
+		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-09).png</marquee>
 		<developer>플래시포인트 프로덕션</developer>
 		<publisher>세가</publisher>
 		<genre>스포츠</genre>
@@ -676,6 +618,18 @@
 		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-16).png</image>
 		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
 		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-16).png</marquee>
+		<developer>플래시포인트 프로덕션</developer>
+		<publisher>세가</publisher>
+		<genre>스포츠</genre>
+		<players>8</players>
+		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-18).zip</path>
+		<name>골프 매거진 제공 - 프레드 커플스의 36 그레이트 홀 (일본,미국판)(영어)(베타)(1994-11-18)</name>
+		<image>./snap/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-18).png</image>
+		<video>./video/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).mp4</video>
+		<marquee>./marquee/Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-18).png</marquee>
 		<developer>플래시포인트 프로덕션</developer>
 		<publisher>세가</publisher>
 		<genre>스포츠</genre>
@@ -1151,18 +1105,6 @@
 		<releasedate/>
 	</game>
 	<game>
-		<path>./Metal Head (Europe) (En,Ja).zip</path>
-		<name>메탈 헤드</name>
-		<image>./snap/Metal Head (Europe) (En,Ja).png</image>
-		<video>./video/Metal Head (Europe) (En,Ja).mp4</video>
-		<marquee>./marquee/Metal Head (Europe) (En,Ja).png</marquee>
-		<developer>세가</developer>
-		<publisher>세가</publisher>
-		<genre>시뮬레이션</genre>
-		<players>1</players>
-		<releasedate>19950201T000000</releasedate>
-	</game>
-	<game>
 		<path>./Mars Sample Program - Texture Test (Unknown) (SDK Build).zip</path>
 		<name>마즈 샘플 프로그램 - 텍스쳐 테스트</name>
 		<image>./snap/Mars Sample Program - Texture Test (Unknown) (SDK Build).png</image>
@@ -1173,6 +1115,18 @@
 		<genre>데모</genre>
 		<players>1</players>
 		<releasedate/>
+	</game>
+	<game>
+		<path>./Metal Head (Europe) (En,Ja).zip</path>
+		<name>메탈 헤드</name>
+		<image>./snap/Metal Head (Europe) (En,Ja).png</image>
+		<video>./video/Metal Head (Europe) (En,Ja).mp4</video>
+		<marquee>./marquee/Metal Head (Europe) (En,Ja).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>시뮬레이션</genre>
+		<players>1</players>
+		<releasedate>19950201T000000</releasedate>
 	</game>
 	<game>
 		<path>./Metal Head (Japan, USA) (En) (Beta) (1994-11-14).zip</path>
@@ -1259,18 +1213,6 @@
 		<releasedate>19950201T000000</releasedate>
 	</game>
 	<game>
-		<path>./Metal Head (Japan, USA) (En) (Beta) (1994-12-20).zip</path>
-		<name>메탈 헤드 (일본,미국판)(영어)(베타)(1994-12-20)</name>
-		<image>./snap/Metal Head (Japan, USA) (En) (Beta) (1994-12-20).png</image>
-		<video>./video/Metal Head (Europe) (En,Ja).mp4</video>
-		<marquee>./marquee/Metal Head (Japan, USA) (En) (Beta) (1994-12-20).png</marquee>
-		<developer>세가</developer>
-		<publisher>세가</publisher>
-		<genre>시뮬레이션</genre>
-		<players>1</players>
-		<releasedate>19950201T000000</releasedate>
-	</game>
-	<game>
 		<path>./Metal Head (Japan, USA) (En) (Beta) (1994-12-13).zip</path>
 		<name>메탈 헤드 (일본,미국판)(영어)(베타)(1994-12-13)</name>
 		<image>./snap/Metal Head (Japan, USA) (En) (Beta) (1994-12-13).png</image>
@@ -1283,8 +1225,20 @@
 		<releasedate>19950201T000000</releasedate>
 	</game>
 	<game>
+		<path>./Metal Head (Japan, USA) (En) (Beta) (1994-12-20).zip</path>
+		<name>메탈 헤드 (일본,미국판)(영어)(베타)(1994-12-20)</name>
+		<image>./snap/Metal Head (Japan, USA) (En) (Beta) (1994-12-20).png</image>
+		<video>./video/Metal Head (Europe) (En,Ja).mp4</video>
+		<marquee>./marquee/Metal Head (Japan, USA) (En) (Beta) (1994-12-20).png</marquee>
+		<developer>세가</developer>
+		<publisher>세가</publisher>
+		<genre>시뮬레이션</genre>
+		<players>1</players>
+		<releasedate>19950201T000000</releasedate>
+	</game>
+	<game>
 		<path>./Metal Head (Japan, USA) (En,Ja).zip</path>
-		<name>메탈 헤드 (일본,미국판)(영어)</name>
+		<name>메탈 헤드 (일본,미국판)(영어,일본어)</name>
 		<image>./snap/Metal Head (Japan, USA) (En,Ja).png</image>
 		<video>./video/Metal Head (Europe) (En,Ja).mp4</video>
 		<marquee>./marquee/Metal Head (Japan, USA) (En,Ja).png</marquee>
@@ -1571,11 +1525,11 @@
 		<releasedate>19950000T000000</releasedate>
 	</game>
 	<game>
-		<path>./Pinocchio (Europe) (Proto) (1995-06-12).zip</path>
+		<path>./Pinocchio (Europe) (Proto) (1995-12-06).zip</path>
 		<name>피노키오</name>
-		<image>./snap/Pinocchio (Europe) (Proto) (1995-06-12).png</image>
-		<video>./video/Pinocchio (Europe) (Proto) (1995-06-12).mp4</video>
-		<marquee>./marquee/Pinocchio (Europe) (Proto) (1995-06-12).png</marquee>
+		<image>./snap/Pinocchio (Europe) (Proto) (1995-12-06).png</image>
+		<video>./video/Pinocchio (Europe) (Proto) (1995-12-06).mp4</video>
+		<marquee>./marquee/Pinocchio (Europe) (Proto) (1995-12-06).png</marquee>
 		<developer/>
 		<publisher/>
 		<genre/>
@@ -1667,18 +1621,6 @@
 		<releasedate>19940000T000000</releasedate>
 	</game>
 	<game>
-		<path>./Spot Goes to Hollywood (USA) (Proto).zip</path>
-		<name>스팟 할리우드에 가다</name>
-		<image>./snap/Spot Goes to Hollywood (USA) (Proto).png</image>
-		<video>./video/Spot Goes to Hollywood (USA) (Proto).mp4</video>
-		<marquee>./marquee/Spot Goes to Hollywood (USA) (Proto).png</marquee>
-		<developer/>
-		<publisher/>
-		<genre/>
-		<players/>
-		<releasedate/>
-	</game>
-	<game>
 		<path>./Space Harrier (Japan, USA) (En).zip</path>
 		<name>스페이스 해리어 (일본,미국판)(영어)</name>
 		<image>./snap/Space Harrier (Japan, USA) (En).png</image>
@@ -1689,6 +1631,18 @@
 		<genre>슈팅</genre>
 		<players>1</players>
 		<releasedate>19940000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Spot Goes to Hollywood (USA) (Proto).zip</path>
+		<name>스팟 할리우드에 가다</name>
+		<image>./snap/Spot Goes to Hollywood (USA) (Proto).png</image>
+		<video>./video/Spot Goes to Hollywood (USA) (Proto).mp4</video>
+		<marquee>./marquee/Spot Goes to Hollywood (USA) (Proto).png</marquee>
+		<developer/>
+		<publisher/>
+		<genre/>
+		<players/>
+		<releasedate/>
 	</game>
 	<game>
 		<path>./Star Trek - Starfleet Academy - Starship Bridge Simulator (USA).zip</path>
@@ -2051,18 +2005,6 @@
 		<releasedate>19950000T000000</releasedate>
 	</game>
 	<game>
-		<path>./T-MEK (USA, Europe).zip</path>
-		<name>티 멕</name>
-		<image>./snap/T-MEK (USA, Europe).png</image>
-		<video>./video/T-MEK (USA, Europe).mp4</video>
-		<marquee>./marquee/T-MEK (USA, Europe).png</marquee>
-		<developer>타임워너 인터렉티브</developer>
-		<publisher>비츠 소프트</publisher>
-		<genre>액션</genre>
-		<players>2</players>
-		<releasedate>19950000T000000</releasedate>
-	</game>
-	<game>
 		<path>./Stellar Assault (USA, Europe).zip</path>
 		<name>스텔라 어설트</name>
 		<image>./snap/Stellar Assault (USA, Europe).png</image>
@@ -2071,6 +2013,18 @@
 		<developer>세가</developer>
 		<publisher>세가</publisher>
 		<genre>슈팅</genre>
+		<players>2</players>
+		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./T-MEK (USA, Europe).zip</path>
+		<name>티 멕</name>
+		<image>./snap/T-MEK (USA, Europe).png</image>
+		<video>./video/T-MEK (USA, Europe).mp4</video>
+		<marquee>./marquee/T-MEK (USA, Europe).png</marquee>
+		<developer>타임워너 인터렉티브</developer>
+		<publisher>비츠 소프트</publisher>
+		<genre>액션</genre>
 		<players>2</players>
 		<releasedate>19950000T000000</releasedate>
 	</game>
@@ -2159,18 +2113,6 @@
 		<releasedate>19950000T000000</releasedate>
 	</game>
 	<game>
-		<path>./Time Warner 32X CMD Download Cartridge (USA) (Program).zip</path>
-		<name>타임워너 32X CMD 다운로드 카트리지</name>
-		<image>./snap/Time Warner 32X CMD Download Cartridge (USA) (Program).png</image>
-		<video>./video/Time Warner 32X CMD Download Cartridge (USA) (Program).mp4</video>
-		<marquee>./marquee/Time Warner 32X CMD Download Cartridge (USA) (Program).png</marquee>
-		<developer/>
-		<publisher/>
-		<genre/>
-		<players/>
-		<releasedate/>
-	</game>
-	<game>
 		<path>./Tempo (Japan, USA) (En) (Beta) (1995-02-07).zip</path>
 		<name>템포 (일본,미국판)(영어)(베타)(1995-02-07)</name>
 		<image>./snap/Tempo (Japan, USA) (En) (Beta) (1995-02-07).png</image>
@@ -2193,6 +2135,18 @@
 		<genre>플랫폼</genre>
 		<players>1</players>
 		<releasedate>19950000T000000</releasedate>
+	</game>
+	<game>
+		<path>./Time Warner 32X CMD Download Cartridge (USA) (Program).zip</path>
+		<name>타임워너 32X CMD 다운로드 카트리지</name>
+		<image>./snap/Time Warner 32X CMD Download Cartridge (USA) (Program).png</image>
+		<video>./video/Time Warner 32X CMD Download Cartridge (USA) (Program).mp4</video>
+		<marquee>./marquee/Time Warner 32X CMD Download Cartridge (USA) (Program).png</marquee>
+		<developer/>
+		<publisher/>
+		<genre/>
+		<players/>
+		<releasedate/>
 	</game>
 	<game>
 		<path>./Toughman Contest (USA, Europe).zip</path>
@@ -2565,5 +2519,41 @@
 		<genre>슈팅</genre>
 		<players>2</players>
 		<releasedate>19950601T000000</releasedate>
+	</game>
+	<game>
+		<path>./[BIOS] 32X M68000 (USA).zip</path>
+		<name>[바이오스] 32X M68000</name>
+		<image>./snap/[BIOS] 32X M68000 (USA).png</image>
+		<video>./video/[BIOS] 32X M68000 (USA).mp4</video>
+		<marquee>./marquee/[BIOS] 32X M68000 (USA).png</marquee>
+		<developer/>
+		<publisher/>
+		<genre/>
+		<players/>
+		<releasedate/>
+	</game>
+	<game>
+		<path>./[BIOS] 32X SH-2 Master (USA).zip</path>
+		<name>[바이오스] 32X SH-2 마스터</name>
+		<image>./snap/[BIOS] 32X SH-2 Master (USA).png</image>
+		<video>./video/[BIOS] 32X SH-2 Master (USA).mp4</video>
+		<marquee>./marquee/[BIOS] 32X SH-2 Master (USA).png</marquee>
+		<developer/>
+		<publisher/>
+		<genre/>
+		<players/>
+		<releasedate/>
+	</game>
+	<game>
+		<path>./[BIOS] 32X SH-2 Slave (USA).zip</path>
+		<name>[바이오스] 32X SH-2 슬레이브</name>
+		<image>./snap/[BIOS] 32X SH-2 Slave (USA).png</image>
+		<video>./video/[BIOS] 32X SH-2 Slave (USA).mp4</video>
+		<marquee>./marquee/[BIOS] 32X SH-2 Slave (USA).png</marquee>
+		<developer/>
+		<publisher/>
+		<genre/>
+		<players/>
+		<releasedate/>
 	</game>
 </gameList>
